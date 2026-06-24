@@ -1,0 +1,37 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're just coming back from break and I'm scheduled to have a meeting with Fuji Kiseki. I step in my office to find…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Zzz… Zzz…</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ngh?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "T-Trainer! I was just resting my eyes, I swear!",
+            "choice_data_list": [
+                "You can't lie to me. You were snoring."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Sigh.</i> I'm sorry you had to see me like that."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "One of my residents was inconsolable with homesickness last night, so I stayed by her side until she fell asleep… <i>Yaaawn.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki must not have gotten enough sleep herself because of that. She looks exhausted."
+        }
+    ]
+}

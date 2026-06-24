@@ -1,0 +1,37 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket mumbles sleepily…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Yawn…</i> I got so carried away watching race videos and reading manga and stuff…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I think the sun was up by the time I went to sleep… Now my eyelids are so heavy, I can't keep them open…",
+            "choice_data_list": [
+                "You shouldn't sleep so late."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wait, you mean I need to go to bed early?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Or do you mean… when it's late, I shouldn't sleep?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aaaah! I dunno what's what anymore!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After staying up all night, Winning Ticket can't even think straight."
+        }
+    ]
+}

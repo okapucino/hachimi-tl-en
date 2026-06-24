@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Vodka didn't show up for training, so I'm out looking for her…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh! I almost had it!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Guess I took the corner a little <i>too</i> hot. I've gotta slow down more next time.",
+            "choice_data_list": [
+                "That was close, huh?",
+                "That was close, huh?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, it's been a while since I played a motorcycle game. It was fun, but I wanna hurry up and get back on the real th—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer?! What're you doing here?!",
+            "choice_data_list": [
+                "It's time for training."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh!"
+        },
+        {
+            "name": "Vodka",
+            "text": "S-sorry, Trainer. I was close to setting a new record and lost track of time…"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'll be more careful next time! Catch ya later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka tries to run, but I catch her at the last second and give her a stern talking-to."
+        }
+    ]
+}

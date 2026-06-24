@@ -1,0 +1,25 @@
+{
+    "title": "Ready for a Challenge",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Gosh! Do they ever shut up? The audience is way too loud, right?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Familiar! Go out there and settle them down! Or better yet, just tell them all to shut it!",
+            "choice_data_list": [
+                "You want me to do what?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Just tell them Magical Girl Sweepy's gonna crush it out there, whether they scream or not."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nothing can stand up to a super genius's magic, so all they need to do is sit quietly and watch!"
+        }
+    ]
+}

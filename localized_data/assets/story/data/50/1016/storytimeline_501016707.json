@@ -1,0 +1,108 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Narita Brian and I are visiting a shrine."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hey, do we really need to ask the gods for help at this point?"
+        },
+        {
+            "text": "I've been worried about Narita Brian's condition recently, so I tell her that I'd like to pray for her health."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…You know, it's my responsibility to take care of myself. Not the gods' or Buddha's.",
+            "choice_data_list": [
+                "I just want to do whatever I can."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>…Sigh.</i> Fine, if you're going to insist."
+        },
+        {
+            "text": "I pray for Narita Brian's speedy recovery."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Okay, let's go.",
+            "choice_data_list": [
+                "What did you pray for?",
+                "What did you pray for?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I didn't pray for anything."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I just went along with it to make you feel better.",
+            "choice_data_list": [
+                "Sorry to make you do that…"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No matter. It's just a difference in customs. But, I will say this…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're the only one in charge of your own body. Victory is something you've got to take for yourself."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "It's not the gods that are going to answer your prayers…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "It's me.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hmph. If you got it, then let's go."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Although… I have to admit, there is a nice breeze here."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'm feeling pretty good. How about a quick run before going back?"
+        },
+        {
+            "text": "Perhaps it's just the nice change of pace, but Narita Brian seems to have a spring in her step."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Huh… The wind smells damp…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I don't like it…"
+        },
+        {
+            "text": "<i>Rumble, rumble… Drip drop…</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Agh! It's raining!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch! Let's hurry back!"
+        },
+        {
+            "text": "Perhaps we displeased the gods?"
+        },
+        {
+            "text": "Drenched by the rain, Narita Brian doesn't say another word the whole way back."
+        }
+    ]
+}

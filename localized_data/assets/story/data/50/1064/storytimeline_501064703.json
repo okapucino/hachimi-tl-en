@@ -1,0 +1,254 @@
+{
+    "title": "The Emotional Hazards of Being Considerate",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a fun day out, I ask Mejiro Palmer if there's anywhere else she'd like to go before we head back."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How about we switch things up today and go somewhere <i>you</i> wanna go, Trainer?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You're always busy, so I think a little break would do you some good!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's how we end up strolling around town, but we don't get far before…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Gasp!</i> They opened up a new golf shop here! Wooow, that driver looks like it can really let 'em fly!",
+            "choice_data_list": [
+                "Want to go in?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nah, it's fine. I can check it out another time. We're in the middle of a walk right now, after all!",
+            "choice_data_list": [
+                "(Huh?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Usually, she'd jump on the offer and fly right into the shop, but something feels off about her today. Her weird behavior continues too."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Which movie do I wanna watch? Honestly, the whole line-up looks super interesting, so whichever one you pick!",
+            "choice_data_list": [
+                "Then how about we watch the featured film of the month?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Let's see… Oh, that'll be <i>Brain-Bending Art Labyrinths</i> ! Always nice to try something new!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "W-whoaaa… U-ummm…"
+        },
+        {
+            "name": "Monologue",
+            "text": "They weren't kidding about the \"brain-bending\" part. Most of the movie went over my head. It was probably meant for art buffs."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whew! What a flick! It was just so… So fancy!",
+            "choice_data_list": [
+                "\"Fancy\" is one way to put it.",
+                "\"Fancy\" is one way to put it."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "For sure! The visuals sure packed a punch! Stuff always leaves so much bigger an impact when it's blown up on the silver screen!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Is something bothering me? Hm… Now that you mention it…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I've been getting a lot of sliced shots during golf lately, but that's about it."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How about you? Anything weighing you down recently? I'd be happy to lend you an ear, whatever it is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Every time I try to ask her what's wrong, she dodges the question and turns it back to me. Eventually, we wrap up our day out."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Welp! Here we are at my dorm. Today flew by, huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Thanks for the fun day! Did you enjoy it too?",
+            "choice_data_list": [
+                "I did, but…"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? Looks like something's troubling you big time. Well, come on, then! I'm here to listen!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm all ears to whatever you might be worrying about!",
+            "choice_data_list": [
+                "Did you really have fun today?",
+                "Did you really have fun today?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Of course, I did! Nothing makes me happier than seeing you enjoying yourself!",
+            "choice_data_list": [
+                "It's the same for me.",
+                "It's the same for me."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Um… I don't get what you're trying to say.",
+            "choice_data_list": [
+                "Did you <i>really</i> enjoy yourself?",
+                "Did you <i>really</i> enjoy yourself?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yep, sure did! Or I guess, I feel more relieved than anything 'cause I didn't cause you any trouble!",
+            "choice_data_list": [
+                "What? You never cause me any trouble!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No, but like, I do! And I did! Remember the other day?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You were planning to take care of some work, but you dropped everything just to help me sell all that milk."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That wasn't the only time, either. You're always putting my wants and needs ahead of yourself."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm happy and grateful that you've always got my back, for real! But like…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I don't want you to keep prioritizing me if it means neglecting your own wants and needs."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "So… yeah! That's why I decided to be more careful about that from now on!",
+            "choice_data_list": [
+                "Palmer…"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I guess you already saw right through me, though, huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I was really trying to act natural and stuff, but your sixth sense is, like, no joke!",
+            "choice_data_list": [
+                "You don't need to worry about me.",
+                "You don't need to worry about me."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Supporting you is what I live for.",
+                "Supporting you is what I live for.",
+                "Let's just carry on as we always have.",
+                "Let's just carry on as we always have."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Supporting you is what I live for.",
+                "Supporting you is what I live for.",
+                "Let's just carry on as we always have.",
+                "Let's just carry on as we always have."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh… Yeah, I gotcha. I mean, even when…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wait, hold the phone. What did you say just now?",
+            "choice_data_list": [
+                "What, \"Supporting you is what I live for\"?",
+                "What, \"Supporting you is what I live for\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, that! Do you realize what you just said?",
+            "choice_data_list": [
+                "Realize… what, exactly?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! Man, you're so oblivious sometimes! Not that that's a bad thing."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Anyway, I'm gonna head back now! See you tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch Mejiro Palmer jog back to her dorm, I can only hope she understood what I was trying to say."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hehe! Yeah, we were both acting mad sus today, weren't we?",
+            "choice_data_list": [
+                "I think we should just be ourselves."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, I'm there with you!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No more walking on eggshells! You be you and I'll be me. Now lemme hear you say, \"Waheeey!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, the Mejiro Palmer I know is back. What a relief."
+        }
+    ]
+}

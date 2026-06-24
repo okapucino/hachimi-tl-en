@@ -1,0 +1,215 @@
+{
+    "title": "妖怪変化もなんのその！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-whoa! No wonder everyone's been talking about this haunted house. I-it's terrifying!",
+            "choice_data_list": [
+                "Y-yeah…",
+                "Y-yeah…"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right, Kita, tell me how you're feeling! Which parts really scared you? When were you the most rattled?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser rapidly scribbles notes while a rattled Kitasan Black recounts her experience. This all started a few hours ago…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hm, you can't make the haunted house scary enough, you say?"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Right. I want to make it the main attraction of the shopping district's Gratitude Festival, but I can't make it scary enough."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And seeing as I always shop here, I want to help! But, well… all my ideas are mediocre at best!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A h-haunted house, huh? Yeah… Yeah, I can h-handle that!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "L-let's do some research on what makes them so scary! Don't worry, you can count on me… b-because I'm terrified of monsters and ghoulies!",
+            "choice_data_list": [
+                "That just makes me <i>more</i> worried!",
+                "That just makes me <i>more</i> worried!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But it's precisely because I'm terrified of that kinda stuff that I'll be a good reference! I'm sure I can be of help with this!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I really want to see this festival work out, so I'll do everything I can to make it happen!",
+            "choice_data_list": [
+                "Kitasan…"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Urgh… I'm so sorry for putting you through this, but thank you, thank you! Tell me if it's too much, though, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we head out to research spooky things that might help raise the fear factor in the haunted house…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, it's not so scary right now. In fact, the blue light actually looks quite pleasant… Hehe…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "H-hey, do you guys hear something? It sounds like a child's voice…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Let's… play… tag…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "AHHH! Zombie, zombie, zombiiieee! ARGGGHHH! They're everywhere!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "There are so many! It sure is scary being chased by a whole horde of them!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Maaan, that was horrifying! No wonder everyone is talking about this movie!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I can still see how the character's long hair and smile looked, reflected in the window. A-and then there was the… Urrrgh! It was so scary!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I won't ever be able to look through a window at night again! Or under my bed… or at the bathroom mirror, for that matter!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah, their smile and hair looked extra spine-chilling mirrored in the glass! Just thinking of that part is making my hand shake as I write!",
+            "choice_data_list": [
+                "Maybe it's time to call it quits…"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "N-no way! I'm still good! Come on, let's hurry to the next thing while I'm still conscious!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black puts on a brave face for the sake of the shopping district despite being scared out of her mind."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "R-r-right! If we use the material we gathered as a reference, we'll be sure to make the haunted house even scarier!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks so much for your help! I managed to get loads of good ideas! All that's left is…"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Urgh! I won't let anyone say our haunted house isn't up to scratch after all the hard work we put into it! Hang on a second!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Okay, all the final touches are complete! Let me know your honest opinions!",
+            "choice_data_list": [
+                "Let's go, Kitasan!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Got it! This is my final duty… I'll bear witness to the culmination of everyone's blood, sweat, and tears!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eep! I-I saw someone peeking through the window just now…"
+        },
+        {
+            "name": "???",
+            "text": "RAAAGH!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eeeek! N-nooo! They're chasing me!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "K-Kita! Are you okay?!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "I heard you scream, but… Well, what'd you think of the haunted house?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "…!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It scared the life outta me! My heart is still racing at a million miles a minute!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I thought I was alone until I saw a ghost standing silently and smiling at me! And then a whole crowd of them chased after me at the very end!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You'll be fine! This haunted house is guaranteed to be a huge hit! In fact, I'm giving it my seal of approval!",
+            "choice_data_list": [
+                "I can't wait for the day of the event!",
+                "I can't wait for the day of the event!",
+                "You might've been terrified the whole time, but it all paid off!",
+                "You might've been terrified the whole time, but it all paid off!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You'll be fine! This haunted house is guaranteed to be a huge hit! In fact, I'm giving it my seal of approval!",
+            "choice_data_list": [
+                "I can't wait for the day of the event!",
+                "I can't wait for the day of the event!",
+                "You might've been terrified the whole time, but it all paid off!",
+                "You might've been terrified the whole time, but it all paid off!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah! I'm sure visitors will appreciate how much hard work went into this!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Most importantly, I'm sure the guests will be able to tell just how much fun <i>we</i> want them to have as well!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Hehe, thanks! We couldn't have done all this without your help! We're going to put on one heck of a festival for everyone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I get a warm, pleasant feeling watching Kitasan Black interacting with the spirited shopkeeper."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Y-yeah, exactly! Sometimes having a weakness can actually be useful!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But… well…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "When it's time for the actual festival… make sure you stay by my side, okay?"
+        }
+    ]
+}

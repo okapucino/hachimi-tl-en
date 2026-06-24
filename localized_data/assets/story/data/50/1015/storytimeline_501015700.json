@@ -1,0 +1,38 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Yaaawn…</i> It seems that I am visited by a fairy of slumber.",
+            "choice_data_list": [
+                "You look pretty sleepy.",
+                "You look pretty sleepy."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Indeed. My rendezvous with the full moon lasted the whole night through."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Its wondrous white glow filtered into my room. Entranced, I opened my window, and then I sensed it."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I felt the loneliness and longing of one who can only visit me once in a month!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "For that pitiful moon, I recited the heroic tales of the Overlord until dawn.",
+            "choice_data_list": [
+                "No wonder you're tired!",
+                "No wonder you're tired!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I end the meeting early so Opera O can get some rest."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I need to ask Narita Taishin something, so I go looking for her on the rooftop. I don't see her right away, but then I hear a voice…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, another ad? I've hardly been able to progress the story because of these damn ads…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh, what's this one? \"Real results in just three days!\" \"Get rid of old, dead skin cells!\" \"Reveal a fresher, brighter you!\""
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmm…",
+            "choice_data_list": [
+                "Don't even think about buying shady products like that!",
+                "Don't even think about buying shady products like that!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whoa! Don't scare me like that. I'm not gullible enough to believe something so stupid, anyway!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So she says, but it seems like she's worried about her skin."
+        }
+    ]
+}

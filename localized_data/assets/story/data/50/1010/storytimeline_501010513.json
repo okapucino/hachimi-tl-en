@@ -1,0 +1,146 @@
+{
+    "title": "ハヤウチ・バトル！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Taiki Shuttle asks me to meet her in the central plaza."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. I thought ya wouldn't show up, Trainer. Or should I say—<i>outlaw!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Your crimes stop today, ya hear? I hope you're ready to get a belly full of lead!",
+            "choice_data_list": [
+                "What crimes?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You've been workin' up a storm lately, but I haven't seen one bit of relaxing!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're gonna burn up all the midnight oil with so much overtime! All work and no play is no laughin' matter!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So you're spendin' the day with me and giving that body and mind of yours some rest!",
+            "choice_data_list": [
+                "My workload <i>has</i> been a little heavy lately…"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Right? Here's the deal. I'm a gunslinger, and you're part of a band of outlaws!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Time to duel! Let's see who's the fastest gun in Tracen!",
+            "choice_data_list": [
+                "Okay, you're on!",
+                "Okay, you're on!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's the spirit!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ready to square off? Soon as the bell rings, whip out your shooter and… <i>bang!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "My bullets blast right through evil, bringing peace back to the Wild West!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All righty—let's do this! Wait for it… Wait for it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding-dong, bing-bong…</i>",
+            "choice_data_list": [
+                "Bang!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Bang!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, that was a close one! And the winner is…",
+            "choice_data_list": [
+                "Taiki Shuttle.",
+                "Me."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw! Victory is mine!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe… There's nothin' slow about your shot, Trainer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But you're too much of a greenhorn to match <i>my</i> quick draw!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. Know what happens if ya get hit?",
+            "choice_data_list": [
+                "What happens?",
+                "What happens?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It means you're dead and gone! Night night! So cut it out with the overtime and get to sleepin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, but ya won't be down-and-out forever! Once you're feelin' better, get on back here. I'll be lonely without ya around."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki forces me to take a break. Thanks to her act of kindness, I'm able to get some much-needed rest."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hm… You're a tough outlaw, ain't ya?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But ya slipped up. Ya shoot, you're guilty!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "See, I'm the sheriff in these parts. I gotta book ya now for shootin' somebody. And your punishment is…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're goin' straight to the hoosegow! Time to take a load off!",
+            "choice_data_list": [
+                "Um… Meaning what exactly?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It means I want ya to kick your feet up! It's not your fault—your weary bones are the culprit!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, off to the hoosegow with ya! And don't ya make a peep, or you're gettin' solitary!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not a hundred percent sure what she's saying, but it seems I've been given the day off to relax."
+        }
+    ]
+}

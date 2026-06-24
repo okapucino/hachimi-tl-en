@@ -1,49 +1,53 @@
 {
-    "no_wrap": true,
+    "title": "不在の理由は……",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "After Sakura Bakushin O didn't show up to \npractice, the next morning……when I headed \nto the Trainer's office, I heard a strange \nvoice."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O didn't turn up for training yesterday. Today, I hear a strange voice when I enter my office."
         },
         {
             "name": "???",
-            "text": "One! Two! Threeeee―!"
+            "text": "And… that goes over there… Done!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Welcome, Trainer! \nWe have just finished the banners for the \npress conference!"
+            "text": "Welcome, Trainer! I've just finished making the conference banner!"
         },
         {
-            "text": "Surprised, I look down at her feet and saw \na banner that read…… \n\"Sakura Bakushin O, Apology Conference!\" \nspread out on the floor.",
+            "name": "Monologue",
+            "text": "Surprised, I glance at the unfurled banner by her feet… It reads \"Sakura Bakushin O's Apology Conference.\"",
             "choice_data_list": [
-                "You don't have to go that far…"
+                "You didn't need to go that far."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But I do! As the exemplary class president, \nI have to draw the line!"
+            "text": "No, as a class representative, I'm supposed to be a role model. I have to take responsibility for my mistakes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, I will begin my apology conference! \nI am well and truly, deeply, honestly…… \nsorry!"
+            "text": "Okay, let's kick off the apology conference! I would like to offer my sincerest apologies!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "On the Bakushin road that goes straight \ndown… I forgot myself, I began to run… \nand before I knew it, it was night…!",
+            "text": "I was blasting along a Bakushin-worthy straight… and I got lost in the moment. Before I realized it, it was already night!",
             "choice_data_list": [
-                "Alright, just be careful next time.",
-                "Okay, just be careful next time."
+                "All right. Just be careful next time.",
+                "All right. Just be careful next time."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I promise! \nI will never be tempted again!"
+            "text": "I promise! I won't fall into temptation a second time!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And now! \nI plan to use this banner as a quilt!!"
+            "text": "To reflect, I've decided to use this banner as my bed sheets going forward!"
         },
         {
-            "text": "…She expressed enough remorse that I \nstopped her from going that far."
+            "name": "Monologue",
+            "text": "I figure she has expressed her sincere regrets rather clearly, so I stop her from going any further."
         }
     ]
 }

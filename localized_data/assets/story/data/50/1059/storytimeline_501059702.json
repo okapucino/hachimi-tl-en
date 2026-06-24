@@ -1,0 +1,277 @@
+{
+    "title": "今のアタシは……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm making my way home with Mejiro Dober after checking out the stores around the station when…"
+        },
+        {
+            "name": "Girl A",
+            "text": "Hey, Dad? Can we stop by the shrine festival on the way home? Pleeease?"
+        },
+        {
+            "name": "Girl's Father",
+            "text": "All right, but we're only staying for a little while."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh. I didn't know there was a festival today.",
+            "choice_data_list": [
+                "Would you like to go take a look?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! N-no… I never said I wanted to!",
+            "choice_data_list": [
+                "Well, <i>I'd</i> like to check it out, so let's go.",
+                "Well, <i>I'd</i> like to check it out, so let's go."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, it's all right. I just didn't know it was happening.",
+            "choice_data_list": [
+                "Well, <i>I'd</i> like to check it out, so let's go.",
+                "Well, <i>I'd</i> like to check it out, so let's go."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? B-but…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? B-but…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Geez. You're so pushy…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh…</i> Fine. But just for a bit."
+        },
+        {
+            "name": "???",
+            "text": "Berry? Is that you?"
+        },
+        {
+            "name": "???",
+            "text": "Berry? Is that you?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "D-Dad?! What are you doing here?!"
+        },
+        {
+            "name": "Dober's Father",
+            "text": "I'm here on a business trip. I was just on my way to see you, Berry!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh! I'm not a child anymore, so stop calling me that!"
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Haha, of course. A child couldn't be working so hard at Tracen Academy."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "You must be her trainer. Thank you for always taking care of my daughter. I've heard so much about you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-it's not like I talk about you all the time! I just keep him updated on how things are going."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well… I can't really tell him about how things are going without mentioning you."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Dober says she really appreciates all you do for her. Keep up the good work!"
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Dober says she really appreciates all you do for her. Keep up the good work!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "H-hey! Cut it out already!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Stop being such a busybody, Dad! I can thank her myself."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "A festival, eh? Brings back memories… I remember taking you to one when you were little."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "A festival, eh? Brings back memories… I remember taking you to one when you were little."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…That was ages ago."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "At the very end of the festival, they sent up the fireworks, and you reacted in the sweetest way."
+        },
+        {
+            "name": "Young Dober",
+            "text": "Wow! Look at all the shooting stars! I have to hurry and make a wish before they're gone!"
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Haha! Those aren't shooting stars, honey. They're called fireworks."
+        },
+        {
+            "name": "Young Dober",
+            "text": "What?! No way, they're definitely shooting stars! They're gonna make my wish come true!"
+        },
+        {
+            "name": "Young Dober",
+            "text": "Star light, star bright, I wish to become a big, strong racer who can win any race!"
+        },
+        {
+            "name": "Dober's Father",
+            "text": "That's how I remember it.",
+            "choice_data_list": [
+                "Aww…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What's with that look on your face? Wipe it off this second!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "D-don't laugh at me! I know the difference between them now."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Haha. I'm just glad you're doing well. Ever since you started competing, I've been worried you've been pushing yourself too hard."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Haha. I'm just glad you're doing well. Ever since you started competing, I've been worried you've been pushing yourself too hard."
+        },
+        {
+            "name": "Dober's Father",
+            "text": "Well, I wish I could stay longer, but I have to get going. I'll see you later, Berry."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Dad! How many times do I have to tell you to stop… Ugh, never mind. Bye, Dad."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh.</i> I thought I'd grown after I started competing seriously…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But if I'm still making him worry, it must mean I have a long way to go.",
+            "choice_data_list": [
+                "Hey, no need to get down about that."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-I'm not! This has nothing to do with you anyway!",
+            "choice_data_list": [
+                "Let's work even harder to show him how great you've become.",
+                "Your dad's already proud of you."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I know… But it still bothers me.",
+            "choice_data_list": [
+                "Let's work even harder to show him how great you've become.",
+                "Your dad's already proud of you."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Even harder…",
+            "choice_data_list": [
+                "Hard enough to relieve him of his worries!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Even harder…",
+            "choice_data_list": [
+                "Hard enough to relieve him of his worries!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't need you giving me a pep talk! I'm going to win all my races and make a name for myself!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…You're right. Instead of sitting around and being sad about it, I need to do something."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…And I'm going to do it by growing faster, stronger."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm going to grow faster and stronger—strong enough to hold my head up high for my dad!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's determination gleams brilliantly in her intense gaze."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's determination gleams brilliantly in her intense gaze."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? And how would you know that?",
+            "choice_data_list": [
+                "I could tell how important you are to him.",
+                "I could tell how important you are to him."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…How can you know? You're not him.",
+            "choice_data_list": [
+                "I could tell how important you are to him.",
+                "I could tell how important you are to him."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…To him, I'm still his little girl. He's always been overprotective, always worried sick over every little—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh… Then you get how I feel, right? It hurts because I know how much he loves me. I don't want to make him worried all the time."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh.</i> Maybe if I grow stronger, he'll see I can stand on my own."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's why I need to grow faster and stronger—strong enough to hold my head up high for my dad!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she acts annoyed at her father, her drive to grow as a racer is sincere and firm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's determination gleams brilliantly in her intense gaze."
+        }
+    ]
+}

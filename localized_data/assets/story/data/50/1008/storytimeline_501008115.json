@@ -1,0 +1,191 @@
+{
+    "title": "晴れのちスリッピー",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Screeeeech!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day we leave for Europe has finally arrived. If we want to enter an international G1 race, it's best to run in a lighter race first."
+        },
+        {
+            "name": "Vodka",
+            "text": "Heheh. We won't be back till fall, Trainer."
+        },
+        {
+            "name": "Vodka",
+            "text": "Let's make sure we bring a big trophy back with us as a souvenir."
+        },
+        {
+            "name": "Vodka",
+            "text": "Well, let's head out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop!</i>",
+            "choice_data_list": [
+                "I think I just heard a strange sound."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Now I've done it…",
+            "choice_data_list": [
+                "Done what?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I messed up. I made a really cool turn around that corner, and ended up twisting my ankle.",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wee woo wee woo…</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How can you be so dumb!?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet's voice seems to pierce through the walls of the infirmary."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You made a huge deal out of going abroad! You even got me involved in it and caused a huge commotion!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And then you twist your ankle, not even during training, but <i>at the airport?!</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Yeah, I get it. I'm pathetic. Sorry."
+        },
+        {
+            "name": "Vodka",
+            "text": "Things like this happen sometimes. You can't have sunshine every day."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm not talking about sunshine! What are you going to do now?"
+        },
+        {
+            "name": "Vodka",
+            "text": "That's… up to Trainer.",
+            "choice_data_list": [
+                "We're gonna have to put the trip on hold for now.",
+                "We're gonna have to put the trip on hold for now."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, I guess there's no helping it."
+        },
+        {
+            "name": "Monologue",
+            "text": "We have no choice but to rest for a few days and then start reorganizing ourselves for autumn."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But… this might be a good thing for me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If you went abroad and never came back, we might've never settled our unfinished business."
+        },
+        {
+            "name": "Vodka",
+            "text": "What do you mean?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "When you said you were going to the Derby, I felt like you were just some kind of aimless, impulsive punk."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I thought I'd close the book on our rivalry right there. But then…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I saw you in the Derby and felt like I lost. You were on a whole different level."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I realized then that there was no way you could do what you did unless you were truly strong inside. I was absolutely speechless…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Really? I coulda sworn you said ya weren't even gonna watch the Derby."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I know! But I watched it anyway! J-just cause I was bored and it happened to be on the TV!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Anyways, since you weren't in the Japanese Oaks, I swore I'd find another race to settle our score…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So hurry up and get better, okay? You're tough, so I'm sure you'll heal up in no time."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "While you're recovering from your setback, I'm going to be getting stronger! I'll be so strong that you'll definitely want to run against me!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Just wait until fall. I'm not letting you off the hook. Or more like, <i>you'll</i> be begging to race <i>me!</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And I'll be the one to walk away victorious. You'd better be ready."
+        },
+        {
+            "name": "Vodka",
+            "text": "Scarlet…"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right. I have no idea what's gonna happen, but this is me we're talkin' about."
+        },
+        {
+            "name": "Vodka",
+            "text": "When the time comes, I'll be there to run."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. I'm holding you to that."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "See you later. You'll be sleeping here tonight, won't you? Go ahead and get some rest. I'll take your suitcases back to our room."
+        },
+        {
+            "name": "Vodka",
+            "text": "Man, she's a fiery one. But… I think I might have caused her some trouble."
+        },
+        {
+            "name": "Vodka",
+            "text": "And you too, Trainer. After all you did to get us ready to go.",
+            "choice_data_list": [
+                "Don't worry about it. There's never a dull moment with you.",
+                "Don't worry about it. There's never a dull moment with you."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Haha. You sure are crazy, partner. Completely different from <i>her.</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "Welp, I guess I'll be sleeping in my own lameness tonight. I'm sure the sun will come out again someday…"
+        }
+    ]
+}

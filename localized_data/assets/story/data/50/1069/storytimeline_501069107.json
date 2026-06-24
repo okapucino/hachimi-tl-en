@@ -1,0 +1,257 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Sakura Chiyono O contacts me to let me know she's going to be late for training."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are plenty of tasks I can do on my own until she gets here. I'm getting things ready for her arrival when…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Waaah! Look! Maruzensky's running!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Huff…</i>"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Wow! She's so cool! But… is it just me, or does her running lack the oomph it used to have? Maybe it's just my imagination…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Dummy. It's been a while since she's run, so of course she can't go full tilt right away."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I bet she's running at 70% capacity or so until she gets back into the groove of things."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Oh, that makes sense! I can't wait to see her when she's at full power again!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm… If only that were the case…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So my full-out sprint just looks like a warm-up jog to others now…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…But they're right. This isn't me. The Umamusume Chiyo looks up to is better than this…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Time to clean the rust off my gears!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm so sorry I'm late, Trainer! Let's have a good day of training!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow, there sure are a lot of people around today! Did something happen?",
+            "choice_data_list": [
+                "Maruzensky was just running."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "WHAAAT?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Why didn't you message me?! I wanted to watch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O starts trembling like a puppy. It's been a long time since I've seen her like this.",
+            "choice_data_list": [
+                "You really look up to Maruzensky, huh?",
+                "You really look up to Maruzensky, huh?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Of course I do. I wouldn't try so hard to be like her if I didn't."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Back when I was ready to give up and accept my fate as an average Umamusume, she showed me a future where I blossom."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And you…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're the one helping me toward that future. Happy Valentine's Day, Trainer.",
+            "choice_data_list": [
+                "Were you late because you were busy making this?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…What?! No, um, I…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Please just accept the gift and don't worry about how it might be connected with my lateness…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "B-but I suppose that doesn't make things any less awkward… Hmmm…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, I know! In exchange for you accepting this, can I ask you for a favor?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Could you please tell me what Maruzen's running was like?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If you tell me, we can count that as your return gift for these chocolates. What do you think?",
+            "choice_data_list": [
+                "Are you sure that's all you want?",
+                "Are you sure that's all you want?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! But you have to tell me everything in full detail!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I try to describe Maruzensky's running to Sakura Chiyono O in as much detail as possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I try to describe Maruzensky's running to Sakura Chiyono O in as much detail as possible."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whew… That was a lot of work. I guess that's it for training today!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll see you tomorrow!",
+            "choice_data_list": [
+                "Yeah, see you tomorr…oh…",
+                "Yeah, see you tomorr…oh…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As Sakura Chiyono O waves goodbye, I suddenly remember the chocolates from her in my pocket."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What's wrong, Trainer?",
+            "choice_data_list": [
+                "Let me treat you to something."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Munch! Gulp!</i> Phew! This sure is delicious."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Are you sure you're okay with paying for this?",
+            "choice_data_list": [
+                "It's not a problem at all."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Hehe. I can't believe I'm getting treated to meat buns in exchange for giving you chocolate. I'm so lucky!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Phew! Thank you so much for the treat. We even finished eating at the same time!",
+            "choice_data_list": [
+                "I only had one."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. True…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "How about we get one more? I'll split it with you.",
+            "choice_data_list": [
+                "No need to hold back. You can get another bun for yourself."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow! Are you sure?! Yayyy!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maybe I'll get a chocolate bun, since it's Valentine's Day and everything."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O turns to dash off to the convenience store, but…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wh-whoa!",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She stumbles and nearly does a face plant. In the nick of time, I grab her shoulders and pull her back up."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sorry… My legs got all tangled up…",
+            "choice_data_list": [
+                "You have to be careful."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I know… I can't believe I just did something so silly in front of you…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sigh…</i> But…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… The way you saved me just now… It made you seem even cooler than usual."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. I got to see such an awesome side of you today, Trainer.",
+            "choice_data_list": [
+                "Hey, don't get too carried away."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okaaay."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch over Sakura Chiyono O to make sure she doesn't trip again on our way back to the academy."
+        }
+    ]
+}

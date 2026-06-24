@@ -1,0 +1,98 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "<i>Huff… huff… huff…</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Is that… Brian?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(She's so powerful and independent. I bet no one makes fun of her.)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(To think, even someone as talented as her stays so late to train…)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Trainer, think up some extra training for me.",
+            "choice_data_list": [
+                "You planning to solo train?",
+                "You planning to solo train?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah. I need to keep practicing if I'm ever gonna catch up to the top racers."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't want to be some coward who's always chasing after everyone.",
+            "choice_data_list": [
+                "All right! Let's do it!",
+                "You should work at your own pace."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I warn her not to overdo it but agree to add more to her regimen."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(One day, I'm going to be just like her. No, that's not enough—I'll beat her!)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Huh… Is that Taishin?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hmm, that's some nice running she's doing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin is totally fired up and keeps at her extra training until it's almost curfew."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "If that's the case, then I'll change my pace to match Brian's!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I won't get stronger if I don't work at the same pace as someone who's better than me!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You two! Fighting's prohibi—oh, Taishin. What happened here?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And there's Brian. I know exactly what she'd say if she heard you, Taishin."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "\"Crush everyone by running the way you want instead of forcing yourself to run like someone else. It feels better, and you can get stronger too.\""
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Personally, I would also suggest you run at your own pace.",
+            "choice_data_list": [
+                "Sounds like her.",
+                "Sounds like her."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Grr!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin doesn't seem fully convinced, but she nods bitterly and takes a break."
+        }
+    ]
+}

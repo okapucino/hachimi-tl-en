@@ -1,56 +1,62 @@
 {
-    "no_wrap": true,
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It's been quite the ride with Gold Ship \nin her quest for Eden so far, but—"
+            "name": "Monologue",
+            "text": "Even though I got caught up in Gold Ship's quest to find Eden…"
         },
         {
-            "text": "We somehow managed to \nget ready for her debut…"
+            "name": "Monologue",
+            "text": "I somehow still managed to get her ready for her debut."
         },
         {
-            "text": "If there's anything to be concerned about, \nit's Gold Ship's mood. However—"
+            "name": "Monologue",
+            "text": "If I'm worried about anything right now, it's about how Gold Ship is feeling. She, however…"
         },
         {
             "name": "Gold Ship",
-            "text": "Yeah, that's it! \nAwesome, go for it!"
+            "text": "Oh, good job! Yes, come on! Keep it up!"
         },
         {
             "name": "Gold Ship",
-            "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!",
+            "text": "Now it's just a matter of when to shake! D'aww, I just can't stop watching!",
             "choice_data_list": [
-                "What are you looking at……?",
-                "What are you looking at……?"
+                "Watching what?",
+                "Watching what?"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Huh? What, you say? A chihuahua \nthrough a chikuwa."
+            "text": "I'm watching that chihuahua over there through this stick of chikuwa."
         },
         {
             "name": "Gold Ship",
-            "text": "There are things to be learned by peering \nthrough the narrow field of view of the \nchikuwa's hole."
+            "text": "There are some things that are only comprehensible when seen through the small hole of a chikuwa."
         },
         {
             "name": "Gold Ship",
-            "text": "That chihuahua must have thought long \nand hard about the timing to give its paw."
+            "text": "That chihuahua must be thinking hard about the best time to hold out its paw for a shake, no doubt."
         },
         {
             "name": "Gold Ship",
-            "text": "The same way horsegirls think about when \nto start spurting, how to make their moves."
+            "text": "It's the same focus we Umamusume have when we're thinking about the best time to make our move during a race."
         },
         {
-            "text": "I'm not sure I follow but it seems \nGold Ship is thinking about the race \nin her own way… I believe?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Whoa, it finally moved―"
+            "name": "Monologue",
+            "text": "Her comparison is hard to follow, but I guess Gold Ship must be thinking about the next race… in her own unique way."
         },
         {
             "name": "Gold Ship",
-            "text": "Yooo what the, she went with <i>down</i> \ninstead! You're supposed to <i>shake</i>!"
+            "text": "Ah! It's made its move!"
         },
         {
-            "text": "Either way for now it seems all I can do \nis pray she takes the race seriously…!"
+            "name": "Gold Ship",
+            "text": "What?! Why is it lying down now of all times?! That was obviously the moment to do a paw shake!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, I just have to pray she gives it her all out on the racecourse!"
         }
     ]
 }

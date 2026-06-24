@@ -1,0 +1,33 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Admire Vega completes her training routine quicker than usual today.",
+            "choice_data_list": [
+                "Want to run a little more?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…I'm going to call it a day."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't want to be seen like this… Not by <i>anyone.</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm heading back to the dorm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega usually runs until the stars come out, so it's strange for her to cut her training short."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be feeling worn out. I should probably adjust her race schedule."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "title": "等価交換？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way back from an outing with Meisho Doto when she asks to stop by the sporting goods store."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry for dragging you along… My shoes never seem to last very long…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I must be falling over too much—that must be it. I've tried to be more cautious, but…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh… Doto? So, you're looking to buy some new shoes too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look over and meet the intimidating gaze of a punkish Umamusume. If I'm not mistaken, this is Doto's roommate, Air Shakur."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um… are you planning on buying something, Shakur?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Nah, I'm heading out. This place's supposed to be where all the sneakerheads go, but a shop that doesn't show product specs isn't worth my time."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "See ya, Doto."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto is yet to take her eyes off Air Shakur, even as she walks off.",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No, it's nothing, except… she couldn't pick out… any shoes."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I was just wondering… maybe I can change that? I've been such a nuisance to her up till now."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm so forgetful… and Shakur knows that, so she makes the effort to check in on me."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I want to give her my thanks, but… I always figure she'll just find it annoying."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Although… maybe I can help her find what she's looking for.",
+            "choice_data_list": [
+                "Should we go catch her before she leaves?",
+                "Should we go catch her before she leaves?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes! Let's hurry!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Shakur, w-wait a second!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Doto? Look where you're going, or else you'll fall. You want something?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry… I just, um, would like to help you with your shopping…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I go through my shoes very quickly… so I've tried on quite a few in my time."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I've even made notes on all the shoes I've owned and how I ruined them. Maybe you could make some use of it… or maybe not."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whoa… So you've kept records of how durable your shoes were. Can't say I'm <i>not</i> interested."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What're you trying to get out of me, though? Info like this doesn't come for free."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No, I didn't mean anything like that… I just want to repay you, since you're always… looking… out for me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Since when? I don't watch anyone's back but my own, so if you wanna strike a deal, make it quick. C'mon."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-make it quick? But, I… Wh-what should I do, Trainer?",
+            "choice_data_list": [
+                "In exchange, Air Shakur should join us for training.",
+                "Air Shakur should give us her recommendation, too!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Tch. Your trainer's pretty sharp. I don't usually let people see my training. Y'know, data privacy and all that."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, th-that makes sense. T-training with someone like me would only cause you trouble… I'm s-so sorry!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's cool. I don't mind… if you let me have a thorough look at that data of yours when we're back at the dorm."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can do that, no problem! But… is that really okay for you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I later learn that their data analysis lasted well into the night, and Meisho Doto was elated to have been considered useful."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If that's your idea of making things even… Try the brand over by the entrance. Either the red or purple ones."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All the specs are written out on their website. The red ones are made to last. The purple ones have good grip, so they'll help you trip less."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Considering your running style and flexible knees, I'd say those two are your best bet."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-wooow… Thank you very much! I'll, um, buy them both!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Both? Has anyone ever told you you put way too much faith in others? Whatever. Send me the data you've recorded after trying them out."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Okay, got it! I'll buy them now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto is more than excited to head back inside. She must be really happy Air Shakur gave her some advice."
+        }
+    ]
+}

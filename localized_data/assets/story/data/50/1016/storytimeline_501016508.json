@@ -1,0 +1,42 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Cafe Lady",
+            "text": "Thanks for waiting! Here you are! The Special Stamina Sanzoku Fried Chicken Set with five extra pieces and side of ginger pork!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "I find Narita Brian in the cafeteria with a meal resembling something out of a food challenge.",
+            "choice_data_list": [
+                "What's with that lunch?!",
+                "What's with that lunch?!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ah… I feel a bit off at the moment."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I've learned from experience that whenever I'm tired, meat's the way to go."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Once I eat meat, that usually fixes whatever's wrong."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if this wild form of self-care really will make her feel better."
+        },
+        {
+            "name": "Monologue",
+            "text": "I may want to rethink her race schedule…"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "order from client",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I see Gold City talking with Director Akikawa in the central plaza."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Many thanks! I apologize for being so abrupt, but in order to accommodate the delivery date…"
+        },
+        {
+            "name": "Gold City",
+            "text": "I understand. You can leave it to me.",
+            "choice_data_list": [
+                "What was that about?",
+                "What was that about?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "They're planning a photo shoot for the welcome brochure to give to new students. I was asked to sub in for the model."
+        },
+        {
+            "name": "Umamusume on the Phone",
+            "text": "Ahhh… I'm sorry! <i>Hic…</i> Why did I have to catch a cold now of all times?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Wh-whoa, please don't cry! We all come down with a cold from time to time."
+        },
+        {
+            "name": "Gold City",
+            "text": "Excuse me… Could I talk to her?"
+        },
+        {
+            "name": "Gold City",
+            "text": "No need to cry. I'll be covering for you, okay?"
+        },
+        {
+            "name": "Umamusume on the Phone",
+            "text": "<i>Sniffle…</i> I'm s-sorry I'm such a burden to everyone…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Come on, you know that's not true. All you need to focus on now is getting better!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Eat something nutritious and get some rest! That's all I have to say, okay?"
+        },
+        {
+            "name": "Umamusume on the Phone",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Good answer. If you can give that good of a response, you'll be landing another job in no time."
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, let's get started. I'll be needing my signature racewear in addition to our uniform, right?"
+        },
+        {
+            "name": "Photographer",
+            "text": "Let's start with some shots of you coming to school!"
+        },
+        {
+            "name": "Photographer",
+            "text": "Okay, let's move inside the school grounds! That's it! I like that face!"
+        },
+        {
+            "name": "Photographer",
+            "text": "All right, let's get into that signature racewear now. Whoa, that's very cool! Give me one more!"
+        },
+        {
+            "name": "Gold City",
+            "text": "All right. Now, some running shots to wrap up."
+        },
+        {
+            "name": "Photo Shoot Staff A",
+            "text": "Amazing… She knows just what we're looking for. So glad we're working with a pro."
+        },
+        {
+            "name": "Photo Shoot Staff B",
+            "text": "I know. She's amazing. The shoot's going so smoothly we'll probably be done an hour early."
+        },
+        {
+            "name": "Monologue",
+            "text": "The staff is right—Gold City has been nothing but professional during the shoot."
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks different from when she usually runs. Her radiance makes her appear… distant."
+        },
+        {
+            "name": "Photographer",
+            "text": "We've got just a few shots left, so show me your top asset!"
+        },
+        {
+            "name": "Gold City",
+            "text": "My top asset…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, Trainer. Can I talk to you for a second?",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yes, you. What do you think is my best asset?",
+            "choice_data_list": [
+                "The willpower to push forward.",
+                "Your gritty personality?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, I didn't know you thought that about my running.",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh… A bit overdramatic, but thanks."
+        },
+        {
+            "name": "Gold City",
+            "text": "Pfft."
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha, you're sending me. I'm \"gritty,\" huh?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hehe. You're pretty much the only one who'd tell me something like that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Gold City goes to take her last few shots."
+        },
+        {
+            "name": "Gold City",
+            "text": "Thanks, guys."
+        },
+        {
+            "name": "Photo Shoot Staff B",
+            "text": "Man, that was fantastic. You really showed off your own unique spark in those last running shots."
+        },
+        {
+            "name": "Monologue",
+            "text": "The staff is right—she was perfect all throughout the photo shoot. But then, why did she…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hm? What's up, Trainer?",
+            "choice_data_list": [
+                "Why did you ask me what your asset was?",
+                "Why did you ask me what your asset was?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She should've already known the answer to that. Why would she need to go out of her way to ask me?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Look, modeling is all about giving the client what they want."
+        },
+        {
+            "name": "Gold City",
+            "text": "So I asked for your input. They wanted my top asset, and you know what that is better than anyone—even myself."
+        },
+        {
+            "name": "Gold City",
+            "text": "Because, well… you're my trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Under the light of the setting sun, I see in her expression not the pro model from the photo shoot just now, but a student of Tracen Academy."
+        }
+    ]
+}

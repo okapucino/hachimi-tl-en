@@ -1,0 +1,350 @@
+{
+    "title": "楽しいレース",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the Osaka Hai behind us, Maruzensky is now training harder than ever."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew… I need to take a break. I've been going full steam ahead for too long.",
+            "choice_data_list": [
+                "You do seem more intense than usual.",
+                "You do seem more intense than usual."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, it's not like I've become super serious about training or anything…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm just having too much fun and can't control myself. My match with Rudolf was so exciting!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So chillaxed! Everything's fine!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But there <i>is</i> something I'm a little concerned about…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she says this, I follow Maruzensky's gaze to find…"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Wheeze… pant… huff…</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Pant… pant… pant…</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "One more!"
+        },
+        {
+            "name": "Special Week",
+            "text": "M-me, too!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know the Yasuda Kinen is coming up soon, and those two are trying their best, but…",
+            "choice_data_list": [
+                "They do seem to be pushing themselves pretty hard.",
+                "They do seem to be pushing themselves pretty hard."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah. I have to help them out however I can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, while I'm heading to my room after work…"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant… pant…</i>",
+            "choice_data_list": [
+                "Training late again today?",
+                "Training late again today?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! Maruzensky's trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "It's Grass! Grass is in trouble!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "How does it look, doctor?"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "You'll be just fine. It looks like you twisted it a little."
+        },
+        {
+            "name": "Special Week",
+            "text": "Whew! I'm glad it's not a major injury."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Indeed…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you for calling the school doctor!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm sorry for the trouble.",
+            "choice_data_list": [
+                "It looks like you pushed yourself too hard.",
+                "It looks like you pushed yourself too hard."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Special Week",
+            "text": "…We need to get faster, you know?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Watching Maruzensky and the student council president race right in front of us was… It was really amazing…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But it also made us realize just how far we still have to go."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that they're pushing themselves too hard in a rush to catch up to Maruzensky and Rudolf.",
+            "choice_data_list": [
+                "I get it, but you can't become reckless.",
+                "I get it, but you can't become reckless."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We're very aware of that, but still…"
+        },
+        {
+            "name": "Special Week",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder and Special Week's expressions tell me that they aren't going to stop."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's clear that they lack a very important detail.",
+            "choice_data_list": [
+                "Wait here. I'll be right back.",
+                "Wait here. I'll be right back."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Huh?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Grass! Are you okay?!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "M-Maruzensky! Did you come all the way from home?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My trainer called and told me what happened! How is your injury?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My trainer called and told me what happened! How is your injury?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder explains her condition and the circumstances that led up to it."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So you got impatient, huh…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm glad you're trying so hard. Having strong rivals fires me up too…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But you guys seem to be missing something important right now."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What is it? Tell us, please."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll show you exactly what I mean, so come hang out with me for a minute."
+        },
+        {
+            "name": "Special Week",
+            "text": "…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Um, Maruzensky, when you say we're missing something…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You guys watched me and Rudolf race, and felt that you couldn't match up, right?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Did you feel anything else?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Like… what?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I had the best time racing with Rudolf! We both lost ourselves in the race, fighting with everything we had…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Without saying a word, we both knew we were having such a blast that we didn't want the race to end!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's that enjoyment that always pushes me to go faster."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I want to run faster because it feels good. I want to win races because it's fun."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Right now, you guys are in such a hurry to get better, you're forgetting to have fun."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And that means, if we raced now, I'm sure I'd win."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Do you remember the feeling of watching me, with excitement gleaming in your eyes?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You both said you would chase after me and kept running happily every day…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know that you both still have that joy for running."
+        },
+        {
+            "name": "Special Week",
+            "text": "I <i>have</i> been pushing myself hard lately, forcing myself to run until I can barely even stand…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Grass! Once your leg feels better, let's run and time each other again!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Let's be happy getting faster bit by bit, just like we used to!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So… having fun is what pushes you forward. I guess it's true what they say, \"What you like you will do well.\""
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Instead of being impatient to catch up, we should enjoy the chase…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… Thinking about it that way makes me want to get out there and run right now!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! Yeah, I can't wait to get back to training!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm glad I could be of help!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And thank you for calling me here, Trainer!",
+            "choice_data_list": [
+                "Of course! You're the one they look up to, after all.",
+                "Of course! You're the one they look up to, after all."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And thank you for calling me here, Trainer!",
+            "choice_data_list": [
+                "Of course! You're the one they look up to, after all.",
+                "Of course! You're the one they look up to, after all."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll have to keep trying my best to be a reliable big sister to my adorable schoolmates!"
+        },
+        {
+            "name": "Special Week",
+            "text": "By the way, Maruzensky, why did you bring us here?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh? Isn't it obvious? There's no better place to embrace your youth than outdoors, right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C'mon! Pump your fist in the air and sing the words, \"Don't you… forget about me!\" ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "I see! Okay, here I go… Don't you… forget me!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Um… I'll remember you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the younger students get back on track and resume their training for the Yasuda Kinen in high spirits."
+        }
+    ]
+}

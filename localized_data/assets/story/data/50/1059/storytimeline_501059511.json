@@ -1,0 +1,251 @@
+{
+    "title": "きゅんきゅんティータイム！？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while walking around the academy…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "\"Prettiest Dream. Tea like you've never tasted before…\" I wonder what it's like."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No way I could go to a place like that just to try it, though…",
+            "choice_data_list": [
+                "Something on your mind?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "T-Trainer?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-no, it's nothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That day after class…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Should I check out the cafe? No, it's too cute, I can't—",
+            "choice_data_list": [
+                "If you want to go, we should go!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Whoa! You again?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "D-did you hear me just now?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's not like I want to go. I was just a little curious!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, it's not like I really want to go. I was just a little curious…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I read in a magazine that it has good tea—that's all!",
+            "choice_data_list": [
+                "Then let's go!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I read in a magazine that it has good tea—that's all!",
+            "choice_data_list": [
+                "Then let's go!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Wait a mi—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "W-we really came…"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Welcome! ♪ What will you be having today, lovelies?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "\"L-lovelies\"?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-I'll have the, uh… Prettiest Dream."
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Ooh, you have exquisite taste, honey. ♪ That adorable tea is exclusive to our cafe!",
+            "choice_data_list": [
+                "I'll have the same.",
+                "I'll have the same."
+            ]
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Okay! ♪ Coming right up, darlings!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Urgh… I really don't fit in here…",
+            "choice_data_list": [
+                "That's not true."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It is! I don't belong in the same sentence as words like \"cute\" or \"darling.\""
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, you don't have to say things just to be nice! I know better than anyone that I don't belong here."
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Here are your Prettiest Dreams, sweethearts! ♪"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Here are your Prettiest Dreams, sweethearts! ♪"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Now, repeat after me so we can cast a spell over your tea!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Let's elevate your Prettiest Dreams! Make a heart with your hands, and…"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Lovely, lovely beam! ♪ Make this tea taste like a dream! ♪",
+            "choice_data_list": [
+                "…Like a dream! ♪"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "T-Trainer?!"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "That's the spirit! That was so adorable! ♪ Now it's your turn!"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "That's the spirit! That was so adorable! ♪ Now it's your turn!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-no way! I'm not cut out for this kind of—",
+            "choice_data_list": [
+                "Do it for the sake of delicious tea!",
+                "You can just say it in your own words."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ngh! I know this is why we came all this way, but still…"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Let's go! You can do it, dearie! ♪"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-okay, fine, I'll do it! But cover your ears, Trainer! And close your eyes too!",
+            "choice_data_list": [
+                "S-sure…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Inhale…</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Lovely, lovely beam… ♪ Make this tea taste like a dream… ♪"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Oh, how curious! ♪ Thanks to your magic, this tea has become even more delicious, honey! ♪"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh… I can't even tell what this tastes like anymore…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "My one saving grace is that you didn't hear me say that spell…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…You didn't hear me say that, right? You heard nothing, right?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though I had covered my ears, I was still able to hear her chant… but I decide to keep that to myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though I had covered my ears, I was still able to hear her chant… but I decide to keep that to myself."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "My own words?"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Oh, that's a great idea. ♪ As long as you pour your feelings into your spell, I'm sure the tea will become more delicious, sweetie!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "H-here I go, then…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "B-become tastier… Please!"
+        },
+        {
+            "name": "Cute Waitress",
+            "text": "Wow! ♪ Your original spell was so adorable, love! And look, the tea's absolutely delighted!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-it wasn't adorable at all!",
+            "choice_data_list": [
+                "Now our tea is nice and delicious.",
+                "Now our tea is nice and delicious."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "As if that's how it works…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Oh, it <i>is</i> delicious… Did it really work?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She likes the tea so much, she decides to buy some leaves… but she won't tell me if she casts a spell over the tea at home."
+        }
+    ]
+}

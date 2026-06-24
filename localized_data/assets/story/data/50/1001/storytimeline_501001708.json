@@ -1,0 +1,48 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "I did it! I won, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I was so focused on running as fast as I can that I crossed the finish line before I even knew it."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe! I guess I <i>am</i> capable of coming in first!",
+            "choice_data_list": [
+                "You did so well!",
+                "You were great!",
+                "Don't get complacent, now.",
+                "Don't get complacent, now."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "You got it!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe. Winning has already made my day, but getting praised is icing on the cake!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I gotta tell my mom about today in the next letter I write her. Hehe!"
+        },
+        {
+            "name": "Special Week",
+            "text": "O-of course! You're absolutely right!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I might've won today, but who knows what the next race will be like. I gotta stay focused!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thanks for the advice! I'm gonna keep giving it my all!"
+        }
+    ]
+}

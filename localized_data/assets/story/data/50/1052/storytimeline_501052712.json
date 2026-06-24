@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Haru Urara fails to show up for today's training. Worried, I go to find her…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! Trainer! Guess what?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I went to the shopping district today! Do you know why?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It's because they threw me a \"Thank you for always cheering me up!\" party!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee! They gave me a bunch of snacks! Although <i>I</i> should be thanking <i>them!</i>",
+            "choice_data_list": [
+                "…And what about training?",
+                "…And what about training?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ohhh nooo! That's right!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "When they told me there was gonna be a bunch of snacks, I just plum forgot!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Please forgive me, Trainer!",
+            "choice_data_list": [
+                "Make sure to be careful next time!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! I'll be extra especially careful! I promise!"
+        }
+    ]
+}

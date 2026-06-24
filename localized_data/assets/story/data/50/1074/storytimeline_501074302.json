@@ -1,0 +1,324 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, while Mejiro Bright and I are strolling around town…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oooh, what's going on over there? There are quite a lot of people. Is it some kind of ceremony?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! You there, the quiet Umamusume in the back! Care to give it a try?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, may I? I would gladly."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But… pardon me, Trainer. Don't we need tickets to try the raffle?",
+            "choice_data_list": [
+                "I've got the five we need right here.",
+                "I've got the five we need right here."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my, I should have known you'd come prepared. Let's try our luck five times, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Actually, we can only try once, but I decide to keep that to myself for now."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Now then, Trainer. Place your hand on mine and let's spin this mini Ferris wheel."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Annnd… spiiiiin. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "She turns the handle in super slow motion, but eventually, a ball falls out…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the ticket for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Goodness. What an incredible turn of events."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "To think we would win a hot spring… I don't own one myself, but I have made use of the one at the Mejiro estate before.",
+            "choice_data_list": [
+                "Well, it's not <i>a</i> hot spring. It's a <i>vacation</i> to a hot spring.",
+                "Well, it's not <i>a</i> hot spring. It's a <i>vacation</i> to a hot spring."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A hot spring isn't something you could win as a grand prize. Still, what we did get is pretty incredible."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "A hot spring vacation. ♪ I think it would be in our best interest to go as soon as we can, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If we begin preparing once we arrive back on campus… Let's see… I believe I will be ready by…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "January of next year.",
+            "choice_data_list": [
+                "Wow, that's a long prep time…",
+                "Wow, that's a long prep time…"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Is it? But it's only natural that it would take so long, considering I'll be racing during the same period."
+        },
+        {
+            "name": "Monologue",
+            "text": "That sounds about right for Mejiro Bright. If she's doing two things at once, it'll take a whole year."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hmm. Do you have any plans a year from now?",
+            "choice_data_list": [
+                "I don't think so."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That means we can go on this trip together. What a relief."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Could you hold onto the coupon until then? I'm looking forward to a warm, relaxing hot spring bath next year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her excitement is written all over her face. Mejiro Bright's cheeks grow pink, as if she's already entered the hot water."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my, it looks scrumptious! Can you believe how big it is?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, would you entrust me with the task of cooking it?",
+            "choice_data_list": [
+                "…Can you?",
+                "…Can you?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I can. For it to come out best, you have to cook it long and slow for the heat to properly pass through."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "In other words, I have the perfect personality for preparing it.",
+            "choice_data_list": [
+                "Tell me how you'll actually cook it."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That is the question. I'll lightly heat up a frying pan and then let the hamburger steak cook on a low flame…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "For about two hours. ♪",
+            "choice_data_list": [
+                "That'll burn it!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, will it? I'm not so adept at precision…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She decides to leave the cooking duties to me. Back at Tracen Academy, we later enjoy a tender hamburger steak."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh dearie. It'll take hours to peel all these."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "However, I did do a splendid job of peeling daikon radishes before.",
+            "choice_data_list": [
+                "Ah, so you're a peeling pro.",
+                "Ah, so you're a peeling pro."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm not sure I'd go that far, but I managed to cut the skin nice and thin, I believe."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "In the end, the whole daikon radish became one loooong sheet of skin.",
+            "choice_data_list": [
+                "That's incredible!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her pace may be slow, but you could never call her untalented."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If you'd like, I'm sure I could also peel the carrots the same way…",
+            "choice_data_list": [
+                "Don't worry about it. We can just eat them as is.",
+                "Don't worry about it. We can just eat them as is."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It would be a waste of time to peel them all. Instead, we just boil them and eat them that way. I've never tasted sweeter carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "One carrot… You have my apologies. We were unable to draw a decent prize because of me."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Since there's only one, I can't help but want to eat it right away.",
+            "choice_data_list": [
+                "How about you eat it while we walk home?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That won't work, I'm afraid. I'm not adept at walking and chewing at the same time."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm simply incapable. I always end up stopping in place…",
+            "choice_data_list": [
+                "How about we relax over there then?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, this <i>is</i> a nice spot. We can even watch the sunset here."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let's split the carrot, Trainer. Look, it's the same color as the sun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We nibble our halves of the carrot while watching the sun set over the horizon. The carrot is heartwarmingly sweet."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Sigh…</i> Tissues. And there's barely any in here…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You could go through a pack this size in no time. Trainer, you agree, yes? We need more tissues?",
+            "choice_data_list": [
+                "Uh, sure…"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Then as an apology for such an unworthy prize, I will have more sent to you from the Mejiro estate.",
+            "choice_data_list": [
+                "Thanks. That would be helpful.",
+                "Thanks. That would be helpful."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You'll receive one truckload.",
+            "choice_data_list": [
+                "I don't need that many!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Is that so? But I don't know if any less would compensate for my failure today…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She lowers her head apologetically. I can't believe a little raffle could end on such a somber note…"
+        }
+    ]
+}

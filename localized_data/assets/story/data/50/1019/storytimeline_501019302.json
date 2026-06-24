@@ -1,0 +1,269 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm out with Agnes Digital shopping for Umamusume merch, when…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh?! Look at that super long line. What do you think they're selling?"
+        },
+        {
+            "name": "Monologue",
+            "text": "They're not necessarily selling anything, but we go take a look and find…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation for two"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Hey! You, with the big bow! Want to give it a try?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Do you get some kinda Uma merch if you get the very last ball? If so, I'll pull them all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop Agnes Digital before she throws all her cash at the clerk and convince her to just try once."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ohhh… is this one of those scenes where I get just one chance, but still get super happy no matter what I get? Gotcha!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Despite the slim chances of winning some Uma merch, I'll give it a spin and pray for something close!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Show me the Umas!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that slightly off-kilter plea, we both take hold of the raffle machine's lever and give it a spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hwoooaaa?! We got a holy macker—I mean, <i>grand</i> prize?! Talk about hitting the jackpot!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "We're going on a vacation… <i>Gasp!</i> Do you know what that means?!",
+            "choice_data_list": [
+                "What does it mean?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "It's a private offline meet-up! We get to spend two whole days together talking about Umamusume <i>in person!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "We can go over everyone we've seen over our three years together! From the rookie Umas fresh off their debut to the refined and mature seniors!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "We can stay up all night talking about all our Twinkle Series memories! After we've finished our twelve-season run, that is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like she really meant it when she said \"all\" of our Twinkle Series memories."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "That means we've gotta prepare tons and tons of good memories if we want this to be the best trip ever."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So, can you hold onto that ticket until we're ready, Trainer?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "In the meantime, I'll become a living photo album capturing everyone's precious moments!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All fired up to collect more mementos for our future trip, Agnes Digital starts the year off with more heat than a hot spring."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ohh… We got the B prize—I mean the <i>first</i> prize! Quick, hit record! I wanna remember this moment!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "A deluxe carrot hamburger steak… Nice! I want something special to go with it.",
+            "choice_data_list": [
+                "Isn't a hamburger steak enough?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, you. If you wanna make something <i>extra</i> delicious, you need to top it off with a bit of fantasizing."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Picture a soft, hearty hamburger steak surrounded by a throng of peaceful, precious Umas…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I could eat three whole bowls of rice thinking about it! Just imagine what I could do with this hamburger steak with a fantasy like that as a side!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Right! I need to get home right away and get started on this fantasy dinner! You're coming too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, Agnes Digital and I enjoy our prize hamburger steak while she fantasizes about a round-table feast full of Umamusume."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wow, a whole bushel. It looks like they cleared out the whole storehouse."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Anyways… Hehehe… The more you look at 'em… Don't you think these carrots start to look like Umamusume?",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "For instance… Here, look at this one!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "It looks slim and tough, but it's probably tender on the inside… Just like Taishin…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And then the smaller one next to it reminds me of Akebono's collarbone. And the one with all the leaves is like Fuji wearing a big stage wig… ♪"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh! And if you view this one from a certain angle—yeah, that's <i>so</i> her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her unique skill is being able to see Umamusume in anything. She carefully observes each carrot before savoring its flavor."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "One carrot… Well, I was only given one chance, so I guess that tracks.",
+            "choice_data_list": [
+                "You're not disappointed?",
+                "You're not disappointed?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nah. I'm well aware of how tough it is to arrange a raffle."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Thinking up the lineup of prizes, procuring the items, and then arranging them in a display… It's certainly no cakewalk."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Anyone who thinks they're gonna take home the one prize that rules them all with just one shot is a nutcase."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "At the end of the day, simping is about support, and that's my default state of mind. Yessir…"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way back to campus, Agnes Digital appears enlightened as she enjoys her singular carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hmmm… Tissues, huh? …Oh! Maybe they have an Umamusume design!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah, doesn't look like it. They're just plain, ordinary tissues…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But I guess this beats getting random tissues from someone promoting something on the street…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I hate getting handouts from strangers. Whenever they try, I always just run away. <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "All that said, a loss is a loss at the end of the day. Agnes Digital winds up feeling a little down."
+        }
+    ]
+}

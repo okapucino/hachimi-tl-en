@@ -1,0 +1,49 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's finally time for Eishin Flash's debut. I expected her to be more nervous, but…",
+            "color_text_info_list": [
+                "debut"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The race begins in thirty minutes, so let's take the time to complete our final checks.",
+            "choice_data_list": [
+                "You don't seem scared at all.",
+                "You don't seem scared at all."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is no reason to be scared."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have been training methodically with you for this very day, after all."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "All that remains is to follow through with our plan. Am I wrong?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right, but there are a lot of racers who are unable to keep their emotions at bay and become overwhelmed in such situations.",
+            "choice_data_list": [
+                "I'm really impressed.",
+                "I'm really impressed."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I cannot see why. I'm only doing what is expected."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The race is starting in twenty-five minutes. I'll be off now."
+        }
+    ]
+}

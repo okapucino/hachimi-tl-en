@@ -1,0 +1,419 @@
+{
+    "title": "The End?",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho puts on a brilliant performance at the Takarazuka Kinen and takes first place."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, we've made it through the crucial first two years of her career… and a little bit more too."
+        },
+        {
+            "name": "Monologue",
+            "text": "… …",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Shush, Familiar! Don't just randomly shout like that!",
+            "choice_data_list": [
+                "My bad…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh! You made me forget the new spell I was about to come up with!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And the time on that clock is wrong! It's your job as my familiar to fix things like this!",
+            "choice_data_list": [
+                "I-I'll get right on it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I rapidly adjust the clock, apologizing profusely to Sweep Tosho all the while."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't simply slink away like some useless familiar. As her trainer, there's something I need to ask her about.",
+            "choice_data_list": [
+                "What do you want to do about your next race?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What next race?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't care about racing anymore. I've already used the most powerful racing magic out there.",
+            "choice_data_list": [
+                "Whaaat?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Be <i>quiet!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A-<i>hem!</i> Racing magic isn't the only magic I want to learn, you know!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Studying magic is a lot of work! Don't you think you should try being a little more considerate of me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle, rattle! WHAM!</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Pardon meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess, a spunky Umamusume who fights strength with strength, comes barging in.",
+            "color_text_info_list": [
+                "Kawakami Princess"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Please teach me your racing magic! Pleeeease!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…! You said \"Huh\"…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "As in, \"Huhve course!\" Right?! Thank you so much! I owe you big time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Pffft! As if, Kawadummy!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't even have any plans to race right now! So my racing magic is currently closed for business."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Shaddup, shaddup, shaddup!",
+            "choice_data_list": [
+                "(They're both getting quite loud…)"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "B-but… I <i>require</i> your magic! I mean, it's… It's…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's the only thing that will change her mind! …Waaaaah!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wh-what're you crying for?! Ugh! Stop it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So why do you need my racing magic?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…I want someone to love racing.",
+            "choice_data_list": [
+                "You want someone to love… racing?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "There's a certain person in your year that I look up to, and I want her to fall in love with racing again."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I had the chance to run with her once—but only once. I ran as hard as I possibly could."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "She's an excellent runner, so I wanted to win no matter what."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The second the race started, I ran for the front in an attempt to push ahead. I kept trying to push out past her…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But then… I felt an impact."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…And I heard a quiet yelp. When I turned around, her face was completely pale."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "She stopped right there and left the track."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Shortly after that, I heard people saying that she'd become afraid of running."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I went and apologized to her as fast as I could. But she told me it wasn't my fault and that I didn't have anything to apologize for."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But no matter how you look at it, it really <i>was</i> my fault!",
+            "choice_data_list": [
+                "Who was it you hit?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well…"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I heard you were taking a break after you got hurt in the Shuka Sho, but I see you're feeling good enough to go out on partner runs already."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "S-Sweep?! Uh… um, it's nice to see you again, I guess."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, is it true you're scared of running now?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I've heard loads of rumors, but are they really true?"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "Oh, uh… Well…"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "It's true."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Seriously?"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "But not every single detail. Kawakami really didn't do anything wrong.",
+            "color_text_info_list": [
+                "Kawakami"
+            ]
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "All she did was compete the way anyone would. She didn't even bump me that hard, and it didn't even hurt."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "…It was my fault I stopped that day on the track."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How so?"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I just figured I couldn't do it."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "When I was out with my injury, I started thinking that, even if I recovered, I still wouldn't be able to…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…The heck? Do what?"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "Then, when I actually flinched during my race with Kawakami, I had proof. I was just no match for her."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "And after that…"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I saw you run in the Takarazuka Kinen. You were so amazing. I understood why everyone called your running magical."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I knew I could never be as good as you, so I figured it was time to call it quits."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh?! That's it? You watched me race, and <i>that's</i> what you thought?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Listen up—instead of saying you can't do it anymore, just give it another shot!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Run like you did in the Japanese Oaks and the Shuka Sh—"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I <i>can't!</i>"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "…I'm just so scared. I don't want to lose horrifically and have to face the fact that I'm really done for."
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I'm not the same as I used to be. Anyone who gets injured and takes a year off gets left behind… That's just the way things are."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Just the way things are?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How can you even say something so lame?! I don't get it! I don't get it at all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Who cares if that's how things are?! Giving up over something like that is so unbelievably LAME!"
+        },
+        {
+            "name": "Umamusume with Blue Ribbons",
+            "text": "I can't help the way things are—it's just life! I'm not like you! I can't just make miracles happen. I'm just an ordinary—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Enough with that crap! Don't whine about what's normal or the way things are. Just smash it all up with magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Come watch me race in the fall! I'll cast a spell that'll bring back the old you!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's a pinky promise… From me to you!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Familiar! What G1 race can I run in next?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think about which G1 races would be good for her, seeing as she's incredibly motivated right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "One comes to mind. It's a prestigious race in the fall that gathers the best of the best. What's more, it should be a good fit for both her distance aptitude and late surging skills.",
+            "choice_data_list": [
+                "How about the autumn Tenno Sho?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, that'll work! Now, Kawakami!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna use some <i>really</i> powerful magic at the autumn Tenno Sho, so make sure you drag you-know-who along to see it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I-I will!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(My amazing racing magic is going to smash this lame world to pieces and drive everyone crazy.)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(No one is allowed to give up after seeing my magic! I'm just gonna have to use an even bigger, better spell this time!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(And I'm gonna need a rival to do that—someone that'll help make our special race super exciting for everyone…)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Rob Roy! Perfect timing!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sweep?! Good. I wanted to talk to you too…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm totally convinced that you'd make the perfect rival! Run in the autumn Tenno Sho with me!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…! The autumn Tenno Sho? You're planning to run there?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's right!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…! Hehe. Actually, I came here to ask you to race against me again."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'd love to race against you. And this time… I'm going to win."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All right, you're gonna make the best rival ever!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The world's gonna see the genius Magical Girl Sweepy use her best-ever ultimate magic at this year's autumn Tenno Sho!"
+        }
+    ]
+}

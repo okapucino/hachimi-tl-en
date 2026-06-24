@@ -1,0 +1,217 @@
+{
+    "title": "堂々と行こう！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out doing some shopping with Hishi Akebono…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "So they're selling these cakes nearby and—"
+        },
+        {
+            "name": "Hunched Man",
+            "text": "You're blocking the road, brat! Get outta the way!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "O-oh! I'm sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "A man has suddenly shown up behind Hishi Akebono and is screaming at her, even though there's plenty of room for him to walk by.",
+            "choice_data_list": [
+                "(I really don't want to let that slide!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…But I'm not alone here, and there's no way I can risk escalating this and dragging Hishi Akebono into some kind of incident. I restrain myself, and the man sneers at us and leaves."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer? You don't have to worry about me, you know. I'm totally fine."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks for getting all worked up on my account, but I like it better when you're smiling!",
+            "choice_data_list": [
+                "You didn't do anything wrong, though!",
+                "You didn't do anything wrong, though!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But what if I <i>was</i> in the way? There's nothing wrong with being big and tall, but I should still be careful not to get in the way."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll just try to walk at the edge of the—Oh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We spot the hunched man we just encountered bickering with another student just up the road. I really can't stand by this time!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>You're</i> the one getting in everyone's way, ya dunce! Who do you think you are, waltzin' around flailin' your arms all over the place?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Unless you've got the guts to challenge me to a one-on-one, scram!"
+        },
+        {
+            "name": "Hunched Man",
+            "text": "Hrk! D-damn you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Patter, patter, patter!</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm, pathetic. He should've kept his mouth shut if that's all it takes to send him runnin' off with his tail between his legs."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That was <i>amazing!</i> She's so cool! And that intensity… I felt like I was watching a sumo wrestler!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Maybe if I try glaring, I can pull off that intensity too… There! Am I doing it right? Do I look scary?",
+            "choice_data_list": [
+                "You're still smiling."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! Geez, it sure is hard to look intimidating!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While heading back home after a day of shopping…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer, look! It's Hishiama and that man from before!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow her line of sight to see that the hunched man has rounded up some lackeys, and they've got Hishi Amazon surrounded."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon is chuckling and cracking her knuckles, ready for a brawl, but nothing good will come of that. I have to defuse the situation!",
+            "choice_data_list": [
+                "Stop this, all of you!",
+                "Stop this, all of you!",
+                "Officer, over here!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon is chuckling and cracking her knuckles, ready for a brawl, but nothing good will come of that. I have to defuse the situation!",
+            "choice_data_list": [
+                "Stop this, all of you!",
+                "Stop this, all of you!",
+                "Officer, over here!"
+            ]
+        },
+        {
+            "name": "Hunched Man",
+            "text": "What? What do you want? Huh?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hmph!"
+        },
+        {
+            "name": "Hunched Man",
+            "text": "Y-you're that brat from before!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "FIGHTING IS <i>WRONG!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The men flinch at the echo of Hishi Akebono's booming voice. The hunched man is so shocked that he snaps to attention, his back ramrod straight."
+        },
+        {
+            "name": "Hunched Man",
+            "text": "Eep! Wh-what's with you people?! Forget this! Let's get outta here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, Hishi Akebono's stern telling-off sends the men scattering like cockroaches."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's kinda unsatisfying how easy it was to chase 'em off…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, are you all right, Hishiama?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, thanks for that. That was pretty badass of you, Bono."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Really?! Did you hear that, Trainer? Hehehe! Even Hishiama thinks I've got it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, we report the hunched man to the police, and so ends the evening during which I got a glimpse at the typically-calm Hishi Akebono's more threatening side."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, Officer! Over here, quick!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono raises her arms and waves them wildly in the direction of a nearby crowd."
+        },
+        {
+            "name": "Police Officer",
+            "text": "What's the matter?!"
+        },
+        {
+            "name": "Hunched Man",
+            "text": "Crap! We gotta get outta here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At the sight of the approaching police officer, the hunched man panics and lugs his lackeys away."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I could've taken a couple of punks like that, easy… But Fuji would never get off my case if she caught me, so thanks for the help."
+        },
+        {
+            "name": "Police Officer",
+            "text": "It's thanks to your waving me down that I managed to find you all right away. I appreciate your fast thinking, good citizen!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "O-oh, but I barely did anything… Right, Trainer?",
+            "choice_data_list": [
+                "It would've been hard to find us just from our voices."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Does that mean the officer spotted us because I'm so tall? Wow…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I guess it <i>is</i> a good thing to be big and tall!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono finally accepts the officer's thanks and smiles. We head back home afterwards with our heads held high."
+        }
+    ]
+}

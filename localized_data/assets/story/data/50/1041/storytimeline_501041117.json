@@ -1,58 +1,62 @@
 {
-    "no_wrap": true,
+    "title": "バクシン的ホンネ",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Sakura Bakushin O is set to run three \n1200 meter races. \nShe's training hard every day."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is training to do multiple 1,200-meter races in quick succession. Day after day, she does her best in her training."
         },
         {
-            "text": "But she doesn't want to run just short \ndistances. The next race after these three, \nshe might not be convinced anymore."
+            "name": "Monologue",
+            "text": "However, she doesn't want to make sprinting all she's known for. I might not be able to convince her to do more sprints after this."
         },
         {
-            "text": "While I was thinking about this, I was \nwalking around campus and came across…"
+            "name": "Monologue",
+            "text": "I walk the academy grounds, mulling this over when…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Good for you, Ms. Flower! \nThe doctor even complimented you on \nyour quick recovery!"
+            "text": "Good for you, Flower! The teacher said you were quick to take action!"
         },
         {
             "name": "Nishino Flower",
-            "text": "It's all thanks to Ms. Bakushin O helping me."
+            "text": "It's only because you helped me, Bakushin O."
         },
         {
             "name": "Nishino Flower",
-            "text": "I think it would have taken me a long time \nto carry all these books by myself."
+            "text": "I think it would have taken me a while to carry five books by myself."
         },
         {
             "name": "Nishino Flower",
-            "text": "Thank you so much for the help."
+            "text": "Thank you for your help."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, not at all! If I help you, it's inevitable \nthat the process will speed up!"
+            "text": "There's no need to thank me! It's only natural things should speed up with me around!"
         },
         {
             "name": "Classmate A",
-            "text": "Oh, Bakushin O-chan. \nDo you remember what we're gonna do \ntomorrow?"
+            "text": "Oh, Bakushin O! Do you remember what we have planned for tomorrow?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I do! You wanted me to give you \nsome tips on how to get started, didn't you!"
+            "text": "Of course I do! You wanted to learn how best to do a starting dash, right?"
         },
         {
             "name": "Classmate A",
-            "text": "Oh, I'm glad. \nYeah, thanks for the help."
+            "text": "I'm glad you do. Thanks in advance."
         },
         {
             "name": "Classmate A",
-            "text": "And I think it's time to celebrate, don't \nyou? We've all been looking for you!"
+            "text": "Wait, isn't it about time for the celebrations? Everyone's been looking for you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha! \nIt's that time already!"
+            "text": "Whoa! It's already this late?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll be right there! \nNow, let's be off, and you too, Ms. Flower!"
+            "text": "I'll be there at once! Flower, you're coming with me!"
         },
         {
             "name": "Nishino Flower",
@@ -60,169 +64,174 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Ah, wait a second…!"
+            "text": "P-please… wait just one moment!"
         },
         {
-            "text": "If there was a celebration, something good \nprobably happened to Sakura Bakushin O. \nI decided to go check it out."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――and, so!"
+            "name": "Monologue",
+            "text": "For there to be a celebration, something good must've happened to Sakura Bakushin O. I decide to see what the fuss is about."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That is how I, Sakura Bakushin O! Managed \nto shave five seconds off the record time for \nthe quickest change from uniform to jersey!"
+            "text": "I'm pleased to announce…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I, Sakura Bakushin O, have shortened my record time for speed-changing out of my uniform and into my tracksuit by five seconds!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Quickest change…"
+            "text": "Speed-changing…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Thank you all very much for coming to \ncelebrate this momentous occasion!"
+            "text": "Thank you all for gathering here today to celebrate this momentous occasion!"
         },
         {
             "name": "Classmates",
-            "text": "Congratulations～! \n(Clapclapclap!)"
+            "text": "Congratulations! <i>Clap, clap, clap!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Thank you very much―!"
+            "text": "Thank you, thank you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do you think, Ms. Flower? \nI'm both fast on my feet and fast at \nchanging clothes!"
+            "text": "What do you think, Flower? I'm fast with my legs <i>and</i> my clothes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In fact, I'm also the current record holder for \nfastest talker! I can't wait to break that \none, too!"
+            "text": "I also hold the record for taking the quickest early lunch! Although it's about time I revisit that one!"
         },
         {
             "name": "Nishino Flower",
-            "text": "U, umm… \nThat's sure great!"
+            "text": "Um… That's quite the achievement!"
         },
         {
             "name": "Classmate B",
-            "text": "But lately, you've been doing even better \nthan before. \nI guess you could say your speed's been \nhoned."
+            "text": "Lately you've been way more in the zone. Like your speed is really getting up there."
         },
         {
             "name": "Classmate C",
-            "text": "Definitely! \nThat's what my homeroom teacher said, too."
+            "text": "Yeah! The homeroom teacher said something about that too."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmm! \nWhat did you say!?"
+            "text": "Oh! What did they say?"
         },
         {
             "name": "Classmate C",
-            "text": "She said she appreciated how quickly \nyou collected everyone's papers. \nShe also said it would be even better if you \ncould be more careful, though."
+            "text": "They said they were thankful you brought the documents to them so quickly. Also that it'd be even better if they came in a bit neater too."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha-ha-haaa, our teacher, you say! \nShe praised me that much!"
+            "text": "Haha, oh Teacher, you! You don't have to compliment me <i>that</i> much!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I'm quite proud of \nmyself!"
+            "text": "I feel so honored as class representative!"
         },
         {
             "name": "Classmate B",
-            "text": "Uh, huh, yup. I'm counting on you for your \nspeed. \nI'll keep relying on you, class president!"
+            "text": "Yeah! Your speed is the only thing about you we know we can rely on. We're counting on you, Class Rep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I was relied on――!!"
+            "text": "They're counting on me!"
         },
         {
-            "text": "…The contents of the congratulations were \nheartwarming, and I caught a glimpse of \nSakura Bakushin O, so beloved by all of \nher classmates."
+            "name": "Monologue",
+            "text": "The reasons for the celebrations give me a chuckle, but I do get to see Sakura Bakushin O be doted on by her classmates."
         },
         {
-            "text": "…Later, while walking through the school, \nI saw a pair who seemed to have finished \npartying."
+            "name": "Monologue",
+            "text": "Later on while walking the grounds, I find Sakura Bakushin O and Nishino Flower together, seemingly done with the celebrations."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whew, I received quite a lot of compliments! \nThat's me! The president paragon!"
+            "text": "Phew, I sure was praised a lot! As is par for the course for <i>the</i> ideal class representative!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Ahaha…"
+            "text": "Ah ha ha…"
         },
         {
             "name": "Nishino Flower",
-            "text": "But, it looks like Ms. Bakushin O is really \nadored by everyone."
+            "text": "I noticed that everyone really admires you, Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's right! \nAs class president, it's my chief job to be \nadored!"
+            "text": "That's right! Being admired is basically my job as class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Moreover, now I'm an upgrade from before! \nI'm the president of presidents!"
+            "text": "I'm new and improved! Here stands the class representative to rule all class representatives!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After all, thanks to my Trainer's precise \nguidance, I'm in great shape!"
+            "text": "Thanks to my trainer's spot-on training methods, I've been on a roll!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Fufu, so that's how it is."
+            "text": "Hehe, you sure have."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! Even now, I'm aiming to run \n3 short distance races so I can run in a \nlong distance race!"
+            "text": "Right! I want to run long distance, so I'm working on acing three sprints!"
         },
         {
             "name": "Nishino Flower",
-            "text": "3 short distance races…?"
+            "text": "…What?"
         },
         {
             "name": "Nishino Flower",
-            "text": "Well, that's, that's just running short \ndistances, isn't it…",
+            "text": "Um, isn't that… just doing sprints over and over?",
             "choice_data_list": [
-                "(Thump…)"
+                "(Uh-oh.)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmm? I think I just heard someone's heart \nleaping somewhere…"
+            "text": "Hm? Was that the sound of someone's heart leaping out their chest right now?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Anyway, this is still a bona-fide long \ndistance. It may still be tough for you, \nMs. Flower."
+            "text": "Anyway, running three sprints also makes for a wonderful long-distance run. Perhaps it's still too early for you to comprehend, Flower."
         },
         {
             "name": "Nishino Flower",
-            "text": "Ha, ha…"
+            "text": "R-right…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fufu. Just follow your Trainer and you'll be \njust fine!"
+            "text": "Hehe. I can't go wrong if I'm following my trainer's advice!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In fact, since working with the Trainer, \nI've been relied on more than ever."
+            "text": "You know, since training with them, I've only been asked for more and more favors."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My Trainer will absolutely make my dreams \ncome true!!"
+            "text": "My trainer will definitely make my dream come true!"
         },
         {
             "name": "Nishino Flower",
-            "text": "I see…"
+            "text": "…Is that so?"
         },
         {
             "name": "Nishino Flower",
-            "text": "You believe in your Trainer a lot, \ndon't you?"
+            "text": "I guess you really trust your trainer."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, of course!"
+            "text": "Of course I do!"
         },
         {
-            "text": "Unexpectedly, I heard Sakura Bakushin O's \ntrue feelings, and my heart was filled with \npassion."
+            "name": "Monologue",
+            "text": "I didn't expect to hear Sakura Bakushin O's heartfelt feelings like this. Her words light a fire in me."
         },
         {
-            "text": "Because she believes in me, I have to lead \nher well… Down the Bakushin Road, where \nshe can shine her absolute best!"
+            "name": "Monologue",
+            "text": "It's only right to guide her properly now I know she trusts me. I'll lead her down a Bakushin Road where she can truly shine!"
         }
     ]
 }

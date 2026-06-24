@@ -1,0 +1,49 @@
+{
+    "title": "Migraine Blues",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm heading to my office with Matikanetannhauser, when…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oooh… My head…",
+            "choice_data_list": [
+                "Got a headache?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah… It's been hurting since I woke up this morning. I wonder if I did something unhealthy…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's see… I've been getting plenty of sleep recently."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "There haven't been any major changes to my workout schedule, and I'm eating plenty."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, the air pressure is low today. Maybe that's it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I've got it! I'll make a sunshine doll to help the weather improve when I get back to my room!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Rain, rain, go away! Munmunmun another day!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Owww… Singing makes my head throb…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser continues to suffer from her headache for some time."
+        }
+    ]
+}

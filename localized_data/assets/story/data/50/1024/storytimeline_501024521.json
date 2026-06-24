@@ -1,0 +1,45 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One morning, I run into Mayano Top Gun on my way to the office."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mnnn… <i>Sigh…</i>",
+            "choice_data_list": [
+                "You look sleepy.",
+                "You look sleepy."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah, there was a character that looked just like you in last night's episode of…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Wh-whoa! T-Trainer?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Um, I mean! I was watching a show, and it was… really good! That's all!",
+            "choice_data_list": [
+                "So what you're saying is you didn't get much sleep."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah, but… you see… there were lots of… grown-up scenes in it."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahh! Just thinking about it makes my heart race! I don't think I'll be able to sleep tonight either!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I imagine it was just your typical teen TV show, but whatever the reason, it was enough to have kept Mayano from sleeping."
+        }
+    ]
+}

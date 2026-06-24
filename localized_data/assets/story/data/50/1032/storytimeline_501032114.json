@@ -1,0 +1,276 @@
+{
+    "title": "Report『透明な視線』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "From here on, we'll have our sights set on the Japanese Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the Satsuki Sho, she told me that she couldn't promise she would enter. But now…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Huff… puff…</i> Phew!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oddly enough, she's been showing up to every training session and giving it her all.",
+            "choice_data_list": [
+                "What's gotten into you?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm? What do you mean? Oh, are you referring to my perfect attendance rate as of recently?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Isn't that a given? I want to run faster in races!",
+            "choice_data_list": [
+                "Spoken… like a true Umamusume."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, I am one, aren't I?",
+            "choice_data_list": [
+                "But what about your \"no guarantees\" for the Japanese Derby?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Not making a promise is not the same as saying no."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "One must be prepared for any and all occasions, don't you agree?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As always, I find myself unable to decipher her true intentions."
+        },
+        {
+            "name": "Monologue",
+            "text": "But in any case, I can consider her proactive attitude towards training a good thing."
+        },
+        {
+            "name": "Monologue",
+            "text": "We're about to finish training when I see Agnes Tachyon staring off into the distance."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My, my. It appears that she's still around."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Cafe! What business do you have?",
+            "color_text_info_list": [
+                "Cafe"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've noticed your passionate stare for some time now. If you're waiting to confess your love, why don't we relocate to the back of the school, or perhaps the rooftop?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That's not why…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I just thought… you were running… a little different than usual."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "…Hmm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon's eyes flicker back and forth at Manhattan Cafe's words."
+        },
+        {
+            "name": "Monologue",
+            "text": "But her hesitation soon turns into a mischievous smile."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So you've been studying me with quite some intent. Heh-heh-heh, you're making me blush!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Don't misunderstand. I was just…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's okay, there's no need to be embarrassed! I know exactly how you feel! Let me guess, you wanted to assist in my research, didn't y—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I just thought studying you… might help me… catch up to my friend!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That's why… I've been watching… That's the only reason."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm? Is that so?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But… on second thought… I think this doesn't really concern me. Goodbye."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe turns to leave, but Agnes Tachyon stops her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Your assertion is not exactly true!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I am betting a part of my future on you."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Huh?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "To be honest, I have high hopes for you both—you <i>and</i> your invisible \"friend.\""
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In the beginning, I thought we were fellow outcasts… I was wrong."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "How should I put it? You seem to possess all of what I do not."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I even think to myself how interesting it might be to mimic your lifestyle."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Please… I don't want to be a part of this."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well then, I should be on my way too.",
+            "choice_data_list": [
+                "Wait a sec!",
+                "Wait a sec!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop her as she's about to leave. There's something I need to clarify—well, there's a whole slew of things, but… first things first.",
+            "choice_data_list": [
+                "What did she mean by you running differently from the rest?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon takes a moment to think it over, but then shrugs her shoulders."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, nothing rings a bell."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Moving onto more important topics, guinea pig. About our next race…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Judging from today's condition, I have a good feeling about the Japanese Derby!",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Absolutely. I'm in high spirits lately."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So let's quit mulling over ambiguities and focus on the race!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "For the sake of science as well, let's begin drawing up plans as soon as tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon leaves on that high note."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few things remain unclear, but with a declaration that bold, I'm sure she won't back out of the Japanese Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "I pump myself up for the upcoming summer stage."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You know, the Japanese Derby will be a tad difficult. To tell you the truth, I can't muster up the motivation.",
+            "choice_data_list": [
+                "What do you mean?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ow, my ears. Don't shout at me like that. I want to run. I'm trying to collect data here, after all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Which is why I've decided to run in the NHK Mile Cup!",
+            "color_text_info_list": [
+                "NHK Mile Cup"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The NHK Mile C.—a mile-long G1 race taking place in the beginning of summer.",
+            "color_text_info_list": [
+                "NHK Mile C."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "With a distance like that, my…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon trails off mid-sentence.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's nothing. Regardless, next up is the NHK Mile C., got it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Still feeling left out of the loop, I assure myself she won't rescind her declaration to run in the NHK Mile C…"
+        },
+        {
+            "name": "Monologue",
+            "text": "While the goal has shifted, I refocus and rekindle my motivation for the upcoming race."
+        }
+    ]
+}

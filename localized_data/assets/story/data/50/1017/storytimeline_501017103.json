@@ -1,0 +1,148 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the start of summer camp, where the Umamusume train to improve their skills."
+        },
+        {
+            "name": "Monologue",
+            "text": "Or at least, it should be…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But Symboli Rudolf still hasn't left the academy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hishi Amazon and Fuji Kiseki. Your status reports, if you please.",
+            "choice_data_list": [
+                "(If I recall correctly… they're the Miho and Ritto dorm leaders.)"
+            ],
+            "color_text_info_list": [
+                "Hishi Amazon",
+                "Fuji Kiseki"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "The Miho Dorm folks are all accounted for. They were on the bus that just departed.",
+            "color_text_info_list": [
+                "Miho"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All of the Ritto Dormitory residents have left as well. Aside from one who reported being sick this morning.",
+            "color_text_info_list": [
+                "Ritto Dormitory"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent. I trust the unwell student is receiving appropriate treatment?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Indeed. I've left her in the faculty's care."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Then we are all set. Thank you both for your hard work. You may join the rest of the students."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Got it. Don't be late now, Prez!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now then, Trainer. I'm sorry to have kept you waiting."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Once we finish our final checks, we can depart ourselves.",
+            "choice_data_list": [
+                "Not leading from the front today?",
+                "Not leading from the front today?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I believe Air Groove has that well in hand."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And besides, I want to check in on the student who had to stay behind.",
+            "choice_data_list": [
+                "But what if you miss the start of camp?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have a plan to avoid that. Incidentally…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Do the words \"Hot Rod\" sound familiar to you?",
+            "choice_data_list": [
+                "(I have a bad feeling about this…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And that feeling was dead on."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VROOOOOM! Screeeeech!</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you for driving us, Maruzensky. If not for you, we wouldn't have made it in time."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "No sweat! I'm always up to take my baby out for a spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf's \"plan\" turned out to be asking Maruzensky to drive us to the campsite in her prized sports car."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, Maruzensky has a bit of a reputation for being a wild driver… A reputation that's well deserved."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Say, Rudolf?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Your trainer's looking a little pale. Is everything good?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Of course. I imagine your driving often leaves people too amazed to speak."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Isn't that right, Trainer? Aren't Maruzensky's skills in a league of their own?",
+            "choice_data_list": [
+                "They're, uh, certainly something…",
+                "They're, uh, certainly something…"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If you'd like, I could also ask her to drive us back as w—",
+            "choice_data_list": [
+                "N-no thanks, I'm good!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Speed bumps aside, summer camp finally begins."
+        }
+    ]
+}

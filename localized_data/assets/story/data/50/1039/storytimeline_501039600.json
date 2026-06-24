@@ -1,0 +1,26 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "It's finally time for my race! I feel so elated!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Let's both get amped up! This race will be ours!",
+            "choice_data_list": [
+                "Get out there and take home first place!",
+                "Get out there and take home first place!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Leave it to me! I'll run beautifully, gracefully, and courageously!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "All right! I'm off!"
+        }
+    ]
+}

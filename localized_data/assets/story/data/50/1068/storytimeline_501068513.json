@@ -1,0 +1,248 @@
+{
+    "title": "フォーゲットミーノット！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "My memory… it's gone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black and I are startled by a loud yell, and we race over to the source to find Gold Ship with a troubled expression on her face."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I can't find my memory from yesterday anywhere! I've looked inside my bag and in the hollow of a tree, but it's nowhere to be seen!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "C-calm down! Is there anything we can do to help?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Sob…</i> My poor, precious little memory. I must've gone and dropped it somewhere…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Please! You've gotta help me find my memory! If I don't find it soon, someone might take it for themselves!",
+            "choice_data_list": [
+                "(Are memories something you can drop?)",
+                "(Are memories something you can drop?)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay! Let's go and look for that memory, Golshi!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the three of us go searching around the school."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I can sense it! It's calling out to me! The line of gold must be around here!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "So it's in this area? Got it! Let's search carefully to see if it's fallen somewhere or gotten buried!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Urgh, all these weeds are getting in the way. Let's weed the area while we search!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeaaah! I found a memory! Wait, this is the one from last week when I squared off against those Martians! This isn't the one I'm looking for!",
+            "choice_data_list": [
+                "You fought Martians?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I sure did! And what a great time it was! ♪ Okay, let's keep going! To the next memory!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Shh! Be quiet! We've gotta look for this darned memory without it noticing us.",
+            "choice_data_list": [
+                "(How can a memory even notice us, though?)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay, we'll be quiet. Oh, hold on, let me just tidy up these books. They look like they're going to topple over."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh! Close, but no cigar! This is tomorrow's memory! WHOA! I'm gonna become the president?!",
+            "choice_data_list": [
+                "(The likeliness of that happening is pretty low!)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sorry for the wait! I put away the equipment that was lying around so no one'll trip over it and get hurt! Let's keep looking for that memory!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmm… It's not proving easy to find, is it?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But that doesn't mean I'm going to give up looking for it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Kitasan Black doesn't seem discouraged, I begin to wonder if it's wise to let her keep participating in this fool's errand.",
+            "choice_data_list": [
+                "Do you still believe she's lost her memory?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It doesn't matter if I believe that or not! I just want to help Golshi out."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I can't just ignore someone if they're in trouble. That's why I'll stay and help her until the very end!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Thanks, Kitasan, but we've looked everywhere I can think of…",
+            "choice_data_list": [
+                "Let's check around the school one more time!",
+                "We might need to ask for more help…"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "No, it's fine… I don't want to become a prisoner to my past. The most important thing is the time spent here and now!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It doesn't feel right to leave your memory abandoned and lost, though… I can keep helping you if you like."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It's cool. We've killed enough ti—er, I mean… It's all right because I've discovered something even more important than my lost memory!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That the present is more important than the past! As thanks for teaching me this lesson, lemme give you guys something good!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Put some salt in that and shove it under your pillow! You're guaranteed to sleep like a baby, Baby!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Is this some kind of charm?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But what a relief! Golshi looked like a real weight had been taken off her shoulders!",
+            "choice_data_list": [
+                "So, what does the paper say?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Lemme see… \"I did it. I'm the one who did everything\"?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe. It would seem so. Thank you for all your hard work.",
+            "choice_data_list": [
+                "Symboli Rudolf!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Apologies for eavesdropping. I heard that someone was doing good deeds around school and wished to express my gratitude in person."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You helped weed the garden, tidy the library, and put away audio equipment. Each task was an issue submitted in our suggestion box."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I just did all that while I was searching for something, but I'm glad I was able to help out!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Even if it was done on a whim, I'm still grateful. One good turn deserves another. This is not much, but here is a reward for your efforts."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wow, these cookies look delicious! I'll divvy them up with Golshi later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black is never stingy when helping others, and today I got to see just how big her heart really is."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Good idea! Maybe if we ask someone else to help—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I've finally found you, Gold Ship! Yesterday, you—"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now, wait right there, McQueen. Don't tell me you're gonna ask someone with amnesia about stuff that happened yesterday?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What's this? You have amnesia?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So you don't remember singing that weird song in front of my bedroom last night?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nope! I don't remember doing anything like that!",
+            "choice_data_list": [
+                "(Is <i>this</i> what this whole farce was for?!)",
+                "(Is <i>this</i> what this whole farce was for?!)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sigh…</i> Are you dragging other people into your lies again? Listen, I didn't come here to scold you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Lately, I've been having trouble falling asleep. I was wondering what you were doing last night when you randomly burst into song, but…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "For some reason, hearing you sing sent me into a deep, relaxing sleep. I meant to come and thank you…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But I suppose there's no use in that if you can't remember doing it. I'll just take these back with me."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wait, you want to give me something? You should've started with that, Big Mack! Oh, my memories have suddenly returned! It's a miracle!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You greedy cur! I'm so sorry, you two. Thank you for bearing with her."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And they're gone…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, I'm still glad Golshi was able to remember what happened right away. That puts my mind at ease."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black believed Gold Ship's tall tale until the very end, and she just seems happy to have been of help."
+        }
+    ]
+}

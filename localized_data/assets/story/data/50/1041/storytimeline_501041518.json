@@ -1,39 +1,42 @@
 {
-    "no_wrap": true,
+    "title": "ライバル、ですッ！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Pheee～w! Bakushin on a day off is truly \nsomething special! \nI seem to have come all the way to the \nprefecture border without noticing…"
+            "text": "Hmm, my Bakushin energy is particularly strong on my days off. I accidentally ran to the border of the prefecture…"
         },
         {
-            "text": "(Whooosh… Clatter…)"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmhm!? \nRunning over there, my rival――"
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's the Shinkansen…! \nAs expected, what a magnificent run!"
+            "text": "Oh! Right on schedule, my rival!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…But I'm no slouch either! \nAllow me to show to you the fruits of my \ntraining!"
+            "text": "A bullet train! As expected! What performance! Running at such speeds!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiii――n!"
+            "text": "…But I won't lose! I'll show you the fruits of my training!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hah… Haaaah… I never thought I'd… lose \nsight of it… A, and――"
+            "text": "Bakushin, BAKUSHIIIN!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Where… am I…?"
+            "text": "<i>Pant, pant…</i> No way. How could I… lose sight of it…"
         },
         {
-            "text": "By the time she got back to Tracen \nAcademy, even Sakura Bakushin O was \nexhausted…"
+            "name": "Sakura Bakushin O",
+            "text": "Where… where did I end up?"
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time Sakura Bakushin O makes it back to Tracen Academy, she's completely exhausted."
         }
     ]
 }

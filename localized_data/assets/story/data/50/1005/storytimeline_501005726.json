@@ -1,0 +1,56 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on an outing with Fuji Kiseki one day, when…"
+        },
+        {
+            "name": "???",
+            "text": "\"Trainer! Trainer! Won't you dance a fun little dance with me?\"",
+            "choice_data_list": [
+                "What was that?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It feels like the voice came from inside a nearby claw machine filled with plush toys…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha! I really got you there! It was just me. Did you like my little trick?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Just look at all the adorable ponies they've got here!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wish I could let them out and bring them to the stage, but…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It would take a lot of work to win them… Gosh, just what should I do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives me an imploring smile, and I take her not-so-subtle hint.",
+            "choice_data_list": [
+                "I'll get as many of them as possible!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Really?! Yay! Oh, but…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There may be consequences if you don't get any, so do your best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

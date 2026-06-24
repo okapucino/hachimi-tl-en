@@ -1,0 +1,133 @@
+{
+    "title": "呪いのカメラ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One afternoon, while I'm relaxing in my office…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Excuse me, Trainer. We'd really like to get your advice on something…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh do say yes! Pretty please! Come on, \"yes\" on three! One, two—",
+            "choice_data_list": [
+                "Sure. What do you want advice on?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You see, we're going to be interviewed tomorrow."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "They plan to have a photo shoot, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Fukukitaru told me that if I have my picture taken, my soul will be sucked out of my body. Apparently, I need to \"avoid it at all costs.\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And that's the truth! They get you with that shutter, and <i>click!</i> Your soul's jumping straight out of ya! All that's left is a shell!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Though I do think Suzuka'll end up fine, seeing how fast she is. But I'm afraid they'll catch me straight away!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I think… that's just a superstition."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Watch it! This is just like baking bread—let your guard down for one minute and you're toast!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What are you gonna do if we drop our guards and get our souls vacuumed right out? Just thinking about it is giving me the heebie-jeebies…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Any ideas, Trainer? How do we deal with those huge cameras reporters are always lugging around?!",
+            "choice_data_list": [
+                "Modern cameras don't take your soul, so you'll be fine.",
+                "Just snatch your soul back."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "…Modern cameras? You mean they're safer than the older ones?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I give Matikanefukukitaru a brief explanation on how cameras have evolved."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hm, I see what you're saying… So these cameras don't work like those evil daguerreotype ones made with silver and mercury…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You learn something new every day! You're so smart, Trainer."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Guess there's nothing for me to be scared of."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ahem. So Suzuka, allow me to explain. There is nothing to fear. You see, the thing about modern cameras—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Erm… I've been right next to you listening this whole time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru sounds like an expert now. It looks like she came out of this exchange a little wiser."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What a suggestion! You want us to plot a soul-salvaging tactic to take back what's rightfully ours?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nnngh! It's a little risky, but it might just work! I'll snatch back my soul before that camera even knows it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If I don't do anything, everyone will end up soul-sucked, all across the country—sad shells of themselves."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right!"
+        },
+        {
+            "name": "Photographer A",
+            "text": "You're up next, Fukukitaru. Look at the camera and say cheese!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nooo, I got snapped!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Time to strike back before they steal my soul!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hum-dilly-dee, come back to me! Soul retrieval magic!"
+        },
+        {
+            "name": "Photographer A",
+            "text": "Whoa, wh-what was that? Is that some sort of performance?! It was pretty neat, so shall we get another shot of it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's desperately rattling off incantations at the camera. We should probably channel all that energy she has somewhere else."
+        }
+    ]
+}

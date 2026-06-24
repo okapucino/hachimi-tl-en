@@ -1,0 +1,85 @@
+{
+    "title": "Taiyaki Party!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the cafeteria to find Ines Fujin walled in by taiyaki."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, hey there, Trainer. Hehe, don't mind me. I'm just having a solo taiyaki party! ♪",
+            "choice_data_list": [
+                "A taiyaki party?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yup. So what happened is, at the taiyaki place where I work…"
+        },
+        {
+            "name": "Taiyaki Stall Manager",
+            "text": "…Well, this is a problem. I messed up the numbers and ordered way too many ingredients."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh no… But hey, there's always a silver lining! How about letting all the part-timers practice with those extra ingredients? You can teach them how to make taiyaki like you do, Boss!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Nothing would go to waste, and everyone would learn something—it's two birds with one stone!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And that's how I ended up with a bunch of these taiyaki practice leftovers from work!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Mmm, they're all jam-packed with red bean paste. ♪ Time to dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin gleefully reaches for her first taiyaki.",
+            "choice_data_list": [
+                "Have you checked the calories?",
+                "You've earned those, so eat up."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Urk. Y-yeah, maybe this portion's too much for one person. Red bean paste is pretty sugary…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I was looking forward to eating what I'd rustled up, but I have to learn how much is too much."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Guess I'll just give these away! I can have another taiyaki party and invite everyone!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Heya-hey! Listen up, everybody! I've got some delicious taiyaki right here, and <i>just</i> for today, it's totally free!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh! And I'll tell you the taiyaki place that made these, so if you think they're delish you can go get some more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After the party, the taiyaki stall goes on to gain a legion of new regulars from the academy."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I will! Stuff always tastes that extra bit delicious when you make it yourself!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe. I got better at grilling taiyaki, and now my tummy's full up too… This is bliss! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time Ines Fujin is done happily eating all the taiyaki, there's not a single crumb left."
+        }
+    ]
+}

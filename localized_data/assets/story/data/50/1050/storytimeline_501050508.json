@@ -1,0 +1,45 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Narita Taishin in front of the academy gates, but she seems a little deflated.",
+            "choice_data_list": [
+                "Feeling under the weather?",
+                "Feeling under the weather?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Psh! Like hell I am!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I've been getting through my races fine, so what are you complaining about? I'm not some weakling!",
+            "choice_data_list": [
+                "It's just…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Shut it. I don't need you sticking your nose in my business!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(What's wrong with me? I'm so tired and moody, and I'm lashing out at everyone.)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Maybe I <i>am</i> feeling down… I should rest a little…)"
+        },
+        {
+            "name": "Monologue",
+            "text": "We part ways, but Narita Taishin is in low spirits as she slinks off."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her exhaustion must be catching up to her. Looks like I need to rethink her race schedule."
+        }
+    ]
+}

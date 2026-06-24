@@ -1,0 +1,42 @@
+{
+    "title": "Slacking Off",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho didn't show up for training today so I've been searching everywhere for her. The sun is starting to set when I finally find her in the library."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, Familiar. What're you doing here?",
+            "choice_data_list": [
+                "We were supposed to have training today.",
+                "We were supposed to have training today."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Oh."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I-It's not like I forgot! I've just been really busy practicing magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hold on! I'll just use magic to reverse time back to before training starts! That'll definitely work!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Philadelphus reversal! Philadelphus reversaaal!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Turn back already! C'mon! Philadelphus reversal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell she's sorry by how desperately she's trying to use magic, so I let her off with a warning."
+        }
+    ]
+}

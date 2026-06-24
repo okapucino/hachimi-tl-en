@@ -1,0 +1,204 @@
+{
+    "title": "殿下がバザーにやってきた！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fine Motion and I are on the way back from a day out when, at her insistence, we stop by a bazaar."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! There are so many little stalls! They're just like the ones we saw selling food at the festival!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I was just thinkin' the two of ya looked familiar! How's it goin'?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ines! Tamamo! Are you enjoying the market as well?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh, you betcha! This bazaar a big deal for us!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "We show up, do a little rummaging, and always walk away with bunches and bunches of neat stuff! And all on the cheap! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Is that so?! I'm getting more excited by the second!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "All units, enter alpha formation! We must ensure that no harm comes to the entourage!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Boy, those bodyguards of yours are as slick as ever. That said…"
+        },
+        {
+            "name": "Girl A",
+            "text": "Urghhh… Mommy, they're scary!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh my, my. It looks like the little ones are a little flustered."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Captain, why don't we take our leave? At this rate, we'll only end up bothering the other attendees."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I don't wish to frighten the children enjoying the bazaar. I'm quite satisfied with simply having seen it from afar."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa whoa whoa whoa whoa, hold on a sec! Instead of callin' it quits…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahem! Why don't <i>we</i> act as your guards? ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah! If I spot any suspicious-lookin' weirdos lurkin' around, I'll cuff 'em 'n take 'em downtown."
+        },
+        {
+            "name": "Security Captain",
+            "text": "If the two of you are willing to act as escorts, then we needn't worry. The rest of us will assume beta formation and survey the situation from the background."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My gratitude to you all for your continued kindness. Well then, shall we? ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, we gotta hit this stall first! It's me and Ines's favorite!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "They have clothing, and toys, and—goodness, are these accessories handmade?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Bazaars sell more than just second-hand stuff. They have handcrafted items too."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Is that so? Then, I believe I'll purchase this one. Pardon me, but are you the one who made this?"
+        },
+        {
+            "name": "Bazaar Shopkeeper",
+            "text": "That's right… Wait a sec… Are you Fine Motion?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This item has utterly captivated me. You're a wonderful craftsperson. ♪"
+        },
+        {
+            "name": "Bazaar Shopkeeper",
+            "text": "Oh, n-not at all! Y-you're too kind!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What the… From this angle, it looks kinda like there's a halo hoverin' over Fine's head…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Tamamo, Ines! Thank you both so much for making this wonderful experience possible."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Th-that bright smile! I'm blind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion continues to enjoy the bazaar, leisurely going from one stall to the next."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, is it closing time already? It feels like it's only been a moment.",
+            "choice_data_list": [
+                "Did you enjoy yourself?",
+                "You sure had some great security.",
+                "You sure had some great security."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, is it closing time already? It feels like it's only been a moment.",
+            "choice_data_list": [
+                "Did you enjoy yourself?",
+                "You sure had some great security.",
+                "You sure had some great security."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I did! I found some real treasures, thanks to everyone's help. ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh yeah, you went head-over-heels for that T-shirt ya got at the end."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, what did you buy? Show me! Show me! ♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's quite a shirt… It's got a gigantic kanji for \"noodles\" on the front…",
+            "choice_data_list": [
+                "It's pretty… quirky.",
+                "It's pretty… quirky."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Precisely! I've never seen a T-shirt with a design like this before, so I just couldn't help myself. ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh yeah. Now <i>that's</i> chic. I bet my grandma back home'd like it too!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, I might hang it in my room to remember today by. Hehe. Bazaars really are wonderful!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion looks overjoyed after spending a fun day at the bazaar with her friends."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I sure did! In fact, I hope I can rely on them again sometime!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We gotcha covered! Bargain huntin's serious business, after all. Next time, we'll even let you in on some trade secrets."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Maybe next time we could try shopping at another market!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you both so much! With you two by my side, I feel like I'm going to learn a great deal about Japan's shopping culture and etiquette!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ngh! Looks like I better get used to this majestic glow!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya can say that again…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's friends find themselves dazzled by the sheer majesty she radiates from time to time."
+        }
+    ]
+}

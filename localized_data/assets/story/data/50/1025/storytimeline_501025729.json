@@ -1,0 +1,29 @@
+{
+    "title": "Claw Machine: Failure…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "…It looks tricky.",
+            "choice_data_list": [
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No, don't apologize… I appreciate that you tried in the first place."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Huh? Oh, okay…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "My friend says not to beat yourself up over it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

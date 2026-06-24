@@ -1,0 +1,217 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "Three friends assembled for the new year! A triple first shrine visit!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh no, I forgot to bring coins for my offering!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I can lend you some, Spe."
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa and her friends are starting their senior year at last. I'm accompanying the three of them for their first shrine visit of the new year."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, Trainer. The arrow that person's holding is a hamaya, right?",
+            "choice_data_list": [
+                "Yeah, it looks like it.",
+                "Yeah, it looks like it."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I heard a story about those things!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "One arrow breaks easily, but three arrows together can break your enemy!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Three arrows? Perhaps you're thinking of Mori's lesson of the three arrows. But I think you might be misunderstanding part of it."
+        },
+        {
+            "name": "Special Week",
+            "text": "What's this three arrow business?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Basically, if the three of us work together, we can even beat Suzuka!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, I see! We're stronger together than on our own! Like a power up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the time being, it seems as though the three of them have the same opponent to overcome."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clang, clang!</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "I hope I can run with Suzuka and give a performance everyone will talk about!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I swear to dedicate myself to my training so I can surpass Suzuka."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I wanna beat Suzuka! I won't lose this time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Each racer phrases it differently, but they all have one goal."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Let's do our best!"
+        },
+        {
+            "name": "The Three",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, after parting with Special Week and Grass Wonder…",
+            "color_text_info_list": [
+                "Special Week"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hey, Trainer. My first race of the new year is the Takarazuka Kinen, right? Will Suzuka be running there?",
+            "choice_data_list": [
+                "Yeah, most likely.",
+                "Yeah, most likely."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right! In that case, I gotta be fearless and resolute in my training until then!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Suzuka, Spe, and Grass are all great rivals, but…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Who do you think we should try to train like for our New Year's training session?"
+        },
+        {
+            "name": "Monologue",
+            "text": "So she wants to replicate one of their training styles. It's true that all three of them have their strong points."
+        },
+        {
+            "name": "Monologue",
+            "text": "The energetic Special Week. The intelligent Grass Wonder. The enigmatic Silence Suzuka."
+        },
+        {
+            "name": "Monologue",
+            "text": "If we're going to try to imitate one of them, maybe we should go with…",
+            "choice_data_list": [
+                "Special Week.",
+                "Silence Suzuka.",
+                "Grass Wonder."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahhh, so you think I should train like Spe?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "In that case, there's only one thing that comes to mind!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Spe was born in Hokkaido, and she's real good at farming! Workin' in the fields has gotta be great exercise!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Pull out some carrots, shake off the dirt, and then—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>Nom! Munch, munch!</i> ♪",
+            "choice_data_list": [
+                "You ate it?!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yeah! Spe always gives 'em a taste!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That was one delicious carrot. I'm havin' another! I can eat as many as I want guilt-free since I'm bein' Spe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa eats every carrot in sight, and seems to have recovered a ton of energy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "What?! I don't eat <i>that</i> much!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahhh, so you think I should train like Suzuka?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I remember Suzuka told me once that she wants to see a view where there's no one else but her."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Okay! I'm gonna try to run and find a place just like that! See ya later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fsshhh…</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "There's no one here at the beach in the offseason. It's empty and beautiful… but…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm so lonely! This isn't for me at all! Traaaineeer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa comes running back just as quickly as she left. Her experience enduring loneliness has helped her grow."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Training like G-Grass? I know her training routine well enough that… Well…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It'll be tough, but if you think it's a good idea…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Today… I'm gonna study how to run. Grass doesn't skimp on running or studying."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "No matter how boring it gets, it's important that I stay cool. Uuugh. I really want to run, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Emulating Grass Wonder, she patiently endures a proper study session and seems to learn many new ways to approach running."
+        }
+    ]
+}

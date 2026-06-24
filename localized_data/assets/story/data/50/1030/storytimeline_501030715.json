@@ -1,0 +1,119 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Rice Shower has finished training for the day."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, you're not going home?",
+            "choice_data_list": [
+                "I have to do some prep for training tomorrow."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, you're not going home?",
+            "choice_data_list": [
+                "I have to do some prep for training tomorrow."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You mean you're still working… because of me?",
+            "choice_data_list": [
+                "You go home and rest."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You mean you're still working… because of me?",
+            "choice_data_list": [
+                "You go home and rest."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Okay, I understand. See you tomorrow then…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Okay, I understand. See you tomorrow then…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I finish my preparations for tomorrow's training session and start to head home. That's when I spy Rice Shower running on the track."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff, huff…</i> More, more… You have to work harder, Rice!",
+            "choice_data_list": [
+                "Are you training by yourself?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… Big Brother. You found me…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… Big Sister. You found me…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Since you're working so hard for me, I have to keep working hard too.",
+            "choice_data_list": [
+                "Then let's train together for a bit.",
+                "Just your concern is enough for me."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Since you're working so hard for me, I have to keep working hard too.",
+            "choice_data_list": [
+                "Then let's train together for a bit.",
+                "Just your concern is enough for me."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Okay… Thank you!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Okay… Thank you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch over Rice Shower as she does her additional training."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But that's not enough… I want to be of some use to you.",
+            "choice_data_list": [
+                "Well, it'll sure be lonely walking home by myself…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But that's not enough… I want to be of some use to you.",
+            "choice_data_list": [
+                "Well, it'll sure be lonely walking home by my self…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… Then, why don't I go with yo—ah!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I have to go change first, but if you wait right here, I'll be back in no time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower eventually returns, and we make our way back home."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "Urgh! My head's been throbbin' like crazy since this mornin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "It is what it is. Guess I'll just wrap a headband 'round it for now.",
+            "choice_data_list": [
+                "Why a headband?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Why? Haven't ya heard? The best cure for a headache is a headband!"
+        },
+        {
+            "name": "Inari One",
+            "text": "If ya tie a headband 'round your temples, it'll help relieve the pain.",
+            "choice_data_list": [
+                "Oh… really?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "The look on your face says ya don't believe me."
+        },
+        {
+            "name": "Inari One",
+            "text": "Pretty sure I remember hearin' somethin' about easin' the pain by applyin' pressure to the blood vessels in your head…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Urgh… Thinkin' hard is makin' it hurt more…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I advise Inari One to take medicine instead of using a headband, but the headache continues to plague her for a while."
+        }
+    ]
+}

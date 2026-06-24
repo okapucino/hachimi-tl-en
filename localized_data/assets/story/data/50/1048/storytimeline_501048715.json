@@ -1,0 +1,70 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, following a training session with Tosen Jordan…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Phew… Next up, I'll run along the river and arrive at the dorm five minutes before curfew. Excellent—everything's going according to plan today."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're running in <i>that</i> area? Isn't it gonna be super crowded? That spot's been trending on Umasta for the chill night scenes."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Really?! I was not aware of those details."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There's only two minutes until I leave. I have no time to alter the route… Maybe I could shorten the distance? Ah, but then—"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, want me to tell you a better route? It's closer than the river."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Lemme go with you—I wanted to drop by the convenience store down there anyway.",
+            "choice_data_list": [
+                "Okay, hurry back!",
+                "Any more running for you would be overkill."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Cool, then let's roll. It's dark, so watch your step."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, please wait! First, I need to calculate the distance and time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Tosen Jordan ends up running much more than usual."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Come ooon! It'll be fine! Don't be such a buzzkill!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Running too much certainly wouldn't be good. I believe that is an accurate judgment."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If you would just give me directions, I'd be very grateful."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "All right, fine… Give me a call if you get lost. I'll be up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan tells Eishin Flash the shorter route and sees her off before heading back to the dorm."
+        }
+    ]
+}

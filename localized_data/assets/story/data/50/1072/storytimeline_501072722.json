@@ -1,0 +1,37 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while talking to Yaeno Muteki in my office…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Agh…",
+            "choice_data_list": [
+                "Do you have a headache?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes… I've been experiencing throbbing pains on and off since this morning."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Could it be that these headaches are the result of insufficient head training?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When I was a child, I used to train my head by headbutting trees in the yard. Recently, though, I've been neglecting such practice…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I must return at once to my headbutt traini—agh! I won't even be able to do my regular training at this rate…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I step in to stop Yaeno Muteki from headbutting anything, her headaches continue for some time."
+        }
+    ]
+}

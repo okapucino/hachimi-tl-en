@@ -1,0 +1,283 @@
+{
+    "title": "『あなたはマスター』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "With a fantastic performance in the Twinkle Series, Mihono Bourbon has had an impressive first three years."
+        },
+        {
+            "text": "One peaceful day, after reaching that milestone…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Would you like to come with me to visit my family?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I end up accompanying Mihono Bourbon to her parents' house."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I asked you to come for two reasons."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "First, my father is always saying that he wants to meet you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Now that our race schedule has settled down, I have determined that there are no problems with being away from the academy."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The other reason is…"
+        },
+        {
+            "text": "She stops mid-sentence."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There is a matter that I must verify.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…We will arrive at the closest station to my home soon. Please make preparations to disembark."
+        },
+        {
+            "text": "She takes me to a simple house in the remote countryside."
+        },
+        {
+            "text": "A kind-looking man is waiting at the entrance."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Welcome home, Bourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you, Father. Please meet my master.",
+            "choice_data_list": [
+                "P-pleased to meet you!"
+            ]
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "I've heard so much about you. Thank you for taking care of my daughter."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "I'm sorry I couldn't come to the academy to meet you. Our house is a bit small, but please make yourself at home."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Here is the souvenir you requested, Father."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Oh, thank you. So, this is that special carrot bread everyone's talking about…"
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Please, make yourself at home. I'll go get you something to drink.",
+            "choice_data_list": [
+                "No, I'm all right!"
+            ]
+        },
+        {
+            "text": "I look around the room and see a photo of a very young Mihono Bourbon displayed on a shelf."
+        },
+        {
+            "text": "She's holding a flag with \"#1\" written on it, and flashing a peace sign at the camera, all while maintaining a poker face."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "According to my data logs, this is a photo of the first time I ever finished in first place in a race."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It was just after I decided I wanted to win the Classic Triple Crown. I recall feeling \"elated\" at the time."
+        },
+        {
+            "text": "The room is adorned with other trophies and medals, as well as old caricatures she drew."
+        },
+        {
+            "text": "An old ticket for the Japanese Derby in particular catches my attention.",
+            "choice_data_list": [
+                "What's this?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is… unknown. It was not here before."
+        },
+        {
+            "text": "She tilts her head in confusion as her father returns with a tray of tea."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "It's a ticket stub from when I took Bourbon to the Japanese Derby for the first time."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Since she's been gone, I've been digging out things like this. I'm a bit of an old sop, I have to admit…",
+            "choice_data_list": [
+                "It must be important to you."
+            ]
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "It was after Bourbon watched the race that day that she said she wanted to be a Triple Crown champion."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "I'm sure you know, but she's not really the type to go around expressing her desires."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "So I couldn't have been happier. We started training together after that."
+        },
+        {
+            "text": "I remember Bourbon telling me that her father started training her when she was young."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Father was a master, so I have run exhaustive routines since youth. In other words, I am used to it."
+        },
+        {
+            "text": "Thanks to the habits she's maintained since a young age, she has the physical strength and mental fortitude to endure tough training.",
+            "choice_data_list": [
+                "Yes, I've heard about that."
+            ]
+        },
+        {
+            "text": "As I excitedly go on and on about how beneficial that training turned out to be for Mihono Bourbon, her father scratches his head bashfully."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "I really didn't do anything special."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "More important is what <i>you</i> have done for her. I've been wanting to thank you.",
+            "choice_data_list": [
+                "I'm the one who hasn't done anything spec—",
+                "I'm the one who hasn't done anything spec—"
+            ]
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "No. You turned racing into something more than just a Triple Crown dream for her."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…"
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Seeing her cry those tears of joy at the Arima Kinen while the crowd went wild…"
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "I may have only seen it on TV, but I'll never forget it for as long as I live."
+        },
+        {
+            "name": "Bourbon's Father",
+            "text": "Thank you so much for taking care of my daughter."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Father…"
+        },
+        {
+            "text": "We relax for a little while after that and then leave."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much for meeting my father, Master."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is rare for him to be so talkative. He must have been very happy.",
+            "choice_data_list": [
+                "By the way, what was it that you needed to verify?"
+            ]
+        },
+        {
+            "text": "On our way here, Mihono Bourbon said that there was a matter that she needed to verify."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is… well… the difference between you and my father."
+        },
+        {
+            "text": "I can't help but ask her to elaborate after hearing such an unexpected response.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I used to believe that you were similar to my father."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You both treat my dream with respect, and you have both walked with me on my path to achieve it."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, after the Arima Kinen, I felt that I may have been mistaken."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My emotions rose beyond expected levels on that day as I returned to your side."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have realized that my emotional state has gained some degree of volatility since I met you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This emotional volatility feels pleasant, and has become a factor in making my life feel more enriched…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "When I realized this… It's difficult to express, but I felt that you were different from my father."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Today, I… wanted to verify that feeling.",
+            "choice_data_list": [
+                "And what did you find out?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The two of you are similar in many ways. You both believe in me and continue to stick with me."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, there is certainly a difference. I cannot explain it sufficiently, but…"
+        },
+        {
+            "text": "She looks at me straight in the eyes."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You are my master and I cherish the time we spend together greatly.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "text": "It could just be the light of the sunset, but her cheeks turn slightly red."
+        },
+        {
+            "text": "It feels like my journey with Mihono Bourbon has started anew."
+        }
+    ]
+}

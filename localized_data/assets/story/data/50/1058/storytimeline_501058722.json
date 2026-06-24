@@ -1,0 +1,49 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "Ohh… Oww… Uugh, I think a headache is coming on…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "My head suddenly hurts… I don't think it's because of a cold…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I haven't tripped yet today, either… What could be the reason? Nghh…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Owie! Ow ow! It's starting to hurt again…",
+            "choice_data_list": [
+                "Maybe it's your overthinking?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "That's true… I do feel like too much thinking sometimes gives me a headache."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Which means… maybe I should stop thinking altogether? O-okay, no more thinking. Don't think."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ohhh… But I can't finish the day without reflecting on my actions!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ow! Ow ow ow! I'm not sure if I can stop thinking…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to stop her ruminating, Meisho Doto agonizes over her headache."
+        }
+    ]
+}

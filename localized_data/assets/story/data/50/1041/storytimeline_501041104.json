@@ -1,19 +1,22 @@
 {
-    "no_wrap": true,
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Early in the morning during the summer \ntraining camp, I somehow woke up and \nwent outside to see…"
+            "name": "Monologue",
+            "text": "I wake up early one morning during summer camp and head outside to find…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ba-ku-shin… \nBa-ku-shin……!"
+            "text": "Bakushin… Bakushin!"
         },
         {
-            "text": "A Sakura Bakushin O jogging."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is in the middle of a jog."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oya! Trainer-san! \nGood morning!",
+            "text": "Oh! Trainer! Good morning!",
             "choice_data_list": [
                 "You're up early.",
                 "You're up early."
@@ -21,48 +24,50 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes! I'm very admirable!"
+            "text": "Yes! I'm remarkable, after all!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As the model class president for Uma \nMusume everywhere, waking up early \nis a given!"
+            "text": "Waking up early is an important part of being a class representative and a role model to all Umamusume!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sleeping through the night with the \nlights out, waking up with the sun in \nthe morning. And doing your voluntary \ntraining before anyone else!"
+            "text": "Evening means getting proper sleep while the lights are out, and morning means rising with the sun! I wake up earlier than anyone else to do some solo training!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's only by showing everyone who I am \nthat I can gain their high esteem!"
+            "text": "Showing that side of myself will help me gain the respect of others as well!"
         },
         {
-            "text": "Even during the training camp, she's \nlooking out for others and trying to set a \ngood example. Her attitude is honestly \nwonderful."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So, Trainer-san, please take lots of \npictures of me!"
+            "name": "Monologue",
+            "text": "Even during the summer camp, she works hard to set a good example for those looking up to her as a role model. What an admirable attitude."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'd like to post it in the hallway of the \ncamp as an example of a \"Model Honors \nStudent\"!"
-        },
-        {
-            "text": "I have a feeling that this course of \naction is a little―no, actually, a lot―wrong."
+            "text": "So, don't forget to take tons of photos of me, Trainer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That aside! Trainer-san, let's do some \nSpartan training, please!",
+            "text": "I want to put up a sign in the dorm area that reads \"exemplary model student.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like that kind of action may be missing the mark a little. Or perhaps a lot."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Sooo! Trainer, I want to undergo some real old-school super tough training!",
             "choice_data_list": [
-                "……Huh?"
+                "…Say what?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Since this is our long-awaited training \ncamp, I thought we might want to make it \nan exemplary one!"
+            "text": "Seeing as we're at a training camp, I want to make it an exemplary camp experience!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words――Spartan training! \nAnd I, being intelligent, have realized this!",
+            "text": "So I want the toughest you've got! That's the genius plan I thought up!",
             "choice_data_list": [
                 "(Is that so?)",
                 "(Is that so?)"
@@ -70,172 +75,178 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So please, by all means, let's train \nwithout holding anything back!"
+            "text": "So, give me the most rigorous training you've got!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "She trained harder than anyone else, \ndrinking away every last drop of the mud, \ntears, and sweat…!"
+            "text": "I'll endure more intensity than anyone else, come what may! Mud, sweat, tears! Give it to me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And so! \nI'm going to become an even more \namazing class president!!",
+            "text": "When it's all said and done, I'll emerge an even greater class representative!",
             "choice_data_list": [
-                "….Alright!"
+                "You got it!"
             ]
         },
         {
-            "text": "It's good that she's motivated, anyways. \nA Spartan training that she might enjoy \nwould be…",
+            "name": "Monologue",
+            "text": "Regardless of her motivation, her enthusiasm is a good thing. She'll probably be delighted if I pick something very hard.",
             "choice_data_list": [
-                "Lifting logs in the forest!",
-                "Swimming to her limits in the ocean!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Lifting logs…!?",
-            "choice_data_list": [
-                "(Was that as stupid as I thought it was?)",
-                "(Was that as stupid as I thought it was?)"
+                "Carry logs in the forest!",
+                "Swim in the ocean till you reach your limit!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……Good! \nThat's good, Trainer-san!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's suuuuuuper Spartan!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm going to Bakushin to the forest right \nnow!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hm… Hmhmhmhm……!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "There are… no logs!? \nThe trees, they're all so lively!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Could it be that I…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ackk―! If I don't knock the tree down, a \nlog won't be brought into this world!?",
+            "text": "Logs?!",
             "choice_data_list": [
-                "Don't do that.",
-                "Don't do that."
-            ]
-        },
-        {
-            "text": "If things continue like this, it seems they'll \nonly get increasingly more absurd, but \nwhen I tried to tell her to rein it in――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ah―――!! \nI've come up with an excellent idea!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer-san will be a tree!",
-            "choice_data_list": [
-                "!?"
+                "(Was that a bit too much?)",
+                "(Was that a bit too much?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, I'll lift you up!!"
+            "text": "…Nice! Good idea, Trainer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Here I gooo―!"
-        },
-        {
-            "text": "After that, we got into a scuffle for a \nwhile……"
+            "text": "That's exactly the kind of toughness I was thinking of!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To the limit! \nThat's truly Spartan!"
+            "text": "Time to Bakushin to the forest!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood, let's do it! \nI'll use my Bakushin・Guts!!"
+            "text": "Ngh… Mmm…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, let's push the limits!! \nI'll swim to the end of the horizon!",
+            "text": "There are no logs! All of the trees are still alive! I can't lift like this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Maybe, if I…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If… if I chop down a few trees, we'll have all the logs we need! Right? Right?!",
             "choice_data_list": [
-                "Stop, Bakushin O"
+                "Please don't.",
+                "Please don't."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If I leave her be, she's likely to do something reckless. I need to tempt her with something else…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahhh! I just had a great idea!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You can be the tree!",
+            "choice_data_list": [
+                "What?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nI've stopped!"
+            "text": "Okay! I'm gonna carry you around!"
         },
         {
-            "text": "I'm sure she'd seriously swim to the \nend of the ocean. \nThat's dangerous…",
+            "name": "Sakura Bakushin O",
+            "text": "Heave-ho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For a while after that, I grapple with Sakura Bakushin O like my life depends on it."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A test of my limits! How very spartan!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I got it! Let me try! Bakushin… guuuts!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm going to push my limits! I'm going to keep swimming till I go beyond the horizon!",
+            "choice_data_list": [
+                "Stop."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay! I've stopped!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Knowing her, she'll actually swim off somewhere far away and exhaust herself in the open waters. It could end up being quite dangerous…",
             "choice_data_list": [
                 "Let's swim in the shallows!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Roger!"
+            "text": "Sure!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "―Wait, I'm not going to swim in \nshallow water!",
+            "text": "Erm, it's too shallow to swim…",
             "choice_data_list": [
-                "Class presidents can swim in shallow water!"
+                "A class representative like you should be able to swim even in shallow water!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now that you mention it―! \nAnd also, there's nothing I can't do."
+            "text": "You're right! There's nothing I can't do!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "All right, I'll swim to my limits in the \nshallows!"
+            "text": "Okay! I'm going to test my limits in the shallows!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushiiiiin!"
+            "text": "Bakushiiin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, the shallows are roughly about \nhere……"
+            "text": "Well, it seems shallow around here…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah, you there, you just crossed in front \nof me!"
+            "text": "Grrr! You! You dare cross my path!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, that crab! \nYou've got some nerve challenging me to a \nshowdown!"
+            "text": "Yes, you! Crab! You've got some nerve to challenge me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bring it on!!"
+            "text": "I accept your challenge!"
         },
         {
-            "text": "After that, I kept an eye on Sakura Bakushin \nO while she frolicked in the waves for a \nwhile……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hah, haa……"
+            "name": "Monologue",
+            "text": "After that, I watch over Sakura Bakushin O for a while as she frolics by the water's edge…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To the limit, I endured….! \nThe onslaught of crabs!!"
+            "text": "<i>Pant, pant…</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The training was quite spartan, but I \nmanaged to get through it!"
+            "text": "I pushed myself to my limit! All the while sustaining that crab's assault!"
         },
         {
-            "text": "The purpose of the program changed \nhalfway through, but at any rate, it seems \nto have helped her grow?"
+            "name": "Sakura Bakushin O",
+            "text": "It was quite the tough training session, but I somehow managed to prevail!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her objective changed halfway through, but the ordeal seems to have somehow helped her grow."
         }
     ]
 }

@@ -1,0 +1,347 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, on my way back from shopping with Tokai Teio…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? There's a bunch of people gathering over there. I wonder what's going on?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "How about the lovely parent and child over there? Care to try your luck?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm not a child!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But, ooh, it's a raffle! Hehe, I'm super good at those too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This one time, I was on such a winning streak that I got called a lucky charm!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Trainer! I got a raffle ticket from the game shop earlier, so we should give it a go!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Let's crank the spinner together! That's teamwork!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While crossing our fingers for a big prize, the two of us crank the raffle spinner's handle."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaaaaat?! The grand-prize?! Oh my gosh, oh my gosh, YESSS!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What did I tell you? Am I great or what?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Now that's what I'm talking about! Hehe! Hahaha! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio skips around happily. She seems to be over the moon."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, now I've just gotta invite someone to come with me! And of course, there's only one person I wanna ask!",
+            "choice_data_list": [
+                "You mean Rudolf, right?",
+                "You mean Rudolf, right?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yep, you got it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wait, but then again… Hmm…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Should I really invite Prez? Now that I think about it, I'm not so sure…",
+            "choice_data_list": [
+                "Why not?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Can I really go to the hot springs with her right after I made a New Year's wish to take her down?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've got more important things to focus on right now, and I dunno if Prez would agree to it, either."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that as Tokai Teio gets stronger, her way of thinking has also changed."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, I know! Can you hold on to this ticket for now, Trainer?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This probably isn't the right time to invite anyone. I wanna wait until after all the Twinkle Series stuff has calmed down."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Once that time comes, I'll invite the person I can have the most fun with. That sound good?",
+            "choice_data_list": [
+                "Yeah. I'll keep it safe.",
+                "Yeah. I'll keep it safe."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Thanks a lot! Hopefully by then, I'll be the undisputed Monarch of the Twinkle Series!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then the hot spring owner and all the chefs and stuff will be like, \"Whoa! It's the invincible Teio!\" It'll be amazing!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then they'll give me a bunch of sashimi, and put, like, loads of rubber duckies in my bath!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daydreaming of a royal welcome, Tokai Teio is flooded with motivation as she thinks about all the fun things the future holds."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Only first? Aww maaan, I wanted the <i>grand</i> -prize! This is pretty good too, though."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Check out how amazing it looks! So juicy and tender!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Wait. Trainer, I bet you're thinking it's childish of me to get all excited over a hamburger steak."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But you know what's <i>really</i> childish? Judging people like that! I mean, everyone likes hamburger steak, don't they?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So let's eat it together!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, I know! We should put a tasty fried egg on top too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We share the egg-topped steak. Her smile as she eats is filled with more glee than I've ever seen a child express."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Aww, second-prize? I thought I had it there for a second. Ah, well. Them's the breaks."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa, this sure is a lot of carrots, though! I wonder what I can use them all for…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I know! I can throw a carrot party!",
+            "choice_data_list": [
+                "…What kind of party is that?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, first I get all my friends together. Then we chat and play a bunch of games…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then we tell jokes and do acrobatics! And magic tricks! And quizzes!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, I can't wait!",
+            "choice_data_list": [
+                "What about the carrots?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Carrots? Oh, right, the carrots. We can eat those when we get hungry."
+        },
+        {
+            "name": "Monologue",
+            "text": "…It seems the carrots are just an afterthought compared to the party. What she really wants to do is hang out with her friends."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hurry up, Trainer! Let's get this party started! Ah, this <i>carrot</i> party, that is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, the carrots provided the perfect excuse for Tokai Teio to have a great time, and left everyone thoroughly sated."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaaaat?! One measly carrot? Can't we at least have two? One for me and my trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her protests go unanswered and we only receive one carrot."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Grr, what a rip-off. Should we at least do something with it before we eat it?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, I know! I'll use it to pose like Prez!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hoists the carrot up to the sky."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You get what this pose means?",
+            "choice_data_list": [
+                "That you won the first leg of the Triple Crown?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Noooo!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It means I'm gonna win the next race too, so I'm gonna need two carrots!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Soooo… can I have another one? Pretty please?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "No can do."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, how about three? Then I'll do the Triple Carrot Crown pose."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her logic making less sense by the second, Tokai Teio is ultimately forced to give in and munch on a single crunchy carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "N-no way! Just tissues?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Where'd all my luck go?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wait a second. Trainer, are you an unlucky person?",
+            "choice_data_list": [
+                "Who knows…"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I see. For whatever reason, my luck ran out today."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I don't ever wanna remember this day, so I'll give these tissues to you."
+        },
+        {
+            "name": "Monologue",
+            "text": "For once, Tokai Teio seems depressed. I guess everyone has their unlucky days."
+        }
+    ]
+}

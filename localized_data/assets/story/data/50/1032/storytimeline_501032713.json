@@ -1,0 +1,79 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Agnes Tachyon",
+            "text": "I know you shouldn't neglect even a minor injury, but don't you think you're worrying a little too much?",
+            "choice_data_list": [
+                "I don't think so."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm… Is this part of your duty as a trainer?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, if you're asking if it hurts or not, I'll tell you it certainly does."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's not so bad that I can't walk… Well, I'll have you carry me home anyway.",
+            "choice_data_list": [
+                "That's probably best.",
+                "That's probably best.",
+                "I'm not going easy on you!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's not so bad that I can't walk… Well, I'll have you carry me home anyway.",
+            "choice_data_list": [
+                "That's probably best.",
+                "That's probably best.",
+                "I'm not going easy on you!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Good grief… I guess being so serious comes along with being a worrywart."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I was only half joking. But if you insist!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I carry Agnes Tachyon back to her dorm while keeping an eye on her injury."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Whaaat?! If you were <i>really</i> worried about me, you'd at least do that!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Sigh…</i> Now, I don't want to walk anymore."
+        },
+        {
+            "name": "Monologue",
+            "text": "I succumb to her moping and wind up carrying her back to the dorm."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You're pretty harsh for one who's supposed to be worried."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If you're going to be mean, you could at least patch me up."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Maybe I can learn a thing or two from your treatment techniques."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon observes me with a smile. From the look on her face, it seems like she might have learned something."
+        }
+    ]
+}

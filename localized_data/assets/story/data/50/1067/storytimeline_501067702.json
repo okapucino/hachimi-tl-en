@@ -1,0 +1,201 @@
+{
+    "title": "裏路地アドベンチャー",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond and I are on our way home from a day out, when…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm?! Oh my! What's this?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer, I've made a major discovery! There's a side street over there!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! I never noticed it before! I wonder what's down there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I even have the chance to stop her, Satono Diamond runs off down the street…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. This place feels kind of ominous, like a ghost could just pop out of nowhere…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "BOO! You mean like that?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, Jordan! Hello! ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I didn't scare you even a little? Omg, I must look so cringe!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What're you up to anyway?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I was curious about this street, so I thought I'd go on a little adventure and see where it takes me."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The scenery around here is so unusual—it's like a different world… Hehe. My heart won't stop pounding. ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Say less. Wanna check it out together then? I'll show you all the spots that really slap!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Oh, and don't get shook by the humungo dog at this house. It barks nonstop the second you make eye contact!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sounds like a very lively doggy! I wonder what it looks like…"
+        },
+        {
+            "name": "Large Dog",
+            "text": "Woof, woof! Woof!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, you're right! Hehe. It's so cute!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Looks like you're having fun! Wanna see which shops are really lit?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Certainly. That sounds fun."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh? That road over there looks even more foreboding."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hol' up! You really don't wanna go over there!",
+            "choice_data_list": [
+                "Is it dangerous?",
+                "Is it dangerous?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's uh… kind of a hangout for some pretty sketch types…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "They've never really messed with me, but that's no reason to go jumping in there either."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Let's go this way inste—",
+            "choice_data_list": [
+                "Where the heck'd she go?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh nooo! This is low key bad! Satono?! Where are you?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, you must be a so-called delinquent, right? I've seen people like you in TV shows."
+        },
+        {
+            "name": "Delinquent Girl",
+            "text": "Huh? The heck you just say?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, forgive me. My name is Satono Diamond. There's something I'd really like to ask you."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I really like stories about delinquents sheltering wet puppies from the rain. Have you ever had an experience like that?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "W-w-wait, Satono! Just stop talking!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Don't mind her! We're just gonna dip!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh? Wait, I—",
+            "choice_data_list": [
+                "Let's hurry and get you home!",
+                "You should apologize for bothering her."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "O-okay…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We'll be leaving now. Do have a pleasant day. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm so disappointed my discussion with that delinquent had to be cut short…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Are you okay?! How were you not shook by that situation?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What was there to be afraid of? From what I've seen on TV, delinquents are kind-hearted people who take in lost puppies. ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're killing me here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond already seems disappointed, so I refrain from scolding her."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It was rude of me to question you so suddenly… Please accept my apology."
+        },
+        {
+            "name": "Delinquent Girl",
+            "text": "Tch. I ain't interested in starting something with you stuffy types. Just watch yourself next time."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you for understanding! I guess it's true that delinquents stand firm for what they believe in!"
+        },
+        {
+            "name": "Delinquent Girl",
+            "text": "Oh? You seem to actually know what's up, fancy pants. Heh. Wanna hit a cafe?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, that sounds exquisite! I'd love to! ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously?! That Satono sure is built different!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Satono Diamond listens to the delinquent's anecdotes, eyes lit up with wonder."
+        }
+    ]
+}

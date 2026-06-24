@@ -1,0 +1,85 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, a letter from a fan arrives for Fine Motion."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow, a letter! How thrilling!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Excuse the intrusion, but please allow me to confirm the letter's contents first."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's security captain suddenly appears and promptly looks over the letter."
+        },
+        {
+            "name": "Security Captain",
+            "text": "I have confirmed that the letter poses no danger. Pardon me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay, thank you very much.",
+            "choice_data_list": [
+                "That's an awful lot of effort just to receive a single letter.",
+                "That's an awful lot of effort just to receive a single letter."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I would love to unseal it myself, but you just never know. I was raised to be cautious."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Umm, let's see here…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"Dear Fine Motion, watching you has given me courage.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"My parents told me that it was absurd for the daughter of a prestigious family to race, so I was about to give up on my dream—until I heard about you.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"I saw how dedicated you are to both racing and your family's duties. I want to chase my dream just like you.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"I hope that one day we might meet on the turf. Until then, I'll continue watching and cheering for you.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I was only running to fulfill my own dream—I never imagined that my efforts could affect the dreams of other people too.",
+            "choice_data_list": [
+                "It'd be nice if you could run with her one day.",
+                "It'd be nice if you could run with her one day."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Indeed!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I hope we can clash at full strength in the most incredible races as we continue ever onward down our respective paths—laughing all the while.",
+            "choice_data_list": [
+                "You're going to have to train to make it happen!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, of course! I'll do my very best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The heartfelt message of the fan letter provides Fine Motion with a great boost of motivation."
+        }
+    ]
+}

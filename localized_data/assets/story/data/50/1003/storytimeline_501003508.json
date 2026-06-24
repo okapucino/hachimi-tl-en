@@ -1,0 +1,37 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After the race, Tokai Teio lets out a deep sigh."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Trainer! I'm starving over here!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I want snow carrot steak with organic carrot juice, and I want it <i>now!</i>",
+            "choice_data_list": [
+                "That's gonna be impossible…"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What! Nooo! But I'm so huuungry! Come ooon!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And don't forget…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I worked so hard! Give me compliments!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio is acting bratty. It's probably the exhaustion catching up to her. I should reconsider her race schedule in the meantime."
+        }
+    ]
+}

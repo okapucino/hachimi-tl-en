@@ -1,0 +1,402 @@
+{
+    "title": "輝きを君に",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O and I are heading back to the academy when she suddenly stops."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Trainer, you remember the princess in pajamas, yes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The princess in pajamas? She must be talking about the fan who sneaked out from the hospital to meet her."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Her surgery is tomorrow.",
+            "choice_data_list": [
+                "What can we do to cheer her up?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "It is simple. We go and shine my gorgeous smile upon her, first thing tomorrow morning!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So the next day, we stop by the hospital. However…"
+        },
+        {
+            "name": "Doctor",
+            "text": "I do apologize, but she's…"
+        },
+        {
+            "name": "Nurse",
+            "text": "You're too scared for the surgery?"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "<i>Sniffle… Sob!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess, please, hold those tears at bay. Your eyes might soon spill out along with them. Worry not! I shall bear your lamentation."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "O-Opera O?!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Ngh… <i>Hic!</i> I-I'm sorry! I tried really, really hard but… I… I ran away!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess…"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I'll never… I'll never be like you!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Alas, Princess. That is only natural.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I am the one and only me, after all… Still!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I shall say unto you now!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I am T.M. Opera O, the Centurial Overlord!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "O fair Princess Pajamas, fear not! For I know your true strength!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Opera O…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Dearest friend! Are her tears a sign of weakness? What is the meaning held within them? Tell me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The meaning behind her tears? The question catches me off guard, but I understand how important the answer will be.",
+            "choice_data_list": [
+                "Proof of courage!",
+                "Regret, for sure!",
+                "Doubt, maybe?"
+            ]
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Courage? …But, I'm crying."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Exactly! Tears are required for the courage to take a stand!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Not weakness, but a spirit rising to challenge what lies before you!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, rise, Princess! Meet the challenge head on!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Defeat the dragon!",
+            "choice_data_list": [
+                "What dragon?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O is looking right at me. That can only mean \"the dragon\" is my part to play."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That dragon is your weakness incarnate! Go forth and settle this once and for all!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "O-okay! But… how?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You already have a weapon into which a great radiant light was infused."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "<i>Gasp!</i> The mirror!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That's it! Now, take aim at the dragon! Your sacred determination shall rend any monster asunder!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Hiyaaah!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "…Hello?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Dragon! That was your cue!",
+            "choice_data_list": [
+                "Rhhh-RWAAAAAH!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the dragon is defeated at the hands of the little girl."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess, it would seem you no longer have use for an escort."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I… can go by myself! I won't run away again!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Very good. I bid you adieu for now, o fair and courageous princess.",
+            "choice_data_list": [
+                "I can't hold a candle to you, Opera O.",
+                "I can't hold a candle to you, Opera O."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You don't need to. Your dragon was convincing enough."
+        },
+        {
+            "name": "Monologue",
+            "text": "A letter arrives from the girl a few days later. She says that the surgery was successful and she wants to return the mirror. Also…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's planning to drop it off herself, but wearing daytime clothes this time."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ahh, indeed! Regret is the source of her pain! These are tears of one who yearns to move onward!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That is why they shine so bright! They desperately grasp at hope!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "…Opera O!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That struggle itself is the strength to press onward! Now, Princess! The time to rise has come!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Defeat the Demon Lord of Gloom!",
+            "choice_data_list": [
+                "The demon lord of what now?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O is looking right at me. That can only mean \"the demon lord\" is my part to play."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The Demon Lord is your fear incarnate! Show all that stand in your way that you <i>will</i> press onward!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "O-okay! But… how?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You already have a weapon into which a great radiant light was infused."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "<i>Gasp!</i> The mirror!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That's it! Now, take aim at the demon! Your sacred determination shall rend any monster asunder!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Hiyaaah!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You demonic foe… Look upon the princess's light! May it illuminate you and bring peace to the world!",
+            "choice_data_list": [
+                "It's… too briiight!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe, nicely done, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the evil lord is defeated at the hands of the little girl."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess, it would seem you no longer have use for an escort."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I… can go by myself! I won't run away again!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Very good. I bid you adieu for now, o fair and courageous princess.",
+            "choice_data_list": [
+                "I'm a lord of gloom, huh…",
+                "I'm a lord of gloom, huh…"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Please, do not let it sour your mood."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A demon lord and the Overlord are <i>both</i> lords, hence their name. Not a bad pairing, if you ask me."
+        },
+        {
+            "name": "Monologue",
+            "text": "A letter arrives from the girl a few days later. She says that the surgery was successful and she wants to return the mirror. Also…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's planning to drop it off herself, but wearing daytime clothes this time."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes! To have doubt is what it means to have life, Princess! Those doubts are what will make you strong!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Doubts… make me strong?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Indeed! And they lay out the path before you! Thus, it is fine that your path differs from mine!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "So… it's my own path."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, rise, Princess! Meet the challenge head on!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Defeat the phantom fog clouding your path forward!",
+            "choice_data_list": [
+                "The phantom fog?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O is looking right at me. That can only mean \"the phantom fog\" is my part to play."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The fog is all the things that have ever frightened you! Go forth and settle this once and for all!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "O-okay! But… how?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You already have a weapon into which a great radiant light was infused."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "<i>Gasp!</i> The mirror!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That's it! Now, take aim at the phantom fog! Your sacred determination shall rend any monster asunder!",
+            "choice_data_list": [
+                "You think you can defeat me?!"
+            ]
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "…Ngh!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess, do not avert your eyes! You have what it takes to win!"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Ugh… Nngh… Hiyaaah!",
+            "choice_data_list": [
+                "What?! Th-this poweeer!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the phantom fog is defeated at the hands of the little girl."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Princess, it would seem you no longer have use for an escort."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I… can go by myself! I won't run away again!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Very good. I bid you adieu for now, o fair and courageous princess."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The future is illuminated by a single, brilliant light. But we must each walk our own path toward it."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Thus, I must walk down the road to victory—a path for myself and my trainer alone."
+        },
+        {
+            "name": "Monologue",
+            "text": "A letter arrives from the girl a few days later. She says that the surgery was successful and she wants to return the mirror. Also…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's planning to drop it off herself, but wearing daytime clothes this time."
+        }
+    ]
+}

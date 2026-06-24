@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle seems especially distracted during our training session."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh… That cloud looks just like a good cut of steak. <i>Sigh…</i>",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…Sorry, Trainer. With all these races lately, I'm kinda runnin' outta power…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh…</i> How can I make anybody happy feelin' like this?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Running all those back-to-back races is taking its toll on her. I'd better adjust her race schedule."
+        }
+    ]
+}

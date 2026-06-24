@@ -1,0 +1,258 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day while straightening up my office, I find that hot spring vacation ticket from before."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Then promise me that you'll take me to the hot spring once I've worked hard enough."
+        },
+        {
+            "text": "She's really done her best these past three years… I guess it's decided then."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yahoo! So this is the inn where we'll be spending our hot spring vacation tonight!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's really charming. This is exactly what I expected for our trip. ♪",
+            "choice_data_list": [
+                "<i>Wheeze… wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, Trainer, you're not looking so hot…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "In fact, you look totally exhausted, as if the Umamusume you train made you plan this entire trip alone while also carrying all her stuff the whole way here.",
+            "choice_data_list": [
+                "That's exactly what happened!"
+            ]
+        },
+        {
+            "text": "Before setting off for the inn…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're finally going to take me on my hot spring vacation!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All right, I'm gonna go talk with Hishiama real quick!",
+            "choice_data_list": [
+                "If you're worried about permission to leave campus, I—",
+                "If you're worried about permission to leave campus, I—"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's not it. I want permission to let you in the dorm so you can carry my stuff from my room."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You promised you'd do eeeverything on this trip for me. Remember?",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Starting now, I expect to be treated like a princess. ♪"
+        },
+        {
+            "text": "And so I've been handling everything, from organizing her huge amount of luggage to…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Traineeer, I'm hungry.",
+            "choice_data_list": [
+                "I'll get you a lunch box at the station."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yay! I want milk too! ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Traineeer, this seat is so hard. I can't sleep.",
+            "choice_data_list": [
+                "I brought you a neck pillow.",
+                "I brought you a neck pillow."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Not good enough! I'm gonna sleep on your shoulder.",
+            "choice_data_list": [
+                "Wha?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No moving! Not even a millimeter… <i>Zzz…</i>"
+        },
+        {
+            "text": "After a long trip obeying her every command, we finally arrive at the inn."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow, good work, Trainer. You made that journey a piece of cake! ♪",
+            "choice_data_list": [
+                "Glad to hear it…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha-ha! You sure are tired, huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Let's get in the hot spring ASAP! A long, relaxing dip will melt all your exhaustion away."
+        },
+        {
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ahhh… ♪ That felt awesome."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I wanna stay here forever. I'm gonna get the inn to adopt me.",
+            "choice_data_list": [
+                "Absolutely not."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aw, come on. You're a meanie."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "In that case, go dig out a hot spring somewhere close to campus when we get back."
+        },
+        {
+            "text": "Even more nonsense than usual… She must be taking her role as princess seriously.",
+            "choice_data_list": [
+                "Fine, I'll talk to the director about it."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Really?",
+            "choice_data_list": [
+                "Of course. Need anything else?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Umm…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's hard to come up with something on the spot…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whatever, let's not stand around and gab anymore. Should we take a break in your room?"
+        },
+        {
+            "text": "We continue our silly little conversations for a while."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i>",
+            "choice_data_list": [
+                "Sleepy?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah… It's 'cause I'm so warm and comfy.",
+            "choice_data_list": [
+                "I'll walk you to your room."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "H-huh? That's weird..",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "My hair feels softer than usual."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Could you touch it? What do you think?",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Come on, just touch it. It's not a big deal."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Give it a tousle too."
+        },
+        {
+            "text": "Sky waits silently until I relent and rustle her hair. It feels very soft and fluffy, like a cat."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm-hm… ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Isn't it soft? Worthy of a five-star review, right?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aren't you glad you got to touch my soft hair?",
+            "choice_data_list": [
+                "…Thank you?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No problem!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're very kind and honest, Trainer. I'm really glad you brought me along with you.",
+            "choice_data_list": [
+                "Are you being genuine?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ahh, who knows? Maybe I just like how easy it is to manipulate you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh-heh. ♪"
+        },
+        {
+            "text": "I sense that Seiun Sky and I have formed an irreplaceable bond during this time together."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm training with El Condor Pasa, when…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Agh… My eyes are killin' me.",
+            "choice_data_list": [
+                "Did you sleep all right?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I was watchin' wrestling all night! I was so caught up in it, I didn't realize how late it was! Haha!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But you know what? The wrestlers' combo techniques were insane!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Roooar! Moonsault press!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Followed byyy… an arm ba—<i>yawn…</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Huh?! I'm not asleep! My mind just couldn't keep up with my body!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She won't admit it, but she's clearly exhausted from watching those late-night matches."
+        }
+    ]
+}

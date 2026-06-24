@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "That's too bad. And you were so close.",
+            "choice_data_list": [
+                "I'm sorry I couldn't get one.",
+                "I'm sorry I couldn't get one."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I told you at the start—I didn't really want one."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "We don't have time to waste. Let's just head back."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

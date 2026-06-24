@@ -1,0 +1,48 @@
+{
+    "title": "Migraine Blues",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm heading to my office with Ines Fujin, when…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ngh…",
+            "choice_data_list": [
+                "Got a headache?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah… It's been bugging me since this morning."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I've got work today—I hope this doesn't affect my customer service…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hey-hey, could you pretend to be a customer for a second?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Welcome! What would you like to eat?",
+            "choice_data_list": [
+                "A super-spicy bowl with extra, extra garlic."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Pfft, ahaha! I'm working at a fast food place today, not the ramen shop!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah! Ah! Laughing makes my headache throb even harder…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin continues to suffer from her headache for some time."
+        }
+    ]
+}

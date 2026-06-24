@@ -1,0 +1,36 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm not sure what it is, but I get the sense Mejiro Ardan isn't feeling herself today…",
+            "choice_data_list": [
+                "How are you feeling?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh… I see you can tell something's wrong."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Truthfully, I awoke with a mild headache this morning."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's no cause for concern, though. I've experienced much worse than—Ngh…",
+            "choice_data_list": [
+                "Take it easy, okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for your concern, Trainer. I shall see whether my condition improves before I resume training."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan forces a smile, but the headache continues to bother her for some time."
+        }
+    ]
+}

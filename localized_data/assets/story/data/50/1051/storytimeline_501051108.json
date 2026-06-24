@@ -1,0 +1,302 @@
+{
+    "title": "Fan Fest",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Spring Fan Fest is fast approaching, and Nishino Flower seems excited for a chance to interact with all her adoring fans."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Would you mind if we moved our midday meeting and had it before training instead?",
+            "choice_data_list": [
+                "Sure, no problem.",
+                "Sure, no problem."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! I want to spend that extra time making origami.",
+            "choice_data_list": [
+                "Origami? What for?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to make origami flowers to give to all the visitors who come to the Fan Fest."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Since they'll last longer than real ones, I thought they'd be a great memento."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's not every day I get a chance to thank my fans directly, after all."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Do you think they'll like my flowers?",
+            "choice_data_list": [
+                "I'm sure everyone will love them!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yay! Thank you so much!",
+            "choice_data_list": [
+                "Can I help in some way?",
+                "Can I help in some way?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? But you're busy enough as it is, Trainer.",
+            "choice_data_list": [
+                "I like working with my hands."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You do?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Then I'd love the help! Let's fold some pretty flowers together! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't think she realizes the two of us probably won't be able to make enough on our own, but telling her that would only break her heart.",
+            "choice_data_list": [
+                "(I'd better make more in secret!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I use every spare moment between training sessions to fold origami flowers in the lead-up to the Fan Fest."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(The weather's really nice today, so I think I'll work outside…)"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Flower! Yer bloomin' bright as ever, I see! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Taiki!",
+            "color_text_info_list": [
+                "Taiki"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Doin' a bit of sunbathin', are ya? Lemme join ya!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Well, actually…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Gee, that sounds real excitin'! Lemme pitch in!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! B-but…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Everything's more fun when ya round up some pals! That's what I always say! ♪ Now, teach me how to fold 'em!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I was able to make a really big flower with Taiki's help… That was so much fun! ♪)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Flower, something has fallen from your pocket. Is this… an origami flower?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, thank you for letting me know! I was just—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm… I see. You are the very definition of selflessness."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Selflessness?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My current research has hit a bit of a wall, as it were, and I was just in need of a change of pace."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'll be holding on to this paper flower of yours as a sample. Stop by my laboratory tomorrow. I should find a way to goad Cafe into taking part, too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, okay…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(What a surprise! I wasn't expecting the lab to be filled with so many colorful flowers when I went to visit.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(It was such an incredible sight. There were even strangely shaped ones that I've never seen before. I can't believe Tachyon decided to help me out… Everyone is so kind.)",
+            "color_text_info_list": [
+                "Tachyon"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rustle.</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hm? What was that sound?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Look at them all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the Spring Fan Fest has arrived. I've made a decent number of flowers, which I bring along with me to our meeting place."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "Wh-what are all these boxes?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "They're all full of origami flowers!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thanks to some help from Taiki and Tachyon, we managed to make a really huge number! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Plus, a mysterious helper was nice enough to fold a whole bunch more and line them up around the garden."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was shocked by how realistic they look! I'll need to show my appreciation someday…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "By the way, Trainer, what do you have in that big bag?",
+            "choice_data_list": [
+                "I, uh, did my best."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Look at how many you made!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Knowing that there are so many kind people around who are willing to help makes me truly happy! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you so much! Let's go pass these out to the fans!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you for your support!"
+        },
+        {
+            "name": "Flower Fan A",
+            "text": "Wow! What cute origami! Thanks, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe! I hope you have an amazing time today full of smiles and joy! ♪"
+        },
+        {
+            "name": "Flower Fan A",
+            "text": "Oooh… If only I had a granddaughter like you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The origami flowers are a huge hit with the fans."
+        },
+        {
+            "name": "Flower Fan A",
+            "text": "Oh, wow! A flower from Nishino Flower! I'm going to frame this and put it on my wall!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-you don't have to go that far!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… thank you! ♪"
+        },
+        {
+            "name": "Flower Fan B",
+            "text": "Flower? The petals of this one look like they're swirling…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! That's one that Tachyon created! Isn't it fun to look at? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's handcrafted origami flowers bring delight to all of her fans. Suddenly, a young Umamusume comes up to us."
+        },
+        {
+            "name": "Flower Fan C",
+            "text": "Um! Can I have a flower, please?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sure! Just a moment."
+        },
+        {
+            "name": "Flower Fan C",
+            "text": "Thank you! …U-um!"
+        },
+        {
+            "name": "Flower Fan C",
+            "text": "My dream is to become an amazing, grown-up Umamusume like you someday, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You think I'm amazing? …And grown-up?"
+        },
+        {
+            "name": "Flower Fan C",
+            "text": "Uh-huh! You're kind, and you look so cool when you run! I wish I had a big sister like you to look up to!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Heh."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Thank you so much. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day's festivities become an unforgettable memory for not only the fans, but also for Nishino Flower herself."
+        }
+    ]
+}

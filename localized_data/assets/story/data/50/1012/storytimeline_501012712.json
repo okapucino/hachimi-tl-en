@@ -1,0 +1,45 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon has yet to show up for training, so I go looking for her…"
+        },
+        {
+            "name": "Miho Student",
+            "text": "Um, Hishiama… I think that's enough for now…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Come on, you can't expect me to back down from a fight. One more round… I'm not losin' this time!",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Can't ya tell? I'm playing a game of Old Maid! Man… why can't I win?",
+            "choice_data_list": [
+                "What about training?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? What about it? Why are you bringin' up training all of a—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait, holy crap!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm so sorry, Teach! I got so carried away, I completely forgot we had training today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon looks apologetic enough, so I let her off with a firm reminder to be more careful next time."
+        }
+    ]
+}

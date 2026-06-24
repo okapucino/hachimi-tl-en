@@ -1,0 +1,118 @@
+{
+    "title": "Praying at the Shrine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm at a shrine today after being invited by Manhattan Cafe, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Um, is something bothering you?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Cafe… No, it's nothing much…",
+            "choice_data_list": [
+                "But there is something?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes, well… there have been UFO sightings at several locations I've visited."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I trained here at this shrine yesterday, so I thought that perhaps a UFO would come by. I've been here since morning, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe… I suppose they were just rumors after all. It looks like I was worried over nothing."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Anyway, I should get back to training."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…There she goes. I sense something in the air… But not an UFO, it's more like…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before Manhattan Cafe can finish speaking, a bright light envelops us!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "What's going on?!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Don't worry… <i>They</i> have no intention of harming us.",
+            "choice_data_list": [
+                "<i>They?</i>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Oh, that's right. I'm the only one who can hear the voices…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She continues to talk with <i>them</i> for some time…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Phew.",
+            "choice_data_list": [
+                "Wh-what just happened…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "They were happy enough with what I told them… So they let us go…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Apparently, they were just doing some research, and… we suffered no harm. I actually feel better now…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't exactly understand what just happened… but Manhattan Cafe looks perfectly fine.",
+            "choice_data_list": [
+                "We should be grateful.",
+                "We should be grateful."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes… It would be nice if we could express our gratitude in person someday…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next moment, the bright light fades to nothing…"
+        },
+        {
+            "name": "Cameraman A",
+            "text": "Oh, excuse me! Sorry, but could you step back a little?"
+        },
+        {
+            "name": "Cameraman A",
+            "text": "We're filming a TV show right now. Sorry about the inconvenience!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like the strange light was actually from a camera all along…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "For a moment there I almost believed… but what a disappointment."
+        }
+    ]
+}

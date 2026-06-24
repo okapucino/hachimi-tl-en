@@ -1,0 +1,45 @@
+{
+    "title": "札幌記念にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's time for the Sapporo Kinen, Trainer!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hm? There's a decorative tree over in the corner…",
+            "choice_data_list": [
+                "It's a lilac tree.",
+                "It's a lilac tree."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The name has a nice ring to it and all, but what's it doing here?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, it says here that the lilac is the official tree of Sapporo."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ooh! This is a very auspicious omen!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What are the chances that this lilac would be blooming now?! Lilac has the same amount of letters as \"lucky\", and they both start with <i>l</i>. This has to mean something!",
+            "choice_data_list": [
+                "Um, sure…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O great gods of the north, I humbly accept this blessing."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Grant us good fortune. And, if possible, some of that famous Sapporo lamb barbecue too."
+        }
+    ]
+}

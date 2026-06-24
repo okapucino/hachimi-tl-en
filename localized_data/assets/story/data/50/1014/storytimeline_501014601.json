@@ -1,0 +1,29 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "I might've lost, but that's not gonna keep me down!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "They say that condors take one deep plunge before soaring high…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Which means that loss was the springboard that'll send me soaring!",
+            "choice_data_list": [
+                "Let's put that loss behind us!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Of course! Hold on tight!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We're taking off with a <i>whoooshhh!</i>"
+        }
+    ]
+}

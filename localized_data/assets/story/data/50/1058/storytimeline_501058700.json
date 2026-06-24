@@ -1,0 +1,33 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh no! I'm really sorry about that! I must not be focusing enough to have yawned!",
+            "choice_data_list": [
+                "Is something wrong? You seem tired."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Uuugh… Well… I was up all night yesterday self-reflecting in my head."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm trying to understand why I'm always tripping in hallways, falling down stairs, and sliding into triple backflips down ramps…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "There was so much to reflect on, I continued well until morning… I'm really sorry I let this happen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Meisho Doto hasn't gotten enough sleep."
+        }
+    ]
+}

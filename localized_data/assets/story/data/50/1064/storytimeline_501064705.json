@@ -1,0 +1,220 @@
+{
+    "title": "Illustrating a Future from a Picture Book",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from an outing, Mejiro Palmer detours us into a cafe she's been keen on visiting."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahhh, it's been ages since I came here. I used come here all the time when I was a kid, and…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, hey Rice! Did you drop in here for a breather?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-hello! Umm, yes!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "This cafe looks just like the one in my favorite picture book. I enjoy being here—it makes me feel like I'm inside the story. The big bookshelves are exactly like the ones in the book, too."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "The big bookshelves, huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Could that book you're talking about be <i>The Fairy Cafe</i>, by any chance?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yes, that's the one. But Palmer, how did you…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, wait! I remember now! Your mother's the one who—"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wrote the book? Yep, that's her.",
+            "choice_data_list": [
+                "R-really?!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah. I was just saying how I used to come here all the time, right? Well, my mom was the one who would bring me."
+        },
+        {
+            "name": "Young Palmer",
+            "text": "Look, Mama! There're books aaall the way up there! How do you get them down?!"
+        },
+        {
+            "name": "Palmer's Mother",
+            "text": "Hmm… Oh! Maybe you have to ask fairies to help get them for you?"
+        },
+        {
+            "name": "Young Palmer",
+            "text": "Wooow! What kind of fairies?! Are they friendly?"
+        },
+        {
+            "name": "Palmer's Mother",
+            "text": "Hehe! I bet they're fairies that wear glasses, and they can use their glasses to see into a person's heart. So I'm sure you can become the best of friends with them."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oooh… That's so amazing! You were the one who came up with the story!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh?! Naaah! I just happened to be there when she got that idea."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Mom was always like that, adding things to my silly ramblings. Next thing I knew, they were made into a book."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Talking with her was, like, the most fun thing ever. She took me everywhere, too."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… Were there other books she wrote that came about in the same way?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yep! I'm pretty sure there was this one time my family and I all went to the park, and…"
+        },
+        {
+            "name": "Young Palmer",
+            "text": "Wooow… That tulip is so tall!"
+        },
+        {
+            "name": "Palmer's Mother",
+            "text": "She must be a bold princess showing off her dress. I wonder if that means we're in the Flower Kingdom right now?"
+        },
+        {
+            "name": "Young Palmer",
+            "text": "The flowers must be holding a ball in their pretty dresses! Mama, let's dance with them, too!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, it went something like that. Being with Mom was lotsa fun 'cause it always felt like I was an adventurer, exploring different worlds!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "U-um, I feel the same way! Whenever I read the books your mother wrote…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It always feels like there's another world in the pages, and I'm always so excited to visit them!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "So, um… Thank you for blessing me with the opportunity to explore such wonderful worlds!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hehe. You're welcome."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And thanks for the kind words, too. I'll let Mom know what you said!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wow, I had no idea Rice was one of my mom's fans. It's almost hilarious how obvious it should've been.",
+            "choice_data_list": [
+                "That was a nice surprise.",
+                "That was a nice surprise."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah. Knowing Mom's books make someone else's life better makes me proud to be her daughter."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I grew up watching my mom working hard and doing her best all the time.",
+            "choice_data_list": [
+                "You take after your mother, then.",
+                "You take after your mother, then."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You know, Mom actually wants to write a new picture book based off me."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And, like, I'd love to help out, but I asked her to hold off it for now.",
+            "choice_data_list": [
+                "Why's that?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, if she wrote a new book, I'd be part of a glamorous world that transforms someone else's life."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But I don't want to be seen just yet."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I want to win lots more races and work even harder than Mom."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I want to get published in a book <i>after</i> I reach peak wahey! Y'know what I mean?",
+            "choice_data_list": [
+                "You'd better sign a copy for me once you do!",
+                "You'd better sign a copy for me once you do!",
+                "I bet it'll be an amazing picture book.",
+                "I bet it'll be an amazing picture book."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I want to get published in a book <i>after</i> I reach peak wahey! Y'know what I mean?",
+            "choice_data_list": [
+                "You'd better sign a copy for me once you do!",
+                "You'd better sign a copy for me once you do!",
+                "I bet it'll be an amazing picture book.",
+                "I bet it'll be an amazing picture book."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey, why're you saying that as if you're not gonna be involved? If I'm gonna be in the book, then you're obvs gonna be in it, too!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "After all, there's no talking about me without talking about you!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You're gonna be right there with me autographing books, so you'd better be prepared! Let's do our best when the big day comes! ♪"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah! I'll <i>make</i> it amazing!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "All right, time to call Mom and tell her my big plan. I'll let her know about Rice's glowing review, too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her giddiness is absolutely heartwarming. I can't wait to be in a picture book someday, too."
+        }
+    ]
+}

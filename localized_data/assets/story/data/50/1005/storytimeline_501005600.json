@@ -1,0 +1,37 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's finally time, Trainer. Soon will come the signal for the curtains to rise…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can't wait to see what spectacle awaits me beyond those velvet drapes.",
+            "choice_data_list": [
+                "It'll just be the usual track, won't it?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yes, but each performance shifts and changes according to the players who take stage."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Your rapport with your fellow actors, the ad-libs that come to mind…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "They're unpredictable and part of what makes a live performance so terrifying and entertaining!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aah! Be still, my beating heart! Even it knows that today's race will surely be a good one!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Come now! No two performances are the same. Let's treat the audience to a once-in-a-lifetime show!"
+        }
+    ]
+}

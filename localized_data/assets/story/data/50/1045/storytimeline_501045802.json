@@ -1,0 +1,201 @@
+{
+    "title": "Curse or Comfort",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "This very evening, a terrifying monster will descend upon you…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "OoOoOh, And now, to curse yoOuUu toOoOo!"
+        },
+        {
+            "name": "Director",
+            "text": "…Aaaand cut! That rehearsal was perfect! Boy, am I glad I asked you to play this part!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thank you very much! I'll do my best to help promote the park's \"Heart-Pounding ☆ Horror Night\" event."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, the amusement park is shooting an event commercial, and Super Creek is playing one of the monsters that attack the park guests…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…So how come me and your trainer gotta be extras? We just came to watch.",
+            "choice_data_list": [
+                "Come on, let's not disappoint!",
+                "Come on, let's not disappoint!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Eh, I guess this <i>is</i> Creek's big break. Sure, I'll do what I can!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thank you both very much. Let's all work together to make this the best commercial it can be! ♪"
+        },
+        {
+            "name": "Director",
+            "text": "Right, next is the scene where the extras make a frantic escape! And four… three… two… Action!"
+        },
+        {
+            "name": "Werewolf",
+            "text": "Grrraaawwwr!"
+        },
+        {
+            "name": "Zombies",
+            "text": "Grughhhnnnn… Ughhh…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Now, join me… in eternal slumbeeer!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Eep! I can't believe they're not real! I'm gettin' da heebie-jeebies!"
+        },
+        {
+            "name": "Zombies",
+            "text": "Nghhhh… Uwaghhhh…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "WAAAAAH!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear! Is Tamtam all right?"
+        },
+        {
+            "name": "Director",
+            "text": "Next up we've got the forest scene! This is where the wolfman takes a great big bite out of our academy trainer!"
+        },
+        {
+            "name": "Werewolf",
+            "text": "Grrrawwrrrr! Gahhh!",
+            "choice_data_list": [
+                "Arrrrghhh!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer! I… I…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I can't take this any longer! Mr. Werewolf, please, leave them alone!"
+        },
+        {
+            "name": "Werewolf",
+            "text": "Grrr… Rawr?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What're ya doin'?! You're supposed to be a crazy mummy!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh no, you've got it wrong. I'm a <i>mommy,</i> not a mummy! Were you afraid? Are you hurt? I can wrap you right up with one of my bandages. ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wha?! I'm not scared, I'm actin'! Plus, it's not like I've been bitten or anythin' either!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Don't you fret. Just leave it to Mommy! I've got a bundle of cuddles with your name written all over it. ♪"
+        },
+        {
+            "name": "Werewolf",
+            "text": "G-grrrr… Grawwwr!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Oh dear. Well, if you're not going to behave, then I'll have to cast a \"good boy\" curse on you!"
+        },
+        {
+            "name": "Director",
+            "text": "…Cut! Cut, cut, cuuuut!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Oh? Ah! I'm so sorry! I completely forgot we were filming and—"
+        },
+        {
+            "name": "Director",
+            "text": "That… was… INCREDIBLE!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? How come? Wasn't Creek way outta line with her improv?!"
+        },
+        {
+            "name": "Director",
+            "text": "Absolutely not! This'll be an emotion-packed masterpiece about a mummy who awakens to her maternal instincts! What an astonishing performance! This commercial's gonna go viral for sure!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, will it? I just couldn't bear to leave the two of them so helpless…"
+        },
+        {
+            "name": "Director",
+            "text": "It's precisely your realism that made it so effective! You think so too, don't you, Trainer?",
+            "choice_data_list": [
+                "You wouldn't get a performance like that from anyone else!",
+                "I'm not sure this'll work as an ad for the event…"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Is that so? Well, I'm relieved to hear it."
+        },
+        {
+            "name": "Director",
+            "text": "Yeah, let's keep up this momentum! Okay, we're gonna pick up from when our mummy awakens to her maternal instincts!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "So, um… should I go like <i>this?</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tamtam, you're such a good girl. There, there…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're not even actin' anymore! You're scarier than the actual monsters!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The commercial, which ends up being a showcase of motherly love, goes viral a few days later. I hear the event itself turns out to be a massive success from day one!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Y-yeah, you're totally right! I'm sorry for going off and doing my own thing."
+        },
+        {
+            "name": "Director",
+            "text": "True, I <i>do</i> want to capture a normal take, actually! …Let's go from the scene with the wolfman attack!"
+        },
+        {
+            "name": "Werewolf",
+            "text": "Grrrahhh!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "AAAH! SOMEONE HELP ME!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I-I just can't! Pleeease don't hurt them!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Countless retakes later, the cast and crew eventually manage to wrap up the shoot!"
+        }
+    ]
+}

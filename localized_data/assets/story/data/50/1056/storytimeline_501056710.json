@@ -1,0 +1,42 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can't believe I lost! O Shiraoki, why didst thou desert me?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What if Shiraoki was asleep or something? I can't have a god that's napping on the job!",
+            "choice_data_list": [
+                "Let's do our best next time.",
+                "Maybe your skills are being put to the test."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nngh, okay… It just wasn't my lucky day, I guess. What can you do?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sigh…</i> I just hope Shiraoki will be awake next time around."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Say what?! Are you suggesting that the great Shiraoki wished to see how I perform without good fortune on my side?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nooo! Doesn't this mean I've completely messed up?! Shiraoki must be so disappointed!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I need to get back on track! I'm definitely taking first next race… Or, at least second!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Matikanefukukitaru's feet to the fire, we make a vow to come out victorious next time."
+        }
+    ]
+}

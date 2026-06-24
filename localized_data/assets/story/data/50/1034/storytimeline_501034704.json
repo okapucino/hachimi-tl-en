@@ -1,0 +1,213 @@
+{
+    "title": "相棒として",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While visiting a nearby town with Inari One…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, ya feelin' hungry yet? Wanna get somethin' to eat?"
+        },
+        {
+            "name": "Inari One",
+            "text": "This feels familiar. Didn't somethin' like this happen back when we went for inari sushi?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whaddaya say we grab somethin' tasty again and find a place with a good view? Kick back and enjoy the finer things.",
+            "choice_data_list": [
+                "Yeah, sure. Do you know this area well?",
+                "Yeah, sure. Do you know this area well?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Nah, not at all. No worries though."
+        },
+        {
+            "name": "Inari One",
+            "text": "Follow me! I promise ya won't regret it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we stroll around town looking for a restaurant, Inari One stops in front of an old-fashioned store selling dango rice dumplings.",
+            "choice_data_list": [
+                "Is this place good?",
+                "Is this place good?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I'd say so, yeah. Most of the stores 'round here are old, but here you can see the care they put into the place by how tidy it is."
+        },
+        {
+            "name": "Inari One",
+            "text": "Plus, you can tell they're confident in their product! Just look at how they've got <i>mitarashi dango</i> written all big and eye-catchin'."
+        },
+        {
+            "name": "Monologue",
+            "text": "Trusting Inari One's keen perception, we buy some dango. And then…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Now, that's one helluva view! There's just somethin' charmin' about the scenery in an unfamiliar town."
+        },
+        {
+            "name": "Inari One",
+            "text": "How's about we lay out the dango somewhere 'round here and chow down?"
+        },
+        {
+            "name": "Young Boy",
+            "text": "<i>Sob… sob…</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh? Whazza matter, kid? Whatcha cryin' for?"
+        },
+        {
+            "name": "Young Boy",
+            "text": "I was on an adventure, and I forgot the way back home. We've only just moved into the neighborhood…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Sheesh, pull yourself together, will ya? All that cryin's just gonna make ya feel worse."
+        },
+        {
+            "name": "Young Boy",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Bet you're hungry, aren't ya? Yeah, guess it's hard to stay positive on an empty stomach."
+        },
+        {
+            "name": "Inari One",
+            "text": "You're in luck! We just so happen to have some tasty dango right here. Go ahead and dig in."
+        },
+        {
+            "name": "Inari One",
+            "text": "Well? Feel better now that your stomach's full?"
+        },
+        {
+            "name": "Young Boy",
+            "text": "Yes. Thank you, Big Sis!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Looks like ya stopped cryin'. That's a good start! Next up, we gotta getcha home. Do ya know your address?"
+        },
+        {
+            "name": "Young Boy",
+            "text": "Yeah. It's written on this note."
+        },
+        {
+            "name": "Inari One",
+            "text": "Sounds like you've got smart parents! Now all that's left is for the great Inari to zip ya there!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Trainer. I'm just gonna run this kid back to his folks. Sit tight for a few minutes, 'kay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Inari One hoists the little boy onto her back and dashes off."
+        },
+        {
+            "name": "Monologue",
+            "text": "She shared her dango and also took the boy home, but here I am having done diddly-squat."
+        },
+        {
+            "name": "Inari One",
+            "text": "Okey doke, I'm back! Got him home, safe and sound!",
+            "choice_data_list": [
+                "Aren't you hungry?",
+                "Aren't you hungry?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Whazzat? What're ya worryin' 'bout me for?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Seein' that kid's smile was enough to satisfy my appetite!"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Ah, I guess the smile wasn't enough after all.",
+            "choice_data_list": [
+                "Here, take this!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Wha?! This dango's from that store! Don't tell me ya went back and bought me some?!",
+            "choice_data_list": [
+                "Well, I couldn't just stand around doing nothing."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "But, wasn't the store a good trek away? Ya make it sound like it was an easy trip, but…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, I see… you're tryna play it down. Pretty classy move, I'd say!",
+            "choice_data_list": [
+                "I learned it from you, Boss!",
+                "Let's savor this classy moment.",
+                "Whaddaya mean? It was nothin'!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Knock it off! That's embarrassin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "But ya know what? It really feels like we've become fantastic partners."
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh heh. Geez! When did ya become so dependable?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One gives me a series of playful slaps on the back."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, yeah. I promised to treat ya to somethin' tasty. Ya almost made me forget!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks to that kid's big smile and your classy move, this dango's gonna taste <i>amazin'!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up making a surprisingly classy memory eating dango together with Inari One."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh-ho, look at you, all fired up! I'm a bit concerned, though…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One suddenly starts poking my thigh!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, is it just me, or are these legs feelin' a bit wobbly from all that runnin'?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh heh. Well, anyway. Ya seem a bit tired, so let's take a breather and get somethin' sweet to nibble on!"
+        },
+        {
+            "name": "Inari One",
+            "text": "We've both earned it, I'd say!"
+        }
+    ]
+}

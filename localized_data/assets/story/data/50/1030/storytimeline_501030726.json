@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Rice Shower…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah…",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "U-umm… do you see the claw machine over there?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It looks like there are plushies of all my friends in there. I'm a little curious…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "They're so cute, hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's trying to show restraint, but she has an obvious twinkle in her eye.",
+            "choice_data_list": [
+                "I'll win one for you.",
+                "I'll win one for you."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Really? Are you sure?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "My bad luck might rub off on you… But I'll cheer you on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't afford to fail!"
+        }
+    ]
+}

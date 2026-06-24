@@ -1,0 +1,291 @@
+{
+    "title": "日本ダービーの後に・Der Sieg",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Eishin Flash pulls ahead! Eishin Flash claims first place!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Eishin Flash is the Derby champion?! Incredible! She did it! Congrats, Lady Flash!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah, right… I won, which means…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've become the Derby champion… Me…"
+        },
+        {
+            "name": "Flash's Mother",
+            "text": "You would be super, toll und klasse, Flash!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(Mother… I have achieved something incredible.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(I've won the Derby!)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If I ever get the chance to win in such a major race again, I hope my parents can be there to witness it…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…",
+            "choice_data_list": [
+                "Congratulations, Flash!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…",
+            "choice_data_list": [
+                "Flash?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My apologies. I am still terribly worked up from the race… I should be able to regain my composure momentarily.",
+            "choice_data_list": [
+                "Why not enjoy it a bit longer?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I mustn't. This race has concluded, and my task is complete."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Which means it's time to think about my next step."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's unsightly to be unable to control one's own emotions.",
+            "choice_data_list": [
+                "It's normal to be happy when you win.",
+                "It's normal to be happy when you win."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But if I don't contain myself, I'll become even greedier…",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If I allow these emotions to continue lingering…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I fear I will never be satisfied with anything other than victory.",
+            "choice_data_list": [
+                "That's normal too!",
+                "That's normal too!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Is that really so? Placing is remarkable enough in itself though."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That's why placing within the top three has always been my goal. But now…",
+            "choice_data_list": [
+                "Let's win the next one too, Flash!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes! Absolutely!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let's begin planning for my next race at once."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We must prepare for the final race of the Classic Triple Crown—the Kikuka Sho.",
+            "choice_data_list": [
+                "Let's head back to the waiting room."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, let's—"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment we step inside the waiting room, Eishin Flash receives a message from her parents."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"Congratulations on getting first place! It's still morning here, but countless regulars and neighbors have already stopped by to pass along their felicitations.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe… How kind of them. \"We wish we could give you a hug and cheer you on in person right now.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"Winning first place is an achievement like none other. It proves just how hard you have worked and how strong you have become.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"We hope the joy of your future victories will keep you buoyed and fulfilled.\"",
+            "choice_data_list": [
+                "They sound happy for you.",
+                "They sound happy for you."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They do… Since they have no plans to visit Japan during these three years…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The least I can do is report as many victories to them as possible."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have accomplished all I sought to according to my timetable. Let's keep up the momentum and continue on.",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But before that, there is something I would like to report to you. I'm sure it is nothing serious, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I can't accept this. Why are you removing the Kikuka Sho from my schedule?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, Eishin Flash informed me that her leg felt strange, so I took her to see a doctor. There, we found out it's because her muscles are overfatigued.",
+            "choice_data_list": [
+                "The pain will only get worse if you don't rest."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But there is more than enough time for me to fully recover before the Kikuka Sho.",
+            "choice_data_list": [
+                "If it looks like you'll be ready by then, then we'll enter."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I cannot follow your logic. Doesn't it make more sense to set the goal first so we can base our plan around it?",
+            "choice_data_list": [
+                "You would only overdo it."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Kikuka Sho is such a grueling race that it's said only top racers can win. If she insists on running it, she will only become more fatigued.",
+            "choice_data_list": [
+                "Your goal is to see every race through to the end, isn't it?",
+                "Your goal is to see every race through to the end, isn't it?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, but—",
+            "choice_data_list": [
+                "Remember your promise, Flash."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Promise me that you'll adjust your schedule when I deem it necessary."
+        },
+        {
+            "name": "Monologue",
+            "text": "Promise me that you'll adjust your schedule when I deem it necessary."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Promises are… eternally binding…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Very well. Let's remove the Kikuka Sho from my schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The most important thing is that I complete every race…",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I'm fine. Excuse me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My perfect schedule…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What should I do?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I should ask my parents—"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, I cannot discuss this with them. They must never know that this failure was due to my own mismanagement…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…And that I wasn't good enough."
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've come to a shrine with Fine Motion, who's been feeling under the weather recently."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Mmm… A Japanese power spot! I can't help getting my hopes up about this!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "After all, unusual events are known to occur at shrines, aren't they? We might catch sight of some fairies or messengers from the gods…",
+            "choice_data_list": [
+                "You're pretty excited, huh?",
+                "You're pretty excited, huh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Of course! Even back in Ireland, people would spot fairies and things at old churches and the like… I've always wanted to see that sort of thing with my own eyes!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And on top of that, sometimes the people who witness those phenomena receive blessings! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Those spirits might even make me fighting fit again…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rustle… Rustle…</i>",
+            "choice_data_list": [
+                "Wh-what was that noise?",
+                "Wh-what was that noise?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It came from over there! Let's investigate!",
+            "choice_data_list": [
+                "Hold on!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Scrambling after Fine Motion, I run towards the eerie sound…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crrrrk… Crrrrk…</i> Ngh! Hrrrrgh! <i>Creak!</i>"
+        },
+        {
+            "name": "???",
+            "text": "Hnrghhh! PRINCESS PUUULLL!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Phew… Oh, hello, you two!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Kawakami! Um, isn't that the rope… usually wrapped around sacred trees?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's right! It looked like it was getting a little slack, so the chief priest asked me to tighten it up!",
+            "choice_data_list": [
+                "I never would've guessed that sound was you!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What a surprise! ♪ So the fairy turned out to be Kawakami!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But you know, that looks very invigorating! Could I help you out?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Of course! Right, then, let's get this rope nice and tight!"
+        },
+        {
+            "name": "Kawakami and Fine",
+            "text": "One, two… PUUULLL!"
+        },
+        {
+            "name": "Chief Priest",
+            "text": "Goodness! Thank you, all three of you. Ho ho ho, I expect the gods themselves are just as pleased as I am."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Gracious, the gods themselves? It's an honor to have been of assistance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps due to divine providence, Fine Motion's condition begins to noticeably improve in the days after!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I accompany Fine Motion as she hurries towards the eerie sound, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crrrrrk… Snap! Shnnnng…</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Huff… Puff…</i> Oh? The sound stopped. I wonder what happened…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmmm… I have a bad feeling about this."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sometimes the mischief fairies and yokai like to engage in goes beyond simple pranks."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We can't have anything happening to you, can we, Trainer? Let's head back."
+        },
+        {
+            "name": "Monologue",
+            "text": "We make our way carefully back towards the shrine, and Fine Motion's condition doesn't improve at all…"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "宝塚記念にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "It's the final G1 race of spring—the Takarazuka Kinen! Which one of these fine competitors will cross the finish line first?"
+        },
+        {
+            "name": "Caster",
+            "text": "Each and every one of these Umamusume carry the hopes of their fans on their shoulders… and here they come to the paddock!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The venue for the Takarazuka Kinen is the Hanshin Racecourse, as scheduled."
+        },
+        {
+            "name": "Monologue",
+            "text": "We have a final meeting in the waiting room to wrap up some loose ends before the race."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Okay, let's go over some things. Were you able to get data on the other runners, Trainer?",
+            "choice_data_list": [
+                "You know it!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excellent. Let's look over them while we—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…!",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No, not at all. This is… amazing."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You even have data on their training methods here. Looking at this, it seems like it will be an intense race."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm, the runner-up of the pre-race favorite poll will likely pull away at the third turn, so I should be ready by the second turn. And…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The data I collected prove helpful, and we have a very productive meeting together."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Step, step, step…</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "And here comes Biwa Hayahide!"
+        },
+        {
+            "name": "Caster",
+            "text": "Give it up for the grand winner of our pre-race favorite poll!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's right! And I'm about to prove to everyone who voted for me that they picked the winning racer!"
+        }
+    ]
+}

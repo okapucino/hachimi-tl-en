@@ -1,0 +1,38 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Trainer… We've had a good run, but I'm afraid I'm done for…",
+            "choice_data_list": [
+                "What in the world do you mean?",
+                "What in the world do you mean?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I appreciate the concern, but this is something I've gotta take care of myself. Please, forget I said anything!",
+            "choice_data_list": [
+                "Don't say that. I want to help.",
+                "Don't say that. I want to help."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You're too nice for you own good. But since you insist, I'll tell you. The thing is…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I've got a honkin' huge zit on my forehead, and it hurts like Heckle and Jyde!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Sigh…</i> Think my life will ever be the same?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm relieved it's nothing life-threatening, but she's very concerned about her skin. I take note to be more understanding of that moving forward."
+        }
+    ]
+}

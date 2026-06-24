@@ -1,0 +1,111 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Haru Urara got injured during today's training session, so I rush her to the infirmary."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Phew!</i> Thank goodness! It's just a regular injury!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "The doctor had such a serious face, so I was worried I might be sick and need to get a shot!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Shots hurt way more than this does. Honestly, I think I can still run, no problem!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "So let's continue practice, Trainer!",
+            "choice_data_list": [
+                "Please just rest up and recover.",
+                "No training means no training!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What! Rest up? But I feel fine! Why?",
+            "choice_data_list": [
+                "I'm worried about you…"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ohhh. I see. You're worried about me. Okaaay!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll rest up then! 'Cause, if you're not happy, I'm not happy!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Just sit back and relax, Urara… Just sit back and relax…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ugh, but I wanna <i>do</i> something! Resting is just as bad as getting a shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara seems extremely bored, but at least she's on the path to recovery."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eek! Wh-why?",
+            "choice_data_list": [
+                "If it gets worse, it'll hurt way more than a shot."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? No way! Nothing hurts more than shots. silly!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Watch this! I can walk around just fi―"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oof! Ow, ow, ow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Because of her reckless movements, her injuries worsen. She'll be out of commission for several days."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "H-huh? Why are you so quiet, Trainer?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uh-oh… Don't tell me… you're being serious?!",
+            "choice_data_list": [
+                "I am."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh no! It can't be!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I don't care if I get bored! A pain worse than a shot sounds way, way, <i>way</i> worse!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll rest up and be back on my feet before you know it!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And when that happens, I'm gonna run like the wind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes time before her injuries heal up, but she eventually returns back to normal."
+        }
+    ]
+}

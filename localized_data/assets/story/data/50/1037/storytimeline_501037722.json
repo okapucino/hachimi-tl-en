@@ -1,0 +1,49 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm having a meeting with Eishin Flash, when…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Ngh.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My apologies. I woke up with a headache this morning…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ugh… Not again…",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, there is no cause for concern."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I took medication thirty minutes ago. It should take effect momentarily."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The pain should be gone by 5 p.m. at the latest…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "P-please… continue the meeting…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She tries to put on a tough face, but the pain doesn't subside. Worse, she's plagued by headaches for a while after that."
+        }
+    ]
+}

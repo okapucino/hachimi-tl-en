@@ -1,0 +1,317 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The shopping district is surprisingly crowded on our way back from running errands."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? I wonder what all the excitement is about over there…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "They're giving out deluxe carrot hamburger steaks?! Trainer, we have to try this raffle out!",
+            "choice_data_list": [
+                "Do you have any tickets?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, right! We need tickets! Hmm… I know! I'll go do a little shopping!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I think I bought too much. There are so many dishes I wanna make if we win carrots."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, here I go! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono gives the raffle machine a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "What?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "O-o-oh my gosh! I won the vacation ticket!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And it's for <i>this</i> inn?! They're famous for serving really buono food!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "This is amazing! We should go on this trip together, Trainer!",
+            "choice_data_list": [
+                "You want me to go with you?",
+                "You want me to go with you?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! ☆ Just imagine how great it'll be, getting to eat such yummy food together!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh… but we don't really have time to go now, do we? I still have so many races to run…",
+            "choice_data_list": [
+                "How about we go once things calm down?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's a good idea. We'll be able to relax better if we don't have to worry about my schedule!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All right, let's wait for now. I'll take good care of the ticket until then.",
+            "choice_data_list": [
+                "Great, thanks.",
+                "Great, thanks."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I wonder what they'll serve? Sashimi? Steak? Hot pot, maybe?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Whatever it is, I'm sure there'll be lots to learn from the different flavors! I'll have to memorize how the food tastes for reference!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We've got to make sure we're nice and hungry when we go! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Hishi Akebono and I make a brand-new promise with each other."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wooow! It looks delicious!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? Wait… Is this… Oh, it is! This is the hamburger steak they serve at a really famous restaurant!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've been wanting to eat there someday. What an incredible twist of fate!",
+            "choice_data_list": [
+                "Congratulations!",
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thank you! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You should have it with me, Trainer.",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! Sharing food makes it taste twice as delicious!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And sharing it with someone you really like makes it <i>four</i> times as yummy! Amazing, right?",
+            "choice_data_list": [
+                "Well, I can't say no to that!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Good answer! Now let's go home!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Since I bought so many ingredients, I'll make us soup and salad for sides too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After we get home, we enjoy the mouthwateringly delicious deluxe carrot hamburger steak together."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono manages to reverse-engineer the steak's recipe and recreate it exactly a few days later… but that's a story for another time."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay, I did it! I can make sooo much with these!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I can make meat and potatoes, curry, stew, carrot hamburger steaks, carrot steaks, salads and, oh! Cake and jelly too!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'd better get ready for dinner tonight, because I'm going to make sure your heart will be as full and happy and as your tummy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm honored that she's so enthusiastic to cook for me, but I don't think the two of us can realistically eat all these carrots.",
+            "choice_data_list": [
+                "I don't think we can finish these alone."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, good point! It would've been bad if we ended up with a bunch of leftovers."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, I've got an idea! I'll try to invite some others to join us!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, Maya! I was thinking about throwing a carrot party for everybody today. Do you think you can come?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Great! ♪ I'm glad you can make it! See you then!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay, she agreed to come! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Next, I just have to ask Curren, Biko, and Kawakami. I wonder if Fuji and Hishiama can make it too?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Haha! This is exciting! I can't wait! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Dinner that night is much livelier than usual."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Aw man, I was so close! Still, this carrot looks real tasty! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's a bit thin but it's got some heft, and its roots are so evenly spaced! I bet it'll turn out soft and sweet once it's cooked!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And to make the most of this carrot…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll simmer it with some other ingredients in soy sauce and make a super buono dish out of it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, I'm treated to the delicately simmered dish she makes, and true to her word, it's absolutely buono."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Don't be shy if you want seconds! There's plenty more to have! ☆"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh… What a shame!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Aww… I was really looking forward to making a grand and buono feast for dinner too…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh well! I'm sure these veggies I bought will make just a good a dinner!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Some days just don't go your way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's clearly trying to stay positive, but her expression is a little downcast when we leave the shopping district together."
+        }
+    ]
+}

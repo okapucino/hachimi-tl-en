@@ -1,0 +1,29 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "I did some training on my own during my break. I'll share the data with you later."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…What is it?",
+            "choice_data_list": [
+                "I was just wondering if you managed to get some rest."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…What?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Yeah, I've rested."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Admire Vega had a fulfilling day off."
+        }
+    ]
+}

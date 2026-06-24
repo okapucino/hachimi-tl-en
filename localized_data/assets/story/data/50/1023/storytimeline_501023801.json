@@ -1,0 +1,205 @@
+{
+    "title": "お願い、お姉さん！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm cruising through the mall on my day off when I spot a familiar face in front of a boutique."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "How about this ring? It has a nice color, and it's high-quality. Not a bad choice, if you ask me…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hayahide. You know that's an ear cuff, right?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh?! It looks exactly like a ring… but it's not…",
+            "choice_data_list": [
+                "Everything all right?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, Trainer. Sorry, that was a little disconcerting…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Marvelous asked me to help choose a gift for Mayano."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "What do I do?! What do I dooo?! My marvelous sense isn't tingling at all!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Marvelous, is something the matter?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Oh, goody. So, listen. Mayano won a race! ☆ And I want to give her a marvelous present to celebrate. ★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "But Mayano says she wants something that'll help her become a \"grown-up woman\"!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Whatever could that be? Is it sweet? Is it savory? Is it hot? Cold? I just don't have a cluuue! ☆ Hahaha!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And that's how I ended up here helping her out. Taishin's come to lend a hand too."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hayahide's always gotta stick her nose in other people's business… Anyway, where did Marvelous run off to?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's Marvelous for you, such a free spirit. Something else must have caught her eye, so let's just message her later."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Getting back to the matter at hand—we've got to find something that will help Mayano feel like a \"grown-up woman.\""
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But how do you define an adult woman in the first place? By her age?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Listening to Biwa Hayahide, I can't help feeling she's getting caught up on the specifics.",
+            "choice_data_list": [
+                "Why don't you try a simpler approach?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm? Simpler?",
+            "choice_data_list": [
+                "Just go with something you both like."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You have a point. If we don't even like the gift, it probably won't convey our feelings very well."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Okay, Taishin. Let's each find one gift candidate."
+        },
+        {
+            "name": "Monologue",
+            "text": "After some time, they both come back holding potential gifts to compare."
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide has chosen red nail polish, while Narita Taishin presents a pair of silver earrings."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now for the impartial opinion. Trainer, which do you think would be the better choice?",
+            "choice_data_list": [
+                "The bold nail polish Hayahide chose.",
+                "The cool earrings Taishin chose."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, so you concur with my pick?",
+            "choice_data_list": [
+                "Yeah… but what made you go with that?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, I thought back to the outfit I wore for the recent holiday party."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I had my nails done to match, you see."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It was quite fascinating to see how much the color of your nails can affect your whole look. So, I thought I'd like for Mayano to enjoy that same feeling."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wow… I had no idea. So that's how you felt before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin agrees to the nail polish idea, and we settle on the gift."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Mayano! Congratulations on your marvelous victory! ☆★"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You got me a <i>present?!</i> And it's nail polish?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! This is <i>super</i> grown-up! With this on, I'll definitely look extra mature, don'tcha think? ♪ Thank you all so much! ☆"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe. It looks like our gift was quite a hit. It was well worth us putting our heads together."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ohh… Is that so?",
+            "choice_data_list": [
+                "Sure… but what made you pick those?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, I remembered what I got Hayahide for the recent holiday party."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I gave her a pair of silver earrings too… I figured they didn't look bad, so…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Wow. You must've put some thought into finding an accessory that matched my outfit so nicely."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nah, I was just—anyway, hurry up and make a decision."
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide agrees to the earrings idea, and we settle on the gift."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Mayano! Congratulations on your marvelous victory! ☆★"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You got me a <i>present?!</i> And it's earrings?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! This is <i>super</i> grown-up! Wearing these will make me, like, chic and cool, right? ♪ Thank you all so much! ☆"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh… But what kind of outfit would go well with these? Pleeease, you've gotta help me pick. ☆"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Huh? You're saying we're not done yet?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha. Well, it just goes to show how trustworthy we are. Nothing makes me happier than helping out the younger students."
+        }
+    ]
+}

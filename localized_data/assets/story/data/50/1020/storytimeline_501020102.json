@@ -1,0 +1,214 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the morning of New Year's Day, I receive an unexpected message from Seiun Sky asking me to come on her first shrine visit of the year."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, there you are. Happy New Year!",
+            "choice_data_list": [
+                "What's up with the sudden invite?",
+                "What's up with the sudden invite?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "\"What's up\"? That's a little rude, don'tcha think?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What's wrong with a racer inviting her trainer to a shrine so they can pray for a successful year?",
+            "choice_data_list": [
+                "Sure, that might convince me if you were a <i>normal</i> racer, but…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Are you saying I'm not normal? You <i>are</i> being rude!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Honestly, I was just thinking we should use every tool we can get our hands on, including prayers—that's all!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…That's what I mean. We're gonna have to use our heads, otherwise I won't make it through my senior year.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky faced off against some powerful opponents in both the Classics and the Arima Kinen. I can assume she's been brewing up lots of different ideas."
+        },
+        {
+            "name": "Monologue",
+            "text": "What should I pray for?",
+            "choice_data_list": [
+                "Pray that she refrains from overworking herself.",
+                "Pray that she achieves great success.",
+                "Pray that she can enjoy her races."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A runner's body is an important asset. I pray that Seiun Sky will be able to keep on challenging herself without getting hurt in the process."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her true strength will matter more than ever this year. I pray that Seiun Sky will be able to make the most of her talents."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I pray that Seiun Sky will be able to truly enjoy racing this year, just like she did last year."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Okay. It's up to the gods now.",
+            "choice_data_list": [
+                "What did you wish for?",
+                "What did you wish for?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's a secret. If I tell you, it won't come true, duh."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But… I'm pretty sure we both wished for the same thing."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us then make our way back to campus while having a lighthearted discussion about the year ahead, when…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Is that…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, Sei! Good morning!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's Special Week. She announced the other day that she would be racing in the spring Tenno Sho."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Morning. Getting in some solo training? You're sure not wasting any time this year."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep! That's 'cause I don't wanna lose to you this year!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I saw you at the Arima Kinen. You were amazing!"
+        },
+        {
+            "name": "Special Week",
+            "text": "You must have been under so much pressure, but you overcame it and ran exactly how you wanted to."
+        },
+        {
+            "name": "Special Week",
+            "text": "I got chills watching! So I've really gotta get better too!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I wanna beat you in the spring Tenno Sho. Once I do that… I'll be one step closer to being number one in Japan!",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week's goals immediately clash with those of Seiun Sky."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Well, thanks, I guess."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Good luck with your training. Let's get going, Trainer."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…",
+            "choice_data_list": [
+                "That's all?",
+                "That's all?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? What do you mean?",
+            "choice_data_list": [
+                "With Special Week."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I don't wanna get in the way of her training. We can always chat more at the academy."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Plus, you heard her. She said she's gotta get better.",
+            "choice_data_list": [
+                "So?",
+                "So?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "She watched the Arima Kinen, so she must have felt how driven everyone was."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I'm…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm… hungry.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Looking at Spe's face makes me hungry, y'know? Since she's always snacking on something."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I think I'm gonna go grab a bite from the dorm kitchen."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "See ya later. Here's to another year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Did Seiun Sky pick up on something I didn't? I can't tell right now, but I know I'll continue to look out for her and be a source of strength whenever she needs me."
+        }
+    ]
+}

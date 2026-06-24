@@ -1,19 +1,21 @@
 {
-    "no_wrap": true,
+    "title": "バクシン的研究結果！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One day, as I was walking through \ncampus, I saw…"
+            "name": "Monologue",
+            "text": "One day, while I'm walking around campus…"
         },
         {
             "name": "Rat?",
-            "text": "Squeak, squeak! \nBakushin, Bakushin!",
+            "text": "<i>Squeaky, squeak!</i> Bakushin, Bakushin!",
             "choice_data_list": [
-                "…A rat?"
+                "…Is that a rat?"
             ]
         },
         {
             "name": "Cat?",
-            "text": "Meow, meow! \nBakushin, Bakushin!",
+            "text": "<i>Meow, meow!</i> Bakushin, Bakushin!",
             "choice_data_list": [
                 "No, a cat?",
                 "No, a cat?"
@@ -21,223 +23,229 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Negative!!"
+            "text": "I'm afraid not!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's the class president!!"
+            "text": "It is I, your class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And, oh no――! \nThey're coming!!",
+            "text": "Wait, no! I blew my cover!",
             "choice_data_list": [
-                "…Are you playing hide-and-seek?"
+                "…Are you playing hide and seek?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, it's an impersonation!! \nTo avoid being noticed by the subjects \nof research――"
+            "text": "No, I'm playing pretend! You see, I don't want my research subjects to find me—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aah!? \nThe subjects have disappeared!?"
+            "text": "Wait?! Where did my subjects go?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We must search for them!! \nTrainer!",
+            "text": "Let's go find them, Trainer!",
             "choice_data_list": [
-                "Eh!?"
+                "Huh?!"
             ]
         },
         {
-            "text": "I wasn't quite sure what was going on, but \nI was worried about her being on her own, \nso I decided to follow her…"
+            "name": "Monologue",
+            "text": "I have no idea what is going on, but it doesn't feel right to leave her alone either. So, I decide to tag along…"
         },
         {
             "name": "Rice Shower",
-            "text": "The ground, it doesn't seem to be \nlooking too good today…"
+            "text": "The tracks don't look so good today…"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "This is due to the rain the day before. \nIt is my hypothesis that this is ideal for \ntraining in anticipation of poor track \nconditions."
+            "text": "That's because of yesterday's rain. But these are the perfect conditions for muddy track training."
         },
         {
             "name": "Rice Shower",
-            "text": "But, with Rice's misfortune, something \nmight happen…",
+            "text": "But then… my misfortune might cause something bad to happen…",
             "color_text_info_list": [
-                "Rice"
+                "★★★"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Though, I seem to recall that dealing with \nirregular situations is part of your training?"
+            "text": "Taking appropriate measures in the event of an irregular occurrence is also a part of training. Do you not recall this?"
         },
         {
             "name": "Rice Shower",
-            "text": "Ms. Bourbon… You're right, thank you.",
+            "text": "Bourbon… You're right. Thank you.",
             "color_text_info_list": [
                 "Bourbon"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Not at all. More importantly, I'm rather \ncurious about something."
+            "text": "It's no matter. More so, there is something that has caught my interest—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuugh, the mud is so heavy… \nQuite the formidable foe this track condition \nis to get even someone like myself stuck!"
+            "text": "Urgh, this mud is heavy… to think I would become trapped! You're quite the opponent, ol' muddy track!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However, it's hard to hear what you're \nsaying. Especially Ms. Bourbon!"
+            "text": "It's so difficult to catch what they're saying. Especially Bourbon!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hypothe… saurus?……Irregu… lar? \nA part… a part of your tuna-ing?"
+            "text": "Conditions… irregu…lar? Part of… pla… platter of tuna?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Perhaps, after training you are going to \na sushi restaurant!? Uuuuu, I must go there \ntoo, so I can do my research while I'm at it!!",
+            "text": "They plan to eat sushi after training?! Hm, I must also attend for my research then!",
             "choice_data_list": [
-                "Those are your two research subjects?"
+                "Are those two your research subjects?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oya!? \nHow did you know that!?"
+            "text": "Ohoh! How did you know?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, I'm currently studying those two as \npotential future rivals…"
+            "text": "Yes, I am conducting research on those two, my supposed future rivals…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's a big project, so it was necessary to be \ncareful, and I had to keep it a secret from \neven you, Trainer. Now, then…"
+            "text": "It is quite a large project, so I had all intentions to keep it a secret from you as precaution."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Surely, you must be a telepath, Trainer! \nYou're a telepathic trainer, aren't you? \nIt's a kind of Uma, isn't it!?",
+            "text": "Yet it appears you are quite the mind reader, Trainer! You're some kind of cryptid, aren't you?!",
             "choice_data_list": [
-                "It's not an Uma, or a UMA.",
-                "It's not an Uma, or a UMA."
+                "I'm no cryptid.",
+                "I'm no cryptid."
             ]
         },
         {
-            "text": "I know what Sakura Bakushin O is \ndoing, sneaking around and spying \non the two of them, but…",
+            "name": "Monologue",
+            "text": "I more or less understand why Sakura Bakushin O is keeping watch of the two Umamusume, but I feel I should still ask her directly…",
             "choice_data_list": [
-                "Why are those two your rivals?"
+                "Why those two specifically?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Very well, I'll tell you, as class president. \nThose two are next year's most popular \nClassic class Umas!"
+            "text": "Good question, I will answer you as class representative. Those two are the latest hopefuls for the Classics next year!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words, they're naturally destined \nto showdown with me as I continue down \nthe Bakushin Road!"
+            "text": "Which means I will surely face them if I'm to follow the Bakushin Road!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ms. Rice Shower. \nShe is a small stayer, but a very good one. \nShe also looks timid, but she has a \ncompetitive spirit.",
+            "text": "Rice Shower. She's on the small side, but she's a stayer with real talent. She may seem wimpy, but deep down she has the guts to win.",
             "color_text_info_list": [
                 "Rice Shower"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ms. Mihono Bourbon. \nShe has the speed to be a sprinter and the \nstamina to keep it up.",
+            "text": "Mihono Bourbon. She has enough speed to run as a sprinter, and her stamina lets her take advantage of her speed. That makes her a formidable contender.",
             "color_text_info_list": [
                 "Mihono Bourbon"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Both of them are formidable opponents, \nbut in my expert opinion, I believe Ms. \nBourbon to be the best rival."
+            "text": "Both of them are hard to handle, but Bourbon will likely be the harder fight."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After all, her speed is quite the threat. \nShe'll definitely be competing with me in \nthe early stages of the race."
+            "text": "Her speed cannot be taken lightly. I'll have to battle for the lead right from the start…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Say, wait a minute, are you listening to \nme!? You're just staring at me with your \nmouth wide open!",
+            "text": "…Um, hey, are you listening?! Don't space out now!",
             "choice_data_list": [
-                "I just thought it was a great analysis."
+                "That was quite the excellent analysis."
             ]
         },
         {
-            "text": "Sakura Bakushin O, who always seems \nto have a tendency to act rashly, is giving \na very thoughtful and respectable analysis…"
+            "name": "Monologue",
+            "text": "Sakura Bakushin O usually just plows headfirst into things, but here she is making astute observations."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Naturally! \nAfter all, I am the class president!"
+            "text": "Of course! I am class representative after all!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The analysis of one's rivals should be done \nbefore breakfast―no, before dinner!"
+            "text": "Analyzing my rivals is but a piece of cake… No, it is merely a crumb of my powers!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With this kind of research, I'll have no \nproblem winning any race, even in \nmiddle or long distances!"
+            "text": "If I get the research bit down, then any medium race will become a cinch!"
         },
         {
-            "text": "…Better just to keep quiet about the fact \nthat most important premise is blatantly \nincorrect. \nAh, right over there…"
+            "name": "Monologue",
+            "text": "She hasn't quite grasped the most important factor here, but I hold back on saying anything. That's when…"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Ms. Bakushin O.",
+            "text": "Bakushin O.",
             "color_text_info_list": [
                 "Bakushin O"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hawaa!?"
+            "text": "Wh-wha—?!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "From the time I arrived at school \nuntil now, I noticed that I was being \ntracked by Ms. Bakushin-O."
+            "text": "I have observed that you, Bakushin O, have been tracking us since morning."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Ms. Rice and I came to the conclusion that \nyou had some business with us. \nWe'll listen."
+            "text": "Therefore, I have reasoned that you must have something you wish to discuss with us. So I shall ask you—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaaahhh―uh!!"
+            "text": "Before you do!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I am absolutely not!! Researching you two!!"
+            "text": "I most certainly have not been researching you two! No way, nuh-uh!"
         },
         {
             "name": "Rice Shower",
-            "text": "Huh? \nR, researching…?"
+            "text": "Huh? R-research?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is why! You should go ahead and \nplease take your sweet time while you \npractice!"
+            "text": "That's right! Go now, practice in peace!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Squeaaak!"
+            "text": "Squeak!"
         },
         {
             "name": "Rice Shower",
-            "text": "Oh, Ms. Bakushin O! \nIf you run too fast…!"
+            "text": "Wait, Bakushin O! If you run off like that, then—"
         },
         {
-            "text": "(Slip!)"
+            "name": "Monologue",
+            "text": "<i>Slip.</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Gyaawaaahhh――!?!?"
+            "text": "Gyaaah! Wha—"
         },
         {
             "name": "Rice Shower",
-            "text": "Awawaa…! Ms. Bakushin O is all covered in \nmud because Rice called out to her…!"
+            "text": "…Oh no! Bakushin O looked back because I called out to her, and now she's covered in mud!"
         },
         {
-            "text": "As I helped the fallen Sakura Bakushin O up, \nI thought again about how to deal with her \npassion for the Bakushin Road…"
+            "name": "Monologue",
+            "text": "While helping her up, I think over how best to deal with Sakura Bakushin O's fervent dedication toward the Bakushin Road…"
         }
     ]
 }

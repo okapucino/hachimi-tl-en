@@ -1,0 +1,38 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the morning after a day off, and I spot Mayano Top Gun. I call out her name, but…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! Trainer?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Stop it! Close your eyes! Don't look this way!",
+            "choice_data_list": [
+                "Wh-what's the matter?!",
+                "Wh-what's the matter?!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "<i>Urgh…</i> I was practicing putting on makeup yesterday, and before I knew it, the sun was already up…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "My eyes are so dark I look like a panda!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Waaah! You're not allowed to see me like this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seems like she didn't get enough rest on her day off…"
+        }
+    ]
+}

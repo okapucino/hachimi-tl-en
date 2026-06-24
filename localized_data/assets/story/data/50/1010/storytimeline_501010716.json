@@ -1,0 +1,44 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh…</i> Say, Trainer. I haven't been feelin' too great lately."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't have a fever, and I'm not hurting anywhere, but my body's been weighin' me down…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Think I'm comin' down with something? I make sure to eat my veggies and all…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle orders herself a hamburger and a large plate of fries while we talk.",
+            "choice_data_list": [
+                "It's because of what you're eating!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What?! But I've been eatin' lots of healthy veggies! I even snack on potato chips at night!",
+            "choice_data_list": [
+                "That's the problem!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You can't fool me, Trainer! I know a joke when I hear one…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wait… Are ya bein' serious? Is it really that bad?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I review her eating habits and incorporate some healthier alternatives."
+        }
+    ]
+}

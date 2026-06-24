@@ -1,0 +1,103 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle injures herself during training, so I rush her to the infirmary."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, don't you fret, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The doctor said I was healthy as a mule! It's back to training startin' tomorrow!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And the timing couldn't be better! I'm just happy I get to snuggle up in bed for a spell!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "My friend lent me this comic, and it's a real knee-slapper…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoops! Forget you heard that!",
+            "choice_data_list": [
+                "Make sure you get some good rest.",
+                "No comic books allowed!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay! I promise to be out like a light!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe… So where did I leave off…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…What?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooo! I forgot the comic back at the dorm!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer! Can you do me a little favor and go get it for me? I need it now more than ever!",
+            "choice_data_list": [
+                "…Please get some rest."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Trainers are prohibited from entering the dorm rooms, so it's not like I could help anyway… I make sure she's well rested by day's end."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aww, shucks! I really wanted to read it…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So what am I supposed to do?! There's nothing in here!",
+            "choice_data_list": [
+                "Sleep!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Gosh… You're awful strict, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "While the diagnosis suggests there's nothing seriously wrong with Taiki, she's not in great spirits."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, I get it… I know you're just worried about me."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay! If I can't read any comics, I'll just pass the time with a good movie!",
+            "choice_data_list": [
+                "No movies!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're killin' me here, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Taiki Shuttle is back to normal and ready to resume training."
+        }
+    ]
+}

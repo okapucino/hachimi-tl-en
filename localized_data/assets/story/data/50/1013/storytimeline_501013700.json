@@ -1,0 +1,33 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah… P-please excuse me for yawning in the middle of training."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I went to bed at a proper time last night, but I had a bit of a bad dream.",
+            "choice_data_list": [
+                "What did you dream of?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well, it involved Gold Ship shoving me into a rocket…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh… I'm sorry, I can't bear to say any more. The mere thought of it is giving me the shivers."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sigh…</i> I feel so disheartened. Was my day off yesterday a waste?"
+        }
+    ]
+}

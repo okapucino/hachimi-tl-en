@@ -1,0 +1,29 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "The weather, wind speed, humidity, and track conditions are all perfect."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Based on past scrimmages I partook in under identical conditions and my current physical abilities…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm good to go! I can do this, Trainer! I'm confident I can do well in this race!",
+            "choice_data_list": [
+                "Do your best!",
+                "Do your best!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I certainly will! I can't wait for you to see it!"
+        },
+        {
+            "text": "Biwa Hayahide is fired up!"
+        }
+    ]
+}

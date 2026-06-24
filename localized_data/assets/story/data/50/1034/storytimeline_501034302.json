@@ -1,0 +1,281 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After stocking up on training goods with Inari One at the shopping district…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Good. Looks like we crossed off everything on our list at that last shop!",
+            "choice_data_list": [
+                "Thanks for coming with me."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Don't sweat it! Most of it's for me, so it'd be rude if I didn't come."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ooh, it's a raffle! They do 'em 'round these parts too, huh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "I did my share back in my hometown but never really had any luck. Still, somethin' always keeps me comin' back to try again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, I remember receiving a raffle ticket from our last purchase.",
+            "choice_data_list": [
+                "Here, you should have this ticket."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Wait just a sec! That came from <i>your</i> shoppin'. It's only right that you use it.",
+            "choice_data_list": [
+                "Then let's spin for the raffle together."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Wait just a sec! That came from <i>your</i> shoppin'. It's only right that you use it.",
+            "choice_data_list": [
+                "Then let's spin for the raffle together."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The items I bought are for Inari One to use. In other words, this ticket belongs to the both of us."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, I like the sound of that. Makes me wanna crank that lever even more!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, this is our big chance! Let's spin it together and reel in somethin' <i>huge!</i>"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh, you two are going to try together?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yes, count the both of us in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking on the challenge, we spin it together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the ticket for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "W-we got… the <i>grand</i> prize?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yes, yes, yeeees! Our little ol' raffle ticket turned into a grand prize! I didn't actually think we'd nail it!",
+            "choice_data_list": [
+                "We did it!",
+                "We did it!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! I guess pullin' it together combined both our lucks!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wow, a hot spring getaway… I can't believe it! Hot springs are my go-to when I think of vacations!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Delicious food, big baths—talk about vacationin' in style! Hehe, I can't wait!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Except… we gotta focus on the now. Either way, it looks like this ticket won't expire for a while."
+        },
+        {
+            "name": "Inari One",
+            "text": "So could ya hold onto it for the time being?",
+            "choice_data_list": [
+                "I don't mind… but are you sure?",
+                "I don't mind… but are you sure?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Sure as ever! I needa focus on holdin' my ground in those central races. 'Sides, if our trip is a victory celebration, then I can <i>really</i> relax!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Not a bad idea to save the goods for later, yeah?",
+            "choice_data_list": [
+                "You have a point there!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Right? Now that we've got somethin' fun to look forward to, let's keep at it!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeeees! We did it, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeeees! We did it, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, this is a nice first prize! You don't see somethin' this fancy every day!"
+        },
+        {
+            "name": "Inari One",
+            "text": "A meal this good deserves to be eaten quick! Let's get right to it once we're back at your office!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, we indulge in the delicious deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Woohoo! We got somethin' good!"
+        },
+        {
+            "name": "Inari One",
+            "text": "That's one generous prize! Just look at this giant heap!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe. Ya know what this calls for—a carrot festival! Maybe we could get Creek to give us a hand."
+        },
+        {
+            "name": "Inari One",
+            "text": "You gotta come too! C'mon, there's no time better than now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, I enjoy the carrot festival with Inari One and her friends!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, well, at least we got somethin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, this carrot looks pretty good. Bet it tastes great just on its own!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Let's split it once we get back. Hey, how do ya like your carrots anyways?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, I eat my share of the carrot with Inari One!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Guuugh! We pulled a dud!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Sorry, Boss! That was our chance to strike gold, and I blew it!",
+            "choice_data_list": [
+                "Hey, it happens."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Sorry, Boss! That was our chance to strike gold, and I blew it!",
+            "choice_data_list": [
+                "Hey, it happens."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, I guess… But I wanted to win with style, not cramp it! Ugh, it's actually friggin' frustrating!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After pulling a blank, Inari One's mood takes a sharp nosedive…"
+        }
+    ]
+}

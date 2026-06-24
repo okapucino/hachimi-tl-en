@@ -1,0 +1,34 @@
+{
+    "title": "都会の洗礼",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Guh… <i>Huff… puff…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap doesn't seem to be feeling very well. Her face looks a little pale.",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mm… Tama and I went to this dessert cafe with an early bird menu…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then, on our way back, we were on this packed train."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The dense crowd and stuffy air left me feeling unwell…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's quite out of it today. It seems the stress has really gotten to her."
+        }
+    ]
+}

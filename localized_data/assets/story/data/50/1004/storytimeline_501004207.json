@@ -1,0 +1,34 @@
+{
+    "title": "安田記念にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day has finally arrived. Maruzensky and Grass Wonder will race against each other in the Yasuda Kinen…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Deep breaths, deep breaths…",
+            "choice_data_list": [
+                "You're really locked in, huh?",
+                "You're really locked in, huh?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Absolutely! Grass may be a cute, younger athlete, but her running ability is ferocious."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! Opponents like that make for a fun race, though!",
+            "choice_data_list": [
+                "Go show them your stuff!",
+                "Go show them your stuff!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, I'm going to enjoy bringing home the win!"
+        }
+    ]
+}

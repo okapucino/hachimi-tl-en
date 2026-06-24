@@ -1,0 +1,208 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day at the dorm, there's a travel program on TV."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wowie! That sure is pretty!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hidden hot springs, huh? Sure sounds like a trip worth making."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(Hehe. Spe's in such a good mood today.)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(Hm… Speaking of hot springs…)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Do you remember how I won that hot spring vacation coupon in the raffle at the shopping district?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, I do remember…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Who should I invite? Vacations are such special occasions, after all…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Do you think you could hold on to this coupon for me, please?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking back on it, I've been keeping that coupon safe since then."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I couldn't decide what I wanted to do with it back then, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I think I know now. Would you like to go with me?",
+            "choice_data_list": [
+                "You're inviting me?",
+                "You're inviting me?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. I'd love for you to come."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That was wonderful. It was so quiet, and the water was nice and hot."
+        },
+        {
+            "name": "Monologue",
+            "text": "The hot spring was as soothing as she says. I nearly lost track of time while relaxing in there.",
+            "choice_data_list": [
+                "I might've soaked a little too long. I feel a little lightheaded."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh no…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe… I know what we can do to help cool you down.",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes, I was just thinking about how I'd like to go for a walk outside."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Would you like to join me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk with Silence Suzuka down a rural road that seems to stretch for miles."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Doesn't the breeze feel so good?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks so happy, I can't help but wonder if the reason she wanted to go on this vacation was to enjoy the lush nature around the inn.",
+            "choice_data_list": [
+                "It's so open around here.",
+                "It's so open around here."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Right? It seems like this road might go on forever."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I bet if I started running, I'd be able to see all sorts of new scenery…",
+            "choice_data_list": [
+                "You're not about to sprint off on me, are you?",
+                "You're not about to sprint off on me, are you?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh… No. I was just imagining it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I do feel like going for a run…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But right now, this is exactly where I want to be."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I want to stay by your side, walking together at the same pace."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm taken aback for a moment by her unexpected announcement."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Do you remember when we first met? The scenery back then was just like this."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Since then, I've run so much, and seen so many different sights."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sometimes I ran so quickly I couldn't even see what was around me.",
+            "choice_data_list": [
+                "…Yeah.",
+                "…Yeah."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The road we've traveled to make it this far is just like this one we're walking along right now—bumpy, rough, and anything but easy to traverse."
+        },
+        {
+            "name": "Monologue",
+            "text": "And for three years, we've done nothing but run down it in earnest."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Maybe that's why I feel this way."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Like it's all right to take things slow every once in a while, and simply move forward one step at a time…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All while taking in new scenery with you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes sparkle like shooting stars in the night sky.",
+            "choice_data_list": [
+                "You're right.",
+                "You're right."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I hope I get to see more new scenery in the future."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And I hope you'll still be by my side when I do."
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend the rest of the walk down that endless, bumpy country road exchanging only a few words from time to time."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Silence Suzuka and I have formed an irreplaceable bond during this time together."
+        }
+    ]
+}

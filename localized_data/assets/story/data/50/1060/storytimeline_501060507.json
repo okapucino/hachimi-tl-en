@@ -1,0 +1,50 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nice Nature has received a fan letter and one thousand origami cranes, which I give to her."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She reads the letter intently."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Isn't this… a bit much?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, seriously, this fan made a thousand origami cranes for a side character like me…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "One thousand. Can you imagine how long it must've taken?",
+            "choice_data_list": [
+                "That's just how dedicated they are to supporting you.",
+                "That's just how dedicated they are to supporting you."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I know. And it's not like I don't appreciate it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I guess it's time to head to training!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I've got to earn those cranes."
+        },
+        {
+            "name": "Monologue",
+            "text": "She carefully arranges the origami cranes on the window and we head off to training."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A fan letter addressed to Inari One has arrived, so I go and hand it to her."
+        },
+        {
+            "name": "Inari One",
+            "text": "\"I always feel revitalized when I watch you running.\" Oh, those are some real heartwarming words.",
+            "choice_data_list": [
+                "There's a gift that came with the letter too."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hm? A charm, is it?"
+        },
+        {
+            "name": "Inari One",
+            "text": "What's this? \"I might be overstepping my boundaries, but I wanted to send you a charm to help you stay in high spirits.\""
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh. Now that's a classy gesture I won't soon forget!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Right, guess it's trainin' time! Don't we have a TV interview planned today? I'm gonna give 'em a glimpse of my majestic footwork!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "Okay! We want to capture a little of you in action running on the track! Inari One, are you ready?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hang on a sec. I'm almost good to go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One attaches the charm she received from her fan to her waist."
+        },
+        {
+            "name": "Inari One",
+            "text": "'Kay, all good! Get ready to be wowed!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "What a fantastic run! Now, to wrap things up, do you have any words for your fans out there?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! I'm gonna keep it nice and simple."
+        },
+        {
+            "name": "Inari One",
+            "text": "Nothin' makes me happier than knowin' you're out there gettin' pumped watchin' me run!"
+        },
+        {
+            "name": "Inari One",
+            "text": "With all your hopes and dreams on my shoulders, I'll keep tearin' up the track! Don't forget to cheer me on, ya hear?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The charm at Inari One's waist sways as she proclaims her thanks with style!"
+        }
+    ]
+}

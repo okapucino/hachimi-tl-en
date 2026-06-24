@@ -1,0 +1,54 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a training session with Meisho Doto, three students grab our attention."
+        },
+        {
+            "name": "Student A",
+            "text": "Excuse me, but would you let Meisho Doto go partner running with us?",
+            "choice_data_list": [
+                "I'm fine with it… but what do you think?",
+                "I'm fine with it… but what do you think?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eek?! Um, huh?! Well, th-the thing is…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…I'm really happy you asked, but are you sure you want someone like me?"
+        },
+        {
+            "name": "Student B",
+            "text": "We totally wanna run against you! I wanna learn from that go-getter attitude of yours!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but, I haven't done anything special to warrant this praise…"
+        },
+        {
+            "name": "Student C",
+            "text": "That's not true! I've seen the way you always hold on towards the end of the race. Just when you're surrounded on all sides, you give it one final spurt to break free… it's really something!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep! Oh, th-thank you very much!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, if you don't mind having me, then… I would be happy to join you!"
+        },
+        {
+            "name": "Student A",
+            "text": "Yesss! I'll go get ready, okay?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "To be invited on a partner run is like a dream come true… And it's all thanks to you, Trainer… hehe."
+        }
+    ]
+}

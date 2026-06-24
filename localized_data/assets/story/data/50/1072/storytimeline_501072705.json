@@ -1,0 +1,182 @@
+{
+    "title": "伝説の書を求めて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki and I are on our way home after a day out when she stops in front of an old book store."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer, would it be okay if we took a slight detour?",
+            "choice_data_list": [
+                "Oh, want to do some shopping?",
+                "Oh, want to do some shopping?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. This store has an old book I've been wanting to buy for some time. I've been saving up to buy it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's a book that documents the physical training methods of various jujitsu schools, as well as techniques of schools whose lineages have come to an end. It's an extremely valuable record."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The mere thought of those lost techniques… I can't wait to see how much I can learn."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wait for Yaeno Muteki in front of the shop. Soon, however…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's gone! The book is nowhere in sight! I'm certain it was there just the other day!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Pardon me, shopkeeper! The valuable book that was on the back shelf—has it been sold?!"
+        },
+        {
+            "name": "Elderly Shopkeeper",
+            "text": "Hm? Oh yes, a girl came and bought that book just a few moments ago."
+        },
+        {
+            "name": "Elderly Shopkeeper",
+            "text": "In fact, you two were wearing the same uniform. What school is that again?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "A student from Tracen Academy?! And if she recently bought the book, she must still be nearby!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'd like to peruse a few of its pages at the very least… Let's chase after her!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I got some great shopping done! ♪ …All right, this looks like a solid reading spot."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's Ryan! And look! She's holding a bag from the store!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I always thought Ryan specialized in modern training methods, but to think she holds an interest in traditional techniques as well…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ryan! I have a life-or-death request!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, Yaeno? What's got you looking so desperate?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That book you just purchased… Would it be possible for me to take a look at it?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh?! Y-you mean this?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I had no idea that you were also interested in this subject matter."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wait a sec… Are you saying… you, uh, want to read this book too?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It would be more accurate to say that, considering the path I've walked, it would be a failure for me <i>not</i> to read it."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "R-really?! Suddenly, I want to know all about your past!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'd be eternally grateful if you'd let me join you!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "O-okay, okay! I get it! I'll show you the book, so just take it easy!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You have my deepest gratitude! I will remember your selfless gesture for the rest of my life!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Whaaa?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Wh-what <i>is</i> this book? On the very first page we turn to… <i>c-c-canoodling?!</i>"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, whoa, whoa! Don't say that out loud! Even for a romance comic… this one's got a load of—ahem—<i>bold</i> scenes!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Wh-what is the meaning of this? I thought this book covered traditional training methods!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Aaaagh… Th-they're holding hands, and… they're even doing <i>that!</i>"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wh-whoa, shhh! Keep it down!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Aaaah! Nooooo…",
+            "choice_data_list": [
+                "Those are some <i>interesting</i> traditional training methods.",
+                "So where's the actual book you were looking for?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "No! This is definitely the wrong book!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Th-this… was all a misunderstanding on my part. But how?! Why?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ahhh! I'm such a fool! We're all fooools!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…It turns out that the shopkeeper had just moved the book in question when reorganizing the shelves."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Y-yes, indeed… Where in the world could it be?",
+            "choice_data_list": [
+                "Want to have another look?",
+                "Want to have another look?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes… Right away. Um, apologies, Ryan!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "H-hey?! Hold on a sec! You're just going to take off after embarrassing me like that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…It turns out that the shopkeeper had just moved the book in question when reorganizing the shelves."
+        }
+    ]
+}

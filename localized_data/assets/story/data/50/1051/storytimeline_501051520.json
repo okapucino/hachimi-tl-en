@@ -1,0 +1,232 @@
+{
+    "title": "Bloom with Grace",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, the groundskeeping committee is conducting its monthly academy cleanup. Nishino Flower and Grass Wonder are doing their rounds."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You needn't be so nervous, Flower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I-I know… but today's the groundskeeping committee's big day."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I have to do my best so that everyone will understand the importance of keeping the academy spick-and-span!",
+            "choice_data_list": [
+                "(I wonder if she'll be all right.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower appears far more fired up than usual. I'm a little concerned, so I decide to keep an eye on her from a distance."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey, I was using that broom!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I don't see your name on it! Just go get another one."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um… Excuse me…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I was in the middle of sweeping already, so why do I have to go? <i>You</i> go get another one!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Umm… Please stop fighting…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A word, if I may?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for being so passionate about keeping our academy looking pristine. However…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Beautiful landscapes are created by beautiful hearts. Let's cease this bickering and work together toward our goal."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, that about does it for our rounds. All that's left is…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… Grass? Thank you for what you did back there! How, um…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "How can I become as good as you are at dealing with others?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to be a dependable Umamusume who everyone can count on!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, thank you for the compliment. Everything comes down to experience, but if I had to say…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "First, you should stand tall and speak with confidence. People are bound to lend an ear to a dignified speaker."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Next—and this is the most important thing…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You need to convey the passion that you hold toward cleaning. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The passion I have?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. If you can manage that, you'll be just fine. Now, the slackers tend to gather on the roof. Shall we pay them a visit?"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "…Tch."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Oh, it's an upperclassman… And she looks angry… But I have to stay firm.)"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um! Please get back to cleaning!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Why? It's not like I'd make much of a difference anyway."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…We can't expect to produce great results unless we maintain a great environment!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And I believe you have to create that environment yourself! You can't simply sit there and expect others to do it for you."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'd appreciate it if you'd go back to your assigned space and start cleaning, please!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "<i>Sigh…</i> Fine. Who am I to argue in the face of that passion…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We're done for the day. You handled yourself well back there, Flower. Don't you agree, Trainer?",
+            "choice_data_list": [
+                "…You knew I was here the whole time?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… Wait, have you been watching me from the start?",
+            "choice_data_list": [
+                "Yup. You were so cool back there!",
+                "Yup. You were so cool back there!",
+                "You delivered some great words of wisdom.",
+                "You delivered some great words of wisdom."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… Wait, have you been watching me from the start?",
+            "choice_data_list": [
+                "Yup. You were so cool back there!",
+                "Yup. You were so cool back there!",
+                "You delivered some great words of wisdom.",
+                "You delivered some great words of wisdom."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Th-thank you very much!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… I've still got a long way to go before I can catch up to Grass!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "She's gentle and soft-spoken, but everyone hears her loud and clear… That's how I want to be!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Goodness, if you're using me as inspiration, then I'll have to pay closer attention to my own conduct."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-oh, I didn't mean to put pressure on you!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehehe, that's not what I'm saying. I was simply implying that we should both give it our best."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-okay! You can count on me to give it my all!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "D-do you really think so?! Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That phrase came to me in the middle of a race, actually."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The well-kept turf felt great under my cleats, and I was beating all my old times…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's when it hit me! \"A great environment leads to great results.\""
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see. I suppose I've learned something today as well."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh gosh, that's nothing compared to what you taught me! I truly appreciate it."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems they both learned something important from one another."
+        }
+    ]
+}

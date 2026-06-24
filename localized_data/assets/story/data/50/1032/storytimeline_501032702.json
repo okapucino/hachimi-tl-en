@@ -1,0 +1,188 @@
+{
+    "title": "速くなれるお薬依頼？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon and I are heading back to the academy…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hey, I'm going to make a stop by the laboratory. I want to see how my new concoction is coming along."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It should be ready tomorrow, so we can move on to the experiment in the morning."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, like any other day, Agnes Tachyon is continuing her research and experimentation.",
+            "choice_data_list": [
+                "Do you ever get tired of research?",
+                "Do you ever get tired of research?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What kind of question is that?! My work is changing every day, you know!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's the same for my research. My understanding of muscles, the organs, bone structure, and the like…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What is considered conventional knowledge today might be disproved tomorrow."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is precisely why the path to body modification is so involved and interesting.",
+            "choice_data_list": [
+                "So, basically you don't have time to get tired.",
+                "So, basically you don't have time to get tired."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That's right. So, now that you get it, I will see you tomorrow. Good night, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nice morning, isn't it? Here, take this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Immediately after greeting me, she hands me a pill which smells indescribably horrendous. I'm forced to swallow it.",
+            "choice_data_list": [
+                "Wh-what was that?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Haha! It makes you want to vomit, doesn't it? But worry not, your suffering will turn out to be worth it in the end!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You'll see what I'm talking about once it starts taking effect! Now come on! Run around the track with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I run for an hour or so, but the effects Agnes Tachyon mentioned don't seem to arrive."
+        },
+        {
+            "name": "Monologue",
+            "text": "More than anything, the stench of the pill still lingers in my mouth, making the whole experience rather… torturous."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I see… Your pulse when running is no different than normal. No change in the color of your muscles either."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You do seem a bit pale in the face… but, I'll assume that's for another reason."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh! I've got it, Trainer! In short, this experiment…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Is a failure!",
+            "choice_data_list": [
+                "You're saying my suffering was for nothing?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, your time for the last 200 meters was a bit faster than usual."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The difference is almost insignificant, but…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As you were supposed to feel light as a feather, this slight improvement might not be so—"
+        },
+        {
+            "name": "Curly-haired Umamusume",
+            "text": "I heard you were doing dangerous experiments like creating drugs to make you run faster, but… I'm surprised the rumors are true."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? You must also be a student at Tracen Academy. Does this mean you're interested?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But first, allow me to correct one thing. The concoctions I put together are—"
+        },
+        {
+            "name": "Curly-haired Umamusume",
+            "text": "Please! Can I have some?! I… want to become faster!"
+        },
+        {
+            "name": "Curly-haired Umamusume",
+            "text": "I'm always losing… so I don't care if I cheat anymore!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Whoa, hold on a second. What I do here isn't cheating…"
+        },
+        {
+            "name": "Curly-haired Umamusume",
+            "text": "I'm begging you! I'll be waiting, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having said what she came to say, the curly-haired Umamusume runs off."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmmm…",
+            "choice_data_list": [
+                "Let's tell her there's been a misunderstanding.",
+                "We should tell her to reconsider."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "More importantly, if she really wants my concoction, shouldn't she be helping me in return?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "She just wants to take the fruits of my hard work. I'm not impressed."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All right, next time I see her, I'm going to make sure she joins the experiment properly!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh. I'm looking forward to this…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon laughs merrily as she watches the departing Umamusume…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "She'll see. There's no such thing as cheating when it comes to my experiments."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Still, I'm intrigued. Her eyes were burning with fighting spirit."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yet, she seems so eager to utilize artificial enhancements. I should look into this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon chuckles to herself as she watches the departing Umamusume…"
+        }
+    ]
+}

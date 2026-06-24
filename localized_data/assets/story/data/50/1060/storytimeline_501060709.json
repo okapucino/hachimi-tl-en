@@ -1,0 +1,69 @@
+{
+    "title": "レース入着",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Not too shabby, right? I made it onto the scoreboard after all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yup, this feels about right. Nice and safe.",
+            "choice_data_list": [
+                "You should be prouder of yourself!",
+                "Are you satisfied with this?",
+                "Are you satisfied with this?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yup, this feels about right. Nice and safe.",
+            "choice_data_list": [
+                "You should be prouder of yourself!",
+                "Are you satisfied with this?",
+                "Are you satisfied with this?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "There's nothing to be proud of, though. I didn't win or anything.",
+            "choice_data_list": [
+                "It's proof that you have potential. You'll definitely win next time!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh… I don't know how you can say things like \"definitely\" with such conviction."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I guess it's good for my trainer to have confidence in me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I won't go as far as to say I'll <i>definitely</i> win, but I can aim for it at least."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, don't go all drill sergeant on me! That won't whip me into shape.",
+            "choice_data_list": [
+                "So… you're okay with where you are then?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Of… course not. You know that.",
+            "choice_data_list": [
+                "Then let's do even better next time."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh… You always try to make me say I'll do better."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…But if I win, that means you'll stop, right?"
+        }
+    ]
+}

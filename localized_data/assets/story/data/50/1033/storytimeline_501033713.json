@@ -1,0 +1,101 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "I told you it's no big deal. I just twisted it a little when I stepped down."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You didn't need to take me to the infirmary."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I already feel fine. Are you listening? I need to keep training.",
+            "choice_data_list": [
+                "You really think you're in the shape to continue?",
+                "You really think you're in the shape to continue?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't have time to lie around. I need to be on my feet and running. I…",
+            "choice_data_list": [
+                "It takes strength to overcome impatience.",
+                "That's so like you. All right, but be careful.",
+                "That's so like you. All right, but be careful."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't have time to lie around. I need to be on my feet and running. I…",
+            "choice_data_list": [
+                "It takes strength to overcome impatience.",
+                "That's so like you. All right, but be careful.",
+                "That's so like you. All right, but be careful."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Overcome my impatience…",
+            "choice_data_list": [
+                "Let's wait until you're fully healed."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Fine… I got it. I'll get some rest then."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're my trainer after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although somewhat reluctant, Admire Vega listens to my advice."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's only a light injury. I can still move—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Urgh…",
+            "choice_data_list": [
+                "Never mind. We need to go back to the infirmary."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I escort the dejected Admire Vega back to the infirmary."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "Are you in pain?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm fine. It wasn't a serious injury in the first place."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You don't need to keep looking at it. You're messing up my concentration."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "All right, I'm starting."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega returns to training while being careful not to worsen her injury."
+        }
+    ]
+}

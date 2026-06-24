@@ -1,0 +1,33 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from the race…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, I beg your pardon. That was rude of me…",
+            "choice_data_list": [
+                "Are you tired?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm fine. This is nothing I can't handle."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It is just one more barrier I must overcome… if I'm to make it to the top."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, Grass Wonder is visibly exhausted. I may have to adjust her racing schedule for the near future."
+        }
+    ]
+}

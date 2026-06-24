@@ -1,0 +1,41 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I notice Silence Suzuka while walking in the hall. She's looking rather under the weather."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ow… My head…",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer. I'm all right. I just have a little headache.",
+            "choice_data_list": [
+                "Why don't you rest for a while?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Huh? B-but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I was thinking a nice run would make me feel better. I don't wan—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Owww! Ughhh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka clasps her head in pain."
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "title": "New Year's Shrine Visit",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's Day, and I've agreed to Nishino Flower's request to get an early start on training."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm off for a lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We've begun a new training regimen to help her better align the racing instincts she's developed so far with her changing body. However…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew… Nrgh!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm sorry…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I've got the timing right in my head, but my legs are a beat too late…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Can I try again from the beginning?",
+            "choice_data_list": [
+                "Sure, go ahead."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! I'll keep practicing until I get it down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Making adjustments to the things you feel intuitively is easier said than done. Even so, she's maintaining a positive attitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "That said, keeping at this for too long may start to take a toll on her mentally…",
+            "choice_data_list": [
+                "Hey, Flower?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes?",
+            "choice_data_list": [
+                "Let's visit a shrine once you're done.",
+                "Let's visit a shrine once you're done."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! Look at all these people!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm sure they all have their own hopes and dreams."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh… Um…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I prayed that everyone's wishes would come true."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But maybe I'm too far away for the gods to hear, huh?",
+            "choice_data_list": [
+                "I'm sure your thoughts will reach them."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes, I really hope so."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "We should enjoy the festivities around the shrine too!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What should we do first?",
+            "choice_data_list": [
+                "Eat some anmitsu jelly.",
+                "Offer lots of prayers.",
+                "Take in the splendid view."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Anmitsu jelly? Sounds delicious! Are they selling it here?",
+            "choice_data_list": [
+                "There's a stand over there."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Really?! Let's go!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "La, la, laaa! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That was so good! The rice dumplings were soft and chewy, and the bean paste had just the right amount of sweetness!",
+            "choice_data_list": [
+                "You sure looked like you enjoyed it.",
+                "You sure looked like you enjoyed it."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's because I love Japanese cuisine! I bet I had a huge smile on my face. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wish all my friends could try some, too. Do you think I could make this at the dorm?",
+            "choice_data_list": [
+                "Want to try guessing how it's made?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ooh, that sounds like fun!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm, I don't think that's how the bean paste is made. You probably have to strain it out really carefully, and…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower and I spend a lazy afternoon talking about anmitsu jelly and how to make it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's a great idea. We have to offer our own prayers, too!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The line is over that way. Let's go!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Glancing at Nishino Flower's face while she prays, I can see how earnest she is. I follow her lead and make my own wish.",
+            "choice_data_list": [
+                "(May she accomplish great things this year too.)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…",
+            "choice_data_list": [
+                "Is something the matter?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No, it's nothing at all!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm just… a little curious is all. But I know I shouldn't ask what you prayed for.",
+            "choice_data_list": [
+                "It was about you!",
+                "It was about you!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Really?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "To tell the truth, I made lots and lots of wishes for you too, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe! Looks like we were thinking the same thing. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? The view?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I heard there's a small shrine at the top of the hill beyond here. The view from up there is supposed to be spectacular."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oooh! Let's go see!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower and I climb the hill and look out over the horizon. A breathtaking panorama stretches out before us."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That was like being in another world! The light breaking through the fog seemed so mystical!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It felt as if we had been transported into a storybook. I never imagined a view like that was so close by."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Was that really the same world we live in?",
+            "choice_data_list": [
+                "Maybe we did slip into a different one.",
+                "Maybe we did slip into a different one."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "W-wow… I think you might be right."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… as nice as that mysterious world was, I'm glad we made it back home."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "After all, there are still so many more beautiful views here that I want to see with you, Trainer!"
+        }
+    ]
+}

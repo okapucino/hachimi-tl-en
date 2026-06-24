@@ -1,0 +1,174 @@
+{
+    "title": "助っ人参上！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking around campus, I happen to see Biwa Hayahide and Air Groove talking with each other."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In short, I apologize for Brian's continued absence from student council meetings…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh, you needn't apologize. I'm quite accustomed to her absence, actually. And to the president's as well, what with her outings."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That said, today's meeting concerns a matter of some urgency, which means it can't be postponed over an absence or two."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In that case, allow me to attend in Brian's place.",
+            "choice_data_list": [
+                "You're going to help out with the student council?",
+                "You're going to help out with the student council?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, precisely. I'm sorry but it appears today's training session might suffer a small delay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since Biwa Hayahide is attending, I decide to take the opportunity to sit in and observe the meeting myself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "So, to start with, if you would all turn your attention to the screen for today's topic…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wait… where's the file? Who was the last person to update this?"
+        },
+        {
+            "name": "Timid Umamusume",
+            "text": "I'm… I'm sorry! I think this might be my fault! Umm… I'm sure the data was in here—oh no!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Forget it. We haven't the time to spare. I'll just improvise."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That won't be necessary. I've prepared the relevant data. Here, I'll put it through the projector."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Really? I appreciate it."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? What's this? I don't remember creating any graphs…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, I whipped that up a moment ago. I figured that the information would be easier to digest this way."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…All right. Well, it seems we've heard most of your opinions. Does anyone have any questions before we vote?"
+        },
+        {
+            "name": "Absentminded Umamusume",
+            "text": "Um, would you mind repeating that thing you mentioned earlier? What was it—I think it had to do with the dorms."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's a little vague… Do you at least remember whose statement it was?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's okay. I'm reviewing the meeting transcript. The statement was made by the third speaker."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It reads as follows, \"Since the number of students in attendance has risen, I propose that we increase each dorm's stock of household supplies.\""
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excellent work today, Air Groove. I think the meeting concluded without a hitch."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hayahide! Would you consider joining the student council?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I know I've extended you countless invitations before, but today you convinced me! Your presence in the council would solve so many of our problems!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I agree with Air Groove. I only joined the meeting midway through, but from what I saw, your contributions were magnificent."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "With all due respect… I'm afraid I would lack the flexibility to balance council responsibilities with racing. Trainer, would you agree?",
+            "choice_data_list": [
+                "Why not try it out for a day?",
+                "What if you join on the condition that they look after your sister?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Just for a day? I suppose I could manage that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Biwa Hayahide spends the rest of her day helping the student council with their work. However…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The pool's temperature setting? Yes, I do wonder why it's been set at this many degrees. Hmm, I might find the reason if I trace backwards through these records."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There are daily scrambles to purchase baked goods from the school store? Well, increasing the stock should solve that issue, but I wonder if something else is at play here… Okay, I'll look into it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps it's her tendency to go the extra mile, but Biwa Hayahide always has trouble knowing when to clock out…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Biwa Hayahide, is everything okay? You do realize it's nighttime? I believe you're pushing yourself a little hard…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's already nighttime?! I'm sorry, I didn't notice at all! Perhaps I was right to presume I'm not cut out for this…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, the role does require that you set your priorities properly. Let's have you take a hiatus from student council for now."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But she was getting so much done… Urk! So close!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I see… That's a great idea!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Brian always goes overboard the minute I let her out of my sight. But I can't keep an eye on her all day long. With the help of the student council, though…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm afraid I must object. We don't have the means to manage that one."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Agreed. We supervise her where possible, but full custody would be a tall order."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I see… Then, please forget we ever discussed this."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Still, Hayahide, you're welcome to join the student council whenever you feel so inclined! And I do mean <i>whenever!</i>"
+        }
+    ]
+}

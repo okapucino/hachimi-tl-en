@@ -1,0 +1,301 @@
+{
+    "title": "A New Wind?",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Flower's Friend",
+            "text": "Oh, Flower! Hey, you're going for the Triple Tiara, right?"
+        },
+        {
+            "name": "Flower's Friend",
+            "text": "I saw your special on TV the other day! Everyone's got their eyes on you. I'm rooting for you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mmm-hmm, mmm! ♪ Grow nice and big, little flower. ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Why, someone's in a good mood."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sky?! When did you get here?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "A while ago. The shade of those trees over there was so nice, and watching you skip around made me really sleepy, you see."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ahhh! I sound like an excited little kid! Please forget everything you just saw!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aha. C'mon, no need to get embarrassed. You've been killing it on the track."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "People're even saying you're gonna win the whole Tiara tour this year."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm really lucky to be where I am. When they came to interview me and Trainer the other day, I was super happy! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I have to work even harder—for Trainer's sake too!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "For your trainer, huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're really something else. I mean, that's really all there is to it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Still, you should take a page outta my book and relax every once in a while. There's no need to fuss over every little thing."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Besides, even little flower buds are beautiful."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, what do you mean?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…By the way, Spe skips around too, so don't worry about seeming childish or whatever.",
+            "color_text_info_list": [
+                "Spe"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And that's what happened."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wonder what Sky was trying to tell me.",
+            "choice_data_list": [
+                "Maybe she was advising you not to push yourself too hard."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That makes sense. She's really kind."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay, I'll do my best… to not do more than my best today!",
+            "choice_data_list": [
+                "Sounds good to me."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After our break, I have Nishino Flower run as she pleases in order to see where her current abilities lie."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant…</i> Phew…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having entered her classic year, she's still at a physical disadvantage. But now we know how to accommodate, and she doesn't get as fatigued as she did post-debut."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, if she continues with the Tiara tour, her next race will be the 2,400-meter Japanese Oaks. In her current condition, I'm not sure if her stamina will last…"
+        },
+        {
+            "name": "???",
+            "text": "Yeah! BIG BAKU! SHIIIN!",
+            "choice_data_list": [
+                "Bakushin?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yup! Bakushin, at your service! But just call me Sakura Bakushin O!",
+            "color_text_info_list": [
+                "Sakura Bakushin O"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is in the same year as Nishino Flower, and she seems to have her sights set on becoming an exemplary racer. I think."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As the class representative, I'm here to conduct research on <i>the</i> racer everyone's got their eyes on! Hehe!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Everyone?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…D-do you mean me?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! Who else would I be talking about? Right, Zephyr?",
+            "color_text_info_list": [
+                "Zephyr"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…Huh? Zephyr?! Oh no! I took my eyes off of her again!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Zephyyyr!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What should we do, Trainer?!",
+            "choice_data_list": [
+                "After her!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I think Bakushin ran off this way…",
+            "color_text_info_list": [
+                "Bakushin"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "How refreshing…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hm? Did you hear something?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "You're enveloped in such a refreshing breeze. It's ever so soothing."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Z-Zephyr!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr, a racer constantly shrouded in a mysterious aura, appears as suddenly as a visiting gust of wind.",
+            "color_text_info_list": [
+                "Yamanin Zephyr"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She ran in the G1 Sprinters Stakes last year and is now proving to be a formidable racer in sprints and miles.",
+            "color_text_info_list": [
+                "Sprinters Stakes"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, there you are! I had a feeling you'd come back to the roof!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You'll get lost again if you keep wandering off! Please stick close to me—as class rep, it's my duty to help out!",
+            "choice_data_list": [
+                "(How can she get lost within the academy?)"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This place is excellent for feeling the breeze. But I was just thinking of heading to the track."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Flower… I simply wished to feel your wind."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I was watching you run from up here. You were so wonderfully fast, just like a cutting gale."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah, it's like you really understand what it means to be Bakushin! You'll be a great Bakushin flower—I just know it!",
+            "choice_data_list": [
+                "(A Bakushin flower?)"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. And when that blossom finally blooms, we will face each other on the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "She says that like it'll be a future inevitability, but both Yamanin Zephyr and Sakura Bakushin O are mainly running miles and sprints."
+        },
+        {
+            "name": "Monologue",
+            "text": "As things are, Nishino Flower's path probably won't cross with theirs."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I have more to look forward to now. I hope we can run against each other someday."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But first, we need to go on an exemplary walk together, Zephyr! Set a good example for everyone!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And Flower! I'm counting on you to help me out with homework again!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uh… What was that all about?",
+            "choice_data_list": [
+                "I think they came to praise you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What?! There's no way!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Still, I'm happy they said such nice things about me. Ehehe."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah… I'm fine the way I am now."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I feel ready to take on the Oka Sho. ♪"
+        }
+    ]
+}

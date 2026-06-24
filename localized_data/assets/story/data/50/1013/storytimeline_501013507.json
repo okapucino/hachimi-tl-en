@@ -1,0 +1,41 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hand a newly-delivered fan letter to Mejiro McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I have read the letter. Thank you very much."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The expectations of people are quite sobering, aren't they?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "\"The support from your fans is a guidepost to your dreams.\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Grandmother once said those words to me. I feel as though I've gotten a little closer to understanding their true meaning.",
+            "choice_data_list": [
+                "The person who wrote the letter would be happy to hear that too, I'm sure."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe… Then, I shall have to repay this sentiment with a good performance."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I will train to the best of my abilities today and always!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen happily puts in her best effort throughout the entire training session."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O hasn't shown up to training, and I can't get in touch with her. Worried, I set off to look for her."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Sigh…</i> Absolutely wonderful.",
+            "choice_data_list": [
+                "There you are!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, have you come to meet my reflection in the lake?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes… I have never forgotten the visage I first saw in my formative years. And so, I come here to revisit it from time to time.",
+            "choice_data_list": [
+                "And yet, you forgot your training."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Gasp!</i> Wh-what have I done? You have my sincerest apologies."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "To think, the absence of my brilliance… I have left you cowering in the frigid night of loneliness!",
+            "choice_data_list": [
+                "I wouldn't go that far…"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "No, stop it! Don't extend the olive branch! For it is I who left you abandoned and alone!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I swear to you now. I shall never leave you ever again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel the urge to tease her, but I let it be. At least she understands where she went wrong—in her own way, of course."
+        }
+    ]
+}

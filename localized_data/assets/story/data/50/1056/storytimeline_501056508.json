@@ -1,0 +1,38 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru was insistent on me coming to the shrine with her. I end up going, but…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O god of vitality, would you please quell your anger so I may be entrusted with your energy?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sigh.</i> It's no use. I'm still feeling the same as ever.",
+            "choice_data_list": [
+                "Are you not feeling well?",
+                "Are you not feeling well?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well, I can't seem to shake off this fatigue… but I think I know why."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've been so busy lately that I haven't paid my dues at the shrine. I must have angered the god of vitality! I'm sure of it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ngh, I guess there's no way out of this. I'll add a little more to my donation… Let's make it fifty yen and pray one more time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's still feeling tired. I should probably reevaluate her race schedule to ensure she can perform at her best going forward."
+        }
+    ]
+}

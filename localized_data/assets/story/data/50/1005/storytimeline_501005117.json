@@ -1,0 +1,361 @@
+{
+    "title": "第五幕 お気に召すまま",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day has come to meet Fuji Kiseki's mother. We're waiting for her at a cafe she picked for us to go to.",
+            "choice_data_list": [
+                "(I wonder what kind of person she is…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My mind begins to drift, but I'm abruptly startled from my thoughts by something odd."
+        },
+        {
+            "name": "Waiter",
+            "text": "♪ ♪ ♪"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh? Why is the waiter singing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if in response, the people around us all stand and start singing as well."
+        },
+        {
+            "name": "Cafe Patrons",
+            "text": "♪ ♪ ♪",
+            "choice_data_list": [
+                "What in the world?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Musicians playing brass instruments join the show, then dancers, and finally…"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "\"All the world's a stage, and all must play a role in it.\""
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "And mine… is your mother! Ah, long time no see, my daughter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A beautiful Umamusume who looks just like an adult version of Fuji Kiseki appears before us.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Long time no see, Mother! Sorry, Trainer. I forgot to tell you, but my mother has a bad habit of surprising people."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Calling the kettle black now, are you, dear? So, you're Fuji's trainer. Nice to meet you, and thank you for looking after her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't expect my first meeting with Fuji Kiseki's mother to be so theatrical, yet here we are!"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I see. So, essentially, you want to know how to get over stage fright?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yes. I was hoping you could tell me since I've never seen you get scared on stage before."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Why, that's… That's just… Hehehe!"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Ahaha! Oh, my dear, I <i>do</i> get scared on stage, though!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Really?!"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Ah… Sorry for laughing so hard. Why, right before the flash mob performance started, I was unbelievably nervous."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I wanted to put on a perfect show since it's my first time meeting your trainer."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "But I was equally terrified I would fail. It would've been a terrible first impression if I did.",
+            "choice_data_list": [
+                "I couldn't tell you were nervous at all!"
+            ]
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "That's because you're an audience member. I can't possibly show you any signs of weakness!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Does that mean you're always scared when you perform, just like me?"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Of course, love."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "S-Seriously?! I had no idea!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki's mother smiles faintly at her shocked exclamation."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Theater is a living art! There are times when things go well, there are times when they don't. I am no stranger to criticism and despair."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I invoke positive and negative feelings in my audiences in equal parts."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "So long as you are an entertainer upon a stage, that is simply how things are."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I merely did my very best not to show that side of myself to you. I had to save face before you as your mother, you see."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "But now that I understand your woes, there is somewhere I'd like to bring you. Come with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes us in front of a train station, where a billboard for the autumn Tenno Sho with a large photo of Fuji Kiseki herself stands above the bustling crowds."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I've been keeping tabs on how you've been doing. I know of the challenge you've taken on, as well as your acclaim in the racing world."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "So, when you contacted me, I suddenly realized what was wrong. You must feel like you're at the end of your rope, yes?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…!"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "You must be worried about if you can meet everyone's expectations—if you're even worthy of such high hopes. I know how you feel. I've been there."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…Of course you already knew. I should've just asked you from the start."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki cranes her neck to look up at the billboard version of herself smiling a fierce and daring grin."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mother? What should I do if I fail? What should I do about all the people I'll end up disappointing?"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Nothing. There's nothing you can do."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What?!"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "An entertainer can do no more than perform. How the audience decides to accept your performance is up to them."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Once an actor descends from the stage, there is nothing they can say to their audience."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "For example, even if I hounded you two earlier and kept asking you if you enjoyed my show…"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "It wouldn't have changed how you really felt about my performance, right? It's just like that!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I… I suppose that's true…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki seems reluctant to accept the advice, and her mother smiles at her fondly."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Whether we succeed or fail, all we can do is our best to move forward, dear."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "That is what you must accept in your heart in order rise before a crowd."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I have to… accept that I can only do my best…"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "I'm not privy to the minute details of your worries, but I have a feeling what you lack now is determination."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Your dread of disappointing others stems from a desire to protect yourself."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Right now, you fear losing your self-worth more than you are determined to become a good entertainer."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "You'll never be able to become an entertainer that properly delights her audience with that attitude."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…"
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Look. So many people are taking pictures of your billboard and smiling as they look at it and talk about you."
+        },
+        {
+            "name": "Fuji's Mother",
+            "text": "Now think—what is it that you ought to do now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After parting with her mother, Fuji Kiseki goes into a rare state of despondency."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Sigh…</i> I'm glad you're here with me. Truly, the best advice is also the hardest to swallow."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But thanks to her, I've realized something!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "When I was still an actor, I only ever worried about what she thought of me and what others thought when they compared me to her."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Meanwhile, she poured her heart and soul single-mindedly into her art. There was no way I could win against her like that."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small sigh escapes from her lips."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ever since I started my senior year, I haven't been able to focus on my races like before."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I've just been becoming increasingly worried about how to fix things if I mess up…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And the more I thought about that, the more stressed I became. If only I'd been able to concentrate, I wouldn't have gotten to this state."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "With the way I am now, there's no way I can become the greatest entertainer…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "If I want to win over everyone who's watching me, then I can't worry about getting hurt."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "One can't become the world's greatest entertainer without being prepared to fail trying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the harsh truth she must still be grappling with, Fuji Kiseki looks like a huge weight has been lifted off her shoulders."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I feel like I finally understand! I'm still terrified of the remaining stages I have ahead…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But I get the feeling that, so long as I can overcome this, I can take another step forward."
+        },
+        {
+            "name": "Monologue",
+            "text": "There is a slight tightness in Fuji Kiseki's confident smile, but…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wonder if I'll be able to do it."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What do you think?",
+            "choice_data_list": [
+                "There's nothing you can't overcome.",
+                "There's nothing you can't overcome."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's something I've always known from the beginning."
+        },
+        {
+            "name": "Monologue",
+            "text": "Behold, a star befitting of your grace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Behold, a star befitting of your grace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's that Fuji Kiseki is just like the evening star, more fascinating and alluring that any other twinkle in the night sky.",
+            "choice_data_list": [
+                "For you are a star brighter than anything in the world."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe… I'm a star, huh? I guess you're right."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You really do know me too well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her blue eyes begin to sparkle with a mischievous light, just like they did that day long ago."
+        }
+    ]
+}

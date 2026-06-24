@@ -1,0 +1,316 @@
+{
+    "title": "秘密のデート！？心たぎるランデブー",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Even after Kawakami Princess's debut, I've been entering her in scrimmages in addition to regular races to get her more familiar with competing."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff… Puff…</i> Phew!",
+            "choice_data_list": [
+                "Your running is getting better than before!",
+                "Your running is getting better than before!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh my, you really mean it?! Then I'm ready for another race!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Huff… Huff…</i> W-wait. I need a breather…"
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "Hey, Trainer <username>. Seeing as our runners are both in their junior year still, I think we should be careful not to overdo it…",
+            "choice_data_list": [
+                "You're right. Thanks a lot for today."
+            ]
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "Not at all. I learned a lot from you. Let's do this again!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ughhh… But I'm still packed full of energy… I was just on the brink of getting a real feel for it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, there isn't anyone left for her to race today. So instead…",
+            "choice_data_list": [
+                "How about trying some visualization training?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Visualization training?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff, huff…</i> This is a race with eighteen runners. At the moment, sixteen are ahead of me…",
+            "choice_data_list": [
+                "Focus! The runner behind you is closing in!",
+                "Focus! The runner behind you is closing in!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Gah… <i>Huff… Huff…</i> Grrr…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ugh! But I'm the only one here!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Imagine all I want, it's still only me! Competition is a fierce back-and-forth marked by sweat and determination—this doesn't have any of that!",
+            "choice_data_list": [
+                "Doesn't Princess Fighter do this kind of training?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Gah?! Are you talking about the imaginary race in episode twenty-two where Princess Fighter faces fifty versions of herself?",
+            "choice_data_list": [
+                "If you can do that too, you'll become even stronger.",
+                "If you can do that too, you'll become even stronger."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hmm… Nghhh…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Mumble…</i> In this race, the Umamusume with the hair bow is… <i>Mumble…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I gave her that advice, Kawakami Princess has been poring over race footage of other Umamusume to serve as references for her visualization training.",
+            "choice_data_list": [
+                "(You're incredible, Princess!)",
+                "(You're incredible, Princess!)"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Phew… That's the sixth one down."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But still, nothing beats watching a race live. The drive to tear each other apart. The spectators going wild in the stands…",
+            "choice_data_list": [
+                "Should we go see a race in person soon, then?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hm?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The Queen Elizabeth II Cuuup?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I've brought Kawakami Princess with me to Kyoto to watch the Queen Elizabeth II Cup.",
+            "color_text_info_list": [
+                "Queen Elizabeth II Cup"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-Trainer, is this really <i>the</i> Queen Elizabeth II Cup?!",
+            "choice_data_list": [
+                "That's right."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whoooooa! The race where they decide who's the ultimate princess—the queen! I'm going to enter this race too, one day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I must confess she seems a little more excited than I imagined…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But I'm sure that seeing a live race in action will be a good experience for her."
+        },
+        {
+            "name": "Caster",
+            "text": "Which Umamusume will shine bright as the queen?! A total of eighteen participants will compete on today's track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Caster",
+            "text": "Next to appear on the turf is Sweep Tosho! She recently overwhelmed her opponents en route to victory at the Takarazuka Kinen!",
+            "color_text_info_list": [
+                "Takarazuka Kinen",
+                "Sweep Tosho"
+            ]
+        },
+        {
+            "name": "Blond Spectator",
+            "text": "Oh, it's Sweep! Please make sure you get to the gate early today!",
+            "color_text_info_list": [
+                "Sweep"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Hmph."
+        },
+        {
+            "name": "Lady in a Dress",
+            "text": "…My goodness. The caliber of the younger Umamusume entering this race has certainly changed."
+        },
+        {
+            "name": "Lady with Hat",
+            "text": "I concur. <i>Sigh…</i> If she's entering too, then I hope this doesn't turn into a repeat of the autumn Tenno Sho.",
+            "color_text_info_list": [
+                "autumn Tenno Sho"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Bleeeeh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The race turns out to be an intense nail-biter."
+        },
+        {
+            "name": "Caster",
+            "text": "The leader splendidly breaks away from the rest of the pack. Have we already decided our new queen?! But wait, coming from the outside is…"
+        },
+        {
+            "name": "Caster",
+            "text": "Sweep Tosho! She's gaining ground rapidly from the outside!"
+        },
+        {
+            "name": "Caster",
+            "text": "They're even! Sweep Tosho mounted a ferocious pursuit from the outside and has now pulled ahead! She's first! Sweep Tosho comes in first place!"
+        },
+        {
+            "name": "Blond Spectator",
+            "text": "Yeeeaaah! Go Sweep! You killed that! You're the beeeest!"
+        },
+        {
+            "name": "Blue-haired Spectator",
+            "text": "That finishing burst was crazy cool. Hey, make sure you win the next one too, Sweep!"
+        },
+        {
+            "name": "Lady with Hat",
+            "text": "She performed well today, including making it to the starting gate on time. However…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph… You see that? That's the power of magic."
+        },
+        {
+            "name": "Announcer",
+            "text": "Sweep Tosho, you put on a magnificent performance today! Would you share a few words on how you're feeling right now?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Not interested! See ya!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Huh? Sweep Tosho?! Wait, come back!"
+        },
+        {
+            "name": "Lady in a Dress",
+            "text": "She's still behaving more like a bratty princess. I can only hope that next year she will display a little more of the decorum befitting a queen."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So that was the Queen Elizabeth II Cup…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wooooow!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm going to do it, too! I'm going to win this race one day and become queen!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer, I need your help! Let's do some training right away!",
+            "choice_data_list": [
+                "Where are you going?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Back to the academy, of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We hurry back to the academy and manage to slip in while there's still time to use the track."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Kawakami Princess enters the gate. The Queen Elizabeth II Cup is about to begin…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Ka-chak!</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And they're off! Phoooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tonight, she's decided to base her visualization training on the Queen Elizabeth II Cup. But she seems different from before…",
+            "choice_data_list": [
+                "You're too tense!",
+                "You're too tense!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oookaaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's finally able to practice on her own through visualizing a race."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer, one day… One day, I swear…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll definitely win the Queen Elizabeth II Cup and become my ideal princess!",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yaaaaah! I'm gonna make this happeeeen!"
+        }
+    ]
+}

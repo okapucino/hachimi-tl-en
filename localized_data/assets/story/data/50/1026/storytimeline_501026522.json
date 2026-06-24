@@ -1,0 +1,35 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Mihono Bourbon is looking a bit down, so I go and check on her."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you for your concern, Master. I have been worried about abnormalities on my skin."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, it is not a problem. This can be solved by changing out my skin parts.",
+            "choice_data_list": [
+                "Um, skin parts?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Excuse me. That was a \"robot joke,\" if you will."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I attempted to assuage your concerns with a joke, but I failed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Currently detecting a shift in status to despair. I have determined that the cause is rough skin."
+        },
+        {
+            "text": "Unfortunately, it looks like her skin troubles are affecting more than just her skin."
+        }
+    ]
+}

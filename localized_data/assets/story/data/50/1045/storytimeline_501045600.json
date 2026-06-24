@@ -1,0 +1,34 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "The race is starting soon…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Are you nervous, Trainer? Restless? Having trouble breathing?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Feel free to let me know. You don't need to act tough. If you feel uneasy, I-I'll… Um…",
+            "choice_data_list": [
+                "You seem like the nervous one here.",
+                "You seem like the nervous one here."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, now that you mention it… Hehe."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I got a bit carried away, didn't I? I just can't wait to show everyone how amazing you are."
+        },
+        {
+            "name": "Super Creek",
+            "text": "And I'll prove it with this race! ♪"
+        }
+    ]
+}

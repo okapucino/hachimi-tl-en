@@ -1,0 +1,83 @@
+{
+    "title": "マッスル一発！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Mejiro Ryan drags me out to an unpopulated island."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer! Take a look at that awesome rock wall!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This island is a pretty well-known natural rock climbing spot.",
+            "choice_data_list": [
+                "Rock climbing?!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yep, I'm gonna climb up! Wait for me up top, okay?",
+            "choice_data_list": [
+                "Sure… Uh, good luck!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Ryan heads off to climb the cliff, and I start to walk up the slope that leads to its summit."
+        },
+        {
+            "name": "Monologue",
+            "text": "She keeps climbing, relying only on raw physical strength, until she's finally close to the top."
+        },
+        {
+            "name": "Monologue",
+            "text": "But her endurance is reaching its limit!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Huff, huff…</i> Just a little more, almost there…",
+            "choice_data_list": [
+                "Grab my hand!",
+                "Grab my hand!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Gnh, Trainer…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I came this far… I have to make it to the top!",
+            "choice_data_list": [
+                "Muscle through it!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "One… last… PUUUUSH!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whew! I made it! This exhaustion feels great!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hey, thanks for reaching out to me!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It feels like my entire body got stronger. My arms, shoulders, back, legs…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "In fact, I bet I could run any race I want to right now! Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan seems to have grown stronger after overcoming her rocky ascent."
+        }
+    ]
+}

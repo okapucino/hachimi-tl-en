@@ -1,0 +1,38 @@
+{
+    "title": "Claw Machine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Ines Fujin…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh wow, Cuties! They're all so cute!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin is looking at a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My sisters are always begging me to get them some of these, but I'm not too good with claw machines… Haha…",
+            "choice_data_list": [
+                "I'll win one for them.",
+                "I'll win one for them."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Wait, really?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well, who am I to say no to an offer like that?! I'll be right here, cheering you on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

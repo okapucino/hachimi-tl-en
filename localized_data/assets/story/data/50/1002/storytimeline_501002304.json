@@ -1,0 +1,180 @@
+{
+    "title": "目標達成の後に・秘密基地",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ever since we decided to aim for the Classics, we've been steadily building strength through continued training and racing."
+        },
+        {
+            "name": "Monologue",
+            "text": "The first of the Classics is the Satsuki Sho, where she can take advantage of her special skills.",
+            "choice_data_list": [
+                "(I do worry about the jump to such a big race, however.)"
+            ],
+            "color_text_info_list": [
+                "Satsuki Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if it would be better to work up to it with smaller races, like—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The Yayoi Sho?",
+            "color_text_info_list": [
+                "Yayoi Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Like the Satsuki Sho, the Yayoi Sho also takes place at Nakayama Racecourse. It's the perfect race to ease her in.",
+            "choice_data_list": [
+                "Think of it as a warm-up for the Satsuki Sho."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Understood. As long as I get to run fast, any race will do."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide to participate in the Yayoi Sho."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm going to run another lap then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Recently, our training has focused mostly on Silence Suzuka's stamina. One day…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… Would you like to go hiking?",
+            "choice_data_list": [
+                "Hiking?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I thought that hiking would be good for building my stamina. What do you think?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You're more than welcome to come with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm open to the idea, so we take a trip to the mountains."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff… Puff…</i>",
+            "choice_data_list": [
+                "(This is tougher than I imagined!)"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Are you doing okay?",
+            "choice_data_list": [
+                "Don't let me slow you down. Go on ahead!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, we came here together. I'll wait."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "This is so refreshing. I'm usually out here running by myself.",
+            "choice_data_list": [
+                "I-I'm dying!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(I wonder if I should be giving encouragement at times like this…)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Y-you can do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We continue our hike, Silence Suzuka cheering me on, until we finally reach the peak."
+        },
+        {
+            "name": "Monologue",
+            "text": "The view from the top is absolutely stunning.",
+            "choice_data_list": [
+                "Wow!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The snow atop the distant mountains faintly glimmers beneath the deep blue sky."
+        },
+        {
+            "name": "Monologue",
+            "text": "I turn to my side to see Silence Suzuka gazing out at the view.",
+            "choice_data_list": [
+                "Do you come here often?",
+                "Do you come here often?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Only sometimes, as training. Particularly in spring, when the cherry blossoms are in bloom. And also fall, when the leaves turn red."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But I think it's the most beautiful during this time of the year.",
+            "choice_data_list": [
+                "How come?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "When it's cold out… the earth smells so fresh."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And I come flying up that narrow trail knowing <i>this</i> is what's waiting for me."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I always feel happy to have made it all the way to the end.",
+            "choice_data_list": [
+                "…Kind of like a race.",
+                "…Kind of like a race."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "If you put it that way… Yes, I can see it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I've been wanting to share this view with you for some time.",
+            "choice_data_list": [
+                "I'm also happy to have made it all the way here.",
+                "I'm also happy to have made it all the way here."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Really?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. I'm glad."
+        },
+        {
+            "name": "Monologue",
+            "text": "She chuckles softly to herself. I get the feeling that we've grown a little closer."
+        }
+    ]
+}

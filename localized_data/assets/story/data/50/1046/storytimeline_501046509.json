@@ -1,0 +1,31 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "During training, Smart Falcon comes up to me out of breath…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Huff… puff…</i> Trainer… What… should I… do?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "My fatigue isn't clearing up one bit… There's no way I can train cute like this!",
+            "choice_data_list": [
+                "Train… cute?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah… My muscles need to be cute and healthy if I want to be a top Umadol."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But when I'm this worn out, all I can do is train tired!"
+        },
+        {
+            "text": "She seems to be exhausted… Maybe I need to revise her race schedule."
+        }
+    ]
+}

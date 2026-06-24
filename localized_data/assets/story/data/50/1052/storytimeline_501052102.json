@@ -1,0 +1,248 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "First visit! ♪ First visit! ♪ The first shrine visit of the new year! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'm gonna drink some amazake and eat some fried squid! Oh, and I gotta gulp down some cold water!",
+            "choice_data_list": [
+                "Cold water?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, you don't know? Shrines always have those little fountains!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And they got cups and everything! But it's hard to hold them 'cause they've got these weird, long handles.",
+            "choice_data_list": [
+                "…You're not supposed to drink from those.",
+                "…You're not supposed to drink from those."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wait, really?! But the water is so nice and cold!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, Trainer! Let's go write down our wishes!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I've got a ton of wishes. First is \"I wanna enter the Arima Kinen!\""
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And also \"I wanna eat tasty carrots!\" and \"I wanna get first place a lot!\""
+        },
+        {
+            "name": "Haru Urara",
+            "text": "\"I wanna become really fast!\" and \"I wanna become really strong!\" and \"I wanna have a lot of fun!\" and…",
+            "choice_data_list": [
+                "How about you choose just one to write down?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Just one? Mmm… It's too hard to pick!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What would you write if you were me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Right now, Haru Urara is set on entering the Arima Kinen. Which means it'd be good for her to wish for…",
+            "choice_data_list": [
+                "Health! Wish to run races in good condition!",
+                "Overall improvement! Wish to level up!",
+                "Strong technique! Wish to be skilled enough for the big leagues!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! Health <i>does</i> come first! I can't race if I'm not feeling well!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But I'm always plenty healthy and full of energy already! So you want me to feel even better?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "One, two! One, two! One… Actually…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ura, Ura, Ura, Ura! Uraaaaa!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow, saying \"Ura, Ura\" while I run is so much fun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not the way I imagined it, but Haru Urara becomes even more energetic than before."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Level up! That sounds so cool!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Actually, I know how to level up! I saw it on TV!",
+            "choice_data_list": [
+                "Can you show me?",
+                "Can you show me?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Of course! Watch this!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "DA, DA, DA, DUUUN! Haru Urara leveled up!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ooh, I feel stronger already! Mhm, I'm just gonna keep leveling up like this!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "DA, DA, DA, DUUUN! DA, DA, DA, DUUUN!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! I've gotten so much stronger! I think!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, maybe a modest amount self-delusion has its uses. I'll just leave her to it."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ooh, the big leagues!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uh, what are those?",
+            "choice_data_list": [
+                "It means you'll be on track to becoming a pro."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmm? On track? Which track? What kind of pro?",
+            "choice_data_list": [
+                "In your case, it's a racing track.",
+                "In your case, it's a racing track."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "OH! A racing track!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I get it! I'm gonna be a racing track pro!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara seems ready to go. I'm sure she's off to hone her unique skills."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I've finished writing my wish!",
+            "choice_data_list": [
+                "Then let's head back to do some training.",
+                "Then let's head back to do some training."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What?! Training, already?!",
+            "choice_data_list": [
+                "You don't want to?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I love running, but… look at all these stalls!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Can't we stay for a little longer?",
+            "choice_data_list": [
+                "I thought you wanted to run in the Arima Kinen.",
+                "I thought you wanted to run in the Arima Kinen."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I do, but I… Ugh!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "You mean I have to start training <i>now</i> if I wanna compete?",
+            "choice_data_list": [
+                "You have no chance of winning if you don't take your training seriously.",
+                "You have no chance of winning if you don't take your training seriously."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I <i>am</i> taking it seriously! I'm always running my hardest, y'know!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I always go full force till I hear the whistle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but worry. It sounds like Haru Urara thinks the Arima Kinen is just a normal race."
+        },
+        {
+            "name": "Monologue",
+            "text": "So far she's just been racing for fun, but now results are actually going to be important if she wants to qualify for the graded races.",
+            "color_text_info_list": [
+                "graded races"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We need to work on her form and times as well as prep her on how to run in graded races.",
+            "choice_data_list": [
+                "Urara, do you want to try running in the Negishi Stakes?",
+                "Urara, do you want to try running in the Negishi Stakes?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sure!",
+            "choice_data_list": [
+                "You didn't even think about it!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Why would I? I love running! Hey, can we do another lap around the shrine?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess her listening to what I have to say is a measure of progress."
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, our next goal is the Negishi Stakes!",
+            "color_text_info_list": [
+                "Negishi Stakes"
+            ]
+        }
+    ]
+}

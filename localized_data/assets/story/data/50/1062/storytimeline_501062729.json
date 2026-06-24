@@ -1,0 +1,29 @@
+{
+    "title": "Claw Machine: Failure…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ahhh… You were so close.",
+            "choice_data_list": [
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohhh, no, no, no! Don't you worry about it!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I know exactly how it feels to fail when under pressure!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That said… I'm also kinda losing my confidence here. Maybe I should save that stuffed spider for some other time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

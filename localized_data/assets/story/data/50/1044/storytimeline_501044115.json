@@ -1,0 +1,388 @@
+{
+    "title": "Laaaaame!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while Sweep Tosho and I are preparing for the Tiara tour…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Let's go, Familiar!",
+            "choice_data_list": [
+                "Go where?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Enough yapping. When I say \"let's go,\" then let's <i>go!</i> Hurry up and get ready! Faster!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho grabs me, and before I know it, I've been tugged all the way to the art museum.",
+            "choice_data_list": [
+                "What's this exhibit? \"The Beautiful Running That Colors the Tiara\"…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Did you know that looking at pictures counts as studying?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Grandma told me that only Umamusume who <i>really</i> know racing can use racing magic!",
+            "choice_data_list": [
+                "(That's why she's proactively doing all this research?!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What're you covering your mouth for?",
+            "choice_data_list": [
+                "I'm just so happy!",
+                "I'm just so happy!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're just so happy that I invited you to come out with me? Wow. You're like a little kid."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But we're not here for fun! This is about learning!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Got it? Now follow me, Familiar!"
+        },
+        {
+            "name": "Exhibit Staff",
+            "text": "Two guests? May I have your tickets, please?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Familiar!",
+            "choice_data_list": [
+                "One adult and one student, please!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho and I enter the exhibit and take in the photos of Tiara tour contenders."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hm… Oka Sho… Oka Sho…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There it is! And the year my great grandma ran waaas…"
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "Oh! It's Air Groove in the Japanese Oaks! I really love the way she runs."
+        },
+        {
+            "name": "Exhibit Visitor B",
+            "text": "There are pictures of Hishi Amazon's races over here! Man, was she tough back then."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmmm. Hishiama and Air Groove are pretty famous, huh?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Here's a picture of the two of them. Hmmm… They do make quite an impression."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove and Hishi Amazon created quite a frenzy in their heyday. There are a number of photos of them here."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're both as graceful as flowers, yet with overwhelming presences. I find myself holding my breath just looking at their photos."
+        },
+        {
+            "name": "Exhibit Visitor C",
+            "text": "Yeah, but Hishi Amazon couldn't pull it off in the end. Narita Brian ended up beating her in the Arima Kinen, remember?",
+            "color_text_info_list": [
+                "Narita Brian"
+            ]
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "There wasn't much she could've done about that. She was up against a Classic Triple Crown champion."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…What?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, lady! What's that supposed to mean?!",
+            "choice_data_list": [
+                "(Sweep?!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What do you mean she couldn't have done anything about it? Have you forgotten how strong Hishiama was?"
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "I guess she was pretty good. But that's just the way things are."
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "Racers who run in the Triple Tiara tour just can't hold a candle to those who compete in the Triple Crown tour.",
+            "color_text_info_list": [
+                "Triple Tiara"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Seriously?"
+        },
+        {
+            "name": "Exhibit Visitor C",
+            "text": "I get that. It's like the ones who make it through the Classic Triple Crown tour have escaped the jaws of death."
+        },
+        {
+            "name": "Exhibit Visitor B",
+            "text": "I was cheering for Fine Motion in the Arima Kinen, but that Symboli Kris S was just too good. Fine Motion didn't stand a chance.",
+            "color_text_info_list": [
+                "Fine Motion",
+                "Symboli Kris S"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "She didn't stand a chance? Because she went for the Triple Tiara tour, and Kris S ran in the Classic Triple Crown tour?",
+            "color_text_info_list": [
+                "★★★",
+                "Kris S"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's why she didn't stand a chance?"
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "Well, yeah…"
+        },
+        {
+            "name": "Exhibit Visitor A",
+            "text": "Oh, but Air Groove did have potential, don't you think? I mean, she won the autumn Tenno Sho!"
+        },
+        {
+            "name": "Exhibit Visitor C",
+            "text": "But then she lost the Arima Kinen to someone from the Classic Triple Crown tour—one who didn't even win a single race."
+        },
+        {
+            "name": "Exhibit Visitor C",
+            "text": "Her winning the fall Tenno was a pretty big deal, sure. But that's the only race she won in her senior year. C'mon, you can't deny the pattern.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Exhibit Visitor C",
+            "text": "History's proven it to be true. The title of \"the strongest\" is reserved specifically for Umamusume who have seized victory in the Classic Triple Crown tour!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The aptitude and abilities you need to run in the Classic Triple Crown tour versus the Triple Tiara tour are fundamentally different."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why it's impossible to say categorically that one of the tours is better than the other. That said…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Classic Triple Crown has a long history as Japan's first Triple Crown series. The races are also different lengths, and competitors have to be able to adapt to them."
+        },
+        {
+            "name": "Monologue",
+            "text": "And the other visitors said, Triple Crown tour runners are stronger than Tiara tour runners…"
+        },
+        {
+            "name": "Monologue",
+            "text": "At least, according to the abundance of discourse and race results suggesting they are."
+        },
+        {
+            "name": "Monologue",
+            "text": "And in the midst of all this, Sweep Tosho…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Really?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Like… <i>really?</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Reeeaaally?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's so stuuuuupid!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, she runs out of the exhibit and back to my office, where she begins poring over documents at a blistering speed!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sweep! I put the materials about the Triple Tiara tour you asked about over here!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Thanks, Rob Roy! Don't just stand there, Familiar! Hurry up and hand them to me!",
+            "choice_data_list": [
+                "O-okay, but… what's gotten into you?",
+                "O-okay, but… what's gotten into you?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Didn't you hear what they said?! Don't you think all that stuff they were saying was so dumb?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh… Here! This too! Look at this article!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me an article with the headline: \"Autumn Tenno Sho Upset: Triple Tiara Umamusume Manages First Victory in 17 Years.\""
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's weird, right?! \"Manages\"? \"Upset\"?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, well… I think they're just saying that Air Groove's accomplishment was really amazing because it's so rare in terms of history."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah, but calling it an \"upset\" and saying she \"managed\" to win is an awfully weird way to praise someone!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's like saying it's practically a miracle she didn't lose!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aaagh! Seriously, what the heck?! It's stupid! It's dumb! It's so laaaaame!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Who cares if someone's from the Classic Triple Crown tour or the Triple Tiara tour?! It's got nothing to do with anything!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Strength is strength! That's all that matters!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But everyone talks like people on the Classic Triple Crown tour are <i>obviously</i> better than everyone else! Like it's just the way things are!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "They just go on and on and on and <i>on</i> about it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't care about history or proof of whatever! It's LAAAAAME!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…That's it."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Listen up, Familiar. I'm gonna use racing magic.",
+            "choice_data_list": [
+                "And what would that—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It'll change everything! I'm gonna smash this way of thinking to pieces and wake everyone up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It doesn't matter if you run the Triple Crown tour or the Tiara tour! Strength is strength! And everyone needs to know that!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll show everyone with my very own magic—my racing magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Because magic… Well…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Magic can turn everything around! It can change everything!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I <i>know</i> it can!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Got that, Familiar?! I'm not taking \"no\" for an answer!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna find that magic no matter what! First, I'm gonna search for it, then I'm gonna find it and use it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna change the world with my very own racing magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And you're gonna help me! Got it?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This small witch has ambition tenfold the size of her stature. And while her dream sounds more like a fairy tale…",
+            "choice_data_list": [
+                "Okay. Let's see it through!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We definitely, <i>definitely</i> will!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod with as much fervor as my neck can offer. I know we'll pull this off. After all, the magic started the second she made up her mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Sweep Tosho begins her long and arduous journey to find the magic that will change the world."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…Wow."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sweep… You're amazing…"
+        }
+    ]
+}

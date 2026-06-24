@@ -1,0 +1,290 @@
+{
+    "title": "I Still Dream of Taking First!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the Satsuki Sho behind us, we'll be training even harder than ever in preparation for the Japanese Derby."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew! Ah…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Man, this is tough!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "My form really fell apart in the second half. I guess I still don't have enough stamina."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Can we do more training to increase my stamina? I need to do even more running on my own too…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes out her notebook, and I see how crammed her personal training routine is.",
+            "choice_data_list": [
+                "You're really motivated, huh?",
+                "You're really motivated, huh?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah! No, no, hehe. I mean this is what everyone's notebook looks like. It just means I need to work even harder."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The Japanese Derby is a once-in-a-lifetime race. I need to be the absolute best I can be!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, as we're training, many reporters gather nearby to interview Mihono Bourbon."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Bourbon's been getting interviewed a lot lately. With how good she's getting, I guess that shouldn't be surprising."
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "I have to get something good out of Bourbon today no matter what…"
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "…I really hope I can write a good article. But I'm sure this time will be a bust too… <i>Sigh…</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I wonder what's eating him… I guess being a reporter is hard too."
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "Oh really?! So there's an Umamusume you're watching out for in the Japanese Derby?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative. She's usually more of the quiet and modest type, but I caught a glimpse of her strength at the Satsuki Sho."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I've watched her train since then as well, and I've confirmed that she's rapidly improving."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In conclusion, I've deemed her a formidable opponent for the Japanese Derby."
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "Th-thank you so much! Um… so, next, I'd like to ask—"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Excuse me! Who exactly is it you're talking about?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice Shower."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No way! So Bourbon's had her eye on Rice Shower too?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, that's right. I interviewed Rice the other day!",
+            "choice_data_list": [
+                "You did?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yes. I ran into her while I was out on a walk…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Rice! What a coincidence! I'm looking forward to running with you in the Derby!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "M-me too!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wait a second. Is that a hole in the sole of your shoe? Are you okay?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah! You're right! Maybe I ran too much. I should get new ones."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You've been running so much your shoes are falling apart?! You must seriously be working hard!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Now that I think about it, when I raced you at the Satsuki Sho, I could tell how hard you've been working! You ran really well too."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "D-do you think so? I still haven't caught up yet, though…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Caught up to… who? Oh, do you mean Bourbon?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What?! How did you know?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Well, I actually saw you in the runners' tunnel at the Satsuki Sho…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-you saw that? Oh…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Sorry, I didn't mean to spy on you! But you were so passionate, it made me want to cheer you on!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I totally get why you look up to Bourbon!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The crowd just lights up when she runs! She's so cool!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sh-she really is!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "She's so strong and cool and she makes everyone smile when they see her. She really is amazing!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That's why… someday… I want to be just like her…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I hope I can do it…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I feel like I got a really good scoop today!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "They're both amazing! Bourbon for being able to inspire everyone like that, and Rice for working so hard to improve herself because of Bourbon!"
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "U-um, excuse me. Could I—"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Excuse me! Would you mind telling me a little more about that?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wh-what?! Oh, s-sure!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Who would've thought she felt that?! People are definitely going to want to read about this!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Oh, it might be a good idea to ask a specialist to predict which of them is going to win."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm. Which of… <i>them?</i>"
+        },
+        {
+            "name": "Reporter B",
+            "text": "But the brass said we don't have to bother with anyone else. It's Mihono Bourbon that everyone wants to read about…"
+        },
+        {
+            "name": "Monologue",
+            "text": "They seem to be too caught up in their work to realize that the Umamusume right in front of them is also running in the Japanese Derby.",
+            "choice_data_list": [
+                "(As her trainer, I can't just sit here quietly…)"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey, wait a minute!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I understand that the remarkable relationship between Bourbon and Rice might cast a shadow over the other runners!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And I get that Bourbon is the one in demand right now…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But, you know, that doesn't mean one of the other racers can't win."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Oh! You're Matikanetannhauser!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "I-I-I'm so sorry! I didn't realize!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No, no, no! I totally get it! I mean, there's nothing special about me at all! I'm ordinary! I'm nobody!"
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "…!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But… But even so… I believe I have a chance of winning."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "After all, I'm the same as everyone else. If it's not first place, I don't need it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She has the same gentle air about her as always, but there is unmistakable passion in her words."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours later, we spot the reporter with the round glasses looking moved."
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "…That's right. You don't have to be special…"
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "You don't have to be special… You just have to want to win…",
+            "choice_data_list": [
+                "(…?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Derby is almost here."
+        }
+    ]
+}

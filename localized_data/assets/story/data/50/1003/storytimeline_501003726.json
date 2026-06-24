@@ -1,0 +1,50 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out with Tokai Teio…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah! Look, Trainer!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Claw machines! Don't they look fun?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, and that one's filled with plush Cuties! They're super popular right now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, truth be told, I don't just shine at arcade dancing games. I'm incredible at these too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What about you? Are you any good at claw machines?",
+            "choice_data_list": [
+                "Of course!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Really? All right then, let's see what you got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

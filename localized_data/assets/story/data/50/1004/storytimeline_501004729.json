@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Aw, too bad…",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "No need to apologize. It's totally okay!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sometimes that's the way the cookie crumbles! Brush those crumbs off, Trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sometimes that's the way the cookie crumbles! Brush those crumbs off, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

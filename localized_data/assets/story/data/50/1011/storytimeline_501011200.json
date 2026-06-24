@@ -1,0 +1,50 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Grass Wonder will finally run in her debut race!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Inhale… Exhale…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes deep and slow breaths, outwardly seeming like her usual self."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't help but wonder if she'll be able to hold it all together. Is she warmed up enough? Should I tighten her shoelaces?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…Excuse me, Trainer? You seem to be rather anxious. Are you feeling okay?",
+            "choice_data_list": [
+                "I-I'm good! How about you?!",
+                "I-I'm good! How about you?!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. You're nervous enough for the two of us. I'm doing just fine."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A journey of a thousand miles begins with a single step. Today is no different than any other."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We've waited a long time for this debut… I'll show you a performance that will be sure to clear away those nerves.",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I should be on my way."
+        }
+    ]
+}

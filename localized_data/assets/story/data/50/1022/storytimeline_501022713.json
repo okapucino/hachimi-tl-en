@@ -1,0 +1,97 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Ahhh, now I've done it… After I warmed up and everything!",
+            "choice_data_list": [
+                "Does it hurt?",
+                "Does it hurt?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No! Not much, at least. The injury itself is only minor…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm afraid of getting out of shape, so I really want to get back to training, but… Hmmm."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay, Trainer… Time for a pop quiz! Ready?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Which of the following is our best course of action right now?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "One: do some light running. Two: do a casual workout. Three: do some water aerobics to avoid muscle strain!",
+            "choice_data_list": [
+                "Four: get some proper rest!",
+                "…I get it. We can try to get back to training."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer! That's cheating! There is no number four!",
+            "choice_data_list": [
+                "Sure there is."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to her that there is some logic to what she's saying, but that I think she'd benefit much more from a thorough rest."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I see. Well, if that's your reasoning, I accept."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's a bit of an emotional blow… but I'll take a nice long rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so Fine Motion does as I recommend and prioritizes rest and recuperation."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Exactly! ♪ When it comes to small injuries, it's best to get your body moving, right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ngh! Ouch, ouch, ouch!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I think… I might have misjudged things."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion smiles through her disappointment and commits to getting the recuperation she needs."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay, shall we head right to the training track, then? ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…There! Lap complete! ♪",
+            "choice_data_list": [
+                "Looks like you're good to go.",
+                "Looks like you're good to go."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "See, I told you exercise was for the best. ♪ Let's keep this up within reason!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Fine Motion eases herself back into training."
+        }
+    ]
+}

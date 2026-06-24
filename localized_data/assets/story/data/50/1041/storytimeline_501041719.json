@@ -1,32 +1,34 @@
 {
-    "no_wrap": true,
+    "title": "委員長は大忙しッ！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Weeell, then! \nIt's about time to head to training!"
+            "text": "Okay! It's about time to start training!"
         },
         {
-            "name": "TV Host",
-            "text": "\"The series 'Honing Your Talent'… \nwill provide you with plenty of useful \ninformation throughout the night!\""
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya!? Isn't this TV show the legendary \nseries of must-see honors students!?"
+            "name": "TV Show Host",
+            "text": "Today, we once more present <i>Honing Extraordinary Talents!</i> We'll be serving you the most tantalizing information all the way into the late hours of the night!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However… throughout the night. \nRight then, I'll just have to do training \nanother ti… But……"
+            "text": "Oh my! It's them! They're basically legendary! This show is a must-watch for any genius!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, nonono! I'm brilliant! I can make up \nfor lost practice in no time!"
+            "text": "But did they just say they'll go super late? I have training today… but on the other hand…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is the only time I can watch this \nshow! Because I can never get it back…!"
+            "text": "It's fine! I have outstanding talent! I can quickly recover from any delay in practice!"
         },
         {
-            "text": "This is how Sakura Bakushin O got so \ncaught up in her TV show that she neglected \nher training."
+            "name": "Sakura Bakushin O",
+            "text": "This TV show is today only! I can't afford to miss it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Sakura Bakushin O is too enticed by the TV to attend training."
         }
     ]
 }

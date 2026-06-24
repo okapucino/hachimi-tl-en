@@ -1,0 +1,258 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The morning of the New Year is calm and tranquil…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Until the peace is suddenly shattered by some shocking news!"
+        },
+        {
+            "name": "TV",
+            "text": "Dawn of the Ultimate Era! Renowned runners sprint back into the limelight!"
+        },
+        {
+            "name": "TV",
+            "text": "Breaking news! A group of racers who returned to the track yesterday after a long hiatus have just finished a press conference."
+        },
+        {
+            "name": "TV",
+            "text": "They've all announced their intention to step back onto the G1 tracks this year!"
+        },
+        {
+            "name": "TV",
+            "text": "Each of them is a fierce contender with a storied resume under her belt."
+        },
+        {
+            "name": "Interviewer",
+            "text": "Fuji Kiseki! Why did you decide to announce your participation in the G1 at this time?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm… That's a difficult question… If I had to say, it's because we want to be an obstacle."
+        },
+        {
+            "name": "Interviewer",
+            "text": "…Pardon?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All of us here are joining the races to pose a monumental challenge to our younger peers."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I know you're out there—we're waiting for you and excited for the challenge."
+        },
+        {
+            "name": "TV",
+            "text": "This new and exciting era is truly just getting started! This year's races are shaping up to be something special!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "An obstacle…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash looks shaken after watching the news report."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It can't be… This can't be happening…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Are you telling me I must face foes of their caliber once again?",
+            "choice_data_list": [
+                "You've grown, Flash."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You're right. I've done well in my races thus far."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, I know the full extent of their capabilities, and I'm not sure I'll be able to overcome them this time…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The races will be even fiercer with their participation. My chances of winning will surely drop…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But with that said…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I just promised to show my parents how much I have grown."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's looking like I might not be able to keep my promise to them…",
+            "choice_data_list": [
+                "Hey, calm down a little."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"A little\"? How much is that, exactly?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And what do you mean by \"calm down\"? Do I not appear calm at the moment?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The shock of the news is sending Eishin Flash into a rapid spiral. A change in scenery would do her good right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to take her out to do our first shrine visit of the year, but…"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Hey, did you see the news?! This year's races are gonna be sick!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "No kidding. I'll be watching every second of them. I do feel bad for the younger racers, though."
+        },
+        {
+            "name": "Passerby B",
+            "text": "I mean, just think of how tough it'll be for the racers who just entered their classic year to run against opponents like that."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Dang, that's true… Those poor newcomers…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…",
+            "choice_data_list": [
+                "L-let's think about something else."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Something else… Like what, exactly?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash has shown a keen interest in Japanese culture before, so that could be just the ticket right now!",
+            "choice_data_list": [
+                "Let's laze around for New Year!",
+                "Let's go write down our wishes!",
+                "Let's exchange New Year's cards!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Is that really something to be so enthusiastic about?",
+            "choice_data_list": [
+                "The most important thing is to carry out your plan with intention!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I suppose that makes sense… All is dependent upon one's intention, after all."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Falcon has previously recommended I try \"lazing around\" too, so I'll give it a try."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for the suggestion. I shall refresh myself with a fifteen-minute nap.",
+            "choice_data_list": [
+                "Enjoy!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I had a wonderful dream in which a bird named Mambo flew toward Mount Fuji and…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash looks much better after a quick nap in my office."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I know about this tradition. We are to write on a wooden plaque called a \"prayer tablet,\" correct?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've been interested in this custom for some time, but since we can only do it once a year, I haven't had the chance to try it.",
+            "choice_data_list": [
+                "All the more reason to do it, then!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Agreed. I believe that's the booth over there…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I wrote, \"I wish to carry out my schedule perfectly.\"",
+            "choice_data_list": [
+                "Consistent, aren't you?",
+                "Consistent, aren't you?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I live by those words. What did you write?",
+            "choice_data_list": [
+                "I had a feeling I knew what you'd write, so…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I show her my plaque, on which I wrote, \"I hope Eishin Flash can carry out her schedule perfectly without overexerting herself.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe! You saw right through me… I'm not at all surprised."
+        },
+        {
+            "name": "Monologue",
+            "text": "My relief is immeasurable when Eishin Flash finally cracks a small smile."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Right now? But I thought that the custom in Japan was to send New Year's cards in advance of New Year's Day.",
+            "choice_data_list": [
+                "Yeah, but you can give your first greeting of the year any time around the holiday."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Do you mean to say it would not be a cultural faux pas to exchange cards in person?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. Let's ready some cards at once."
+        },
+        {
+            "name": "Monologue",
+            "text": "We go buy New Year's cards, write messages, and exchange them on the spot. When I hand my card to Eishin Flash…",
+            "choice_data_list": [
+                "It's… a very realistic ladybug!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What do you think? I'm pretty good at replicating photos on paper if I do say so myself."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I was hoping for a chance to show you this, so this is perfect."
+        },
+        {
+            "name": "Monologue",
+            "text": "She shows me her New Year's card proudly. On it is an anatomically correct drawing of a ladybug with the phrase \"Fortune unto you\" in Japanese."
+        }
+    ]
+}

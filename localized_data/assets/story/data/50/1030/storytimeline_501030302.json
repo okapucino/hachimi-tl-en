@@ -1,0 +1,405 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we're walking through the shopping district…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-hey, Big Brother?",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-hey, Big Sister?",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Here… th-this is for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I take a piece of paper from Rice Shower's trembling hands."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's…",
+            "choice_data_list": [
+                "A raffle ticket?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah! Urara told me about it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "There's a New Year's raffle in the shopping district."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The special prize is supposed to be something really incredible! So… um…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I got you a ticket. I want you to give it a try.",
+            "choice_data_list": [
+                "Why don't we do it together?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I got you a ticket. I want you to give it a try.",
+            "choice_data_list": [
+                "Why don't we do it together?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh? No way! If I'm involved, there's no way we'll w—",
+            "choice_data_list": [
+                "Don't say that!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eep!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eep!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!",
+            "choice_data_list": [
+                "We'd like to try!"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We've got some takers! Step on up and give it a shot!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-you really want to do it… together?",
+            "choice_data_list": [
+                "Of course!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Praying for good luck, we grasp the raffle spinner's handle together and turn…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the spinner's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whooooa! You did it, you did it! Congrats, Big Brother!",
+            "choice_data_list": [
+                "Congratulations to you too, Rice!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whooooa! You did it, you did it! Congrats, Big Sister!",
+            "choice_data_list": [
+                "Congratulations to you too, Rice!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe, but you're the one who won, not me.",
+            "choice_data_list": [
+                "We pulled the spinner together, didn't we?",
+                "We pulled the spinner together, didn't we?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe, but you're the one who won, not me.",
+            "choice_data_list": [
+                "We pulled the spinner together, didn't we?",
+                "We pulled the spinner together, didn't we?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Well…",
+            "choice_data_list": [
+                "That means we both won!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The grand-prize is just as much hers as it is mine."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Is it really okay for me to take it too?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Umm… in that case… d-does…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Does that mean… we'll go to the hot spring together?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Since we both won… I'd like to go with you."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Is that okay?",
+            "choice_data_list": [
+                "If that's what you want, then of course!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "R-really?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe! Well then, once we've done everything we want to do and need a break, let's go!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe! Well then, once we've done everything we want to do and need a break, let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Rice Shower and I promise to use the hot spring vacation ticket together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "F-first-prize?! I can't believe it!",
+            "choice_data_list": [
+                "It's all thanks to you pulling the spinner with me!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "F-first-prize?! I can't believe it!",
+            "choice_data_list": [
+                "It's all thanks to you pulling the spinner with me!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe… I don't know about that."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right, you two! Here's your prize!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whoa… It looks delicious. My mouth is already wateri—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrooowl…</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Agh! Not now, tummy! Everyone's watching!",
+            "choice_data_list": [
+                "Let's hurry back so we can eat."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe. Yes, let's!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like she's worked up an appetite to match the surprise and happiness she got from playing the raffle."
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy the delicious deluxe carrot hamburger steak together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wow… there are so many!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Look at all these carrots!",
+            "choice_data_list": [
+                "How are you going to eat all of those?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Look at all these carrots!",
+            "choice_data_list": [
+                "How are you going to eat all of those?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Oh! You're right. I don't know if my tummy has room for this many."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, let's think… Hmm…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "If I make some sweets out of them, will you have some?",
+            "choice_data_list": [
+                "Definitely!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "If I make some sweets out of them, will you have some?",
+            "choice_data_list": [
+                "Definitely!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yay! I'm gonna make a ton, then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I enjoy some homemade carrot cookies with Rice Shower."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "We didn't lose!",
+            "choice_data_list": [
+                "That's right!",
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "We didn't lose!",
+            "choice_data_list": [
+                "That's right!",
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe… I can't believe it. I thought my bad luck would bring us absolutely nothing, like always…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It may be third-prize, but a win is a win. Rice Shower keeps the carrot as a memento of our day together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sigh…</i> Of course I lost. I'm sorry.",
+            "choice_data_list": [
+                "Still, thanks for trying with me!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sigh…</i> Of course I lost. I'm sorry.",
+            "choice_data_list": [
+                "Still, thanks for trying with me!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But I wanted you to get a good prize… <i>Sniffle.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly give Rice Shower a tissue from the pack to wipe her tears."
+        }
+    ]
+}

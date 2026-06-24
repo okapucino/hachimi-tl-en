@@ -1,0 +1,199 @@
+{
+    "title": "ウマドル☆Friendship！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One of Smart Falcon's classmates is racing today, so we've come to watch."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaaay! First place! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "She's been working really hard lately! She's even been doing extra training on her own every day until night!",
+            "choice_data_list": [
+                "She was really good.",
+                "She was really good."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah! She's finally gonna take center stage in a winning concert. I have to keep supporting her as much as I can from here on! ♪"
+        },
+        {
+            "text": "Happy for her friend's victory, Smart Falcon waits for the winning concert to start, but…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? Is the concert delayed?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "She looked like she was in good shape when she crossed the finish line. There's no way she's injured or anything, right?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ooh, I can't sit around and wait! Let's go check on her, Trainer!"
+        },
+        {
+            "text": "Smart Falcon is worried about her friend who won the race, so we head backstage to find…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What's wrong? Did something happen?!"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "I-I'm j-just nervous. My legs are shaking…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Nervous? Even though you just had such a magnificent run?"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "I was completely absorbed in the race, so I wasn't thinking of anything else… But then reality came crashing back in…"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "I'm no good at singing or dancing…"
+        },
+        {
+            "text": "It seems she's been panicking since the race finished. It's good that she's not injured or sick, but…"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "You do the concert instead of me! Please! You're great with concerts, right?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "No way… Everyone in the audience is waiting for <i>you.</i>"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "But I… I… I'm really scared to go on stage…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hmmm… What should I do?",
+            "choice_data_list": [
+                "Do you think you can help calm her nerves?",
+                "Why don't you go out on stage for her?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, good idea! She already showed us such an amazing race. I'm sure her winning concert will be just as good!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, listen. I get really nervous before concerts too."
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "Even <i>you</i> get nervous?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah. No matter how many times I get on stage, I always get nervous in front of an audience."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But more than anything, I want the audience to be happy… And when I think of that, it gets me excited."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Listen to them."
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "See? ♪ You can hear them cheering, can't you? It's because they're looking forward to seeing you."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You can even hear them clapping… Everyone is rooting for you!"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "You're right… I guess everyone was cheering for me during the race too…"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "Thanks, Falco! I'm going out there!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah! ☆ You'll be fine! Good luck!"
+        },
+        {
+            "text": "After a nudge in the right direction from Smart Falcon, her friend puts on an admirable winning concert."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What a dazzling performance! ☆ Don't you think?",
+            "choice_data_list": [
+                "We'd better step up our game too!",
+                "We'd better step up our game too!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Right! As long as I have my fans, I'll do whatever I have to!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Whaaat? That's not how it works! I can't just replace people!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Everyone has their own irreplaceable charm… That's what being an Umadol is all about!"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "But… I…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Come on! Can't you see? You're completely irreplaceable too!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "There's no substitute anywhere in the whole wide world! Only you can be you! So believe in yourself!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh! Here's an idea! I'll go on stage with you and introduce you. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But you're the star of the show, okay? ☆"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "Falco… Okay, I'll try!"
+        },
+        {
+            "text": "With Smart Falcon's help, her friend relaxes and the show is a great success."
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "Thanks, Falco. Seeing everyone cheering me on gave me the courage I needed!"
+        },
+        {
+            "name": "Winning Umamusume",
+            "text": "Next time, I'll try my best to do it on my own!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Great! ♪ I'll be trying my best too! The path of the Umadol is one where we push each other to greater heights! ☆"
+        }
+    ]
+}

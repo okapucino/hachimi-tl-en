@@ -1,0 +1,194 @@
+{
+    "title": "道の果て、その先へ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki and I bump into Bamboo Memory while we're out one day."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah, Bamboo. Enjoying a day out?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah, I'm heading to the museum! Apparently, they're holding some kind of special exhibition of super-rare stuff, so my mom said I should go!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What was it again… I think she said they were displaying diaries from different time periods… Or maybe it was essays?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oh… Perhaps the exhibition includes writings from legendary martial artists. I'm quite intrigued!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After hearing this, we decide to accompany Bamboo Memory to the museum."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Man, that exhibit was pretty impressive! All that handwriting was so squiggly though. I couldn't really read what anything said."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…",
+            "choice_data_list": [
+                "Anything the matter?",
+                "Anything the matter?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I keep thinking about one of the diaries I saw."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh yeaaah, you mean that one you were checking out super close? What was it the plaque said again?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "\"Martial arts have become meaningless.\" The author recorded their feeling for years and concluded that endless years of battle have resulted in a nothingness."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I am familiar with these notions. I am also familiar with someone else who feels this way."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "She's an Umamusume who trained above me in the martial arts. She was among the very finest—a martial arts virtuoso who attained complete mastery at a young age."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "She was mighty and kind, but what really stood out was her determination to master the martial arts. Many deeply admired her, myself included."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But things began to change when she entered the Warriors of Heaven and Earth Tournament."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "I gave that final match all I had to offer. I utilized all the Yaegaki techniques I'd acquired against an opponent who had bested the finest warriors."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "It was a thrill like no other to face off against the strongest opponent while at the peak of my abilities, and in a climactic match, at that."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "It shouldn't come as a surprise, then, that I've felt empty since then. It's like my life no longer has a… destination."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "After that, she abandoned the Kongo Yaegaki style. Even now, I have no idea of her whereabouts."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The path of self-refinement ought to stretch out indefinitely. And yet, if I were to glimpse its end the way she did…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I wonder what I would do."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hmm… Yaeno, can I borrow you for a sec?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I've changed clothes as you've instructed, but… what are we doing exactly?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Isn't it obvious?! We're going for a run!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Just see if you can overtake me! This is a no-holds-barred, full-throttle contest!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Bamboo?! Ngh, wait!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What's wrong? Is that all you got?! Don't blame me if you take it easy and get whooped!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh! What was that?! Watch and witness the power of the Yaegaki style!"
+        },
+        {
+            "name": "Yaeno & Bamboo",
+            "text": "Yaaaaah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Huff… Huff…</i> It seems you've grown even stronger!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe. Do you get it now?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Even if you feel like you've reached the end of the path, your friendly foes will always be there to overtake you again! We're not gonna give you any time to feel empty inside!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "So you've gotta grow eeeven <i>stronger,</i> just like we're gonna get even stronger too!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Basically, everything's gonna be totally fine! There's nothing to worry about!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Bamboo…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe. I'm truly blessed to be surrounded by such people.",
+            "choice_data_list": [
+                "I guess there's nothing to fear if you're running alongside everyone else.",
+                "I guess there's nothing to fear if you're running alongside everyone else.",
+                "Maybe this will help you get your Yaegaki friend back on track.",
+                "Maybe this will help you get your Yaegaki friend back on track."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe. I'm truly blessed to be surrounded by such people.",
+            "choice_data_list": [
+                "I guess there's nothing to fear if you're running alongside everyone else.",
+                "I guess there's nothing to fear if you're running alongside everyone else.",
+                "Maybe this will help you get your Yaegaki friend back on track.",
+                "Maybe this will help you get your Yaegaki friend back on track."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Friendly foes… Indeed. What a terrific way of putting it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I have to wonder now—what might have happened if my fellow pupil had known this feeling?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki gazes up at the sky, as if a weight's been lifted from her shoulders. And yet, her expression is not without a subtle sadness."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Indeed… If only I could become her \"friendly foe.\""
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "No, I <i>will</i> become that challenge for her! Not only in terms of strength, but also by attaining a state of mind that allows me to empathize with her struggles!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And in preparation for that day… I shall continue to devote myself to progress!"
+        }
+    ]
+}

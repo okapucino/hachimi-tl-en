@@ -1,0 +1,292 @@
+{
+    "title": "本番前の、静かな余談",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the Fleetfoot Festival. I've come to check on Gold City, who will be participating in a performance, but…",
+            "choice_data_list": [
+                "She's pretty nervous…",
+                "She's pretty nervous…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure she's just tense from the responsibility she's taking on. There has to be something I can do to help her calm down, but what?"
+        },
+        {
+            "name": "Monologue",
+            "text": "♪♪♪"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's really popping off this year. Too bad I won't be able to see any of it.",
+            "choice_data_list": [
+                "Let's check out the festival!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What?",
+            "choice_data_list": [
+                "Wanna show me around?",
+                "Wanna show me around?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm about to go on stage. You understand I need to concentrate, right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Besides, you can walk around and see the festival yourself, you're not a child.",
+            "choice_data_list": [
+                "I thought you'd be more familiar since it's an Umamusume festival."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Sure, that's true, but… No. I don't want to.",
+            "choice_data_list": [
+                "Please!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Stop it. No. I'm not going."
+        },
+        {
+            "name": "Gold City",
+            "text": "…",
+            "choice_data_list": [
+                "What should we see first?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I underestimated your persistence."
+        },
+        {
+            "name": "Gold City",
+            "text": "We don't have much time, so you decide.",
+            "choice_data_list": [
+                "I want to see the sacred palanquin!",
+                "I want to see the festival from above!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "The palanquin, huh? Sure, let's check it out."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's humongous… I bet it would be a real pain to lift."
+        },
+        {
+            "name": "Attendant Umamusume",
+            "text": "Would you like to try it?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Uh, isn't it sacred? You sure we can move it?"
+        },
+        {
+            "name": "Attendant Umamusume",
+            "text": "It is indeed an important shrine, but people are still allowed to interact with it."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh… Okay, guess I'll give it a little try."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hmph! It's so heavy… Aaghhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City tries lifting the palanquin with all her might, but it doesn't budge."
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Pant… pant… pant…</i>"
+        },
+        {
+            "name": "Attendant Umamusume",
+            "text": "Quite the challenge, isn't it? It takes dozens of Umamusume to move it, so it would be impossible for you alone."
+        },
+        {
+            "name": "Gold City",
+            "text": "Can I… try again?"
+        },
+        {
+            "name": "Attendant Umamusume",
+            "text": "Huh? But…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Don't worry. I just want one more try! …Hrngh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fired up by the challenge, Gold City continues to try lifting the palanquin."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hmph! Hrrrnnngh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Damn it!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Urgh! Come oooon!"
+        },
+        {
+            "name": "Attendant Umamusume",
+            "text": "Um, City, I think maybe it's time to call it quits.",
+            "choice_data_list": [
+                "Cool… It's my time to shine!",
+                "Cool… It's my time to shine!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What?! There's no way…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Like Gold City, I try lifting the palanquin with all my might, but I can't move it one bit. After multiple attempts…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you okay? You seem dizzy.",
+            "choice_data_list": [
+                "<i>Pant, wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Pfft, quit staring at me—you look ridiculous!",
+            "choice_data_list": [
+                "<i>Wheeze, pant…</i>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I said don't look at me! Honestly, you should see yourself, you're a wreck! Hahaha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although this technically isn't part of my plan, I manage to help Gold City calm her nerves."
+        },
+        {
+            "name": "Monologue",
+            "text": "I make the suggestion thinking a little distance from the crowds will help ease the tension."
+        },
+        {
+            "name": "Gold City",
+            "text": "But aren't you here for the festival? Or are you, like, bored already? That was quick.",
+            "choice_data_list": [
+                "I want to see it from a distance!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Don't you normally save that for the end?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Whatever, though… So, somewhere we can look out over the festival…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Umm, isn't the festival over that way? We might've come a bit too far."
+        },
+        {
+            "name": "Gold City",
+            "text": "But… <i>Sigh…</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "The air is so different here."
+        },
+        {
+            "name": "Gold City",
+            "text": "All right, what do you think? Here's the view you wanted.",
+            "choice_data_list": [
+                "The lights are so bright!",
+                "The lights are so bright!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Very sophisticated answer."
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, spill it. What's the real reason you wanted to come here?"
+        },
+        {
+            "name": "Gold City",
+            "text": "There <i>is</i> another reason, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no reason to try and fool her at this point. I decide to answer honestly.",
+            "choice_data_list": [
+                "I wanted you to get some space."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Why?",
+            "choice_data_list": [
+                "You seemed really nervous back there."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Sure… I was feeling tense, but… you could've just talked to me back there."
+        },
+        {
+            "name": "Gold City",
+            "text": "I mean, I guess if you did I would just…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Listen. You're not smooth. In fact, you're pretty weird."
+        },
+        {
+            "name": "Gold City",
+            "text": "But I'm glad I could get some fresh air. I feel refreshed somehow.",
+            "choice_data_list": [
+                "Now you can go back there, be yourself, and have fun!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh, you don't have to tell me."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll get the job done. You don't know half of what I'm capable of."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll shine so bright, you'll be able to see me all the way from here."
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, Gold City puts on a spectacular performance."
+        }
+    ]
+}

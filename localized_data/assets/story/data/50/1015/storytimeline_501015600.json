@@ -1,0 +1,33 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "T.M. Opera O",
+            "text": "Alas! The situation is grave, Trainer!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My passion for racing has begun to swell. I fear I cannot contain it much longer!",
+            "choice_data_list": [
+                "Wh-what should we do?!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That much is obvious… Sing!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Lalalaaa! ♪ The Centurial Overlord shall prevail this day! ♪ That being me, I must do say! ♪"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The power to make all cower—I'll trounce any foe! ♪ That is I! T.M. Opera Ooo! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I let her impulses run free until she elatedly heads for the track."
+        }
+    ]
+}

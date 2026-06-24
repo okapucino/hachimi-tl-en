@@ -1,0 +1,213 @@
+{
+    "title": "A Quiet Moment",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I'm working in my office one day, when…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hi, Trainer… Sorry to ask so suddenly, but may I take a day off training today?",
+            "choice_data_list": [
+                "What's wrong? Did something happen?",
+                "What's wrong? Did something happen?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "During lunch, I caught a dear pony when she missed a step on the stairs and almost fell."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I hurt my foot in the process, and I don't think I should run on it today.",
+            "choice_data_list": [
+                "Are you all right? Should I help you back to your dorm?",
+                "Are you all right? Should I help you back to your dorm?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can still walk fine, so there's no need. I just want to be safe and rest for today. I'll see you tomorrow."
+        },
+        {
+            "text": "I get the feeling she's playing it cool in order not to worry anyone, especially the student she helped."
+        },
+        {
+            "text": "But there's a possibility Fuji Kiseki's injury could get worse. I want to respect her judgment, so I \"casually\" grab some get-well gifts for her from the school store."
+        },
+        {
+            "text": "I get some of her favorite snacks and arrange them in a bag so they hide the medicated bandages I slipped in there. And then…",
+            "choice_data_list": [
+                "Excuse me, can I ask you a favor?",
+                "Excuse me, can I ask you a favor?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh hey! You're Fuji's trainer, right? What can I do for you?",
+            "choice_data_list": [
+                "Could you deliver this to Fuji at her dorm, please? She left it behind.",
+                "Could you deliver this to Fuji at her dorm, please? She left it behind."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow, it's stuffed with yummy snacks! She must be <i>starving!</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll get this to her in a jiffy, don't you worry!"
+        },
+        {
+            "text": "The words are hardly out of her mouth before she's running off."
+        },
+        {
+            "text": "I'm sure Fuji won't hesitate to accept a delivery from someone as pure and innocent as Haru Urara."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The swelling's gone down, but I probably shouldn't go patrolling the dorm just yet."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Funny how I'm hiding away to conceal an injury again, just like when I was a kid…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(That time, I'd hurt myself during rehearsal right before a show. I wanted to whine and cry so badly, like a regular kid.)"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(But since I was an actor first and foremost, the show had to go on…)"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Fuji! I was looking for you! You've got a parcel from Urara's Special Delivery Service!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh? Why, if you aren't just the most adorable mail courier in the world!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee! ♪ Your trainer said you forgot this and asked me to deliver it to you!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Be careful not to forget your stuff next time, 'kay? Bye-bye!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm, I'm sure I didn't leave anything behind. Let's see here… It's full of food and… Ah, I see."
+        },
+        {
+            "text": "The next day…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hello, Trainer!",
+            "choice_data_list": [
+                "Hey! How's your foot?",
+                "Hey! How's your foot?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's all better now, thanks to the little delivery I received from Urara.",
+            "choice_data_list": [
+                "I wish you'd lean on me more.",
+                "I wish you'd lean on me more.",
+                "We have to help each other in times of need!",
+                "We have to help each other in times of need!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's all better now, thanks to the little delivery I received from Urara.",
+            "choice_data_list": [
+                "I wish you'd lean on me more.",
+                "I wish you'd lean on me more.",
+                "We have to help each other in times of need!",
+                "We have to help each other in times of need!"
+            ]
+        },
+        {
+            "text": "As Fuji Kiseki's trainer and a grown adult, I have a responsibility to take care of her, after all."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Thank you for saying that. It's a relief knowing how dependable you are."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Back when I was a child actor, I hurt myself pretty badly. My injury yesterday reminded me of that time."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I bet things would've gone differently back then if you had been there for me.",
+            "choice_data_list": [
+                "Was I able to give you the support you needed, then?",
+                "Was I able to give you the support you needed, then?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You definitely were."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Sigh.</i> You're becoming more and more wily every day, Trainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You keep spoiling me and chipping away at my disguise. You'd better take responsibility if I become incapable of being without you.",
+            "choice_data_list": [
+                "W-well, I mean…"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha! I'm just messing with you. ♪ Come on, let's start training!"
+        },
+        {
+            "text": "I stare helplessly as she strolls off. If anyone is wily, it's definitely Fuji Kiseki and not me."
+        },
+        {
+            "text": "I stare helplessly as she strolls off. If anyone is wily, it's definitely Fuji Kiseki and not me."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm, that is a good point."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'll be sure to bring you something if you ever get injured, then."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can make you lots of nutritious food in my dorm's kitchen, now that I think of it.",
+            "choice_data_list": [
+                "Thanks, but I think your fans would get jealous.",
+                "Thanks, but I think your fans would get jealous."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Then I'd just have to visit you in secret, so as to ensure no one finds out."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You could be my Juliet, and I, your forbidden Romeo…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You'd wait for me then, wouldn't you, my fair Juliet? ♪"
+        },
+        {
+            "text": "I'm not sure if I should be looking forward to or dreading being put in that situation…"
+        },
+        {
+            "text": "But despite my mixed feelings, she looks so cheerful that I can't help but smile back."
+        }
+    ]
+}

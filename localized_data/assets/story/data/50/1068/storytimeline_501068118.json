@@ -1,0 +1,154 @@
+{
+    "title": "日本ダービーの後に・疲弊の理由",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Huff, huff… Pant, pant…</i> I managed… to make it to the end… But…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Uuugh… Why… are my legs… so heavy? This feels like…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooosh!</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(It feels like I just walked through a fierce blizzard. Even my toes feel exhausted…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(So this… is the Japanese Derby…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Wheeze… huff… huff…</i> Uuugh…",
+            "choice_data_list": [
+                "Kitasan!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You okay?! Need a cheer or three?! Here's some water!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I rush out to meet Kitasan Black, who looks absolutely crushed with fatigue. Voices behind me prick my attention."
+        },
+        {
+            "name": "Spectator A",
+            "text": "What's up with Kitasan Black? Looks like she ran into a wall or something…"
+        },
+        {
+            "name": "Spectator B",
+            "text": "It's probably the distance she ran. Plenty of Umamusume end up like that after running the Derby…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes Kitasan Black quite a while to recover enough to talk normally.",
+            "choice_data_list": [
+                "Feeling better?",
+                "Feeling better?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yes, I think so… But wow. I was so sure I'd be tough enough to handle the race."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Is the Derby just that intense? Or am I this tired because of something else?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After some deliberation, I decide to tell her about the conversation I overheard and am worrying about.",
+            "choice_data_list": [
+                "Someone said the race's distance might be the problem.",
+                "Someone said the race's distance might be the problem."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Distance… Are you saying 2,400 meters is too much for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't say for sure if that's true. Today is the first time she's run in a G1 race this long."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I was sure she could handle long distances, but after watching her run today, I can't say for certain anymore."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmm, what to do? Maybe shorter races are more my thing…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Up until now, I've always just run all out without paying much attention to distances and stuff."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No worries, Kitasan Black! There's nothing to fret about!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O, who has been listening to us talk the whole time, inserts herself into the conversation, full of confidence."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Today was just a fluke. You're absolutely fine, so rest assured!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How can you be so sure I'll be okay, Bakushin O?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh heh heh! How could I not be? Just who do you think your super special coach is, hm?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is I, Sakura Bakushin O! The Umamusume who has been victorious in three 1,200-meter races—aka 3,600 meters total! That's <i>super</i> long distance!",
+            "choice_data_list": [
+                "So long distances… are just a couple of short distances stacked together?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As far as I know, Sakura Bakushin O is a specialized sprinter who has had many great showings in G1 sprints."
+        },
+        {
+            "name": "Monologue",
+            "text": "That said, I've never heard anyone lump three 1,200-meter sprints into one long-distance 3,600-meter race… That's just not sound reasoning."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "If Bakushin O says I'll be okay, then I just might be okay! Right, Trainer?",
+            "choice_data_list": [
+                "Uhh, I'm not really sure it's quite that simple…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I gently try to stop Kitasan Black from taking Sakura Bakushin O's word at face value."
+        },
+        {
+            "name": "Monologue",
+            "text": "Distance aptitude aside, there's not much we can do aside from watch how things unfold on the track from here on out."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, if I'm not really cut out for long races…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The autumn Kikuka Sho might be even tougher. That's 3,000 meters long. I'd better keep my nose to the grindstone and train real hard!",
+            "color_text_info_list": [
+                "Kikuka Sho"
+            ]
+        }
+    ]
+}

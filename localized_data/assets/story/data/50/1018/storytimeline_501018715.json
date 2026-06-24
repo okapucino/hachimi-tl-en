@@ -1,0 +1,77 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Groove finishes her training for the day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Phew… You head home first. I'd like to spend some time alone.",
+            "choice_data_list": [
+                "Are you going to do some solo practice?",
+                "Are you going to do some solo practice?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes. I need to address a few points that were bothering me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Are you going to quibble about how I use my free time?",
+            "choice_data_list": [
+                "I'll use my free time to join you.",
+                "I'd like you to get a proper rest."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "As ridiculous as ever, I see."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But do as you please. It's your own time."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stick with Air Groove until she finishes up her solo practice."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I understand what you're saying, but I know my limits better than anyone."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have deemed myself capable of a little more training, so I'd prefer if you keep such unnecessary comments to yourself.",
+            "choice_data_list": [
+                "I'll review your training regimen."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're going to concoct a regimen that won't leave me with any energy for solo practice, huh?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Very well! If that's what you have in store for me, I'll go easy on today's extra training."
+        },
+        {
+            "name": "Air Groove",
+            "text": "However…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You'd better have a new regimen for me by our next training session. Are we clear?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having agreed to make a training regimen more suited to Air Groove's wishes, we finish up for the day."
+        }
+    ]
+}

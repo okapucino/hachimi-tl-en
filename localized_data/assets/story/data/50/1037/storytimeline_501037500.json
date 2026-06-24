@@ -1,0 +1,65 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after my training session with Eishin Flash…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Hm?",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's nothing. The session just ended earlier than I expected."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It shouldn't be possible for me to finish all of my laps so quickly."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Could it be we miscounted?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But when I check the numbers, all my laps are accounted for, which can only mean one thing.",
+            "choice_data_list": [
+                "You must've gotten faster.",
+                "You must've gotten faster."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well… What a happy miscalculation."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This never happened when I was training by myself."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Thank you. I could not have accomplished this without your help.",
+            "choice_data_list": [
+                "Of course. Now let's keep it up!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. We must set to work revising my training schedule straight away."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I would appreciate any and all advice you can give me."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like my coaching is paying off."
+        }
+    ]
+}

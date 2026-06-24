@@ -1,0 +1,383 @@
+{
+    "title": "After the Debut: Sowing Seeds",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Spectators",
+            "text": "Whoa! That Nishino Flower is quick!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Fan A",
+            "text": "I was watching with bated breath, worried that she'd be crushed by the elite competition…"
+        },
+        {
+            "name": "Fan B",
+            "text": "But I get why she was fast-tracked now. She seems to have an abundance of natural talent!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Hm? Hold on a sec…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Fan B",
+            "text": "…Is it just me, or is she really struggling?"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Flower?! Are you okay?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? …Mom and Dad?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You really came… all the way to Sapporo… to watch me… <i>Huff!</i>"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Oh, Flower! Take some deep breaths, dear. That'll help you! Right, honey?!"
+        },
+        {
+            "name": "Flower's Father",
+            "text": "U-um, I, uh… T-Trainer, some assistance, please!",
+            "choice_data_list": [
+                "F-first, let's sit you down!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Nishino Flower in a state of total exhaustion and her parents sick with worry, it takes me a few minutes to calm the situation."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sorry for making you worry… I'm fine now."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Are you sure? No pain in your chest or anywhere else? You're not injured, are you?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mom, please calm down! I'm not hurt."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was just a little tired is all."
+        },
+        {
+            "name": "Flower's Father",
+            "text": "Well, it sure didn't look like you were just \"a little\" tired to us. Competing in races might be too hard on you after all."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "All the other Umamusume are exhausted after racing too! Right, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Honestly, her fatigue is far worse than that of the other racers. Her still-growing body puts her at a disadvantage, and that won't change anytime soon…"
+        },
+        {
+            "name": "Monologue",
+            "text": "However, I don't want to worry her parents even more. As long as I provide the right care, this shouldn't be a major issue.",
+            "choice_data_list": [
+                "Racing is hard on everyone."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "See? It's normal. But everyone goes out there and runs with all they have."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So please don't worry so much. I promise I'll get plenty of rest!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But more importantly, it's official now! I made my race debut! I want to see smiles on your faces."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Oh, I'm sorry. You're right… Congratulations, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! Thanks."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay, I'm going to go get changed… Just wait here until I'm done."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I sure made everyone worry…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Maybe I'm still not cut out for this yet. I'll train hard and build up more physical endurance.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(But I wonder if that will be enough. If I'm going to get people to acknowledge Trainer…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I'll have to do something major—like win a big race… I bet that'll drive away all those worries!)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… So what was it that we needed to decide on?",
+            "choice_data_list": [
+                "Let's think about your next race goal."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Based on what I saw of her running today, I think she'd perform very well in the junior-year G1 races. The thing is…",
+            "choice_data_list": [
+                "(High-level races are very taxing.)"
+            ],
+            "color_text_info_list": [
+                "junior-year",
+                "G1"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how exhausted she was after today's race, steady physical conditioning might be the way to go. With that in mind…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'd like to compete in a G1 race!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I understand what it means to run in a G1 race. Even the most talented of the older students only have a slim chance of victory…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Even so… I want to give it a try. You might think it's too soon, but I—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower searches for the right words. However, her determination comes through loud and clear. In that case, I need to support her!",
+            "choice_data_list": [
+                "All right! A G1 race it is!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! I'll do my very best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering the length of the junior G1 races, perhaps a mile race like the Asahi Hai Futurity Stakes…",
+            "color_text_info_list": [
+                "Asahi Hai Futurity Stakes"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Or the Hanshin Juvenile Fillies would be the best place for Nishino Flower to start.",
+            "choice_data_list": [
+                "Do you have a preference?"
+            ],
+            "color_text_info_list": [
+                "Hanshin Juvenile Fillies"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm, let me see… I'd like to enter the Hanshin Juvenile Fillies."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's a race that many of the wonderful, older Umamusume like Gold City have competed in.",
+            "color_text_info_list": [
+                "Gold City"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I've always dreamed about running in it, just like they did!",
+            "choice_data_list": [
+                "Then we'll prepare for the Hanshin Juvenile Fillies!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Right!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you. I'll put my all into this!",
+            "choice_data_list": [
+                "(I've got to work even harder too.)",
+                "(I've got to work even harder too.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her so worn out after the race really caught me off guard. I can't let her see me like that ever again, so I need to be better prepared."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "All right. Time to plant lots of flowers!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oho? Someone's a real go-getter."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hello, Sky! Just woke up from a nap?",
+            "color_text_info_list": [
+                "Sky"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mm-hmm, yeah. More importantly…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Congrats on your debut. Let me reward that great effort in an exclusively Sei way: a round of applause.",
+            "color_text_info_list": [
+                "Sei"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Clap, clap, clap. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe… Thank you so much!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Seiun Sky's a bit mysterious, but she's also very kind and always looks out for me.)",
+            "color_text_info_list": [
+                "Seiun Sky"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Now, a question for the Umamusume of the hour!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What are you doing, exactly? You've been digging in the dirt like there's no tomorrow."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. I sure am. This is all to make a new flower bed."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…But, um, the reason I'm making it is a secret! So… ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Gotcha—my lips are sealed. But will you let me in on it at least?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Well, I want to craft this flower bed into a message for my trainer."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Every time I run in a race, I'll add more flowers. And once it's full of beautiful blossoms, it'll be time to show it off."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I hope it'll make Trainer happy… I just really want to give them more confidence!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And when that day comes…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I want to tell Trainer it's thanks to the effort we put in together that there are so many flowers blossoming here.)"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ohh, now you got me feeling jelly."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nothin' at all. Anyhoo, you'd better enter plenty of races, then."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes, I'll do my best!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Good answer. Now, I think I'll play in the dirt for a bit too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A-are you sure? Your uniform will get dirty!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, I'm always covered in grass anyway… Plus, I can always use one of my exclusive life hacks."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "If I show up in front of King all dirty, she'll clean me up right away. She gives me a good scolding, too, but no biggie!",
+            "color_text_info_list": [
+                "King"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-you don't have to go that far! I'll wash your uniform for you!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm, maybe I'll tidy up this spot."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…That'd be a great help, Sky! ♪"
+        }
+    ]
+}

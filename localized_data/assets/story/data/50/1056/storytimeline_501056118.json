@@ -1,0 +1,174 @@
+{
+    "title": "Imminent Fortune, Quiet Resolve",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the track for training only to find a large group of people already there.",
+            "choice_data_list": [
+                "(What's going on?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Curious, I make my way through the crowd, only to find…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Behold! Just by having this mystical stone in your possession, your luck will increase!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This here is a wooden bear carving that improves disposition with a single touch! And this is a noh mask that grants you the power of flight!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm here to share my blessings with you all, a parcel of fortune from me to you! Please, give them a try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru is talking up a big show and hawking her lucky wares to all the Umamusume passing by."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Why, hello there, Trainer! Feel free to try one out yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I start with the mask… but nothing happens.",
+            "choice_data_list": [
+                "My feet are still on the ground."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well then! Don't you worry, there is still plenty of good fortune to go around!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I mean, I just can't keep myself from winning! Left or right, here or there, all I find is fortune at every turn!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Doesn't that make me the luckiest Umamusume around? Surely, it does!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's won the Kyoto Shimbun Hai, Kobe Shimbun Hai, and Kikuka Sho, among others. Luck certainly has been on her side. However…",
+            "choice_data_list": [
+                "(I think she's getting way too carried away…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's been acting strange ever since the Kikuka Sho. Her attitude is worrisome, to say the least."
+        },
+        {
+            "name": "Monologue",
+            "text": "No sooner do I have that thought, when…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "How do you do, Matikanefukukitaru?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm pleased to find you in good spirits. A beautiful autumn day, is it not?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's good to see you too, Bright! What auspicious timing!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We see each other quite often, but I've been feeling a particularly special connection between us lately."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Maybe it's because we've been competing in so many of the same races! I have just the thing for you!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my, is that so? Which of these goods are you referring to?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This! Behold, the Great God of Fish Cakes!",
+            "choice_data_list": [
+                "The <i>what?!</i>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehehe! It's exactly what it sounds like—a figure of a god carved out of a board for serving fish cakes!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It represents a fleet-footed deity. Carry it around, and you might carve a few seconds off your best time!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Goodness! What a wonderful gift. I'm ever so grateful."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright takes the slightly misshapen Great God of Fish Cakes."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. I'll be sure to carry it with me every day to reap its benefits."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes, please do! I'm sure you'll find it to be stupendously effective!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If not, I fear I'll never be capable of winning against you, Matikanefukukitaru."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I may have suffered defeat at your hands on a number of occasions, but that is all in the past now."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I am of the firm belief that true victory comes only after a series of bitter defeats."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Soon enough, victory will come within my reach—a truly brilliant victory."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh… Would you look at the time? I must be off to my training."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Until we meet again, on the day I emerge victorious."
+        },
+        {
+            "name": "Monologue",
+            "text": "Beneath her serene smile, Mejiro Bright simmers with fierce determination. As for Matikanefukukitaru…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can't believe it."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>She</i> will emerge victorious? Against the luckiest Umamusume on the planet?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's quite the declaration! But she forgets I am protected by the gods! For I possess… the Fish Cake God of War!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright's provocation is lost on Matikanefukukitaru, who's off in her own universe. If anything, it only makes her more confident."
+        }
+    ]
+}

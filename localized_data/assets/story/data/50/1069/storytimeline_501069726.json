@@ -1,0 +1,49 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out with Sakura Chiyono O…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow, look at all those adorable plushies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It'd be so fun to have a bunch of these lined up in my room! They'd really liven things up!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The problem is, I don't know if I can win enough of them… If I try my luck every day, maybe I'll have enough by next year…",
+            "choice_data_list": [
+                "I can win some for you."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What? You'd do that? For me?",
+            "choice_data_list": [
+                "Yup! Now it's your turn to cheer me on!",
+                "Yup! Now it's your turn to cheer me on!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe! Understood!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Like they say, races come to those who wait. I can't wait to see how many you get! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

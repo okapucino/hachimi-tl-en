@@ -1,0 +1,50 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Rice Shower in the plaza holding her head, looking pained."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, B-Big Brother… Don't worry. It's nothing…",
+            "choice_data_list": [
+                "It doesn't look like nothing.",
+                "It doesn't look like nothing."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, B-Big Sister… Don't worry. It's nothing…",
+            "choice_data_list": [
+                "It doesn't look like nothing.",
+                "It doesn't look like nothing."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um… That's, uh… <i>Sigh…</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "To be honest, I've had a headache since this morning. But I don't think it's a cold or anything."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sure it'll get better soon. So don't worry."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sure it'll get better soon. So don't worry."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Nnng… Owww…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like Rice Shower's headache is really bothering her. I wish there was something I could do."
+        }
+    ]
+}

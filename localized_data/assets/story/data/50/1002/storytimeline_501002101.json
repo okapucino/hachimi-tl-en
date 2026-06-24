@@ -1,0 +1,127 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "Hello, Trainer. I'm going to do some light exercise before we start today's training."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a few days into the new year and Silence Suzuka is aloof as always. Regardless, I try to strike up a conversation.",
+            "choice_data_list": [
+                "Any new resolutions?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "New resolutions? Um… I suppose I'd like to run a lot more.",
+            "choice_data_list": [
+                "Could you be more specific?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well… I like to feel as though I'm not being held back…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "So I want to run in a lot of races where I have the freedom to be like that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her passion is unmistakable, so I pitch her an idea. In reality, it's been on my mind for quite some time.",
+            "choice_data_list": [
+                "What do you think about going for the Classics?",
+                "What do you think about going for the Classics?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning the Classics is no small feat, but with the speedy display Suzuka put on at her debut, she's got a real chance."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The Classics?!",
+            "choice_data_list": [
+                "Just imagine the scenery at the lead of those races."
+            ],
+            "color_text_info_list": [
+                "Classics"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…It must be wonderful…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…Hehe. Of course I'll do it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "With that said, I think I'll go for a run right now."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, but if there's anything I should focus on to prepare, I'm happy to keep it in mind.",
+            "choice_data_list": [
+                "Let's focus on upping your speed!",
+                "Let's make sure you're nice and rested first!",
+                "First things first! Happy New Year!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My speed?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's true that only the best Umamusume can race in the Classics."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I won't be able to take the lead if I'm not running at peak agility… will I?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All right then. I want to become faster."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that decided, we work on Silence Suzuka's running form and speed."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You think I should rest?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well… I suppose I could go for a walk. The weather <i>is</i> very nice today."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Well, I'll see you at training."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she was able to rest and relax sufficiently, as training starts more laid-back than usual."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! I completely forgot!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Happy New Year! Here's to another year together!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…Oh! So, that's why you asked about my resolutions."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that Suzuka has remembered the New Year, we decide to visit a shrine together."
+        }
+    ]
+}

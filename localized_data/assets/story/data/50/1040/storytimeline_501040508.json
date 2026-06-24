@@ -1,0 +1,27 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Gold City should be heading out soon for today's modeling gig. The two of us are chatting before she leaves."
+        },
+        {
+            "name": "Gold City",
+            "text": "Sorry, can I sit on the bench for a minute? I'm still listening to you.",
+            "choice_data_list": [
+                "Are you tired?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, kinda. I just need to rest while I can. My manager'll get on my case if she sees me looking light-headed."
+        },
+        {
+            "name": "Gold City",
+            "text": "But don't worry, I'll make it work. <i>Sigh…</i> I do low-key wanna skip, though…"
+        },
+        {
+            "text": "It seems her exhaustion is beginning to catch up with her. I suppose I should consider reevaluating her race schedule."
+        }
+    ]
+}

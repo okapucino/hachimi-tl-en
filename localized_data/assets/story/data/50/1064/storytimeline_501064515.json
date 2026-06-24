@@ -1,0 +1,207 @@
+{
+    "title": "Breakaway! Bakushin! Turbo Booost!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Twin Turbo",
+            "text": "Oooh! Look at all the pretty, colorful drinks they're selling! I wanna try that one!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hngh! That statue over there! It's so glorious! I won't let it outshine me, though! BAKUSHIN!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey, don't just run off like that! You're not even going the right direction!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot some familiar faces while walking past the station, but things seem to be a bit hectic.",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Omigosh, Traineeer! Perfect timing!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "A bunch of us had planned to go out today…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But Ikuno and Flower had to bail, so now everything's a mess!",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…Hey! Where'd they go?!",
+            "choice_data_list": [
+                "That way, I think!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "That's how I get swept up into Mejiro Palmer's outing with her friends."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oho! The trains are running! But do you know who else can run, and even <i>faster</i> than a train? Me! Time to prove it!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'm super fast, too! I won't let a measly train or two beat me!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey! Don't run into the river!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What's this? A zoo!? Well, no cheetah can outspeed me!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Or me! Eat my dust, cheetahs!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No running in a crowd!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, well, well! Who would've thought we'd find a suspension bridge here of all places! I bet I can beat everyone to the other side!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Nuh-uh! <i>I'm</i> gonna be number one! Outta my way!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ack! Stop, stop! That's too dangerous!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Wheeze, wheeze…</i> Seriously, what are those two made of?! How can they <i>still</i> be running?!",
+            "choice_data_list": [
+                "Looks like all we can do is follow them…",
+                "Maybe we should give them a destination."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha… Yeah, I guess, huh?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Heeey! Palmeeer! Come over heeere!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, yeah… Comiiing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we keep wandering about endlessly and aimlessly…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm?! Incredible! Palmer! <i>Palmer!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah? What is it this ti—"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, wow!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Look at all these flowers in full bloom! They're almost as pretty and vibrant as cherry blossoms!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Ohhh! Look at 'em all! They're so colorful!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, they're super pretty! Who'd've thunk we'd end up someplace like this?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hehehe! There's only one thing to do when you're in a spot as scenic as this, and that's…"
+        },
+        {
+            "name": "Palmer and Turbo",
+            "text": "To Bakushin, yeah?! To Bakushin, right?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey! That's my line!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them chase each other through the fields for a while. Watching such a heartwarming sight puts a smile on my face."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm, that makes sense. Do you have a specific place in mind?",
+            "choice_data_list": [
+                "Is there anywhere you want to go?",
+                "Is there anywhere you want to go?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "A place I want to go? Ooh, I know."
+        },
+        {
+            "name": "Bakushin O and Turbo",
+            "text": "WHOOOA!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What a view! It's so spectacular, my heart is going full Bakushin!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "That building is all sparkly! And that one's all spiky! What even is that one?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! I'm glad you two like it here!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "See how the view stretches all the way to the horizon?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "We ran a ton today, but there are still so many other places we can run to!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Doesn't everything seem a million times more fun when you think of things that way?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Twin Turbo and Sakura Bakushin O nod in agreement. The endless blue sky is filled with hope for the future."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah, I totally get what you mean!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The urge to Bakushin right now is overwhelming! Race me to that horizon!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aaand there we go, right off track again…"
+        }
+    ]
+}

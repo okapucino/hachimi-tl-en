@@ -1,0 +1,91 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer got injured, so I take her to the infirmary just to be safe."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! You really don't have to freak out so much, Trainer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm telling you, I'm good. I appreciate the worry, but I can get back to training, no biggie.",
+            "choice_data_list": [
+                "There's no such thing as being too careful."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hmm… Okay, how 'bout we compromise with a sports wrap? That should be more than enough.",
+            "choice_data_list": [
+                "I still think you should rest.",
+                "…All right. Let's hang in there!",
+                "…All right. Let's hang in there!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hmm… Okay, how 'bout we compromise with a sports wrap? That should be more than enough.",
+            "choice_data_list": [
+                "I still think you should rest.",
+                "…All right. Let's hang in there!",
+                "…All right. Let's hang in there!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Fine. I guess you have a point… Welp, guess I'll head back and rest, then. Laters."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Sigh…</i> I can't believe I messed up so bad…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A disappointed Mejiro Palmer returns to her dorm."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah! That's the spirit! Now, to the track!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "There, I'm all warmed up again. I won't push myself, promise!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And here I… go!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ow!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That hurts… Man, I guess it was a biggie after all…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "My bad. Sorry for stressing you out even more…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer can't continue training after all and goes back to her dorm with her shoulders slumped."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer runs so freely that I can't even tell she's hurt!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff… huff…</i> See? Told ya it was nothing to worry about."
+        },
+        {
+            "name": "Monologue",
+            "text": "Luckily, her injury turns out to be very minor. She paces herself well and completes the rest of today's session without further incident."
+        }
+    ]
+}

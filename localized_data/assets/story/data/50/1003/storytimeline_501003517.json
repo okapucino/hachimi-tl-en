@@ -1,0 +1,37 @@
+{
+    "title": "ノーエンカウント",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Tokai Teio crouching down behind the school building, so I head over to see what's up."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh. Hey, Trainer…",
+            "choice_data_list": [
+                "Something the matter?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I haven't seen Prez in like <i>forever!</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I go to the student council office every day, but she's <i>never</i> there!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "There's so much I wanna talk to her about…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I get that she's busy, but still… Ugh. Wonder when I'll be able to see her again."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like not being able to see Symboli Rudolf is really stressing out Tokai Teio. She lets out a deep sigh."
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "title": "A Swift Resolution!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser and I are taking a walk when we spot Rice Shower looking distressed."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "What's wrong, Rice? Something happen?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, um… The vending machine won't give me the drink I paid for."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I-it's probably my fault… What if it broke because I tried to buy something?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Say no more. I'll have it fixed up in a jiffy!",
+            "choice_data_list": [
+                "Do you know how?",
+                "Do you know how?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It'll be fine! I fixed the TV back home once when the picture cut out!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "B-but… this is all my fault. You shouldn't have to do anything…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's really no trouble. Here, let's see if we can't cheer up this grumpy old machine!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "There, there, my sweet vending machine. Did something upset you?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You must be awfully tired, working so hard with no time off… Say, would you like to nibble on a battery?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Go on, no need to be shy! It's a reward for all your hard work!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay… now it's time to cough up that drink!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "U-um…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh… I'm pretty sure I just did this a bunch of times until the TV started working again.",
+            "choice_data_list": [
+                "Maybe it was just a coincidence it started working…"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "What?! You think?! Well, I guess that's possible…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That just means I just have to keep trying things until it's fixed. Mun!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You really don't need to do any more. I'm sorry for wasting your time, okay? I'll try and figure something out on my own!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "There's nothing for you to be sorry about! If anything, I'm having a lot of fun!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You're having… fun?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Everything about me's so ordinary that it gets my heart racing when this sorta unusual stuff happens!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So honestly, thanks for the chance!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "N-no, I should be thanking <i>you</i>. Not only are you trying to fix the vending machine, you're being so kind…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank you, Tannhauser."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey, it's all good! Now, let's get back to fixing this machine!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmm. Maybe I should try a different approach. Something with some oomph…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Trainer! Lend us your brains! Give me something with oomph!",
+            "choice_data_list": [
+                "Keep doing what you're doing.",
+                "Keep doing what you're doing.",
+                "Let's call a professional."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Trainer! Lend us your brains! Give me something with oomph!",
+            "choice_data_list": [
+                "Keep doing what you're doing.",
+                "Keep doing what you're doing.",
+                "Let's call a professional."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So I should show the vending machine even more love?! Gotcha! Here goes!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Are you really okay like this, my little vendy-wendy machine? If you're not gonna start working now, then when?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, uh… You can do it!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ooh, nice assist, Rice! How about it, vending machine? Are you getting the urge to spring into action?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, my… Why are the two of you speaking to that vending machine?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tazuna, who happened to be passing by, plugs in the vending machine's power cord, instantly breathing electrical life back into it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "What?! You mean it wasn't broken?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wait, just give me another chance. I'm going to unleash my secret weapon."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Just stay right there!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Matikanetannhauser just went racing by me… Did something happen?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Well, the thing is…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "There—it should be fine now. Maybe someone tripped over the power cord and accidentally unplugged it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… So it wasn't broken after all. Someone should tell Tannhauser…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several minutes later, Matikanetannhauser comes back with a huge bundle of tools."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wait, you already fixed it?!"
+        }
+    ]
+}

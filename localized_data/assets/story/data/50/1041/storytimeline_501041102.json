@@ -1,177 +1,183 @@
 {
-    "no_wrap": true,
+    "title": "初詣",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "On one of the first few days of the New Year, \nI went with Sakura Bakushin O to pay \nmy first shrine visit."
+            "name": "Monologue",
+            "text": "Early into the new year, Sakura Bakushin O and I make our first shrine visit of the year."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san, are you sure your shrine visit \nmanners are absolutely perfect?"
+            "text": "Trainer, do you know the proper etiquette for visiting a shrine?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You're worried, aren't you, that's right, \nyou are! But you're lucky I'm here!"
+            "text": "You must be a little nervous, right? But I'm with you, so don't worry!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll teach you! \"A New Year's Shrine \nVisit: Bakushin Style\"!",
+            "text": "Allow me to show you a Bakushin-style Shrine Visit!",
             "choice_data_list": [
-                "(Bakushin Style?)"
+                "(Bakushin-style?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Firstly, clap your hands in prayer! \nClapclapclap…"
+            "text": "First off, you clap your hands! <i>Clap, clap, clap…</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We need to praise God and make him feel \ngood about himself."
+            "text": "Then you praise the gods to put them in a good mood."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Secondly, make sure you're smiling, \nand then say…"
+            "text": "After that, and make sure you say it with a friendly smile…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Pardon me!"
+            "text": "PLEASE EXCUSE MY PRESENCE!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And now, let's take a bow. That's the \nmost basic of greetings!"
+            "text": "And then you bow formally. Properly excusing yourself for the intrusion is the most basic of fundamentals when it comes to manners!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Then, make your request. Speak clearly and \nloudly, so it reaches the heavens!"
+            "text": "Then you can follow up with your wish. You say it loud and clear, so that it reaches the heavens!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And finally, applaud the brilliance of my \nrequest and finish off with a bow."
+            "text": "Then you clap in admiration of your own brilliant wish. Finally, you do another bow. And that's it!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Did you get all that?"
+            "text": "Did you get that all?"
         },
         {
-            "text": "After that, I taught her the proper \netiquette……"
+            "name": "Monologue",
+            "text": "After listening to everything she has to say, I teach her the correct way to do it…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "May I Baku-win every race in my Senior \nclass!!!",
+            "text": "I wish to be able to achieve a Bakushin victory in all my senior-year races!",
             "color_text_info_list": [
-                "Senior class"
+                "senior-year"
             ]
         },
         {
-            "text": "Sakura Bakushin O's cheerful wish echoed \nin the peaceful New Year's sky…"
+            "name": "Monologue",
+            "text": "Sakura Bakushin O's cheerful wish reverberates throughout the tranquil New Year's sky."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this?!"
+            "text": "Oh!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san, I've discovered \nsomething intriguing!"
+            "text": "Trainer! I came across something interesting!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It seems you can write your wishes on that \nboard over there."
+            "text": "It seems you can write your wishes on those little wooden boards."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is my chance to show God how \nexcellent my penmanship is!"
+            "text": "It's a chance to show off my penmanship to the gods!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And furthermore! If Trainer-san also writes \na wish, we can get double points!"
+            "text": "In addition! I'll get double points if I utilize your wish as well!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If we double up, God can't ignore us!",
+            "text": "If I have double the wish power, there's no way the gods could ignore me!",
             "choice_data_list": [
-                "So, to sum it up?"
+                "What do you mean?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please go ahead and write what your wish \nfor me is! And don't be shy about it!"
+            "text": "Don't hold back! Go ahead and write down your wish for me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, perhaps there's nothing you need to \nwish for, since I'm already so brilliant!"
+            "text": "Well, it's not like you really need to… Seeing as I'm already quite the outstanding genius!"
         },
         {
-            "text": "That being said, I wrote…",
+            "name": "Monologue",
+            "text": "And so, I write…",
             "choice_data_list": [
-                "Grow up super-healthy",
-                "Become a totally-exemplary Uma",
-                "Have weapons aside from super-speed"
+                "I want Sakura Bakushin O to become super healthy and remarkable.",
+                "I want Sakura Bakushin O to become the ultimate model Umamusume.",
+                "I want Sakura Bakushin O to attain a weapon other than super speed."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ooh! I see. \nI am already healthy!"
+            "text": "Ahh! I see. Even though I'm already healthy and remarkable!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, super-healthy! Become super-healthy, \nyou say! Hahaa, the infirmary has grown even \nmore distant!"
+            "text": "SUPER healthy and remarkable! Haha, the infirmary would be a distant thought."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We'll run through this year in high spirits! \nBakushiiiin!!"
+            "text": "I'm going to dash energetically throughout the new year! Bakushiiin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whaaaat!?"
+            "text": "Eh?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm already an exemplary horse girl. \nFurthermore, what do you mean by \n\"super\"!?",
+            "text": "I'm already a model Umamusume… You're saying I should be even <i>more</i> of a model Umamusume?!",
             "choice_data_list": [
-                "You'll become able to do anything.",
-                "You'll become able to do anything."
+                "You'd be able to do anything.",
+                "You'd be able to do anything."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmm? I can do anything? \nSuch as?",
+            "text": "Oh? Anything, you say? Like?",
             "choice_data_list": [
-                "Study and stuff……"
+                "You know, studying and so forth…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see―!"
+            "text": "I see!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's true, I'm brilliant, but studying \nis the… second, third――"
+            "text": "I might be extraordinary, but when it comes to studying, I'm near the rear of the pack…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――fourth, or maybe somewhere around the \nfifth, best strong suit of mine."
+            "text": "…And that's the unfortunate truth."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Very well!"
+            "text": "I got it!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll give God the job of making \nme even more exemplary!"
+            "text": "I'll ask the gods to increase my workload to become an even greater role model!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A weapon other than speed? \nWell, I suppose there are many others……"
+            "text": "A weapon other than my speed? Well, there are a lot of other things I could practice…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "First is to eat swiftly, dress hurriedly, wake \nup early, go to bed quickly, jump to \nconclusions hastily…"
+            "text": "Speed-eating, speed-changing, being quick to rise, as well as fast to sleep, jumping to hasty conclusions, correct or otherwise…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this!? It's all speed, isn't it!?"
+            "text": "Wait?! They're all speed related!"
         },
         {
-            "text": "In the end, we both decided to increase our \nskills in some way this year."
+            "name": "Monologue",
+            "text": "And so, the two of use decide on which special skills Sakura Bakushin O should acquire this year."
         }
     ]
 }

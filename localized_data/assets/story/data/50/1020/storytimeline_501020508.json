@@ -1,0 +1,50 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While thinking over our training regimen…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Howdy!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Let's go! I'm here to train till I drop!",
+            "choice_data_list": [
+                "But it's not time for training yet.",
+                "But it's not time for training yet."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Oh, you're right. But I think we can get started anyway."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's strange seeing Seiun Sky take her training this seriously since she's usually the type to slack off."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What's up? You're making a funny face."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aha, I got it. You figured I was gonna skip again, huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, too bad. Yep, I just couldn't come up with a good plan for playing hooky today."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Might be 'cause I'm feeling all sluggish. The ideas just weren't coming. <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "If she's too exhausted to come up with a plan to skip training, it might be time to adjust her schedule so she can have a break."
+        }
+    ]
+}

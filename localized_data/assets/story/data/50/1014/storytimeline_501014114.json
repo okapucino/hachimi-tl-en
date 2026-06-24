@@ -1,0 +1,190 @@
+{
+    "title": "やり場のない闘志",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "I know this is a little sudden, but I have something to ask you, Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I want you to go to the NHK Mile Cup with me! Not just to watch! I want you to run with me!",
+            "choice_data_list": [
+                "Uhhh, that's not gonna happen…"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whaaat?! Why not?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "At this rate… I'll…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Can you come with me to the training track for a sec?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprised by her odd request, I nevertheless follow her to the training track."
+        },
+        {
+            "name": "Monologue",
+            "text": "There we find…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Graaaagh! I'm not gonna lose, Sei!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Then keep up with me… Push yourself to the limit!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Huff, huff…</i> I was so close…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Huff, puff…</i> I win!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Wheeze, wheeze…</i> That's right—I'll train until I drop! This is all for my first-rate comeback at the Satsuki Sho!",
+            "color_text_info_list": [
+                "Satsuki Sho"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, there's still a lot of work to be done until then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her rivals are all working hard together."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Look at them! The passion! The nobility! The witty comebacks and friendly teasing!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Just watching them makes my blood tingle! I want rivals like that!",
+            "choice_data_list": [
+                "You mean they're not your rivals?",
+                "You mean they're not your rivals?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Of course, they're my rivals. But they're all on the Triple Crown tour, and I'm on my own path."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "My papa told me that when luchadors use jumping techniques…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Each one tries to fly higher than the others. They use that passion to make even better techniques."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But I don't have anyone to compete with…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "How can I go on like this? Can this even be called wrestling?!",
+            "choice_data_list": [
+                "It's <i>not</i> wrestling. It's racing…"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So how about it, Trainer? Will you run with me?",
+            "choice_data_list": [
+                "Sorry, but no."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Then what about a winning wrestling match at least?",
+            "choice_data_list": [
+                "I don't really know what to say…"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Then, what should I do?! Look at me! Look at these balled fists, clenched like iron!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa seems sad that she doesn't have any rivals to go toe-to-toe with."
+        },
+        {
+            "name": "Monologue",
+            "text": "As far as solutions, only one comes to mind…",
+            "choice_data_list": [
+                "Do you want to change to the Triple Crown tour?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué? N-no, that's out of the question."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "My goal is and always has been to win the Japan Cup in my classic year!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The dreams of the world's wild condor will never waver!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But… I do also want to run with my rivals! What should I do…",
+            "choice_data_list": [
+                "Is there any reason you can't run with them next year?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, that's true! There's always next year…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ughhh, but that's too far away! I wanna race them as soon as possible."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, I've got it! In that case…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "King! King! Wanna go to the NHK Mile Cup with me?",
+            "color_text_info_list": [
+                "King"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You know, just for a laugh… Really kill some time!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Whaaat?! Don't be ridiculous! Absolutely not!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa's hot young blood is looking for a challenge. I could try and tell her not to be unreasonable, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "This is what she wants, and who am I to say no? I wonder if there's way she can test her strength against her classmates, at least once."
+        }
+    ]
+}

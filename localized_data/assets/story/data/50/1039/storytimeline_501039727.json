@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "Amazing! You're incredible! How did you pull in such a big haul?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Why, with all of these, we could turn your office into a veritable plushie kingdom!",
+            "choice_data_list": [
+                "I guess my workplace is about to become a lot livelier.",
+                "I guess my workplace is about to become a lot livelier."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe, from this day forward, I am princess of the plushie kingdom!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll do my best with the support of all my cuddly followers!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

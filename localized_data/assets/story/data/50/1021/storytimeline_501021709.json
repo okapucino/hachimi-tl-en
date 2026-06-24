@@ -1,0 +1,42 @@
+{
+    "title": "レース入着",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Ugh! I couldn't get first place!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I was so close! This is so frustratin'!",
+            "choice_data_list": [
+                "You still placed well.",
+                "We'll get first place next time."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Where's your ambition?! I was aimin' for first out there!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And my results are tied real tight to how much clout <i>you</i> get! So ya better toughen up, 'kay?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, let's head back 'n review things, yeah?! 'Cause next time's da one! I'm winnin' for sure!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's right! I swear on da White Lightnin' name, I'm winnin' gold next time!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "There's no time for mopin'! Let's jump straight into trainin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "'Cause I never wanna feel this way again!"
+        }
+    ]
+}

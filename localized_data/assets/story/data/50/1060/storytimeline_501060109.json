@@ -1,0 +1,266 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The holidays are here, but that isn't the only thing on our minds. This is also a crucial time to make final preparations for the Arima Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "But that doesn't mean Nature should wear herself thin. I decide to come up with a way for her to relax."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant… Pant… Pant…</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…You got this, Nature… You got this, Nature…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Alll right! Trainer, I'll do one more lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Nice Nature training with such determination today, I can't bring myself to tell her about my R&R plan."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Phew! That's a wrap! I was so focused today."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyway, I've got plans after this, so I better skedaddle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I wasn't able to invite her out after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, later that night…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzzzt!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey, Trainer. It's me, Nice Nature."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… Can you come out for a second?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, there you are. Over here!",
+            "choice_data_list": [
+                "You changed?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, well, I wanted to dress better than a tracksuit or school uniform tonight."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's the holidays, right? Sooo…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Here. I got this for you!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's nothing impressive, but… I hope it's not too boring either…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inside the box is a hand-knitted scarf with a simple design. Its soft fibers put my heart at ease."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I had my mom teach me how to knit, so it should be pretty sturdy."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I really don't have an eye for design."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I didn't want it to be so tacky that you can't wear it outside, but I wanted it to have enough character to not look lame."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "After thinking for some time… it ended up having no pattern or decoration."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Sorry I couldn't make it cute.",
+            "choice_data_list": [
+                "I really like it!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Do you really mean that?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's pretty plain, you know. The only thing going for it is its sturdiness… You still like it?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I see."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I guess my all-nighter paid off, then! Good, good!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, by the way…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The folks at the shopping district are having a hot pot party tonight."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "With each shop bringing their own ingredients, the hot pot is guaranteed to be good."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What do you think? Wanna go?",
+            "choice_data_list": [
+                "Sounds good!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Now we're talking!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It'll be good to see people there and lift my spirits before the race too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well then, let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, Nice Nature and I enjoy some delicious hot pot in the shopping district."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… So, after this…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah-choo!",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I would like to say I'm okay, but… it's pretty cold."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I can't believe I forgot to bring my coat!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The all-nighter might have been pushing it…",
+            "choice_data_list": [
+                "Should I take you back to your dorm?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No way! I don't wanna waste my courage!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I mean, I went through all the trouble of getting permission to leave campus!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Let's slow down a bit… How about a walk?",
+            "choice_data_list": [
+                "But…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "This might be our last opportunity to take time and talk like this before the Arima Kinen."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So… please?",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay!",
+            "choice_data_list": [
+                "But you have to wear my coat.",
+                "But you have to wear my coat."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But you'll be cold…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Actually, I'll borrow it. I shouldn't be risking getting sick."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "In exchange, <i>you</i> need to wear the scarf I gave you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod and take the scarf before wrapping it around my neck."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, it suits you. I sure know what color looks best on you, huh!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Don't lose it, okay?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyway, I'll go ahead and borrow that coat, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwip!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> Nice and toastyyy. Thanks a ton."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's really warm… Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Nice Nature and I spend a nice night together, taking in the festive atmosphere as we stroll along."
+        }
+    ]
+}

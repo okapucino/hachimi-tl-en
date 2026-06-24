@@ -1,0 +1,42 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess hasn't shown up for training, so I ask around before heading out to look for her."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Look at these beefed up aesthetics! I can see why King had such high praise for this art exhibition! ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe. ♪ With this, I'm another step closer to becoming the noblest of ladies, just like her.",
+            "choice_data_list": [
+                "I'm pretty sure King would never forget about practice.",
+                "I'm pretty sure King would never forget about practice."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, clearly! King would never do something so stup—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wait, Trainer? What're you doing here? And what's that about prac…tice?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ack! I-I-I had practice today, didn't I?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm so sorry! It completely slipped my mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess seems truly remorseful about her mistake. I warn her that while self-improvement is all well and good, training should be her top priority."
+        }
+    ]
+}

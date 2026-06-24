@@ -1,0 +1,276 @@
+{
+    "title": "笑顔の連鎖",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I came to watch Mihono Bourbon's dance lesson. But, for whatever reason, she's just staring at herself in the mirror."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Processing information. All clear. No irregularities have been detected."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Situational analysis based on personage, location, and other factors. Examining all possibilities…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Processing complete. Verdict—my face is scary.",
+            "choice_data_list": [
+                "Your face?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Oh, Master. I didn't notice you there."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes, my face. I was walking through the shopping district earlier, and a baby started to cry after our eyes met."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Based on the circumstances, I have come to the conclusion that I have a \"scary face.\"",
+            "choice_data_list": [
+                "It's not scary at all."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Is that true? I cannot identify any other explanations."
+        },
+        {
+            "text": "It doesn't look like her feelings are hurt from the baby crying, but it does look like it's weighing on her mind.",
+            "choice_data_list": [
+                "The baby was probably just in a bad mood."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see… I failed to take into account the other party's disposition."
+        },
+        {
+            "text": "She looks at her face in the mirror again and rubs her cheeks."
+        },
+        {
+            "text": "A few days later…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I made the baby cry again."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I cannot tell babies' faces apart, but I determined that it was the same baby as before based on the parents' faces."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I identified the baby's emotional state as being one of \"enjoyment\" until it saw my face."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have determined that the cause of this lies with me.",
+            "choice_data_list": [
+                "No, that's not—",
+                "No, that's not—"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, Bourbon! Oh, you're here with your master too! Hello!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. Hello, Nishino Flower.",
+            "choice_data_list": [
+                "Hi."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Er… Did something happen? You both look concerned."
+        },
+        {
+            "text": "Nishino Flower seems worried, so I fill her in."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Thus, the problem lies with me. That is my conclusion."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm… I see."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Bourbon, what did you think when you saw the baby?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Its body was small and without power. All movements were limited. Overall, I determined it to be \"weak.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mhmm. So, you're saying you felt the desire to protect it!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Its body was soft and lacking durability, and its big, round eyes were staring intently at me…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uh-huh. So, you're saying the baby was cute!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I see. Yes. Put simply, that may be the case."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Then maybe you should turn those feelings into a great big smile!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A smile…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Babies are always looking closely at the people around them, and they change their facial expressions accordingly!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A baby that lived in my neighborhood was the same way, so I'm sure that you can get this baby to smile too!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I see. So in other words, they attempt to copy the expressions of others.",
+            "choice_data_list": [
+                "Try giving the baby a smile next time!",
+                "Try showing the baby a bunch of different faces next time!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Information updated based on new data. Will verify during next encounter."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much, both of you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, good luck!"
+        },
+        {
+            "text": "Some time later…"
+        },
+        {
+            "text": "Mihono Bourbon runs up to me one day while I'm out and about in the shopping district."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master.",
+            "choice_data_list": [
+                "Are you out shopping too, Bourbon?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No, I came here to execute operation \"don't make the baby cry.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Here is my report."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Result—success. I was able to extract a \"smile\" from the baby.",
+            "choice_data_list": [
+                "Good for you!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Indeed. The baby's smile was, well…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It was… very cute."
+        },
+        {
+            "text": "She probably doesn't even realize it, but Mihono Bourbon is still smiling now as if that baby was right in front of her."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Now I understand. This warrants more investigation into and analysis of different patterns of interaction."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Information updated based on new data. Will verify during next encounter."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, good luck."
+        },
+        {
+            "text": "Some days later…"
+        },
+        {
+            "text": "While I'm out and about in the shopping district, I spot Mihono Bourbon alongside a couple with a baby."
+        },
+        {
+            "text": "Just as I'm about to call out to her, she notices me."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Perfect timing, Master.",
+            "choice_data_list": [
+                "Is that the baby?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. I came here to execute operation \"make many faces.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'm ready to report the results."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I was only able to produce the \"smile\" expression and could not carry out the \"anger\" or \"sadness\" expressions.",
+            "choice_data_list": [
+                "And why's that?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I do not know. When I smiled and received one in return, I perceived a sort of warm feeling inside of my chest region."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The creation of other facial expressions became difficult following this."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Cause unknown. Expression remained stuck on smile. I believe some kind of error may have occurred in my facial muscles or chest area."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Puzzling. Clarification required."
+        },
+        {
+            "text": "Mihono Bourbon is deep in thought with a strange look on her face. It's not really something that needs to be explained."
+        },
+        {
+            "text": "Reasons like \"I just wanted the baby to keep smiling\" or \"I was drawn in by the baby's smile\" are sufficient."
+        },
+        {
+            "text": "I decide to wait in anticipation for the day that she reaches an answer like that for herself."
+        }
+    ]
+}

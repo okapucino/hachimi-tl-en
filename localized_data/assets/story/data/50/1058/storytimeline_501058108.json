@@ -1,0 +1,221 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Fan Fest. Meisho Doto is supposed to participate in the scavenger hunt relay race and the hide-and-seek competition…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waaargh!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Uh-oh, it's Meisho Doto! Looks like she's just dropped the cup she borrowed for the scavenger hunt race!"
+        },
+        {
+            "name": "Classmate",
+            "text": "Don't worry about it! It was just a cheap cup. Here, use this one instead!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry, s-s-sorry. I'm really, really, really sorry about this…"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "But now she's ready to get back in the game! She's passing on the baton—"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Noooo!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "She has <i>not</i> passed the baton!"
+        },
+        {
+            "text": "The baton, unfortunately, did not survive Meisho Doto's fall, placing her in dead last…"
+        },
+        {
+            "text": "She flees in tears. I run around the campus looking until I finally find her cowering in the corner of the field.",
+            "choice_data_list": [
+                "…Are you okay?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Why… oh, why am I such a klutz? Everyone was cheering me on, too…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "If I'd held on to the cup and baton b-better… I could have won!"
+        },
+        {
+            "text": "She really is torn up over this… But there's still the hide-and-seek match up next."
+        },
+        {
+            "text": "I'm about to encourage her to make the final push, when…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Next time, I'm… not going to let myself mess up!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I've… b-been complimented on my hide-and-seek skills before!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Plus, I used to always hide in corners to avoid causing anyone trouble, so I think I know a thing or two about hiding places!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…Okay. I'm going to do my best. I know I can."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "L-let's go!"
+        },
+        {
+            "text": "She finds the strength in herself to get back on her feet—to me, it's a sure sign of her growth. Then, a few hours later…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now, I know you Mati-can't wait any longer! I'm Matikanefukukitaru, and I'll be your host for this hide-and-seek competition!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We have a lot of miraculous prizes prepared for the successful seekers!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now, everyone, let's get ready, get set… aaand go!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hyah?! Wha-wha?! The game has already started!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But, but that's okay. Hiding here, at the very least, I won't be the first one found!"
+        },
+        {
+            "text": "However…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We're several hours into this hide-and-seek extravaganza! The Fan Fest is about to wrap up, but…"
+        },
+        {
+            "name": "Doto's Fan A",
+            "text": "Dotoooo! Where are yooouu?!"
+        },
+        {
+            "name": "Doto's Fan B",
+            "text": "We've checked everywhere possible! I guess we'll have to go around once more!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Doto has yet to be found! Even the rooftop, everyone's last hope, was free of her presence! But, we've got a schedule to follow, so…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It can't be argued otherwise—Doto is the winner of the hide-and-seek competition!"
+        },
+        {
+            "name": "Doto's Fans",
+            "text": "Whaaat?!"
+        },
+        {
+            "text": "The competition concludes with an unexpected result."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm s-sorry… I'll try to hide somewhere more obvious when next year comes…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But… actually… maybe let's not play hide-and-seek next year…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Instead, I want to… have enough confidence to talk with my fans…",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "My fans put in so much effort to find me… I want to repay them…"
+        },
+        {
+            "text": "Despite the numerous slipups, it looks like this experience with her fans has inspired Doto."
+        },
+        {
+            "name": "Doto's Fan A",
+            "text": "Oh, gotcha! I found you, Doto!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eek!"
+        },
+        {
+            "name": "Doto's Fan A",
+            "text": "Gyah! You're even cuter in real life!"
+        },
+        {
+            "name": "Doto's Fan B",
+            "text": "I cheer you on in all your races! And I really wanted to meet you today!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hyah?! Hyayayah! Wh-wh-wh-why are th-there so many people now?!"
+        },
+        {
+            "text": "The crowd continues to bring in more people, and before she knows it, Meisho Doto is completely surrounded!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hwaa!"
+        },
+        {
+            "text": "I go in to pull her out, but by then, she's completely exhausted."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…Ah.",
+            "choice_data_list": [
+                "Are y-you okay?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm… okay. I was just surprised, that's all…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I didn't know I had so many fans… It c-caught me off guard…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yet… it made me happy…",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I feel power from each of my supporters… It's… amazing."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But now my heart and body are all tuckered out… <i>Sigh…</i>"
+        },
+        {
+            "text": "Despite her clumsy engagement with her fans, it seems like the experience was very inspiring for her."
+        }
+    ]
+}

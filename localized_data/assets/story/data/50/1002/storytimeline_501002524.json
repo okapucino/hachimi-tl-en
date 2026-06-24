@@ -1,0 +1,82 @@
+{
+    "title": "今日の空模様",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during a meeting…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…",
+            "choice_data_list": [
+                "Something catch your eye?",
+                "Something catch your eye?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, it's just…There are so few clouds in the sky today."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It looks so pretty."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, could we continue our meeting tonight?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Without giving me a second to respond, Silence Suzuka rushes out the door."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff… Puff…</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer, listen!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I was looking up at the sky while I was running, and when the sun started going down…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The whole sky turned a deep red. Then, all of a sudden, I could see the stars and the moon…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It was so wonderful. Hehehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "We pick up our meeting where we left off, though Silence Suzuka seems to be in a much better mood."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm back. <i>Sigh…</i>",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, it's just…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It got cloudy as soon as I started running. I couldn't see the sun at all."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It was so much prettier when I stepped out. If only I had left earlier…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's clear Silence Suzuka's feeling down, so I decide to postpone the remainder of our meeting until tomorrow."
+        }
+    ]
+}

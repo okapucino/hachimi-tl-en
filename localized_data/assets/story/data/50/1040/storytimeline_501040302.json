@@ -1,0 +1,379 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, as we pass through the shopping district on the way home…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, they're doing something over there."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Gold City",
+            "text": "A hot spring vacation, huh…",
+            "choice_data_list": [
+                "Are you a fan of hot springs?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I guess I could say so? When I finish a big job, my manager always takes me to one as a reward."
+        },
+        {
+            "name": "Gold City",
+            "text": "But I've never been to one on my own."
+        },
+        {
+            "text": "Suddenly, I remember I had received a raffle ticket the last time I shopped over here.",
+            "choice_data_list": [
+                "Do you wanna try it?",
+                "Do you wanna try it?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…Sure, why not?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Can I do the spinning?"
+        },
+        {
+            "text": "Gold City gives the raffle machine a gentle spin!"
+        },
+        {
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Whoa, we actually won!",
+            "choice_data_list": [
+                "Congrats, City!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm shocked. That was way too easy…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Does this mean I'm…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Maybe the gods did you a service for your striking beauty, young lady!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "You know what, I don't need this.",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "D-did I say something wrong?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm always like this. Mother always scolded me for making such unnecessary comments. Oh, I've offended her!",
+            "choice_data_list": [
+                "I-it's okay."
+            ]
+        },
+        {
+            "text": "After calming down the raffle clerk, I hurriedly chase after Gold City with the vacation ticket in hand."
+        },
+        {
+            "name": "Gold City",
+            "text": "…",
+            "choice_data_list": [
+                "City!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Did I upset the guy from the raffle?",
+            "choice_data_list": [
+                "He was worried about you.",
+                "He was worried about you."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Uh-huh."
+        },
+        {
+            "name": "Gold City",
+            "text": "I know he didn't mean any offense."
+        },
+        {
+            "name": "Gold City",
+            "text": "And after I won using <i>your</i> ticket, too. Shoulda just kept the coupon, but oh well.",
+            "choice_data_list": [
+                "It's all right! He gave it to me!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Seriously? In that situation?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Dang, you don't miss a trick, do you?",
+            "choice_data_list": [
+                "But I think you won this ticket yourself.",
+                "But I think you won this ticket yourself."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "I… I'm good. Can't take it now after what I did back there."
+        },
+        {
+            "name": "Gold City",
+            "text": "You use it."
+        },
+        {
+            "name": "Gold City",
+            "text": "I probably wouldn't even enjoy it if I went."
+        },
+        {
+            "name": "Gold City",
+            "text": "So… congrats. Bye now."
+        },
+        {
+            "text": "And that's how I end up holding onto the ticket for the hot spring vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Wow, it's massive."
+        },
+        {
+            "name": "Gold City",
+            "text": "But it looks delicious… And the glazed carrot is so shiny.",
+            "choice_data_list": [
+                "Looks like a good eat.",
+                "Looks like a good eat."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Too good, in fact. Bet my manager would be pissed if I ate it all.",
+            "choice_data_list": [
+                "You don't think you'll be able to balance it out?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Excuse me?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Who do you think you're talking to? I'm a professional at maintaining my figure."
+        },
+        {
+            "name": "Gold City",
+            "text": "It'll be fine. So… I guess I'll dig in."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll eat all this <i>and</i> stay in shape. Just you watch."
+        },
+        {
+            "text": "Gold City chows down on her lip-smacking hamburger steak and nonetheless manages to keep in shape afterward—of course."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, a bushel. That's actually really helpful.",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Carrots are supposed to be good for your skin."
+        },
+        {
+            "name": "Gold City",
+            "text": "And above all, they're delicious. So it's a plus to have a bunch to keep for later. I'll leave them with my manager."
+        },
+        {
+            "name": "Gold City",
+            "text": "Actually… there's something I've been wondering about—you guys aren't such huge fans of carrots, are you?",
+            "choice_data_list": [
+                "Well, some people like them plenty.",
+                "Well, some people like them plenty."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "But you wouldn't fight over them or anything, would you? Meanwhile at the Tracen cafeteria, it's harder to find a dish that <i>doesn't</i> have carrots in it."
+        },
+        {
+            "name": "Gold City",
+            "text": "Of course, I'm sure there must be <i>some</i> students who don't like them, but I know I never met one."
+        },
+        {
+            "name": "Gold City",
+            "text": "And, you know, I talked about carrots in a magazine column before, and all the reactions I got were from Umamusume."
+        },
+        {
+            "name": "Gold City",
+            "text": "I remember it struck me as weird. Carrots are delicious, so… why's it just us?",
+            "choice_data_list": [
+                "You really love carrots, eh?",
+                "You really love carrots, eh?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I talked about this with my manager before, and then she started carrying carrot sticks with her everywhere."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm not complaining, but it's not like I'm <i>that</i> in love with them. For instance, last week…"
+        },
+        {
+            "text": "Leaving behind the topic of carrots, Gold City continues sharing anecdotes about her manager as we make our way back to the academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What am I supposed to do with one carrot?",
+            "choice_data_list": [
+                "Seems like more than enough for preparing a meal."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You're talking to an Umamusume. One is far from enough.",
+            "choice_data_list": [
+                "Well, I was thinking you'd also use other ingredients…"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, that's what you mean? …I mean, I knew that."
+        },
+        {
+            "name": "Gold City",
+            "text": "Cooking, huh…",
+            "choice_data_list": [
+                "Not your forte?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What? Like that's any of your business?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Just out of curiosity, though… If you were me, what would you make with this carrot?"
+        },
+        {
+            "text": "And so, I teach Gold City some recipes as we make our way back to the academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Lame. And I'm supposed to be a model."
+        },
+        {
+            "name": "Gold City",
+            "text": "I get one chance and pull a pack of tissues. What a joke."
+        },
+        {
+            "name": "Gold City",
+            "text": "This is more than lame. This is, like, humiliating."
+        }
+    ]
+}

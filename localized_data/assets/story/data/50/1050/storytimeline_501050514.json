@@ -1,0 +1,292 @@
+{
+    "title": "タイシンのSOS",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On my day off, I notice Narita Taishin near the station. She must've just finished something, because she's heading back to the academy."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hang on, isn't there supposed to be a limited-edition <i>Animal Hunt</i> character that spawns around here?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I might as well catch it while I have the chance."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't see it on the radar—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bwah?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What the—?! \"Wet concrete. Please watch your step\"?!"
+        },
+        {
+            "name": "Construction Worker",
+            "text": "Sorry, miss. I think your boot's done for. Such a shame."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Oops."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Great, now I only have one boot. How am I supposed to get home barefoot?)",
+            "choice_data_list": [
+                "Taishin? Is that you?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Ugh."
+        },
+        {
+            "name": "Construction Worker",
+            "text": "Oh, do you know this little lady? She stuck her foot straight into the wet concrete."
+        },
+        {
+            "name": "Construction Worker",
+            "text": "Good thing your friend's here now, miss! Take care getting home!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin is bright red with embarrassment as the construction worker waves goodbye and leaves."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's not like I need help or anything. Leave me alone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, it's clear that she'll have trouble getting back to her dorm on her own.",
+            "choice_data_list": [
+                "Hang on, I'll buy you some shoes.",
+                "Hang on, I'll buy you some shoes.",
+                "Let me get you to a shoe shop. You can lean on my shoulder."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, it's clear that she'll have trouble getting back to her dorm on her own.",
+            "choice_data_list": [
+                "Hang on, I'll buy you some shoes.",
+                "Hang on, I'll buy you some shoes.",
+                "Let me get you to a shoe shop. You can lean on my shoulder."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You got wax in your ears? I said I don't need your help.",
+            "choice_data_list": [
+                "Should I give your dorm a call instead, then?",
+                "Should I give your dorm a call instead, then?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "N-no! That'll just make things worse!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh.</i> Fine. Here, take this money and get me new shoes."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I got her permission, I bring her to a nearby park to wait for me, then rush to a shoe shop."
+        },
+        {
+            "name": "Shoe Store Employee",
+            "text": "Young people these days love this style! They're also great to run in, so I highly recommend them!"
+        },
+        {
+            "name": "Shoe Store Employee",
+            "text": "And since you mentioned it earlier, these shoes go great with street fashion too!",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I figure I can't go wrong with shoes that have the employee's seal of approval, so I buy the pair she recommends."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, I run back to Narita Taishin and show her the new shoes."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, thanks. You're a lifesav—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What the hell's with this cutesy nonsense?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "These aren't my style at all! You should know better!",
+            "choice_data_list": [
+                "But the clerk said they go well with street fashion.",
+                "But the clerk said they go well with street fashion."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Now you're just admitting you got conned by a sales pitch. Ugh, whatever. I guess I'll put them on."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Huh… These actually don't feel so bad once you put them on.)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Urgh.",
+            "choice_data_list": [
+                "They look great on you, Taishin!",
+                "They look great on you, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I-I don't need your flattery. As long as they don't look weird, they're fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin seems indifferent about her new shoes, but…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Taishin? Heading out somewhere?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Looks like you really like those new shoes of yours! ♪ They look amazing with your outfit today!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Y-you think?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, yeah… I guess they do."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Absolutely not! I'd rather hop there on my own than lean on you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hup… Gah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin attempts to hop her way over but loses balance after a few bounds.",
+            "choice_data_list": [
+                "You're going to hurt yourself! Come on, hold onto me!",
+                "You're going to hurt yourself! Come on, hold onto me!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Ugh, fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "She reluctantly grabs hold of my shoulder."
+        },
+        {
+            "name": "Monologue",
+            "text": "After walking for a while together, we come across a park and decide to rest on a bench.",
+            "choice_data_list": [
+                "So, what were you doing around there?",
+                "So, what were you doing around there?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Playing a game. One of those location-based ones."
+        },
+        {
+            "name": "Monologue",
+            "text": "The game involves finding and capturing characters that are projected into the real world via augmented reality."
+        },
+        {
+            "name": "Monologue",
+            "text": "She had been trying to catch a limited-edition character when I saw her in front of the station.",
+            "choice_data_list": [
+                "Maybe we'll find the character while we're walking.",
+                "Maybe we'll find the character while we're walking."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "As if it'd be that—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No way! There's a blip on the radar!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, the character she's after has actually appeared. She tells me its coordinates, which aren't too far from where we are now.",
+            "choice_data_list": [
+                "It's close by. Let's go!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?",
+            "choice_data_list": [
+                "You gotta let off some steam after that whole shoe fiasco!",
+                "You gotta let off some steam after that whole shoe fiasco!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hm…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That's not a bad way to look at it. It'd suck to go back with a bad taste in my mouth because of that."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "All right. I'm definitely gonna catch it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin nods, and I lend her my shoulder again. We head off to where the character has appeared."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our teamwork pays off, and Narita Taishin manages to capture the limited-edition character.",
+            "choice_data_list": [
+                "Congrats, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, thanks. I guess I do feel a little better."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having finally arrived at a shop, Narita Taishin buys new shoes. She seems to be in a better mood when we part."
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I've grown a little closer to Narita Taishin after working together with her."
+        }
+    ]
+}

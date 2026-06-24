@@ -1,0 +1,211 @@
+{
+    "title": "Not Even Big Sisters Are Perfect",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After an outing with Ines Fujin, I accompany her to the amusement park where she'll be working today."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Trainer, you're such a worrier! It's still bright out—you didn't have to come all the way here with me.",
+            "choice_data_list": [
+                "Just think of it as the last stop of our trip."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe. Well, thanks! Okay, time to scrub this place clean!"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Oh, Ines! You're here early! What a relief!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Heya-hey! What's got you in such a hurry?"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "We're a little short-staffed today, so I made some last-minute changes to people's posts. Ines, you'll be on haunted house duty!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "H-haunted house duty?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin freezes up as a disturbed expression spreads across her face. I vaguely recall that she's not great with scary stuff…",
+            "choice_data_list": [
+                "Are you going to be okay? Doesn't horror stuff scare—"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I-I'm just peachy! I can <i>totally</i> handle a haunted house!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Contrary to her claim, she looks anything but peachy. Unable to ignore my concerns, I step in…",
+            "choice_data_list": [
+                "Excuse me, but I happen to be her trainer…",
+                "Excuse me, but I happen to be her trainer…"
+            ]
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Huh?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having changed into work attire, Ines Fujin arrives at the haunted house looking disgruntled. The reason being…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ugh, you worry <i>way</i> too much! I know my supervisor's fine with it and all, but asking to observe me on the job?",
+            "choice_data_list": [
+                "Sorry, but I'm just worried about you."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Well, I guess four hands are better than two."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The haunted house is closed right now because of some machine malfunctions. No one else has been assigned here, so you're helping me scrub this place down!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Since you're here, I'll teach you the art of cleaning! First, you start with the ceiling dust—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thunk!</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Eeek?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Wh-whoa, what gives? Oh, looks like I got my foot tangled in the vacuum cable… Ahaha…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Phew! I think that's most of it done. I'm feeling extra worn out today, though—huh?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ugh, someone's left their cleaning cloth under the sofa. Guess they forget to put it away. …Okay, got it."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwip…</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Fwip…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Lying underneath the sofa, hidden out of view, is a mummy puppet. Its eyes happen to meet Ines Fujin's and—"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Aaaargh?!",
+            "choice_data_list": [
+                "D-don't worry, it's just—oof!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Save me, Trainer!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Good work today…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We somehow finish our cleaning duties, but Ines Fujin looks completely exhausted. I feel like I should break the silence…",
+            "choice_data_list": [
+                "It's okay to admit when you can't handle something.",
+                "It's okay to admit when you can't handle something.",
+                "It was interesting seeing you react like that."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We somehow finish our cleaning duties, but Ines Fujin looks completely exhausted. I feel like I should break the silence…",
+            "choice_data_list": [
+                "It's okay to admit when you can't handle something.",
+                "It's okay to admit when you can't handle something.",
+                "It was interesting seeing you react like that."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, maybe I was being a little stubborn…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Truth is, my supervisor's kind enough to adjust my shifts when I have training."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's why I was hoping to return the favor somehow…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But if you hadn't been there, Trainer, I probably would've only caused my supervisor a headache."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Yeah, you're right! I should ask for help when I need it. Okay, I'll show my gratitude with…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "A good race! I think that suits me best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I come away impressed by Ines Fujin's strong sense of duty—and by the way she somehow utilized today's events to fuel her passion for racing!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, you thought that was entertaining, huh?! Hey now, it's not nice to tease people!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Sigh…</i> I made a real spectacle of myself today, huh? I was so lame!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Trainer, could you keep what happened today between us? I'm really embarrassed about it…",
+            "choice_data_list": [
+                "Sure thing."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that no matter how lame she might have seemed today, I won't tell a soul about it."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe. You sure you can keep it secret? You might never see me mess up this bad again, you know?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…But thanks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin smiles softly. It looks like this experience has brought us even closer together!"
+        }
+    ]
+}

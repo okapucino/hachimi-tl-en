@@ -1,0 +1,37 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I head to the academy early in the morning, I spot Gold Ship outside in the plaza."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Gah!",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yes, my child. After becoming one with the universe while meditating last night, my mind and body are perfectly in sync!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The Great Golshi has reached enlightenment! I am free of all worldly shackles! Indeed, I can even feel… the pulse of Gaia!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tell me, wayward Trainer. What training will you have me complete today?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It matters not what you assign me. The Great Golshi will see it through to the end."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ignoring the affected tone she's put on, Golshi seems to be in peak condition."
+        }
+    ]
+}

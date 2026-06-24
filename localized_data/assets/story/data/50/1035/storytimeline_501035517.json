@@ -1,0 +1,45 @@
+{
+    "title": "チョークさんの哀しみ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Winning Ticket running toward me, tears in her eyes."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaaah! Traaineeer!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I… <i>sob…</i> I did something horrible to Mr. Chalk!",
+            "choice_data_list": [
+                "Wh-what happened?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniffle…</i> I got called on during class and had to write the answer on the blackboard…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So I thought, \"All right! Let's show them how it's done!\" And I grabbed Mr. Chalk real tight. But then…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There was a loud crack! I snapped poor Mr. Chalk in twoooo!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Urghh… It's all my fault! Mr. Chalk could've written so much more in life! But I snapped that life short!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaaah! It's so sad—I can't go on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps Winning Ticket needs to learn how to apply a little less force sometimes."
+        }
+    ]
+}

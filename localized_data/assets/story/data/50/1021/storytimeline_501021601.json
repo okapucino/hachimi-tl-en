@@ -1,0 +1,25 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Man, today's the day! I'm redeemin' myself for flubbin' the last race!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Just sit back and watch with your feet up! I'll nab first place, easy!",
+            "choice_data_list": [
+                "You're very confident."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "'Course I am! If I'm not feelin' the win, there's no way it's happenin', even if it's mine for the takin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay! See ya on the other side!"
+        }
+    ]
+}

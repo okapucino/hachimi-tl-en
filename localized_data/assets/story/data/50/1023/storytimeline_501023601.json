@@ -1,0 +1,29 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "If I take into consideration today's weather, wind speed, and humidity… Yes, this should work."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry to keep you waiting. I've made some revisions to my calculations.",
+            "choice_data_list": [
+                "Feeling confident?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Heh… That's a silly question."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The more refined a theory, the simpler it becomes. Keep your eyes on me, Trainer."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'll show you the ultimate result of my calculations—total victory!"
+        }
+    ]
+}

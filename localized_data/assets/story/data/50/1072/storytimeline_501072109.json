@@ -1,0 +1,287 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Yaeno Muteki and I are out shopping. The streets around us are full of activity and festooned in all kinds of bright and cheery colors."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The end of the year is upon us… I always seem to forget until I see the town decorated.",
+            "choice_data_list": [
+                "You don't do anything special during the holidays?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "By myself? Not particularly. Though I have gone to parties thrown by the academy and my dorm in the past."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I learned of the tradition of exchanging gifts at the latter."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And what a fine tradition it is. As long as there are people celebrating with you, then it doesn't matter what gift you receive.",
+            "choice_data_list": [
+                "How did you usually spend the winter holidays back home?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "We didn't do anything extravagant. We'd decorate a tree and have roasted chicken for dinner. Oh, we would eat cake too."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As for presents…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Did you know that only good children get presents during this time?",
+            "choice_data_list": [
+                "That's what they say.",
+                "That's what they say."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That's why Santa never came to visit me.",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Or more accurately, he would always come late."
+        },
+        {
+            "name": "Young Yaeno",
+            "text": "My stocking's empty… But I've been a good girl."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "For the past few days, perhaps. But what about last week? And last month?"
+        },
+        {
+            "name": "Young Yaeno",
+            "text": "…Urk."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Don't worry. Santa always has an eye on you, so as long as you stay on your best behavior, I'm sure he'll come by with your present."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And so I'd focus on my training, and I really would receive a present several days later."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It was so satisfying to know Santa cared enough to watch over me and would reward me with a gift if I rectified my bad behavior."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm… Though now that I think of it, perhaps the mere fact that Santa saw my efforts was enough to fulfill my desire for attention."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I could simply receive a present without doing anything special, I probably wouldn't have even thought to apply myself to my training."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But because I was initially judged as naughty, the acknowledgement of redeeming myself was all the more gratifying."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Grampa must have been aware of my true desire ever since back then.",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no doubt that the stipulations she had to navigate in order to receive a present contributed to her growth, but still…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel somewhat sorry for her, knowing that she never got a present from Santa on time."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, there you are. So what is it you wanted my help with?",
+            "choice_data_list": [
+                "I want you to be Santa for Yaeno."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki is such a hard worker, so I want her to receive a proper present from Santa—and on time."
+        },
+        {
+            "name": "Monologue",
+            "text": "To enact the plan, I decide to ask Fuji Kiseki, the leader of the Ritto dorm, for assistance. I proceed to give her a rundown of the situation."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…Ahh, what a splendid idea! I'd be more than happy to be of assistance!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "To summarize, you'd like me to deliver a present to Yaeno on the eve of the big day, correct?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "After all, one's stocking should already be filled with Santa's presents by the time you wake up!",
+            "choice_data_list": [
+                "Right!",
+                "Right!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I can't enter Ritto Dormitory myself, I have to rely on somebody on the inside to do the actual gift-giving for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "My only concern is how alert Yaeno Muteki is. Thanks to her martial arts background, she's constantly aware of her surroundings."
+        },
+        {
+            "name": "Monologue",
+            "text": "I warn Fuji Kiseki that, even fast asleep, Yaeno might be able to sense her presence if she tries sneaking into the room."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, don't you fret! I'll have you know I'm proficient in sleight of hand."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm sure I can slip into her room while she's out and make it so she won't find her present until the morning of!",
+            "choice_data_list": [
+                "Wow, you can really do that?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Of course! Consider it done! It'd be my pleasure to take part in such a lovely surprise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, on the fateful day…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Good morning, Trainer.",
+            "choice_data_list": [
+                "Good morning!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Um… Thank you very much for the present.",
+            "choice_data_list": [
+                "Wh-wh-what are you talking about?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "This gift here. You were the one who got this for me, yes?",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oh! I assume you meant to surprise me by putting it in my stocking."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Unfortunately, I happened to find it underneath my bed after dinner last night…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If only the pencil I dropped hadn't rolled under my bed!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm so terribly sorry! It's all my fault that this act of kindness from you and Fuji went to waste!",
+            "choice_data_list": [
+                "Well… these things happen."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's nothing to be done since she found the present on accident. I just feel bad for Fuji Kiseki, who went through the trouble of helping."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Um, however… It made me very happy. To receive a gift, of course…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But also knowing you went through so much trouble for my sake."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe. My apologies. I can't stop smiling…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although the surprise was a flop, I still managed to put a smile on Yaeno Muteki's face!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Good morning, Trainer!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Take a look at this! Santa graced me with a present!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I found it when I woke up this morning!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It was tucked snugly within my stocking. That can only mean it came from Santa himself!",
+            "choice_data_list": [
+                "He must've visited you because you've been good this year!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I knew it! Santa's identity remains a mystery to me…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But I'll put that aside for now."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Finally… Finally, I've been seen as a good child!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Aah! If only I could convey my joy and gratitude to him!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But as much as I would like to, it'd be uncouth to try and uncover his identity."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm… I wonder if Santa would receive a thank-you letter if I put it in my stocking?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll give it a shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The surprise was a resounding success, leaving Yaeno Muteki in great spirits!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several days later, with Fuji Kiseki's assistance once again, I receive Yaeno Muteki's thank-you letter."
+        }
+    ]
+}

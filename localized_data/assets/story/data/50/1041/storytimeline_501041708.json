@@ -1,62 +1,64 @@
 {
-    "no_wrap": true,
+    "title": "レース勝利！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I did it! I've lived up to my reputation as an \nhonor student! Big・Baku・shin!!"
+            "text": "I did it! I didn't sully the title of model student! A superhuman force! MEGA BAKUSHIN!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, there's no need to be shy! Come, \nnow! Compliment me to your heart's \ncontent!",
+            "text": "No need to hold back! Go ahead and shower me with praise!",
             "choice_data_list": [
-                "Now that was an exemplary run!",
-                "Not quite yet! We've still got more to win!"
+                "That was some spectacular running!",
+                "A champion can go even faster!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehem! \nI know, right!?"
+            "text": "Heh! But of course!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Running an exemplary run is the very \nessence of being class president!",
+            "text": "Being able to run spectacularly is the foundation of being the class representative after all!",
             "choice_data_list": [
-                "I'm counting on you next time, too!"
+                "Do your best in the next one, too!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! Leave it to the legendary honor \nstudent, Sakura Bakushin O!"
+            "text": "Okay! Leave it to me! The legendary genius, Sakura Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's aim straight for the next victory, now! \nBakushiiiiiii―n!!!"
+            "text": "Let's aim for victory together! BAKUSHIIIN!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Huwhaa!? \nI, I won, and yet…!?"
+            "text": "Wowza! But you think I got what it takes to be a champion?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is… This is……!"
+            "text": "That's… that's—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You're so sure about our next victory!?",
+            "text": "Basically you're telling me how much you believe in my next victory, right? Right?!",
             "choice_data_list": [
-                "I meant you shouldn't get so cocky……"
+                "Well, it's more that there's still room for improvement."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuuuf! \nIf I don't live up to these expectations, I'll \nbe an embarrassment of an honors student!!"
+            "text": "Ahhh! As a genius, it would be an embarrassment if I couldn't live up to your expectations!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Even in the midst of fire or drowning in \nwater! \nI'll Bakushin for the sake of victory!!"
+            "text": "Come wind or rain! Or even the fires of hell! I will Bakushin to victory!"
         },
         {
-            "text": "The way this turned out was different from \nthe original intention, but it seems to \nhave resonated with Sakura Bakushin O \nnonetheless."
+            "name": "Monologue",
+            "text": "Even though I meant something different, it appears to have had a positive effect on Sakura Bakushin O."
         }
     ]
 }

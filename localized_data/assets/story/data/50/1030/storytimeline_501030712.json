@@ -1,0 +1,52 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've been waiting for Rice Shower for some time now. As the sun begins to set…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sorry! I was looking for something at the park.",
+            "choice_data_list": [
+                "Did you lose something?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um… I didn't lose anything, but another girl at the park did."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "She lost her hat and asked me to help her look for it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I told her it was bad luck for me to help, but…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "She kept crying, and there was no one else around.",
+            "choice_data_list": [
+                "Did you find it?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah… We found it pretty quickly, but then it got blown away by the wind, and it took some time to get it back."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But… she was so happy once I gave her the hat back… It made me really happy too."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Still, I know that's no excuse for missing training… I'm sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her she did the right thing, but also that she should contact me next time something like that happens."
+        }
+    ]
+}

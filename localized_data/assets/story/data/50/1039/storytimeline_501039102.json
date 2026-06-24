@@ -1,0 +1,281 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess has invited me to visit a shrine for New Year's."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…",
+            "choice_data_list": [
+                "You're praying very passionately.",
+                "You're praying very passionately."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Indeed. I've decided that this is the year I'll conduct myself in a way truly befitting a princess."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll be the princess-iest princess to ever princess!",
+            "choice_data_list": [
+                "Don't you think you're going a tad too far?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "N-no, not at all. What I aspire to become is my perfect self—true to both my princess ideals and my own nature!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I won't go back to the days of simply imitating princess behavior. And I won't be doing things like elegance training any longer either."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What I lacked was dignity as a runner. A selfish princess who just does whatever she wants is nothing but an embarrassment."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I want to be accepted for who I am. I need to adopt a mental attitude that everyone will respect."
+        },
+        {
+            "name": "Kawakami's Fan",
+            "text": "It's Kawakami Princess! I can't wait to see you run in the Kinko Sho!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-thank you very much. I appreciate your support!"
+        },
+        {
+            "name": "Kawakami's Fan",
+            "text": "You were so amazing in the Classics last year, too! You really stood out among your peers."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Really?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…No, that can't be the case. I still have so much to learn from everyone else."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oho… ohohoho… My apologies, but I should be off now…"
+        },
+        {
+            "name": "Monologue",
+            "text": "So saying, Kawakami Princess gently raises her skirt and lifts her right foot, and…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>KA-SPLAAAT!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She slips and falls over stupendously.",
+            "choice_data_list": [
+                "Are you all right?!",
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I-I'm terribly sorry! I have no injuries, so please do not concern yourself!"
+        },
+        {
+            "name": "Kawakami's Fan",
+            "text": "Are you really okay?! There's a first-aid room right nearby!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Y-yes, I'm really fine! A g-good day to you!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Kawakami, what are you doing?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll pass on the amazake… I still haven't mastered the proper etiquette required when drinking it."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, be careful, Trainer! There's a cat walking past. Let's pass through once it's gone."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…",
+            "choice_data_list": [
+                "You don't seem quite like yourself today."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-that's because I decided to change!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I realized I can't continue being the same person I was until now."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Gah! Is it that time already?! I won't make it to my flower arrangement class!",
+            "choice_data_list": [
+                "You're learning to do flower arrangements now?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes, I started last month. It's very graceful… And queen-like, wouldn't you agree?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud…</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, it's a soccer ball…"
+        },
+        {
+            "name": "Young Boy",
+            "text": "Sorry! Would you mind kicking the ball back to me?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh my, that's my specialty! You'd better back up a bit! I'm about to send this—"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Huh? Isn't that Kawakami Princess? She was on the TV recently…"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Oh, you're right. She made that princess declaration, right? Said she wouldn't do anything undignified…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Actually… I'll just carry the ball over to you. Please wait just a moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess gently picks up the soccer ball."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like she's holding herself back. As she begins walking over, I feel compelled to say…",
+            "choice_data_list": [
+                "I don't want you to force yourself.",
+                "I don't want you to force yourself.",
+                "Hey, kid. Let us join your soccer game!",
+                "Hey, kid. Let us join your soccer game!",
+                "Pass me the ball. This kick is going to be sick.",
+                "Pass me the ball. This kick is going to be sick."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like she's holding herself back. As she begins walking over, I feel compelled to say…",
+            "choice_data_list": [
+                "I don't want you to force yourself.",
+                "I don't want you to force yourself.",
+                "Hey, kid. Let us join your soccer game!",
+                "Hey, kid. Let us join your soccer game!",
+                "Pass me the ball. This kick is going to be sick.",
+                "Pass me the ball. This kick is going to be sick."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I gently take the ball from Kawakami Princess."
+        },
+        {
+            "name": "Young Boy",
+            "text": "Thanks a lot!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No, I… I'm not forcing anything…",
+            "choice_data_list": [
+                "You don't need to become the perfect princess all at once. Just take things one step at a time.",
+                "You don't need to become the perfect princess all at once. Just take things one step at a time."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "One step at a time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk along the riverbank with Kawakami Princess as the evening sun sets."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if this path we're on doesn't end up leading to her goal, all we have to do is pick another one when that time comes."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What? Trainer?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I take Kawakami Princess's hand and run over to the boys playing soccer."
+        },
+        {
+            "name": "Young Boy",
+            "text": "Wow! You two are pretty good at this!",
+            "choice_data_list": [
+                "I had a lot of fun!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe, yes, so did I…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It was… very enjoyable."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Huh? Trainer?",
+            "choice_data_list": [
+                "Check <i>this</i> out!",
+                "Check <i>this</i> out!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I take the ball from Kawakami Princess and pull my leg back as far as I can. Then…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swish!</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-Trainer?! You completely whiffed it…",
+            "choice_data_list": [
+                "Well, that was embarrassing…"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehehe… You packed way too much energy into it. Just what were you thinking?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at Kawakami Princess's face and see her usual authentic smile."
+        }
+    ]
+}

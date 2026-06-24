@@ -1,0 +1,206 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is Valentine's Day, and for some reason, Vodka is running toward me with blood gushing out of her nose!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Man, I'm dizzy… I'm comin' in, Trainer…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hurriedly wipes off the blood. Everything seems to be fine…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Whew. That was rough…",
+            "choice_data_list": [
+                "Did you get into a fight?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, right! Why would I do that on Valentine's Day?",
+            "choice_data_list": [
+                "Then did you eat too much chocolate?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I got a bunch, but I'm not gonna eat 'em. I appreciate the thought, but I'll give 'em to someone who wants them later.",
+            "choice_data_list": [
+                "What happened to your nose, then?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Well, the thing is…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Heheh… I did it! I made some homemade chocolate for Trainer…"
+        },
+        {
+            "name": "Vodka",
+            "text": "I can't wait to see the look on their face. Maybe Trainer'll be all like, \"These are incredible!\""
+        },
+        {
+            "name": "Vodka",
+            "text": "And I'll go, \"Gimme a break! They're not <i>that</i> good! Don't go soft on me now!\""
+        },
+        {
+            "name": "Vodka",
+            "text": "You don't have to thank me or nothin'… They're just to pay you back for everything… you've done for me… Urk!"
+        },
+        {
+            "name": "Vodka",
+            "text": "<i>Bwooosh!</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "A-actually, yeah, it was from a fight! It was your everyday fight to the death!",
+            "choice_data_list": [
+                "Vodka… You shouldn't be getting in fights.",
+                "Vodka… You shouldn't be getting in fights."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I know. I won't do it again! And don't worry, the other person's just fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Quite the \"fight to the death\"… I don't really get it, but I'm glad there aren't any serious injuries."
+        },
+        {
+            "name": "Vodka",
+            "text": "So, anyway, I made this chocolate for you."
+        },
+        {
+            "name": "Vodka",
+            "text": "Give it a try. It came out a little rough and on the dark side… Just like me, I guess!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I open the box to find a number of cute little dark chocolates inside."
+        },
+        {
+            "name": "Vodka",
+            "text": "Th-this isn't really my thing. Guess you could say I'm not that used to it…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hurry up and eat them already! You don't gotta stare at it. Or me…",
+            "choice_data_list": [
+                "Thank you, Vodka…"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I-is it a little hot in here, or is it just m—oh no!"
+        },
+        {
+            "name": "Vodka",
+            "text": "<i>Bwooosh!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A red stream bursts from her nose once more, plunging my office into chaos."
+        },
+        {
+            "name": "Monologue",
+            "text": "The chocolates were delicious, but talk about a bloody valentine…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The chocolates were delicious, but talk about a bloody valentine…"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way home…"
+        },
+        {
+            "name": "Vodka",
+            "text": "S-Sorry for makin' ya walk me home. Pretty lame, huh?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I mean, getting all anemic and lightheaded from a nosebleed? At least no one saw me, I guess…"
+        },
+        {
+            "name": "Fan Umamusume A",
+            "text": "Oh, it's Vodka! Vodkaaa!"
+        },
+        {
+            "name": "Fan Umamusume B",
+            "text": "I made you some chocolates, Vodka!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh? I'm surrounded!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having found their target, a bunch of Umamusume quickly surround Vodka."
+        },
+        {
+            "name": "Monologue",
+            "text": "Somehow, I have to get her through this crowd and safely back to the dorm!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What should I do, Trainer? Usually I'd have no trouble shakin' 'em, but in this condition…",
+            "choice_data_list": [
+                "Do you have any more chocolate?!",
+                "Do you have any more chocolate?!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "More chocolate? I have a couple of pieces that weren't nice enough to put in the box.",
+            "choice_data_list": [
+                "Throw them in the air!",
+                "Throw them in the air!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Throw them?! Oh, I get it! All right, here goes nothin'…"
+        },
+        {
+            "name": "Vodka",
+            "text": "It's raining chocolate! Get some while you can!"
+        },
+        {
+            "name": "Fan Umamusume A",
+            "text": "Huh? Ahhh! Chocolate from Vodka!"
+        },
+        {
+            "name": "Fan Umamusume B",
+            "text": "I want some! I want sooome! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone's attention turns to the chocolate, giving the two of us an opening."
+        },
+        {
+            "name": "Vodka",
+            "text": "N-nice one, Trainer! There's a path ahead!"
+        },
+        {
+            "name": "Vodka",
+            "text": "You really saved my bacon. Kinda reminds me what I saw in you back when—"
+        },
+        {
+            "name": "Vodka",
+            "text": "S-scratch that! Let's just hurry and get outta here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We break straight through the gap in the crowd! I feel like I've been able to repay Vodka for the chocolate, if only a little bit."
+        }
+    ]
+}

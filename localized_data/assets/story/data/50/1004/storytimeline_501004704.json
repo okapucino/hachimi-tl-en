@@ -1,0 +1,282 @@
+{
+    "title": "お任せハンドル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from my outing with Maruzensky…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh… Why's there a rent-a-car place here in the middle of nowhere?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She stares at the car rental and its array of vehicles."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I have Tata, so I never really noticed these…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Car rentals, huh…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Bingo!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer! How about you rent a car and try driving around a bit?",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer! How about you rent a car and try driving around a bit?",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I've been thinking that we should take a drive with <i>you</i> at the wheel! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I've been thinking that we should take a drive with <i>you</i> at the wheel! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky's suggestion catches me by surprise. I'd always assumed that she wanted to be the one in control.",
+            "choice_data_list": [
+                "You don't mind if I'm the one driving?",
+                "You don't mind if I'm the one driving?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Abisitively posolutely not!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I obviously love driving, but riding in the passenger seat can be just as fun!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Besides, I first fell in love with taking drives when my father drove us on family outings.",
+            "choice_data_list": [
+                "Did you also get your love of speed from your father?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Bingo! I guess the apple doesn't fall far from the tree! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I loved driving with my dad. It was like an amusement park ride, but even more fun!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I even liked the traffic jams. They gave us a chance to chat, you know?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "When you're driving with someone who's important to you, you're happy just to be there with them!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So that's why I'd like to let you take the wheel. What do you think?",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So that's why I'd like to let you take the wheel. What do you think?",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hooray! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can't wait to see how you drive!",
+            "choice_data_list": [
+                "(I'm gonna floor it!)",
+                "(I should take slow, congested roads.)",
+                "(I'll take it easy and drive safe.)"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VRROOOOOM!</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Woo-hoo!</i> Now that's <i>my</i> kind of speed!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Keep it in the red!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew… That felt so good! I loved hearing the wind whistle as we sped forward!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's my partner! You drove like greased lightning!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "High five!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Woooo! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Driving just the way Maruzensky likes it seems to have made her very happy."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Vrrrrmm…</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, we're stuck in traffic. This is going to take a while.",
+            "choice_data_list": [
+                "That means we have plenty of time to talk!",
+                "That means we have plenty of time to talk!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah-ha! ♪ You were listening when I told you I like traffic jams too!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! Well played! Let's rap for a while, then!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow… It's totally dark already."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I'm so happy we got to goof around and talk so much. I had a great time!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And you look adorable when you're concentrating on the road… Heehee! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And you look adorable when you're concentrating on the road… Heehee! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But it's nice to look you straight in the eyes too…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But it's nice to look you straight in the eyes too…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Maruzensky and I gaze out at the sea and continue chatting for a while longer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You got it, Trainer! ♪ I'm with you all the way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Vrrrrmm…</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh… I didn't realize how laid back you were. Your driving style is the complete opposite of mine."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But… this is still kind of… relaxing…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Zzz…</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Hm? Oh, whoopsie! I must've fallen asleep."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Your driving was so smooth and gentle—it put me right at ease.",
+            "choice_data_list": [
+                "I'm glad you found it relaxing."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Your driving was so smooth and gentle—it put me right at ease.",
+            "choice_data_list": [
+                "I'm glad you found it relaxing."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, it was very soothing. It reminded me of when I was a child."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Maybe it isn't so bad to go slow once in a while."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…But leave the return trip to me!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll get you home at breakneck speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Whether slow and relaxing—or dizzyingly fast—car rides with Maruzensky are always a blast."
+        }
+    ]
+}

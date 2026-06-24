@@ -1,0 +1,190 @@
+{
+    "title": "江戸っ子の華",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm walking along the racetrack on the academy grounds…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Backin' out would bring disgrace on the good folk of Edo! I say we go all in!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Very well. To uphold the honor of the Kongo Yaegaki style, I shall accept your challenge."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, haha… Inari's at it again."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Her fights are famous around the academy after all! Look, she's already gathered an audience!",
+            "choice_data_list": [
+                "Fights?!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Ah, don't worry. It isn't a literal fight or anything."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Inari is always going around challenging people like that. Even I've had a run-in with her!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Same. One minute, I hear her calling my name, and the next, I'm getting challenged to a contest."
+        },
+        {
+            "name": "Student Onlookers",
+            "text": "Whoa! Both Inari and City completed their sets of bench presses!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Phew… I guess we could call it a draw then?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Don't be a buzzkill! That was just the warm-up! Now, how 'bout a deadlift battle?"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Fine by me. Seeing as it's come to this, I'm going no-holds-barred from here on out."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, hey, Chiyono O! You do a nice doggy paddle! Could even consider it top in the country!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you think so? Am I doing that well? Hehe."
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, just watchin' ya has got me all fired up! Howza head-to-head a doggy paddle battle sound? Winner treats the loser to some grub!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, it's like that saying! \"Sometimes the mouse runs right into the cat's paw!\" I'm not going to hold back, you know!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…She kind of goes around challenging everyone like that.",
+            "choice_data_list": [
+                "Isn't that a bit problematic?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Not at all. Well, you can just see for yourself."
+        },
+        {
+            "name": "Inari One",
+            "text": "In that case, whaddaya say to a 2,000-meter face-off today?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I couldn't have asked for a better proposition! Let us do battle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the two of them dash off together."
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, good stuff! Not bad at all, Yaeno!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I could say the same of you. Our duel demanded my complete focus. Truly, a valuable lesson."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You have my gratitude. Osu!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Huh? Whazza matter? Why ya bein' so formal all of a sudden?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Lately, I'd been in a bit of a rut after hitting a wall in my training. Simply standing on the track would cause my unease to grow stronger…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But then you called out to me with a passionate challenge and helped me rediscover the joy of running!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa now, quit it with the flattery. I only called out to ya 'cause I wanted to battle!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I was in a similar situation when Inari challenged me too. I was going through a rough patch and was feeling quite worried."
+        },
+        {
+            "name": "Gold City",
+            "text": "That's so Inari. It's like her own way of looking out for the rest of us."
+        },
+        {
+            "name": "Inari One",
+            "text": "Whazzat?! Talkin' 'bout me, are ya? No wonder my nose was itchin' like crazy!"
+        },
+        {
+            "name": "Inari One",
+            "text": "How about runnin' your <i>legs</i> instead of your mouth? 'Gainst yours truly, the great Inari!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Inari's straightforward energy serves as a source of support for those around her. Gold City and Chiyono O break out into smiles at being \"called out\" by their peer.",
+            "choice_data_list": [
+                "Give this \"fight\" your all!",
+                "Give this \"fight\" your all!",
+                "For some reason, I feel like getting out there and running too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Inari's straightforward energy serves as a source of support for those around her. Gold City and Chiyono O break out into smiles at being \"called out\" by their peer.",
+            "choice_data_list": [
+                "Give this \"fight\" your all!",
+                "Give this \"fight\" your all!",
+                "For some reason, I feel like getting out there and running too."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "All righty then! Let's do this, City, Chiyono O! The rest of ya, keep your eyes peeled!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Let's gooooo! Full speed ahead!"
+        },
+        {
+            "name": "The Three",
+            "text": "Hrrraaahhhhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the trio engage in an electrifying \"fight\" that gets everyone's hearts pumping!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, then let's hit the track together! City, Chiyono O, and you too, Trainer!"
+        },
+        {
+            "name": "Inari One",
+            "text": "And while we're at it, let's open this battle up to all comers! Form a line if you're ready to rumble!"
+        },
+        {
+            "name": "Inari One",
+            "text": "This is Tracen Academy's first-ever epic fight fest! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like that, the academy's track becomes one big festival frenzy."
+        }
+    ]
+}

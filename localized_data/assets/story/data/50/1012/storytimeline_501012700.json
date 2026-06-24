@@ -1,0 +1,30 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, Teach. Hope you had… a good rest… <i>Yawn…</i>",
+            "choice_data_list": [
+                "What's wrong? You look exhausted…",
+                "What's wrong? You look exhausted…"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, about that… I got a letter from a former dorm resident."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It was pretty long, and I went a little overboard while writing a reply."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I ended up writing twice as much as she had, and by the time I was done, the sun was already up. <i>Yawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon apparently didn't get much rest because of how long it took to write her reply…"
+        }
+    ]
+}

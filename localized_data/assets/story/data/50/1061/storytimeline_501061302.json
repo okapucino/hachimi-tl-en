@@ -1,0 +1,338 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the New Year's holiday, but instead of resting, King Halo and I are training as usual."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm? I wonder what that commotion is."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's lottery! This year's grand-prize is a coupon for a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You two over there! Care to try your luck?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ooh, those prizes don't sound half bad."
+        },
+        {
+            "name": "King Halo",
+            "text": "Especially the hot spring coupon. I bet it's for a first-rate relaxation facility.",
+            "choice_data_list": [
+                "Well, aren't you the expert?",
+                "Well, aren't you the expert?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Did you forget who you're talking to? I'm a first-rate Umamusume!"
+        },
+        {
+            "name": "King Halo",
+            "text": "It's only natural I should know a thing or two about it!"
+        },
+        {
+            "name": "King Halo",
+            "text": "So, then… Trainer…"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm giving you the right to win a special prize on my behalf! And I expect you to put your heart in it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel her gaze fixed expectantly on me as I make a purchase to get a raffle ticket."
+        },
+        {
+            "name": "Monologue",
+            "text": "It might be on her behalf, but I'm still the one who's paying."
+        },
+        {
+            "name": "King Halo",
+            "text": "You only get one chance, Trainer! Crank that spinner with all your strength and win me the special prize!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo's trademark laughter echoes behind me as I turn the handle of the raffle spinner until a ball drops out."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "That's amazing! Even you can do a good job when you put your mind to it!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Well then, I'll take that hot spring coupon, thank you very much! ♪ Excellent work, Trainer.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo snatches the hot spring coupon and tucks it in her pocket."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now I have one more thing to look forward to!",
+            "choice_data_list": [
+                "My hot spring coupon…",
+                "My hot spring coupon…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "You mean <i>our</i> hot spring coupon.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Right now, we're both far too busy."
+        },
+        {
+            "name": "King Halo",
+            "text": "Even if we go somewhere and relax our bodies right now, our minds won't be fully at ease."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's why I'm going to invite you only after everything is finished and settled."
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess she <i>is</i> planning to invite me on the hot spring trip eventually.",
+            "choice_data_list": [
+                "You should've told me earlier then."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh? Is there a problem?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm the one holding the coupon, you know. You might want to watch that attitude."
+        },
+        {
+            "name": "King Halo",
+            "text": "For instance, the first words coming out of your mouth ought to be \"Thank you!\" That's not unreasonable, right? Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A feeling of dread begins to creep in. Perhaps I've given her too much power."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless, I'm looking forward to spending a full day just unwinding and relaxing."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm… Well, first place isn't bad either."
+        },
+        {
+            "name": "King Halo",
+            "text": "That deluxe carrot hamburger steak was made by the chef of a five-star hotel. The taste is also first-rate.",
+            "choice_data_list": [
+                "You're really well informed.",
+                "You're really well informed."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm sure I've told you this before, but I'm a first-rate Umamusume!"
+        },
+        {
+            "name": "King Halo",
+            "text": "It's only natural I should know a thing or two about it!",
+            "choice_data_list": [
+                "So you've tried it before?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes. I had it served fresh at a their restaurant."
+        },
+        {
+            "name": "King Halo",
+            "text": "It was scrumptious. The way the tomato sauce and juices ooze out when you bite down, along with that rich cheese…"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Gulp.</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, let's go back to the academy at once! I'm giving you the right to prepare my dinner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks ready to wolf down an entire restaurant. We return to the academy and I prepare the hamburger steak immediately."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thump!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "What should I… even say?",
+            "choice_data_list": [
+                "It's certainly a lot of carrots.",
+                "It's certainly a lot of carrots."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Y-yeah…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the clerk continues to pile carrot after carrot on top of the already monstrous heap, King Halo grows anxious."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "There's still more! I wasn't lying about the mountain part!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Eep! You can't be serious!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thump!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "They keep adding more…",
+            "choice_data_list": [
+                "We'll have to make a few trips to bring them all back."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Y-yeah… Let's do that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Several trips later, we finally manage to bring the <i>bushel</i> of carrots back to the academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "When we finally finish eating our giant supply, I give King Halo a high five of relief."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "One carrot… One. Single. Carrot? Where's the luxurious prize I asked you for?"
+        },
+        {
+            "name": "King Halo",
+            "text": "This is only good for a post-workout juice!",
+            "choice_data_list": [
+                "(Well, at least she knows how to prepare it.)",
+                "(Well, at least she knows how to prepare it.)"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, make yourself useful and put this in the blender for me.",
+            "choice_data_list": [
+                "(<i>I</i> have to make it?!)",
+                "(<i>I</i> have to make it?!)"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> Let's hurry back to the academy. I expect some good juice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Upon our return, I blend up the carrot and serve her some freshly made carrot juice."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…",
+            "choice_data_list": [
+                "(Why are her eyes closed?)"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, don't worry. I'll simply pretend I didn't see anything."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, let's try again. I'll keep my eyes closed. Off you go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "However, we could only try once with our single lottery ticket. I manage to pacify her on the way back to the academy."
+        }
+    ]
+}

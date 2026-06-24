@@ -1,0 +1,141 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet asks to meet me on the morning of Valentine's Day."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah, right on time. Then, let's get going."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Time to go buy our training supplies!",
+            "choice_data_list": [
+                "Training supplies?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Obviously? We just planned out my goals, didn't we?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, there are a lot of people out and about today. Look at that line.",
+            "choice_data_list": [
+                "Well, it is Valentine's Day."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah, I see. So they're all lined up to buy chocola—"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I-it's nothing! Let's just get this over with already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I accompany Daiwa Scarlet as she shops."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Phew… Look how much stuff we bought. I didn't realize it had gotten so late."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "As thanks, I'll buy you a drink. You stay here.",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm sure. You did tag along with me all day, after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet walks over to the register."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Plunk.</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Here's some hot cocoa. Something sweet—you know, as a pick-me-up."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It probably counts as chocolate too, don't you think?",
+            "choice_data_list": [
+                "For Valentine's?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Hmph. You're not going to complain that it's not the real thing, are you?",
+            "choice_data_list": [
+                "No, I appreciate it.",
+                "No, I appreciate it."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Good."
+        },
+        {
+            "name": "Monologue",
+            "text": "Somehow, today's hot chocolate tastes sweeter than usual."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Here's some coffee. And…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…",
+            "choice_data_list": [
+                "Something up?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Here."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The coffee looked a little bitter, so…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I got some chocolate to sweeten it up."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You could melt it in your coffee. Or just eat it like normal, I guess.",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You're welcome."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, my \"bittersweet\" Valentine's Day with Daiwa Scarlet comes to a close."
+        }
+    ]
+}

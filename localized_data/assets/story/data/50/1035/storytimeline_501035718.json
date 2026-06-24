@@ -1,0 +1,30 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After her day off, I greet Winning Ticket in the central plaza."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, Trainer! Good morning! Thanks for the day off yesterday!",
+            "choice_data_list": [
+                "Did you rest well?",
+                "Did you rest well?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah, all good! My body and spirit are at <i>full</i> charge!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm ready to work hard and train, train, train!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Ticket was able to get both physically and mentally refreshed."
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "title": "Don't Overdo It!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe injures herself during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I-I'm sorry… I was being careless… and now I've hurt myself…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "What was that? I should keep on training?",
+            "choice_data_list": [
+                "I didn't say that.",
+                "I didn't say that."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No… but someone else did. Someone who seems very… passionate…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like someone from the beyond is communicating with Manhattan Cafe."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I need to \"power through\"? It's true, I'll need a great deal more passion if I'm going to make this work…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "With enough passion… Maybe I could make a miracle happen…",
+            "choice_data_list": [
+                "I can't let you run while you're injured.",
+                "Let's power through!",
+                "Let's power through!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "With enough passion… Maybe I could make a miracle happen…",
+            "choice_data_list": [
+                "I can't let you run while you're injured.",
+                "Let's power through!",
+                "Let's power through!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But… if I power through, I could…",
+            "choice_data_list": [
+                "You won't be running at all if your injury gets worse.",
+                "You won't be running at all if your injury gets worse."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…!",
+            "choice_data_list": [
+                "Your health comes first!",
+                "Your health comes first!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes, you're right… I'll pass on the message…",
+            "choice_data_list": [
+                "What did they say?",
+                "What did they say?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "They're… moved… and sorry for being mistaken…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It makes me happy to hear you say that. I promise I'll rest up…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I should power through… Okay…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I'll show you how much power I—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ouch!",
+            "choice_data_list": [
+                "Cafe?!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ugh… It looks like I don't have enough passion to make it happen…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Knowing that I can't let her strain her injury any further, I have Manhattan Cafe take some time off to fully recover."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…What do you have in mind?",
+            "choice_data_list": [
+                "Well, what are you feeling up for?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I think… I could do some studying, or stretching…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Would… those still count as \"powering through\"?",
+            "choice_data_list": [
+                "They would."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Very efficient. Doing what training I can… while still letting myself recover…"
+        },
+        {
+            "name": "???",
+            "text": "…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…The passionate one likes your approach."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Okay. I'll power through!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While putting her all into a manageable training regimen, Manhattan Cafe heals up wonderfully."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's finally time. We're moments from Silence Suzuka's debut race.",
+            "color_text_info_list": [
+                "debut"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Inhale… exhale…</i>",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No. I'm really excited."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "For this race, and for what comes after.",
+            "choice_data_list": [
+                "Me too.",
+                "Me too."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Really?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Well, I guess it's time."
+        }
+    ]
+}

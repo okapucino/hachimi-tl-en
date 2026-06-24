@@ -1,0 +1,44 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm… not number one?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't believe I fell short. I'll never live this down…",
+            "choice_data_list": [
+                "You'll get it next time!",
+                "Once we get back, it's training time!",
+                "Once we get back, it's training time!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't believe I fell short. I'll never live this down…",
+            "choice_data_list": [
+                "You'll get it next time!",
+                "Once we get back, it's training time!",
+                "Once we get back, it's training time!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't just keep telling myself, \"There's always next time.\" I want to be number one in <i>every</i> race!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I won't forget the bitterness of this defeat!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, obviously! That was my plan all along. I'm gonna take this frustration and pour it into my running!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "C'mon, let's go already! We can sprint back!"
+        }
+    ]
+}

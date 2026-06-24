@@ -1,0 +1,305 @@
+{
+    "title": "Before the Ligne Droite",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tracen Academy is throwing a dance party at the end of March called the Ligne Droite."
+        },
+        {
+            "name": "Monologue",
+            "text": "With the gymnasium decorated and all the students running about, I find myself swept up in the festive mood once again."
+        },
+        {
+            "name": "Monologue",
+            "text": "I discover Seiun Sky taking a nap in the back of the seating area."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Zzz…</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "The lighting over there is now first-rate indeed! All that's left is to decorate the center and around the entrance."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Blooow… Blooow…</i> Pah! …Haha, blowing up all these balloons is pretty tiring!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With everyone as busy as they are, Seiun Sky should be awake to help them, so I gently shake her shoulder…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wah!",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe… You scared me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You'll be punished for surprising me like that. With that decided, it's back to dreamland…",
+            "choice_data_list": [
+                "You're not worried about upsetting the others?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nooo need to worry. I've already been given a task.",
+            "choice_data_list": [
+                "…Really?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Am I that suspicious? I'm telling the truth."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "King caught me napping earlier and said she had a job \"perfectly fit\" for me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "She wants me to dance on the dance floor and check that all the lighting effects work and that everything is safe, yada yada."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It would've been more work to refuse, so I figured I'd just obediently wait here until it's my turn.",
+            "choice_data_list": [
+                "Oh, I see."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Anyway… check me out. What do you think? These are my best duds. Gramps was super excited to buy 'em for me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They just scream \"Seiun Sky,\" don't they?",
+            "choice_data_list": [
+                "They're very \"you.\"",
+                "They're very \"you.\"",
+                "You look quite refined.",
+                "You look quite refined."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They just scream \"Seiun Sky,\" don't they?",
+            "choice_data_list": [
+                "They're very \"you.\"",
+                "They're very \"you.\"",
+                "You look quite refined.",
+                "You look quite refined."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Hmph. What am I supposed to get out of an answer like that?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Trainer, ya gotta say something like—"
+        },
+        {
+            "name": "Special Week",
+            "text": "So coool!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Case in point."
+        },
+        {
+            "name": "Special Week",
+            "text": "You look so good! That's a bit sharper than your usual, fluffy self. It's so stylish!",
+            "choice_data_list": [
+                "I'd have to agree.",
+                "I'd have to agree."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Right?! The shorts, I think, are really cute. That outfit might be perfect for you."
+        },
+        {
+            "name": "Special Week",
+            "text": "Even your shoelaces and ribbon go together! And with the ribbon being on the longer side, it's super cute.",
+            "choice_data_list": [
+                "Yeah, it's pretty cute.",
+                "Yeah, it's pretty cute."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "And that ear bonnet! It's part of the outfit, right? Wowie, you look great!",
+            "choice_data_list": [
+                "Just stunning.",
+                "Just stunning."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Time out."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? What?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ahem. I need some fresh air. Yep, that's what I need."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Also, Spe? You've been stressing about finding a new dress, right?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?! How'd you know?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Cause you were paying such close attention to my ribbon and ear bonnet and stuff."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe… You hit the nail on the head. It's so hard to choose anything…"
+        },
+        {
+            "name": "Special Week",
+            "text": "I was about to give up on buying a dress this year and just rent something."
+        },
+        {
+            "name": "Special Week",
+            "text": "But I kinda wanna find something that would suit me as well as that outfit suits you…"
+        },
+        {
+            "name": "Special Week",
+            "text": "I just have to keep looking! Thanks, Sei!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Sigh…</i> There's no one like Spe, is there? She had you lying through your teeth.",
+            "choice_data_list": [
+                "I wasn't lying."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Yep, time for some good ol' fresh air."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Refined?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe… Guess I do look refined! You know I can change like a chameleon."
+        },
+        {
+            "name": "King Halo",
+            "text": "Everyone who's changed outfits, proceed to the dance hall for the lighting check! In pairs, please!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? In pairs?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph, I already told you this morning. You'll be dancing with a partner for the safety check!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Geez, what should I do? It doesn't look like there's anyone else without a partner…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And I'm just asking for trouble later if I decide to dip out."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh… I got it."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just one song, pleeease?",
+            "choice_data_list": [
+                "Me?!",
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It'll be fiiine—don't sweat it. All you gotta do is move your feet in the direction I pull you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The important part is wrapping this up quick so I can get back to napping!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She grabs my right hand and lays her other hand over my left shoulder as an energetic song begins to play on the dance floor."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Right, left, now spin around, take a step back…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Look at you getting the hang of it! You're really good at this, Trainer."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Huh? Did you just step on my tail? Pull yourself together, hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky leads me this way and that on the dance floor… The song ends before I even know it."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All right, we're done."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Um, excuse me! That dance you just did, what's it called?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I could see the basics in it, but you added a creative flair too! And you two were totally in sync. I want to try it myself!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You don't say. Well, let's see… It's called, um… the Sei Special?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Knowing what I do about Sei, I would wager she simply made that dance up as she went."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wha?! She made it up?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just imagine the two of you are clouds, gently floating above the wind."
+        },
+        {
+            "name": "King Halo",
+            "text": "You <i>would</i> be one to conjure up that imagery… And it's no surprise your trainer would simply go along with it."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh. Well, Trainer is pretty smitten with me, you know?"
+        }
+    ]
+}

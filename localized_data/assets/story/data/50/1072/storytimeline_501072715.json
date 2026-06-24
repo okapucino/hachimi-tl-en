@@ -1,0 +1,86 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After completing a training session, Yaeno Muteki and I notice Bamboo Memory running by."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah, Bamboo. You seem to be in a hurry. Are you going somewhere?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Nope, I'm on patrol! There have been reports lately of a student breaking curfew to run around the school grounds."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "According to eyewitnesses, the culprit gives off a bright white glow. That sounds pretty unusual, so it shouldn't take me long to track them down!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "The problem is that she's incredibly fast! Apparently, as soon as someone spots her, she vanishes in the blink of an eye!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…Are you sure you're dealing with a student, and not some manner of apparition?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "An apparition? Actually, you might be onto something there…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But if we <i>are</i> dealing with an apparition, that's all the more reason to get this case closed! We'll have a school crisis on our hands if everyone's too scared to attend classes!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Agreed. There are many young and vulnerable students here. If I don't look out for them, who will?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer, I'm going to accompany Bamboo in her pursuit of this spirit."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not quite sure where this is all going, but at least Yaeno Muteki seems eager to keep running.",
+            "choice_data_list": [
+                "Find out who or what the culprit really is!",
+                "If you wait around here, they should come running past at some point, right?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Understood. I will not fail!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Time to recommence my patrol! I don't care if it's a ghost or who knows what—if something's causing a disruption at school, it's getting no mercy from me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The time Yaeno Muteki spends running around the school grounds with Bamboo Memory ends up doubling as a good training session for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Incidentally, I hear that they failed to locate any kind of apparition, instead finding only an Umamusume named Agnes Tachyon."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Remarkable insight. Indeed, the culprit has been circling the school buildings."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Okay, let's set up a checkpoint right here and lie in wait!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll stay with you. Should the spirit become unruly, I will step in."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, the specter is a no-show, and only an Umamusume named Agnes Tachyon makes an appearance. At the very least, though, we avoid any overexertion."
+        }
+    ]
+}

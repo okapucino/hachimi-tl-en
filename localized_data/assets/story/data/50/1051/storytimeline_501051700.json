@@ -1,0 +1,30 @@
+{
+    "title": "Sleep Deprived",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Following her day off, Nishino Flower and I are having a meeting together."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Ah! S-sorry! Did I just nod off?!",
+            "choice_data_list": [
+                "That's not like you.",
+                "That's not like you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… I really am sorry… I got woken up by a bad dream last night and couldn't get back to sleep…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Nishino Flower didn't get much rest at all on account of her nightmare."
+        }
+    ]
+}

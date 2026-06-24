@@ -1,0 +1,33 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "Good morning, Trainer! And with that…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Time for bed! Nighty-night!",
+            "choice_data_list": [
+                "You're going to bed already?!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ngh, I'm so sleeeepy. I was studying with Rice for the test during my break."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I memorized a whole three pages! But now my brain hurts."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Yawn…</i> Nighty-night… <i>Snore…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Haru Urara needs a proper rest."
+        }
+    ]
+}

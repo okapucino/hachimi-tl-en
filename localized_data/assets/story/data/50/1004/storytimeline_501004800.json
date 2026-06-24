@@ -1,0 +1,267 @@
+{
+    "title": "憧れの『マルゼンさん』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Phew! The tropical south is steaming hot! Time to hit the waves and―"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh my. Chiyo, what's wrong?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eep! Sorry, I just, um, you know… I-I didn't realize how fancy the place would be!"
+        },
+        {
+            "text": "So here we are at an upscale inn, complete with a private beach. As for <i>how</i> we got here… It all started just yesterday."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You wouldn't believe how good the food is at my relatives' inn down south!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, I wish I could try some… I'd love to know what your favorite dishes are!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Really? How about we swing by then?"
+        },
+        {
+            "text": "And just like that, I end up chaperoning a luxury getaway trip."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The gate leading in is huge, and the rooms are so spacious and secluded… There's even an open-air bath, a-and everything is so serene and just—I can't believe my eyes!"
+        },
+        {
+            "text": "<i>Rumble…</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eek! S-sorry about that! I completely forgot about eating breakfast…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha, that's no problem at all. Can't run with no gas in the tank. Let's go for some lunch!"
+        },
+        {
+            "name": "Waiter",
+            "text": "This is a local specialty, steamed in our island's traditional style. Please enjoy."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thank you very much. All righty, let's dig in before the food gets cold! ♪"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "T-time to dig in! Wow, I've never seen Japanese cuisine like this before! Um… Where do I even start?"
+        },
+        {
+            "text": "As Sakura Chiyono O hesitates on what to eat, Maruzensky casually removes a lid from one of the bowls."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, I see. I should probably start with the soup… Huh? The lid won't come off."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, that? If you hold the bowl down with your left hand and give the lid a twist, it should pop right off."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "R-right! Thank you!"
+        },
+        {
+            "text": "As we continue to eat our lunch…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mmm, so rich and fatty! This fish really is the bomb!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um… Maruzen? Wh-what do I… do with the fish bones?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You're supposed to use the kaishi paper. It's like a napkin—you put the bones inside to keep them out of sight."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I see! So that's what this paper is for…"
+        },
+        {
+            "text": "Maruzensky maintains impeccable manners as she finishes her meal, leaving her plates spotless."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, my aunt should be arriving soon. I'll dip out for a second to say hi!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, okay! See you in a bit!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen's plates sure are clean. Meanwhile, mine are a complete mess…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "It's nothing to worry yourself about."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I know, but… it's definitely a reminder that Maruzen and I live in completely different worlds."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Everything's so fancy, but she's completely at home. She's so polite, and elegant, and…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eep, what am I saying? Please don't tell her any of that!"
+        },
+        {
+            "text": "With how much Chiyono O looks up to Maruzensky, it's making her feel out of place around her. I wonder if there's anything I can do…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Chiyo seems down. Did something happen?",
+            "choice_data_list": [
+                "(How did she know?!)"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer, do you know anything?",
+            "choice_data_list": [
+                "I think you're just imagining things!",
+                "She's a little worried about something…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer, do you know anything?",
+            "choice_data_list": [
+                "I think you're just imagining things!",
+                "She's a little worried about something…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, really? Hm, maybe I'm just overthinking it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Um, sorry for keeping you two waiting. I'm done changing!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Welcome back, Chiyo! That reminds me, there's something I wanted to tell you!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "For tonight's dessert, they're making vanilla ice cream blended with mixed berries."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And trust me—it gives the academy's steamed carrot buns a run for their money! It's the real bee's knees!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're saying this dessert… is on par with the school's?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It is! Like, I'd be happy with just dinner, but knowing there'll be an extra special treat with it has me all revved up!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's why we need to get running and work up a big appetite!"
+        },
+        {
+            "text": "Sakura Chiyono O blinks in disbelief before breaking into laughter."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… Ahahaha!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, did I say something funny?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "No, it's nothing… I agree. We've gotta make room for dessert! Hehe. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe. ♪ Let's get to work! Some sweet waves are starting to roll in!"
+        },
+        {
+            "text": "It seems Maruzensky's frank, casual language has worked away Sakura Chiyono O's worries."
+        },
+        {
+            "text": "The two run off towards the blue sea, all smiles."
+        },
+        {
+            "text": "I explain to Maruzensky how Sakura Chiyono O had been comparing the two of them and ended up a bit self-conscious about their differences."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You don't say… So that's how she's been feeling, huh?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know just the thing… Let me switch up our schedule real quick!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um, is this supposed to be a… ninety-minute all-you-can-eat dessert bar?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's right. Sorry for being so last minute. I heard they had limited-time cherry blossom-themed sweets, so I really wanted to check it out with you!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Lookie here! There's petals floating inside the jelly!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whoa, you're right! How cute!"
+        },
+        {
+            "text": "The cute but sophisticated sweets on display seem to be making Sakura Chiyono O's heart flutter."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow! Cherry blossom mont blancs, cherry blossom custard pudding, cherry blossom lattes… It's all so lovely!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha! Oh Chiyo, you should see the smile on your face right now!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe, I can't help it when everything's so delicious! It's like… \"Dessert is an Umamusume's best friend!\""
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I really want to try this one with you guys! I'll go grab some!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe. ♪ Looks like she's back to her good old self. What a relief."
+        },
+        {
+            "text": "Maruzensky gently smiles as she watches Sakura skip over to the cakes."
+        }
+    ]
+}

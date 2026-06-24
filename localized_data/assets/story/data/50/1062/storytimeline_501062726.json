@@ -1,0 +1,46 @@
+{
+    "title": "Claw Machine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Matikanetannhauser…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah! Look, Trainer! They've got Cuties!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aren't they adorable? Just seeing them makes me want one!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, but I already decided that I want to get a stuffed spider today, so I'll just have to be patient…",
+            "choice_data_list": [
+                "Why don't I get one for you?",
+                "Why don't I get one for you?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohh! Oh, oh, oh! Are you sure?!",
+            "choice_data_list": [
+                "Leave it to me!",
+                "Leave it to me!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, thank you! Good luck, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

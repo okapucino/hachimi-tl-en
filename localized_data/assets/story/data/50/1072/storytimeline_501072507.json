@@ -1,0 +1,101 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A fan letter arrives for Yaeno Muteki. I give it to her when I see her at the academy."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Fan letters encapsulate the devotion of those who support me. They must be read with the utmost care and respect."
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking solemn, Yaeno Muteki opens the letter and begins reading."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh!",
+            "choice_data_list": [
+                "Wh-what's the matter?!",
+                "Wh-what's the matter?!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Nooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki suddenly lets out a shout… and then runs from the room!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I chase her to the rooftop, where I find her furiously striking the air with her fists."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Haaa! Seeei! Kyaaa!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Pant… Pant…</i>",
+            "choice_data_list": [
+                "The letter didn't say anything mean, did it?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Not at all! The exact opposite!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The sender is a student of the Kongo Yaegaki style, just as I am."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The reason I chose the path of racing was because my master instructed me to do so. But, as you'd expect, not all of my fellow students agreed."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Why are you doing this?! You said we were gonna dedicate ourselves to martial arts <i>together!</i> You're a big liar, Yae!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "There's no denying that I broke the promise I made to her. I've dedicated myself to a routine of stringent training to ensure I don't forget that."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But in her letter, she said…"
+        },
+        {
+            "name": "Letter from Classmate",
+            "text": "I was so angry with you for the longest time. I thought you'd just run away from martial arts to do your own thing, leaving me behind."
+        },
+        {
+            "name": "Letter from Classmate",
+            "text": "But when I saw you running on TV, I realized something. You're still walking your path with honor."
+        },
+        {
+            "name": "Letter from Classmate",
+            "text": "As Adept once said, \"It is not enough to simply accept the comings and goings of others. You must greet them with warmth and see them off with kindness.\""
+        },
+        {
+            "name": "Letter from Classmate",
+            "text": "I'm sorry for saying such awful things to you before. I know it might be too late, but I want you to have a warm goodbye from me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I am… struggling to find the words to express my feelings."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "So I shall let my emotions burst forth from my fists, ride the winds, race through the heavens, and find their way to you, my friend!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having received a letter from an old friend, Yaeno Muteki renews her vow to push ahead down the path of racing."
+        }
+    ]
+}

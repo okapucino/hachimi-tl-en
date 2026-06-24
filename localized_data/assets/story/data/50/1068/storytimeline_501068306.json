@@ -1,0 +1,305 @@
+{
+    "title": "菊花賞の後に・喝采！三冠祭り",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "They're coming into the final turn! Just listen to the crowd roar!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I can hear them… I hear them loud and clear! They want this race to ramp up even more!)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I get it now. Races are just like festivals! And if that's the case…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I'll have to take the lead and be the Umamusume setting the tempo for everyone! This is my festival! All right…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll become the Triple Crown champion! Raaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yeaaaaah!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Whoa, check out Kitasan Black! She was a complete no-name when she first started out, but look at her now."
+        },
+        {
+            "name": "Spectator B",
+            "text": "That running of hers always pulls at the heartstrings! And now, she's even gotten the Triple Crown! She's the real deal…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not even her idol, Tokai Teio, managed to get the Triple Crown. Her spirited performance seems to have convinced even the most stubborn of fans to notice her."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer! Nature! Thank you so much!",
+            "choice_data_list": [
+                "Congrats on winning the Triple Crown, Kitasan!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I couldn't have done it without the two of you!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So, what did you think? Were you able to run in a way that didn't give people the chance to notice that the star of the race was missing?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um, well… I'm not sure what people noticed or thought, but…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I was able to run it the way <i>I</i> wanted to! It felt like I was throwing my very own festival today! A Kitasan festival!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "A Kitasan festival!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Then I suppose it would be a \"Nice Nature festival\" in my case…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, no, no, no. I don't think I can do that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I take back what I said. Kitasan really is a star racer after all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Her ability to recover after a setback is far too incredible. Goodness, there's no way I can compare to her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature shrugs helplessly, but her smile doesn't fade a bit."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Kita. I watched your race."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aaah! Teio!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio comes by to give her well wishes too."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thank you so much! It's hard to believe I've made it so far!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That first time I saw you run inspired me more than you'll ever know."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "So much has happened along the way, but you were always there for me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Yeah. Congratulations, Kita. I'm as happy for you as if I had won myself."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…At least, I was going to say that until I saw the race."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What do you mean by that?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've always considered you my cute little mentee, Kita."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But things are different now. You did what I couldn't, and you've carved your name into the history books."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You'll forever be known as a Triple Crown champion now."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "T-Teio… It was just luck that I got to run in all the Triple Crown races, though."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "If <i>that</i> hadn't happened, there's no doubt you would've been able to do the same!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Luck had nothing to do with it. Your toughness is what got you through the fall gauntlet of races I couldn't."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's your strength and the strength of everyone behind you who brought you through this, so be proud of your accomplishment."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Teio…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Your eyes haven't changed a bit since you were a kid. You're always looking straight at what you want."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I think I might've been hoping for this day to come ever since I first met your gaze…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "The day you'd be at my level, I mean."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio's childish and carefree air is nowhere to be found."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now, her expression clearly resembles that of a champion, brimming with frustration and fighting spirit."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'd better get going, Kita. Thanks for letting me say things as they stand."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I just couldn't help myself after seeing your run. You did really great out there. Later, then."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yes, thank you very much!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black bows at Tokai Teio until she's completely out of sight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Another major event takes place later that day too."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You are now a Triple Crown champion, young Bakushin grasshopper. I have nothing left to teach you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This class rep here has crossed paths with you indeed, but now she must be off. Other poor souls need a helping hand."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You're going already, Bakushin O?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I am. You are not the only one driven to help others."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushin O… You've taught me something of the utmost importance!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "To Bakushin is to do! No matter what and no matter when, you must keep going!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It may seem simple, but never giving up and forever moving onward is critical beyond words!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll never forget that, ever."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good! Keep moving forward! In the Victory Club I was taught at, I wrote that the kanji for \"progress\" should be read as \"Bakushin\"!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "My teacher docked off points when I did that on my spelling test, but hey! Anyways, see ya! Bakushin to your own tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And then, Sakura Bakushin O disappears the same way she arrived—with a sonic boom."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Our own tomorrow… She's right. Tomorrow doesn't come just for me. Next is—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black has won the Triple Crown, but there is another brand-new story that's getting underway in the pouring rain."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "GOOOOO! DIAAAAA!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Caster",
+            "text": "Satono Diamond has come first in her debut race! That's right, this 500 million carat racer has seized victory! She's a real diamond in the rough!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia… Way to go! You've got to keep it up!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I bet you'll manage to win a G1 race no problem if you do, which means you'll be able to make your wish come true, and then… and then!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, I'm sure too, Kita. I may have started later than you, but I <i>will</i> catch up."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So go on ahead and watch me carefully! Next year, once the Classic Triple Crown is over…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Let's race together on the stage where the best of the classic and senior athletes gather, the Arima Kinen!",
+            "color_text_info_list": [
+                "senior",
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The Arima Kinen! What do you think, Trainer?!",
+            "choice_data_list": [
+                "Yeah, let's go for it!",
+                "Yeah, let's go for it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is officially our goal. We'll have one year to prepare for the dream ahead of us."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll hit the ground running! The Kikuka Sho was my little Kitasan festival, but the Arima is a bona fide year-end festival!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I bet Dad's gonna love it! I've gotta make sure to ramp it up to twenty!"
+        }
+    ]
+}

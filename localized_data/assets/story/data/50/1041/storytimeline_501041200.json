@@ -1,50 +1,52 @@
 {
-    "no_wrap": true,
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "At last, it's time for Sakura Bakushin O to \nenter her \"Make Debut.\"",
+            "name": "Monologue",
+            "text": "The time has finally come for Sakura Bakushin O to run in her debut race!",
             "color_text_info_list": [
-                "Make Debut"
+                "debut"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "At long last… it seems."
+            "text": "At last…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "At long last…! \nMy!!"
+            "text": "At long last! My debut race!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My great challenge!! \nBegiiiiins!!!!!",
+            "text": "My greatest challenge yet! The time is now!",
             "choice_data_list": [
-                "You're really into this.",
-                "You're really into this."
+                "You seem pumped up.",
+                "You seem pumped up."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, that is the case!!"
+            "text": "I am!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "First of all, I'd like to make a flawless \ndebut, so everyone――"
+            "text": "First, I'll make a huge splash with the perfect debut, and then everyone will be like…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahhh!!!!!",
+            "text": "<i>GASP!</i>",
             "choice_data_list": [
-                "!?"
+                "…?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…That's what I want to make them say!!"
+            "text": "I'm ready to give them the surprise of their lives!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And so, Sakura Bakushin O makes her \nspectacular Make Debut!"
+            "text": "It's time for my glorious debut!"
         }
     ]
 }

@@ -1,0 +1,66 @@
+{
+    "title": "寝坊した……！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The other day, Gold City's manager and I got together to coordinate her schedule. However…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Lately, Gold City has been busy every second of the day. I imagine it's physically taxing."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm sorry, Trainer! I overslept! It's already past my reserved time on the machine, but maybe we can still get a spot?",
+            "choice_data_list": [
+                "Let's hurry and check!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well… so much for that idea. There are no time slots left."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm sorry. Here I am, making you waste your time too.",
+            "choice_data_list": [
+                "You're probably just exhausted from all the recent work."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, but I'm losing out. It's me who decided I could do all this—running and modeling."
+        },
+        {
+            "name": "Gold City",
+            "text": "Literally, how can I not even take proper care of myself? I <i>have</i> to get over this fatigue!",
+            "choice_data_list": [
+                "Don't be so hard on yourself. You'll just wind up more exhausted."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!",
+            "choice_data_list": [
+                "Besides, after that extra rest, you'll be able to work harder during training!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You're right. I'll only be wasting time if I spend it feeling sorry for myself."
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay. I'm back on my feet. What have you got for me today, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shortly after, we manage to find an open training facility to use."
+        }
+    ]
+}

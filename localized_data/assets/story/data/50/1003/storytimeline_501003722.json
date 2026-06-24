@@ -1,0 +1,38 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh… It hurts. My head is pounding."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Why was the teacher so angry? Even Mom and Dad wouldn't be this mad…",
+            "choice_data_list": [
+                "Why did you get in trouble?",
+                "Why did you get in trouble?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I wanted to see Prez, so I opened the door of the student council office…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But the teacher was all \"Teio! What do you think you're doing, entering the student council office willy-nilly?!\""
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh, my ears are <i>still</i> ringing."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Ouuuch! Just remembering it makes me wince all over again…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio's splitting headache continues to bother her for the rest of the day…"
+        }
+    ]
+}

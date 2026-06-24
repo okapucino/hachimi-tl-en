@@ -1,0 +1,281 @@
+{
+    "title": "気づいちゃった！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out, Tokai Teio and I return to the academy."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Trainer, I think I finally figured it out."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You know, the answer to Prez's assignment about what you mean to me."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I'm thinking it's about time I went and told her what I've come up with.",
+            "choice_data_list": [
+                "You can do it, Teio!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe! ♪ Thanks, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She rushes off feeling confident. Curious to see how it goes, I wait by the student council office."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nooooo!",
+            "choice_data_list": [
+                "Teio?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "T-Trainer? …Were you waiting here for me?",
+            "choice_data_list": [
+                "Yeah, how did it go?",
+                "Yeah, how did it go?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…She rejected my answer."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I told her you're someone who praises me when I do good and stops me when I get out of line. But then…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Think carefully about what you just told me."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Praise and admonishment are not difficult things to come by; a maid or butler could provide you with the same."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh! When you put it like that…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Can that truly be the extent of your trainer's role?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why, of all people, did you pick him to guide you on your path?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why, of all people, did you pick her to guide you on your path?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, I…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That hesitation right there is why I cannot accept your answer. You must try again."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…That's the short of it. What was I supposed to say?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What would <i>you</i> say? Why did you choose me out of all the other racers?",
+            "choice_data_list": [
+                "I like the way you run.",
+                "I intend on keeping my promises.",
+                "Probably the same reason you chose me."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The first time I saw Tokai Teio run with such freedom and power, I couldn't take my eyes off her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open up to her about how, from that moment on, I was captivated by her.",
+            "choice_data_list": [
+                "I wanted to watch that shimmering soul race over and over again.",
+                "I wanted to watch that shimmering soul race over and over again."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I… I want to show you that, too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I want to get strong enough to capture everyone's hearts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing that powerful glimmer in her eyes, I know there's no other racer I'd rather train."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Well done. You two make for a surprisingly good combination."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "P-Prez! You heard us?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. You were right outside my door. I could hear everything from inside."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I take back my earlier statement. The assignment is complete."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Umamusume and their trainers are inextricably linked. They both grow through mutual respect, trust, and learning from one another."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope to see great things from both of you in the future."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, I'm gonna work hard… right alongside my trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This assignment has been a valuable experience for both Teio and myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Teio \"declared war\" on Symboli Rudolf, I made her a promise that we would work hard together."
+        },
+        {
+            "name": "Monologue",
+            "text": "And when we were at the amusement park, I made a promise about the future."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Teio that whether as her trainer or her friend, I will always honor my promises to her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I… I want to honor my promises to you, too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna surpass Prez, and you'll be there to shower me with praise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing that powerful glimmer in her eyes, I know there's no other racer I'd rather train."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Well done. It seems my meddling was uncalled-for after all."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "P-Prez! You heard us?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. You were right outside my door. I could hear everything from inside."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You know, perhaps I've been a little too soft on you."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wha? Nooo, feel free to spoil me all you want! ♪"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Do not try me. In any case, I'll consider your assignment complete."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Umamusume and their trainers are inextricably linked. They both grow through mutual respect, trust, and learning from one another."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope to see great things from both of you in the future."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, I'm gonna work hard… right alongside my trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This assignment has been a valuable experience for both Teio and myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "I chose Teio because, well, she's Teio. I wanted to train <i>her.</i> When I tell her as much, she gasps."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Because I'm… me. Yeah…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whether I'm happy because I won, or frustrated because I'm worried…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're always there to lend me an ear."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've gotten to where I am today because it's been <i>you</i> by my side."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I don't want anyone else either! I just want you! My trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I want you to praise me and to scold me… and to write the legend of the invincible Teio together with me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're the only trainer in the whole wide world for me!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm. I suppose that answer is worth a passing grade. The assignment is over."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "P-Prez! You heard us?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. You were right outside my door. I could hear everything from inside."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Umamusume and their trainers are inextricably linked. They both grow through mutual respect, trust, and learning from one another."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope to see great things from both of you in the future."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, I'm gonna work hard… right alongside my trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This assignment has been a valuable experience for both Teio and myself."
+        }
+    ]
+}

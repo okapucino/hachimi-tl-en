@@ -1,0 +1,216 @@
+{
+    "title": "和の心に触れて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After running errands with Eishin Flash, we head toward one last location.",
+            "choice_data_list": [
+                "We're finally here.",
+                "We're finally here."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Indeed. Here is the inn that's hosting the immersive lecture on Japanese culture."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Learn from the past, as they say! Learning about time-honored traditions should help me deepen my understanding of modern trends!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash has become determined to learn all about the newest trends in Japanese culture after singing karaoke with her friend the other day."
+        },
+        {
+            "name": "Monologue",
+            "text": "And to facilitate that, we're attending a lecture on Japanese culture."
+        },
+        {
+            "name": "Hostess",
+            "text": "Here is a typical guest room at this inn."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Sorry, I just recalled that there is specific etiquette for walking into a Japanese-style room."
+        },
+        {
+            "name": "Hostess",
+            "text": "My, aren't you well-informed? You must be talking about how one shouldn't step on the cracks between the tatami mats."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I very nearly did just that. I shall be more cautious from now on."
+        },
+        {
+            "name": "Hostess",
+            "text": "Please, there is no need to be nervous. Relax and enjoy the tour."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, Eishin Flash remains on high alert as the tour goes on, until…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm surprised that all the hot water must be replaced every time they clean. From a cost-efficiency standpoint, that seems rather wasteful…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But it <i>is</i> important to prioritize the health and safety of guests, and that's a fantastic way to keep everything hygienic."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I can't believe they are able to serve meals so punctually despite how many rooms there are here…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This is the true epitome of time management. I take my hat off to them!"
+        },
+        {
+            "name": "Hostess",
+            "text": "That concludes today's lecture. What did you think?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It was marvelous beyond words. In fact, I would love to take an even more in-depth tour.",
+            "choice_data_list": [
+                "Sounds like you really enjoyed yourself!",
+                "Sounds like you really enjoyed yourself!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I did. Traditional Japanese hospitality—\"omotenashi\" truly is exceptional."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Being provided a traditional yukata as sleepwear is also a valuable experience from a cultural perspective."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Above all, every element of this facility works in harmony to make guests feel at home."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now, I'm painfully aware that everything I thought I knew about Japanese-style inns was superficial at best."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I still have much to learn… It seems a shame to depart while I am still so ignorant."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash seems reluctant to leave. In that case…",
+            "choice_data_list": [
+                "Would you like to stay here overnight sometime?",
+                "Would you like to ask the hostess some questions?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That is an intriguing suggestion. I could certainly learn much more if I actually spent a night here."
+        },
+        {
+            "name": "Hostess",
+            "text": "Oh, we would be honored to have you! There's plenty to enjoy here."
+        },
+        {
+            "name": "Hostess",
+            "text": "First, there's our wonderful hot spring where you can wash away your fatigue."
+        },
+        {
+            "name": "Hostess",
+            "text": "Then in the evening, our chefs prepare dinner using plenty of fresh, seasonal ingredients. You can enjoy your meal in your room."
+        },
+        {
+            "name": "Hostess",
+            "text": "Should you visit us in the summer, you could watch fireworks light up the night sky."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "W-wonderful! I shall make a summer reservation right now."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…",
+            "choice_data_list": [
+                "Weren't you going to make a reservation?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ohne Fleiß kein Preis. There is no gain without pain."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In other words… I shall begin saving money."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If I reduce my budget for baking ingredients by 20%, I should be able to stay here… in precisely three years, six months' time."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like booking a room here isn't cheap. But at least Eishin Flash now has a new goal to strive toward."
+        },
+        {
+            "name": "Hostess",
+            "text": "You wish to know more? In that case, I would recommend you attend our immersive housekeeping seminar."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh! I would love to attend that."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Pardon the intrusion. Thank you for staying with us today.",
+            "choice_data_list": [
+                "The pleasure is all mine."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If there is anything we can provide to make your stay more comfortable, please don't hesitate to ask."
+        },
+        {
+            "name": "Hostess",
+            "text": "Well done! ♪ That was a picture-perfect greeting."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you very much. However… sitting on my knees for so long is quite painful…"
+        },
+        {
+            "name": "Hostess",
+            "text": "Yes, it's a difficult position to maintain if you're not accustomed to it. I remember struggling with it too when I first became a hostess."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hm… Both learning and traditions are cultivated through the accumulation of experiences."
+        },
+        {
+            "name": "Hostess",
+            "text": "Indeed. That is exactly how traditions are built."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The building of tradition… Thank you very much. This was most informative."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash's eyes glitter with newfound joy and knowledge as she thanks the hostess for her time."
+        }
+    ]
+}

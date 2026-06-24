@@ -1,0 +1,48 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At last, today is the day Maruzensky makes her debut!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh… I'm getting kind of nervous now that the day has finally arrived…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hm? Why are you making that face?",
+            "choice_data_list": [
+                "I was just wondering if I overlooked anything during your training…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hm? Why are you making that face?",
+            "choice_data_list": [
+                "I was just wondering if I overlooked anything during your training…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's fine! You did a primo job training me!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Besides, the journey is more important than the destination. I'm going to have a great time, so don't you worry!",
+            "choice_data_list": [
+                "Run like the wind!",
+                "Run like the wind!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm all over it!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's the Twinkle Series, you know, so I'm going full throttle!"
+        }
+    ]
+}

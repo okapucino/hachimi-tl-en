@@ -1,0 +1,83 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, while Smart Falcon and I are having a training meeting in my office…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hello, hello! Special delivery! I've got a fan letter for Falco!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wow! A fan letter! For me?!",
+            "choice_data_list": [
+                "That's great!",
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Right?! I'm so happy! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Not only that, it was super nice of you to come all the way here just to give it to me. Thanks! ☆"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You're welcome! But actually, I work part-time as a mail carrier."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I use an app so I can work only when I have free time. That way, it doesn't interfere with my other part-time jobs or training!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wow! You're working really hard, Ines!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe! I want to give back to my family for all their support."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well, I'm off to my next delivery. Congrats again on the fan letter!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "For all their support…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Trainer! I'm gonna read the letter right now!"
+        },
+        {
+            "text": "With a serious expression on her face, Smart Falcon opens the letter and begins to read it where she stands."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you for waiting, Trainer. I'm all finished.",
+            "choice_data_list": [
+                "What did it say?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…That my smile gives them lots of energy."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And that they'll always be rooting for me. And to keep up the good work."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Trainer! I'm definitely gonna become a top Umadol!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna show everyone who always supports me the cutest Falco there is!"
+        }
+    ]
+}

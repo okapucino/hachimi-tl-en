@@ -1,0 +1,170 @@
+{
+    "title": "A Forest of Fairies?",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Photographer",
+            "text": "Aaand please look right into the lens. Great, thank you!"
+        },
+        {
+            "name": "Photographer",
+            "text": "Okay, give me a moment to check the shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I'm accompanying Fine Motion on a photo shoot to advertise a photography studio. The theme of the shoot is \"a wedding in the midst of nature.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Apparently, we're going to take some pictures in a forest next. Hehe, a woodland wedding sounds so wonderful. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "From the sounds of it, it's going to take some time to set up. Why don't we go for a stroll in the meantime?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Mmm, the air is so fresh! And the greenery is beautiful—it reminds me of the forests back home in Ireland!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Maybe if we keep walking, we'll stumble across a fairy door that'll transport us there."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Glimmer…</i>",
+            "choice_data_list": [
+                "(…What the?)",
+                "(…What the?)"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What's the matter, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Fine Motion about the strange lights I glimpsed flickering near her. Maybe I'm just seeing things…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Lights? I didn't see anything, though…",
+            "choice_data_list": [
+                "Look! There it is again!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my… Hehe. It must be the fairies playing tricks on you. ♪",
+            "choice_data_list": [
+                "Fairies? Surely that's a little unlikely…"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, who's to say? Look around. This forest is simply wonderful! It wouldn't be too surprising if a few fairies lived here, would it?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fairies love places with beautiful trees and clear, flowing waters, you see. People tell lots of stories about fairies in Ireland, you know."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Tales of fairies helping out with the housework at night, or showing people the way to hidden gold."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But some fairies love to play pranks, and I've heard that they even kidnap people! ♪",
+            "choice_data_list": [
+                "I wouldn't want you to get kidnapped, Fine."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, don't you worry, Trainer. No fairy is going to kidnap me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm rather good at negotiating, you know. So even if I were to cross paths with a fairy…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I would extend them every courtesy and try to request their assistance for the good of the Irish public. ♪",
+            "choice_data_list": [
+                "A fairy would make a great ally.",
+                "A fairy would make a great ally."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Well, if those lights you saw really were fairies…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm sure this next shoot will be quite wonderful indeed! ♪"
+        },
+        {
+            "name": "Photographer",
+            "text": "Ready when you are, Fine Motion!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Splendid! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The forest photo shoot proceeds without a hitch. Until…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Photographer",
+            "text": "Okay, now to look over the shots!"
+        },
+        {
+            "name": "Photographer",
+            "text": "W-wait, what's this?!"
+        },
+        {
+            "name": "Photographer",
+            "text": "It might be the exposure, but there's this radiant glow surrounding Fine Motion…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Has the photo turned out wonderfully?"
+        },
+        {
+            "name": "Photographer",
+            "text": "Yes, it's absolutely magical! This picture… It's practically a miracle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The photo shows Fine Motion bathed in a shimmering glow, and the poster it's used for goes on to garner quite a lot of attention!"
+        },
+        {
+            "name": "Photographer",
+            "text": "That expression—it's simply wonderful! Now, just hold it for a moment… Hm? No, not now!"
+        },
+        {
+            "name": "Photographer",
+            "text": "Why won't the shutter close?! I can't miss out on a shot like this!",
+            "choice_data_list": [
+                "You don't think… a mischievous fairy could be on the loose?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmm, I wonder. Well, I'm not sure, but shall I give them a scolding just in case?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Messing people about is absolutely not allowed. If you play one too many pranks, I might just sprinkle some water on you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion addresses her surroundings with a theatrical tone. And, perhaps thanks to her, there are no more technical issues for the rest of the shoot."
+        }
+    ]
+}

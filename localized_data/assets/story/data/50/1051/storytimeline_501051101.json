@@ -1,0 +1,310 @@
+{
+    "title": "New Year's Resolutions",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Happy New Year!",
+            "choice_data_list": [
+                "Same to you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower offers me a New Year's greeting as we begin our first meeting of the year."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "This marks the start of my classic year. I'm sure there's plenty of races you want me to take on, right?",
+            "color_text_info_list": [
+                "classic year"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll work my hardest to bring a smile to your face! Let's make this year a great one!",
+            "choice_data_list": [
+                "You took the words right out of my mouth!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's smile is dazzling. As I think about how this year is shaping up to be as peaceful as the last one, I ask her a question.",
+            "choice_data_list": [
+                "Have you decided on a goal for this year?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I have!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "My goal this year is to grow big and tall!",
+            "choice_data_list": [
+                "…Big and tall?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mm-hmm!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You see, I had my height measured during my health checkup the other day…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I thought that with my training in full swing and the fact that I'm eating more than I used to, I'd have grown a little taller."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… I haven't changed at all. I'm not even a single millimeter taller…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's why I want to grow bigger as fast as possible!",
+            "choice_data_list": [
+                "There's no need to rush."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Urgh… I know you're right, but still…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The older students here are all so elegant. Seeing them every day just makes me wish I was the same."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get where she's coming from, but this is one problem that can't be solved through sheer will. How should I encourage her to think positively?",
+            "choice_data_list": [
+                "Do you want to go jumping?",
+                "Let's go ask a tall student for advice!",
+                "Let's study methods for growing taller."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Jumping?",
+            "choice_data_list": [
+                "I know the perfect place!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! Everyone's bouncing on trampolines!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "They look like they're having so much fun…",
+            "choice_data_list": [
+                "Go on, feel free to join them."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But everyone here is smaller than me… Wouldn't I just get in their way?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, hey Flower! Are you here for the trampolines, too?",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mayano!",
+            "color_text_info_list": [
+                "Mayano"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This is Mayano Top Gun. She's one of Nishino Flower's classmates, and they apparently often eat lunch together.",
+            "color_text_info_list": [
+                "Mayano Top Gun"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I love it here! If you time your jumps with everyone, you can fly waaay up high! ☆",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And the more of us there are, the funner it is! C'mon, Flower! You're cleared for takeoff!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wh-whoooa! I'm so high up, Mayano!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahaha! ☆ You're flying up above your trainer's head, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah! You're right! Hehe! ♪ I guess I grew up pretty quickly!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…A tall student?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bubble, bubble…</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I see. So you want to grow big quickly. Is that the gist of it, Flower? ☆",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We talk with Hishi Akebono. Her heart is just as big as her towering frame is tall, and she and Nishino Flower get along great.",
+            "color_text_info_list": [
+                "Hishi Akebono"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-yes, I do, but…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What's in that pot?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Chanko! I used to eat this all the time when I was growing up!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I don't know if it works the same way for everyone, but this stew is surely the reason I'm so tall."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "So dig in, Flower! Eat up, and you'll grow big and strong!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You mean… you made this for me?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you so much! I'd love some!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Phwooo.</i> It's nice and warm. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I really do feel like eating this will make me grow bigger somehow!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's great! ☆ I've still got plenty of room to grow, too, so let's get bigger together!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sure!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Have some more! I made three more pots' worth, so eat up! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank y—wait, you what?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Great idea! Yeah, we should study up."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, I think I know just the right person who can help!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "These are the books in my possession that include specialized methods of increasing one's height."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All are based on verified factual information. I'm certain you'll find something that can be of use to you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you, Tachyon!",
+            "color_text_info_list": [
+                "Tachyon"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What is it?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, no… It's just…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was thinking that maybe I could… take part in one of your experiments.",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is quite an enticing offer. However…",
+            "choice_data_list": [
+                "Uh, let's get these books back to my office!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It seems your trainer is opposed to the notion. And besides, such an experiment offers no merit for me. Not at this time, anyway."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Go read those books and learn all you can. I'm sure you'll be able to grasp something that will serve you in the future. Farewell, then."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Tachyon is so cool. If I study really hard, then…",
+            "choice_data_list": [
+                "You might end up like her, huh?",
+                "You might end up like her, huh?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah! So I'll do my best!"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "天皇賞（秋）にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "Did you get enough sleep last night?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Here, let me have a better look at you.",
+            "choice_data_list": [
+                "Oh…"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. The bags under your eyes are slightly fainter than the other day. Good. That makes me feel a little better.",
+            "choice_data_list": [
+                "(I'm glad to hear that, but she's—)"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know that face. You think I'm worrying too much again, don't you?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, whose fault do you think it is that I'm worrying so much in the first place? Hmph."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In any case, I'm off. It's time to prove how effective the equation we created is."
+        }
+    ]
+}

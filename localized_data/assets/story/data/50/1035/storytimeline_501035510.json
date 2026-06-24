@@ -1,0 +1,231 @@
+{
+    "title": "雨ニモ負ケズ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Whoaaaa! What's with this huge downpour?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wow, it's basically flooding! I can't even see the track! If this keeps up, today's training is gonna be…",
+            "choice_data_list": [
+                "Impossible, I'd say."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh NOOO! And today I was thinking of running with Taishin too!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What? I don't remember you asking me."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer! Can't you make the clouds go away?",
+            "choice_data_list": [
+                "That's… out of my pay grade."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But at this rate, I can't run with Taishiiin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Like I said, you never—ugh, whatever…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Besides, no one can change the weather. It's never gonna happen."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Really? Are you sure?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ticket looks over my way with hope in her eyes.",
+            "choice_data_list": [
+                "We could make some sunshine dolls to pray for sunny weather.",
+                "Let's wait and see what happens."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's a great idea! Taishin, come join us!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sunshine dolls? What are you, a little kid? I'm not doing that."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Why not? It's fun! At least watch me make one!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, come <i>on…</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Let's see. We'll need a white handkerchief and something to fill it up with… Trainer, do you have stuff in your office? Let's go look!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Look at this, Trainer! I made so many sunshine dolls!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A whole pile of them is sitting on my desk."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I figured if I'm putting up one, I might as well make a whole bunch. Maybe it'll work faster that way!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, the sight of all those dolls in one place is kinda creeping me out…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "How did you not get sick of making them?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Get sick of it? As long as I've got materials, I could make them forever!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Good idea, me! I'm gonna keep making more until it's sunny!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, a ray of sunlight shines in through the window, as bright and clear as if there was never a cloud in the sky."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WOW! It got sunny! All the sunshine dolls I made really worked!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You're giving them credit for this? You didn't even hang them up yet."
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking around at the huge pile of dolls, I can't help but feel like Winning Ticket's perseverance truly did save the day."
+        },
+        {
+            "name": "Monologue",
+            "text": "A little while later…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yaaay! It stopped! The rain is GONE!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But the track's still a muddy mess. I don't think we're out of the woods just yet—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm gonna go do some light jogging!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, she's not listening to a word I say."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishiiin! Trainer! I'm back!",
+            "choice_data_list": [
+                "How's the track?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's still pretty muddy, but if you think of it as a soft dirt track, it's nothing I can't handle!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It could actually work as great training for controlling our balance while running!",
+            "choice_data_list": [
+                "Hmm, maybe you're right.",
+                "Hmm, maybe you're right."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah? You think so too? Okay, Taishin, that settles it!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Go get changed so we can run!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "How many times do I have to say this? I never said I'd run with you today!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaat? No way!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yes way!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "For real?! THIS IS HORRIBLE!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Uerghhh! I was really looking forward to it too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I really wanted… <i>sniff…</i> to run together…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Gah! You're so annoying! Stop crying!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniffle…</i> Then… will you join me?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why would I—ugh, turning you down is just getting exhausting at this point."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm still not joining you today, but… let's do it sometime soon, okay?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Really?! Yaaaay!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yay, yay, yay! It's a promise!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! I gotta get faster before we run then!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…You're such a dummy."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Narita Taishin and I continue watching Ticket train."
+        }
+    ]
+}

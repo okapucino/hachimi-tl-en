@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hear strange, possibly spiritual invocations coming from inside the waiting room. I take a peek inside to find…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Glory beee! Glory beee! Glory be…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "To the mighty spinach leaf!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Whew. I got so excited, I might have gotten <i>way</i> more into that chant than usual!",
+            "choice_data_list": [
+                "You seem fired up.",
+                "You seem fired up."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's right! I'm going to make use of all of my motivation, courage, and luck in this race!"
+        }
+    ]
+}

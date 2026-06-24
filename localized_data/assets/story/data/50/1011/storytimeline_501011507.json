@@ -1,0 +1,72 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hand a newly-delivered fan letter to Grass Wonder."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, I recognize the name on this one. So they were nice enough to write me again!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "They're always so proper with their salutations and sign-offs. Hehe.",
+            "choice_data_list": [
+                "And that caught your eye?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. They're quite formal for fan letters, but they're always so touching."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Not to mention carefully crafted. I can see the improvement in their handwriting with each one."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "They've even started being creative, incorporating seasonal themes and sometimes writing haikus."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Each letter they write demonstrates how in tune they are with my interests."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It warms my heart."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell how much this fan wants to make Grass Wonder happy."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's not just this fan, either—I've received a number of letters illustrating aspects of Japanese culture or explaining unique regional traditions…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "When I receive letters like these from people around the country, it makes me feel like… like…",
+            "choice_data_list": [
+                "Like you don't want to let them down?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, that's right. It makes losing even less of an option."
+        },
+        {
+            "name": "Monologue",
+            "text": "A fire quietly blazes in Grass Wonder's eyes."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Through thick and thin, I'll remain committed. I'll be relying on your dedication as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like the fan support has boosted Grass Wonder's spirits."
+        }
+    ]
+}

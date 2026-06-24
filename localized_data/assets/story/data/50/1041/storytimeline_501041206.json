@@ -1,36 +1,37 @@
 {
-    "no_wrap": true,
+    "title": "函館スプリントSにむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Long…"
+            "text": "A long…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The long race is about to begin…",
+            "text": "A long race is on the horizon…",
             "choice_data_list": [
-                "(Something's happening.)"
+                "(Something in the air has changed.)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "3600m, a steep road for me… \nI've run and run, but still it goes on."
+            "text": "To me, 3,600 meters is a formidable distance… No matter how much I run, there is still more to go."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, I have to try."
+            "text": "However, I must face it head-on."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――I should be a role model for everyone, \nas class president!",
+            "text": "So that I may become an example to everyone, as class representative!",
             "choice_data_list": [
-                "……That's right!",
-                "……That's right!"
+                "That's right!",
+                "That's right!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "First up is the first 1200 meters. \nI'm going to overcome it!"
+            "text": "First up is this starting 1,200 meters. I'll blaze right through it!"
         }
     ]
 }

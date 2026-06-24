@@ -1,0 +1,190 @@
+{
+    "title": "あなたの声なら",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, I find myself at an amusement park to attend a limited-time event that Kitasan Black invited me to."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's a really huge maze, so you're apparently allowed to guide participants toward the right path from outside the maze!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Also, I heard yesterday that if you manage to make it out, you get a medal commending your succe—"
+        },
+        {
+            "name": "???",
+            "text": "Bakushin, Bakushiiiiin!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? I feel like I know that voice…"
+        },
+        {
+            "name": "???",
+            "text": "Oh no! Another dead end?! This maze is a real tough nut to crack!"
+        },
+        {
+            "name": "???",
+            "text": "I won't give up, however! As class representative, I, Sakura Bakushin O, must set an example for everyone else!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I knew it! Bakushin O is here for the maze as well!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushin O was actually the one who told me about the medal! She sure sounds fired up!"
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "Her being fired up is fine and dandy, but I have to say, I'm starting to feel a little worried for her."
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "Do you happen to know her? She's been wandering around in there since this morning.",
+            "choice_data_list": [
+                "Since this morning?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Th-that's not good! We have to hurry and guide her toward the exit!"
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "We've actually tried doing that several times, but she's so absorbed in running around that she doesn't hear anything we tell her."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Don't worry! I've got this!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushiiin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Huh?! Who could be calling me, the class rep?!",
+            "choice_data_list": [
+                "(She actually responded!)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's me! Kitasan Black! I'm going to guide you toward the exit, so please follow my instructions!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hahaha! I did it! I earned myself a medal of commendation!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And you, my dear class rep aide-in-training, did a great job helping me! You get an A+ for your effort!",
+            "choice_data_list": [
+                "What's a class rep aide-in-training?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just as the title implies, she's in training to take on the crucial role of aiding the class rep!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ahaha! The thing is, I accompany Bakushin O on a lot of outings, and…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! So this is the right path, is it? Much obliged! BAKUSHIIIN!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Wha?! That's the wrong way! Heeey! Is she out of earshot already?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "BAKUSHIN O! IT'S NOT THAT WAY! COME BACK!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm? I feel like I just heard Kita calling me!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushiiin O! Your handkerchief! This girl picked it up for you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! When did I end up so far away? My Bakushin is too incredible!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "For some reason, it seems like my voice can actually reach Bakushin O."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I got assigned as her aide because I'm apparently perfect for the role.",
+            "choice_data_list": [
+                "Maybe it's because you sound like someone she knows.",
+                "Maybe your enka singing experience made your voice stronger."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm… Now that you mention it, her voice does make me feel kind of nostalgic…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indeed, I feel like I've heard her voice somewhere before… but, anyway!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "With Kita by my side, I feel even more confident in my abilities as class representative! That's why I'm counting on you to keep assisting me, okay?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay! I've got your back!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Right, now that I've shown you how it's done, it's your turn to tackle the maze!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class representative, I will personally guide you through it! Don't hesitate to ask me for help!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black and I are able to enjoy the giant maze thanks to Sakura Bakushin O's enthusiastic, occasionally mistaken directions."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah, maybe! Your voice is just so filled with genuine enka spirit that it really resonates with my Bakushin heart, Kita!",
+            "choice_data_list": [
+                "How does it resonate with you, exactly?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Basically… like this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "BAKUSHIIIINNN! ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, that vocal run was incredible! Hold on, let me try too…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "BAKUSHIIIINNN! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure if \"singing\" is the best word to describe what their voices are doing, but Kitasan Black and Sakura Bakushin O look like they're having fun."
+        }
+    ]
+}

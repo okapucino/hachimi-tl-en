@@ -1,0 +1,52 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto has yet to show up to training, so I decide to search for her."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Th-the energy from the cosmos gives you p-positivity? And you say the results are permanent?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I never knew a p-product so amazing could be real! I'll take one please!"
+        },
+        {
+            "name": "Suspicious Lady",
+            "text": "Hehe, so you would like to purchase the cosmic wristband. Now, how will you be paying?",
+            "choice_data_list": [
+                "Are you sure this does what you say?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Gyah, Trainer?! What are you doing here?"
+        },
+        {
+            "name": "Suspicious Lady",
+            "text": "Oh, ho, ho, ho! I must take my leave, for I have now remembered my very tight and busy schedule!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huuuh?! But what about my cosmic wristband?!",
+            "choice_data_list": [
+                "You should be more concerned that it's your training time."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Training ti—Oh nooo!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I completely forgot! I'm s-so sorry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I remind Meisho Doto to be more cognizant of her training schedule."
+        }
+    ]
+}

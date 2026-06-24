@@ -1,0 +1,57 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some fan mail has arrived for Air Groove. I try to give it to her before our meeting, but…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Leave it over there, please."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now then, about today's schedule…",
+            "choice_data_list": [
+                "You're not happy to get fan mail?",
+                "You're not happy to get fan mail?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You fool. Why wouldn't I be happy?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "But that's all the more reason I must temper my reactions."
+        },
+        {
+            "name": "Air Groove",
+            "text": "People don't wish to see me titter with appreciation. Their desire is to watch me preside as the Empress."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The best way to repay my fans is to uphold that ideal."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's why I must remain disciplined as I go about my day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…I expect those who work with me to act accordingly.",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph. Now then, shall we start the meeting?"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the rest of the day, I sense that Air Groove behaves in an even more refined manner than usual."
+        }
+    ]
+}

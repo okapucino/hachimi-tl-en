@@ -1,0 +1,99 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "Arrrrgh! That hurts like something else! Being injured is the worst!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…I'm going to get back to training.",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "If I take a break, I'll just fall behind again—I'll be left in the dust.",
+            "choice_data_list": [
+                "I can't let you train right now.",
+                "Can you promise me you won't overdo it?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whatever. If I say I'm going, that's what I'm gonna do!",
+            "choice_data_list": [
+                "Wait!",
+                "Wait!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What? I'm not gonna sit here for a lecture.",
+            "choice_data_list": [
+                "If your injury gets worse, you'll only fall further behind.",
+                "If your injury gets worse, you'll only fall further behind."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Fine. I just need to rest, right? Fine!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? No idea why you're thanking me. I just wanna win is all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan looks frustrated, but she takes some time to rest up."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Siiigh…</i> Fine."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's not like I <i>want</i> to push myself too hard. I know what happens if I—"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ouch! Crap! Ooh, this is bad!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hurry to help her. It seems her injury has gotten worse."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's not like I <i>want</i> to push myself too hard. I know what happens if I do."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wooow! Like, I think it's working!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "How's this? If we just do some weight training, you shouldn't have any complaints. Am I a genius or what?",
+            "choice_data_list": [
+                "One weight training plan, coming right up!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Aha, so you get it. Make it a good one, promise?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Tosen Jordan maintains a reasonable training schedule and makes a full recovery!"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "I've Bean Waiting",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe lets out a quiet sigh. She looks a little dejected…",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I ordered some special coffee, but I just found out the delivery is going to be massively delayed…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe remains dispirited for the rest of the day. The delay must have come as quite the shock…"
+        }
+    ]
+}

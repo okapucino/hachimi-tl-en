@@ -1,0 +1,139 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka has asked me to assist her with her dance lesson."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, Trainer? Could you cheer for me?",
+            "choice_data_list": [
+                "Cheer?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's just… I'm still not used to dancing in front of crowds."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm okay during races because I'm so focused on running, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Concerts are a different story. That's why I want you to cheer me on as loud as you can."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do as she asks, cheering her on as she dances."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you very much for coming today.",
+            "choice_data_list": [
+                "Suzukaaa!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I hope that you enjoy the concert just as much as the race.",
+            "choice_data_list": [
+                "First place! Congraaats!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "W-with that said…",
+            "choice_data_list": [
+                "You were amazing!",
+                "You were amazing!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…I'm sorry, Trainer."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I just can't concentrate. What should I do?",
+            "choice_data_list": [
+                "That's why we're rehearsing!",
+                "Try responding to the cheers."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I just can't concentrate. What should I do?",
+            "choice_data_list": [
+                "That's why we're rehearsing!",
+                "Try responding to the cheers."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You're right… There will be even more people at a real performance."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm sorry for stopping so suddenly. Let's try again."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Errr… Where was I? Oh, right… So, please enjoy the first song—",
+            "choice_data_list": [
+                "Look over here!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hm? Over where?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a bit of struggle, Silence Suzuka manages to complete her performance even with my cheers ringing in her ears. I think she's ready for the real thing."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suggest she try responding to the crowd in moments when she can't keep focus."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I see. I'll try it.",
+            "choice_data_list": [
+                "Suzukaaa!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. That's me.",
+            "choice_data_list": [
+                "First place! Congraaats!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I hope you all enjoy the concert."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Phew… How was that?",
+            "choice_data_list": [
+                "Don't forget the actual performance."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, right…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka manages to complete both her song and dance. I can't wait for her next winning concert."
+        }
+    ]
+}

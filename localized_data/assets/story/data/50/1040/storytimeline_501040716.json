@@ -1,0 +1,54 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Before training, Gold City is getting an interview for a magazine."
+        },
+        {
+            "name": "Gold City",
+            "text": "What I'm into? Well, I recently started practicing yoga. I happen to know a good teacher."
+        },
+        {
+            "name": "Reporter A",
+            "text": "I see. Just as expected, you're mindful of maintaining your physique!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Um… It's more for relaxation and strengthening my core."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh, of course. With the amount of training you do, I'm sure you don't have any trouble keeping in shape!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha… I suppose you're right."
+        },
+        {
+            "name": "Gold City",
+            "text": "That was too close. I would've been done for if I told him the yoga was to complement my diet.",
+            "choice_data_list": [
+                "You're dieting?",
+                "You're dieting?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Gasp!</i> Trainer?! Were you listening?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, you know… when I'm hanging out with people like Jordan, I tend to overeat a little."
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh, this is embarrassing. I'll have reached my goal soon, so don't tell anyone about the diet!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, and perhaps thanks to the benefits of doing yoga, Gold City regains her usual physique."
+        }
+    ]
+}

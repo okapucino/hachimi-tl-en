@@ -1,0 +1,314 @@
+{
+    "title": "Fan Fest",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest, and I head to the venue to cheer Sweep Tosho on in her event."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! They're grouping us up by class, so it looks like we're all on the same team! ♪"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Yeah! With all our power combined…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Let's shoot for first! ☆ Ready…"
+        },
+        {
+            "name": "Everyone",
+            "text": "Gooo! ♪"
+        },
+        {
+            "name": "Fan A",
+            "text": "Oooh! That team is so cute! ♪ I'm definitely rooting for them!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Okay! Everyone participating in the fans-versus-students truck-pulling contest, please gather up!",
+            "choice_data_list": [
+                "Good luck, Sweep!",
+                "Good luck, Sweep!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Thanks! With a team like this, there's no way we'll lose! It doesn't matter how many people are on the other team!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho is full of confidence. Considering it's a team of Umamusume competing against ordinary fans, I imagine they will win, but…"
+        },
+        {
+            "name": "100 Fans",
+            "text": "Yaaaaah!"
+        },
+        {
+            "name": "100 Fans",
+            "text": "Let's go, let's go, let's go! This time, we're gonna win!",
+            "choice_data_list": [
+                "One hundred against four?!"
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "All right, it's fans versus Umamusume! Who will get their truck to the finish line first this time?!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Huh?! Are they serious with this?! Look how small all the Umamusume are!"
+        },
+        {
+            "name": "Fan B",
+            "text": "And the trucks are so huge! Can we really feel good about winning like this?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Hmph."
+        },
+        {
+            "name": "Caster",
+            "text": "All right, take your positions! The whistle of fate is about to sound!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fweet!</i>"
+        },
+        {
+            "name": "100 Fans",
+            "text": "Woo! Okay, everyone! Get ready! We pull on three! One, tw—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "HEEEAAAVE!"
+        },
+        {
+            "name": "100 Fans",
+            "text": "HUH?!"
+        },
+        {
+            "name": "Caster",
+            "text": "The Umamusume take the other team by surprise and heave their truck to the finish in a flash! It's an incredible victory!"
+        },
+        {
+            "name": "100 Fans",
+            "text": "Nooo waaaay! How could we lose?!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I can't believe it…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ahaha! What was that about us being small? That'll teach you to judge a book by the cover!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's the strong who come out on top!"
+        },
+        {
+            "name": "Fan C",
+            "text": "Ouch! Not only is she crazy strong, but she's got a mouth on her too!"
+        },
+        {
+            "name": "Fan D",
+            "text": "Oh, well that's because that's Sweep Tosho! She's the one who said she'd go from the Yasuda Kinen to the Takarazuka Kinen!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's right! Now that you've seen what I can do, I bet you're thinking I'm the strongest, right?"
+        },
+        {
+            "name": "Fan C",
+            "text": "Eep! I'm thinking you've got a crazy jump as well…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Your eyes are wide as saucers. Keep them open and don't take them off me, okay?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll show you something amazing at the Takarazuka Kinen."
+        },
+        {
+            "name": "Caster",
+            "text": "That concludes our exhibition match! Will all the contestants for the class-versus-class truck-pulling competition please gather on the track?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, gotta go!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Huh?! That was just the exhibition?!",
+            "choice_data_list": [
+                "You really got their attention!",
+                "You really got their attention!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Hmph. That was nothing compared to what I've got planned!"
+        },
+        {
+            "name": "Caster",
+            "text": "Now it's time for our class-versus-class truck-pulling competition! For our first round, we have the Magical Hero Flower Jets versus the Helpers!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You better get serious if you want to beat us, Sweep! The Helpers are the favorites to win the whole competition!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aha. Right back at ya!"
+        },
+        {
+            "name": "Referee",
+            "text": "Everyone, take your positions. On your marks, get set…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fweet!</i>"
+        },
+        {
+            "name": "Sweep and Kitasan",
+            "text": "Hyaaaaah! Yaaaaah!"
+        },
+        {
+            "name": "Referee",
+            "text": "<i>Fwee-fweeeet!</i> And The Helpers win!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yaaay!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Caster",
+            "text": "Could both teams please return to their seats? Next up, the teams for the second round are…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ahhh… Feels good to sweat!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "… …'gain."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe. Look at these biceps, Sweep. They put in some good work, wouldn't you say?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "… …'gain."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "…What was that?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Again!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-what?! I'm pretty sure the rules don't allow for that…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Like I care! I don't accept this! I wanna go again! One more time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly lead Sweep Tosho away from the track as a tantrum starts brewing."
+        },
+        {
+            "name": "Sweep and Kitasan",
+            "text": "Hyaaaaah! Yaaaaah!"
+        },
+        {
+            "name": "Referee",
+            "text": "<i>Fwee-fweeeet!</i> And the Magical Hero Flower Jets win!"
+        },
+        {
+            "name": "Fan A",
+            "text": "What incredible power and speed! And despite their huge differences in physique!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Oh my gosh! Where does someone so small keep all that muscle?!"
+        },
+        {
+            "name": "Fan C",
+            "text": "Hey… Sweep Tosho is definitely winning both the Yasuda Kinen and the Takarazuka Kinen, isn't she?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! ♪ Did you see that?!",
+            "choice_data_list": [
+                "You really did it!",
+                "You really did it!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ha, they're getting too worked up. It's not like it should be any surprise I won."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Still. Guess I may as well take it, right?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ooh! Sweep's making a peace sign! She's so cute! ☆ I wonder if she's got anyone taking pictures."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, let's get a pic with all four of us! I wanna upload it to Umastagram!",
+            "color_text_info_list": [
+                "all four of us"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. ♪ Good idea! You too, Flower! Hurry up and get in here!",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "C-coming! Whose phone should we use?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "This is Mayano's specialty! She's so good at taking pictures!",
+            "color_text_info_list": [
+                "Mayano"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Okay! Everyone make a peace sign on three! One, two, three…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Peace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun tells me later that the photo was shared all over social media with astounding speed after she posted it."
+        }
+    ]
+}

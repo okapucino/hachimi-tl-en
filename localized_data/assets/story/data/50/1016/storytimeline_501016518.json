@@ -1,0 +1,38 @@
+{
+    "title": "緑の贖罪",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I spot Narita Brian out in a field pulling weeds with the groundskeeper."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "This is such a pain! How much more do we have to do?!",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Agh—Trainer?! Th-this is just…"
+        },
+        {
+            "name": "Groundskeeper",
+            "text": "Punishment. She walked through the field and trampled the seedlings, so I'm having her pull weeds."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I said I didn't mean to, didn't I?! Damn! It's really not my day!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Fine! I'll make this into a field of despair! Get ready, weeds!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian pulls weeds savagely, but stooping over all day pulling weeds must be tiring, even for her…"
+        }
+    ]
+}

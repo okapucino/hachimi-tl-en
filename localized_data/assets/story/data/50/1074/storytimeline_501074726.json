@@ -1,0 +1,53 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Mejiro Bright…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! Just look at all these wonderful plushies! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "So much detail has been put into their outfits! They're so adorable!",
+            "choice_data_list": [
+                "Do you wanna try it?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, I'm not especially skilled when it comes to claw machines…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "When I was younger, Dober and I operated one at a Japanese-style inn we were visiting on a Mejiro family excursion."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But the prizes seemed to escape capture whenever I was at the controls."
+        },
+        {
+            "name": "Monologue",
+            "text": "While I doubt they were literally \"escaping\" her, I can definitely picture the scene. With that in mind…",
+            "choice_data_list": [
+                "Do you want me to try?",
+                "Do you want me to try?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You'd be willing to do that? Then yes, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

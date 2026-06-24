@@ -1,0 +1,403 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's the day of the Spring Fan Fest, where fans of racing are invited to the academy to enjoy various events and entertainment by the Umamusume they support."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unlike the Solefall Faire in fall, the Spring Fan Fest is known to have more athletic events. As such, the event Admire Vega is participating in is…"
+        },
+        {
+            "name": "Fan Fest Committee Member A",
+            "text": "The Tug-of-the-Ages is about to begin on the academy grounds!"
+        },
+        {
+            "name": "Fan Fest Committee Member B",
+            "text": "Seats are filling up quick! So those who want to watch better hurry!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Welcome, welcome! The Tug-of-the-Ages showdown is ready to begin!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All you excited fans out there! Let! Me! Hear! You! SCREEEAM!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Don't you think that's enough, El? You're one of the participants, so how about handing the mic to the actual commentator?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hold ooon! Hypin' the crowd up is an important responsibility! And I don't think they're loud enough yet!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right, all right! I'm joking! I'll put the mic down and head over!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, you're finally back! I can't believe you skipped our strategy meeting!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Come on, there's no need to be upset. What do we need a strategy meeting for anyway? All this takes is moving in sync, right?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Besides, all the other meetings have pretty much been about choosing our team name."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What were you guys arguing about again? You wanted the name First-Rate Super Five, and El preferred Amiga Soul…"
+        },
+        {
+            "name": "Special Week",
+            "text": "But in the end, we decided to draw lots and chose Sparkling Go-Getters!"
+        },
+        {
+            "name": "Special Week",
+            "text": "C'mon, Sei, King, El, and Grass! Let's go for the win!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Whoooa! The Golden Generation is all here! They've been tearing it up in the Twinkle Series! This is gonna be crazy! I said craaazy!",
+            "color_text_info_list": [
+                "Golden Generation"
+            ]
+        },
+        {
+            "name": "Spectator B",
+            "text": "I'm all in on them! I saw on Umatter they've been moving perfectly in sync during practices.",
+            "color_text_info_list": [
+                "Umatter"
+            ]
+        },
+        {
+            "name": "Spectator C",
+            "text": "Um… What about their opponents?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Alea iacta est!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Are you ready to engage the enemy, team? Follow me, Overlord's Quintet!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'm right behind you!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Opera O, Doto, Urara, and Ayabe! Let's work together to beat the Golden Generation!"
+        },
+        {
+            "name": "Doto and Urara",
+            "text": "Yeeeah! Wooo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Leave it to me! I've been training how to tug like a pro! Ehehe, pulling your tail really hurts though!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "It's important not to fall down, but if you do, don't let go… You can still serve as a weight!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Get in place, everyone. It's starting soon.",
+            "choice_data_list": [
+                "(Come on Ayabe, you got this!)",
+                "(Come on Ayabe, you got this!)"
+            ]
+        },
+        {
+            "name": "Spectator A",
+            "text": "Oooh? The opposing team gives a strong impression, but they seem to be a bit uncoordinated, don't they?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Well, we'll just have to see what happens. Look, it's starting!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Let's get this Tug-of-the-Ages started! Our first battle is between the Sparkling Go-Getters and the Overlord's Quintet!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Whoever gets the best of three rounds wins! All right? Let's start round one!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Everyone together! Heave, hooo!"
+        },
+        {
+            "name": "Sparkling Go-Getters",
+            "text": "Heave, hooo!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Wow, incredible! As expected, the Golden Generation is perfectly in sync!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Raaagh! Hmph… Hmph!"
+        },
+        {
+            "name": "Overlord's Quintet",
+            "text": "Waaaah!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Oh no! Overlord's Quintet has completely collapsed! The first round goes to the Sparkling Go-Getters!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gritting her teeth and digging her feet into the ground, T.M. Opera O earnestly fought for the win. But she regretfully must concede the first round!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh nooo! We lost! Spe and her friends are real tough!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh, they're moving in perfect unison. Each time they cry out, the rope becomes immovable!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "We also practiced chanting in unison, but they didn't give us a chance to even let out one cry."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hmm, I think we need to at least try and synchronize our movements better!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why just do the same thing they're doing?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "They're all in the same year, while our team is mixed. That makes them more used to working together."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "We could do our best to synchronize, but I doubt it'll be enough to beat the Golden Generation."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Oh… Y-yeah… you may be right…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But… we can still strategize. There has to be something only we can pull off."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "…!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, Opera O."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hm?! What is it, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Maybe you're all worked up because of who our opponents are."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But while you're all hung up on your Overlord act, I think you're forgetting the \"quintet\" part of our team's name."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're the one always talking about operas. And you're the one always dragging us into your act."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's always been that way. So hurry up and get this performance started."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The second round begins!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Behold! A towering golden wave swells in the horizon! It surges forward as the undertow pulls you in, ready to crush you into pieces! But will it stand in our way of victory?! (La laa! ♪)"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No! La, la la laa!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Then, hark! We shall not lose! We shall not waver! The reason being! (The reason being!)"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Haha, the reason being!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes! Because I am I! Because <i>we</i> are we!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "The Overlord's Quintet! ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Quinteeet… ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Creak! Thoosh, thoosh, thoosh!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! What're they singin' for? That supposed to make 'em stronger or something?!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Unbelievable… the Overlord's Quintet won! They're like a completely different team from the first round. Um, that was some unique teamwork!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo?!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "That was so weird, wasn't it?! What the heck was that… a song?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The match could go either way at this point!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Nooo, we lost! Ohhhh… I really wanted to win with everyone."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "We got really close."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regrettably, they failed to secure a victory in the third round, facing a narrow defeat."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, with Admire Vega having the chance to express her support for her peers, I feel it turned into a pretty good day."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ayabe, I wanna sing with you again! Your singing voice is soooo beautiful!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Uuh…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You could hear me?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha ha! ☆ Undisputed victory! ☆"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "As disciples of the stars who received whispers of the sages, let us embrace, full of gratitude!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "How about let's not…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haha! But you and Opera O have such good chemistry!",
+            "color_text_info_list": [
+                "Opera O"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Actually, I've been thinking that for a while now!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "You have a very theatrical air about you. Like, the way you speak sounds a bit like storytelling a lot of the time."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Uh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What does she mean by \"the way I speak\"?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Actually… I don't want to know."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Um, Ayabe? We should probably turn the lights out soon."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, do you think…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yeah?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Sorry. It's nothing."
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, the Fan Fest turned out to be a big success!"
+        }
+    ]
+}

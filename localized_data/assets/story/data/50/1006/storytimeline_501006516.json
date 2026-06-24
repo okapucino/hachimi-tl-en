@@ -1,0 +1,74 @@
+{
+    "title": "食いしん坊は伊達じゃない",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and Inari One are eating together during lunch break."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Sigh…</i> That was delicious."
+        },
+        {
+            "name": "Inari One",
+            "text": "You leveled that heaping plate in no time flat. Seems your appetite's as impressive as ever!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, enough with the flattery… I was just thinking about having some curry as my next course."
+        },
+        {
+            "name": "Inari One",
+            "text": "It wasn't a compliment, ya idiot… Wait, you're gonna eat even <i>more?!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "Isn't your trainer gonna get mad at ya for eating all that? There's a race just around the corner—"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Speak of the devil."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, Trainer… You don't think I eat too much, do you?",
+            "choice_data_list": [
+                "Everything in moderation.",
+                "You need food for energy!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Oh. Maybe I really do eat too much…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yep, you gotta keep a nice balance!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I guess you're right. One last plate, then I'll call it a day."
+        },
+        {
+            "name": "Inari One",
+            "text": "…Didja not hear what I just said?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's right! I'd never be able to run on an empty stomach!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've gotta eat my fill so I can smash this next race!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Geez Louise…"
+        },
+        {
+            "name": "Inari One",
+            "text": "I think I get why Oguri chose you as her trainer now…"
+        }
+    ]
+}

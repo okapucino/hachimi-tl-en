@@ -1,0 +1,31 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "text": "I get quite a jolt at the sound of an extremely loud thump. I run to the source, only to see Hishi Amazon in the central plaza, headbutting a tree.",
+            "choice_data_list": [
+                "What are you doing?!",
+                "What are you doing?!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Hey, Teach. Just pumpin' myself up."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Someone stopped me this morning and asked me if I was feeling all right, you see…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But man, I can't have the younger students gettin' worried over me. It's pathetic!"
+        },
+        {
+            "text": "Her fatigue is quite evident, though… I should probably adjust her race schedule."
+        }
+    ]
+}

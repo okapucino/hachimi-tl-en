@@ -1,0 +1,23 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "After some time off, Narita Taishin stops by my office.",
+            "choice_data_list": [
+                "How was your break?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? It's none of your… Ugh, I guess it is."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Same ol', same ol'. I took it easy and spent my time relaxing."
+        },
+        {
+            "text": "It seems like Narita Taishin had a good break."
+        }
+    ]
+}

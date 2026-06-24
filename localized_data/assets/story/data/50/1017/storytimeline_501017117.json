@@ -1,0 +1,292 @@
+{
+    "title": "嘔心瀝血",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf has been training harder than ever in the run-up to the spring Tenno Sho, adjusting her focus to account for the unique demands of the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "But now that she's a senior and making a name for herself in the racing world, the demands on her time are multiplying."
+        },
+        {
+            "name": "Reporter",
+            "text": "So, to wrap things up, could you tell us what your plans are for the future?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I mean to recommit myself to training, with the goal of becoming the Emperor of all Umamusume."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope that you continue to cover every step of my imperial campaign."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I promise to exceed all of your expectations."
+        },
+        {
+            "name": "Reporter",
+            "text": "You sound as confident as ever! I'll be rooting for you!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Next is my TV interview, I believe… Hmmm. My schedule's been packed a little too tight, perhaps…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a rising star, Symboli Rudolf is constantly swamped with interviews.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes it all in stride, saying that it's proof of the stir she's causing in the racing world, but I'm a bit more worried…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Shall we head to the track? This interview presents a golden opportunity for the academy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Perfect for the announcement I have planned.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha. You can cock your head at me all you like, but I'm not telling. You'll just have to wait and see."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And that concludes our tour of the academy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We host guided visits periodically, so please apply if you're interested."
+        },
+        {
+            "name": "TV Reporter",
+            "text": "That's fascinating… but is there any other way to get a feel for the academy aside from guided tours?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed there is—and what's more, it will be held in only a few days' time."
+        },
+        {
+            "name": "TV Reporter",
+            "text": "How interesting! Can you tell us more?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's called the Fan Fest."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Every spring, Tracen Academy hosts a large event complete with races and more. It's intended to help our students interact with the fans who support them."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This year, we plan to expand its scope and create our first \"Mega\" Fan Fest."
+        },
+        {
+            "name": "TV Reporter",
+            "text": "You don't say! How are you going to make it bigger?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We plan to offer additional races, volunteer presentations, live panels with academy graduates…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And a wide variety of other new activities for visitors to enjoy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It will be accessible for both racing fans and newcomers alike."
+        },
+        {
+            "name": "TV Reporter",
+            "text": "That sounds marvelous! Do you have any plans to take part in the event yourself?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I will spend most of the Fan Fest patrolling the grounds in my capacity as student council president…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But to close out the day, I will take part in the main attraction: the exhibition race.",
+            "choice_data_list": [
+                "(Huh?! She never told me about that!)"
+            ]
+        },
+        {
+            "name": "TV Reporter",
+            "text": "Holy moly! So we'll get to see you race in person? How incredibly exciting!"
+        },
+        {
+            "name": "TV Reporter",
+            "text": "You hear that, everyone? Make sure to check out Tracen Academy's Fan Fest!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You're guaranteed to have a fan-fest-ic time."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Be sure not to miss this opportunity to watch our very own Umamusume compete live on the track."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Phew. That's the last of them for today.",
+            "choice_data_list": [
+                "What's this about the exhibition race?",
+                "What's this about the exhibition race?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I've been planning it for a while, but I only received the official approval a few days ago."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As the name implies, I hope to make it the Fan Fest's main attraction."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Accordingly, I have scheduled it as the finale of the event, and gathered all of the school's best racers to take part."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The Emperor's presence on the track will only raise its profile further."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I can personally contribute to the Fan Fest's success, then so much the better.",
+            "choice_data_list": [
+                "You should have told me sooner."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Exhibition or not, a race is a race. I would have appreciated the opportunity to adjust her training regimen so that she could give her best performance, and I tell her as much."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I appreciate the sentiment, but I've already factored in our current schedule."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "No adjustments will be required."
+        },
+        {
+            "name": "Monologue",
+            "text": "But that will still place a heavy burden on her. As her trainer, it's something I can't ignore.",
+            "choice_data_list": [
+                "You need to rely on me more.",
+                "You need to rely on me more."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I appreciate your concern, Trainer. Truly, I do."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But by the same token, I ask the same from you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Please, have a little more faith in me.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "No… Perhaps that's the wrong way of thinking about it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I were truly worth believing in, I wouldn't have to convince you at all."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That, I believe, is what Air Groove was trying to tell me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've got it all wrong, President. You don't… understand at all…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I must be more selfless. Push myself harder. Make greater sacrifices."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Who will follow the Emperor if she doesn't show that she can lead?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My ideal is still a distant dream. I must seek out more victories and greater prestige."
+        },
+        {
+            "name": "Monologue",
+            "text": "From the way she's speaking, she should sound grand, but instead she just looks… like she's drowning.",
+            "choice_data_list": [
+                "Have you spoken with Air Groove?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Not yet. Preparing for the Fan Fest has been keeping her too busy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Besides, she has already thrown down the gauntlet, and I've found my answer to it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I will put on such a convincing performance at the exhibition race that none will be able to doubt me."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Failure is a luxury I can't afford on such a grand stage."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A mediocre performance will undermine the impact I've made on the racing world, and I cannot allow that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Every word lands like another weight on her back. It almost hurts to watch…"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "There you are, President! There are a few things I wanted to confirm with you about the Fan Fest…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Of course. I'll be right there."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My apologies, Trainer, but duty calls."
+        },
+        {
+            "name": "Monologue",
+            "text": "She departs, leaving me wondering once more if there's anything I can do to help her."
+        }
+    ]
+}

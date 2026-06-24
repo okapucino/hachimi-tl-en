@@ -1,0 +1,74 @@
+{
+    "title": "Don't Overdo It!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser gets injured during training, so I rush her to the infirmary."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Arrrgh… Ouch…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "This is the kind of injury that puts a hold on training for a while, huh? Mumuuun…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…You know, I can deal with a little pain, so do you think it'd be okay if I train anyway?",
+            "choice_data_list": [
+                "Let's stop now to ensure you can still run in the future.",
+                "Why don't we see what you can handle?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sigh…</i> You're right… It'd be dangerous to push myself…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All I can do right now is heal up quick… I'll take things easy today…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser sounds disappointed, but returns to her dorm."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks a bunch, Trainer!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay! Let's head back to the track right away and see if there isn't some exercise I can still do!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hyaaagh! Owowow!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Gyah… It's no use… It starts hurting the moment I put pressure on it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I guess all I can do right now is rest… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser slowly returns to the dorm looking pained."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew! I think I'll be fine as long as I don't break into an all-out sprint!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I should be able to train like this until I'm fully healed! Oh, thank goodness!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser stays mindful of her injury and trains comfortably within her limits."
+        }
+    ]
+}

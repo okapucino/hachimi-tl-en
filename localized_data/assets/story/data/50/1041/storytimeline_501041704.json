@@ -1,397 +1,420 @@
 {
-    "no_wrap": true,
+    "title": "これからもバクシン！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "After her outing―― \nSakura Bakushin O is once \nagain feeling down in the dumps."
+            "name": "Monologue",
+            "text": "One day, after going out, Sakura Bakushin O starts to look gloomy again."
         },
         {
-            "text": "She's feeling down because she's about \nto say goodbye to her freckle-faced \nclassmate."
+            "name": "Monologue",
+            "text": "As the day of her freckled classmate's departure draws closer, her mood grows darker and darker."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…I know that at Tracen Academy, \nstudents often leave school."
+            "text": "…I know that Tracen Academy has many students that come and go."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, I believed that…! That I would be \nwith my entire class the whole time, \ngrowing together, working hard together, \nand graduating together!",
+            "text": "But for whatever reason, I believed that everyone in the class would stay together, grow and improve together, and then graduate together!",
             "choice_data_list": [
                 "I see…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Even so, the day to say goodbye \nwill come."
+            "text": "Even so, the day she'll leave us all is really drawing near…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I'd like to do something \nfor her in the time we have left, but――",
+            "text": "I want to do something for her as class representative during the time she still has left…",
             "choice_data_list": [
-                "Why don't you give her a present?"
+                "How about a gift?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohh! \nThat's a superb idea!"
+            "text": "Oh! That's a great idea!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If this gift has to be a parting one, I want \nto make it something that stays in one's \nheart forever! \nHmhmhm, what should it be…!",
+            "text": "It needs to be something memorable! Hmm, what would be best?",
             "choice_data_list": [
-                "A fun run.",
-                "A straightforward song.",
-                "An encouraging cheer."
+                "You could run together for fun.",
+                "Perhaps a heartfelt song?",
+                "You could cheer her on."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A run, you say?"
+            "text": "Running?"
         },
         {
-            "text": "The time she spent training for her last \nrace must have been invaluable to her."
+            "name": "Monologue",
+            "text": "The time spent together training for her final race ends up becoming a precious experience to Sakura Bakushin O."
         },
         {
-            "text": "So why don't you go for one last, fun run \nwith her? That's my suggestion――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hoho, as expected of Trainer! \nWhat a magnificent idea!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That training was a memorable time not \nonly for her, but for me as well."
+            "name": "Monologue",
+            "text": "I suggest they go on one last run together, just for fun."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So――"
+            "text": "Oh ho! I'd expect nothing less of you! That's a great idea!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Thank you very much! \nI'll invite her out tomorrow A.S.A.P.!"
+            "text": "That special training wasn't just important to her, it was a precious memory for me too."
         },
         {
-            "text": "The next day, I saw Sakura Bakushin O and \nher freckle-faced classmate on the field.",
+            "name": "Sakura Bakushin O",
+            "text": "And so…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Thank you! I'll invite her first thing tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, Sakura Bakushin O and her freckled classmate meet near the tracks together.",
             "choice_data_list": [
-                "Good to see the sun is shining!",
-                "Good to see the sun is shining!"
+                "It's such a nice day!",
+                "It's such a nice day!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed! It's a beautiful blue sky with \nnot a single cloud to be found――ideal \nconditions for Bakushin-ing!"
+            "text": "Yes! It's a perfectly cloudless sky! The ideal weather to Bakushin!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "This feels a little nostalgic, huh～. \nIt feels like a long time ago that we \nboth trained together!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fu-fu, I feel the same way. \nThen, without further ado, let's get started!"
+            "name": "Freckled Umamusume",
+            "text": "It actually feels kind of nostalgic. Our special training feels like it was so long ago!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No need to go easy on me! \nLet's clash, without holding \nanything back!"
+            "text": "Hehe, I feel the same. Right, let's get started!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Of course! \nI'm not gonna lose, Baku-chan!",
+            "name": "Sakura Bakushin O",
+            "text": "Don't hold back! Let's both give it our all!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Of course! I'm not gonna lose, Baku!",
             "choice_data_list": [
-                "Go on, you two!",
-                "Go on, you two!"
+                "Off you go, you two!",
+                "Off you go, you two!"
             ]
         },
         {
-            "name": "Both",
-            "text": "Yes! \n<i>Bakushiiiiiiiii―n!!</i>"
+            "name": "Together",
+            "text": "Yes! BAKUSHIIIN!"
         },
         {
-            "text": "With smiles as bright as the \nsun, they started to run."
+            "name": "Monologue",
+            "text": "The two of them race off with smiles brighter than the sun."
         },
         {
-            "text": "And I kept running as much as \ntime and energy allowed."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hah, haa… \nThat was a Nice Bakushin you did!"
-        },
-        {
-            "name": "Freckled Horsegirl",
-            "text": "Baku-chan did, too. \nThat was a really fun run we did together!"
-        },
-        {
-            "name": "Freckled Horsegirl",
-            "text": "…You know, I'm really grateful \nto Baku-chan and Trainer."
-        },
-        {
-            "name": "Freckled Horsegirl",
-            "text": "It's because of you two that I feel so \nrefreshed!"
+            "name": "Monologue",
+            "text": "They continue running for as long as their energy and time permit."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, where did this come from? \nI've told you before, have I not?"
+            "text": "<i>Huff, huff…</i> That was a nice Bakushin from you!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "You too, Baku! That was a super fun partner run!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "…You know, I'm so grateful to you, Baku. And of course to your trainer too."
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "This invigorating feeling is all thanks to the two of you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I was just doing what \nI was supposed to do!"
-        },
-        {
-            "name": "Freckled Horsegirl",
-            "text": "Hmmm… That's it?"
-        },
-        {
-            "name": "Freckled Horsegirl",
-            "text": "But I thought I was making good friends \nwith Baku-chan, wasn't I?"
+            "text": "Don't be so modest. I told you once before, right?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "N, no!! Of course, it's because you're my \ndear friend, too!"
+            "text": "I just did what is expected of me as the class representative!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Fufu, thanks.♪ \nWill you continue to be my friend, from now \non?"
+            "name": "Freckled Umamusume",
+            "text": "Ah… Was that all it was?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Of course! \nEven though we may be far apart, we'll still \nbe friends!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――Forever and always!!"
+            "name": "Freckled Umamusume",
+            "text": "And here I thought we had become good friends…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A song, you say?"
+            "text": "N-no! Of course, it was also because you're an important friend to me!"
         },
         {
-            "text": "The Uma Musume of Tracen Academy have \nbeen conveying their feelings through \nraces and live performances."
-        },
-        {
-            "text": "I suggested that Sakura Bakushin O should \nsing a song about what she wanted to say \nto her and give her a live performance――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'll do that!!"
+            "name": "Freckled Umamusume",
+            "text": "Hehe, thank you! ♪ Can we stay friends from here on?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I am a member of the Tracen Academy. \nAnd I'm the class president, a role model \nfor students!!"
+            "text": "Of course! No matter how far apart we are, you'll always be my friend!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's create the absolute best song with \neveryone from class, and give her a live \nperformance she'll never forget!"
+            "text": "Forever and ever!"
         },
         {
-            "text": "And a day later. \nThe gymnasium was rented out for the \nconcert.",
+            "name": "Sakura Bakushin O",
+            "text": "A song, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Umamusume at Tracen Academy share their feelings in the form of races or concert performances."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suggest to Sakura Bakushin O that she let her classmate know how she feels by putting her words into a song and doing a live show."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll do it!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm also a student of Tracen Academy! What's more, I'm also a genius and class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll compose the best song with the other class members, and put on a live concert she'll never forget!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, Sakura Bakushin O and her classmates reserve the gymnasium to put on a live concert.",
             "choice_data_list": [
-                "Here, the lead singer goes in the middle."
+                "Come here, the main act should stand in the middle!"
             ]
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "O, okay! Are you sure about this? \nI can't believe you're doing this live for me―"
+            "name": "Freckled Umamusume",
+            "text": "O-okay! Is this real? A concert just for me?!"
         },
         {
             "name": "Classmate A",
-            "text": "Really, really! \nWe've all worked so hard to prepare for this!"
+            "text": "Yup, yup! We worked hard to prepare everything!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fu-fu, thanks to you, we were able to create \na spectacular song! \nWe'll give you the best fight song the world \nhas ever witnessed!!"
+            "text": "Hehe, thanks to everyone, we made a fantastic song! I present you with the best song of encouragement ever!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come, come! The whole class is right \nabout to begin the Bakushin Live!"
+            "text": "Okay! Your classmates are ready to start the BAKUSHIN LIVE SHOW!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "\"――Let's forge on ahead～♪ \nEven if we're separated now～♪\""
+            "text": "Eyes forward, and walk toward the future. ♪ Even if we walk a different path. ♪"
         },
         {
             "name": "Classmates",
-            "text": "Yeah, yeah!!"
+            "text": "Yeah, yeah!"
         },
         {
-            "text": "Sakura Bakushin O's sincere singing \nand the cheerful chorus of her classmates \nechoed in the air. \nBut, in the end――"
+            "name": "Monologue",
+            "text": "Sakura Bakushin O's honest and sweet singing voice, combined with her classmates' cheerful clapping, echoes through the vicinity. But before long…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Even if, we're apart."
+            "text": "Even though this is goodbye…"
         },
         {
-            "text": "Sakura Bakushin O choked on her \nwords and looked away.",
+            "name": "Monologue",
+            "text": "At a loss for words, Sakura Bakushin O's eyes fall to the floor.",
             "choice_data_list": [
                 "Bakushin O…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm sorry, I――"
+            "text": "I'm sorry, I…"
         },
         {
             "name": "Classmates",
-            "text": "\"――My heart is a straight line～♪ \nUnder the blue sky, we're connected～♪\""
+            "text": "…Our hearts look straightforward, a direct link. ♪ Connecting us below the blue sky. ♪"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "E, everyone!?"
+            "text": "E-everyone?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "(…That's right. What am I doing!? \nBeing overcome by my own feelings, \ninterrupting the live performance――)"
+            "text": "(What am I doing? Wallowing in sentiment and interrupting the performance…)"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "(As class president, as Sakura Bakushin O, \nI have to deliver this song to her…!)"
+            "text": "(I have to send her off with a song, as class representative… as myself!)"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "\"Goodbye? No, no, that's not right♪ \nThis is advancing to the future, moving \nforward's…～♪\""
+            "text": "Is this goodbye? No! ♪ This is progress! ♪ We move forward into the future!"
         },
         {
             "name": "Classmates",
-            "text": "\"Bakushin! Bakushin!\"",
+            "text": "BAKUSHIN! BAKUSHIN!",
             "choice_data_list": [
-                "\"Bakushin! Bakushin!\""
+                "BAKUSHIN! BAKUSHIN!"
             ]
         },
         {
-            "text": "Sakura Bakushin O managed to pull it off, \nand the concert went off without a hitch."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O manages to compose herself and the concert goes off without a hitch."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuugh, I apologize for the shameful scene \nI showed you earlier."
+            "text": "I am really sorry for showing you such an embarrassing side of me earlier."
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "You've got nothing to be sorry for! Thank \nyou, for putting on such a wonderful show \nfor me."
+            "name": "Freckled Umamusume",
+            "text": "Not at all! Thank you for the wonderful performance you put on for me!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "…I'll keep running, even after I leave the \nacademy."
+            "name": "Freckled Umamusume",
+            "text": "…I will continue running even after leaving the academy."
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Because this farewell is \"moving forward \nto the future's Bakushin,\" right?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…That's right! \nI hope we can run together again some day!"
-        },
-        {
-            "text": "Thus, after a parting of ways, Sakura \nBakushin O had grown up a little."
+            "name": "Freckled Umamusume",
+            "text": "Our parting is just a \"Bakushin straight for the future,\" right?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A cheer, you say?"
+            "text": "…Yes! One day, let's run together again!"
         },
         {
-            "text": "She's as sad to be moving away as Sakura \nBakushin O is to be leaving her."
-        },
-        {
-            "text": "But it would only be a sad farewell if \nthings went like this. \nI told her I'd send her off in good spirits――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I… see. \n…You're right, Trainer!"
+            "name": "Monologue",
+            "text": "And so, with this farewell, Sakura Bakushin O grows a little."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaall right! Let's give her a cheer with all \nof our might!"
+            "text": "Cheer her on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Sakura Bakushin O is saddened by her parting, the freckled girl is sure to be just as sad about moving away."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, if this continues, it'll be nothing more than a tearful goodbye. So, I suggest she gives her a cheerful send-off instead."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I hope that when she thinks of Tracen \nAcademy, it'll always bring a smile to her \nface…!"
+            "text": "Yes, you're right. It's just as you say!"
         },
         {
-            "text": "And then, on the day to say goodbye――"
+            "name": "Sakura Bakushin O",
+            "text": "Okay! I'm going to put all my energy into one final cheer to send her off!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Thanks for coming to see me off, \neveryone! \nEven Baku-chan's Trainer.",
+            "name": "Sakura Bakushin O",
+            "text": "That way she'll smile each time she thinks back on her time at Tracen Academy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the day of parting comes…"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Everyone, thank you for coming to see me off! You even brought your trainer, Baku!",
             "choice_data_list": [
-                "Take care out there."
+                "All the best at your next place."
             ]
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "I will! \nThe same goes for Trainer and Baku-chan, \ntoo."
+            "name": "Freckled Umamusume",
+            "text": "Yes! All the best to you two as well!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…The truth is, being in the same class for \nthe rest of our lives, and to graduate \ntogether, we can't… Uuuugh!"
+            "text": "I really wanted to stay together in the same class and graduate together… <i>Sniff.</i>"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Baku-chan…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "However, I've made up my mind! \nAs class president, I will send you off with \na smile!"
+            "name": "Freckled Umamusume",
+            "text": "Baku…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyone――here we go!!"
+            "text": "But I made up my mind! I'm going to see you off with a big smile as class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hurray! Hurray! Fight on!! \nFull Speed Ahead・Big Bakushin!!"
+            "text": "Everyone! Let's go!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "GO! GO! FIGHT! FULL STEAM AHEAD! SUPER BAKUSHIN!"
         },
         {
             "name": "Classmates",
-            "text": "Hurray! Hurray! Fight on!! \nFull Speed Ahead・Big Bakushin!!"
+            "text": "GO! GO! FIGHT! FULL STEAM AHEAD! SUPER BAKUSHIN!"
         },
         {
-            "text": "Sakura Bakushin O and her classmates \ngave a warm cheer of encouragement to \ntheir departing friend."
+            "name": "Monologue",
+            "text": "Along with her classmates, Sakura Bakushin O gives a warm cheer to her departing friend."
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Thank you. I'm sad to leave you all, but \nI'll do my best out there!",
+            "name": "Freckled Umamusume",
+            "text": "Thank you! I'm really sad to leave you all, but I'll do my best at my new location!",
             "choice_data_list": [
-                "It's a summoning call…"
+                "Ah, I think that's the sign to board."
             ]
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "Sorry, I have to go. \nTake care, everyone…!"
+            "name": "Freckled Umamusume",
+            "text": "Sorry, I have to go now. Take care, everyone!"
         },
         {
-            "text": "As the girl trotted towards the entrance \ngate, with everyone watching until they \ncouldn't see her anymore, Sakura Bakushin \nO hurriedly chased after her."
+            "name": "Monologue",
+            "text": "As everyone watches the girl hurry toward the boarding gate, Sakura Bakushin O hurriedly chases after her."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――W, wait, please!! \nJust one more word…!"
+            "text": "…H-hold on! Let me say one last thing!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Huh?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I may be far away, but I'm still your class \npresident! \nBecause that's the only thing that will \nnever change…!!"
+            "text": "No matter how far apart we are, I will always be your class representative! That alone will never change!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "…Yeah!"
+            "name": "Freckled Umamusume",
+            "text": "…That's right!"
         },
         {
-            "name": "Freckled Horsegirl",
-            "text": "I'm so glad that I'm in the same class \nas―I'm so glad that Baku-chan's the \nclass president!!"
+            "name": "Freckled Umamusume",
+            "text": "I'm so glad I was able to be in the same class as you… and to have you as my class representative!"
         },
         {
-            "text": "This time, she was nowhere to be seen, and \nSakura Bakushin O looked down sadly."
+            "name": "Monologue",
+            "text": "After her friend is out of sight, Sakura Bakushin O looks at the ground dejectedly."
         },
         {
-            "text": "But the next moment, \nshe looked up and turned to me."
+            "name": "Monologue",
+            "text": "But just as quickly she raises her face and looks at us with an energetic expression once more."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyone, let's go! For her sake, we'll \nmake a name for ourselves all over the \ncountry!!"
+            "text": "Let's go back, everyone! We have to make sure our fame spreads throughout the country to make up for our missing member!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, onto the future, Bakushinbakushin!!"
+            "text": "Let's aim for a bright future! Bakushin, BAKUSHIIIN!"
         },
         {
-            "text": "The sound of her cheerful voice echoed \nthroughout the surroundings, warming the \nhearts of those around her."
+            "name": "Monologue",
+            "text": "Her cheerful voice reverberates around the vicinity, adding a little warmth to the hearts of everyone present."
         }
     ]
 }

@@ -1,0 +1,80 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "…Don't worry, it's not <i>that</i> bad."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "In fact, it's nothing. I can still run, no problem.",
+            "choice_data_list": [
+                "You need to rest up.",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But why? I just need to kiss it better and be on my way."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Things like this are a part of everyday life back in my hometown.",
+            "choice_data_list": [
+                "If you don't take care, it may come back to haunt you later."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmph… Okay, if you insist. I wouldn't wanna have to miss a race."
+        },
+        {
+            "name": "Monologue",
+            "text": "After tending to her injury, I give Oguri Cap the rest of the day off to recuperate."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. I got hurt like this all the time back when I used to run in the woods."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Ah.",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Uh, well… maybe it does hurt a little, now that I think of it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I didn't even notice it earlier. That's not a good sign."
+        },
+        {
+            "name": "Monologue",
+            "text": "After tending to her injury, I give Oguri Cap the rest of the day off to recuperate."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If you told me to leap up onto a cliff, I might struggle a little, but still…",
+            "choice_data_list": [
+                "What kind of example is that?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, that's just the sort of solo training I used to do back in the day. As long as I don't have to do that, I should be okay to continue."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Come on. Let's give it another go."
+        },
+        {
+            "name": "Monologue",
+            "text": "After tending to her injury, I comply with Oguri Cap's request to resume training."
+        }
+    ]
+}

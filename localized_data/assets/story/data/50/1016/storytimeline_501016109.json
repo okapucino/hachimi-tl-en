@@ -1,0 +1,206 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is almost here, but for the time being, rest is what's most necessary."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've decided to incorporate a break into our schedule since going too hard can be detrimental."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl…</i>",
+            "choice_data_list": [
+                "Shall we get some food?",
+                "Shall we get some food?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Cheerful music is playing in the streets and there's holiday joy in the air."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ah, Trainer."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What a coincidence. Are you by yourself too?",
+            "choice_data_list": [
+                "Yeah. You too?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah. I'm just walking around."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "But I think I ran into you at the perfect time, actually. What are you doing after this?",
+            "choice_data_list": [
+                "I'm looking for something to eat."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I see. I think I'll join you.",
+            "choice_data_list": [
+                "You didn't eat yet?",
+                "You didn't eat yet?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You could say that."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I want meat. I'll leave the place to you."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up sharing a meal with Narita Brian."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Nice choice. The meat's top quality.",
+            "choice_data_list": [
+                "You haven't really touched your veggies…"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Oh, you want them? Here."
+        },
+        {
+            "name": "Monologue",
+            "text": "Without any hesitation, Narita Brian hands me her plate."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'll just wait till you're done. So, what's next?",
+            "choice_data_list": [
+                "Next?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hm? Don't you plan on going anywhere else?",
+            "choice_data_list": [
+                "Well, do you? What's your plan?",
+                "Well, do you? What's your plan?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "My plan is… just to relax. I don't really have anything else to do."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "It's the last break before the Arima. I can't afford to injure myself or anything."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Plus, I'd rather spend time with you than by myself."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "At least with you, we can talk about racing, so I can still have a productive break. Right?",
+            "choice_data_list": [
+                "That defeats the point of a break."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Nah, it doesn't."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Talking about racing with you is when I feel most relaxed."
+        },
+        {
+            "name": "Monologue",
+            "text": "We speak a while more, and by the time we leave the restaurant, it's already dark outside."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Look at all these lights. The whole world seems to be in the holiday spirit.",
+            "choice_data_list": [
+                "Yet we're in the racing spirit—same as ever.",
+                "Yet we're in the racing spirit—same as ever."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "That's our life."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Just because it's a holiday doesn't mean we have to do anything special."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're here, I'm here, so let's just think about racing."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Personally, I love this everyday stuff more than anything else."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Okay, I have a solid strategy for the Arima. How about we do a trial run tonight on the academy track?",
+            "choice_data_list": [
+                "Absolutely not!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hmph."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Not even just one lap?",
+            "choice_data_list": [
+                "Save that energy for the real deal."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Stock up and then unleash, huh?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Fine. Then I'll see you at the Arima Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today turned out to be a fulfilling day of working toward our next goal."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "By the way…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Do you consider me a part of your everyday life?",
+            "choice_data_list": [
+                "A very important part."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Heh… I see. I guess it's mutual then."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Let's get back to our everyday life tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian smiles in satisfaction."
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, shortly before Valentine's…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Please! I beg of you to help me, Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "If that's all you want, why didn't you just say so back in the dorm? Why come all the way to my classroom?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I was in a hurry, and… I wanted to see what you were like in study mode. ♪"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Good grief… Okay. I'll help you after class."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Brilliant! Thank you, Groove!",
+            "choice_data_list": [
+                "Fine!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…! Trainer?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "M-my… Did you hear that?",
+            "choice_data_list": [
+                "If you need help with something, I can chip in too.",
+                "If you need help with something, I can chip in too."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "N-no, it's fine! There's no need to trouble yourself!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We don't have training today if I'm not mistaken. Ergo, you need not come check on me. Good day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shot down…"
+        },
+        {
+            "name": "Monologue",
+            "text": "From that time on, Fine Motion starts rushing home the second training is finished."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe I should talk to her security captain…"
+        },
+        {
+            "name": "Security Captain",
+            "text": "I'm very sorry, but I don't involve myself in Her Highness's personal affairs…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer, could you spare some time to meet with me after school today?",
+            "choice_data_list": [
+                "Sure…"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you! See you then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After classes finish for the day, I head to our meeting spot."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter.</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, here you are! Happy Valentine's Day, Trainer!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Good afternoon. We've taken the liberty of starting."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's security team is gathered around her, enjoying a meal.",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I wanted to show a small token of my appreciation for all the trouble everyone goes through for me every day. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So I cooked up this banquet with some help from Groove! ♪"
+        },
+        {
+            "name": "Security Captain",
+            "text": "I, too, was only invited a short time ago. Normally, I would never permit myself to eat alongside Her Highness in this manner, b—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's fine! It's Valentine's Day! Do try some, Trainer! ♪",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "It looks like everyone is enjoying themselves. I suppose helping you prepare everything was worth the trouble."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I brought what you asked for, but… are you really going to use this?",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. ♪ Woo! I wub you, Trainer!",
+            "choice_data_list": [
+                "Wh-what's going on?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This is a fan that people use at idol concerts to cheer for their \"oshis\"! I thought it would be the perfect way to convey my gratitude to everyone. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Woo! I wub you too, Groove! And I wub you, Captain!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…My condolences, Captain."
+        },
+        {
+            "name": "Security Captain",
+            "text": "I'm sure I don't know what you mean… Excuse me, Your Highness. You look so charming that I would like to capture this moment. May I take a photo?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Does everyone around Fine do nothing but dote on her?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe! Woo! Love and peace! And an extra helping of veggies for all! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, I return to my office after handling some business one day to find a card placed on my desk.",
+            "choice_data_list": [
+                "It says \"Guess who!\""
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's nothing else written on it, but there's only one person I can think of who would make a card like this."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…",
+            "choice_data_list": [
+                "…Fine?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah… Hello, Trainer."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So you've found it.",
+            "choice_data_list": [
+                "This card is from you, right?",
+                "This card is from you, right?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes. Um, I have something I wish to tell you."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay. Act as usual…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "SURPRISE!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Happy Valentine's Day, Trainer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This is for you. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion hands me some colorful preserved flowers."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I made them myself… with some help from Groove."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "She knows all about flowers, so she assisted with choosing the types and showed me how to handle them."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I think they should last a long time when preserved like this. ♪",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Do you like them? Oh, I do hope you like them!",
+            "choice_data_list": [
+                "I love them."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank goodness…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I thought that today would be a great opportunity to show my appreciation for you."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I wanted to prepare some words for you as well."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But when I gaze upon your face, I feel like something peculiar will escape my lips, so I've abandoned that idea!",
+            "choice_data_list": [
+                "What do you mean by peculiar?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The fact I didn't say should tell you it's a secret."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…However, I put all of my feelings into your gift. I hope you'll cherish it.",
+            "choice_data_list": [
+                "Of course I will."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Right. Much obliged."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I shall endeavor to keep these feelings in full bloom forevermore."
+        }
+    ]
+}

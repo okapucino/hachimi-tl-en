@@ -1,0 +1,277 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest, a big event where the students do all sorts of things, from running races to selling tasty treats, to delight their fans."
+        },
+        {
+            "name": "Monologue",
+            "text": "That includes Tosen Jordan. Seeing as she's working so hard, I'm thinking of bringing her some refreshments, when…"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I'm sorry to bother you, but aren't you Tosen Jordan's trainer?",
+            "choice_data_list": [
+                "That's me."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Would you mind telling me in which competition Jordan will be participating?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I have something I'd like to ask her, face-to-face."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Kay. Now don't touch your nails for another five minutes. They <i>should</i> be dry already, but better to be on the safe side."
+        },
+        {
+            "name": "Young Umamusume",
+            "text": "Whoa… My nails are so beautiful!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Feels good, right? I recommend these 'cause they're specifically for sports. I already told your mom the brand."
+        },
+        {
+            "name": "Young Umamusume",
+            "text": "Thanks! Hey, Mom! She made my nails look really cute!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Jordan! Thank you so much for helping out again. ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No worries! I love painting nails. Plus, it worked with my shift schedule. <i>And</i> it's nice and cool here."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… You really do an incredible job, though. I think it's wonderful how you nurture the dreams of kids who want to show off their colorful nails in a race one day."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oooh, don't stop there. Lay it on thick! Makes me want to go the extra mile. ☆"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "There she is…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan has volunteered to help out at an event for health in kids' racing, organized by members of the student health committee."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh? Trainer and… Ikuno? What's up? I don't see you two together often."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ah… That's true. Actually, I'm looking for Golshi. She dragged Turbo off somewhere."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I talked with McQueen, and she thought she might be here with you, Jordan."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Can everyone stop treating us like we're some kind of package? That said, sorry, but I haven't seen Golshi."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Is that so? Well, thank you for your help. Though… I'm surprised."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "About?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "That nail polish is not from a famous brand, but it's good quality. My manicurist recommended it to me."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well… I do know my stuff when it comes to nails. I've been buying nail products since way back."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "It's so kind of you to share that knowledge with the next generation."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Now, I have to resume my search for Golshi… If you'll excuse me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having arrived right at her break time, I join Tosen Jordan for lunch."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh…</i> Focusing really makes me hungry. Buy me something, Trainer!",
+            "choice_data_list": [
+                "How did I know you'd say that?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yesss. It's because you get me. Thanks."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Man, there's so many people. I wonder what they're all doing here.",
+            "choice_data_list": [
+                "It's a chance for them to see a different side of you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, you mean outside of racing? In that case, I wish more of them would follow me on Umasta."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hang on… Isn't that…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nakayama?",
+            "color_text_info_list": [
+                "Nakayama"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It is! Is she speaking to a fan? Wow, talk about a rare sight. I wonder what she's doing."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, I can't really see from here. This is gonna bug me."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hehe… I'm gonna head a bit closer."
+        },
+        {
+            "name": "???",
+            "text": "Yaaahhhh!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?! That sounds like…"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "We found her, Golshi! It's Jordan, the evil mastermind!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's right, Golshi! Okay, Turbo! Show Jordan that special skill of yours!"
+        },
+        {
+            "name": "Turbo and Golshi",
+            "text": "WhooOAAAAGH!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uhhh, what the hell are you guys doing? And why are you teaming up?! This isn't a race—it's the Fan Fest!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ah! There you are, Turbo!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "…And Jordan?! This is good—with you on my side, it's two-on-two!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nooo! Why am I getting dragged into this?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With her cry of protest falling on deaf ears, Tosen Jordan finds herself in a battle against Gold Ship."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, lemme through. Move aside, please."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…I'll be counting on your support. And that other thing."
+        },
+        {
+            "name": "Fan A",
+            "text": "R-right! And one for my friend too!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? You're seriously engaging with your fans? You?! Nakayama?!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hm? Who said that? Oh, Jordan."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "We're at the Fan Fest, aren't we? I can at least have a little chat with them."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Suuuure… But still, I can barely believe it."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'm not naive. You can't enter the Takarazuka Kinen without being popular.",
+            "color_text_info_list": [
+                "Takarazuka Kinen"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? The Takarazuka Kinen?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "No time to waste. While I've got you here, help me out, Ms. Popular."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ms. Popular?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Whoa! Is that the real live Jordan?! I-I… I've been following you on Umasta since the Satsuki Sho! You're sooo cool!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For real?! You follow me? Wow, thanks so much! ☆"
+        },
+        {
+            "name": "Fan B",
+            "text": "O-of course!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "You wanna support me too, don'tcha? I'm one of Jordan's Satsuki Sho pals."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Come on, I won't disappoint."
+        },
+        {
+            "name": "Fan B",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "The heck! Can you, like, <i>not</i> poach my fans, please?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Tosen Jordan and Nakayama Festa continue mingling with the fans."
+        }
+    ]
+}

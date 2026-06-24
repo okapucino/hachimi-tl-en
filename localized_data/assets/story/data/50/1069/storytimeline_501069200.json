@@ -1,0 +1,229 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Yaeno Muteki joins us in training as she and Sakura Chiyono O make the final preparations for their debut."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The way you accelerate at the end is amazing, Yaeno! Watching you is teaching me so much about how to use my legs properly!",
+            "choice_data_list": [
+                "Thanks for joining us today."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The pleasure is all mine."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It is through daily training that we are able to shape our strength, and I'm grateful to have had the opportunity to work with you."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I promised my grandfather that I would improve myself at Tracen Academy, so I cannot neglect my training for a single day.",
+            "choice_data_list": [
+                "You've been training every single day?"
+            ],
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Correct."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Interesting… Hm…",
+            "choice_data_list": [
+                "Did that inspire you?",
+                "Did that inspire you?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh. Hehe… Did you see me writing that down?",
+            "choice_data_list": [
+                "I sure did."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Heh… If he knew the aspirations of our martial style resonated with you as well, Grampa—my grandfather would be proud."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "However, I've heard that you're Maruzensky's beloved disciple. I have a feeling you already have a goal established within you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Just as I seek out challenges that embody the peak of the racing world, in order to show how much I've learned in my races thus far, so too must you—"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The Derby. My dream is to run in the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "For a moment, the wind comes to a halt."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen entrusted that dream to me, so I won't let anyone else have that race."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yaeno. How about we run 2,400 meters next, the same length as the Derby?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wasn't expecting her to make such a suggestion. As her trainer, I know better than to let her run that, so I hurriedly interject.",
+            "choice_data_list": [
+                "You're not ready for that distance yet, Chiyono O."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Awww, what? Does this mean you're not letting me do it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that they're finally race-ready, it seems the two of them are eager to test their limits, but they're not considering the strain they might put on their bodies."
+        },
+        {
+            "name": "Monologue",
+            "text": "It won't do if they overexert and exhaust themselves, so I have make sure I supervise and limit how much they train."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Can't we run just a little of it?",
+            "choice_data_list": [
+                "Absolutely not!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Aww… Fine…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…Was that a flicker of fear I felt just now? Just from looking into Chiyono O's eyes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the day of Sakura Chiyono O's debut!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If I take both the distance of the race and the weather into account, the speed at which I should run down the final stretch should be…",
+            "choice_data_list": [
+                "You've been buried in your notebook all day.",
+                "You've been buried in your notebook all day."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Of course! These Chiyonotes contain all my priceless proverbs and training details!",
+            "color_text_info_list": [
+                "Chiyonotes"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I've got to keep prepping until the last second! \"Treat each step as a step toward the Derby\"—those are my words to live by!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "There's plenty of time until the starting gates open, so I'm going to continue reviewing!",
+            "choice_data_list": [
+                "…You're really serious about this.",
+                "…You're really serious about this."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… Well, yeah. I am."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's about the only saving grace I have."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I don't possess any outstanding natural talent, so I have no choice but to work hard every day.",
+            "choice_data_list": [
+                "You can be pretty bold sometimes, though."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "Like when you wanted to run the Derby's length of 2,400 meters."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Haha… Sorry about putting you on the spot then, Trainer."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…But the Derby is the one race I have to win, no matter what."
+        },
+        {
+            "name": "Monologue",
+            "text": "From what happened recently with Yaeno Muteki, I know how sincere her wish is."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The Derby. My dream is to run in the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "The second Maruzensky was brought up, the look in her eyes completely changed."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm? What's wrong, Trainer?",
+            "choice_data_list": [
+                "You're not the type to let anyone take your dream from you.",
+                "You're not the type to let anyone take your dream from you."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe! Of course not! Well, I'm off to the paddock!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O puts down her hefty notebook and phone on the desk, and she heads off."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her notebook, stuffed with all sorts of sticky notes and papers, embodies all the hard work she's put in… as well as her desire for what's to come."
+        }
+    ]
+}

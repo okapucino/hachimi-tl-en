@@ -1,0 +1,309 @@
+{
+    "title": "闇の中にうごめく影は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash and I are walking around the academy after training when we happen to spot a suspicious figure stumbling about."
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Unngh… Aaagh… Nnghhh!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I wonder what's wrong with that person? Perhaps they don't feel well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, that's not it. Their movements are too erratic for someone who is unwell…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The figure sways to-and-fro, shoulders slumped and arms hanging limp as they walk. In fact…",
+            "choice_data_list": [
+                "They look like a zombie…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What?! Trainer, please do not say such nonsensical things."
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Unngh… Braaains!",
+            "choice_data_list": [
+                "I think they just said \"brains\"…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "N-no… They're probably just hungry."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "At any rate, we should see if they're all right. If they're not well, they may need help."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Um… are you okay? If you're feeling poorly—"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Uuungh… NRAAAGH!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "EEEEEK!",
+            "choice_data_list": [
+                "R-run!",
+                "R-run!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "One look at the person's terrifying face as they lunge at us and there's no mistaking it—they really <i>are</i> a zombie!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Pant! Pant!</i> How can this be?!",
+            "choice_data_list": [
+                "It's a real zombie!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But that's impossible! I admit their unpredictable movements resemble those of a zombie…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But I cannot accept that such unscientific, irrational phenomena exist in this wo—"
+        },
+        {
+            "name": "Zombie",
+            "text": "Graaah!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "EEEEEK!",
+            "choice_data_list": [
+                "Run for your life!",
+                "We have to stand and fight…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I-I… won't believe it! Zombies cannot physically exist!",
+            "choice_data_list": [
+                "Run!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "R-right!"
+        },
+        {
+            "name": "Zombie",
+            "text": "Urraaagh!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…?!",
+            "choice_data_list": [
+                "What's wrong?!",
+                "What's wrong?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "M-my legs w-won't move! I-I'm too scared!"
+        },
+        {
+            "name": "Zombie",
+            "text": "Urgh… Urgh! Mragh nngh gaaah!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I-I'm done for! Save yourself!",
+            "choice_data_list": [
+                "Take my hand!",
+                "Take my hand!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Zombie",
+            "text": "Uraaaaagh! Nnngh hraaah grrr!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thankfully, the zombie is slow, so I manage to pull Eishin Flash out of there and make a clean getaway."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Huff… huff…</i> D-did we… make it out alive?",
+            "choice_data_list": [
+                "We're safe now.",
+                "We're safe now."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Th-thank… Thank goodness…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Um, a-apologies… for my earlier behavior and… f-for grabbing your hand like that…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A-anyways! Thank you for saving me. Had you not been so quick to take action, I would not have been able to escape."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "From… From the bottom of my heart, thank you."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Oh. I'd better return to the dorm. It's getting late.",
+            "choice_data_list": [
+                "I'll walk you back."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, thank you! You have done so much for me as it is…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To be honest, I was very frightened earli—"
+        },
+        {
+            "name": "Zombie(?)",
+            "text": "Pheeew! Man, it's hard to breathe in these full-face masks."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But I managed a full thirty minutes in it! I feel sooooo much better now."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehehe! Nothing makes you appreciate being alive more than a good ol' zombie routine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After learning the truth, Eishin Flash would glare at Gold Ship for the next three days with eyes cold enough to freeze the Arctic twice over whenever they crossed paths…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "B-be that as it may, I don't know of any countermeasures against a zombie!",
+            "choice_data_list": [
+                "Do you have any talismans or charms?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Charms?! Y-yes, I do! I-I have this one for transit safety!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Take this!"
+        },
+        {
+            "name": "Zombie",
+            "text": "Aaagh? Tch, tch."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I-it didn't work! Wh-wh-what do we do now?!",
+            "choice_data_list": [
+                "Pray!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "O-okay… Oh, higher power above! Vanquish this impure soul!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Cast them into the furthest reaches of… uh, anywhere but here! Please! I beg of you!"
+        },
+        {
+            "name": "Zombie",
+            "text": "Ho, ho, ho, ho!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wha… Why is it squat dancing?! It's no use! Our prayers didn't work either!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now what? Is all hope lost?!",
+            "choice_data_list": [
+                "How about a warding spell?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A warding spell! That's it! I'm sure it'll work on such an evil spirit!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Toi, toi, toi… Toi, toi, toi, toi, toi, toi!"
+        },
+        {
+            "name": "Zombie",
+            "text": "…Raaaaagh!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I-it's working! Toi, toi, toi, toi, toi!",
+            "choice_data_list": [
+                "Toi, toi, toi!"
+            ]
+        },
+        {
+            "name": "Zombie",
+            "text": "URAAAAAGH!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "W-we did it! We defeated the zombie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But the instant the zombie falls to the ground, a full-face mask slips off its head."
+        },
+        {
+            "name": "Zombie(?)",
+            "text": "Whew, that was thirty minutes on the nose! As they say, it's best to be left wanting a little more."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Pardon me, Golshi, but what exactly were you doing?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh? I was doing a zombie routine to appreciate being alive, obviously. You mean you don't?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "…Ah, cheeseburgers!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It's almost time for my <i>Rickshaw Drift: Wooden Wheels of Fury</i> routine!",
+            "choice_data_list": [
+                "…There she goes.",
+                "…There she goes."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh…</i> I have no words. I'm just so very relieved it was not a real zombie…"
+        }
+    ]
+}

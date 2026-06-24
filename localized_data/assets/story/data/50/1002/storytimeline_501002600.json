@@ -1,0 +1,38 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go to visit Silence Suzuka in the prep room before the race only to discover she isn't there."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff… Puff…</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer…",
+            "choice_data_list": [
+                "Did you go for a run?",
+                "Did you go for a run?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I got the itch, so I did a lap around the racecourse."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It looks like it's about time…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'll give everything I have to reach the front…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I won't give up the lead to anyone."
+        }
+    ]
+}

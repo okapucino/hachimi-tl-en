@@ -1,0 +1,275 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we're walking through the shopping district…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hm? It seems pretty lively over there."
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "You two over there! Care to try your luck?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ooooh, it's a raffle!",
+            "choice_data_list": [
+                "Wanna give it a shot?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Can we?! Yeah, let's do it ri—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait, we gotta get a raffle ticket first!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Looks like we have to buy something from one of the shops to get one…"
+        },
+        {
+            "name": "Special Week",
+            "text": "So let's buy enough snacks for a single ticket, hehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…And so we acquire one raffle ticket."
+        },
+        {
+            "name": "Special Week",
+            "text": "We've only got one chance! Let's nab something great, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Praying for good luck, we grasp the raffle machine's lever together and turn…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? Wait… Whaaat?! No way!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Um… Trainer? What should we do with this ticket?",
+            "choice_data_list": [
+                "You can have it, Spe.",
+                "You can have it, Spe."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "What?! But we won it together…",
+            "choice_data_list": [
+                "Take it and go on the trip with someone."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Like anyone?"
+        },
+        {
+            "name": "Special Week",
+            "text": "…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Got it. Could you hold onto the ticket for me in the meantime, then?"
+        },
+        {
+            "name": "Special Week",
+            "text": "We've got so much we need to work on right now, so this isn't the time to sit back and relax at a hot spring."
+        },
+        {
+            "name": "Special Week",
+            "text": "Please give it back to me when we've managed to get everything done!",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe, that's a promise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I take Special Week's hot spring ticket for safekeeping."
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Wooow! That hamburger steak looks <i>so</i> juicy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "And the carrots are glistening… I just know it's gonna taste heavenly!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ahhh, hamburger steak… That sure takes me back…"
+        },
+        {
+            "name": "Special Week",
+            "text": "My mom would always make it for me whenever I had a tough day in the fields or had to shovel snow."
+        },
+        {
+            "name": "Special Week",
+            "text": "Did I ever tell you how unbelievably tasty my mom's hamburger steak is when you're exhausted and your stomach is empty?",
+            "choice_data_list": [
+                "The taste must bring back memories.",
+                "The taste must bring back memories."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yup! Memories of being with my mom…"
+        },
+        {
+            "name": "Special Week",
+            "text": "So… Trainer! Let's share this hamburger steak!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I wanna create unbelievably tasty memories with you too! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, Special Week and I share an unbelievably tasty hamburger steak."
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Awww, I wanted to eat the deluxe carrot hamburger steak…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait… Come to think of it, we've got a whole bunch of ingredients now."
+        },
+        {
+            "name": "Special Week",
+            "text": "So we should just make our own hamburger steaks!",
+            "choice_data_list": [
+                "Great idea!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Right?! All righty, let's go and buy the rest of the ingredients we need!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe! I wonder how many hamburger steaks we can make…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I remind Special Week several times not to polish them all off in one day as we finish shopping and head back."
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "A single carrot?! But what about the deluxe hamburger steak… or even the pile of carrots…",
+            "choice_data_list": [
+                "There, there…"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Sigh…</i> Well, I guess this is better than nothing."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! I gotta think positively!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'll cherish this single carrot and devour it for the tasty morsel it is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week is slightly boosted by however much joy a single carrot can bring."
+        },
+        {
+            "name": "Lottery Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Awww, man…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Darn it… I really wanted to win something."
+        },
+        {
+            "name": "Monologue",
+            "text": "Both Special Week and I wallow in disappointment."
+        }
+    ]
+}

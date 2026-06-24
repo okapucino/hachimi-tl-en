@@ -1,0 +1,327 @@
+{
+    "title": "Das Vorbild",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days have passed since I removed the Kikuka Sho from Eishin Flash's schedule, but she still seems a bit lost."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Ah.",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My training schedule requires changes."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This was originally designed for long-distance running to prepare for the Kikuka Sho…",
+            "choice_data_list": [
+                "Then let's adjust it."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, except I do not know how. Changing a single element could cause a total upheaval."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Not to mention, there is still a chance I may yet run in the Kikuka Sho…",
+            "choice_data_list": [
+                "Then why don't we keep the program as is?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "As in continue training for long-distance races?",
+            "choice_data_list": [
+                "It's good practice for the Arima Kinen."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…",
+            "choice_data_list": [
+                "You don't seem very convinced."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Pardon me, but I need time to think."
+        },
+        {
+            "name": "Monologue",
+            "text": "For better or worse, she has a one-track mind. Now that her schedule's off, she won't be able to move forward without some major convincing.",
+            "choice_data_list": [
+                "(But how do I convince her?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She needs an experience that can give her a new perspective. I think back on her run with Mr. C.B."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mr. C.B. gave Eishin Flash invaluable experience by running with her ahead of the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "Right now, Flash might need to experience another setback."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, a lively voice fills the air."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha! This is easy peasy! ♪ Bring me some heavier dumbbells!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Who am I? The Invincible Teio, that's who!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Indeed, the title fits her. Tokai Teio took on the Classic Triple Crown with a flawless record and got so far as claiming two crowns, but an injury kept her out of the Kikuka Sho.",
+            "color_text_info_list": [
+                "Tokai Teio"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When I ask her if she could have a word with Eishin Flash, she agrees without missing a beat."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So you wanna know how I felt when I dropped out of the Kikuka Sho, right?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…!",
+            "choice_data_list": [
+                "Yes, please."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer, this isn't—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Don't sweat it, Flash. I agreed to this myself, so it's all good."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Of course, things were real tough when it happened."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "There's someone who's really, really important to me, y'know. Can you guess who?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "President Symboli Rudolf, I presume. I often see the two of you together."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Bingo! The reason why I wanted to win the Triple Crown was because I wanted to be just like Prez."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And I was on a roll, too! I got to the Derby without a single loss, won it, and even got praised by Prez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And then, poof! I couldn't run in the last race and my dream went up in smoke."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yet you still race, even now."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "How were you able to regain your footing after being thrown off the path you were following?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I asked myself what Prez would do in my cleats."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She'd never, ever give up. Prez would keep looking forward and keep marching on."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So that's what I did."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I didn't want to look bad in front of the person I admire!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The person you admire…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Why did you decide to share all of this with me?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, that's easy."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Cause Prez woulda done the same!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After parting ways with Tokai Teio…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have no idea…",
+            "choice_data_list": [
+                "About what?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What those I admire—what my parents would do in my position. The thought never occurred to me at the time."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I wanted to become just like them, so I adhered to my schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yet in the end, all I was doing was mimicking their methods."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now that I've strayed from their way of doing things, I don't know how my parents would handle this situation.",
+            "choice_data_list": [
+                "Then how about asking yourself what they <i>wouldn't</i> do?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What?",
+            "choice_data_list": [
+                "Thinking about it the other way around might help."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What would they absolutely not do? That would be…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer. In regards to my next race…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Would it be possible to run in the Japan Cup a year earlier than scheduled?",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Runners from all over the world come to compete in the Japan Cup, and it goes without saying that only the best of the best take part in it."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I gave your suggestion some thought—about what the people I admire, namely my parents, would not do."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They would not abandon their path. Most likely, they would attempt to carry out course corrections."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The reason I reached this conclusion is because it isn't right to completely scrap a timetable once it has been created."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Therefore, for me to correct for the course, I must seek a parallel route that will lead me through the same difficulties as the Kikuka Sho."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The Japan Cup is the same length as the Derby and is held in the same venue. I've already run that race, so I should be able to recover in a month."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Since the greats of my generation are focused on the fall races, I would be up against senior year opponents."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Even if I do race in the Kikuka Sho, I should take on this challenge to compensate for the days I've wasted."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japan Cup is extremely competitive, but…",
+            "choice_data_list": [
+                "I know you can hold your own, even against senior racers.",
+                "I know you can hold your own, even against senior racers."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. Now let's come up with a strategy so I don't have to eat my words.",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It seems I am in your debt once again.",
+            "choice_data_list": [
+                "Why do you say that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To tell the truth, I was completely lost and had no idea how to move forward…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But getting exposure to alternative perspectives, such as when I faced against C.B., helped bring clarity and understanding."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I tend to get mired in my own thoughts, so I appreciate the outside input.",
+            "choice_data_list": [
+                "Your strengths more than make up for the overthinking."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Thank you very much."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Eishin Flash adopts a positive mindset while preparing for the Japan Cup."
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the roof after receiving an invitation from Kawakami Princess."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Inhale… Exhale…</i> And soon, when Trainer arrives…",
+            "choice_data_list": [
+                "Princess?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "W-wait a moment! You're far too early! This means…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's time for take two!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Take two.",
+            "choice_data_list": [
+                "(…Take two?)"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, you've arrived, Trainer.",
+            "choice_data_list": [
+                "What is it, Princess?",
+                "What is it, Princess?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Um… Well…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-t-today… Today, um, uh…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…What was my next line again?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay, take three!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ahem!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Oh, you've arrived, Trainer.\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Are you aware of what day it is today? February is the season of sweet memories…\"",
+            "choice_data_list": [
+                "…Valentine's Day?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes! Valentine's Day! Therefore…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Please accept this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her face tinged with a bright-red hue, Kawakami Princess hands me a cutely wrapped box.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Y-you're welcome! S-so…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Um… About my Valentine's Day gift…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Did I follow proper etiquette as I handed it to you?",
+            "choice_data_list": [
+                "Etiquette?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I did a bunch of research so that I could do everything right today!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "First of all, the type of sweets you gift someone will change the meaning. I think the timing also matters too…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "True elegance means always choosing the most appropriate course of action. Even when giving a gift to a close associate, I must strive for that ideal…",
+            "choice_data_list": [
+                "You didn't have to go that far."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "B-but if I mess up, the person receiving the gift won't be as happy as if I did it correctly…",
+            "choice_data_list": [
+                "It's the thought alone that makes me happy."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…",
+            "choice_data_list": [
+                "Is it okay if I eat some?",
+                "Is it okay if I eat some?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "O-of course! Please go ahead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I unwrap Kawakami Princess's gift to find chocolates from a famous store I often read about on the internet.",
+            "choice_data_list": [
+                "You got so many for me.",
+                "You got so many for me."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ehehe… Well, I wanted to make you really happy."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stuff my face with chocolate as Kawakami Princess watches."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh—hold on! May I ask you to wait just a moment?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "There's one more thing that I, um, would like to do.",
+            "choice_data_list": [
+                "Is this part of that etiquette stuff?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No… Or at least, it wasn't mentioned anywhere in the stuff I read…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Um, apparently there's a trick to putting your feelings into handmade sweets, which makes them taste even better."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I made sure to do so when I was making them, but… I'm worried about the result."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Can I try putting my feelings into them once more before you eat? I know this hardly makes for good manners, but…",
+            "choice_data_list": [
+                "Of course. Would you do the honors?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-thank you! Here goes, then… Hear my words, gift of chocolate!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Captivate my trainer's taste buds! Your princess commands it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-that should do it. …Please enjoy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Urged on by a strangely nervous Kawakami Princess, I lift a cupcake out of the box and take a bite."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Gulp!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess she's not very used to making food for others. The taste inside my mouth fluctuates between a burnt bitterness and the sweetness of unmixed sugar."
+        },
+        {
+            "name": "Monologue",
+            "text": "But…",
+            "choice_data_list": [
+                "I can taste the love you put into it."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh my, truly?! Hehe, I'm so glad that you like it. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I give Kawakami Princess some sweets I made for her in return."
+        }
+    ]
+}

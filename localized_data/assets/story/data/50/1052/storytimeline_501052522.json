@@ -1,0 +1,33 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "Trainer! Good morn—<i>ACHOOO!</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ngh. My nose is so itchy.",
+            "choice_data_list": [
+                "Think it's a cold?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mm… Well, King put some cream on my pimple."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But it feels sticky and its smell is making my nose all itchy… Eugh."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I just want that pimple to go awaaay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara seems very worried about her skin problems."
+        }
+    ]
+}

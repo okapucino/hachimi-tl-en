@@ -1,0 +1,233 @@
+{
+    "title": "The Everyday Advisor's Every Day",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I have plans to eat lunch with Mejiro Palmer today, but…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, really, just giving it a try is probably your best bet."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hmm, I see… You know, Palmer, you never disappoint. I'll let the folks in the shopping district know the plan and go from there!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sounds good! And y'know, you're quite the busy bee yourself, Nature!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, I'm just doing what I can to pay back their kindness. Anyway, sorry for interrupting your lunch plans, you two!",
+            "choice_data_list": [
+                "No problem! Good luck."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, the number of people coming to Mejiro Palmer for advice doesn't let up…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It won't be a walk in the park, but it'll really help lighten the load for the general affairs committee if you can pull it off."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "…That never occurred to me. But yes, this would be a good opportunity to streamline our workflow."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I shall begin working on these amendments to the manual at once."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You got that \"take action\" thing down pat! The rest of the committee must really appreciate your work ethic, Ikuno!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Listen… Can you hear all their happy voices, saying how glad they are to be in the flower bed, where they can grow nice and big?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe… I can! The flowers look happy dancing on the breeze, too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you for making me realize that it's no good to stay sad and droopy just because I broke a flower pot!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "There we go! That's the face I wanna see! You have to keep on smiling so you can cheer the flowers up too!"
+        },
+        {
+            "name": "Cleaning Staff",
+            "text": "Goodness, I don't even remember why I was so hung up on this. You're a lifesaver, Palmer! Thanks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone who comes to Mejiro Palmer for advice walks away with a relieved smile, including Tracen students, staff, and even…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Located! Mejiro Palmer! Apologies for approaching you right after your training!",
+            "choice_data_list": [
+                "Hi, Director! Did you need me for something?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I hear you have been listening to those in need and helping others broaden their perspectives! That is truly commendable behavior!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "After seeing you in action with my own eyes, I wished to ask you for some advice myself!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, wow! That's such a huge honor! I'd be happy to help any way I can!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…Which is why some students have been worried. I definitely think there's more room for supporting them."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Much gratitude! Your input has been most helpful! Now, to incorporate those points into future plans!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Thank you too! I'm excited just hearing about your new plan! I really think it'll help make our school a better place!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whew… I sure carpe'd the heck out of this diem after talking to so many people today!",
+            "choice_data_list": [
+                "You looked really happy while hearing everyone out.",
+                "You looked really happy while hearing everyone out."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! For real? Well, I do like knowing about how other people's lives are going."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And that optimistic look in their eyes when things click into place just fills me with energy."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It's like when a spark sets their heart on fire, it makes mine burn just as bright…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It makes me wanna work harder because I don't wanna lose out to them, y'know?",
+            "choice_data_list": [
+                "Since you're all fired up, how about a short run?",
+                "Sounds like you have great synergy with people.",
+                "Sounds like you have great synergy with people."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It makes me wanna work harder because I don't wanna lose out to them, y'know?",
+            "choice_data_list": [
+                "Since you're all fired up, how about a short run?",
+                "Sounds like you have great synergy with people.",
+                "Sounds like you have great synergy with people."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I like the way you think! All right, time to get this party started!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Pant, pant, pant…</i> Phew! This is what I call living my best life!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rustle, rustle.</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? Sounds like there's something in the bushes…"
+        },
+        {
+            "name": "Stray Cat",
+            "text": "Meeeow…",
+            "choice_data_list": [
+                "A cat?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh? And with a heavy heart by the sound of it. Go ahead, spill the catnip tea.",
+            "choice_data_list": [
+                "Um, I know you're good at listening to others, but that's a cat…"
+            ]
+        },
+        {
+            "name": "Stray Cat",
+            "text": "Meow… Mrrreow, mow…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh? You lost your territory? You poor dear… But, hey, what if you think of it another way?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, this is your chance to leap into a whole new world!"
+        },
+        {
+            "name": "Stray Cat",
+            "text": "Meow!",
+            "choice_data_list": [
+                "N-no way, did that really work?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer is willing to lend a sympathetic ear to everyone… even cats. It's been eye-opening getting a glimpse of just how big her heart is."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah! That! That's what was on my mind just now!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Stuff has a way of working out somehow… so don't worry about me, 'kay, Trainer?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You've been worried about me all day, haven't you? 'Cause I was talking to so many people and trying to solve all their problems?",
+            "choice_data_list": [
+                "Just a bit…"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! I thought so. But whenever you see me helping someone out, I want you to look at it like this."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Don't think I'm <i>giving</i> away my energy, look at it as me <i>sharing</i> my energy with people!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How's that? Does that perspective help put your worries to bed?",
+            "choice_data_list": [
+                "Yeah, it does!",
+                "Yeah, it does!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer extends a helpful hand to everyone in the face of all kinds of dilemmas. I learn a lot from her mindset."
+        }
+    ]
+}

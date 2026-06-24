@@ -1,0 +1,288 @@
+{
+    "title": "I Don't Wanna Go Home!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Nooo! I don't wanna go home yet!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho and I are in a bit of a situation after a day out.",
+            "choice_data_list": [
+                "But we really need to head back."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But why? It's not even dark yet!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I wanna keep going and I wanna eat something sweet!",
+            "choice_data_list": [
+                "I know, but…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The witching hour is only just starting! I'm not going back! No way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm glad she had a good time today, but we need to get back soon, or it'll interfere with her plans later."
+        },
+        {
+            "name": "Children",
+            "text": "Ahaha! Hey, come and get me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, I notice some children that seem to be trying to squeeze in every last bit of fun they can before they each have to head home.",
+            "choice_data_list": [
+                "All right, let's have some fun!",
+                "Let's cross that magic circle!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! That's what you shoulda said from the start!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Let's just get to the tr—",
+            "choice_data_list": [
+                "I'm gonna go talk to those kids real quick.",
+                "I'm gonna go talk to those kids real quick."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Huh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask the children if we can join their game and they gladly agree. However…",
+            "choice_data_list": [
+                "C'mon, Sweep!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No! I don't wanna play any kiddie games!"
+        },
+        {
+            "name": "Child A",
+            "text": "She's not gonna play? Okay, let's keep racing!",
+            "choice_data_list": [
+                "Ah, y-yeah…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Humph… Hrm… GRRRRR!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be getting more and more upset. I wonder how I can get her to enjoy herself…"
+        },
+        {
+            "name": "Child B",
+            "text": "Hey, can you break off this branch? I wanna make a sword.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Making swords sounds like something Sweep Tosho would want to join in on!",
+            "choice_data_list": [
+                "Looks like we might need some magic…",
+                "Looks like we might need some magic…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…! Did someone say magic?"
+        },
+        {
+            "name": "Child B",
+            "text": "No, I just need a grown-up to break it off for me.",
+            "choice_data_list": [
+                "Oh! But we've got a witch right here!"
+            ]
+        },
+        {
+            "name": "Child A",
+            "text": "Huh? You can use magic?"
+        },
+        {
+            "name": "Child C",
+            "text": "Wow! That's amazing! I wanna see! Show us! Show us!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!",
+            "choice_data_list": [
+                "Will you cast a spell for everyone?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Fine! I guess I can if you really want me to! ♪♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Powerful dimorphotheca! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crack!</i>"
+        },
+        {
+            "name": "Children",
+            "text": "Wow, you made two swords! How did you split it so perfectly?! It really was like magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Because it really <i>is</i> magic! I found a weak point and concentrated my magic there!",
+            "choice_data_list": [
+                "(Well, it was more the power of her hands than magic…)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Here, I've enchanted this sword with magical power. Take good care of it!"
+        },
+        {
+            "name": "Child B",
+            "text": "Um… Yeah… I will, thanks…"
+        },
+        {
+            "name": "Monologue",
+            "text": "That puts Sweep Tosho in a good mood and she plays with everyone after!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm tired. Let's go!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What magic circle?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…You mean those hopscotch circles?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho points to a long stretch of circles that some children scribbled on the ground."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Those were just drawn by some kids. They don't have any power.",
+            "choice_data_list": [
+                "Actually, between you and me…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What?",
+            "choice_data_list": [
+                "The person who drew those is actually a witch that lives around here."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait, really? Tell me more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to her that the circles have been enchanted to give you more strength the more you cross them."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Are you suuure?",
+            "choice_data_list": [
+                "(Urk!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I guess there's only one way to find out. What's the order you have to jump?"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Hop, hop, hop…)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Wow!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Holy cow! I feel jam-packed with magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait a second… This is really magic! Incredible!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They aren't really enchanted, but it looks like there might have been a placebo effect. She seems to be in a good mood.",
+            "choice_data_list": [
+                "(Now we just need to get back to the academy…)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What's going on? I feel like all my strength is draining…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, I get it! These magic circles aren't complete!",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So do something about it, Familiar! They're losing their magic!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hurry! Move your butt!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, so next is that white spot?! Got it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I come up with the idea to continue the path of magical circles along the white parts of the crosswalk… and successfully bring her back to campus."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait, they stopped! Where's the next magic circle?!"
+        }
+    ]
+}

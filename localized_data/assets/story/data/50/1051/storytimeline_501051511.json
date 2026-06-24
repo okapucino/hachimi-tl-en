@@ -1,0 +1,211 @@
+{
+    "title": "Flower-Made",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After the day's training is done, I decide to go over our upcoming schedule. As I take out my notebook…",
+            "choice_data_list": [
+                "Ack!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It slips out of my hands… and drops smack into a puddle.",
+            "choice_data_list": [
+                "<i>Sigh…</i> Looks like I need a new notebook…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, I can make a cover for it if you like?",
+            "choice_data_list": [
+                "A notebook cover?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes! It won't be able to fix the damage, but it should help protect your notebook a bit longer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I appreciate the thought, but I don't want it to take up Nishino Flower's free time.",
+            "choice_data_list": [
+                "I couldn't ask you to go through the trouble."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Aw shucks, what a waste!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're turning down the chance to get your hands on a handmade cover from Flower? They're the best around."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The cover she made for my tackle box has been tough enough to withstand every kind of adverse element I've subjected it to.",
+            "choice_data_list": [
+                "That strong, huh?",
+                "That strong, huh?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep, and it works like a dream. I'd like to ask her to make me another one, honestly."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wasn't sure how well it would turn out since I made it from a pattern template, but I'm glad you like it so much!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I've still got plenty of fabric left over, so I'd be glad to make you another tackle box cover!"
+        },
+        {
+            "name": "???",
+            "text": "Mmm? In that case, I would like to put in a request as well! Could you make me something I can use while conducting research?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The arm covers you crafted for me are peerless in terms of quality!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "They've shielded my arm against countless mishaps, from explosions to chemical spills!",
+            "choice_data_list": [
+                "Th-they sound really sturdy.",
+                "Th-they sound really sturdy."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Precisely! What's more, the covers' texture is outstanding, making them extremely comfortable to wear!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'm deeply intrigued by their strength and composition. Such qualities could be put to practical use in my research."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So I ask, in the name of scientific progress! Please construct another pair of arm covers for me!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "No… Let's embark on a joint research project instead! You may use my laboratory as you see fit. How does that grab you?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Th-thank you. I'm glad to see you're so passionate about my arm covers."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But I'm happy just making them my usual way. We don't need to do anything extreme in a lab!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No kiddin'! Flower's covers are all the rip-roarin' rage!",
+            "choice_data_list": [
+                "Wh-what now?!",
+                "Wh-what now?!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Taiki! R-rip… roaring?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeah! The grip cover ya made for my revolver's perfect for practicin' my gun spinnin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No matter how roughed up it gets or how many times I drop it, it never so much as frays!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "They don't make 'em that good in the States, I tell ya!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "In other words, what she's offering is the real deal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know it, we're surrounded by passionate devotees of Nishino Flower's handmade covers. They shower her work with effusive praise.",
+            "choice_data_list": [
+                "Your covers sure are popular.",
+                "Your covers sure are popular."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I had no idea everyone was so pleased with them… I only made those covers for fun. If anything, I thought I was just being a bother…"
+        },
+        {
+            "name": "Everyone",
+            "text": "A bother? No way!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, I, uh… Thank you! I'm so happy that you like my work!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ohh… My cheeks are burning up!",
+            "choice_data_list": [
+                "Now I can't wait to see my new notebook cover.",
+                "Now I can't wait to see my new notebook cover.",
+                "No need to hide your feelings!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ohh… My cheeks are burning up!",
+            "choice_data_list": [
+                "Now I can't wait to see my new notebook cover.",
+                "Now I can't wait to see my new notebook cover.",
+                "No need to hide your feelings!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-oh, right! One notebook cover coming right up!",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll put all my heart into it, so I hope it puts a smile on your face! And I'll make covers for everyone else, of course!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yet another fan joins the ranks… Well, what can you do?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What?! You want me to express myself more than this?! I'm not even sure how…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "BOOM! Just puff out yer chest, Flower! Yer number one in everyone's hearts, don'tcha know!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay! Time to show you all my gratitude…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmph!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thanks, everyone! I really appreciate the nice things you said!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her devoted following quietly nods in unison at the sentiment."
+        }
+    ]
+}

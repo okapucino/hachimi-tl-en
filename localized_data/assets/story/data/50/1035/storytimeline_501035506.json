@@ -1,0 +1,191 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I pass by the dance studio, I'm surprised to hear Winning Ticket's voice from inside."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yo! Hah! YAAAH!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket, how many times must I say that you waste too much effort with your moves?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You don't always have to use \"full power.\" Try to pace yourself a little.",
+            "choice_data_list": [
+                "Hey, what are you guys doing?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, hello. I'd normally say it should be obvious, but perhaps that's not the case."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "When I first saw her engaged in this activity, I thought she was practicing karate chops."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh?! What do you mean? I'm <i>clearly</i> doing dance moves!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Her words, not mine."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I got some advice from Hayahide, but it's not really going so well."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Especially the final twirl! No matter how much I try, I always lose my balance!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, oh, Trainer! You gotta have some advice for me too, right?!",
+            "choice_data_list": [
+                "Well, I'm not a dance instructor, so…"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Actually, your insight may be valuable precisely <i>because</i> this isn't your area of expertise."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If this goes on, I'm gonna make a fool of myself at the winning concert for sure!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Come ooon! Please! I need your help!",
+            "choice_data_list": [
+                "You need to amp yourself up more.",
+                "You need to amp yourself up more.",
+                "You're using too much power.",
+                "You're using too much power."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Come ooon! Please! I need your help!",
+            "choice_data_list": [
+                "You need to amp yourself up more.",
+                "You need to amp yourself up more.",
+                "You're using too much power.",
+                "You're using too much power."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Amp myself up? Riiight, that's gotta be it!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "First I'll get motivated… YAAAAH!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "ALL RIGHT! LET'S GOOO!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe… Instead of reason, you go with motivation? You two are well matched.",
+            "choice_data_list": [
+                "We are?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I suspect you may understand Ticket more thoroughly than I do."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "We match well? Like, we make a good pair? W-wow!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm kinda embarrassed! But that makes me happy too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay, one more time! Watch me closely, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ticket fires herself up even more and manages to nail the final twirl beautifully."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Really? That's weird, I thought I was using the right amount…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I told you it was too much. That's why your movement isn't clean."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "At the very least, there's no need to give those deafening yells with every move you make."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ohhh, okay! You both have some good advice. I'll give it another go!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Still a little too strong, I think."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Even less than that?! Okay, okay… Relax… relax…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Wobble…</i> Aaaah…",
+            "choice_data_list": [
+                "Wh-why'd you slump onto the floor? Are you okay?",
+                "Wh-why'd you slump onto the floor? Are you okay?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? I just tried to relax my entire body."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now you're not using enough power. How do you plan to dance like this?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Y-you're right! Wow, Hayahide, you're so smart!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You must have studied so much… <i>sniffle…</i> to become that smart!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaah! Hayahide! You're great!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, yes, I understand… Let's continue your dance lesson."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sob…</i> Okaaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a thorough lesson on the value of relaxing her muscles, Winning Ticket ends up a little better prepared for her future dancing endeavors."
+        }
+    ]
+}

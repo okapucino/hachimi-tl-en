@@ -1,0 +1,79 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "It's lunchtime, and the cafeteria is as boisterous as always."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Don't be stubborn, Hayahide! Have my lunch! You need it!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ugh… I can't! That'll simply compound the problem!",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hayahide's on a hunger strike, and I'm worried about her!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm not on a hunger strike! I simply consumed a large number of calories earlier to optimize my brain function in class."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Unfortunately, I completed my calculations far sooner than expected, and now my body is storing an excess of calories!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, I get it! Well, if you want to get rid of the extra calories, then just do some extra exercise!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But that might result in overtraining. I can't afford to deviate from my carefully balanced training schedule.",
+            "choice_data_list": [
+                "Don't worry. I can make some adjustments."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's my fault that I made a miscalculation. It wouldn't be fair to burden you with more work because of my own mistake!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You mean you don't want to ask your trainer for help? Why not? That's exactly what trainers are for!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, when you put it that way… I suppose that <i>is</i> a trainer's job…",
+            "choice_data_list": [
+                "Then let's get to work!",
+                "Then let's get to work!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you, as always. I don't know what I'd do without you."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm here for you too! We're friends, after all! Now have my lunch so you can do your best out there!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…Were you listening to anything I just said?"
+        },
+        {
+            "text": "I make some adjustments to Biwa Hayahide's training schedule, and she's able to account for the extra calories she consumed earlier."
+        }
+    ]
+}

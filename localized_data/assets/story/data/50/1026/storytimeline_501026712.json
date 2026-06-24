@@ -1,0 +1,52 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I go looking for Mihono Bourbon after she doesn't show up to training, and find her in the cafeteria."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Season to taste? How many milliliters of seasoning is \"to taste\"?"
+        },
+        {
+            "name": "Lunch Lady",
+            "text": "However much you think is tasty! Just put in as much as you like.",
+            "choice_data_list": [
+                "Wh-what's going on?",
+                "Wh-what's going on?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master… I have a report. I have confirmed that the apple dish they serve at lunch helps me recover from fatigue."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Believing that it would aid my future activities, I examined the recipe, but I'm having trouble with terms that frequently appear, like \"to taste\" and a \"pinch.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Such vague wording is synonymous with errors. I can't make sense of this."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I decided to ask the person in charge of the kitchen to help me confirm the exact amounts so that I can focus on training instead.",
+            "choice_data_list": [
+                "But you're already late for training, you know?",
+                "But you're already late for training, you know?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…What?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My sincerest apologies. I was preoccupied with the errors, and that has led to my own… erroneous behavior…"
+        },
+        {
+            "text": "She seems to regret her miscalculation, so I tell her that she should rest today and we'll pick up training tomorrow."
+        }
+    ]
+}

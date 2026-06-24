@@ -1,0 +1,40 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Having woken up early, I take my time heading to the academy so as to enjoy all I can of the fresh morning air."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Good morning, Trainer. Isn't the weather beautiful this morning?",
+            "choice_data_list": [
+                "Someone seems chipper today."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. I had a relaxing day yesterday. Or maybe it's because of the nice dream I had last night…",
+            "choice_data_list": [
+                "What did you dream about?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well, in the dream, I was the wind, blowing across a huge plain…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My body was as light as air, and I could fly for as long and as far as I wanted."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. I bet I can run like the wind today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka appears fully revitalized and brimming with drive and energy."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap shows up at my office one evening after skipping training."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm sorry. I really messed up.",
+            "choice_data_list": [
+                "Can you tell me what happened?",
+                "Can you tell me what happened?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…I just really, reeeally couldn't miss it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Not the limited-time only Super Deluxe★Chop Suey XXXL!",
+            "choice_data_list": [
+                "…I'm sorry?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The Chinese restaurant in the shopping district has this famous chop suey, but it's only available at certain times…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm really, really sorry… I promise I'll make up for it in the next practi—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Sigh…</i> If only I had known it also causes super deluxe indigestion…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Since Oguri Cap already seems to be regretting her decision, I tell her we may as well give her stomach a rest."
+        }
+    ]
+}

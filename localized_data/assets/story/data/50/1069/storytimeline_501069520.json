@@ -1,0 +1,199 @@
+{
+    "title": "どすこい！決まり手指導！？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I see… So this is when you're supposed to use the thrust-down technique!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Exactly! When you're cornered at the edge of the ring, you can turn the tables by thrusting your opponent down and out! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "A quick look at my surroundings confirms I'm in the cafeteria and not at a sumo match. So why am I hearing sumo terms coming from the kitchen?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um, Trainer? Do you like cake?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm actually going to be baking cakes with Akebono after this, and I was hoping you could be my taste tester!",
+            "choice_data_list": [
+                "Sure! I'd be glad to help."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yay! Thank you! Let's go, then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Indeed, they're supposed to be making cakes, but for some reason…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, you need to whip the cream slower, like you're doing an arm locking twist down!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "An arm locking twist down, huh? Oh! It worked! The cream's formed soft peaks!",
+            "choice_data_list": [
+                "(I've never seen anyone teach baking with sumo terminology before!)"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Phew… When frosting the sides, should I use the strength of a frontal push out?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No, you can be bolder! You should use the strength of an inside leg trip! ♪"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Let's see, an inside leg trip… So it should be like <i>whack!</i> Wait, or was it more like a <i>shwip?</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm… This will probably be easier to understand if I get a hands-on demonstration. Akebono, could you please show me the move?",
+            "choice_data_list": [
+                "You're not going to start wrestling right here, are you?!",
+                "You're not going to start wrestling right here, are you?!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Haha! No, no! Doing that in the kitchen would be dangerous!",
+            "choice_data_list": [
+                "I-it sure would!",
+                "I-it sure would!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So let's head over to the gym!",
+            "choice_data_list": [
+                "(It's not our location I'm worried about!)"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "First, please teach me the inside leg trip! Think of me as the frosting!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay! I'll stop partway through the move so you don't get hurt, okay? ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Dosukoi!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I see! It's more like a <i>whoosh!</i> Next, can you show me how I should sprinkle on the chocolate with an over-thigh scooping body drop?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two continue on with their unique teaching techniques for a while…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Huff… Puff…</i> The cake's finished! Phew! That was quite the workout."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Go ahead and give it a taste it right away, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I have my doubts about whether the method they used to bake this cake can really have been effective… It looks good, but how will it taste?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chomp…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "To my surprise, the frosting has an incredibly delicate texture, and the sponge cake has the perfect amount of bounce to it.",
+            "choice_data_list": [
+                "Th-this is delicious!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I had no idea it was possible to make such an exquisite cake!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yay! Our attempt to bake using nothing but winning sumo techniques was a grand success, Akebono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hooray! Sumo techniques really are something!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm not used to making Western desserts, but those moves helped me understand how much strength to use on each step! I bet they can be applied to other things too, like…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, like training!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maybe if we applied sumo techniques to training, I could improve faster! What do you think, Trainer?",
+            "choice_data_list": [
+                "I'll buckle down and start memorizing them now!",
+                "Is there any trick to learning them?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "This may be a bit presumptuous of me, but since I have more experience in sumo wrestling than you, I'll be your teacher, Trainer!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I learned from my dad how to be a sumo wrestler with real determination! First, you have to start at the bottom of the hierarchy…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And make a hot pot dish perfect for tired sumo wrestlers—chanko!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay! Chanko!",
+            "choice_data_list": [
+                "Chaaankooo!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I put my nose to the grindstone and learn all about sumo through the power of chanko! I can't wait until I'm ready to use this in training!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "A trick? I guess doing some practice matches would be good! There's nothing like learning something through hands-on experience!",
+            "choice_data_list": [
+                "(P-practice matches?!)"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Let's head straight back to the gym, then! We can start by teaching you how to do a frontal thrust out…",
+            "choice_data_list": [
+                "H-how about we watch a video of a match instead?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, smart! It's good to get a firm understanding of the techniques before putting them into practice. I'll give you a running commentary on all the key points!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I devote myself to studying sumo… though I think I'll do it at my own pace."
+        }
+    ]
+}

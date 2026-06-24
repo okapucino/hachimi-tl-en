@@ -1,0 +1,195 @@
+{
+    "title": "行ったれ！牧場体験！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Tamamo Cross and I have finished shopping…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa! Creek, Oguri, you two really turned up!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, we got a farm to get to! Lead the way, Trainer!",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. ♪ I just can't wait to pet all the different animals! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Milk, cheese, yogurt… I bet there'll be all kinds of tasty things to try."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, Creek 'n Oguri are headin' to their stuff, so let's get going too!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "How to felt a coaster out of wool. Now where's the class… Oh, over there!",
+            "choice_data_list": [
+                "Are you going to make one to send home?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yep! I'm gonna make 'em a real nice—"
+        },
+        {
+            "name": "Cows",
+            "text": "<i>Moooooo!</i>"
+        },
+        {
+            "name": "Caretaker",
+            "text": "STOOOP! The stables are this waaaay!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We gotta move fast! Those cows are chargin' straight at Creek!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aw, aren't you the sweetest little sheep? And I bet you goats want some headpats too! ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, <i>you're</i> da reason they're all comin' over?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Sigh…</i> Their poor caretaker's in a real panic, so let's send the livestock back where they're supposed to be."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, <i>all</i> the animals are back where they belong… Now I can finally get back to makin' coasters…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? Oh, Tama and Trainer…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Did you want me to hang out with you? Sorry, but I've got my hands full transporting this milk."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And why exactly <i>are</i> you luggin' that around? Shouldn't the staff be doin' that?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well, the ice cream here is just so delicious that I went and ate their entire stock… before the other customers could even get a scoop…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm helping them out with the milk by way of an apology. They can use this milk to make more ice cream."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Guess that explains it! Well, lemme give ya a hand! Four hands'll get the job done faster."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time passes as we lug the milk barrels around together, and the farm shutters for the day…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sorry, Tama… You were so busy helping me that you missed out on making your coaster."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm sorry too… Taking the animals back to their pens must have taken you some time as well."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey c'mon! It's all good! I had a load of fun, and I got no regrets!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "('Sides…)"
+        },
+        {
+            "name": "Tamamo Cross's Little Sister",
+            "text": "Wowww! That shop's even bigger than our place!"
+        },
+        {
+            "name": "Tamamo Cross's Little Brother",
+            "text": "And there's so many of 'em! Tama, I wanna check out that one!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey now, don't run! If you wanna go someplace, you gotta wait for your big sis!"
+        },
+        {
+            "name": "Tamamo Cross's Siblings",
+            "text": "Okay! ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Man, it feels like we walked a marathon! My legs're stiff as a board here.)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Eh, but lookin' at those smiles, I feel like… it was worth it.)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It was a long, hectic day for sure, but we all had a good time, right? 'Cause that's what matters!",
+            "choice_data_list": [
+                "You'd better get some rest on the way home.",
+                "Let's do something like this again, all together."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, I guess we're gonna be on this bus for a while, huh."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Today was quite a workout. Y'know, I think… I might be… spent…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my. It looks like Tamtam's drifted right off to sleep.",
+            "choice_data_list": [
+                "Good job today, Tamamo."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Zzz… Zzz…</i> Th… anks…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking at Tamamo Cross's peaceful sleeping face, I feel my heart warming."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah! Mountain-climbing, beach party—you name it, I'm there. I'd have a blast goin' anywhere with you guys!",
+            "choice_data_list": [
+                "Let's go somewhere that <i>you</i> want to go, Tamamo.",
+                "Let's go somewhere that <i>you</i> want to go, Tamamo."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm happy to chaperone anything you want, Tamtam. Leave all the planning to mommy! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If Creek's going to be the mom, then… I'll be the dad. Tama, say the word and Dad'll make it happen."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Gaaah, not this again! You're as bad as da taiyaki guy. I! AM NOT! A KID!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so our trip to the farm comes to an end on a laid-back note."
+        }
+    ]
+}

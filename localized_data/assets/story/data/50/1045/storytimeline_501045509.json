@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "<i>Sigh…</i> I feel a bit… off…",
+            "choice_data_list": [
+                "Creek, you don't look so good…"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I didn't mean to make you worry. I'm fine. It's nothing, really."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I just feel like I've been getting tired more easily lately…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, it's not your fault though! I've probably just been pushing myself a tad too hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Super Creek is smiling, something is very clearly wrong. I should make some adjustments to her race schedule."
+        }
+    ]
+}

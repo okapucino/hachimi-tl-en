@@ -1,0 +1,110 @@
+{
+    "title": "エンディング",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Three years spent training with Air Groove are coming to a close."
+        },
+        {
+            "name": "Monologue",
+            "text": "She gave a performance in the Twinkle Series worthy of the moniker of Empress."
+        },
+        {
+            "name": "Monologue",
+            "text": "And even more challenges await us on the horizon."
+        },
+        {
+            "name": "Male Reporter",
+            "text": "Air Groove! Can you tell us about your plans for the future?"
+        },
+        {
+            "name": "Female Reporter",
+            "text": "Do you have any intention to run internationally? Are there any rivals in the younger generation you have your eye on?"
+        },
+        {
+            "name": "Training Umamusume A",
+            "text": "Oh my gosh, it's Air Groove! As cool and elegant as ever!"
+        },
+        {
+            "name": "Training Umamusume A",
+            "text": "Look at her, surrounded by reporters like that. Being the Empress is something else…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I head to the track in search of Air Groove only to find her in the middle of a crowd of reporters and other Umamusume.",
+            "choice_data_list": [
+                "(I'm getting a weird sense of deja vu…)",
+                "(I'm getting a weird sense of deja vu…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I remember back when I spent a whole day biding my time and waiting for a chance to talk to Air Groove because she seemed so busy."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…",
+            "choice_data_list": [
+                "(Of course! This happened then too!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She realized what I was doing back then and gave me a stern talking-to after."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's odd, but that memory is strangely comforting now. I keep my gaze focused on her, and…",
+            "choice_data_list": [
+                "Air Groove!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Apologies, I must be going. My trainer needs me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Let's go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove takes my hand and pulls me away with her!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Goodness gracious, the reporters have been out in full force recently. It really makes it difficult to practice.",
+            "choice_data_list": [
+                "Did we have to come all the way back to my office, though?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "It can't be helped. We're least likely to be bothered here."
+        },
+        {
+            "name": "Air Groove",
+            "text": "More importantly, I have something to say to you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What was with that show earlier? That's how you think you can get my attention?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You were like a sigh in the wind. You need to do much better than that.",
+            "choice_data_list": [
+                "A-ah, right. I'll do better…"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "What am I going to do with you? Puff out that chest! Be more confident!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "After all… you're this empress's trainer."
+        }
+    ]
+}

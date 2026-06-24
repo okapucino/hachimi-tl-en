@@ -1,0 +1,156 @@
+{
+    "title": "ちょっと寄りたいステキな場所",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back to the academy, Gold Ship pulls me onto a bus, saying there's a place she wants to go."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahh… The musty smell, the soft give of the seat, the gentle sway of the bus… I just can't get enough.",
+            "choice_data_list": [
+                "So where are we headed?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Headed? We're already here.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The bus is our destination. C'mon, keep up.",
+            "choice_data_list": [
+                "Are you serious?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeah! You can see everything worth seeing in this world on a bus!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Look! That telephone pole is fighting off an ivy infestation! Hold strong, oh valiant pole!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh, that dog over there's staring right at us. I wonder if it's trying to relay a message in Morse code via nose twitches!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "F-E-E-D-M-E… Sorry, pup, I don't have any snacks on me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship usually gets bored of things quickly, but the constantly changing scenery beyond the window seems to hold her attention remarkably well—"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All right! I'm bored of this! Let's get off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Seems I spoke too soon."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Time to prance, dance, and fly our way back home, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tracen Academy is quite a ways from here…",
+            "choice_data_list": [
+                "Bear with it and walk the distance.",
+                "Convince her to ride a different bus back."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship and I get off at the next stop."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now, let's see… Where are we?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hmm? It looks like we're about ten kilometers away from Tracen Academy."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's not so bad! On deer-back, that'll only take fifteen minutes, give or take."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Sit tight while I go wrangle us some deer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes every ounce of strength I have to stop her from going up the nearest mountain. We make it back to the academy eventually, sans deer."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But if I sit still any longer, I'm gonna turn into a giant clam!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Besides, changing buses when we don't know where we are is some top-level jutsu―"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, she notices something and freezes."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hold on a sec. I know this route… We're on the loop headed for Tracen Academy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's nothing but sprawling fields and rural roads outside the windows. The academy isn't on the list of stops either.",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeah. I got bored the other day and memorized the routes for all the buses 'round here.",
+            "choice_data_list": [
+                "E-every single one?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whoa! Check out that crow! Is it awesome or what?! Okay, I'm gonna become a bird!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "From now until we get back to the academy, I'm gonna be a shoebill stork! Don't try to stop me!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She starts flapping and squawking, making it impossible to confirm whether she really does know the bus route."
+        },
+        {
+            "name": "Monologue",
+            "text": "But thirty minutes later, we pull up near Tracen Academy just as Gold Ship predicted.",
+            "choice_data_list": [
+                "You really do have the routes memorized…"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Arf! Grr arf! Awoo!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Rrright. Anyways, I'm glad we made it back safe and sound."
+        }
+    ]
+}

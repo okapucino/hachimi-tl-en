@@ -1,0 +1,46 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Smart Falcon doesn't show up for today's training. Worried, I go looking for her…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hm, hm, hm! Yesss! ♪"
+        },
+        {
+            "text": "I spot her walking out of the music store in front of the station.",
+            "choice_data_list": [
+                "Someone looks like they're in a good mood.",
+                "Someone looks like they're in a good mood."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, hey, Trainer! Yeah, I'm in a fabulous mood!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I just bought the newest release from Gold ☆ White! They're my favorite idol group!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This album in particular is so cute! From the songs to the album art, right down to their outfits! <i>Sigh…</i> They're just the best…",
+            "choice_data_list": [
+                "…So much so that you forgot about training?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "E-ehehe… ☆ Sorry, Trainer…"
+        },
+        {
+            "text": "Smart Falcon apologizes sweetly. However, that isn't enough to get her out of trouble. I give her a good talking-to."
+        }
+    ]
+}

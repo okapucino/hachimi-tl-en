@@ -1,0 +1,52 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from a training session at a track in the city…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf comes to a halt in front of a display window."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have been sleepwalking into disaster, it seems…",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The fruits of my indolence are beginning to show. I have put on weight.",
+            "choice_data_list": [
+                "You look the same to me."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Don't be ridiculous. Can't you see how the seams of my skirt strain?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It appears the student council's clerical duties have done me no favors…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But I must set an example for my fellow students in both action <i>and</i> appearance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I must redress this as quickly as possible, and I am afraid you will have to assist me."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we work together on a diet program until Symboli Rudolf regains a racing physique she is satisfied with."
+        }
+    ]
+}

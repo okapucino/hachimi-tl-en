@@ -1,0 +1,77 @@
+{
+    "title": "More Fun!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Before we start training, I decide to speak to Fine Motion about today's agenda. However…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I know! Let's go for something different today. ♪",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm?",
+            "choice_data_list": [
+                "M-may I ask why?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Because it'll be more fun! I assume you're capable of adjusting the agenda?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've already come up with an idea. ♪ Right, let's get started right away!",
+            "choice_data_list": [
+                "Uh, hold on…"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Now, if memory serves, when making requests, it's best to say…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Pleeeeease! ♪",
+            "choice_data_list": [
+                "<i>Gulp!</i>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh? Not quite there, huh? Okay, let's try a different approach…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahem! You there. You truly mean to ignore <i>my</i> wishes?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If you're unwilling to listen to what I have to say… then I shall go ahead and pout. Hmph."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…",
+            "choice_data_list": [
+                "…Your wish is my command!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yay! Come on then, let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we end up going with Fine Motion's training agenda."
+        }
+    ]
+}

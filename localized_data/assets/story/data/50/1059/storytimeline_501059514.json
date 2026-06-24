@@ -1,0 +1,342 @@
+{
+    "title": "香りの魔術師",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During lunch today, Air Groove comes over to ask Mejiro Dober about essential oils."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "For headaches, lavender and bergamot are best."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, I recommend you use them with a clay mask before bed. It'll help you relax."
+        },
+        {
+            "name": "Air Groove",
+            "text": "A clay mask… Thanks. I'll give it a try. You're even more knowledgeable than I heard you were."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Who did you hear about me from?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Me, of course! I went an' told everyone how smart you are, Dober!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Taiki?! But it's not as if I know <i>that</i> much about essential oils…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don't be so modest! You know everythin' from beauty care to healthy habits, study hacks, and even sleeping tips!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Everyone needs to know how much learnin' ya got!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I mean, it makes me happy to hear you say that, but…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… Excuse me? Dober, you know a lot about essential oils, right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…I know a little. How can I help you?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, I'm actually asking on Spe's behalf. Her poor stomach is always growling, and I was wondering if there are oils that suppress hunger."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Suppress hunger? I've heard of ones that boost appetite, but let's see… I suppose something minty would help…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following this, countless students start consulting Mejiro Dober about their troubles."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I never seem to get enough sleep. Are there any essential oils that promote better sleep or something?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I want one that keeps you wide awake! I know someone who's dozing off all the time!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Settle down, you two. You should both use some geranium oil to help calm your nerves."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "For muscle pain, I recommend using a beeswax cream mixed with lavender and tea tree oil."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Beeswax? Ooh, I wonder if the wax will have any honey left on it? Sounds delicious!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It won't, so don't try to eat it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After having to deal with an endless stream of queries, Mejiro Dober is exhausted."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Whew… I can finally take a break…",
+            "choice_data_list": [
+                "You're a real expert.",
+                "You're a real expert."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-not really. It's not that big of a deal.",
+            "choice_data_list": [
+                "So, why do you know so much about essential oils anyway?",
+                "So, why do you know so much about essential oils anyway?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe, thanks. I just hope I was able to help everyone.",
+            "choice_data_list": [
+                "So, why do you know so much about essential oils anyway?",
+                "So, why do you know so much about essential oils anyway?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No reason… I just needed to know."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I didn't plan on learning so much… It's just tough to live without them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The aromas help me relax and forget about all the bad stuff."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The aromas help me relax and forget about all the bad stuff."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I learned about them in order to protect myself."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I had no idea there'd be such a demand for my expertise."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Maybe I should learn even more…",
+            "choice_data_list": [
+                "That's a great idea!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What are you so happy about?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You think? Then maybe I will. It'd be nice to be able to help others more."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What, do you have something you want to ask me too?",
+            "choice_data_list": [
+                "What essential oils do you usually use?",
+                "Could you recommend some oils to me?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "By the way, if you have anything you'd like to ask, I'd be glad to hear you out.",
+            "choice_data_list": [
+                "What essential oils do you usually use?",
+                "Could you recommend some oils to me?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wh-what?! What does it matter to you?! Why do you want to know?!",
+            "choice_data_list": [
+                "Oh…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What I use? Oh, I don't want to talk about myself. It's embarrassing…",
+            "choice_data_list": [
+                "Oh…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, are you really that sad that I won't answer?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, are you really that sad that I won't answer?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose I can tell you the shop I frequent…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The staff there are pretty nice…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, I'm heading to the shop Mejiro Dober recommended, when…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Oh. You.",
+            "choice_data_list": [
+                "Are you going to the essential oils shop?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer! What a coincidence.",
+            "choice_data_list": [
+                "Are you going to the essential oils shop?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah. I was looking to get some new oils."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You don't know anything about essential oils, do you? I guess it wouldn't kill me to teach you a little…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why don't we go together since we're both here? I'll help you pick some that suit your needs."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and I go to the shop together, and I buy some nice essential oils there."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and I go to the shop together, and I buy some nice essential oils there."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You want my recommendations?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…You're horrible at managing your sleep schedule and maintaining a balanced diet."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You've been sleep-deprived because of work lately, and I've been worried about whether you're eating properly…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You should focus on fixing those fundamental parts of your life first."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You should focus on fixing those fundamental parts of your life first."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Something like sweet marjoram can help stabilize your biorhythm…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And for that… I think you can use sweet marjoram to help you relax."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But since you're always at your desk, I bet your back is under a lot of pressure too. Eucalyptus and rosemary might help with that…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But since you're always at your desk, I bet your back is under a lot of pressure too. Eucalyptus and rosemary might help with that…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm… I think it might be better if you try smelling them yourself."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You didn't understand anything I just said, did you? <i>Sigh.</i> Just go back to your office for now…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Can you wait for me in your office? I'll bring you some oils I have to sample."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, Mejiro Dober brings a massive amount of essential oils to my office."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, Mejiro Dober brings a massive amount of essential oils to my office."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So? How's the eucalyptus? Doesn't it make you feel like you're relaxing in a forest?",
+            "choice_data_list": [
+                "It's nice…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And this is the sweet marjoram. Do you feel your body getting warmer and warmer?",
+            "choice_data_list": [
+                "I'm getting sleepy…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, here. Do you want to try smelling the Damask rose? It's supposed to be extremely relaxing.",
+            "choice_data_list": [
+                "If I smell any more oils, I think I might fall asleep…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You look like such a slob right now… It's fine if you fall asleep or whatever."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's good. These are supposed to help you relax."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober keeps offering me different essential oils to smell, and I end up having the best nap of my life."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober keeps offering me different essential oils to smell, and I end up having the best nap of my life."
+        }
+    ]
+}

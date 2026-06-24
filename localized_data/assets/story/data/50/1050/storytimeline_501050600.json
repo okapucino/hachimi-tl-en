@@ -1,0 +1,29 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "Right. Time to go."
+        },
+        {
+            "text": "Narita Taishin seems to be in high spirits today!",
+            "choice_data_list": [
+                "You look pumped!",
+                "You look pumped!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? Not really… I'm the same as usual."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm not some hotheaded idiot like Ticket. It's a waste of energy to get all worked up."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…But I'll win. Just you watch."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "Ouch!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I screwed up… I think I twisted my ankle…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I check the swollen area and find it hotter than expected. This may warrant extra caution."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Don't get any ideas! I can still run. Believe me.",
+            "choice_data_list": [
+                "Let's take it easy for a while.",
+                "I'll do my best to patch you up."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "For a <i>while…</i> Hey, how long is that?!",
+            "choice_data_list": [
+                "Until the swelling goes down…"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "We don't have that kind of time. It's fine, so let's just hurry up and—"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that running while trying to bear the pain may lead to unwanted changes in her running form."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Tch! Fine. You have a point."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'll hold off for now…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Okay, thanks."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Agh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian grimaces the moment I start patching her up.",
+            "choice_data_list": [
+                "I think we need to take the day off, after all."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hey, this is noth—ouch!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Tch! Fine. If that's what you think is best."
+        },
+        {
+            "name": "Monologue",
+            "text": "Forced to take a break, Narita Brian doesn't look happy when she leaves the infirmary."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "All right, thanks. I want to get back to training as soon as you're done wrapping me up.",
+            "choice_data_list": [
+                "I'm not gonna let you overdo things.",
+                "I'm not gonna let you overdo things."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hmph, overdo it? You're a trainer, aren't you?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Whatever happens, you know how to bandage and apply ice. And I know you'll take care of me properly."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hey, what's with the grin? Just take care of it."
+        },
+        {
+            "name": "Monologue",
+            "text": "The treatment is effective and Narita Brian overcomes her injury."
+        }
+    ]
+}

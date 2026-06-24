@@ -1,0 +1,78 @@
+{
+    "title": "差し入れは甘いワナ？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At lunchtime, I spot Gold City and Oguri Cap in the cafeteria. On their table they have lined up a ton of bags packed with fancy sweets."
+        },
+        {
+            "name": "Gold City",
+            "text": "Here, Oguri. As promised."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thank you… What was it again you promised? Farm equipment?"
+        },
+        {
+            "name": "Gold City",
+            "text": "What? No! Gifts I got from a modeling gig. You told me you'd take extras if I couldn't eat them all."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, right! I couldn't imagine not being able to finish eating something, so I forgot about it."
+        },
+        {
+            "name": "Gold City",
+            "text": "I made sure to keep the ones I got from my fans separate, so you're welcome to eat all of them."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Huh? You're not going to have any? You know, Tama says eating with someone else is the best seasoning."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, uh… I gotta watch my calories. Really tempting offer, though."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, hey Trainer, were you listening? Can you explain to her why I can't eat any?",
+            "choice_data_list": [
+                "Moderation is the key to winning!",
+                "Calories are the key to winning!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Right? Not like that's news to anyone here. Although… they did mix in a few treats from my favorite store…",
+            "choice_data_list": [
+                "You're allowed one bite though.",
+                "You're allowed one bite though."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Wait, I am?! T-true, I do have training after this, so one bite can't hurt, can it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Gold City enjoys just a tiny bit of the tasty sweets."
+        },
+        {
+            "name": "Gold City",
+            "text": "You're not serious! B-but, you're right about needing the energy to perform well."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hnnghh… Okay, just for today! Oguri, I highly recommend that chocolate terrine."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Terrine… I thought it was a cake. Then what's in this tin over here?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Opening one bag after another, Gold City enjoys as many sweets as she can manage with Oguri Cap."
+        }
+    ]
+}

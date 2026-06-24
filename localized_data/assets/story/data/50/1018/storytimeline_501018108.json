@@ -1,0 +1,342 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest! It's during this occasion that the academy opens its doors to fans, somewhat similar to a school festival."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a rare opportunity to see the students participating in all kinds of activities outside of their usual races, so fans gather from all around, but…"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "More people have shown up than we expected, and we're having trouble keeping the line in order."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Send patrol groups C and D to the gate to sort out the situation there."
+        },
+        {
+            "name": "Student Council Member",
+            "text": "I've also received reports that some fans are using flash photography without permission."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Contact the nearest patrol group and send them out with security to issue warnings."
+        },
+        {
+            "name": "Monologue",
+            "text": "The task of overseeing the Fan Fest activities is keeping the student council busier than ever."
+        },
+        {
+            "name": "Monologue",
+            "text": "At Air Groove's request, I've pitched in to help with the event management too, but…"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "Vice President, bad news!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What's the matter?"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "One of the students who was going to participate in the scavenger hunt has come down with a fever!"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "There was a mix-up, and we didn't get word until just now… I don't think we can find a replacement in time!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The president will be back shortly. I'll ask her to take over for me while I enter the scavenger hunt myself."
+        },
+        {
+            "name": "Student Council Member",
+            "text": "R-really?! Are you sure?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "This isn't a lengthy event like the marathon—it shouldn't take too much of my time. I'll be right back once I'm done."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Trainer, you're coming with me. I'll need you to pass on any messages from the student council.",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Male Fan A",
+            "text": "Am I seeing things, or is that Air Groove?!"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "I don't believe it! <i>She's</i> joining the scavenger hunt?!"
+        },
+        {
+            "name": "Announcer",
+            "text": "We would like to make a quick announcement. There has been a change in the participants of the scavenger hunt."
+        },
+        {
+            "name": "Announcer",
+            "text": "Participant number five has dropped out due to sudden illness. Air Groove will be participating in her place. Thank you for your understanding."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now then… If I'm going to participate at all, I must give this scavenger hunt my everything."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kablam!</i>"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Aaand the scavenger hunt is underway! Everyone in the audience, please help the participants out if they come up to you!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Look at Air Groove go! She's the first to reach the table and secure her card with the items she needs to find!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "(Now, let's see…)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What?!"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Oh dear, Air Groove is looking quite worried! Still, she's off toward the crowd!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Would anyone here happen to have any of my merch?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The list in Air Groove's hand reads: \"Three items of your own merch.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove is a substitute, so no one was expecting her to be here. This is bad!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "If anyone happens to have any of my merch, could I please borrow it?"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "I do! I have a keychain with you on it!"
+        },
+        {
+            "name": "Female Fan B",
+            "text": "Me too! I have an Empress wristband! Here!"
+        },
+        {
+            "name": "Male Fan A",
+            "text": "Air Groove! I have one of your pins!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Thank you all so much. The Empress shall make the most of your support."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove borrows the three pieces of merch and dashes to the finish line."
+        },
+        {
+            "name": "Female Fan B",
+            "text": "Wow… She was so incredible I almost forgot to breathe. I'm so glad I was born in the same era as her…"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Sh-she's glorious! Ahhh, even her hands were elegant!"
+        },
+        {
+            "name": "Male Fan A",
+            "text": "That pin is going to be a family heirloom. I'm putting it in my will!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove dashes off and successfully secures first place in the scavenger hunt."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the scavenger hunt, the rest of the Fan Fest proceeds without issue, and the participants all leave satisfied."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove, having run herself ragged as both manager and participant, takes a moment to catch her breath."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have to say, I'm a tad bit worn out.",
+            "choice_data_list": [
+                "You did so much today."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "The same goes for you. Thank you for all your help."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All in all, I'm happy the event went as well as it did.",
+            "choice_data_list": [
+                "The scavenger hunt was a bit touch and go.",
+                "The scavenger hunt was a bit touch and go."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That it was. I may have been a surprise contestant, but that didn't mean I could allow myself to lose."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have those three fans to thank for my victory though.",
+            "choice_data_list": [
+                "You'll have to repay them with a stunning performance in the Takarazuka Kinen.",
+                "You'll have to repay them with a stunning performance in the Takarazuka Kinen."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Indeed…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Air Groove and I raise our glasses of carrot juice in a toast, celebrating a successful end to the Fan Fest."
+        },
+        {
+            "name": "Monologue",
+            "text": "I secretly pray that her experience with the fans today will give her the strength to do her best at the Takarazuka Kinen."
+        },
+        {
+            "name": "Female Fan B",
+            "text": "Me, me, me! I'm your <i>biggest</i> fan! I've got everything! Photos, keychains, pins, phone cases—you name it!"
+        },
+        {
+            "name": "Female Fan C",
+            "text": "Oh, oh! I've got some accessories! And did you notice I'm dressed just like you?"
+        },
+        {
+            "name": "Female Fan D",
+            "text": "Look at me, Air Groove! I've got a hand fan with your face on it!"
+        },
+        {
+            "name": "Male Fan B",
+            "text": "Check this out! Empress shirt, Empress towel, Empress wristband, Empress light stick! I've. Got. It. All!"
+        },
+        {
+            "name": "Various Fans",
+            "text": "Air Groove! Empress! Air Groovey-Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I didn't think there'd be so many of them…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Chaos is threatening to unfold!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Everyone! Silence, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove's voice can be heard over the crowd. All of her fans close their mouths simultaneously—almost as if they had rehearsed for this very moment."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Thank you. Now, you there. And you. And the man over there. Yes, you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If I may, I would like to borrow an item from each of you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The Empress will reward your support by claiming victory without fail."
+        },
+        {
+            "name": "Monologue",
+            "text": "Three pieces of merch in hand, Air Groove dashes off decisively for the finish line."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Various Fans",
+            "text": "Em-press! Em-press! Em-press! Em-press!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Amid roaring cheers, Air Groove successfully crosses the finish line in first place."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the scavenger hunt, the rest of the Fan Fest proceeds without issue, and the participants all leave satisfied."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove, having run herself ragged as both manager and participant, takes a moment to catch her breath."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm happy to say we've wrapped up the Fan Fest nicely.",
+            "choice_data_list": [
+                "You worked so hard today."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "As did you. Thank you for all your help today."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Personally speaking, I found it to be quite a… sobering event.",
+            "choice_data_list": [
+                "You mean at the scavenger hunt?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes. It was an enlightening experience seeing with my own two eyes just how many fans were watching me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I must be the ideal Empress for them all—now and forever.",
+            "choice_data_list": [
+                "Let's show them at the Takarazuka Kinen.",
+                "Let's show them at the Takarazuka Kinen."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Indeed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Air Groove and I raise our glasses of carrot juice in a toast, celebrating a successful end to the Fan Fest."
+        },
+        {
+            "name": "Monologue",
+            "text": "I secretly pray that the support of all her fans will give her the strength to do her best at the Takarazuka Kinen."
+        }
+    ]
+}

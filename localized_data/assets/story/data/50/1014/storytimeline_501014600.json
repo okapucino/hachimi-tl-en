@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "The mighty crimson Phantom Bird swoops onto the track! It's the one, the only, El Condor Pasaaa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ooh, I'm just itchin' to do some running!",
+            "choice_data_list": [
+                "You look like you're in a good mood today!",
+                "You look like you're in a good mood today!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí! I'm feeling <i>great!</i> Fired up! Scorchin'!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I don't care who I'm up against, there's no chance I'm losin'!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "El Condor Pasa is here to dominate the race todayyy!"
+        }
+    ]
+}

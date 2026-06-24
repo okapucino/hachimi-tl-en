@@ -1,0 +1,124 @@
+{
+    "title": "特急リドル便？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hear a particularly loud voice while I'm walking down the hallway…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, you! Wanna give this riddle a go?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "S-sorry, I can't! I have training to get to…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy! Fancy a special riddle? It comes with a big surprise and everything!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Sorry, but the teacher wants to speak with me…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm… Oh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Did we just make eye contact?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Good timing, Trainer!",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Truth is, one of my pals told me an awful interesting riddle!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. Think ya got what it takes to solve it? Let's get to riddlin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What's orange and sounds like a pigeon?",
+            "choice_data_list": [
+                "…A carrot?",
+                "Are you sure it's \"pigeon\"?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Bingo! Got it in one!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You sure are somethin', Trainer! I still can't make heads or tails of it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I mean… I ain't never heard a carrot sound like anything…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, whatever! As long as everybody's having fun, that's good enough!",
+            "choice_data_list": [
+                "I agree."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yay! I'm gonna go ask more people this riddle, then! See ya later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grumble…</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Actually, all this carrot talk's got my tummy rumbling."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Maybe I'll save the riddlin' for another time. See ya!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh, guess you're stuck! The answer's \"a carrot\"!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don't worry. I had some trouble at first too. Ahaha…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Actually, why <i>is</i> \"carrot\" the answer? Carrots don't sound like pigeons.",
+            "choice_data_list": [
+                "I think it's \"parrot,\" not \"pigeon.\" It rhymes."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh… Ya know what? You're right! It <i>is</i> supposed to be \"parrot\"!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Carrot… sounds like \"parrot.\" That makes total sense!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Thanks a million, Trainer! You big smarty-pants, you!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now I gotta go let everybody know! See ya!"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Before a race, I find Air Groove quivering in the waiting room.",
+            "choice_data_list": [
+                "Nervous?",
+                "Nervous?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Who, me? Hah."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You fool. Quite the contrary. I am absolutely elated."
+        },
+        {
+            "name": "Air Groove",
+            "text": "After all, today I move one step closer to becoming a model for Umamusume everywhere.",
+            "choice_data_list": [
+                "Let's win this thing!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That goes without saying. Keep your eyes on the Empress and witness my victory!"
+        }
+    ]
+}

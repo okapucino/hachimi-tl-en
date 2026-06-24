@@ -1,0 +1,401 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the arrival of the new year, I join Inari One on a visit to a shrine in her hometown…"
+        },
+        {
+            "name": "Townsman",
+            "text": "Hey, if it isn't Inari! You were really somethin' at the Tokyo Daishoten! Keep it up for the spring Tenno Sho, yeah?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks! I got a bigger surprise in store this year, so stay tuned!"
+        },
+        {
+            "name": "Townswoman",
+            "text": "Oh, Inari! You looked so cool runnin' in the Daishoten! Don't forget to stop by the shop!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks a lot! I promise to come with all my pals from Tracen!"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Hehe. It's so motivating knowin' everyone's got well-wishes for me.",
+            "choice_data_list": [
+                "Makes you want to perform extra good for your senior year, doesn't it?",
+                "Makes you want to perform extra good for your senior year, doesn't it?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yup! Can't wait to scrap on the track. My body's been achin' for a fight!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh. It's our turn to make our prayers, Boss. What's yours gonna be?",
+            "choice_data_list": [
+                "For you to shine with a healthy glow!",
+                "For us to reach the top with a bang and a flash!",
+                "For us to reach the top with a bang and a flash!",
+                "Evil spirits, begone!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh. It's our turn to make our prayers, Boss. What's yours gonna be?",
+            "choice_data_list": [
+                "For you to shine with a healthy glow!",
+                "For us to reach the top with a bang and a flash!",
+                "For us to reach the top with a bang and a flash!",
+                "Evil spirits, begone!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You're hopin' I'll have a clean bill of health? Then what's gonna happen to you? You'll be totally exposed!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You're hopin' I'll have a clean bill of health? Then what's gonna happen to you? You'll be totally exposed!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I know, I'll pray on <i>your</i> behalf. Problem solved!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I know, I'll pray on <i>your</i> behalf. Problem solved!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the two of us pray for each other's health and safety."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, makes sense. Our dream to reach the top is one steep demand, though! Won't come true so easily."
+        },
+        {
+            "name": "Inari One",
+            "text": "That's why we better double up on the prayer—you and me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we both pray for us to reach the top in her senior year."
+        },
+        {
+            "name": "Inari One",
+            "text": "Pfft, hahaha! Whazzat s'posed to be?! Tryna gimme the first laugh of the year, eh? Well, nice work!"
+        },
+        {
+            "name": "Inari One",
+            "text": "But I hear ya! Don't want any nasty spirits knockin' on our doorstep! Let's double up the prayer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the two of us pray to be kept out of harm's way."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finished with our prayers, we head to the shopping district. There, plenty of locals are seated outside, happily eating away."
+        },
+        {
+            "name": "Townsman",
+            "text": "Oh, look who's here! It's the pride of Oi, and with her trainer to boot! Heya, Inari!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Inari! You had lunch yet? Come eat with me!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, I could go for some grub! Thanks a ton!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm gonna take a seat over there. There's plenty to go 'round, so grab a plate, Boss!",
+            "choice_data_list": [
+                "Yeah, I'll do that.",
+                "Yeah, I'll do that."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm gonna take a seat over there. There's plenty to go 'round, so grab a plate, Boss!",
+            "choice_data_list": [
+                "Yeah, I'll do that.",
+                "Yeah, I'll do that."
+            ]
+        },
+        {
+            "name": "Townswoman",
+            "text": "We were just talkin' about you, Inari. Your run at the Tokyo Daishoten blew me away!"
+        },
+        {
+            "name": "Townsman",
+            "text": "Inari! You see this magazine?! You're not gonna believe what it says!"
+        },
+        {
+            "name": "Townsman",
+            "text": "\"Inari One plans to shake things up in her senior year! Her goal—becoming Umamusume of the Year! Is a showdown between her and Oguri Cap imminent?!\""
+        },
+        {
+            "name": "Townsman",
+            "text": "They're gonna show last year's highlights on TV later. We're thinkin' of hostin' a big watch party for it!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "I bet you're gonna be there! I mean, with all the noise you made, you have to be!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, I might start blushin' at that! Hope they only show my cool moments!"
+        },
+        {
+            "name": "Chief",
+            "text": "Oh, Trainer. Happy New Year to ya.",
+            "choice_data_list": [
+                "Chief! Thanks for all your help last year."
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "Heh, I should be thanking you. 'Cause of you two, my team's more motivated than ever."
+        },
+        {
+            "name": "Chief",
+            "text": "The moment they heard your plans to kick up a festival in Oi, it's been a frenzy. I've been bustin' my old butt helpin' to prepare."
+        },
+        {
+            "name": "Chief",
+            "text": "Rest up a while, ya hear? We've got our eye on you too, not just Inari.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I have a delightful time eating with all the locals."
+        },
+        {
+            "name": "TV Female Reporter",
+            "text": "And now, let's look back on some of the greatest moments last year in the Twinkle Series!"
+        },
+        {
+            "name": "Townsman",
+            "text": "Hey, it's startin'!"
+        },
+        {
+            "name": "TV Female Reporter",
+            "text": "The first person that comes to mind is the Beast herself, Oguri Cap! She's appeared in quite a few major races!",
+            "color_text_info_list": [
+                "Beast"
+            ]
+        },
+        {
+            "name": "TV Male Reporter",
+            "text": "Could she be the most popular Umamusume on the scene? I instantly became a fan after seeing her race in person!"
+        },
+        {
+            "name": "TV Female Reporter",
+            "text": "At last year's Arima Kinen, she went toe-to-toe with Tamamo Cross, aka White Lightning!",
+            "color_text_info_list": [
+                "White Lightning"
+            ]
+        },
+        {
+            "name": "TV Male Reporter",
+            "text": "It was certainly a defining race of their year. It'll be hard to top such an unforgettable performance!"
+        },
+        {
+            "name": "TV Male Reporter",
+            "text": "In the run-up to that Arima Kinen, Oguri Cap and Tamamo Cross had also faced off in the autumn Tenno Sho…",
+            "color_text_info_list": [
+                "autumn Tenno Sho"
+            ]
+        },
+        {
+            "name": "Townswoman",
+            "text": "What? How long're they gonna keep goin' on about the Arima Kinen? When'll they start talkin' about Inari?"
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The show continues to focus on Oguri Cap and her performance in the central graded races before eventually wrapping up…",
+            "color_text_info_list": [
+                "graded"
+            ]
+        },
+        {
+            "name": "Townsman",
+            "text": "Geez, that was nothing but central races. Makes no sense when the Tokyo Daishoten and Japan Dirt Derby were just as good."
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "That's… totally unacceptable! Inari had an amazin' race, and they completely ignored it!",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "So what?!"
+        },
+        {
+            "name": "Townsman",
+            "text": "I-Inari?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Gimme a break, everyone! It's too early in the year to be lookin' sour!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "But Inari…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whazza matter, you need a reminder? This'll be the year that I—as <i>the</i> regional runner—take on those central big shots!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll become Umamusume of the Year and show 'em all the heart of the regional races and its runners!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Those central losers got nothin' on us!"
+        },
+        {
+            "name": "Inari One",
+            "text": "That's what today's supposed to be about! So brighten up, guys! Let's go wild and have a blast!"
+        },
+        {
+            "name": "Inari One",
+            "text": "It's time for a festival!"
+        },
+        {
+            "name": "Townsman",
+            "text": "…That's right! Inari made the trip to come see us! This is no time to be glum!"
+        },
+        {
+            "name": "Townswoman",
+            "text": "Yeah, we can't be here complainin' 'bout this 'n' that—not when Inari's tryna do her best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's powerful speech lifts the spirits of everyone, and the festivities continue with some much-needed joy."
+        },
+        {
+            "name": "Monologue",
+            "text": "The locals give us some nice little gifts and send us off on our journey back to the academy."
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, thanks for taggin' along today. I had a lot of fun with ya around.",
+            "choice_data_list": [
+                "Everyone was so ecstatic to see you.",
+                "Everyone was so ecstatic to see you."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, thanks for taggin' along today. I had a lot of fun with you around.",
+            "choice_data_list": [
+                "Everyone was so ecstatic to see you.",
+                "Everyone was so ecstatic to see you."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "I have to win."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll make it to the top. I <i>have</i> to become Umamusume of the Year.",
+            "choice_data_list": [
+                "Inari…"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Chief and the ol' team praised my performance in the Japan Dirt Derby and the Tokyo Daishoten."
+        },
+        {
+            "name": "Inari One",
+            "text": "And all the neighborhood folks… they've put their faith in me."
+        },
+        {
+            "name": "Inari One",
+            "text": "They gave me somethin'—this burning sensation!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I… gotta repay the favor!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm not lettin' even one of their feelings go to waste! That's why…",
+            "choice_data_list": [
+                "We'll make you Umamusume of the Year."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One feels a deep bond with her hometown. It's where her sense of duty comes from. I want to share that burden."
+        },
+        {
+            "name": "Monologue",
+            "text": "After all…",
+            "choice_data_list": [
+                "We're partners, aren't we?",
+                "We're partners, aren't we?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, ya really know when to throw a punch."
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, ya really know when to throw a punch."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm countin' on ya, partner."
+        },
+        {
+            "name": "Inari One",
+            "text": "You and me… we're gonna be fightin' down a long and winding road!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With renewed resolve, we start off her senior year swinging!"
+        }
+    ]
+}

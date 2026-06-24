@@ -1,0 +1,249 @@
+{
+    "title": "Before the Arima Kinen",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Following the Kikuka Sho, I speak to Ines Fujin's mother on the phone."
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "My twins are both saying that they want to attend the Arima Kinen."
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "I need to visit the hospital, and I've asked my husband to accompany me. It really shames me that we can't be there for our daughters…"
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "I want the three of them to get together again and talk. Could I ask you to help out, Trainer?",
+            "choice_data_list": [
+                "…No problem."
+            ]
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "I'm so sorry for involving you in our family affairs…",
+            "choice_data_list": [
+                "It's fine. I'm happy to do what I can for Ines."
+            ]
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "Thank you so much. Please take good care of my daughters."
+        },
+        {
+            "name": "Monologue",
+            "text": "Judging from Ines Fujin's behavior and the way her conversations with her sisters have gone up until now…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems they're a little at odds with each other. Having me there as a third party might help ease the tension."
+        },
+        {
+            "name": "Monologue",
+            "text": "But first, Ines Fujin and I have to decide if she'll actually be racing in the Arima Kinen or just spectating. Later, on the day of the race…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh… you're both here."
+        },
+        {
+            "name": "Little Sister B",
+            "text": "You're running in the Arima Kinen too, right? Good luck! I know you're gonna crush 'em!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…I'm sorry. I haven't kept any of the promises I made to you."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I still haven't made enough money for you to hire a helper for a year, and I made you both worry at the Kikuka Sho…"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "You don't have to apologize. Me and Cassie—"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But listen! I promise I'll pull through! Don't worry about helping out around the house or anything like that!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "…We're going to. We're going to help out. We know all about how to do the laundry now."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Cassie…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Why?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You're doing too much. You both have dreams of your own, don't you? You don't have to try and—"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "That's not it! We made up our minds. It's OUR decision! We're going to stop dancing and help Mom!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "No… you didn't make that decision—you were <i>forced</i> to make it! By <i>me!</i> I gave you no choice!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Why can't you just—",
+            "choice_data_list": [
+                "Maybe you <i>are</i> forcing a decision onto them—but not in the way you think."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh? What do you mean, Trainer?",
+            "choice_data_list": [
+                "What <i>are</i> your sisters' dreams?",
+                "What <i>are</i> your sisters' dreams?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "They want to be able to focus on dance practice every day, and go on to win competitions, and…",
+            "choice_data_list": [
+                "Are you sure about that?"
+            ]
+        },
+        {
+            "name": "Little Sister A",
+            "text": "…You're wrong."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Me and Polly… we just like seeing the whole family smile."
+        },
+        {
+            "name": "Little Sister A",
+            "text": "That's why we like dancing. When we dance, everyone watches us with big smiles on their faces. But…"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "What we like even more than that is watching you race with all you've got!"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "We want to see you run a whole lot, and smile a whole lot, and win a whole lot…"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "That's this whole family's dream right now!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You guys…"
+        },
+        {
+            "name": "Staff",
+            "text": "Ines Fujin, it's almost time for you to enter the paddock!",
+            "choice_data_list": [
+                "Ines, did you hear what your sisters said?",
+                "Ines, did you hear what your sisters said?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…",
+            "choice_data_list": [
+                "Running isn't your \"selfish desire\" anymore.",
+                "Running isn't your \"selfish desire\" anymore."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Then… then what is it?",
+            "choice_data_list": [
+                "It's their dream… and mine too.",
+                "It's their dream… and mine too."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not just the stands that are packed for today's Arima Kinen—the paddock's drawn a full crowd too."
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Sooo, basically, everyone's come 'cause they wanna see Oguri's last race."
+        },
+        {
+            "name": "Girl with False Eyelashes",
+            "text": "Yeah, I know. I mean, Oguri's, like, a super amazing runner, right? Is that it?"
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Well, thing is, she hasn't really been in top form lately. Rumor has it this could be her last run ever."
+        },
+        {
+            "name": "Oguri Fan A",
+            "text": "Oguri! You can do it! I believe in you! You can win!"
+        },
+        {
+            "name": "Oguri Fan B",
+            "text": "Please, Ogurin! Give it all you've got and win!",
+            "color_text_info_list": [
+                "Ogurin"
+            ]
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Sooo, people are saying this runner called Mejiro Ryan—who's, like, one of Ines's rivals—might actually, like, win."
+        },
+        {
+            "name": "Girl with False Eyelashes",
+            "text": "…Whoa. You know, like, so much about this racing stuff lately."
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Well, yeah. I mean, Ines's races are way more fun if you know the whole deal."
+        },
+        {
+            "name": "Convenience Store Manager",
+            "text": "Oh, hey girls! I wasn't expecting to see you two here at the Arima."
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "B-Boss! Wh-what about the store? Don't tell me it's closed?!"
+        },
+        {
+            "name": "Convenience Store Manager",
+            "text": "Uh, I do employ a lot of part-timers, y'know? Besides, one day off is no big deal… Wait, look—she's coming!"
+        },
+        {
+            "name": "Convenience Store Manager",
+            "text": "Some days I just feel like coming out and seeing Ines run—watching her really boosts my spirits."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…"
+        }
+    ]
+}

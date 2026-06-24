@@ -1,0 +1,36 @@
+{
+    "title": "弥生賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Agnes Tachyon",
+            "text": "Here we are at a G2 race, the Yayoi Sho. The lineup of racers looks quite impressive.",
+            "color_text_info_list": [
+                "G2"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Although, I do feel like something is lacking… on the data collection front."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing Agnes Tachyon's words, I can't help but worry a little.",
+            "choice_data_list": [
+                "You're taking this seriously… right?",
+                "You're taking this seriously… right?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why of course. The results of this race will have an impact on the Satsuki Sho. It would be suboptimal to limit my possibilities, after all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Even if it isn't G1 level, I can't exactly waltz in on this race, can I?",
+            "color_text_info_list": [
+                "G1"
+            ]
+        }
+    ]
+}

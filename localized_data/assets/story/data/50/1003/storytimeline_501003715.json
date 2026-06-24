@@ -1,0 +1,69 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After our training session, I stick around at the track to observe how the other students are faring."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh, Trainer? What're you still hanging around here for?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Hey, who are you looking at? Hmph! And right after we finished training too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nooo! Stop looking! You're <i>my</i> trainer, aren't you?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh, fine! I'll run another lap just for you!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then you'll see that only I deserve your attention!",
+            "choice_data_list": [
+                "All right, let's see what you've got.",
+                "There's no comparison."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's how it's gonna be, huh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay. I'll show you what true running looks like!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You better commit it to memory! The majestic form of the great and mighty Teio!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As promised, Tokai Teio enthralls me with her spectacular running."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm? Do you mean that in a good or bad way?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I mean, the answer's obvious. But let's hear it anyway.",
+            "choice_data_list": [
+                "In a good way, of course!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe! I knew it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio heads off looking very pleased with herself."
+        }
+    ]
+}

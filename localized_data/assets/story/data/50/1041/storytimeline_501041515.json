@@ -1,252 +1,266 @@
 {
-    "no_wrap": true,
+    "title": "勝負服でバクシン！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It seems that Sakura Bakushin O's name is \nbecoming more and more well known, partly \ndue to the fact that she has recently been \nissued a victory suit."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O's name has been growing in popularity."
         },
         {
-            "text": "Then, one day――"
+            "name": "Monologue",
+            "text": "One day, shortly after receiving her signature racewear…"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "Excuse me!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya, a visitor?"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "Hello! \nI'm the president of the Public Relations \nCommittee."
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "I'm thinking of writing a feature article \nfor next month's issue on Uma Musume \nwho have recently received their victory \nsuits."
+            "name": "Public Relations Committee Chief",
+            "text": "Excuse me! Is anyone there?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So that means you're interviewing me!? \nYou're interviewing me, aren't you!!"
+            "text": "Oh, a visitor?"
+        },
+        {
+            "name": "Public Relations Committee Chief",
+            "text": "Hello! I am the head of the Public Relations Committee."
+        },
+        {
+            "name": "Public Relations Committee Chief",
+            "text": "For next month's issue, we want to write an article about some of the newly debuted signature racewear this season."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And it's straight from the same kind of \n\"president\" as me… \n…Fufu, I simply can't not take this!"
+            "text": "Are you gonna do a piece on me?! Like an interview?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's good, right, Trainer!?"
+            "text": "And I'm being asked by a chief! Someone high up on the hierarchy just like yours truly! Hoho, there's no way I can refuse!"
         },
         {
-            "text": "It's certainly good to get more media \nexposure."
+            "name": "Sakura Bakushin O",
+            "text": "Can I do it, Trainer?"
         },
         {
-            "text": "Sakura Bakushin O's peers were Rice \nShower, Mihono Bourbon, and Nishino \nFlower."
+            "name": "Monologue",
+            "text": "Well, increasing her media coverage would be a good thing."
         },
         {
-            "text": "In order not to be overshadowed by them, \nI want to actively promote her and raise \nher profile――",
+            "name": "Monologue",
+            "text": "Among Sakura Bakushin O's classmates are some strong contenders including Rice Shower, Mihono Bourbon, and Nishino Flower."
+        },
+        {
+            "name": "Monologue",
+            "text": "I should be proactive in promoting and raising her reputation so she doesn't fall behind.",
             "choice_data_list": [
-                "Yeah, we'll take the interview.",
-                "Yeah, we'll take the interview."
+                "Sure, let's do the interview!",
+                "Sure, let's do the interview!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaay!! \nAllow me to tell you all about my fascinating \nappeal!",
+            "text": "Yay! I'm gonna charm their socks off!",
             "choice_data_list": [
-                "Let's talk about your running.",
-                "Let's talk about your enthusiasm."
+                "Let your legs do the speaking.",
+                "Speak about your passion."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's right! \nWe Uma Musume shine only when we run!"
+            "text": "Right! We Umamusume shine the most when we're on the track!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, then, let's head down to the track! \nPlease do look upon me running in my \nvictory suit!!"
+            "text": "Let's head to the training grounds! Come and see me running in my signature racewear!"
         },
         {
-            "text": "Sakura Bakushin O grabbed her victory \nsuit and walked out alone."
+            "name": "Monologue",
+            "text": "She grabs her signature racewear and sprints outside without another moment's hesitation."
         },
         {
-            "text": "I apologized to the chair of the public \nrelations committee and the committee \nmembers behind me, and headed with \nthem to the track in pursuit of Sakura \nBakushin O."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fu-fu-fu! \nWhat do you think of my sharp, dignified \nvictory uniform?"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "Fantastic! \nAnd the cherry blossom motif suits you so \nwell!"
+            "name": "Monologue",
+            "text": "I apologize to the chief and the committee members left behind in her wake and together we follow after Sakura Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course it does, of course it does! \nRunning'll make me shine even brighter!"
+            "text": "Heh heh! How about it? Looking on point and elegant from head to toe, aren't I?"
+        },
+        {
+            "name": "Public Relations Committee Chief",
+            "text": "Fantastic! The cherry blossom design totally suits you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Without further ado, I'm off!",
+            "text": "Yes! Yes! And it looks even better once I start running! Just take a look!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm off!",
             "choice_data_list": [
-                "Go ahead and Bakushin to your heart's content!",
-                "Go ahead and Bakushin to your heart's content!"
+                "Show them what you've got!",
+                "Show them what you've got!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative!!"
+            "text": "You got it!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Dressed in my victory suit, I am precisely \nthe One True・Bakushin O!"
+            "text": "I stand before you as the true Bakushin O, dressed in my signature racewear!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "<i>Uooooooohhhh!!</i> \nPlease do gaze upon the power of my \nrebirthed self!"
+            "text": "HERE I BAKUSHIN! Step back and witness my reborn strength!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Phew!"
+            "text": "<i>Haaa!</i>"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "What speed…! \nWithout a doubt, my \"Bakushin-like Dash\" \n――the fastest of the fast!",
+            "name": "Public Relations Committee Chief",
+            "text": "What frightful speed! I think I finally get what she means by \"Bakushin\"! This truly is the very peak of running speed!",
             "choice_data_list": [
-                "That was one of the best runs I've ever seen!",
-                "That was one of the best runs I've ever seen!"
+                "That was the fastest I've seen you go yet!",
+                "That was the fastest I've seen you go yet!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, you are mistaken! \nMy true power isn't like this at all!!"
+            "text": "Heh heh! And this isn't even my final form!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Next time, even faster――Bakushiiin!"
+            "text": "Time to go into OVERDRIVE! BAKUUUSHIIIN!"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "You're kidding!! \nI can't believe she's still getting faster…!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Huff, puff…!"
+            "name": "Public Relations Committee Chief",
+            "text": "Impossible! How can she go even faster?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, to push the limits even further―― \nBakushin, Bakushiii―n…!!"
+            "text": "<i>Huff, huff…</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Phew… phew… \nTh, that's approximately it!"
-        },
-        {
-            "name": "PR Committee Member",
-            "text": "Thanks to you, I got some great shots! \nLooks like you're going to have a great \narticle, Miss President!"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "Yes! \"Her speed is reminiscent of a \nlegend's.\" \nThat's the headline we'll do!"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "That's it for us then. \nThank you for your cooperation!"
+            "text": "Break the limits! Bakushin, BAKUSHIIIN!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, it was nothign… \nLet's… again… sometime!"
+            "text": "<i>Huff, huff…</i> I-I think that was a pretty good showing!"
         },
         {
-            "text": "As soon as she said that, Sakura \nBakushin O plopped down on the spot."
+            "name": "Public Relations Committee Member",
+            "text": "We managed to get some amazing photos! This is going to make for a great article, Chief!"
         },
         {
-            "text": "Apparently, her strength was already \nat its limit. It seems her endurance is still \nan issue."
+            "name": "Public Relations Committee Chief",
+            "text": "It is indeed! How about this for a headline… Fast as a speeding bullet! BAKUSHIN!"
         },
         {
-            "text": "Nevertheless, the article was well written, \nand it succeeded in raising the profile of \nSakura Bakushin O."
+            "name": "Public Relations Committee Chief",
+            "text": "Okay, I think we have everything we need. Thank you kindly for your cooperation!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood, please do leave it to me!"
+            "text": "No problem! Come back anytime!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, she drops down to the ground with a sigh."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's hit her limit. It seems she still hasn't overcome her endurance issues."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nevertheless, the article turns out great. Sakura Bakushin O's popularity begins to rise by leaps and bounds."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Without so much as a sliver of doubt, I'll \nshow you all how I put 100% of my power \nand overflowing enthusiasm into it!!",
+            "text": "I understand. Leave it to me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm going to unleash all this surging enthusiasm!",
             "choice_data_list": [
-                "E, easy, now.",
-                "E, easy, now."
+                "Don't go too crazy.",
+                "Don't go too crazy."
             ]
         },
         {
-            "text": "They wanted to take pictures at the same \ntime, so they decided to do the interview \nafter Sakura Bakushin O had changed into \nher victory suit."
+            "name": "Monologue",
+            "text": "As they want to take photos as well, Sakura Bakushin O wears her signature racewear for the interview."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Thank you kindly for waiting!"
+            "text": "Thanks for waiting!"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "Fantastic! \nAnd the cherry blossom motif suits you so \nwell!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fufu. \nOf course it does, of course it does!"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "I heard that it was Ms. Bakushin O's wish \nto include the cherry blossom motif?"
+            "name": "Public Relations Committee Chief",
+            "text": "Fantastic! The cherry blossom design totally suits you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nAfter all, I'm \"Sakura\" Bakushin O!"
+            "text": "Hehe. I know, right?!"
+        },
+        {
+            "name": "Public Relations Committee Chief",
+            "text": "I heard that you were the one who requested the cherry blossom motif?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From the day I was given this name, my \ndestiny was set in stone."
+            "text": "Yep! My name is \"Sakura\" Bakushin O after all!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, we must shine like cherry \nblossoms in full bloom and keep on \nBakushin-ing on!"
+            "text": "My destiny was decided the day I received this name."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I can't think of a more appropriate motif to \ninclude in my victory suit than cherry \nblossoms!"
+            "text": "Indeed! As vivid and elegant as the cherry blossoms in full bloom! I have to keep pushing my Bakushin to the limit!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll bloom both as a competitor and as \nclass president!"
-        },
-        {
-            "name": "PR Committee Chair",
-            "text": "Thanks for the great episode. \nThanks to you, it's looking like I'll be able \nto write some good stuff!"
+            "text": "There is no design better suited to grace my signature racewear than the noble cherry blossom!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, it was nothing! Next, I'll tell you \nabout the episode of the class president, \nwhich is an essential part of my story!"
+            "text": "I will bloom gloriously, both as a racer and class representative!"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "What!? \nNo, that's a story for another time――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Don't be so shy! \nI'll let you hear it all the way through!"
+            "name": "Public Relations Committee Chief",
+            "text": "Thank you for that wonderful story. With this, we'll be able to write a great article!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――and so, this is how I began my journey \nas class president!"
+            "text": "No problem-o! Next, I'm going to tell you all about being class representative!"
         },
         {
-            "name": "PR Committee Chair",
-            "text": "I, is that so…"
+            "name": "Public Relations Committee Chief",
+            "text": "H-huh? Y-you don't need to… We, uh, can save that for another day perhaps."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From here on out, I will always be honest \nand righteous! \nAs the class president, I'll keep on \nBakushin-ing!!"
+            "text": "Don't be shy! I'll tell you all the details, from start to finish!"
         },
         {
-            "text": "…Thus ended the interview with Sakura \nBakushin O."
+            "name": "Sakura Bakushin O",
+            "text": "…And so, that's how I began on the path of being the class representative!"
         },
         {
-            "text": "The article was well written and succeeded \nin raising the profile of Sakura Bakushin O."
+            "name": "Public Relations Committee Chief",
+            "text": "I-is that so?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Always pure and honorable! I'll continue to Bakushin as the class representative!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…And with that, Sakura Bakushin O's interview comes to an end."
+        },
+        {
+            "name": "Monologue",
+            "text": "The article turns out to be superb, and the public's perception of Sakura Bakushin O improves greatly."
         }
     ]
 }

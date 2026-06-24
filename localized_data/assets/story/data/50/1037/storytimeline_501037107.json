@@ -1,0 +1,231 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Since Valentine's Day is coming up, Eishin Flash and I visit a chocolate shop to see what's popular this year."
+        },
+        {
+            "name": "Customers",
+            "text": "Excuse me! I was in line first! Hey, quit shoving!"
+        },
+        {
+            "name": "Employees",
+            "text": "Would all customers interested in purchasing chocolates please line up here—in an <i>orderly</i> manner, please!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What chaos…",
+            "choice_data_list": [
+                "Yeah…",
+                "Yeah…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It doesn't look like we'll be able to browse at our leisure. What a shame…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've already purchased what I wanted online, so let's go back."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have witnessed that same scene many times since my arrival in Japan, but I still find it curious.",
+            "choice_data_list": [
+                "Why so? Are things different in Germany?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We celebrate Valentine's Day as well, but flowers are the primary gift of choice."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Also, only partners give and receive gifts… The custom of giving \"obligatory chocolates\" does not exist."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My father would gift roses to my mother every year without fail.",
+            "choice_data_list": [
+                "So the idea of giving a gift to someone special is the same.",
+                "So the idea of giving a gift to someone special is the same."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's a little different, I think. In Germany, the gift is not given as a love confession."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Come to think of it, why do people confess their love to another on Valentine's Day in the first place?",
+            "choice_data_list": [
+                "Maybe because the day itself makes it easier."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how it's easier to prepare yourself when you've chosen a date to confess, especially on Valentine's Day—the day of love."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hmm, so it essentially creates a pretext… I think I have a general grasp on the idea now."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, a confession of love would irreversibly change the established status quo between two people."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "As such, it would be more considerate to express your appreciation to someone regularly instead of making a spontaneous show of affection.",
+            "choice_data_list": [
+                "For example?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I do not have any examples as of now. May I please have a little time to think upon it?",
+            "choice_data_list": [
+                "Oh, you don't have to think about it that hard…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, but I wish to think it through myself. …At any rate, let's return home for now."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Valentine's Day arrives."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Please accept this. It's a chocolate cake.",
+            "choice_data_list": [
+                "Oh. Thank you?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Why was that phrased as a question? This is a perfectly standard Valentine's Day gift.",
+            "choice_data_list": [
+                "But you said giving obligatory gifts isn't customary for you…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have put a great deal of thought into the matter since then and realized gift giving is an easy method to express one's feelings."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ergo, I decided to partake in the custom. However, this is meant to convey my gratitude for you and not a confession by any means."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've come to realize why people give each other chocolate on Valentine's Day, however.",
+            "choice_data_list": [
+                "And why's that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Because they want to see how surprised their recipient will be as well as how troubled they become over the gift's intention."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I jest, of course. Hehe."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer. My homeroom teacher wishes to speak with you. Are you available right now?",
+            "choice_data_list": [
+                "I am!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Then I shall wait here and review my training schedule while you two speak."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her homeroom teacher makes small talk with me about how wonderful a student Flash is."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Good. All looks well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah, welcome back."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I will be going now. I'll see you again tomorrow at nine o'clock to discuss my schedule.",
+            "choice_data_list": [
+                "Sure! See you then."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Um…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Do you recall the discussion we had previously about expressing your appreciation to someone on a regular basis?",
+            "choice_data_list": [
+                "Oh, the one we had on Valentine's Day?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In the end, I think it might be best to show your feelings to them directly."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, simply being kind will not suffice. You must impart them with something."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "For example, let's say you give a flower to someone who doesn't normally keep them in their house."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That flower will become part of their daily life but, inevitably, will wilt and be thrown out at some point."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "At that point, the person will become aware of a new potential lifestyle—one with flowers."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And maybe, just maybe… they will think of the person who gave them that flower, too."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…That is all. Please excuse me."
+        },
+        {
+            "name": "Monologue",
+            "text": "After Eishin Flash leaves, I notice a sweet floral scent in the air.",
+            "choice_data_list": [
+                "(A single rose?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Its deep crimson petals look as smooth as velvet as it sways in the breeze."
+        }
+    ]
+}

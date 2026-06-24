@@ -1,0 +1,34 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Groove keeps nodding off during training today…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "My apologies. Could you repeat that explanation once more?",
+            "choice_data_list": [
+                "Are you okay? You seem a bit… off.",
+                "Are you okay? You seem a bit… off."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I haven't been getting much sleep lately. The student council work keeps piling up."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I decided to do a little before bed, but before I realized it, the sun was up."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All the same, the work needs to be done. Don't worry—none of this should be of your concern."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove casually brushes it off, but she's clearly exhausted. I should keep this in mind."
+        }
+    ]
+}

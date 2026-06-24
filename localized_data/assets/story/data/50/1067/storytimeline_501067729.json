@@ -1,0 +1,28 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "I guess we're stopping for now, huh?",
+            "choice_data_list": [
+                "I think I've embarrassed myself enough…"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "N-no, you were fine! The controls are pretty difficult on this model!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Since the difficulty seems a bit overtuned, I'll let someone at the company know the next time I have a chance.",
+            "choice_data_list": [
+                "Th-that's not necessary!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

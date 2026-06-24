@@ -1,0 +1,125 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio suffers an injury during training and I take her to the infirmary."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I said I'm fine! You're worrying over nothing!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This thing will heal up in no time! I'll be back in action tomorrow!",
+            "choice_data_list": [
+                "You need to rest first."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…No."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I don't wanna."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I won't let this slow me down! If I say I can do it, then―"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ouch!",
+            "choice_data_list": [
+                "Please don't make it worse.",
+                "You really think you can run in this state?",
+                "You really think you can run in this state?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ouch!",
+            "choice_data_list": [
+                "Please don't make it worse.",
+                "You really think you can run in this state?",
+                "You really think you can run in this state?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Hmph.",
+            "choice_data_list": [
+                "At least take it easy for today."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Fine, but <i>only</i> today."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Sniffle…</i> And only because you asked me."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I won't let something dumb like an injury stop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I make sure Tokai Teio takes a proper rest today."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I can! I know I can!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "See?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "OW!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…",
+            "choice_data_list": [
+                "As long as you rest for today, it'll heal."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio spends the entire day in a very grumpy mood."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Look, Trainer! I'm fine!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm the invincible Tokai Teio, remember?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're my trainer! You need to believe in me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No matter how many times I fall, I always get right back up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, Teio shows up to practice looking even more formidable than before."
+        }
+    ]
+}

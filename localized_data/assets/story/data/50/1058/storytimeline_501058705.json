@@ -1,0 +1,187 @@
+{
+    "title": "ミルク味の夕暮れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way back from an outing with Meisho Doto, when she suddenly stops…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… it's a soft-serve parlor…",
+            "choice_data_list": [
+                "Do you want some?",
+                "Do you want some?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep! Not at all! S-sorry it looked like that! I was just a little curious…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Groooowl…</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Nooo! This isn't what you think it is! I had a lot of fun today, so naturally my stomach has gotten empty and…",
+            "choice_data_list": [
+                "Let's grab some for the road.",
+                "Let's grab some for the road."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We sh-shouldn't! I'll probably spill it or drop it completely…",
+            "choice_data_list": [
+                "That won't happen if we take our time."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Finding a seat on a park bench, I savor some soft-serve ice cream with Meisho Doto."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mmm… This ice cream is delicious—cold, with the gentle taste of milk…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I probably would have walked on by if you hadn't said something, Trainer.",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, um… You see…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Soft-serve ice cream has always been a favorite of mine. As a child, I used to beg my parents for some whenever we went out together."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But it wouldn't last very long. I would accidentally drop it, or a goat would snatch it straight from my hands."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "My parents never got upset. But I felt so bad about it, I gradually stopped asking…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But with your help, I'm eating what is my first ice cream in a long time."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "You're always giving me the opportunity to pick up the things I nearly gave up on…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So much so, I'm even starting to believe I'm capable of doing more. Ridiculous, right?",
+            "choice_data_list": [
+                "What kind of things do you want to try out?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? Well… There are quite a lot of other things I've thought about eating… or buying, but…",
+            "choice_data_list": [
+                "Want to come shopping with me?",
+                "Want to come shopping with me?",
+                "Let's go on a little food tour!",
+                "Let's go on a little food tour!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? Well… There are quite a lot of other things I've thought about eating… or buying, but…",
+            "choice_data_list": [
+                "Want to come shopping with me?",
+                "Want to come shopping with me?",
+                "Let's go on a little food tour!",
+                "Let's go on a little food tour!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… Shopping… together? With you? Um… But…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Won't you get… irritated with me? What if I get tired halfway through the trip?",
+            "choice_data_list": [
+                "Tell me what you'd like to buy.",
+                "Tell me what you'd like to buy."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I've been wanting to buy myself a coffee mug, actually. There's an adorable round one I've been eyeing, but…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm too scared to go on my own… I can picture myself accidentally breaking their merchandise…",
+            "choice_data_list": [
+                "Don't worry, I'll supervise things.",
+                "Don't worry, I'll supervise things."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Really? But, what if my hands start to shake from the nerves, or… I'm not able to walk straight anymore?",
+            "choice_data_list": [
+                "I'll be by your side, trust me."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh… Thank you so much. I'll see this through, I promise."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm glad that she's relaxed a bit. We manage to wrap up our shopping detour with no hiccups."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… I can't really walk and eat at the same time… I'm sure to mess something up."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Although… I do think it would be fun to go with you, Trainer. So… it won't hurt to try, right?",
+            "choice_data_list": [
+                "How about some croquettes?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Croquettes… those are crispy and delicious, aren't they? The warm, meaty juices flood your taste buds, but your hands and clothes get all oily… Oogh…",
+            "choice_data_list": [
+                "Then how about takoyaki, instead?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm not so good with takoyaki either… I've burned my mouth so many times…",
+            "choice_data_list": [
+                "Taiyaki's good too.",
+                "Taiyaki's good too."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I never know where to bite first… Is the tail better, or the head?!",
+            "choice_data_list": [
+                "All right, let's have all three!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaagh! Wait, sh-should we really? It sounds a little overwhelming, but… Um!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Meisho Doto in rare high spirits, we explore the shopping district trying all the foods that pique our interest."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nice Nature hasn't shown up for training. Worried, I go looking for her."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gaaah! I know it happens every time, but I can't wait for that catchphrase!"
+        },
+        {
+            "name": "Appliance Store Owner",
+            "text": "You know it, Natie! That's the best part of <i>The C-Team.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I find Nice Nature intently watching a show on a display TV at the appliance store."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh! There's the van! Here it comes! Is he gonna take out his ciga—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wha—Trainer! What are you doing here?",
+            "choice_data_list": [
+                "…I pity the fool who's not wearing their tracksuit!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, that sounds like something they would say in the show. But why are you talking about track…suits…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "AAAAH! We had training today!",
+            "choice_data_list": [
+                "Be more careful next time.",
+                "Be more careful next time."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "R-roger that! I'll do better from now on…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I love it when a plan comes together! …Next time, hopefully."
+        }
+    ]
+}

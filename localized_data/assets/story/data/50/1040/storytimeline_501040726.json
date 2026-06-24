@@ -1,0 +1,49 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Gold City…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, so those are the Cuties I've heard so much about."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City is looking at a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Gold City",
+            "text": "Only runners with high promise get to have Cuties made after them, you know."
+        },
+        {
+            "name": "Gold City",
+            "text": "So… Yeah, I'm probably not in there.",
+            "choice_data_list": [
+                "You don't know that!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You're far too positive."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm not against checking it out, though. I heard Cuties are pretty high quality for being plushies.",
+            "choice_data_list": [
+                "Then let's get one to see for ourselves.",
+                "Then let's get one to see for ourselves."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Why do you have your wallet out? Wait, don't tell me…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I wait and wait, but Seiun Sky doesn't show up for practice, so I head out and ask around to see where she might be."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huh? Seiun Sky? She said she was gonna go take a nap in the library today."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "If you're looking for Seiun Sky, she said she was off to pick crops in the fields."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Oh, Sky? I thiiink she said she was going to go relax at a cafe."
+        },
+        {
+            "text": "I search everywhere, but she's nowhere to be found. With no more leads, I head back to my office."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i> That was a nap and a half.",
+            "choice_data_list": [
+                "There you are!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Oh, looks like you fell for it—hook, line, and sinker."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "My scheme to show you how overworked you are, I mean."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't you think you're pushing too hard lately? C'mon, you need some rest, and that's that!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Less is more—know what I'm saying?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Buuut that's not gonna fly, is it? You're not gonna budge, are ya? Teehee. ☆"
+        },
+        {
+            "text": "I warn Seiun Sky quite sternly that she needs to be more careful in the future."
+        }
+    ]
+}

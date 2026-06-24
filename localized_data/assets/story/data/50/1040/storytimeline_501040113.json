@@ -1,0 +1,273 @@
+{
+    "title": "信頼と苦笑",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Photographer",
+            "text": "Oh, nice, City! Now, for the next one, I want you to relax…"
+        },
+        {
+            "name": "Photographer",
+            "text": "That's it! A glimpse of the real you as you spend your day at school… That's perfect!"
+        },
+        {
+            "name": "Photographer",
+            "text": "Okay, I'm going to look over what we've got so far. You can all take a break!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay.",
+            "choice_data_list": [
+                "Good work, City."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You too. It's not often you come along with me to my shoots. So, what do you think?",
+            "choice_data_list": [
+                "It feels so professional!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, we are pros."
+        },
+        {
+            "name": "Gold City",
+            "text": "Although it feels a bit weird having a shoot at the school I go to every day."
+        },
+        {
+            "text": "It all started a few days ago. Gold City asked me for help getting permission to do a photo shoot at the academy."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's for the magazine I'm a resident model for. They're doing a feature about my debut."
+        },
+        {
+            "name": "Gold City",
+            "text": "So they want some photos showing me at the academy—you know, to get a sense of my everyday life.",
+            "choice_data_list": [
+                "Sure, I'll ask!"
+            ],
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Thanks. I'll contact the editor to have them reach out."
+        },
+        {
+            "name": "Gold City",
+            "text": "If you're interested, you can come see the shoot. It's literally just taking pictures, though."
+        },
+        {
+            "text": "I was interested to see what she's like at work, so… here I am."
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Trainer! We really appreciate you setting this all up for us! Thanks to your help, this is going to be a great feature for sure!"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "I think your presence helped City relax more than normal, as well!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That's not true. Trainer's got nothing to do with that—seriously."
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "You shot that down quick! Listen, I've been working with you since you were a child, and I've never seen you act so kind and gentle before."
+        },
+        {
+            "text": "As a regular model for this magazine, Gold City seems to get along well with all the staff at the shoot."
+        },
+        {
+            "text": "But…"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "You're seriously amazing, City."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? How so?"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "To think you're already a successful model, but then you want to run in the Twinkle Series on top of that!"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "I wonder if that unrelenting ambition of yours is the real key to your beauty."
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Everyone in the editorial department respects you. Despite your popularity, your self-discipline keeps you striving to improve yourself."
+        },
+        {
+            "name": "Gold City",
+            "text": "Thank you… But self improvement isn't the reason why I run."
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "I know. I haven't forgotten what you said about wanting to keep some distance from your identity as a model."
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "But that means you want to refine your image even further, right? It's almost like you're a monk seeking enlightenment!"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "I'm sure you'll be able to use what you gain from racing to benefit you in the future. I'm rooting for you!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That's not it. The reason why I run is…"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Hm?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Never mind, I was just thinking about your compliment."
+        },
+        {
+            "name": "Gold City",
+            "text": "It made me… happy. Hehe…",
+            "choice_data_list": [
+                "(Her voice sounds a little shaky…)"
+            ]
+        },
+        {
+            "text": "Is it frustration or disappointment? Perhaps she's hurt that her serious attempt at running is being treated as a mere accessory."
+        },
+        {
+            "text": "Realizing this, I decide I can't keep quiet.",
+            "choice_data_list": [
+                "I hope you'll pay attention to her running."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? …Trainer?",
+            "choice_data_list": [
+                "The reason City runs is for the \"now.\""
+            ]
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Um… Okay?",
+            "choice_data_list": [
+                "You'll understand if you watch her race. So please, come and watch!"
+            ]
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Um, of course, the editorial team is going to come, but…"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Uh… let's resume shooting, shall we? We're cutting it a bit close for time. Are you ready, City?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yes, I can go."
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Okay. Trainer, please stay and watch!"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Did I… touch on something I shouldn't have?"
+        },
+        {
+            "name": "Gold City",
+            "text": "No…"
+        },
+        {
+            "name": "Photo Shoot Staff",
+            "text": "Okay, good work today! Look forward to its printing in the magazine!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Thank you."
+        },
+        {
+            "name": "Gold City",
+            "text": "Trainer, about what you said during the break…",
+            "choice_data_list": [
+                "I should've minded my own business."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm glad you realize that. My coworkers are all really good people, so just be careful.",
+            "choice_data_list": [
+                "But I didn't want to see you forcing a smile.",
+                "But I didn't want to see you forcing a smile."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "So… you noticed."
+        },
+        {
+            "name": "Gold City",
+            "text": "I know they have nothing but good intentions. I know they genuinely respect me."
+        },
+        {
+            "name": "Gold City",
+            "text": "Considering my track record, it's only natural they consider racing as my side hustle."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm already aware of all that, so I can do without the forced help."
+        },
+        {
+            "name": "Gold City",
+            "text": "Or at least, I should be able to. But you're right… it <i>was</i> shocking to hear."
+        },
+        {
+            "name": "Gold City",
+            "text": "Especially from someone who's been around me since I was little…"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's like they just don't know how I feel.",
+            "choice_data_list": [
+                "Then communicate it to them through your running."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "That's what I'm trying to do. Don't need you to tell me."
+        },
+        {
+            "name": "Gold City",
+            "text": "Still… you already get me, don't you?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Nothing. Let's go practice!"
+        }
+    ]
+}

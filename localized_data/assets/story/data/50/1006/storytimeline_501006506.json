@@ -1,0 +1,116 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Oguri Cap calls me to the dance studio."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You came…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I came up with some choreography during my dance lesson, but I can't figure out what to do for the chorus."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'll show you what I've come up with so far, so please give me your honest opinion."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "How was it?",
+            "choice_data_list": [
+                "Great, but lacking in Oguri-ness."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oguri-ness? Yeah, maybe that <i>is</i> what's missing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for the advice. So… What do you think I should do?",
+            "choice_data_list": [
+                "Do you have a favorite dance move?",
+                "Do you have a favorite dance move?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Actually, I do. It's called the banana dance."
+        },
+        {
+            "name": "Monologue",
+            "text": "I search for \"banana dance\" online, and a video of people dancing in festival coats comes up.",
+            "choice_data_list": [
+                "Is this it?",
+                "Is this it?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. We'd do this dance at our festivals back home."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Every time I watch them all dancing to the festival music, it cheers me up."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It might be a little unconventional for a winning concert, but I really like this dance.",
+            "choice_data_list": [
+                "Why not incorporate a few of its elements?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Good idea! Okay, show me that clip again."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Which part do you like? I'll try and incorporate it into my choreography.",
+            "choice_data_list": [
+                "Their forceful steps.",
+                "Their fluid movements."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right… Seeing them move like that is super energizing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I like how they move after hitting the taiko drums as well. Maybe if we combine the two…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, that's perfect. All that's left for me to do now is practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Oguri Cap shows off her perfected choreography, she captivates everybody watching with her forceful movements."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah… It's hard to take your eyes off them."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I like how they move after hitting the taiko drums as well. Maybe if we combine the two…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, that's perfect. All that's left for me to do now is practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Oguri Cap shows off her perfected choreography, she captivates everybody watching with her graceful movements."
+        }
+    ]
+}

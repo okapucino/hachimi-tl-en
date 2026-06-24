@@ -1,0 +1,50 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Inhale… and exhale. All right."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whew. Breathing exercises, finished! Thanks for waiting, Trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm all ready to win today!",
+            "choice_data_list": [
+                "You seem pumped up.",
+                "You seem pumped up."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. Yeah, a bit. ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna place well this time. Heck, I'll even get first!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I mean, for me, it's child's play. You think so too, right?",
+            "choice_data_list": [
+                "Yeah.",
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Good. That's what I like to hear, Trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, I'm off. To victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All fired up, Tokai Teio heads toward the track."
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Aughhh! I can't believe I messed up like that…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Whatever. An injury like this'll heal itself in no time!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Let's get back to trainin'!",
+            "choice_data_list": [
+                "You should really get that looked at!",
+                "If you're sure you're okay, then let's get to it."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Ugh. Don't make a big deal out of it. Who are you, my mother?",
+            "choice_data_list": [
+                "But I'm worried…"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "…C'mon. Don't look at me like that. I'm not tryin' to put ya in a tough spot here…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ugh, fine! I'll get it looked at."
+        },
+        {
+            "name": "Vodka",
+            "text": "…You really <i>do</i> act like my mom, though. Sheesh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She grumbles a bit, embarrassed, but eventually agrees to get her injury looked at."
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah! I'm the one who knows my body best, you know!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka and I return to the track and decide to resume training, but…"
+        },
+        {
+            "name": "Vodka",
+            "text": "See, I'll show ya this injury's nothing to worry abo—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ngh!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Okay, maybe it's got somethin' on me, b-but I'm fine, really!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having forced herself to continue training, Vodka aggravates her injury and prolongs her recovery time."
+        },
+        {
+            "name": "Vodka",
+            "text": "Geez! I'm tellin' ya it's no big deal."
+        },
+        {
+            "name": "Vodka",
+            "text": "Complainin' about a little injury like this would be super lame!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Just check out this wicked runnin' form! It'll wipe that frown straight off your face!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right. Let's go, partner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Vodka promised, she trains the same as she did before the injury."
+        }
+    ]
+}

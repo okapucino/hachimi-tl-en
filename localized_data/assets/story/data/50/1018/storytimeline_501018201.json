@@ -1,0 +1,34 @@
+{
+    "title": "阪神JFにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Hanshin J.F. is about to begin, and I'm starting to feel the pressure…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But Air Groove, for her part, seems even more focused than ever.",
+            "choice_data_list": [
+                "You never fail to impress me.",
+                "You never fail to impress me."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You fool. You're only supposed to praise me <i>after</i> a successful race."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You just sit back and watch."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll show you a race worthy of the title \"Empress.\""
+        }
+    ]
+}

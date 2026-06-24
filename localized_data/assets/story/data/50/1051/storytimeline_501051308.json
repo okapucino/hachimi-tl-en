@@ -1,0 +1,211 @@
+{
+    "title": "オークスの後に・樫の花は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant… huff…</i> Oh…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wasn't able to make… the full 2,400 meters…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant… pant… pant…</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Phew."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, Nishino Flower is so exhausted she can't even move, so I have her lie down for a while.",
+            "choice_data_list": [
+                "Do you feel better now?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes. Sorry…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I really am… so sorry I couldn't win…",
+            "choice_data_list": [
+                "You don't have to apologize.",
+                "You don't have to apologize."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… if I had just tried a little harder, and trained instead of resting…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If I put more thought into my physical condition, today could have been different…",
+            "choice_data_list": [
+                "Doing your best is never a mistake."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't say she was in peak condition when she took on today's race, but the reason for her loss lies elsewhere."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her next race, the Shuka Sho, is a medium-distance race, like the one she just ran. However, considering today's results…",
+            "choice_data_list": [
+                "(2,400 meters is too long a distance for her… If anything…)"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I was watching you run from up here. You were so wonderfully fast, just like a cutting gale."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. And when that blossom finally blooms, we will face each other on the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are other races where Nishino Flower can make the best use of her talents.",
+            "choice_data_list": [
+                "About your next race…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes?",
+            "choice_data_list": [
+                "Let's take the Shuka Sho off your schedule."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Does that mean…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I didn't live up to your expectations?",
+            "choice_data_list": [
+                "It's nothing like that.",
+                "It's nothing like that."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's worked hard in the lead-up to today's race. With some further adjustments, running in the Shuka Sho would also be a viable option. However…",
+            "choice_data_list": [
+                "I think there's a stage you'd shine even brighter on."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Shine even brighter? What do you mean?",
+            "choice_data_list": [
+                "I think you should try doing sprints.",
+                "I think you should try doing sprints."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…It's actually a relief to hear that. Honestly, I already knew things might come to this."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The Japanese Oaks is a big race, so I wanted to try my best for it…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But it was a little too much for me, and there were times when things felt incredibly tough…",
+            "choice_data_list": [
+                "Thanks for trying so hard, Flower."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sniffle…</i> Thank you too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm sure I can perform even better in sprints, so let's do it!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So… what should we set as my goal? Considering the season, should we aim for a graded race in the summer?",
+            "color_text_info_list": [
+                "graded race"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her reasoning is sound. Running in one of the summer races of the sprint tour is one way to get her used to them, but she can aim for something even bigger!",
+            "choice_data_list": [
+                "What about the Sprinters Stakes?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! But isn't that a G1 race?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You want me to run that right after changing course? Not to mention there'll be senior-year racers participating…",
+            "color_text_info_list": [
+                "senior-year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This will be Nishino Flower's first time running in a race with older competitors."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Compared to them, I'm still just a kid, aren't I?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Will I even stand a chance?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower has always been self-conscious about how much younger she is compared to other racers, so I understand why she's worried about running with older Umamusume.",
+            "choice_data_list": [
+                "You can do it.",
+                "You can do it."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Not as I am right now…",
+            "choice_data_list": [
+                "That's why we have the summer to train."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The academy's summer camp will be starting soon, and Umamusume tend to make vast improvements during that time.",
+            "choice_data_list": [
+                "I'll be right here with you, so let's get better together!",
+                "I'll be right here with you, so let's get better together!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Okay. Then I'll follow your lead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide to make our next goal the G1 Sprinters Stakes."
+        }
+    ]
+}

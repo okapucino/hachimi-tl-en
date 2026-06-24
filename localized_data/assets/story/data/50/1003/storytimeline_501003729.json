@@ -1,0 +1,25 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Aw, so close! You almost had it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're getting there, but you've got a long way to go before you're at my level! ♪",
+            "choice_data_list": [
+                "Dang it!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha. Well, at least you looked cool trying so hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

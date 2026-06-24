@@ -1,0 +1,73 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A fan letter arrives for Winning Ticket."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoaaaa! For me? A fan letter?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That means there's someone out there giving me their support!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's so… so…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I mean, I'm so… <i>Sniff…</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'b SOOOO HABBYYYYY! <i>Sniffle!</i>",
+            "choice_data_list": [
+                "Wh-where are you going?!",
+                "Wh-where are you going?!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sorry—I just don't know how to put this feeling into words!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So I guess my body kinda started expressing itself on its own!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer, I'll work even harder now! I need to, for the people out there putting their hope in me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I <i>promise</i> I'll give them something back! I'll do it by winning races!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "And to do that, I'll have to…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Practice! MORE!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! I'm gonna go run!",
+            "choice_data_list": [
+                "But it's pretty late already—"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WOO HOO! I'm gonna run my socks off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can stop her, she dashes out toward the twilit track."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash still hasn't arrived for our training session. Just when I start to think she might not come at all…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer! I'm so very sorry! I did not mean to be an hour and thirty-four minutes late.",
+            "choice_data_list": [
+                "Hey, what's wrong?",
+                "Hey, what's wrong?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well, I ate off campus today because the cafeteria is closed…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But my order took so long to come out, I almost canceled it altogether."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When it arrived, I ate as quickly as I could and tried to race back here, but I had to stop because my stomach was hurting too badly…",
+            "choice_data_list": [
+                "That would explain it…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But it does not excuse my tardiness. I shall reduce my break time to compensate for every minute of time lost."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell she's sincerely sorry for being late, so I let her off with a light warning."
+        }
+    ]
+}

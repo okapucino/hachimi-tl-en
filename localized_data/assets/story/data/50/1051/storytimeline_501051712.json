@@ -1,0 +1,30 @@
+{
+    "title": "Slacking Off",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower hasn't turned up for training yet. I wonder what could be holding her up, when…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I-I'm so sorry I'm late!",
+            "choice_data_list": [
+                "Did something happen?",
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I spotted a bud in a flower bed that was just about to bloom…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So I stopped to give it some encouragement and lost track of time… I'm really, really sorry…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower seems remorseful about being late, so I let her off with a warning to be more careful in the future."
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "title": "刃武流の真髄",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Yaeno Muteki and I bump into Maruzensky while we're out and about."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wowzah! It's Yaeno and her trainer! ♪ Are you two having a day out?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oh, Maruzen! What a nice surprise. It's truly an honor to run into you."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My father, you see, is a huge fan of yours. He often tells me tales of your great accomplishments."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Get outta town! Hearing that really makes my day!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I hear that you're also a master of traditional training methods. And being unrivaled in speed and skill alike… Truly, you have my utmost respect, Maruzen."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I strive every day to achieve the kind of success you have."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Traditional methods? I don't really know what you mean, but I'm digging all the compliments!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, bee-tee-dubs! I'm just on my way to this dynamite place I know. Do you two want to come with?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "There just might be a groovy li'l secret waiting for you!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Really?! I would be honored!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I can't help feeling like there's a massive misunderstanding, we find ourselves following Maruzensky to this \"dynamite place.\""
+        },
+        {
+            "name": "Bubbly Girls",
+            "text": "Ciao, Maruzen! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ciao, everyone! ♪ This here's my classmate from the academy, Yaeno, and her trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Allow me to introduce you to all the members of the Bubbly Club! We meet up once a month to talk about what's hip and happenin' right now!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oho… You belong to the same dojo? It's a pleasure to meet you all."
+        },
+        {
+            "name": "Bubbly Girls",
+            "text": "Word up, racer girl! ♪ Those threads of yours are <i>outta sight!</i> Cop a squat over here and I'll get you a drink."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Whoa, cool your jets, girlfriend! This gal here's my extra-special schoolmate. You're cruisin' for a bruisin' if you think I'll let you have her all to yourself!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Out of sight… Cooled Jets… Hmm… What manner of terminology is this? Are these the names of martial arts skills?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Here's the skinny, you two. The Bubbly Squad's always on the lookout for the freshest pads and hippest trends."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And today, you're honorary members of the party! Up first on the agenda is…"
+        },
+        {
+            "name": "The Entire Bubbly Club",
+            "text": "La la laaa! ♪"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm! An iron fan technique?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, don't hold back! I want you to get real jiggy, real fast!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Concealed weaponry… How profound! Here I go!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Far out! You nailed it! Looks like you could fight till sunrise without batting an eyelid! ♪"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Laa! Laa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the Bubbly Club training in \"special\" techniques continues…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thank you for everything today, Maruzen. I learned a great deal!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Not at all! I had a total blast! ♪ If you ever feel like sampling the latest in modern trends again, you know who to ask! Toodles! ♪"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Maruzen really is amazing. Even outside the academy, she trains diligently alongside her companions."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That said, she said \"latest,\" but I felt the whole thing had more of a retro feel.",
+            "choice_data_list": [
+                "You noticed that?",
+                "You noticed that?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. However, she heavily implied that their activities were new in nature. She must have meant…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That what's old is new again!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Working ancient techniques into fresh ideas… I believe this must be the very source of Maruzen's strength!",
+            "choice_data_list": [
+                "…She's a master!",
+                "…She's a master!",
+                "So that's the \"Bubble Style\"…",
+                "So that's the \"Bubble Style\"…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Working ancient techniques into fresh ideas… I believe this must be the very source of Maruzen's strength!",
+            "choice_data_list": [
+                "…She's a master!",
+                "…She's a master!",
+                "So that's the \"Bubble Style\"…",
+                "So that's the \"Bubble Style\"…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Indeed. She is precisely as I'd envisioned from observing her races."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "To have attained such mastery as a student is extraordinary. Maruzen is in a different league altogether."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If it's not too forward, I'm hoping she'll allow me to call her my venerable teacher."
+        },
+        {
+            "name": "Monologue",
+            "text": "I firmly insist that she does not pursue that train of thought, and our outing draws to a close."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The Bubble Style, yes… Perhaps someday that style will come into fashion in its own right and bring about something of a \"bubble era.\""
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It would be a peaceful period defined by diligent training and well-earned rest. Truly, it would be a time for both maxin' and chillaxin'.",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Is something the matter? You look as if you could use a chill pill."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since Yaeno Muteki can already sound a bit old-fashioned at times, I'm not sure whether her vernacular has become more or less modern. Either way, she speaks like this for the next few days."
+        }
+    ]
+}

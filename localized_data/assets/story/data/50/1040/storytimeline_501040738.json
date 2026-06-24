@@ -1,0 +1,72 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "Yes! I won!",
+            "choice_data_list": [
+                "You did it!",
+                "You did it!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm so happy I'm shaking! This is amazing!",
+            "choice_data_list": [
+                "I'm as happy as you!",
+                "I'm as happy as you!",
+                "You'll be shaking even more if you win next time too.",
+                "You'll be shaking even more if you win next time too."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm so happy I'm shaking! This is amazing!",
+            "choice_data_list": [
+                "I'm as happy as you!",
+                "I'm as happy as you!",
+                "You'll be shaking even more if you win next time too.",
+                "You'll be shaking even more if you win next time too."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you trying to compete with me? I'm the one who should be happy!",
+            "choice_data_list": [
+                "In my heart, we ran together!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…I see."
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, I won't ruin it for you this time. Seeing you happy makes me excited!"
+        },
+        {
+            "name": "Gold City",
+            "text": "What? It's not like I <i>want</i> to be shaking.",
+            "choice_data_list": [
+                "That's not what I meant!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha, I know. You mean I'll feel even more excited."
+        },
+        {
+            "name": "Gold City",
+            "text": "And yeah, I think so too. I want to win more!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Wild. I'm already so excited about the next race. I hope you'll pick me out a good one!"
+        }
+    ]
+}

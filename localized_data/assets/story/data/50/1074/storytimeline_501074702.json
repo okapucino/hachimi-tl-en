@@ -1,0 +1,227 @@
+{
+    "title": "ブライト・イン・アンダーワールド",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While we're on our way back from an outing, Mejiro Bright comes to a stop in front of a store window."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! Just look at those ocean blue eyes. I wonder if she'd be friends with Maki.",
+            "choice_data_list": [
+                "Isn't Maki your…"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, Maki's my doll… and a precious friend."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "She can be rather shy, but she gives everything her all, and she has a heart of gold."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…I'd like to take a closer look at the doll. This may take some time, so do feel free to head back without me.",
+            "choice_data_list": [
+                "Actually, if you don't mind, Bright…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I let her know I'd like to accompany her, and we go inside. The shop is full of antiques and dolls of all shapes and sizes… It's like standing inside a fairy tale."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "They're all gorgeous… The one with the blue eyes, this one with snow-white hair… <i>Sigh…</i> Oh, and this little one, too…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That doll over there would look stunning in a dress with a scala lace trim… Oh, they're all so adorable. I simply cannot make up my mind. ♪",
+            "choice_data_list": [
+                "They each have their own charm.",
+                "They each have their own charm."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, you're absolutely right! Look closer, and you can see the subtle differences in their expressions, yes?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "This one with the curled eyelashes has an outgoing personality, while the one with the pouty lips looks bashful.",
+            "choice_data_list": [
+                "Maki's on the shy side, isn't she?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "She is indeed! And that's why she needs a friend to give her the extra push she needs, just as Ryan and Dober have with me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What to do… The pink one is cute, but it's a little…",
+            "choice_data_list": [
+                "Wait, I know that voice…"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hello, Dober! ♪ Are you shopping as well?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Bright?! I, um, well… just wandered in on a whim!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I've been wanting a new teacup, you see! There were some nice ones in the shop window, so I came inside to have a look! It's not like I was attracted by the adorable items here! Not at all!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "M-more importantly! It's surprising to see <i>you</i> here, Bright! And with company, no less!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe, you're quite right. Trainer is here to offer some assistance in my search for a friend for Maki."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ah, Maki… Is she the one we often had tea parties with when we were little?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, she's my dear friend… and my treasure.",
+            "choice_data_list": [
+                "You've been friends for a very long time.",
+                "You've been friends for a very long time."
+            ]
+        },
+        {
+            "name": "Shop Staff",
+            "text": "I apologize for the wait, Miss Dober. About your membership card—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…?! O-oh! You mean the card I happened to find on the floor?! You've found the owner? Fantastic! I'll just be on my way, then!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-I have somewhere to be!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well then, please excuse me! I wish you success in your search."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It seems Dober is rather busy. As for me, though, I think I'll be needing a little more time to decide who I'll be taking home…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Is that all right with you, Trainer?",
+            "choice_data_list": [
+                "Take your time!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…! Thank you! ♪ I'll be sure to find the perfect companion for Maki!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright closely examines all the dolls in the shop… but closing time arrives before she can make up her mind."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The one with ruby-red eyes was <i>so</i> delightful! But the one with the ocean blue eyes had the air of an older sister… Oh, but then… so did the one with amber eyes…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Should I bring them all home? But then Maki would be overwhelmed by all the new faces!",
+            "choice_data_list": [
+                "You look pretty happy for someone who's fretting.",
+                "You look pretty happy for someone who's fretting."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe, I am. I enjoy this time as well, you see—the time spent weighing up options."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But… it seems time is a luxury we no longer have. I do hope you're not too tired, Trainer.",
+            "choice_data_list": [
+                "I'm just glad to see you having fun.",
+                "I'm just glad to see you having fun."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my… You grace me with such kind words. Thank you."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe! As I tend to conduct these searches on my own, having some company made for a surprisingly nice change of pace. Today was a lot of fun."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've so very many things to tell Maki when I get home! ♪",
+            "choice_data_list": [
+                "\"So many things\"? Like what?",
+                "There's more to dolls than just the collecting, isn't there?",
+                "There's more to dolls than just the collecting, isn't there?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've so very many things to tell Maki when I get home! ♪",
+            "choice_data_list": [
+                "\"So many things\"? Like what?",
+                "There's more to dolls than just the collecting, isn't there?",
+                "There's more to dolls than just the collecting, isn't there?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, firstly, I'll tell her about Dober. She mentioned that she was looking for a teacup, so I'll discuss with Maki which one to gift her."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'd also like to discuss a design idea that came to me while I was looking for a new friend for her. And then, lastly…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I wish to share your kind words with her, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe! I can only hope we manage to cover everything before sunrise."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her gently to try and get to sleep at a decent hour."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Absolutely! If you're curious, do consider taking one home for yourself. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Meeting new friends is difficult, but the process is so much fun… Perhaps you know the feeling?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm sure that fate will guide you to a wondrous encounter."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I eagerly await the day we can all enjoy a tea party together."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way home, Mejiro Bright cheerfully tells me all about the wonders of dolls."
+        }
+    ]
+}

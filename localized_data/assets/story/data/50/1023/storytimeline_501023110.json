@@ -1,0 +1,111 @@
+{
+    "title": "エンディング",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "My first three years with Biwa Hayahide have come to a close."
+        },
+        {
+            "name": "Monologue",
+            "text": "These first three are crucial for an Umamusume. As for how she's doing now that the Arima Kinen is over…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's work on identifying my current problems, Trainer."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Frankly, I need more experience. The senior racers showed amazing resourcefulness during races, and considering how intuition is derived from experience…",
+            "choice_data_list": [
+                "(She's still working on her calculations!)"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer? Are you listening?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Just because our first three years are over doesn't mean there won't be any more races!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I can't exactly call this my \"winning equation\" until I can win every single race I enter, after all. Don't you agree?",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She folds her arms calmly and stares at me. The way she carries herself is formidable indeed."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Is something wrong?",
+            "choice_data_list": [
+                "Let's move forward and keep winning more races!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Heh… That goes without saying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide and I are going over our plans for future training when someone approaches us…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Big Sis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…Brian."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I just came to tell you one thing. Next time, I'll beat you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And what if I don't let you?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'll do it anyway."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Mhm. I wouldn't expect anything less from you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hey, Sis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "See you on the track."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, I'm looking forward to racing you again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The exchange between the two sisters is awkward… but their smiles sure do look alike."
+        }
+    ]
+}

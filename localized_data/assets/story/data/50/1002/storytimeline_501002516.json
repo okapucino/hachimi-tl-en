@@ -1,0 +1,80 @@
+{
+    "title": "白い誘惑",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After lunch, I find Silence Suzuka staring at her empty plate."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My next race is coming up. What to do…",
+            "choice_data_list": [
+                "What's got you worried?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer… I'm trying to decide whether I should eat dessert or not."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "This time of the year, they have all kinds of winter-themed sweets. They call it the Snow Fair."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I don't think I've ever seen so many gorgeous frosty treats in one place!",
+            "choice_data_list": [
+                "The presentation makes them look extra tasty!",
+                "The presentation makes them look extra tasty!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I agree!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm especially interested in this one, the Igloo Jumbo Parfait."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But with the next race coming up, I have to really be careful about my intake…",
+            "choice_data_list": [
+                "What if we split it?",
+                "Don't worry about it. Time to indulge!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Are you sure? Thank you so much!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. It's so cute. It's almost a shame to eat it."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was right to be concerned. This parfait must be packed with calories. The snow is more likely to give her heartburn than frostbite."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well if you say so, it must be okay. Right?",
+            "choice_data_list": [
+                "You can run off whatever you eat later."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Right…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hm… I can eat as much as I want… and then run as much as I want."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's a win-win situation, isn't it? Hehe."
+        }
+    ]
+}

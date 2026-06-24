@@ -1,0 +1,27 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I've been so absorbed in my work that I lose track of time. As I rush back home, I run into someone familiar…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh? What are you still doing here, Trainer?",
+            "choice_data_list": [
+                "Don't tell me you've been out here training this whole time."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I just can't stop thinking about the race… I thought running would take my mind off of it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But… no such luck. I'm not sure what else to try…"
+        },
+        {
+            "text": "She seems exhausted from her race… It might be time to adjust her schedule so she can take a break."
+        }
+    ]
+}

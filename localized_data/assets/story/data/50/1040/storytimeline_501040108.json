@@ -1,0 +1,270 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "The Spring Fan Fest is here, and the popular model Gold City is expected to be inundated by her fans."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "We've gathered your fans in the gym. I'm leaving the rest to the host. Go check on her."
+        },
+        {
+            "name": "Gold City",
+            "text": "Thank you, Brian."
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "If you wanna say something, say it."
+        },
+        {
+            "name": "Gold City",
+            "text": "I don't know, it's just funny to see you working hard like this."
+        },
+        {
+            "name": "Gold City",
+            "text": "You're usually on the rooftop just killing time."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Busy day. I need to get going.",
+            "choice_data_list": [
+                "Are you guys not on good terms?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Not good, but not bad either."
+        },
+        {
+            "name": "Gold City",
+            "text": "Sometimes, when I need to go somewhere and be alone, I run into her slacking off."
+        },
+        {
+            "name": "Gold City",
+            "text": "Forget about that now, though. I've got fans waiting, so let's go."
+        },
+        {
+            "name": "Fans",
+            "text": "Aaahhh! Cityyyy!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Thank you for coming, everyone. So…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Quiet, everyooone! You there, stay in line!"
+        },
+        {
+            "name": "Gold City",
+            "text": "So you're the host, Bamboo. Can you handle this?",
+            "color_text_info_list": [
+                "Bamboo"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, who do you think I have to deal with on the daily?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If I can handle you, you big troublemaker, I can handle—"
+        },
+        {
+            "name": "Fans",
+            "text": "Omigod, what a photo op! Bamboo, City! Look this way!"
+        },
+        {
+            "name": "Fans",
+            "text": "Do an UmaTok! Do a Q and A!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "W-wait, me too?! No, I'm just the host, so…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Come on, why not? It isn't like you to shy away."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm not shying away! It's just that today is supposed to be your day…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But oh well… I guess I can't argue with the star of the show! I present to everyone, the City and Bamboo talk special!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You're so easy…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Okay, we're taking questions from the audience! Raise your hand if you've got one!"
+        },
+        {
+            "name": "Fan A",
+            "text": "I've got one! You two share a room, right? Is there anything about each other that only the two of you know?"
+        },
+        {
+            "name": "City and Bamboo",
+            "text": "Um."
+        },
+        {
+            "text": "<i>Clap, clap, clap, clap!</i>",
+            "choice_data_list": [
+                "(The question's so good they're applauding…)"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Something only I know? Hmm…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Please don't say anything weird, okay?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Anything weird? Like how you sometimes call me \"daddy\" when you're half asleep?"
+        },
+        {
+            "name": "City's Fan",
+            "text": "Ooohh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Wh-what?! I don't do that!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yes, you do. You never called me \"Mommy,\" but one time you did call me \"Bunny.\""
+        },
+        {
+            "name": "Gold City",
+            "text": "\"Bunny\"? …Ohhh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That's the name of a doll I wanted when I was a child! I was too stubborn to admit it though…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And that's why you still dream about it? Wow, how cute."
+        },
+        {
+            "name": "City's Fan",
+            "text": "AAAAAHHHHH!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ack! What are you screaming for?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "This is your doing."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh! This one is actually good information—it's about City's routine!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Wait, what are you—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "She really keeps all the letters and gifts she receives from you fans, you know."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sometimes she comes to our room ready to drop dead 'cause she's so tired, and then she falls asleep with all your letters in her arms!"
+        },
+        {
+            "name": "Fans",
+            "text": "AAAAAHHHHH!"
+        },
+        {
+            "name": "Gold City",
+            "text": "B-Bamboo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What, was I not supposed to share that? It's a super heartwarming story!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "See, people tend to think you're all cool and distant, but this is your chance to change that impression!"
+        },
+        {
+            "name": "Gold City",
+            "text": "But that's not the impression I want to give!"
+        },
+        {
+            "name": "Fan A",
+            "text": "City reads all our letters… That's so sweet!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I know, I'm so happy! City's got such a big heart!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Well, <i>they</i> look pretty happy about it…"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Ugh. End me, please."
+        },
+        {
+            "text": "After the Q and A, the meet and greet continues with one-on-one conversations."
+        },
+        {
+            "name": "Fan C",
+            "text": "Um, when I saw you run, I became an even bigger fan!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Thank you."
+        },
+        {
+            "name": "Fan C",
+            "text": "Why did you quit the Triple Tiara? It seemed like the perfect fit for you!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well… that's because…"
+        },
+        {
+            "name": "Gold City",
+            "text": "…?"
+        },
+        {
+            "text": "After the event…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, um… could I have some alone time? There's something I want to think through.",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Mm."
+        },
+        {
+            "name": "Gold City",
+            "text": "The reason why I quit the Tiara tour…"
+        },
+        {
+            "name": "Gold City",
+            "text": "I…"
+        }
+    ]
+}

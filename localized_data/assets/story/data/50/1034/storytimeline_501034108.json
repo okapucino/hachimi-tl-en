@@ -1,0 +1,317 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest—a large-scale event held by Tracen Academy to celebrate the fans. Amid the festivities, Inari One is…"
+        },
+        {
+            "name": "Student Stall Runner",
+            "text": "Inari! We're running low on the yakisoba sauce quicker than we thought!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Okay! The okonomiyaki stall still has plenty left, so let's try our luck with them! In the meantime, get people movin' on restock duty!"
+        },
+        {
+            "name": "Student Stall Runner",
+            "text": "Got it! Thank you so much!"
+        },
+        {
+            "name": "Student Stall Runner",
+            "text": "Inari! The chef making the carrot fried rice is about to pass out! Could we get a little help?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Already on it! Just got in touch with the student council. We're gettin' some extra help soon. Tell her to hang in there!"
+        },
+        {
+            "name": "Student Stall Runner",
+            "text": "Wow, Inari! You're really the best in an emergency!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's been personally requested by the student council to manage the food stalls, so I offer to lend a hand."
+        },
+        {
+            "name": "Inari One",
+            "text": "Gaaah! It's so busy, my eyes are spinnin'! But a <i>busy</i> festival is a <i>good</i> festival!",
+            "choice_data_list": [
+                "Everything looks to be going well.",
+                "Everything looks to be going well."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Sure is! But I shouldn't get ahead of myself, not when the crowd keeps pourin' in."
+        },
+        {
+            "name": "Inari One",
+            "text": "I heard most of 'em are visitin' just for Oguri. This year's shapin' up to be the biggest one yet!"
+        },
+        {
+            "name": "Inari One",
+            "text": "But that's how I like it! Can't have a festival without lotsa noise!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for helpin' out, Boss! I know it's tough havin' ya on the clock since dawn. Make sure to get some rest if ya can!",
+            "choice_data_list": [
+                "That goes for you too!",
+                "That goes for you too!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for helpin' out, Boss! I know it's tough havin' ya on the clock since dawn. Make sure to get some rest if ya can!",
+            "choice_data_list": [
+                "That goes for you too!",
+                "That goes for you too!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The festival is just as exciting as it is busy, and as the day progresses…"
+        },
+        {
+            "name": "Visiting Fans",
+            "text": "<i>Chatter, chatter!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "…The number of visitors continues to climb!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yowza! This is <i>wild!</i> I honestly never expected <i>this</i> many people!"
+        },
+        {
+            "name": "Student Stall Runner",
+            "text": "Inari, we're in trouble! If this keeps up, we won't be able to serve everyone!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You're right, the stalls can't take this many visitors! We need to thin out the crowd flow…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Management, can ya hear me? Time to pull out the trick we talked about! Get some helpers on the ground, stat!",
+            "choice_data_list": [
+                "Trick?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, you're lookin' at a gal raised on festivals. I learned a few things from my hometown pals!"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "Inari One! We've mapped out the diversion paths, obtained the tools, and stationed helpers out for crowd safety. Preparations should be ready soon!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Gotta love our student council! Now it's my time to shine."
+        },
+        {
+            "name": "Inari One",
+            "text": "Attention, all visitors! I've got a special event in store for ya today!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Just beyond the food 'n' drink area, we're gonna be holdin' a mind-blowin' <i>hashigo nori</i> show! Come and have yourselves a look!"
+        },
+        {
+            "name": "Female Visitor",
+            "text": "Did she say hashigo nori? As in ladder acrobatics? Wait, is she going to use that big ladder over there?!"
+        },
+        {
+            "name": "Male Visitor",
+            "text": "We should check it out!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe! Now that I've got a good crowd gathered, it's time to give 'em a show to remember!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hup! Hah! Hwah!"
+        },
+        {
+            "name": "Crowd",
+            "text": "Whooooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One puts on an amazing acrobatic performance, drawing visitors away from the food stalls to see her!"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "Okay, now that Inari One has the fans distracted, let's figure out a plan to keep these stalls running!"
+        },
+        {
+            "name": "Student Stall Runners",
+            "text": "Got it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "There's more where that came from! Feast your eyes on this next trick!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Woooow!",
+            "choice_data_list": [
+                "You're amazing, Inari!",
+                "You're amazing, Inari!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's stupendous stunts save the day, and the Fan Fest manages its unprecedented visitor count with no problems!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later on, we decide to celebrate the success in my office."
+        },
+        {
+            "name": "Inari One",
+            "text": "Phew! Today really got me pooped!",
+            "choice_data_list": [
+                "That was an amazing plan."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, no kiddin'! There's a real master of the stuff back in my hometown. I learned a whole bunch there!"
+        },
+        {
+            "name": "Inari One",
+            "text": "We do the same thing to break up crowd jams at our local festivals. After rememberin' that, I figured I'd share the strategy with the Fan Fest crew."
+        },
+        {
+            "name": "Inari One",
+            "text": "When ya supersize a festival, ya supersize the plannin'. Being sharp means comin' up with a whole slew of things to please the guests!",
+            "choice_data_list": [
+                "Right on! That's some real style!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Bwahaha! All that behind-the-scenes work ya did was just as cool! Well done to the both of us!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Bwahaha! All that behind-the-scenes work ya did was just as cool! Well done to the both of us!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While complimenting each other on our respective efforts, we celebrate the closing of a festival well done."
+        },
+        {
+            "name": "Female Visitor",
+            "text": "Did she say hashigo nori? As in ladder acrobatics? Wait, is she going to use that big ladder over there?!"
+        },
+        {
+            "name": "Male Visitor",
+            "text": "Inari One's about to do something crazy! Let's go check it out!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe! Now that I've got a good crowd gathered, it's time to give 'em a show to remember!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hup! Hah! Hwah!"
+        },
+        {
+            "name": "Crowd",
+            "text": "Whooooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One puts on an amazing acrobatic performance, drawing visitors away from the food stalls to see her!"
+        },
+        {
+            "name": "Male Spectator",
+            "text": "Amazing! Keep it up, Inari One!"
+        },
+        {
+            "name": "Female Spectator",
+            "text": "Eeek! Look, she's waving our way! She's so cool!"
+        },
+        {
+            "name": "Student Council Member",
+            "text": "Okay, now that Inari One has the fans distracted, let's figure out a plan to keep these stalls running!"
+        },
+        {
+            "name": "Student Stall Runners",
+            "text": "Got it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "There's more where that came from! Feast your eyes on this next trick!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Woooow!"
+        },
+        {
+            "name": "Male Visitor",
+            "text": "Hey, what's happening over there? Let's go see!"
+        },
+        {
+            "name": "Female Visitor",
+            "text": "Whooa, she's really good at that! Let's get a closer look!",
+            "choice_data_list": [
+                "You're amazing, Inari!",
+                "You're amazing, Inari!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's stupendous stunts save the day, and the Fan Fest manages its unprecedented visitor count with no problems!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later on, we decide to celebrate the success in my office."
+        },
+        {
+            "name": "Inari One",
+            "text": "Phew! Today really got me pooped!"
+        },
+        {
+            "name": "Inari One",
+            "text": "So many fans came to see me. I really had to turn up the heat!",
+            "choice_data_list": [
+                "That was an amazing plan."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, no kiddin'! There's a real master of the stuff back in my hometown. I learned a whole bunch there!"
+        },
+        {
+            "name": "Inari One",
+            "text": "We do the same thing to break up crowd jams at our local festivals. After rememberin' that, I figured I'd share the strategy with the Fan Fest crew."
+        },
+        {
+            "name": "Inari One",
+            "text": "When ya supersize a festival, ya supersize the plannin'. Being sharp means comin' up with a whole slew of things to please the guests!",
+            "choice_data_list": [
+                "Right on! That's some real style!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Bwahaha! All that behind-the-scenes work ya did was just as cool! Well done to the both of us!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Bwahaha! All that behind-the-scenes work ya did was just as cool! Well done to the both of us!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While complimenting each other on our respective efforts, we celebrate the closing of a festival well done."
+        }
+    ]
+}

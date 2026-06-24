@@ -1,0 +1,52 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while Smart Falcon and I are out together…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh hey, look at that! ☆ What adorable plushies! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's looking at a claw machine filled with little Umamusume plushies."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I bet surrounding myself with these adorable things will up my Umadol power! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You think so too, right?",
+            "choice_data_list": [
+                "Well, it's possible…"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "In that case, I've got a request for you. ☆ I'd just love it if you could get me some plushies! ♪",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Don't worry, I'll be cheering you on with all my spirit!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I believe in you, Trainer! You got this! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like I'm getting roped into this. All the same…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

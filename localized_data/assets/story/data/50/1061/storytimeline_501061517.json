@@ -1,0 +1,41 @@
+{
+    "title": "どうしても苦手……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taking a break from training, King Halo and I make our way to the park."
+        },
+        {
+            "name": "King Halo",
+            "text": "…What a blustery day.",
+            "choice_data_list": [
+                "Does it bother you?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes. I'm not a fan of how the strong winds kick up clouds of sand."
+        },
+        {
+            "name": "King Halo",
+            "text": "The sand gets everywhere, clinging to my clothes and hair. On top of that, it makes me snee—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swooooosh!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Achoo!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh, speak of the dust devil!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> This is why I hate sand…"
+        }
+    ]
+}

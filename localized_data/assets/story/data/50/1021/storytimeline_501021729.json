@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh… Wait, is that claw a little on the weak side or somethin'?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "They cranked the difficulty up to the max, so ya wouldn't get anythin' no matter how good ya are. Yeah, that must be it…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Put your wallet away! This thing's a sinkhole!",
+            "choice_data_list": [
+                "Let me try one more time!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Guh… No, don't do it! I can't stand seein' perfectly good coins vanish before my eyes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

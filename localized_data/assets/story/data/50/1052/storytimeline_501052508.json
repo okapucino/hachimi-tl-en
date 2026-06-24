@@ -1,0 +1,30 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Haru Urara seems sluggish during practice today."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow… That cloud looks just like you, Trainer…",
+            "choice_data_list": [
+                "You're a little spacey today, huh?",
+                "You're a little spacey today, huh?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Right… Y'know, it's weird. Recently, I've been feeling heavy as a rock."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I wonder why?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like it might be best to rearrange her race schedule…"
+        }
+    ]
+}

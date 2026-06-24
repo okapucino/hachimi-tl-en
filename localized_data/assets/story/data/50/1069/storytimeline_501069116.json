@@ -1,0 +1,296 @@
+{
+    "title": "『今宵の月は満月か、三日月か』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Phew…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…That was no good either. Even I can tell. It didn't feel right at all."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But still…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! Are you training too, Maruzen?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey there, Spe. I am! I'm putting my all into it! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, if you're training too, why don't we go partner running?"
+        },
+        {
+            "name": "Special Week",
+            "text": "H-huh?! Me? Partner running? With you?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'd love to! Gosh, I'm so happy to have a chance like this! I'll run with everything I've got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, Sakura Chiyono O and I have stopped by a cafe to have a meeting over lunch."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What are you going to order, Trainer? Look, they have hot dogs!",
+            "choice_data_list": [
+                "Hot dogs…"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oops! I'm so sorry about what happened at the Fan Fest… I really put you through a lot back there…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "How about a salad? We could both get carrot salads, and then we'd be twinsies! Hehe.",
+            "choice_data_list": [
+                "Is just a salad going to be enough for you?",
+                "Is just a salad going to be enough for you?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sigh…</i> Yeah."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Lately, there have been days where I feel tired of eating."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "My body feels heavy, too… Hehe. I think my body is telling me to go on a diet.",
+            "choice_data_list": [
+                "You feel tired of eating, and your body is heavy?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, she didn't want any takoyaki during New Year's either because she wasn't hungry."
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I heard someone talking about something similar before…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I've alway hadda light appetite, but now I'm gettin' fuller even faster. And my legs've been weirdly heavy lately, so I'm takin' a break."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "To be honest with ya, this might be it for me… My body could be tryin' to tell me, \"Hey, you're done here.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "That's right. Tamamo Cross said pretty much the same thing during her press interview."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe, but it's not a big deal. Really, it's not even that bad!",
+            "choice_data_list": [
+                "But what if that means you're—"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a certain stage in an Umamusume's life where her body and racing capabilities begin growing rapidly."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is the moment when her skills as a competitive racer awaken, so the state is known as being \"race-ready.\"",
+            "color_text_info_list": [
+                "race-ready"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When Umamusume become race-ready, they start to feel new potential well up in their bodies."
+        },
+        {
+            "name": "Monologue",
+            "text": "They go through many changes. Their bodies feel light, they can run on and on without getting tired, and their appetites become insatiable."
+        },
+        {
+            "name": "Monologue",
+            "text": "Competitive racers train hard during this period to maximize their growth and tackle big racing goals."
+        },
+        {
+            "name": "Monologue",
+            "text": "Conversely, when Umamusume's legs start feeling heavy… When their body won't move how they want, and their appetite declines…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a sign they've passed their racing peak, and are approaching the sunset of their career.",
+            "color_text_info_list": [
+                "peak"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Are you trying to say that I'm in decline?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But it's barely the spring of my senior year. How can I already be past my peak?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That can't be…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…",
+            "choice_data_list": [
+                "We can talk about this again some other time."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Okay."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The sunset is so beautiful…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah… So the sun is already setting…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sorry, Spe, but could we go one more time? Just once more, please!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Huff… Wheeze…</i> Yeah… I can totally go again!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh dear, I'm sorry to push you so far! But I'm almost done, so hang in there!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…I made Chiyo a promise, so I'll do everything I can."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen, I…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-it's been quite a surprise, but despite always thinking I was normal, it turns out there's something unusual about me!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It seems I'm one of those Umamusume who goes into full bloom early and withers away just as fast…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But since you're incredibly strong, someone as average as me has to work way harder than average."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If I want to catch up to you, I'll first have to get faster and improve my stamina."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll have to be aware of my position in races and stick things through until the very end…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But if my peak really is behind me, then…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Trainer, may I ask you a favor, please?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's about my training plans from now on.",
+            "choice_data_list": [
+                "Go ahead.",
+                "Go ahead."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you. I, um… Even if I <i>were</i> in decline, I've only just started declining, right?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So I bet if I train hard, I should be able to maintain my strength close to what my peak levels are!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Besides, there's a chance I haven't passed my peak yet."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's way too early to say what's happening just because I'm feeling a bit off. It might just be exhaustion!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So… so, listen!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "This is the moment I should be digging in my heels and working even harder, not giving up! So how about we increase my training?",
+            "choice_data_list": [
+                "…Sure. We can do that.",
+                "…Sure. We can do that."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! Thank you! I'll do my best!",
+            "choice_data_list": [
+                "You have to be careful not to get hurt, though, okay?",
+                "You have to be careful not to get hurt, though, okay?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh… Right. I will. I can't afford to get hurt… especially not now."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um, Trainer?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm going pour every drop of energy I have into training from now on!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So… do you think I still have a chance?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Do you think I can still become her rival?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the light of the setting sun bleeds in through the windows, Sakura Chiyono O's voice echoes somewhat emptily through the room…"
+        }
+    ]
+}

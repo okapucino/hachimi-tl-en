@@ -1,0 +1,88 @@
+{
+    "title": "カウガールにお任せ☆",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle pesters me to go visit a farm with her on my day off…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm… It's not like the ones back home, but a farm's a farm!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "There's so much energy here! The smell of the pastures, the hummin' of the tractors…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The gentle breeze flowin' through the farm, the bellowin' of stampeding cattle…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wait, stampeding cattle?!"
+        },
+        {
+            "name": "Farmer",
+            "text": "It's an emergency! The cows have escaped!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We turn to see several cows running through a broken fence!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh! They couldn't have escaped at a better time! Y'all leave this to me, now!",
+            "choice_data_list": [
+                "It's seems kind of dangerous.",
+                "It's seems kind of dangerous."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "S'all good! Wranglin' cows is what my family does! I'm used to this kinda thing!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Git along, now!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She approaches the escaped cows from the side while shouting commands, and they're back where they belong in no time flat."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whew! And that's more or less how it's done! That went surprisingly well for bein' on my lonesome!",
+            "choice_data_list": [
+                "You'd never done it alone before?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Haha, nope! My mom and I always did it together back home!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But never mind that! My body feels way lighter from all that herding!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I get the feelin' I can take my speed up a notch and make sharp turns right on the heel!",
+            "choice_data_list": [
+                "Is that so?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yessiree! I'm so glad we got out to this here farm! Thanks for takin' me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, I notice Taiki Shuttle's running has certainly improved a lot, just like she predicted."
+        }
+    ]
+}

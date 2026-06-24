@@ -1,0 +1,42 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fine Motion and I are drinking some tea while we have a meeting."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, where's the sugar? Ah! Here it is! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Plip, plip, plip… Plop, plop… PLOP!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So then, Trainer, about our training regimen…",
+            "choice_data_list": [
+                "(That… was a lot of sugar cubes.)",
+                "(That… was a lot of sugar cubes.)"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What do you think about making some changes based on my race results? I personally believe flexibility is key.",
+            "choice_data_list": [
+                "S-sure!",
+                "S-sure!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, it's decided then! ♪ Okay, I'm going to give it my all tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion doesn't let her fatigue show, but it might be the reason she's craving all that sugar. I might want to take another look at her race schedule."
+        }
+    ]
+}

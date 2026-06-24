@@ -1,22 +1,26 @@
 {
-    "no_wrap": true,
+    "title": "エンディング",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Sakura Bakushin O managed to finish the \nTwinkle Series in style."
+            "name": "Monologue",
+            "text": "Sakura Bakushin O has managed to leave quite a mark on the Twinkle Series."
         },
         {
-            "text": "We were able to get through the very \nimportant \"first three years\" together――"
+            "name": "Monologue",
+            "text": "Together, we've successfully navigated the crucial first three years of her career."
         },
         {
-            "text": "One day, I was basking in the afterglow \nof such a big milestone."
+            "name": "Monologue",
+            "text": "One day, while we bask in the glory of our victories…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hold iiiiiiiiit!"
+            "text": "Hey!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You there! \nThe campus is off-limits to everyone except students and faculty!",
+            "text": "You there, halt! Personnel unrelated to the academy are prohibited from entering!",
             "choice_data_list": [
                 "It's me!",
                 "It's me!"
@@ -24,62 +28,62 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I am aware! It was a joke!"
+            "text": "Just kidding!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I would never mistake my Trainer, you \nknow～!",
+            "text": "I would never mistake my trainer for a stranger!",
             "choice_data_list": [
-                "(Is that so?)",
-                "(Is that so?)"
+                "(Are you sure about that?)",
+                "(Are you sure about that?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now that's exactly what I call a typical class \npresident joke!"
+            "text": "What you just witnessed was a class rep-style knee-slapper!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do you think? Isn't it just marvelous \nthat I'm not only serious, but I can also \nappreciate a good joke!",
+            "text": "How was it? I'm more than a studious model student! I can crack jokes too! Isn't it refreshing?",
             "choice_data_list": [
-                "Sure…"
+                "I guess so."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As expected, you know exactly what I'm \ntalking about!"
+            "text": "I knew you'd understand!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is just another sign that I've grown up \nwith you, Trainer!"
+            "text": "This just shows how much I've grown under your care, Trainer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, so much for standing around and \nidle chatter! \nI've got work to do as class president, after \nall!"
+            "text": "But let's cut the chit-chat! I have some work to attend to as class rep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Looking around to see if there are any \nyoung pupils slacking off, helping the \nteacher, cleaning the blackboard eraser…"
+            "text": "Doing the rounds to see if there are any students playing hooky, assisting the teachers, cleaning the blackboards…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There's so much to do! But, when all of my \nduties are complete…"
+            "text": "I've got a lot to do! And once I'm finished…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It'll be time for the long-awaited, much \nanticipated! \nTraining with the Trainer!"
+            "text": "We can finally start today's training!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please do wait patiently for me on the \ncourse. \nBecause I'll be back to finish it off, \nBakushin-style!"
+            "text": "Please wait at the tracks for me. I'll get everything done before you can say \"Bakushin\"!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come on, come on, just as we always do!! \nLet's go for this great, big, awesome \ndream!!"
+            "text": "Here we go! I'm facing my enormous, grandiose, super big dreams head-on today as well!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――I'm gonna go Bakushiiiiin!!"
+            "text": "Bakushiiiiin away!"
         }
     ]
 }

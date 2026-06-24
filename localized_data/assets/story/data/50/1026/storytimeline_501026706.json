@@ -1,0 +1,258 @@
+{
+    "title": "『オペレーション：エンジョイ縁日』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "On the way home after spending the day out with Mihono Bourbon, we spot a festival at a nearby shrine."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Detecting that congestion is at five times normal levels. In other words, it is a huge turnout.",
+            "choice_data_list": [
+                "Do you want to check it out?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No. I was merely scanning for which stalls have the highest customer density, as my data banks currently lack this information."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The yakisoba stall appears the most crowded. This is peculiar, considering it can be prepared at home."
+        },
+        {
+            "text": "<i>Groooowl…</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The visual input has stimulated my stomach, creating a natural bodily reflex.",
+            "choice_data_list": [
+                "Let's get a closer look!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. If that is your desire, then I will accompany you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Munch, munch… Gulp…</i>",
+            "choice_data_list": [
+                "How is it?",
+                "How is it?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Delicious. The yakisoba is \"piping hot,\" just as the stall's name suggests. However, it has a richer flavor than regular yakisoba."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I wonder if the other food stalls share the same phenomenon… <i>Gulp…</i>"
+        },
+        {
+            "name": "Shooting Gallery Attendant",
+            "text": "Come one, come all! Help your digestion along with a little target practice at the shooting gallery, and win some fabulous prizes while you're at it!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hm?"
+        },
+        {
+            "name": "Shooting Gallery Attendant",
+            "text": "The nigh-unobtainable grand prize is a take-all-you-want ticket! You'll be sure to please that special someone at your side!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master, since you resolved my empty stomach dilemma, I would like to request permission to grant your desires next."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This shooting gallery seems to have the perfect prize that will let me show you my gratitude.",
+            "choice_data_list": [
+                "Shall we give it a shot, then?",
+                "Shall we give it a shot, then?",
+                "Nah, let's try all the other food instead."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This shooting gallery seems to have the perfect prize that will let me show you my gratitude.",
+            "choice_data_list": [
+                "Shall we give it a shot, then?",
+                "Shall we give it a shot, then?",
+                "Nah, let's try all the other food instead."
+            ]
+        },
+        {
+            "text": "She starts shooting in an attempt to win the grand prize, but…"
+        },
+        {
+            "name": "Spectator",
+            "text": "Aw, missed again. She's failed ten times, but she's still not giving up."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Adjusting range by five millimeters. Adding three degrees to firing angle… Recalculating trajectory…",
+            "choice_data_list": [
+                "It'll be curfew soon, so we'd better start heading home."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Understood. I have no issue. Because the next shot will be the last."
+        },
+        {
+            "text": "<i>Bang! Thunk.</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Target destroyed."
+        },
+        {
+            "name": "Spectator",
+            "text": "Whoooa! She totally called that one!"
+        },
+        {
+            "name": "Shooting Gallery Attendant",
+            "text": "Haha! Looks like it's your victory, young lady! Take as many prizes as you want!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Very well, then. Master, what would you like?",
+            "choice_data_list": [
+                "Pick whatever <i>you</i> want, Bourbon!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Whatever <i>I</i> want?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. Please wait."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I selected matching items that I think are perfect for us. Here."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I hope it fits your hand."
+        },
+        {
+            "text": "I remove the prize from the box and gently hold it."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "What do you think? It's a hand grip. How does it feel?",
+            "choice_data_list": [
+                "Um… good?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Excellent. Now we can train and improve together."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mission complete."
+        },
+        {
+            "text": "We return to the academy while working out with our matching hand grips."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is only what I desire, and thus, it will only benefit me… It is no way to thank you.",
+            "choice_data_list": [
+                "Whatever makes you happy makes me happy.",
+                "Whatever makes you happy makes me happy."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You want to see me happy…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. I will eat with all my might if that is what you wish."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Commencing food stall conquest. Let's start with that taiyaki stall."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Munch, munch…</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…!",
+            "choice_data_list": [
+                "Wh-what is it?",
+                "Wh-what is it?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Report—flavors are beyond expected levels, resulting in a short-circuit in my thought process."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I am unable to identify any special cooking techniques or seasoning used… This must be an ordinary taiyaki."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Similar to the yakisoba, its deliciousness perplexes me. Why does eating it make me feel so elated?",
+            "choice_data_list": [
+                "Maybe because you're having fun?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see. I have seen data on this before."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Feelings and flavor can operate together. I believe the words were \"happiness is the best seasoning.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Let us have okonomiyaki next. I am intrigued as to whether it will surpass my expectations as well."
+        },
+        {
+            "text": "We continue ordering from the food stalls."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Burp…</i> Consumption of cotton candy complete."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "We've visited every stall, and my energy levels are fully replenished."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "What about you, Master? Did the experience meet your expectations?",
+            "choice_data_list": [
+                "Of course! I had a lot of fun!",
+                "Of course! I had a lot of fun!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Then my mission is complete. Currently saving this experience to my memory logs."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Recording today's events along with all the various culinary experiences that I enjoyed with you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I feel like if I access these logs, I'll be able to run up the steepest incline indefinitely."
+        },
+        {
+            "text": "Today's food doesn't only replenish Mihono Bourbon's energy levels, but also fills her heart with joy."
+        }
+    ]
+}

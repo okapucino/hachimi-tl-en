@@ -1,0 +1,29 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru and I are having lunch together one day…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Do you think I'll get luscious, bouncy skin if I eat this Luscious, Bouncy Pudding?",
+            "choice_data_list": [
+                "I doubt it…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Arghhh! Then what am I supposed to do about my skin? It's as dry and rough as a paper talisman!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The philosophy of feng shui tells us dry skin is a surefire sign that great misfortune is just around the corner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru seems to be having skin problems…"
+        }
+    ]
+}

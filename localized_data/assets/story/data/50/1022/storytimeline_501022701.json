@@ -1,0 +1,34 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Good day, Trainer! What a beautiful morning! ♪",
+            "choice_data_list": [
+                "You look very well rested.",
+                "You look very well rested."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I had the most wonderful dream last night! There was a big parade and everyone was in it, even the fairies!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There were banshees, the Dullahan… Oh, and púcaí as well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly pull up information on the fairies she mentioned… but I can't help thinking all the results look incredibly creepy. Maybe it's just me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Perhaps they'll come out to play again soon. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel somewhat unsettled, but at least Fine Motion seems to have gotten some good rest."
+        }
+    ]
+}

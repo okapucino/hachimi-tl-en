@@ -1,0 +1,254 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Sakura Chiyono O has a number of victories under her belt…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O and I are riding a train to the hot spring vacation we won at the shopping district's raffle."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "We'll have to transfer trains in seven stations."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. Let me know if you want to take a nap. I'll stay awake for us.",
+            "choice_data_list": [
+                "Let me know if you need a nap, too.",
+                "Let me know if you need a nap, too."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Nooo can do."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. Today, it's my turn to take care of you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I even prepared a schedule for us, after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day before we set off, she gave me a small pamphlet titled <i>Hot Spring Vacation Schedule.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Emblazoned in huge letters on the first page is \"A Giant Thank-You Gift for My Amazing Trainer!\""
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow, this place looks so luxurious! It must be pretty renowned."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And now, please open to page five of your schedule.",
+            "choice_data_list": [
+                "Let's see… \"This resort boasts famous Umamusume among its clientele.\""
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! That's right! I did some research in advance…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But it seems neither of our rooms have karaoke machines in them…",
+            "choice_data_list": [
+                "You seem so disappointed.",
+                "You seem so disappointed."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I mean, it would've been fun to get rowdy and belt out a few songs after relaxing in the hot spring!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But since we can't do that, I practiced some magic tricks instead! Hehe. I'll show you them in our free time!",
+            "choice_data_list": [
+                "You really prepared for this!",
+                "You really prepared for this!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I did! Now then, why don't you head into the hot springs first?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Sakura Chiyono O pushing me forward, we head into the building. I can already tell she's going to be a good host during this trip."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure accepting her hospitality will be the thing that'll make her happiest, so I decide to do just that.",
+            "choice_data_list": [
+                "Okay, I'll go first."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Please do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I head for the hot spring…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After finishing my bath, I wait for Sakura Chiyono O and read the magazine she gave me beforehand in case I got out before her."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to have considered every possibility for today. However, I came here for a different reason."
+        },
+        {
+            "name": "Monologue",
+            "text": "This hot spring vacation is also a reward for all of her hard work."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, Trainer! You're already out!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Hm? What's that in your hand?",
+            "choice_data_list": [
+                "Some fruit milk for you.",
+                "Some fruit milk for you."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Really? Th-thank you for thinking of me."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But wait! You didn't have to do that. Today's my day to take care of you!",
+            "choice_data_list": [
+                "I want today to be a reward for you too, though.",
+                "I want today to be a reward for you too, though."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wh-what?! N-no, that's okay…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're the one who's always looking after me, and it's not like I've really done anything that deserves to be rewarded…",
+            "choice_data_list": [
+                "You've won a lot of races.",
+                "You've won a lot of races."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "O-oh… Heh. Yeah… Well…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Those victories were all thanks to you, so… If anything, I should be the one who's grateful.",
+            "choice_data_list": [
+                "You've been working so hard, though.",
+                "You've been working so hard, though."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Trainer! I told you that was thanks to you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "After all, you were the one who taught me how to work so hard."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Ehehe. Anyway, what's gotten into you? You're making me blush!",
+            "choice_data_list": [
+                "I'm proud to be your trainer.",
+                "I'm proud to be your trainer."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wha…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Um.",
+            "choice_data_list": [
+                "Thank you, Chiyono O."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ehe… Ehehe…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you too, Trainer. For everything."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahhh, gosh! I don't know what to do with myself…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Please don't look at me anymore… It's making me feel embarrassed…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Siiigh…</i> I wasn't expecting to get praised today… It's completely thrown me off…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I messed up the magic tricks I prepared, and now we're just lazing around. I hardly even realized when I finished eating my dinner…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Urgh…",
+            "choice_data_list": [
+                "What matters is that we're having a good time, right?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Trainer, you're way too nonchalant about this!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah! Nooo! Don't look at me yet. You're going to make me remember our conversation from earlier!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Argh… <i>Sigh…</i> Anyway, um… Like I said, thank you for everything!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After saying that, she covers her face with her hands and rolls around on the tatami mats in embarrassment."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Sakura Chiyono O and I have formed an irreplaceable bond during this time together."
+        }
+    ]
+}

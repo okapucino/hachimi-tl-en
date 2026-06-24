@@ -1,0 +1,38 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O still hasn't arrived for our training session. Just when I start to think she might not come at all…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm so sorry I'm late!",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I laid down earlier, intending to rest a little until it was time for training, but then I fell asleep…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You see, last night, I watched a scary video, and then it kept popping into my head every time I tried to shut my eyes."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "To distract myself, I decided to make some desserts. But I got too into it, and the next thing I knew, it was morning… That's actually the scariest part…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm sorry my carelessness caused so much trouble! I'll be more careful from now on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O seems genuinely remorseful for her actions, so I let her off with a light warning."
+        }
+    ]
+}

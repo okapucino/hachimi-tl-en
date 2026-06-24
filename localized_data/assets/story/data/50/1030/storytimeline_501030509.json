@@ -1,0 +1,26 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Rice Shower doubles over mid-training.",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-Yeah… I'm… fine… I have to do my best for the next race…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to be in a ton of races… so I can bring happiness to everyone…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's pushing herself way too hard. I should probably adjust her racing schedule."
+        }
+    ]
+}

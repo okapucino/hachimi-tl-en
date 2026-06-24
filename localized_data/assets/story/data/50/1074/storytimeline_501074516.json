@@ -1,0 +1,112 @@
+{
+    "title": "いざ、覚悟のお茶会へ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've been invited to a tea party at the Mejiro manor. When I arrive, though, there seems to be something amiss about Mejiro Bright…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "As an Umamusume of the Mejiro family, I must endure this tea party…",
+            "choice_data_list": [
+                "(\"Endure\"?)"
+            ]
+        },
+        {
+            "name": "Middle-Aged Mejiro Lady",
+            "text": "Well, if it isn't cute little Bright! Your timing's perfect! I was just about to go into the kitchen and whip up some good old-fashioned brownies."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oooh! Like the brownies you made back then?!"
+        },
+        {
+            "name": "Middle-Aged Mejiro Lady",
+            "text": "The very same. Why, I remember when you and Ryan gobbled them down by the plateful. How many would you like?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "As tempting an offer as that is, I feel that perhaps I should limit myself to tea for today."
+        },
+        {
+            "name": "Middle-Aged Mejiro Lady",
+            "text": "I suppose you do have your races to consider, don't you? Some other time, then! Now, who haven't I asked yet?",
+            "choice_data_list": [
+                "…Are you on a diet?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes. I thought it prudent to take a page out of McQueen's book."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "\"As an Umamusume of the Mejiro family, I can ill afford not to look the part.\" I saw her repeating that to herself in the mirror, without ever breaking eye contact."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And I hold McQueen in the highest esteem."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I thought it would be wrong of me to give in to my sweet tooth.",
+            "choice_data_list": [
+                "In that case, we should savor the tea to the fullest.",
+                "Come on, let's have something sweet!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes! ♪ Your very presence is empowering, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I must strive to develop an unwavering determination, just like McQueen! ♪"
+        },
+        {
+            "name": "Middle-Aged Mejiro Lady",
+            "text": "Here you are, Little Miss McQueen. Two brownies just for you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Th-thank you, but… I really must respectfully decline…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the Mejiro family enjoys their tea party."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, I beg your pardon, but as I just said, I shall be adopting McQueen's own intentions as—",
+            "choice_data_list": [
+                "But I thought you were Mejiro Bright?",
+                "But I thought you were Mejiro Bright?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Point taken."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Mindless imitation is for the likes of young children."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I should be learning from her in other ways."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Excuse me while I go to the kitchen. I'll be sure to bring some back for you as well, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Mejiro Bright fully enjoys her tasty trip down memory lane!"
+        }
+    ]
+}

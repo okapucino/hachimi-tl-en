@@ -1,0 +1,309 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from an outing, Oguri Cap and I swing by the shopping district."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Something smells good… The shopping district really makes my mouth water around this time of day."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk… I'm starving…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You two over there! Care to try your luck?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "How could I say no to a chance to win a deluxe carrot hamburger steak?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Let's give it a go!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "One time… Just once should be enough. You'll let me try, right?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If I don't win anything, I'll drop it! So please!",
+            "choice_data_list": [
+                "Of course!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes! Thank you!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I need to make the most of this opportunity. That deluxe carrot hamburger steak is gonna be mine!",
+            "choice_data_list": [
+                "Wait, we have to get a raffle ticket first!",
+                "Wait, we have to get a raffle ticket first!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A raffle ticket? How do we get one of those?",
+            "choice_data_list": [
+                "We have to buy something.",
+                "We have to buy something."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Got it. Then let's go buy a snack."
+        },
+        {
+            "name": "Monologue",
+            "text": "…And so we obtain one raffle ticket."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Nice! Let's hurry up and go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a steely look on her face, Oguri Cap takes hold of the raffle spinner handle. I'm overcome with a feeling similar to that of the pre-race jitters."
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives it one powerful spin, and a small plastic ball drops from the spinner's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wow! A hot spring vacation!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Did I really win a trip to a hot spring?!",
+            "choice_data_list": [
+                "That's right! That's the grand-prize!",
+                "That's right! That's the grand-prize!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Really? All I heard was \"deluxe carrot hamburger steak.\"",
+            "choice_data_list": [
+                "Are you disappointed you didn't win that?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…No, not at all. This is way better!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I <i>love</i> hot springs. I used to visit the hidden hot spring spots in my hometown all the time."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So I get to go to a hot spring…",
+            "choice_data_list": [
+                "Why don't you invite a friend?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A friend, huh? I wonder who'd wanna join me at a hot spring. Who to ask, who to ask?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, do you think you can hold on to this coupon for a while?",
+            "choice_data_list": [
+                "Sure… But why?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I don't think it really matters who I pick. I can't ask anybody to just drop everything and go. Everyone's got their own commitments—including me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's best that you look after it for now. Knowing me, I'll probably end up throwing it in the laundry by mistake."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So please, could you hold on to it for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap makes a convincing argument, so I agree to hold on to the hot spring trip coupon for her."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oooh! Whoaaa!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So this is the deluxe carrot hamburger steak! I can't believe how big it is!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Gulp…</i>",
+            "choice_data_list": [
+                "Not yet, Oguri.",
+                "Not yet, Oguri."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't worry. I wouldn't be so stupid as to eat it here."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But let's hurry back before I lose control and swallow it whole!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I do my best to keep up with Oguri Cap as she speed walks off, and manage to partake in a delicious feast with her."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No way! A bushel of carrots?! What a great prize!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That said, I really wanted to eat that hamburger steak…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Hold on.",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A carrot hamburger steak is made with carrots. Which means…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "This is basically the same as winning the hamburger steak! Yeah… I guess today's my lucky day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and I happily make our way back—our arms full of carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "One… single… carrot…",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Yeah. I just remembered something."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There was this one time I got insanely hungry back in my hometown when I was younger."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That was when I saw Shige by the side of the road, and he gave me a single carrot to eat."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That one carrot tasted <i>so</i> much sweeter than any carrot I'd eaten before."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I bet this one tastes just the same."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch Oguri Cap carefully nibble on the carrot as we slowly make our way home."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmmm… Tissues…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I wonder if they'd be edible if I boiled them…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I frantically try to console Oguri Cap before she does something silly."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "挑戦成功",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With all of Symboli Rudolf's races over, now is as good a time as any to reflect on her achievements."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Judging purely by number of accolades, my record is not as incontestable as I might have hoped.",
+            "choice_data_list": [
+                "But everyone still knows you're the Emperor."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's… kind of you to say."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I have achieved that much, I can call my imperial campaign a success."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "These victories will fuel me to pursue even greater feats.",
+            "choice_data_list": [
+                "You did good."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As did you, Trainer. Thank you."
+        }
+    ]
+}

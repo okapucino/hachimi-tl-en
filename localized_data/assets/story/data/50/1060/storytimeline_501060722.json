@@ -1,0 +1,41 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a meeting to discuss our training routine…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oooouch… My head feels like it's about to burst…",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, I'm fine. I know the acupoints for headaches."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "My mom's on her feet a lot for her job, so I used to give her massages."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I think it's around the back of the neck—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ouch! That hurts…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh. The acupoints won't work on this one, I guess."
+        },
+        {
+            "name": "Monologue",
+            "text": "The headache keeps Nice Nature from her usual best."
+        }
+    ]
+}

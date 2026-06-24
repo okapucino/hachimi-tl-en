@@ -1,0 +1,52 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm out with El Condor Pasa, when…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué bonito! Do my eyes deceive me or are those Umamusume plushies?!",
+            "choice_data_list": [
+                "They're claw machine prizes!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We could line them up with all my trophies! Think how awesome it'd be to sit down with a plate of nachos and check 'em all out!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Claw machines are so fun! They're a hella exciting challenge!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But the claw never does what I tell it to… The last time I tried, my wallet kept getting lighter, like my money was flying away…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Then when I told Grass about it, all she did was lecture me about being more responsible. I'd rather not have a repeat of that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa trembles a little as the memory of Grass's reprimands resurfaces."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Trainer, you win one for me instead!",
+            "choice_data_list": [
+                "Yeah, I'll avenge your poor wallet!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ooohhh, that's my trainer! I'll be waiting for my plushie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

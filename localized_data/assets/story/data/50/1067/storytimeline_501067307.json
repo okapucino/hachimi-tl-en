@@ -1,0 +1,230 @@
+{
+    "title": "日本ダービーの後に・慙愧",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "(It's all right! I changed into my backup shoes!)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(And I attached my cleats properly! …See, they feel perfectly fine.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(There's nothing off about them…)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Nothing at all!)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "AAAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond lets out a roar as if shaking off some restraint. With energy pouring out of her, she kicks forward off the turf."
+        },
+        {
+            "name": "Caster",
+            "text": "And Satono Diamond falls short! Becoming a Derby champion will remain forever a distant dream!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Huff, huff…</i>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(My shoes were… fine. But even so, they were in the back of my mind the whole time I was running…)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(What a disgraceful performance…)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond has been completely silent since getting back to the waiting room.",
+            "choice_data_list": [
+                "It's a shame you lost, but—"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "No, Trainer. <i>I'm</i> what's shameful.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The whole time I was running, all I could think about was my shoes."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Even though they felt totally fine, I couldn't help but check them over and over again!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I… I was afraid of the jinx…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I was so caught up in that superstition that I couldn't run my best! That's why I lost!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm so pathetic… I can't forgive myself!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I vowed not to let the jinx get the best of me! I swore it, and yet…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "If I am to achieve the Satono family dream, I can't allow even the slightest modicum of doubt to take root in my mind!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "If some formidable jinx tries to block my path, I must acquire the strength to overcome it!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll become so strong that nothing can faze me, so perfectly adapted that nothing can catch me off guard!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And I'll use that strength to overwhelm any jinx or misfortune that dares get in my way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives a refreshing declaration of her intent to succeed. I'm left awestruck."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Earth to Trainer!",
+            "choice_data_list": [
+                "Leave the training schedule to me!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehehe! That's my Trainer! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We'll show everyone a flawless race at the Kikuka Sho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I invite Satono Diamond to a cafe on our way back from the racecourse."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd like to treat her to something sweet to give her a boost in her fight to overcome her jinx."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I can order whatever I like? Well, then… Is it okay if I have a fruit parfait topped with cheesecake bites?",
+            "choice_data_list": [
+                "If that's what you want!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "In that case, I'll also have a triple scoop of ice cream on top, with rice flour dumplings, jelly cubes, and some extra fruit…",
+            "choice_data_list": [
+                "Add whatever you'd like!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, I don't think the parfait cup will be able to hold anything else. Thanks, Trainer! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, we hear someone from a nearby table mention a familiar name."
+        },
+        {
+            "name": "Homebound Male Spectator A",
+            "text": "The results of the Takarazuka Kinen interim fan vote are out! Kitasan Black is number one!",
+            "color_text_info_list": [
+                "Takarazuka Kinen"
+            ]
+        },
+        {
+            "name": "Homebound Male Spectator B",
+            "text": "Yeah, I saw! I voted for her too, so I'm super happy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The fans vote to decide who is invited to run in the Takarazuka Kinen. Voting isn't finished yet, but it appears Kitasan Black is the favorite so far."
+        },
+        {
+            "name": "Homebound Male Spectator A",
+            "text": "She was incredible in the spring Tenno Sho! She was overtaken, but she managed to catch back up and win by a hair's breadth.",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Homebound Male Spectator B",
+            "text": "Yeah, that was so awesome! She's got some serious persistence!"
+        },
+        {
+            "name": "Homebound Male Spectator A",
+            "text": "The way she runs with everything she's got, you can't help but root for her. Talk about focus."
+        },
+        {
+            "name": "Homebound Male Spectator B",
+            "text": "I know what you mean! She's just so down-to-earth and relatable. It's almost like she's one of us regular Joes."
+        },
+        {
+            "name": "Homebound Male Spectator B",
+            "text": "That's what makes me want her to win! It feels like I've won too when she does!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I feel the same way! Those two understand Kita's strengths so well!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She prayed for more supporters back when we went to the shrine for New Year's."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It looks like that dream has already come true!",
+            "choice_data_list": [
+                "You mean because she's leading the vote?",
+                "You mean because she's leading the vote?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Exactly. On top of that, her fans talk about her so enthusiastically."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She's getting closer to achieving her other goal of making her fans smile, too."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…I need to step up my game."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I have to become someone worthy of running alongside Kita as her rival!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita might be leagues ahead of me right now, but I'll forge ahead along my own path, and I won't quit until I catch her!",
+            "choice_data_list": [
+                "All the more reason we can't lose the Kikuka Sho!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's right. Kita won it last year, so we can't afford to drop the ball on this one!"
+        }
+    ]
+}

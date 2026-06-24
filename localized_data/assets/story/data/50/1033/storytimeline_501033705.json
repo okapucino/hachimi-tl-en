@@ -1,0 +1,221 @@
+{
+    "title": "もふもふ審美眼",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Lambs",
+            "text": "Baaaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega's face contorts as the lambs surround her. As for how we got here…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega and I were headed back to the academy when…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…",
+            "choice_data_list": [
+                "What's got you in such a good mood?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Nothing really…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Curren sent me another animal video… and something in it surprised me."
+        },
+        {
+            "name": "Train Announcement",
+            "text": "Next stop, Meadowside Farm Station. Meadowside Farm Station."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rather than surprised, she seems more cheerful watching the video on her phone. Visiting a farm might be a nice idea to brighten her mood.",
+            "choice_data_list": [
+                "Do you want to go and check out the animals?",
+                "Do you want to go and check out the animals?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh? Wait…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As it turns out, the farm is holding an event where you can pet the lambs, which brings us to where we are now."
+        },
+        {
+            "name": "Lambs",
+            "text": "Baaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "H-hey, wait. Why are they all coming this way?!",
+            "choice_data_list": [
+                "They probably want you to pet them."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ack… Why me?"
+        },
+        {
+            "name": "Lambs",
+            "text": "Baaa… Baaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Y-yeah, yeah… Rub your head on me all you want, but…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh…</i> Fine, I'll pet you just a little."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(It's… so warm.)"
+        },
+        {
+            "name": "Lambs",
+            "text": "Baaaaa… Baaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Wh-what? You too?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(This one feels quite different from the last one… It feels like…)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "This little guy is so skinny."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I wonder if it's because of a nutrient deficiency? Or maybe stress? Whatever the reason, their wool…",
+            "choice_data_list": [
+                "I'll go and ask someone."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell a farm worker what Admire Vega had said."
+        },
+        {
+            "name": "Farm Worker",
+            "text": "You're right. They only just arrived recently, so it might be stress caused by the move. I bet they haven't been sleeping well…"
+        },
+        {
+            "name": "Farm Worker",
+            "text": "Thank you for letting us know! It's really good you noticed so quickly!",
+            "choice_data_list": [
+                "You did a good job spotting that!",
+                "You did a good job spotting that!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It was just a coincidence."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It certainly wasn't a big deal…",
+            "choice_data_list": [
+                "But you helped the lamb out.",
+                "But you helped the lamb out.",
+                "I wonder if that skill can be applied elsewhere…"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It certainly wasn't a big deal…",
+            "choice_data_list": [
+                "But you helped the lamb out.",
+                "But you helped the lamb out.",
+                "I wonder if that skill can be applied elsewhere…"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Lambs",
+            "text": "Baaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I guess that's good."
+        },
+        {
+            "name": "Lambs",
+            "text": "Baaa, baaa…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(That little one won't stop bleating at me.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Are you saying \"thank you\"?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Heh… Of course not…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There's no way…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day in the cafeteria…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Boof!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry! Are you okay?! I must have tripped…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's fine."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(The texture of Hayahide's hair just now…)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hayahide… are you getting enough sleep?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm?! How… Actually, I did have trouble falling asleep last night."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But does it really show on my face? I appreciate the heads up."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's not your face, it's…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ahem… Never mind. Just take care of yourself."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I planned on taking Haru Urara on a carrot-picking trip as a reward for all of her hard work in the races, but when I bring it up to her…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh… Carrots…",
+            "choice_data_list": [
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ngh… Yeah, I'm just not feeling… super… up for it…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "My body feels as heavy as a rock… Let's save the carrots for another time."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's likely due to her running too many races back-to-back. It seems like it would be best to rearrange her race schedule."
+        }
+    ]
+}

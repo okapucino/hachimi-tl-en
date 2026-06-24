@@ -1,0 +1,46 @@
+{
+    "title": "スプリンターズSにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Sprinters Stakes, the second G1 sprint race on our list."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "This race is only 1,200 meters, just short of a mile!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Meanin' I can throw caution to the wind and gun it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On top of that, the steep hill right before the Nakayama Racecourse's finish line calls for a lot of power. Which means…",
+            "choice_data_list": [
+                "This is the perfect race to show off your skills!",
+                "This is the perfect race to show off your skills!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right! I got this!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "When it comes to power and speed, I'm the best around! I'll prove it to ya!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So you'd better start plannin' for a party, Trainer!",
+            "choice_data_list": [
+                "Go out there and win it!",
+                "Go out there and win it!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Of course! I'll be back in a jiff!"
+        }
+    ]
+}

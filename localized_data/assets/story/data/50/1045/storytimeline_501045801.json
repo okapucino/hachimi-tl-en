@@ -1,0 +1,191 @@
+{
+    "title": "Spook or Fluke",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After class, I see Super Creek and Rice Shower wearing costumes in the classroom…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I thought as much. Lowering the lights in the dorm <i>would</i> be dangerous. Hmm…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, y-yes… I think so, too",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Trainer. ♪ We're making arrangements for the Cross-Dorm Dare-Off. Rice and I make up the executive committee."
+        },
+        {
+            "name": "Super Creek",
+            "text": "We've finished with the costume fitting, so now we're organizing the tests of courage."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Coming up with interesting ideas has been surprisingly tough, though…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah… I don't think I'm very good with scary stuff…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, let's note down everything we've come up with so far."
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Oh? That's a little odd. The lead's not coming out of my mechanical pencil."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-well, I can make a memo on my phone so—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Hm? Why can't I turn it on?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ngh… It's happening again! I've brought more bad luck!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm so sorry, Creek. I knew it was a bad idea to have me on the Dare-Off Committee…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now, now. Don't say things like that. You haven't done anything wrong."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's <i>ghosts</i> that are to blame for these mishaps! They saw our costumes, thought we were friends of theirs, and floated on over."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh? Ghosts? B-but those aren't…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There! Can't you feel it? I can sense a spook getting closer as we speak…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swish…</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eek! My leg! Is that… a ghost?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's actually just Super Creek brushing her tail across Rice Shower's leg, but…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It seems like this ghost is partial to pranks, don't you think, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like she wants me to play along. I'll try shaking the desk without Rice Shower noticing it's me!",
+            "choice_data_list": [
+                "<i>Clatter! Clatter!</i>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "AAH! The desk is shaking?! Wh-wh-what should we do, Creek?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Don't fret, it's all right. I'll keep you safe and sound."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Listen to me, you… silly spookster! Scaring Rice is a big no-no!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(…)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…It's gone quiet. Did the ghost… leave?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Yep! I've chased it right off."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But… wh-what if it comes back?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Then I'll chase it off again! As many times as I have to. I'll keep you perfectly safe!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "So don't you worry about it, and let's get on with our committee meeting. Okay, Rice? ♪",
+            "choice_data_list": [
+                "I think you'll both do fine!",
+                "I think you'll both do fine!",
+                "If you get spooked again, you can let Creek look after you."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "So don't you worry about it, and let's get on with our committee meeting. Okay, Rice? ♪",
+            "choice_data_list": [
+                "I think you'll both do fine!",
+                "I think you'll both do fine!",
+                "If you get spooked again, you can let Creek look after you."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. Just leave everything to this Mummy. ♪"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Um, I tend to get frightened easily, so I'm not sure I'll be able to perform my duties too well, but…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'll try my very best to make sure the Dare-Off is fun for everyone!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Absolutely. I know you can do it, Rice. You already overcame your fears today. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, they both go on to have an amazing exchange of ideas, making for a very successful planning meeting!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's right! I'll coddle you good and proper. ♪"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, a-actually, I'm still a little… frightened, so…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There, there. Don't you worry now. \"Mummy\" is right here with you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Oh, and I'm happy to coddle you as well, Trainer. That's what \"mummies\" are for, after all. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the Dare-Off planning meeting continues with Super Creek providing copious amounts of coddling."
+        }
+    ]
+}

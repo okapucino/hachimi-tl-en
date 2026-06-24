@@ -1,0 +1,92 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower suffers an injury during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sorry to make you worry."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Now that I'm all patched up, let's get back to training.",
+            "choice_data_list": [
+                "Are you sure you're okay?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I think I… No! I am! Really!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Besides, it wouldn't feel right to take a break over an injury this minor… So, please!",
+            "choice_data_list": [
+                "Pushing yourself so hard doesn't make you grown-up.",
+                "Let's figure out what you can handle."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes… But I…",
+            "choice_data_list": [
+                "It's best to err on the side of caution."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…You're right. It would be bad if I made my injury worse."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay, then. I'll just rest up for today…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower sounds rather disappointed as she returns to her dorm."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Really?! Thank you, Trainer! Okay, then! Let's go!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff… huff…</i> I should be okay at this speed…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…! O-ow…",
+            "choice_data_list": [
+                "Does it hurt?",
+                "Does it hurt?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I felt a jolt in my leg…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sorry. I said I was fine, but I don't think I can push on today…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide that trying to do any more would prove fruitless, and Nishino Flower goes back to her dorm."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "This is great! Trainer, light jogging doesn't hurt at all!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I don't think I can do much more than this for a while, but I hope you won't mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A joyful Nishino Flower successfully completes her training session while taking care not to aggravate her injury."
+        }
+    ]
+}

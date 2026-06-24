@@ -1,49 +1,50 @@
 {
-    "no_wrap": true,
+    "title": "スプリングSにむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "The Spring Stakes is 1800 meters… \nWhich is short compared to the \nraces that await us later!"
+            "text": "The Spring Stakes is 1,800 meters… But compared to the races to come, it's on the shorter side!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With my speed, I could run \nthrough it in a flash!"
+            "text": "With this speed of mine, I should be able to finish it in no time!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm going to win this thing, no problem!",
+            "text": "I've got this win in the bag!",
             "choice_data_list": [
-                "You're full of fighting spirit!",
-                "You're full of fighting spirit!"
+                "You're already raring to go!",
+                "You're already raring to go!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course!"
+            "text": "Of course I am!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After this win, the next is the Satsuki Sho. \nAfter that, the Japan Derby…"
+            "text": "I'll win this, and then go for the Satsuki Sho. And after that, it's the Japanese Derby…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, this is the gateway to my Classic \nbattlefield! Now that's something that fills \nyou with that fighting spirit!",
+            "text": "This is just me getting my feet wet before the Classics! I just gotta give it my all!",
             "choice_data_list": [
-                "Depending on the results… You haven't forgotten, \nhave you?",
-                "Depending on the results… You haven't forgotten, \nhave you?"
+                "Remember, getting into those races will hinge on your results.",
+                "Remember, getting into those races will hinge on your results."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I haven't forgotten! \nDepending on the results, it could be all \nabout the short distances this year."
+            "text": "I have certainly not forgotten! To get the results I want, I need to focus on sprints this year, right?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But that's not going to happen! There is no \nway I'm going to lose!"
+            "text": "But I have no doubts! There's no way I will lose!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, then! \nPlease do expect a winning run!"
+            "text": "You better look forward to seeing my victory lap!"
         }
     ]
 }

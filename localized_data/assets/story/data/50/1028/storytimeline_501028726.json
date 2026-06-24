@@ -1,0 +1,49 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Hishi Akebono…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Awww! ♪ Those plushies are sooo cute!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's see… It says they're called \"Cuties\"!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look where Hishi Akebono is pointing and see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I bet it'd be really fun to win a bunch and then surround myself with them! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I could cuddle them in bed when it's cold, and chat with them when I'm bored… How buono! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The only thing is, I'm really bad with claw machines."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I always try to go for the big prizes, but I can never get them…",
+            "choice_data_list": [
+                "I'll win some for you!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Really? You will? That'd be super buono! I'll cheer you on, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

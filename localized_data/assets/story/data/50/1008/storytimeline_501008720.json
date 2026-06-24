@@ -1,0 +1,568 @@
+{
+    "title": "あんし～ん笹針師、参☆上",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I bring <chrname> to the infirmary for a checkup."
+        },
+        {
+            "name": "???",
+            "text": "Oh! A custo―I mean, a student! Hello!"
+        },
+        {
+            "name": "???",
+            "text": "Are you hurt? Sick? Stressed? Whatever it is, I treat it all!",
+            "choice_data_list": [
+                "Who are you?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Well, considering you're at the academy infirmary, I'd say that makes me your trusty school nurse! Yup, just your average school employee!",
+            "choice_data_list": [
+                "…No you aren't?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Guess there's no fooling you. I suppose I should start by giving you my name."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Allow me to introduce myself!"
+        },
+        {
+            "name": "???",
+            "text": "I am the (likely) savior of all Umamusume, the (self-proclaimed) legendary acupuncturist with the magic touch…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "The one and only Sasami Anshinzawa! See? No worries! ☆",
+            "choice_data_list": [
+                "…"
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "T-Trainer?! Say something! I have no idea what's goin' on!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gosh! You sure seem worried! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No matter! No matter! We've made our introductions, so lie down and let me put these needles to work!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Whoa, hold on a sec!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! No need to be scared! All I'm going to do is slip these extraordinary needles precisely into your chakra points."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then voilà, presto! Something indescribable will happen!",
+            "choice_data_list": [
+                "(This is indescribably sketchy…)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And let me assure you, there's absolutely nothing sketchy about this at all! It's never gone anything less than perfectly!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "…For my master.",
+            "choice_data_list": [
+                "For your master?! What about for you?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Don't fret! This is my first time, so technically, I've never failed a patient either!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And it's not like I have no experience! I spent ten years under a legendary master, fetching dri—I mean, training!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "See? No worries! ☆",
+            "choice_data_list": [
+                "(We need to get outta here, stat!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way we're doing this. I take <chrname> and head for the door, when…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "W-wait! Where are you going?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "You're Vodka, right?! The cool Umamusume who walks her own path without a care for what's normal!",
+            "choice_data_list": [
+                "You've heard of her?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Have I heard of her? Of course I have! I'm a big fan!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "That's precisely why I'm here! To give you my support! Let me help you!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Just give me a chance! Pleeease!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ehhh… What do you think, Trainer?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Please! Pretty please with a carrot on top! I'll even let you choose which chakra I activate!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'm <i>sure</i> I won't mess up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well… pretty sure.",
+            "choice_data_list": [
+                "<i>Pretty</i> sure?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I mean, it's on the sure side! That's <i>good,</i> right? Anyway, don't get hung up on the details!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Let's get to the good stuff! Which chakra should I activate? Do you want a boost to your abilities? Your health? Or maybe your <i>charm?</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I smell danger in the air, but I figure there might—and I emphasize <i>might</i>—be a chance of getting something special out of this treatment."
+        },
+        {
+            "name": "Monologue",
+            "text": "What should we do?",
+            "choice_data_list": [
+                "Activate the strength chakra.",
+                "Activate the winning chakra.",
+                "Activate the health chakra.",
+                "Activate the charm chakra.",
+                "This is too sketchy. Let's quit while we still can."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So you want me to activate the strength chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you ready? There's no going back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate that chakra! Ollie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax… See? No worries! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Augh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I think I might've awoken some kinda super power! It's like a secret engine inside of me just fired up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp…</i> You're kidding… It actually worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> is overflowing with so much power she's almost unrecognizable!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This is a great leap toward achieving our goal!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Uh… Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm not sure this was such a good idea… Guh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So… That's that, I guess…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I should get going! Bye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test our luck. I'm not the one suffering, yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to activate the winning chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you ready? There's no going back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate that chakra! Ollie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax… See? No worries! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Augh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I think I might've awoken some kinda super power! It's like a secret engine inside of me just fired up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp…</i> You're kidding… It actually worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can sense a huge improvement in <chrname>'s skills!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This is a great leap toward achieving our goal!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Uh… Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm not sure this was such a good idea… Guh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So… That's that, I guess…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I should get going! Bye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test our luck. I'm not the one suffering, yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to activate the health chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you ready? There's no going back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate that chakra! Ollie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax… See? No worries! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Augh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I think I might've awoken some kinda super power! It's like a secret engine inside of me just fired up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp…</i> You're kidding… It actually worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s entire body is radiating a healthy glow! She's the absolute picture of health!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This is a great leap toward achieving our goal!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Uh… Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm not sure this was such a good idea… Guh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So… That's that, I guess…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I should get going! Bye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test our luck. I'm not the one suffering, yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to activate the charm chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you ready? There's no going back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate that chakra! Ollie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax… See? No worries! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Augh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I think I might've awoken some kinda super power! It's like a secret engine inside of me just fired up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp…</i> You're kidding… It actually worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> is overflowing with charm! She's bound to turn heads everywhere she goes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This is a great leap toward achieving our goal!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Uh… Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm not sure this was such a good idea… Guh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So… That's that, I guess…"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I should get going! Bye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test our luck. I'm not the one suffering, yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aw, c'mon! Don't be like that!",
+            "choice_data_list": [
+                "Decline.",
+                "Reconsider."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! You there! I hope you know trespassers <i>will</i> be prosecuted!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! I've been found out!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Welp, I'm outta here! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! Stop right there!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Hey, Trainer?"
+        },
+        {
+            "name": "Vodka",
+            "text": "We don't need to rely on a quack like that, right? I've just gotta put my mind to it, and then I'll be the fastest Umamusume ever!",
+            "choice_data_list": [
+                "Agreed.",
+                "Agreed."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm curious who this Anshinzawa character really is, but there's no use ruminating over it. Best to forget about today and move on."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Had a change of heart, did you? No worries, it happens!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Go ahead and tell me which chakra you want me to activate, then!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well?! Don't leave us in suspense! Wait a second… How long have I been here?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! You there! I hope you know trespassers <i>will</i> be prosecuted!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! I've been found out!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Welp, I'm outta here! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! Stop right there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The situation takes a sharp turn before I can make a decision."
+        },
+        {
+            "name": "Monologue",
+            "text": "What was that all about? <chrname> and I look at each other in bewilderment."
+        }
+    ]
+}

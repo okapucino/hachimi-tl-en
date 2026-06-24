@@ -1,0 +1,58 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Mejiro Dober…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh… Those are cute."
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Mejiro Dober's gaze and see a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "Wow, they really are!",
+                "Wow, they really are!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Th-they just happened to catch my eye. They're pretty well designed and whatnot…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They're designed really well. You can tell everyone apart from their features too."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I wonder if I could win a bunch of them… Maybe I'll give it a—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I wonder if I could win a bunch of them… Maybe I'll give it a—"
+        },
+        {
+            "name": "High School Girls",
+            "text": "Look, they have a claw machine! Someone should try playing it! It'd be hilarious! Haha!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Never mind. Let's go, Trainer.",
+            "choice_data_list": [
+                "I'll try it!",
+                "I'll try it!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Seriously?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

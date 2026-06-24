@@ -1,0 +1,37 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital and I are on a walk discussing our race schedule when we pass a pair of Umamusume who look really close."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hehe! I told you it's hard to walk with you hanging onto me like that!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "…"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hm? W-wait… What?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I think I just felt… my moe senses tingling… Or maybe I'm just imagining things…",
+            "choice_data_list": [
+                "…You okay?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, yeah! Sorry about that… So, uh, what were we talking about again?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be really tired to pass up a simping opportunity. I should probably look over her race schedule moving forward."
+        }
+    ]
+}

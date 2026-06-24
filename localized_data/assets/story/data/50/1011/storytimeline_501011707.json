@@ -1,0 +1,81 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder and I have come to a shrine."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Whenever I pray at a shrine, there's something important I like to keep in mind.",
+            "choice_data_list": [
+                "Something important?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. When we pray, it should be for the sake of others. Any benefit to ourselves is only a happy bonus."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The tradition goes that Japanese deities respond best to prayers for the land and its people as a whole."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I've been told it is improper to pray only for yourself.",
+            "choice_data_list": [
+                "That's a nice way of thinking.",
+                "That's a nice way of thinking."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's only one point of view, of course, but I believe the deities will take notice if I honor it."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "According to an old Japanese saying, compassion for others is always rewarded. I find it to be a wonderful sentiment. ♪",
+            "choice_data_list": [
+                "I'll give it a shot, too.",
+                "I'll give it a shot, too."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, you will? Then let's go offer our prayers together. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Reflecting carefully on Grass Wonder's words, I pray for the prosperity of all Umamusume in their races."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Whew… All done. The rest depends on the gods' temperament."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "One should always do their best… but sometimes a little divine aid is the push you need. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how committed she is to doing her best, I'm sure the gods will provide their blessings."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Whew… We're all done now, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fssshhh…</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh dear. Perhaps the gods aren't in the best of moods?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us run back to the academy in the pouring rain."
+        }
+    ]
+}

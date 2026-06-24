@@ -1,0 +1,37 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of Tokai Teio's debut has finally arrived…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, how much longer? Is my race gonna start anytime soon?",
+            "choice_data_list": [
+                "You're not nervous?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, maybe? My heart's beating pretty fast."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But it's also because I just wanna hurry up and run already! …I think!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Either way, it's not a bad thing. So don't worry about me!",
+            "choice_data_list": [
+                "Get out there and dominate!",
+                "Get out there and dominate!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yep! Here I go! The legend of Teio begins now!"
+        }
+    ]
+}

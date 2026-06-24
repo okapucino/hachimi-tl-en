@@ -1,0 +1,58 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's past our usual time for training, but Daiwa Scarlet still hasn't shown up. I decide to wait, and just as it's getting dark…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Have you… been waiting for me here this whole time?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't believe you sometimes… But, um… sorry."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "This is all because the doctor told me I needed to get some rest. Can you believe that? I'm not even tired!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I said I was fine, but that just started an argument, and before I knew it, the sun was going down…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "We can totally start training now, though! I don't have time to waste if I'm going to become number one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, it does seem like Daiwa Scarlet has been overexerting herself lately.",
+            "choice_data_list": [
+                "You don't have to push yourself.",
+                "You don't have to push yourself."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm not!",
+            "choice_data_list": [
+                "Just think of it as a challenge!",
+                "Just think of it as a challenge!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! Honestly, if you were any more laid-back, you'd fall over!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh…</i> But I guess you're right. I don't want to end up too tired to train."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet seems to have seen the error of her ways."
+        }
+    ]
+}

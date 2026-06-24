@@ -1,0 +1,34 @@
+{
+    "title": "雲のかたち、故郷のみんな",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap is standing on the academy rooftop, gazing into the distance."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Oh, Trainer.",
+            "choice_data_list": [
+                "What are you doing up here?",
+                "What are you doing up here?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was just thinking about my hometown. I wonder how everyone is doing…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm… That cloud kind of looks like Shige."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And that one reminds me of Tome. And that one over there… meat stew… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap doesn't seem like herself today. I guess she's homesick."
+        }
+    ]
+}

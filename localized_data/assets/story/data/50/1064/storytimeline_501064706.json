@@ -1,0 +1,228 @@
+{
+    "title": "A Master Mediator",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "…How about this, then?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No, that won't work."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer and I pass by the shopping mall on our way back from an outing and spot an unusual pair looking quite troubled."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hi, hiii! Whatcha two up to? Ooh, you must be looking for a present for someone if you're hanging out by the gift section!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whoa?! Wh-what do you want?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "To help, I guess. You two look like you're in a pickle, so I thought I'd lend a hand. I keep up with all trends, so whaddya think? Want my help?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah, please. I'm getting a headache trying to think of something good."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aww! So you both wanted to get Hayahide a lil' something to celebrate her setting a new personal best…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And you bumped into each other because you were thinking the same thing!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The last thing we want is to get her the same gift, so we figured it'd be easier to buy something together.",
+            "choice_data_list": [
+                "But you can't agree on what, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "For starters, can you both tell me what you were planning to get?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "She likes bananas, so that's obviously the best gift."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, going with what she likes is always a good idea! So, what's the issue?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Now's \"not the time,\" apparently."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? Oh! I guess she's not really focusing on bulking, huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "She's prolly in peak form right now since she just got a PB, so it'd be pretty sucky if she bulked up too much and got thrown off her groove."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You're so considerate, Taishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "N-no! I just don't want her to waste her potential! As long as the thought comes across, that'll be enough."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So yeah, I thought that black outfit'd be nice…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh, I agree! It's so chic and mature. I bet it'd look great on Hayahide."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "It's supposed to be a celebratory gift, though."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, right! Guess you'd wanna get her something brighter since we're trying to party things up."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "But…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But you can't object because there aren't any other good gift options, huh?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Here I thought we couldn't agree on something 'cause of our different tastes, but now I see it's a little more complex…",
+            "choice_data_list": [
+                "(How is she able to interpret what they're saying with so little to work with?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer keeps talking with them until they finally find common ground."
+        },
+        {
+            "name": "Shop Staff",
+            "text": "Thank you very much for your purchase!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whew! All done! Hayahide'll love it, guaranteed!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah… She'll get plenty of use out of it, but…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…It still feels too generic."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I think it's a perfectly fine gift. I mean, you both put so much thought into picking something just for her."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Everyone's been raving about this hair product because of how effective it is, and it doesn't affect race performance at all!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm sure all your feelings will come through loud and clear when you give this to her!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Man, it sure feels good to help people out! All's well that ends well, amirite?",
+            "choice_data_list": [
+                "You were the perfect mediator!",
+                "You were the perfect mediator!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! Nah, I hardly did anything."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "They both wanted the same thing from the start, and that was to make Hayahide happy."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "All I did was help them see that!",
+            "choice_data_list": [
+                "That's easier said than done.",
+                "That's easier said than done.",
+                "You've taught me a thing or two."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "All I did was help them see that!",
+            "choice_data_list": [
+                "That's easier said than done.",
+                "That's easier said than done.",
+                "You've taught me a thing or two."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You are <i>so</i> extra, I swear! You're gonna make me blush with all that flattery!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But you know, you're pretty amazing yourself!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You manage to keep <i>me</i> of all people focused and on track!",
+            "choice_data_list": [
+                "I guess that means we're both awesome.",
+                "I guess that means we're both awesome."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our conversation stays just as lively all the way home."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! Hearing that is pretty dope, not gonna lie. You're the one who's always teaching <i>me</i> stuff, after all."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But if you really learned something from me, maybe you should call me Ms. Palmer from now on, like I'm a real teacher!",
+            "choice_data_list": [
+                "Okay, Ms. Palmer."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Gah! Never mind, forget it! There's no way I can live up to a title like that!",
+            "choice_data_list": [
+                "Sure you can, Ms. Palmer."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey, cut it out already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our banter keeps going all the way home."
+        }
+    ]
+}

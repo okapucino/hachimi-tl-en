@@ -1,0 +1,415 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we're walking through the shopping district…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That looks like so much fun!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's lottery! This year's grand-prize is a coupon for a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh, Urara, good to see you! Whaddaya say? Wanna give the raffle a whirl?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A raffle! I do, I do, I dooo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Trainer! Can I give it a go?",
+            "choice_data_list": [
+                "Do you have a ticket?",
+                "Do you have a ticket?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A ticket? What's that? I need one for the raffle?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to her that she needs to buy things in the shopping district in order to get a ticket."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! You mean like this ticket that lady gave me the other day?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "She gave me one along with a piece of candy!",
+            "choice_data_list": [
+                "You can try it out with that!",
+                "You can try it out with that!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yaaay! I'll give it a spin!",
+            "choice_data_list": [
+                "What prize would you like to get?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Um, hmmm…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Going to the hot springs sounds fun, but I really like hamburger steak, and of course I'd be happy with carrots, too!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Even if I lose, just spinning it is fun! So I'm fine either way! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I bet it'll spin so fast! Spinny-spin-spiiiin! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara excitedly encourages me to join her in pulling the lever."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the spinner's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! That sound was amazing! Hey, can I hear it again?",
+            "choice_data_list": [
+                "That's what you're focused on?!"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "U-Urara! You got the top prize! The hot spring coupon!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hot springs? I get to go to the hot springs?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yaaay! I won, Trainer!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! Hey, when can I go? Tomorrow?",
+            "choice_data_list": [
+                "Tomorrow is a little soon…"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Then when? The day after tomorrow? Or the day after that?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "How many times does the sun have to go across the sky before we can go? <i>Hurry up, Mr. Sun!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "While I understand her excitement, going on a trip to the hot springs when we're in the middle of training feels wrong… Perhaps I can use it as motivation?",
+            "choice_data_list": [
+                "How about we save it as a treat for winning a race?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A treat? That's something that only good, hard-working people get, right?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I want a treat! Take me to the hot springs as a treat someday!",
+            "choice_data_list": [
+                "Then it's settled!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! How about you keep the coupon? I'll be super happy when I get it as a treat for winning!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Then you can be like, \"Hey! Here's your treat!\" and hand it to me!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee, I can't wait! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll keep the hot spring coupon safe until it's time to use it."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have a first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! A carrot hamburger steak! It looks so good!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "This isn't your ordinary hamburger steak! It's a <i>deluxe</i> one!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I promise this will blow all the others you've tasted outta the water!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Gulp…</i> Does that mean…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "If I eat it, my stomach is gonna explode?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Regular hamburger steaks are delicious just by themselves! If this one's gonna blow all the water out of me, then it must have a bomb inside of it!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmmm, should I still try it?",
+            "choice_data_list": [
+                "…Are you brave enough?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I am!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Just you watch! Trainer and I are both gonna finish off your hamburger steak bomb!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm not sure what you're talking about, but I've never seen you this fired up!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'll leave it in your hands! Here you go, the deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Time to dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After returning to the academy, we split the hamburger steak and enjoy its explosive flavor."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! That's so many carrots!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "This prize was basically made for you, Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, I <i>love</i> carrots!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But this is a bit much… Can I really eat them all by myself?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, I know! I'll share them with my friends!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Let's see… I'll give one to Spe, Teio, Sei, King, Rice, and…",
+            "choice_data_list": [
+                "You've got a lot of people to share these with.",
+                "You've got a lot of people to share these with."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! I have so many great friends!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I know bunches and bunches of people who'd wanna eat some yummy carrots!"
+        },
+        {
+            "name": "Vegetable Seller",
+            "text": "What a sweet friend you are, Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! Long time, no see! What are you doing here? Shouldn't you be at your vegetable stand?"
+        },
+        {
+            "name": "Vegetable Seller",
+            "text": "Those are my carrots, silly! I'll throw in something extra too, so stop by my stall!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really? Thank you! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee… I'm gonna throw a carrot party for everyone at school!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Of course, it isn't enough for a school-wide party, but with the addition of the extras from the vegetable seller, we go home with a pretty huge haul of carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! What a shiny carrot! Thank you!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You're happy with just a single carrot? What a sweet girl you are."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A single carrot is still a carrot! It's delicious and nutritious!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll give you half, Trainer! Which do you want? The bottom or the top?",
+            "choice_data_list": [
+                "It's up to you."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really? Then I'll take the top half…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Never mind! I'll give you the top half!",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Because there's more to eat! So you should have it!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Urara… You have such an incredibly kind heart… <i>Sniff…</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh?! Why are you crying?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After being praised, Haru Urara gives me the top half of the carrot. It tastes sweet and crisp."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aww, just tissues…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But at least spinning it was really fun! Thanks!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm sorry that's all you get, Urara…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "No problem! Tissues are really handy!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I can take a bunch of them and crumple them together, aaaand…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ta-da! It's a carrot!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It doesn't really look like one since it's white, though. Carrots are orange…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh geez, I really want a carrot now…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that all of her famous energy has been sapped away by this disappointment."
+        }
+    ]
+}

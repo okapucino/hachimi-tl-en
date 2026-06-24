@@ -1,0 +1,108 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I escort Meisho Doto to the infirmary after she suffers an injury during training."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry! I'm so sorry! I'm always causing you trouble… Oogh."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I promise I'll be back to training as soon as—Ouch!",
+            "choice_data_list": [
+                "If you're in pain, let's call it a day."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but… I won't have any confidence to spare if I stop now…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can still keep going! This injury won't h-hold me down!",
+            "choice_data_list": [
+                "I'd rather see you rest right now.",
+                "Do you want to try heading back for training?",
+                "Do you want to try heading back for training?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can still keep going! This injury won't h-hold me back!",
+            "choice_data_list": [
+                "I'd rather see you rest right now.",
+                "Do you want to try heading back for training?",
+                "Do you want to try heading back for training?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But, I really can't stand to stay put… If the pain gets too bad, I'll stop. So, please!",
+            "choice_data_list": [
+                "Training now might slow down the healing process."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-well…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "All right… I'll get some rest."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Guh… I've made a big mess of things with this injury… I'm so sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto swallows her disappointment, choosing to rest until she's fully healed."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes, of course! Thank you so much, Trainer!",
+            "choice_data_list": [
+                "Promise me you won't push yourself."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I p-promise! I'll stop if the pain gets too much!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Careful now… It should be fine if I don't use too much strength."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-owowowwww!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "That was a fraction of my strength… Urk, I can't walk like this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Exerting any level of force seems to be a taxing endeavor, and her injury only worsens."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… I… think I can manage still. With just a bit more effort, maybe—",
+            "choice_data_list": [
+                "I want you to take it easy!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes! That's right. I have that… promise to keep!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto keeps her strength in check, successfully returning to practice!"
+        }
+    ]
+}

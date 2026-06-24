@@ -1,0 +1,45 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Early one morning, El Condor Pasa comes running up to me as I'm making my way to the academy."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Buenos días, Trainer!",
+            "choice_data_list": [
+                "You're up early!",
+                "You're up early!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí! I got up with the sun today!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "In other words…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm ridin' high and shiny just like the sun!",
+            "choice_data_list": [
+                "So… you're feeling good?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Exactamente! That's right!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Watch out, Trainer, or you might get burned!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The flames of passion are burnin' outta control!"
+        }
+    ]
+}

@@ -1,65 +1,68 @@
 {
-    "no_wrap": true,
+    "title": "追加の自主トレ",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahhh―! I worked so hard today, too! \nThese legs are beat!"
+            "text": "Phew! I ran my heart out today as well! My legs've turned to jelly!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wait, oya? There's someone over there――"
+            "text": "Huh? Who goes there?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ms. Rice! Where are you headed at this \nhour?"
+            "text": "Rice! Where are you off to at such a late hour?"
         },
         {
             "name": "Rice Shower",
-            "text": "M-Ms. Bakushin O! \nUm, I just thought, I would run… for a bit."
+            "text": "B-Bakushin O! Well… I just thought… I'd go for a little run…"
         },
         {
             "name": "Rice Shower",
-            "text": "Rice also wanted to do her best…. like \neveryone else, and, um……"
+            "text": "I want… to do my best like everyone else…"
         },
         {
             "name": "Rice Shower",
-            "text": "I, I'm so sorry! I'll hurry back… right now… \nbefore the curfew!"
+            "text": "I'm so-sorry! I'll hurry and be back before curfew!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohhhh～～～! What a hard worker! \nNot to mention, that run……!"
+            "text": "Ohhh! You're such a hard worker! And will you look at your footwork!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
+            "text": "Wonderful! I'd expect nothing less of one of my rivals! Even my jelly legs are itching with excitement!",
             "choice_data_list": [
-                "You're going to run some more?",
-                "We'll work hard tomorrow.",
-                "We'll work hard tomorrow."
+                "Are you going to keep running?",
+                "Remember we have to train tomorrow too.",
+                "Remember we have to train tomorrow too."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
+            "text": "Wonderful! I'd expect nothing less of one of my rivals! Even my jelly legs are itching with excitement!",
             "choice_data_list": [
-                "You're going to run some more?",
-                "We'll work hard tomorrow.",
-                "We'll work hard tomorrow."
+                "Are you going to keep running?",
+                "Remember we have to train tomorrow too.",
+                "Remember we have to train tomorrow too."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What a fantastic idea! \nBy all means, let's do it!"
+            "text": "What a great idea! Let's do it!"
         },
         {
-            "text": "After that, Rice Shower and Sakura \nBakushin O did additional training together \nuntil curfew."
+            "name": "Monologue",
+            "text": "After that, Sakura Bakushin O and I continue to train until curfew."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I will! \nI'll Bakushin with all my might tomorrow―!"
+            "text": "Of course! And I'll be going full Bakushin tomorrow too!"
         },
         {
-            "text": "Sakura Bakushin O was already full of \nenergy for tomorrow's training."
+            "name": "Monologue",
+            "text": "It seems she is more than pumped up for tomorrow's training already."
         }
     ]
 }

@@ -1,0 +1,30 @@
+{
+    "title": "Sleep Deprived",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Yawn…</i>",
+            "choice_data_list": [
+                "Someone looks sleepy.",
+                "Someone looks sleepy."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Last night, I dreamt about a white rabbit… It kept giving me riddles…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The riddle was, \"What do bearded seals and brooms have in common?\""
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But I couldn't figure out the answer… and it kept me awake…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Manhattan Cafe got so obsessed with the riddle that she lost out on sleep…"
+        }
+    ]
+}

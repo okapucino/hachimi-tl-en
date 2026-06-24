@@ -1,0 +1,73 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Ughhh! I lost!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I thought I was gonna blow by everyone and take the win!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Sorry, Trainer. I didn't mean to look so lame in front of you…",
+            "choice_data_list": [
+                "You'll just have to try your best again next time.",
+                "You'll just have to try your best again next time.",
+                "You're not going to let it end like this, are you?",
+                "You're not going to let it end like this, are you?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Sorry, Trainer. I didn't mean to look so lame in front of you…",
+            "choice_data_list": [
+                "You'll just have to try your best again next time.",
+                "You'll just have to try your best again next time.",
+                "You're not going to let it end like this, are you?",
+                "You're not going to let it end like this, are you?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "…Yeah. Exactly. You're right."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm upset that I lost, but draggin' the loss along with me isn't very cool."
+        },
+        {
+            "name": "Vodka",
+            "text": "If I've got time to complain, I've got time to train!",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Heheh… You'll train with me once we get back, right? I need to polish my technique… and my coolness!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Geez, you're not mincing words today. Guess that's why you're my trainer!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Of course it's not endin' like this! If anything, this loss is just gettin' my engine heated up!",
+            "choice_data_list": [
+                "You can do it, Vodka!",
+                "You can do it, Vodka!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Of course I can! Your expectations, my regrets—they're all just fuel in the tank!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Just you wait—next race, I'll show you just how cool I can really be!"
+        }
+    ]
+}

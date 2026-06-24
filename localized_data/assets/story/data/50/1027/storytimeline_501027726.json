@@ -1,0 +1,57 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Mejiro Ryan…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She stops and stares at a claw machine."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa…",
+            "choice_data_list": [
+                "You want one of those plushies?",
+                "You want one of those plushies?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Well… It reminds me of a scene from this book I read."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "There's a girl who's trying to get a plushie, but she's not having any success…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Then her boyfriend shows up, gets the plushie easily, and gives it to her!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I've always wanted something like that to happen to me!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "…Geez, wh-what am I talking about? Please forget I said anything, haha!",
+            "choice_data_list": [
+                "Which one do you want?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh? You mean…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Um… If you'd get one for me, any of them would be fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

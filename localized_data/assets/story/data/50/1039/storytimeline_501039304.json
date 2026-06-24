@@ -1,0 +1,59 @@
+{
+    "title": "桜花賞の後に・花開く予兆",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff… Huff…</i> Trainer…",
+            "choice_data_list": [
+                "You did great!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Thank you… so much…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she says this, Kawakami Princess slowly slumps down on the turf like an old balloon.",
+            "choice_data_list": [
+                "(She must have been really high-strung.)",
+                "(She must have been really high-strung.)"
+            ]
+        },
+        {
+            "name": "Fan A",
+            "text": "This year's Oka Sho was astounding! Will any of these runners go on to be the stars of the Tiara tour?!",
+            "color_text_info_list": [
+                "Oka Sho"
+            ]
+        },
+        {
+            "name": "Fan B",
+            "text": "Hey, is there anyone you have your eye on already? I really like…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The spectators seem more excited than ever. She must have been acutely aware of all those eyes on her—and in a once-in-a-lifetime event, no less."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What did you think of my race today, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even then, she didn't lose herself in blind pursuit of victory. She stayed focused on achieving her own current goals.",
+            "choice_data_list": [
+                "It was fantastic."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ehehe. It's a relief to hear you say that."
+        },
+        {
+            "name": "Monologue",
+            "text": "I know that she'll be just fine."
+        }
+    ]
+}

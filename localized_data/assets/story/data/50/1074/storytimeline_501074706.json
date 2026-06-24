@@ -1,0 +1,196 @@
+{
+    "title": "招き猫さんを救え！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After finishing some errands with Mejiro Bright, we return to the academy and bump into…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh! Greetings, Fukukitaru. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…That's quite a large box you have there. Whatever could it be for?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehehe! A fine question! Within this box resides a miracle-working object most divine—a jumbo lucky cat figurine!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today's breakfast natto fortune foretold that \"luck would be found in the east.\" Thus, I ventured eastward."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "When, lo and behold, an extraordinary aura beckoned me into a flea market! And its origin was none other than this lucky cat figurine!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now, if you'll excuse me, I must buff this cat until it shines like the morning sun!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nnngh, just a little more aaand… Oh, oh, oh nooooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shoop!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru stumbles. The box flies out of her hands and lands on the road."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VROOOOM!</i> <i>Bump, bump, bump, bump…</i>"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "BY THE HEAVENS! My poor lucky cat is now a pile of unlucky roadkill!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, dear me… Trainer, let's lend our assistance."
+        },
+        {
+            "name": "Monologue",
+            "text": "The cat is now an unrecognizable pile of debris. We gather up its pieces and take them back to my office, but…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ahhh… My lucky cat figurine has been reduced to kindling…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, what are we to do?! Without immediate action, grave misfortune is sure to befall us!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pardon me, but if I may make a suggestion…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Perhaps we could reassemble the lucky cat by piecing it back together?",
+            "choice_data_list": [
+                "That's a lot easier said than done…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Your trainer's right, Bright! If the pieces were larger, it'd be another story! But we're working with fragments here!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It might take some time, but I imagine we could restore it to its former glory. We should have all the pieces here, after all.",
+            "choice_data_list": [
+                "Let's give it a try!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sniffle…</i> You're too kind…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee! A friend in need is a friend indeed, after all. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we set to work on reconstructing the lucky cat figure…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Night falls, but we're nowhere near finished.",
+            "choice_data_list": [
+                "We might have to work through the night…",
+                "We might have to work through the night…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nnngh… I'm starting to feel dizzy…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Bright, enough is enough… I shall inform the great Shiraoki of what's transpired, pray for forgiveness, and request that any evil spirits be exorcised…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Please, allow me to keep going for a little while longer… I've finally gotten used to the process."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Slow and steady gets the job done, after all. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the same energy she had when we started, Mejiro Bright continues fitting the pieces together without saying a word. Until…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Yaaawn…</i> Nghwaaa? When did I fall asleep?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "My stars?! The sun has begun its ascent toward the heavens! Morning is upon us!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Fukukitaru, please take a look."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Whoa… WHOOOAAA?! C-can it be?! My lucky cat, restored to its former glory?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Bright, don't tell me you worked through the night without so much as a wink of sleep?!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I did, but I was so focused on the task that I hardly noticed the time. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright has successfully finished the painstakingly intricate project in a single night…",
+            "choice_data_list": [
+                "Now <i>that's</i> talent.",
+                "You didn't even look like you were struggling…"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Talent? I wonder… I am quite adept at taking things one step at a time."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Fukukitaru, should any of your other items happen to take a tumble, please don't hesitate to get in touch. ♪"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Heaven forbid! Bright, I vow to take extra care in all that I do, so as not to trouble you further!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the incident proves to be a fine display of Mejiro Bright's incredible tenacity."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, I was having terrific fun! It was no different from solving a puzzle. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If you come across any other projects like this one, please let me know."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Firstly, though, I think I might ask around the academy to see if anyone has anything to offer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm struck by visions of Mejiro Bright's training time rapidly vanishing, so I gently dissuade her from this new endeavor…"
+        }
+    ]
+}

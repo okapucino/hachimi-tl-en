@@ -1,0 +1,42 @@
+{
+    "title": "洒落に惑う",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Air Groove looking a bit down."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ugh. Why didn't I notice it sooner?",
+            "choice_data_list": [
+                "Did something bad happen?",
+                "Did something bad happen?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes… I made quite the fool of myself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The president kept saying things like \"That's the last straw\" and \"I'm clutching at straws\" during lunch today."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I knew she must have been driving at a pun of some kind, but I couldn't figure out what it was for the life of me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But I just realized—I was drinking sparkling water with a <i>straw</i> the entire time!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The answer was right there in front of me! Ugh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to cheer her up, despite her… unique reason for being upset."
+        }
+    ]
+}

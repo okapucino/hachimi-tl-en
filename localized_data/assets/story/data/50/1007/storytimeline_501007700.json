@@ -1,0 +1,42 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "<i>Yaaawn…</i>",
+            "choice_data_list": [
+                "That was quite the yawn.",
+                "That was quite the yawn."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What?! Dang it! Have they come already?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The Sandmen must be launching their attack! They knock people dead asleep and take over their bodies!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I've been fighting them off in secret all this time…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ngh… But it seems my time has come. The fate of the world is in your hands now, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Gold Ship lies down on the sofa in the trainer's office."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Zzz…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "And in seconds, she's out like a light. I can't comment on the Sandmen invasion, but Gold Ship definitely needs more sleep."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "学園防衛隊？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hear Gold Ship's voice coming from the roof one day and decide to investigate."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "HI-YAAAAAH!",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Huff, huff…</i> Not to worry… You're safe now."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Once again, I've managed to protect the academy from the threat beyond the stars…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It sure took a lot out of me, though… Recovering is gonna take a while…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know about the threat beyond the stars, but Gold Ship's exhaustion seems real. It takes her a while to get back in form."
+        }
+    ]
+}

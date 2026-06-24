@@ -1,0 +1,354 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, while I'm walking through the shopping district with Grass Wonder…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Look at that lively crowd. Is there an event taking place?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see… It's a raffle."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Which reminds me… Were you aware, Trainer?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's said that raffles were originally conceived by the nobility long ago as a way to entertain themselves."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "They would have people draw strips of paper with letters on them and give out prizes like cloth and string."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Aren't you well-informed! How about giving it a go?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, why not? I just happen to have a raffle ticket right here. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer, you wouldn't mind if I try just once, would you?",
+            "choice_data_list": [
+                "Go get the grand-prize!",
+                "Go get the grand-prize!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I'll do my best to not let you down."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder firmly grasps the lever with both hands and gives the raffle machine a spin."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What? R-really?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm overjoyed, truly, but I'm afraid I don't have the time for a vacation at the moment.",
+            "choice_data_list": [
+                "Are you sure you couldn't find the time somehow?",
+                "Are you sure you couldn't find the time somehow?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Not right now, I'm afraid."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But I suppose once things settle down, I could use this as an opportunity to reflect on the path I'll have traveled thus far.",
+            "choice_data_list": [
+                "So in other words, after the Twinkle Series?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. That way, I'll be able to ascertain my level of satisfaction with the path I've taken."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It would be the perfect time to take a step back and reflect on my progress."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Would you come along with me too, Trainer?",
+            "choice_data_list": [
+                "Are you sure you want me along?",
+                "Are you sure you want me along?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You're the one who has been with me every step of the way."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Make it a promise, Trainer. It would strengthen my motivation.",
+            "choice_data_list": [
+                "Okay. I'm looking forward to it.",
+                "Okay. I'm looking forward to it."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you. I'll commit myself to training in preparation for that day."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take the hot spring ticket from her with an affirmative nod."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My, that looks delicious. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Add some grated Japanese radish sauce and I'm sure it'll taste absolutely spectacular.",
+            "choice_data_list": [
+                "Should we buy the sauce on the way home?",
+                "Should we buy the sauce on the way home?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmm… I think I would rather buy the radishes and make the sauce myself."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So, could we visit the greengrocer instead?",
+            "choice_data_list": [
+                "Sure.",
+                "Sure."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The idea of making homemade sauce sounds so good that my stomach starts grumbling."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. It's almost dinnertime, after all."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer, would you like to share it with me?",
+            "choice_data_list": [
+                "Is that okay with you?",
+                "Is that okay with you?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. ♪ Food is always more enjoyable with company."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take Grass Wonder up on her offer and eat some of the deluxe carrot hamburger steak with her."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Lucky indeed… This certainly is a lot of carrots."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer, would you like a few of them? ♪",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Of course. I'll also give some to Spe and El."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And, since she does so much for me, perhaps Tazuna, too.",
+            "choice_data_list": [
+                "You'll be giving away a lot.",
+                "You'll be giving away a lot."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, yes. But hoarding them all to myself would present a risk of overeating."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Sharing them is my best method of self-control. ♪",
+            "choice_data_list": [
+                "Brilliant, as always.",
+                "Brilliant, as always."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Competition will be fierce for the foreseeable future, so maintaining a perfect condition is key."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, but don't worry. I won't neglect to keep a portion for myself, either! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Impressed by her self-discipline, I return to the academy with Grass Wonder."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmm… I set my hopes too high, it seems."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Then again, this might be just what I needed."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I forgot to purchase carrots for tonight's salad at the supermarket earlier today, so the timing couldn't be better."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "True, true. You might've been wishing for a carrot the whole time, and you just didn't know it!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So, you mean… fate may have had a hand in this, too?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "In that case, this could very well be <i>my</i> grand-prize.",
+            "choice_data_list": [
+                "That worked out nicely, Grass.",
+                "That worked out nicely, Grass."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It really did. ♪ Tonight's salad is going to taste that much better."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder gains some hop in her step as we head back to the academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, this is disappointing. I had hoped for an actual prize of some sort."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Winning raffles must be quite the rare occurrence.",
+            "choice_data_list": [
+                "Have you not played much before?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I haven't. I never had the opportunity before coming to Japan, you see."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Before I tried, I thought it would be enough fun just to spin the tumbler, but…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Losing stings a lot more than I expected…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hey, don't get so down on yourself. Better luck next time."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "If you say so…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder's shoulders sink as we head back."
+        }
+    ]
+}

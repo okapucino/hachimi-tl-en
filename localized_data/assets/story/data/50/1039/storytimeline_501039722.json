@@ -1,0 +1,64 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess shows up to our meeting with a furrowed expression."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ughhh! My head is still throbbing!",
+            "choice_data_list": [
+                "Got a headache?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes… You see, yesterday…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Sniff…</i> Ahhh! Ooh, this princess-like scent!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I love having rose-petal baths, but the smell of a fine incense or perfume is also refreshing!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Roses are so beautiful, but they also have strong thorns—just like a fighting princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, I just got the best idea! I should round up these different rose-scented products…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And use them all at once! That way, I can enjoy the essence of roses even more!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Their sweet fragrances will give an explosive boost to my princess level!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…But it turns out that using them all at once was overkill, and I ended up with this massive headache.",
+            "choice_data_list": [
+                "That sounds rough…"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Indeed… I aired my room out to get rid of the scent, but the headache still won't go away!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ouch! Ughh… It even hurts to raise my voice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess is troubled by the pain of her seemingly chronic headache."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "レース入着",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, I'm back! I gave it my all out there!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But I still feel like it wasn't enough… I wanted to be like…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "DOSU-KOIII!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You know, one last time at the end! Nnngh!",
+            "choice_data_list": [
+                "But that was still a fantastic race.",
+                "You can do that next time!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her she did great, and that her training really paid off."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks, Trainer! I'd better keep it up, then!",
+            "choice_data_list": [
+                "Let's get stronger together!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Right! I'll try even harder, get even stronger, and become even bigger!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! Next time, I'm going to run a buono race that doesn't leave me with <i>any</i> regrets!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's train when we get back! I'm going to tackle practice <i>head-on!</i>",
+            "choice_data_list": [
+                "Sure, but only if you mean it metaphorically!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh. Ehehe… Of course I do!"
+        }
+    ]
+}

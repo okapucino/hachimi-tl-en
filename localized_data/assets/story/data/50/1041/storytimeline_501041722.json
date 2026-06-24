@@ -1,47 +1,49 @@
 {
-    "no_wrap": true,
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuu……it's here it's here it's hereee! \nI've got a headache!!",
+            "text": "Uh-oh, it's here! My head is splitting!",
             "choice_data_list": [
-                "Are you alright?"
+                "Everything okay?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yessir! This is simply a side effect from my \nteacher's passionate instruction during \nsupplementary lessons!"
+            "text": "Do not fear! I always get like this after receiving passionate guidance and extra classes from our teachers."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is, shall we say, a muscle ache for the \nbrain……"
+            "text": "You could call it the muscle pain of the brain…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sore muscles are a harbinger of growth…!"
+            "text": "Sore muscles represent growth, so it just means my brain is growing!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words! I'm smart, and I'm about to \nget even smarter!",
+            "text": "In other words! The already intelligent Bakushin O is becoming even more intelligent!",
             "choice_data_list": [
-                "S, so that's how it works…?",
-                "S, so that's how it works…?"
+                "…Is that so?",
+                "…Is that so?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nBased on my experience and theories, there \nis no doubt!!"
+            "text": "Yes! My experience and my theories tell me it must be so!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's ride this wave of growth! \nBoth physically and mentally, \nBakushinbaku――"
+            "text": "I'm going to ride this growth spurt! I'll make it a mental and physical Bakushin, Bakush—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "<i>Piiiiiiing!!</i> \nOww, ow, ow, ow, ow――!?"
+            "text": "AAAGH! OW-OW OUCH?!"
         },
         {
-            "text": "Despite her enthusiasm, Sakura Bakushin \nO was plagued by a headache."
+            "name": "Monologue",
+            "text": "Despite her determination, Sakura Bakushin O's headache gets the best of her."
         }
     ]
 }

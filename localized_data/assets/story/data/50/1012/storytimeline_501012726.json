@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out and about with Hishi Amazon…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm? Well, isn't that something?"
+        },
+        {
+            "text": "I follow her gaze to see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My dorm's gonna get new students moving in soon."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I was thinking of getting 'em a little welcome gift or something. Those plushies'll probably work great, don'tcha think?",
+            "choice_data_list": [
+                "Sounds like a great idea.",
+                "Sounds like a great idea."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I know, right?! Okay, time to win all the plushies and empty out that machine!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Or so I'd like to, but I don't have the funds to play! Darn it all!",
+            "choice_data_list": [
+                "Leave this to me!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What?! You'd really get them for me, Teach?!",
+            "choice_data_list": [
+                "You betcha!",
+                "You betcha!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nice! Show me you're made of, then! Grab as many as you can!"
+        },
+        {
+            "text": "There's no way I can fail!"
+        }
+    ]
+}

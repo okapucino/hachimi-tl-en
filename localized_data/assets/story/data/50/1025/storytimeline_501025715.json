@@ -1,0 +1,58 @@
+{
+    "title": "Extra Training",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after a training session with Manhattan Cafe…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… Would it be all right if we trained for a little longer?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There are so many of them today… I think I'll be able to get some good experience…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like she's seeing something that I'm not."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, they're calling me over… Could I… go join them?",
+            "choice_data_list": [
+                "Sure!",
+                "It's getting late. How about another time?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "U-um… Thank you so much!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll… be going, then…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe runs around the track at night, alone…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But strangely enough, I feel like I can hear the footsteps of other runners… And there's a sense of whimsy to every single one."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…That's true. It's quite dark."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll let them know we'll have to do this another time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe declines the unseen entities' offer, and we finish training for the day."
+        }
+    ]
+}

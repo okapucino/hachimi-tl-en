@@ -1,0 +1,59 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I enter my office, I spot a piece of paper left on my desk."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>\"I'll be waiting in the gym! Signed, the class representative!\"</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, Trainer! I've been waiting for you! I hope you've braced yourself.",
+            "choice_data_list": [
+                "B-braced? For what?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Did I do something wrong? Am I going to get scolded? Trembling slightly, I prepare myself…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "An award! Ta-dah!",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You demonstrated outstanding leadership, and helped me polish my skills!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's right! Thanks to you, even my Bakushin has reached new levels!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So allow me to show you the true meaning of Bakushin!",
+            "choice_data_list": [
+                "(The meaning of Bakushin!)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hehe… I might be an elite among model students, but you are a trainer among trainers!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This letter embodies my respect for you… It's a letter of commendation! Please take it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "To think I'd receive such a heart-warming letter from this unpredictable girl… The letter of commendation brings a tear to my eye."
+        }
+    ]
+}

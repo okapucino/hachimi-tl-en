@@ -1,0 +1,34 @@
+{
+    "title": "甘やかしたい！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "Um, Trainer? Is anything troubling you?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Are you lonely? Would you like some company? Do you want to lay down on my lap?",
+            "choice_data_list": [
+                "Wh-what's this all of a sudden?",
+                "Wh-what's this all of a sudden?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's just that nobody's been coming to me to be coddled lately…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But I really wanna ruffle someone's hair, or give out big hugs, or shower people with compliments…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Sigh…</i> I feel so unwanted. Won't you let me spoil you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Super Creek isn't feeling her best because she hasn't been able to coddle anyone for a while like she usually does."
+        }
+    ]
+}

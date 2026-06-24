@@ -1,0 +1,52 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I catch Silence Suzuka standing around the practice track alone."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Why? My legs just won't keep up with me…",
+            "choice_data_list": [
+                "Not feeling 100 percent?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! No, that's not it…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm sorry, I shouldn't dawdle while at practice."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, well… It's difficult to explain."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Running just doesn't feel good right now. My legs feel so heavy…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I don't understand why this is happening. It's not like I'm sick or hurt or anything…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka lets out a sigh and stares blankly at the track ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems I've worked her too hard. I should probably adjust her schedule so that running starts feeling enjoyable for her again."
+        }
+    ]
+}

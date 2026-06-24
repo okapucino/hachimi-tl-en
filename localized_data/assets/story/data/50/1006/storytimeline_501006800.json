@@ -1,0 +1,234 @@
+{
+    "title": "聖夜に並んで走るため",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and Biwa Hayahide tell me they'd like to go out and train. I decide to accompany them, but…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, we made it.",
+            "choice_data_list": [
+                "To a snowcapped mountain?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We're at the summit. It stands to reason there'd be snow here.",
+            "choice_data_list": [
+                "But… for what purpose?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Listen carefully, Trainer. The reason I came here is because…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want to go partner running with Santa's reindeer!",
+            "choice_data_list": [
+                "With… With Santa's reindeer?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know exactly how you feel. That was the same response I had when I heard her plans."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh? How fast I think Santa's reindeer are? …Given the number of children in the northern hemisphere alone, I'd say they probably travel at close to the speed of light."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whoa, is that true?! I wonder what kind of training they did to get that fast."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…?! You're not intending to… try and match their ability, are you? It's the speed of light…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Of course I am. Running alongside Santa and his reindeer sounds really fun!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…And that's our story."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep! Don't you think it sounds fun, Trainer?",
+            "choice_data_list": [
+                "(There's not a hint of doubt in her eyes…)"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Seeing that look on her face, I realized there was no dissuading her. You know how she is, right?",
+            "choice_data_list": [
+                "All right… Time to run like the reindeer!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah! I'm counting on you!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Okay, the decorations in the log cabin are perfect. Let's see how much speed Oguri can gain now that we've arranged her surroundings to match that of Santa Claus."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ugh… I've only run a little, but it's so difficult keeping my footing on this snow track."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Reindeer legs must be super sturdy to be able to run easily in these conditions.",
+            "choice_data_list": [
+                "That only means you need to train your lower body as well.",
+                "That only means you need to train your lower body as well."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In that case, I have an idea. Come along."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've built some snowmen along the open pathway. Try to avoid each one as you run through, every firm step you take should build more strength in your legs.",
+            "choice_data_list": [
+                "Take care not to slip."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sure thing. Plus, I don't want to hurt any of the snowmen."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Phew. That training was tougher than I expected… but it was nothing I couldn't handle!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Still, the reindeer have to run while pulling a sleigh along…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Which means I have to follow their example! As for the sleigh… Trainer, could you hop in?",
+            "choice_data_list": [
+                "Me?!",
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's a fine idea. I'll be your backup."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up riding in Oguri Cap's sleigh…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Trainer! How am I doing?! Do you think this is good form?",
+            "choice_data_list": [
+                "I think you're running well!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In fact, she's running so fast it's hard to believe she's pulling a sleigh at all. It goes to show how seriously she's taking this…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a bit of training, I decide to time her to measure her progress."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Pant, pant…</i> How… did I do?",
+            "choice_data_list": [
+                "You're getting faster!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes! I knew training in the snow would pay off!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And also… Ho ho ho, hee, hoo… Yeah. This is what I hoped for."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right, Trainer! Next, let's try actually running with Santa's reindeer!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Now that I feel up to par, I want to put my toughened legs to the test!",
+            "choice_data_list": [
+                "But where will you race them?",
+                "But where will you race them?",
+                "There's no need to rush.",
+                "There's no need to rush."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Now that I feel up to par, I want to put my toughened legs to the test!",
+            "choice_data_list": [
+                "But where will you race them?",
+                "But where will you race them?",
+                "There's no need to rush.",
+                "There's no need to rush."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm. That's a good point… Where do Santa and co. actually live?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, this hasn't been proven, but it's often said that Santa's \"north pole\" home is actually in Finland."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So they're overseas… That's a long way away. Plus, they do things differently in races abroad…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Guess I'll have to do my best in Japan first. Right, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Determined to someday compete against Santa's reindeer, Oguri Cap resolves to work even harder."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There isn't?",
+            "choice_data_list": [
+                "Shouldn't you build more strength before you face them?",
+                "Shouldn't you build more strength before you face them?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ah! You're right! It'd be disrespectful to the reindeer if I didn't race them at my best."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay. First, I'll get stronger, and <i>then</i> I'll challenge them."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're already seeing great results, so I expect you'll be fine!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Right! If I keep this up, I'll be able to go partner running with the reindeer before long. Ahhh, how exciting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a radiant smile on her face, Oguri Cap commits to her training regimen."
+        }
+    ]
+}

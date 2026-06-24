@@ -1,0 +1,321 @@
+{
+    "title": "レースの中に、ドリームを",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "There's still some time before training. But just as I sit down to review my data…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdyyy, Traineeer!",
+            "choice_data_list": [
+                "Taiki?! You're here already?!",
+                "Taiki?! You're here already?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You should've seen the look on your face! Guess my little surprise was a success!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I knew ya wouldn't expect me outside of training hours…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So I sped on over when your guard was down, and—bang! Bull's-eye!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Phew… Job well done, if I do say so myself! ♪",
+            "choice_data_list": [
+                "O-okay…",
+                "O-okay…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Is that really all she came here to do? I ask if she has another reason for visiting…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "As a matter of fact, I do! I wanted to…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Huh… What was it again?",
+            "choice_data_list": [
+                "Maybe you ran so fast, it fell out of your head."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh well, ya know how it goes! I'll just ask ya when it comes back to me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Anyhoo, since I'm here… How about gettin' an early start on training?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "My debut's right around the corner, so don't try and stop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle drags me to the track, with our training session starting well ahead of schedule…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm-hm-hmm, I'm on my way… Me and Trainer off to the racetrack… ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, who's that I spy over there?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy there, Air Groooove!",
+            "color_text_info_list": [
+                "Air Groooove"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Gyah!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…You again, Taiki? How many times do I have to tell you not to tackle me!",
+            "color_text_info_list": [
+                "Taiki"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Haha. Sorry 'bout that! You never seem to budge, so I can't resist tryin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Guess I gotta give it a bit more oomph next time."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You just don't know when to quit, do you?! You've got some nerve…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Sigh…</i> At any rate, have you settled everything with your trainer?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "If you've got permission, let's get started."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Right… Permission. Uh…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't tell me you've forgotten."
+        },
+        {
+            "name": "Air Groove",
+            "text": "We're supposed to be moving all the Umamusume of the Year resources over to the library!",
+            "color_text_info_list": [
+                "Umamusume of the Year"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You said you needed to ask your trainer to adjust your training schedule first and ran off!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ohh, so that's what it was! It's all comin' back to me!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's because I just explained everything to you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd feel a little bad leaving things this way, so I decide to lend a helping hand."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Phew! There're more papers here than ya can shake a stick at! Even with all three of us, we're nowhere near finished!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Considering they concern every single Umamusume of the Year since the title's inception, it's understandable."
+        },
+        {
+            "name": "Air Groove",
+            "text": "These materials contain not only their individual performance records, but detailed accounts of their training regimens and opponents as well."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, I'll be darned! That's those Umamusume of the Year for ya!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…What exactly is an \"Umamusume of the Year,\" anyway?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You don't even know that?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Honestly… Every year, a select number of runners from the Twinkle Series are bestowed a URA award to commemorate their outstanding performance.",
+            "color_text_info_list": [
+                "URA award"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "The awards are divided into several divisions, including one for classic-year runners, as well as others for sprints and dirt races.",
+            "color_text_info_list": [
+                "classic-year"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "But only a single runner—one whose efforts outshine all the others—can receive the honor of Umamusume of the Year."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! So basically… we're talkin' about a super amazing Umamusume here?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Of course, the title has historically gone to powerhouses with overwhelming talent… but that's not the whole story."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whaddya mean?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The winners are preserved here in writing, their names passed down for generations."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The stage of the Twinkle Series dazzles with tales of past greats, ever woven into its history."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Mesmerized by its glamor, everyone longs to stand on its turf."
+        },
+        {
+            "name": "Air Groove",
+            "text": "To become a presence that ignites a burning passion into the hearts of others—that's what it means to be an Umamusume of the Year."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Once we finish collating the materials, Taiki and I head out to train…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Guess what! I heard resources about all the previous Umamusume of the Year have been added to the library!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "What, seriously? We should go have a look, like, right now!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Yeah, let's go!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I'll tell you all about who inspired me to get into running!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What a nice smile that was. Shinin' so bright.",
+            "choice_data_list": [
+                "That was the face of a dreamer.",
+                "That was the face of a dreamer."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You said it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Just by steppin' on the track, you can find your dream…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And nothing makes us Umamusume or our fans happier!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, that settles it! I know what I gotta do!",
+            "choice_data_list": [
+                "Taiki?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer! I'm…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm gonna become Umamusume of the Year!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I never expected to hear these words. It's a statement that could easily be mistaken for any one of her usual offbeat remarks."
+        },
+        {
+            "name": "Monologue",
+            "text": "But the glint in Taiki Shuttle's eyes tells me otherwise. This time, she's serious."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I can see it now—fantastic races, great performances!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's what I wanna show everybody…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "\"Everybody\" bein' my peers, fans, family, and friends! Everybody I know, and everybody I ever <i>will</i> know!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm gonna make every single last one of 'em as happy as possible!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki's fiery passion burns bright… and I won't shy away from it!",
+            "choice_data_list": [
+                "Okay, let's make it happen!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeaaah! I'm markin' the title of Umamusume of the Year as my new target!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a grand dream in her sights, Taiki Shuttle takes her very first step forward!"
+        }
+    ]
+}

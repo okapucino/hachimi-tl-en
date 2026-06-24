@@ -1,0 +1,190 @@
+{
+    "title": "虚言は人のためならず",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during a casual chat with Inari One…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Tellin' lies just isn't my strong suit. Even if I try to keep a straight face, people can tell I'm lyin' right away."
+        },
+        {
+            "name": "Inari One",
+            "text": "It's a rare necessity anyhow. Us Edo folk prefer to keep it honest."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Sorry, but could you help me? Please!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, wazzup, Creek? You okay?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Actually, I'm being followed, and the person chasing me is going to catch up any second now! Do you think I could hide here for a short while?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya seem pretty relaxed for someone bein' chased. Am I missin' somethin'?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whatever the case, I'm sure you're not the bad guy in this. We gotta stick together in times of trouble, eh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek hurries to take refuge in a locker."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Excuse me, Inari! I have an urgent request!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Bamboo. What's got ya all worked up?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm chasing Creek! I'm putting out a warrant for her capture after she went on an <i>indiscriminate pampering spree!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "H-huh? She did what?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Rattin' Creek out will make me a liar for sayin' she could trust me. But if I'm gonna protect her, I gotta lie all the same… Gahhh…)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm pretty sure she ran this way. You didn't happen to see her, did you, Inari?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah?! W-well!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hm, did you see her?! Is she here?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "N-nah! I…"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Nope, no clue where she could've scurried off to. Sorry!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Is that so? Well, if you say she hasn't come here, I believe you! Oh, but wait, perhaps she crept in here without you realizing it?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya think? Go ahead and take a look around then! You're good to search anywhere besides that locker!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Locker? Is there something in there?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah! W-well, ya see… That locker there is… haunted! That's right! It's got some creepy creature livin' inside!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Gragh! Lyin' to my cute underclassman… what the heck am I doin'? But I can't break my promise to Creek either! This sucks!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite Inari One's clumsy lies, she manages to avoid exposing Super Creek. Then, just when Bamboo Memory is about to give up her pursuit…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya satisfied, Bamboo? Whew… this is more tirin' than runnin'…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Thank you for your cooperation, Inari! Well, I should get going. See y—huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory's gaze falls upon… a rattle toy seemingly dropped by Super Creek!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "This rattle?! Isn't it one of Creek's seven tools?"
+        },
+        {
+            "name": "Inari One",
+            "text": "N-no, ya got it all wrong! That's not Creek's… it's… it's…"
+        },
+        {
+            "name": "Inari One",
+            "text": "It's mine!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Truth is, I've been kinda tired lately. And it… ya know… it's just the thing to help me relax… Uh… Yeah!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Really?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Why didn't you say something earlier?! Whenever you need to relax, come to me so <i>I</i> can help you!"
+        },
+        {
+            "name": "Inari One",
+            "text": "What're ya doin', Creek?! The jig is up now! I knew it, I'm no good at lyin'!",
+            "choice_data_list": [
+                "You could've pulled it off with one last push.",
+                "If you'd hung on until the end, then maybe…"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "What, ya mean tellin' more lies?! No friggin' way! I can't help but tell the truth."
+        },
+        {
+            "name": "Super Creek",
+            "text": "No wonder you started crying for comfort. ♪ There, there!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Sh-shut it! Ah, crap! I'll never tell another lie again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Super Creek is finally taken away, she shoots a suspiciously longing gaze at Inari One."
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, the heck was I supposed to do? Only a real fast-talker coulda pulled that off!",
+            "choice_data_list": [
+                "Do you want to get in some lying practice?",
+                "Do you want to get in some lying practice?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That makes you guilty of the crime of <i>preparing to practice deception!</i> And considering your previous lie, as disciplinary committee chair, I can't let this slip!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Sigh…</i> It's a real shame, Inari, but at least let me be the one to put the cuffs on you. All of you are under arrest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the three of us are apprehended and escorted away."
+        }
+    ]
+}

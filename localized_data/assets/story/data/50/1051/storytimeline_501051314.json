@@ -1,0 +1,233 @@
+{
+    "title": "After the Takamatsunomiya Kinen: New Me, New Dreams",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Whoa! Talk about leaving an impression! This is why I love sprints!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Hey, did you notice? Nishino Flower's running looked different than usual…"
+        },
+        {
+            "name": "Fan B",
+            "text": "I've always thought she was fast, but it feels like she's got more power now. It's almost as if she's evolving…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The difference in her running should be obvious to sharp-eyed spectators and critics. Our trial and error will continue, but right now…",
+            "choice_data_list": [
+                "How did that feel?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There are still some things that bother me… but I think I did the best I could.",
+            "choice_data_list": [
+                "Yeah! You really had an impact—I could practically feel it!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Really? That's a relief…",
+            "choice_data_list": [
+                "Looks like you've got no problems with sprints.",
+                "Looks like you've got no problems with sprints."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I agree. I think they're a good fit for me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Should we also make my next race a sprint?",
+            "choice_data_list": [
+                "We could, but…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Ideally, if she can run slightly longer distances, she can compete in more graded races and improve her versatility."
+        },
+        {
+            "name": "Monologue",
+            "text": "So if she continues to grow both physically and athletically, it might be a good idea to have her try that."
+        },
+        {
+            "name": "Monologue",
+            "text": "I announce Nishino Flower's next goal race at the post-race press conference.",
+            "choice_data_list": [
+                "Nishino Flower's next goal will be the Milers Cup."
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh! A mile race?! If she's planning to run the Milers Cup, then the next race after that must be…",
+            "choice_data_list": [
+                "We also intend to have her run in the G1 Yasuda Kinen."
+            ],
+            "color_text_info_list": [
+                "Milers Cup"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "So she <i>is</i> going after a G1 race! Does she have any plans to run in medium-distance races in the future ?",
+            "choice_data_list": [
+                "Not at the moment."
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Hm. I see… Well, Nishino Flower has been performing excellently so far."
+        },
+        {
+            "name": "Reporter A",
+            "text": "If she keeps this up, I'm sure both you and Nishino Flower will be recognized and awarded by the URA!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!",
+            "choice_data_list": [
+                "We've never even thought about receiving awards."
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Haha. Apologies for suddenly bringing that up. But when you <i>are</i> awarded for your excellence, I hope you'll allow the media to celebrate with you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-yes, of course! Thank you for your support."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the press conference comes to an end.",
+            "choice_data_list": [
+                "I'll wait outside."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…An award."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(That's right. It's possible to receive rewards for doing really well. That would be such a great honor…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I bet Trainer would be over the moon."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I might even be able to pave the way for Trainer's future… How amazing that would be…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I might even be able to pave the way for Trainer's future… That would be amazing…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. Now I have a new dream to chase after! ♪"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aha! There you are, Flower! Great job today!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, Baku—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I saw your press conference! So you're gonna keep running mile races, huh? That's a wonderful goal!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I want to conquer all the different race grades too, but unfortunately, I'm currently working on my speed!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Till we meet again at the Sprinters Stakes in the fall! See you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bakushin O…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There she comes and goes again, just like a hurricane. Though ephemeral cherry blossoms may be her namesake, she certainly carves her own unyielding path."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haha. It really does seem that way."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…So you're going to take on mile races, Flower?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes. I want to gradually increase the distance I can run."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Gradually…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…So high is the cliff called \"distance,\" and so sheer is its drop, that even storms shy away in fear."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Zephyr?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'll be running in the Milers Cup too. In the sprints and miles, I shall become the wind, and then…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I will dominate at the front of even longer-distance races and become a triple-distance champion."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…After seeing your press conference, the winds of my emotions surged in intensity."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But it seems they have finally regained some calm…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Zephyr seemed different than usual today."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wonder why…",
+            "choice_data_list": [
+                "Maybe we'll find out at the Yomiuri Milers Cup.",
+                "Maybe we'll find out at the Yomiuri Milers Cup."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As curious as I am about the change in Yamanin Zephyr, we first need to focus on training for our next goal."
+        }
+    ]
+}

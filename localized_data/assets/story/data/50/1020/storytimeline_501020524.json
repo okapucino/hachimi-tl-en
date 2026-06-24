@@ -1,0 +1,392 @@
+{
+    "title": "晴天の攻防",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while on my way to the track before training…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh <i>no.</i>",
+            "choice_data_list": [
+                "Sky? The track's the other way.",
+                "Sky? The track's the other way."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, yeah. Uh, I was just gonna go… grab us something to drink."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her insincerity is blatantly obvious. This must mean…",
+            "choice_data_list": [
+                "So you were planning on skipping?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No waaay, of course I'd never!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, maybe I was, but maybe I wasn't… Nah, I was totally going to. ☆",
+            "choice_data_list": [
+                "Thought so!",
+                "Thought so!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Teehee. ☆"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Can't we take the day off? Pleeease, Trainer!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "C'mon, the weather's <i>so</i> nice! Lift your head and look at that good stuff!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. The sunshine's warm and comforting…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sunlight might always look the same, but the truth is, it's different every day."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Every ray's as unique as a snowflake. We only have a moment to enjoy each one."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, you get how important it is to take a break now, right?",
+            "choice_data_list": [
+                "I understand that you want to take the day off…",
+                "I understand that you want to take the day off…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Come on! I painted such an enchanting picture just now!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But you see, we can get something good out of taking a break… maybe… Yeah, probably not, huh?",
+            "choice_data_list": [
+                "Probably not…",
+                "Probably not…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If I force her, it'll likely mess with her motivation… There's no way we can train like this."
+        },
+        {
+            "name": "Monologue",
+            "text": "But what should I do?",
+            "choice_data_list": [
+                "Insist that she practice.",
+                "Let her rest until she's happy.",
+                "Train after a little relaxing."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "HUH?!",
+            "choice_data_list": [
+                "Why not enjoy the sunshine while you run?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No way! I wanna snooze on a soft patch of grass!",
+            "choice_data_list": [
+                "But collapsing from exhaustion out on the turf would feel great too!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Urgh, so you're not gonna give up? Then I guess…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Aaarrgghhh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Huff… Huff…</i>",
+            "choice_data_list": [
+                "You ran really well out there!",
+                "You ran really well out there!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Huff…</i> You said it yourself.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That collapsing from exhaustion out on the turf would feel good. So I ran with everything I had…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Now I'm gonna lie down here, and you can't stop me! Ahhh… It actually does feel pretty good. ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I suppose listening to you pays off sometimes.",
+            "choice_data_list": [
+                "(Sometimes?)"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, what are you doing standing up? Come lie down already!",
+            "choice_data_list": [
+                "You want me to rest too?",
+                "You want me to rest too?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, no one's looking. Just slide on down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I lie down on the turf with a worn-out Seiun Sky, and we enjoy the breeze together."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm outta here!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky runs off in a frenzied dash, right toward…"
+        },
+        {
+            "name": "Students",
+            "text": "Helloooo! One hefty menchi-katsu sandwich pleeease!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Right now's when that store finishes making their super popular \"hefty\" menchi-katsu sandwich. Each one weighs a whole kilo."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All I have to do is slip into the hungry crowd. There's no way Trainer will be able to get past everyone. Then… I win. ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just when I realize she's about to make her escape, an idea strikes me.",
+            "choice_data_list": [
+                "Sky said she doesn't want her hefty menchi-katsu sandwich!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Students",
+            "text": "She doesn't?! Then I'll have hers!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Using the crowd against me?! Ngh… I don't have the power to hold 'em all back!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Gotta find a way out fast. If I can get away before anyone figures out what's what…",
+            "choice_data_list": [
+                "This way, Sky!",
+                "This way, Sky!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm already in hot water! What should I do?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Huff… Huff…</i> Ugh, you're such a schemer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to apprehend Seiun Sky, but now she seems to be in low spirits."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Really?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait, there's no way. You must have an ulterior motive.",
+            "choice_data_list": [
+                "Sometimes we just have to rest as much as we want."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa! You're so generous, Trainer!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, I'll take you on a tour of my napping spots! ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ta-daaah. ♪ This is one of my special napping nooks.",
+            "choice_data_list": [
+                "It's just my office.",
+                "It's just my office."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep. Well, I've been using the place off and on since before it was yours."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's calm, it's quiet—it's a tip-top nap spot!",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, you're not looking too thrilled there."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You know I don't lavish this kind of praise on just any old spot.",
+            "choice_data_list": [
+                "It's that amazing?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep. That's just how it is. Well, see ya when I wake up."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, I gently move the sofa in my room so it catches the sun. That way, the happily snoozing Seiun Sky can rest in its comforting rays."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I nap here, and…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I nap here, aaand…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, here too. And here, and here, and here…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aaand here too!",
+            "choice_data_list": [
+                "I think that's enough!",
+                "I think that's enough!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Really? Well, I guess we can chill out here for today."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And after that, well… I'll run off someplace else.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You never know, there might be some places I'm still not showing you.",
+            "choice_data_list": [
+                "Was this all part of some scheme?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You didn't actually think I'd reveal my real napping spots, did you? Come on, you'd start finding me straight away."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But now that I've shown you so many of them, you'll have to check them all."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ready to come find me? I'll be waiting! ☆ Hehe, just kidding!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky seems fully committed to her practice-skipping lifestyle."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? So can I start by resting now?",
+            "choice_data_list": [
+                "Go ahead.",
+                "Go ahead."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're not worried I'll try to trick you and keep skipping practice forever and ever?",
+            "choice_data_list": [
+                "You won't."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?",
+            "choice_data_list": [
+                "If I let you rest now, you won't skip out on me. I know you."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You know when you say that kinda thing, it makes me wanna do the opposite, right?",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But since you're being so honest, I can't do ya like that."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So might as well stick to the plan. Come on, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, between her periodic breaks, Seiun Sky works hard during the training session."
+        }
+    ]
+}

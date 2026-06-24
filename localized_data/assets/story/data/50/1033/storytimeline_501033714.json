@@ -1,0 +1,93 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Admire Vega has injured herself during training, so I accompany her to the infirmary."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "They told me not to move it until it's fully healed."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I knew something felt wrong, but I ignored it. And now I'm faced with this disaster."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But that still isn't a reason for me to be idle."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm really sorry, but I'm going to go running. My training has to continue.",
+            "choice_data_list": [
+                "I think you should focus on recovering for now.",
+                "Let's search for some safe exercises you can perform."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But I want to win…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I've got to train harder than anyone else. I have no other choice.",
+            "choice_data_list": [
+                "You won't be able to run in any races at all if it gets worse.",
+                "You won't be able to run in any races at all if it gets worse."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're right… I know that. Still…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega appears unconvinced but follows my advice and rests up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega heads to the gym in the hopes of training in a way that won't affect her injury. However…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Oof…",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I felt a slight twinge… But it's nothing to worry ab—OUCH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop her from continuing, but her recovery ends up taking longer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tape up the injured area to strengthen support."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…",
+            "choice_data_list": [
+                "Does it feel okay?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It doesn't hurt. I think I'll be all right like this."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thank you. I'll be fine for now."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, we come up with a way to avoid stressing her injury, and she manages to finish training safely."
+        }
+    ]
+}

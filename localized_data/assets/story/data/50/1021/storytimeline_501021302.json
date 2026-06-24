@@ -1,0 +1,328 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, Tamamo Cross and I are strolling through the shopping district, munching on croquette​s, when…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh, what's goin' on over there? They've got a huge crowd…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation for two"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! You there, the li'l girl in the back! Care to give it a spin?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, who ya callin' \"li'l girl\"?! I'm not some kiddo, ya know!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Seriously though, Mister, ya got some guts callin' on me. I hope your jaw's ready to hit the floor 'cause I'm takin' every prize ya got!",
+            "choice_data_list": [
+                "We've only got one ticket, though…"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What?! Just <i>one?!</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, whatever. Let's nab the best prize and put some tears in this raffle fella's eyes."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, Trainer. Let's do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We pull the lever together and spin the tumbler at lightning speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What the—it's just some ticket? I was hopin' for some food…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait whaaaaat?! <i>Hot springs?!</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Y-you're joking…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Seriously? <i>A hot spring vacation?!</i>",
+            "choice_data_list": [
+                "What, would you've preferred a cold spring vacation?",
+                "What, would you've preferred a cold spring vacation?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Can it, idiot! <i>I'm</i> the one with the comebacks!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But… wh-what am I s'posed to do with this? I went and won the grand prize…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But I haven't got the slightest clue what to do with it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her tough talk earlier, Tamamo Cross ends up putting tears in her own eyes."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I used to beg and beg for a hot spring trip when I was a kid, but I never got to go…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What am I s'pposed to do now? I can't accept this…",
+            "choice_data_list": [
+                "Should we give it back, then?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Heck no! We struck gold here."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait! Why don't you hold onto the tickets for me?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And then I can win it back. Nothin' wrong with a winner earnin' a free trip, right? That's what they do in the comedy grand prix!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It'll be my reward when I dominate the Twinkle Series. Not bad, right?",
+            "choice_data_list": [
+                "Sounds like a great plan."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Awesome, it's a deal then! Boy… <i>Me,</i> goin' on a hot spring vacay? Is Lady Luck finally lookin' my way?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa, whoa, I can't start countin' my chickens yet. I gotta work real hard if I'm gonna cash out my prize!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Snapping back to reality, Tamamo Cross pumps herself up. Her desire to win is as steaming hot as the soothing baths she dreams of visiting."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa, I just won the mother of all burgers! I'm eatin' good today!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But it is kinda funny-lookin'. It's got a big ol' carrot pokin' out of it…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why'd they go stabbin' a veggie into the meat, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A carrot… stabbed into the steak… steak… Stake!",
+            "choice_data_list": [
+                "They sure staked the steak."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Staked the… They staked the steak…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Bwahahaha! There's no <i>way</i> that's the reason—or it'd mean there's someone servin' up puns as bad as yours!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Phew… All that jokin' around's got me starvin'."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Let's take this 'n head back to the dorms! We're havin' ourselves a feast!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy a jolly dinner as we pick away at the deluxe carrot hamburger steak we won."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoooa, <i>all</i> these carrots are for us? Now that's what I'm talkin' about!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "This portion's HUGE… It's freakin' mountain-sized! And \"mountain-sized\" is one of my favorite words!",
+            "choice_data_list": [
+                "…It is?",
+                "…It is?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yep. Right up there with \"half off\" and \"bargain.\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, so I'm thinkin' we split 'em and send half to my fam."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'll write 'em a little note like, \"Check what I won in a raffle!\" They'll love it.",
+            "choice_data_list": [
+                "Why not send a photo to go with the letter?",
+                "Why not send a photo to go with the letter?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ooh, yeah! Nice idea!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, huddle up 'n bust out your pearly whites!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross throws up a peace sign in front of the carrots. I later find out that her siblings loved the photo."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Just one plain old carrot?! Whatta joke!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But I guess it'll do. Don't matter how much of it ya got—food is food."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I've been let down worse than this. If I had to say, the worst prize I ever got was… Ugh.",
+            "choice_data_list": [
+                "Well, what was it?",
+                "Well, what was it?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I got a consolation prize when I was a kid. There I was, all starvin' 'n stuff, when the raffle clerk goes, \"Congrats, kiddo! Here's yer necklace!\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I figured I could at least chew on the plastic, but it was <i>nasty.</i> I woulda taken a single tiny candy over that junk any day."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So a carrot's not all so bad, yeah? I'll even let ya have the leaves."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross graciously gives me the carrot top. It's not much, but it's something."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Tissues?! For what? The bitter tears of defeat?!",
+            "choice_data_list": [
+                "No use crying over spilt milk.",
+                "No use crying over spilt milk."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Haha, that's true! At least I've got tissues to clean up the mess with."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Waaait a minute! If I hadn't won such a dud prize, there'd be nothin' to cry about in da first place!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sigh… I'm so dang unlucky… But that's nothin' new for me. My life's always been like this…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross sulks after losing out at the little test of luck…"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "title": "夢のジャンクション",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "TV",
+            "text": "\"And now for a special feature! It's time for today's Twinkle Legends segment!\""
+        },
+        {
+            "name": "TV",
+            "text": "\"Allow us to introduce you to the Triple Crown Champions, as well as the Umamusume who have shone brightly in the Triple Tiara!\""
+        },
+        {
+            "name": "Vodka",
+            "text": "…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ah, figures. There's no special feature for Umamusume who threw away glory to switch tours."
+        },
+        {
+            "name": "Vodka",
+            "text": "Is there anyone who's ever gone from the Oka Sho to the Derby and won?",
+            "choice_data_list": [
+                "Not that I know of.",
+                "Not that I know of."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "So it's never been done before… Oh, man. This is gettin' my blood pumpin'!"
+        },
+        {
+            "name": "Vodka",
+            "text": "But that must mean it's super difficult, right? Changin' tours will give me completely different opponents, too."
+        },
+        {
+            "name": "Vodka",
+            "text": "The racers who went to the Satsuki Sho already know who they're up against, so racing 'em for the first time at the Derby itself is nuts."
+        },
+        {
+            "name": "Vodka",
+            "text": "I don't regret runnin' in the Oka Sho… but that detour sure came at a price."
+        },
+        {
+            "name": "Monologue",
+            "text": "The other racers picked their tracks with a goal in mind. I doubt either side will take kindly to Vodka switching from the Tiara to the Crown."
+        },
+        {
+            "name": "Vodka",
+            "text": "I can't see a way out… I've got no clue what to do."
+        },
+        {
+            "name": "Vodka",
+            "text": "How do I even start thinkin' about this, Trainer?",
+            "choice_data_list": [
+                "How about asking some older students?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Ahhh… Like ones that've run in the Derby before?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Okay. I know exactly who to talk to! Someone who's an even bigger renegade than me…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You wanna go from the Oka Sho to the Japanese Derby?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Yes. And I want your opinion, seeing as you've had so many famous exploits yourself.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're really planning on going for it?"
+        },
+        {
+            "name": "Vodka",
+            "text": "That's why I'm here."
+        },
+        {
+            "name": "Vodka",
+            "text": "Please… Give me some advice."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…I've got nothing to say."
+        },
+        {
+            "name": "Vodka",
+            "text": "What?! C'mon, please!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Stop asking me."
+        },
+        {
+            "name": "Vodka",
+            "text": "Just tell me about the Derby, then! It's my dream race, so at least tell me what it's like to run there!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I have to hear it from <i>you,</i> Brian! I have to know how it looked from <i>your</i> perspective."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hmph…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…The Japanese Derby is a special place. It's not for people who're just following in their role model's footsteps."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "It's for the people ready to tear their own inspiration down from the throne."
+        },
+        {
+            "name": "Vodka",
+            "text": "To tear… their own inspiration down?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "If your soul is burning for the Derby, you go. If not, don't bother. There's no choice to make."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I think you might be like me."
+        },
+        {
+            "name": "Vodka",
+            "text": "Really? How so?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You don't see a point in trying to map out the future. Riding some preset logic-based rail isn't gonna give you the satisfaction you want."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're starved for something bigger than winning or losing."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "So go where your gut takes you. You've come too far to turn tail trying to act normal now."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "That's why I don't have any advice for you. We're done here."
+        },
+        {
+            "name": "Vodka",
+            "text": "Brian…"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, Vodka tells me about her conversation with Narita Brian."
+        },
+        {
+            "name": "Vodka",
+            "text": "In the end, it's my decision. <i>Our</i> decision."
+        },
+        {
+            "name": "Vodka",
+            "text": "So what do ya think? If it were you, how would you look at it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The first thing Vodka needs to consider is…",
+            "choice_data_list": [
+                "What exactly does being cool mean to you?",
+                "What exactly does being cool mean to you?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Cool is what I've been after this whole time…"
+        },
+        {
+            "name": "Vodka",
+            "text": "No wavering, no giving in, and no looking back… That's my definition of cool.",
+            "choice_data_list": [
+                "So what's the cool thing to do?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "The cool thing to do…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, that's right… I should do whatever I think is coolest…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka thinks for a long time. She looks like she's scowling at herself."
+        },
+        {
+            "name": "Vodka",
+            "text": "I think the cool thing to do is…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Tackling the thing I've been dreaming of ever since I was a kid."
+        },
+        {
+            "name": "Vodka",
+            "text": "Even if it goes against the norm, and even if everyone else thinks it's reckless…"
+        },
+        {
+            "name": "Vodka",
+            "text": "It's not about who my opponents are or what they think. It's about me, and myself."
+        },
+        {
+            "name": "Vodka",
+            "text": "I've gotta live by my own guidelines, no matter what anyone else thinks of me."
+        },
+        {
+            "name": "Vodka",
+            "text": "Inspirations aren't people to chase—they're people to overcome."
+        },
+        {
+            "name": "Vodka",
+            "text": "That's what being cool means to me. Which means…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The long night is finally over."
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer, will ya stick with me through this?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Everyone might laugh at us. We might get crushed. But even so…"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna be true to myself and be cool! So… we're goin' to the Derby!",
+            "choice_data_list": [
+                "Okay. It's decided then!",
+                "Okay. It's decided then!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah! That's right! This is my path!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna do exactly what I want! I'm goin' from the Oka Sho to the Japanese Derby!"
+        },
+        {
+            "name": "Vodka",
+            "text": "It doesn't matter what anyone else says! I'm doin' my career <i>my</i> style!"
+        }
+    ]
+}

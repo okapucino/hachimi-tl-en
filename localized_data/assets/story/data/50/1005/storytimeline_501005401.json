@@ -1,0 +1,51 @@
+{
+    "title": "第一幕 スマイル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Fuji Kiseki encounters a younger student who is upset about her own distance aptitude. Fuji Kiseki decides to encourage her with a miracle."
+        },
+        {
+            "text": "I understand how she feels and can now decide between continuing the Classic Triple Crown tour or starting the mile tour. The best path for her is…",
+            "choice_data_list": [
+                "The Triple Crown tour.",
+                "The mile tour."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This makes our next race the Japanese Derby.",
+            "color_text_info_list": [
+                "Japanese Derby"
+            ]
+        },
+        {
+            "text": "Fuji Kiseki decides to tackle her inaptitude for longer races head-on and forges ahead with the Classic Triple Crown tour."
+        },
+        {
+            "text": "When she announces her lack of affinity for long races, the public is shocked, but her fans' expectations don't wane in the slightest."
+        },
+        {
+            "text": "In order to show her younger schoolmate a miracle, Fuji Kiseki aims for the Japanese Derby. This is the beginning of a very difficult challenge!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This makes our next race the NHK Mile Cup.",
+            "color_text_info_list": [
+                "NHK Mile Cup"
+            ]
+        },
+        {
+            "text": "Fuji Kiseki sets her sights for the top and forges ahead with the mile tour."
+        },
+        {
+            "text": "The public is shocked when she announces her sudden agenda change, but her fans' expectations don't wane in the slightest."
+        },
+        {
+            "text": "In order to show her younger schoolmate a miracle, Fuji Kiseki aims for the NHK Mile Cup. This is the beginning of a new challenge!",
+            "color_text_info_list": [
+                "NHK Mile Cup"
+            ]
+        }
+    ]
+}

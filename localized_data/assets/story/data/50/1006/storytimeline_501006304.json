@@ -1,0 +1,245 @@
+{
+    "title": "目標達成の後に・拍動、強く",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap has continued to impress, race after race. It's clear as day how talented she really is."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for waiting for me. Okay, let's head back."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Oh, it's Oguri Cap! She's been doing really well lately!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "She's improved so much. It's only a matter of time now!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…I think people are talking about me.",
+            "choice_data_list": [
+                "Your name's on everyone's lips.",
+                "Your name's on everyone's lips."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Is it? Maybe it's because I've been more confident lately."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've learned a lot through all the races I've been running. Maybe I need to give myself some more credit."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So… what race should I enter next?"
+        },
+        {
+            "name": "Monologue",
+            "text": "All eyes at the racecourse are on Oguri Cap. Considering her achievements thus far, there's only one place for her to go next.",
+            "choice_data_list": [
+                "Shall we enter a G1 race?",
+                "Shall we enter a G1 race?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning a G1 race is a surefire route to glory. As such, these races are special to both Umamusume and their fans.",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap has really come a long way… I'm sure she can do it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A G1 race… I guess that's fine.",
+            "choice_data_list": [
+                "You don't sound very interested."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No, I am… The bigger the race, the more likely it'll be that people back home will hear about me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My driving force is still the same. I just wanna show them that I can come out on top!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I know that Oguri Cap's supporters back home serve as her motivation."
+        },
+        {
+            "name": "Monologue",
+            "text": "But to win a G1 race, she'll need more than just that. It's important that Oguri Cap think in the long term and set her goals accordingly."
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to make her set her sights even higher—and I know just how to do that.",
+            "choice_data_list": [
+                "Come on! There's a race we need to go and see!",
+                "Come on! There's a race we need to go and see!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What race?"
+        },
+        {
+            "name": "Spectator C",
+            "text": "I wonder who's going to take the crown this time. This is so exciting!"
+        },
+        {
+            "name": "Spectator D",
+            "text": "Yeah, when you voted someone in, it really makes you wanna root for 'em, right?! It's the final showdown of the year, so go get 'em, racers!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wow, everybody's so fired up. So this is the Arima Kinen, huh?",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen—a race where the competitors are chosen by a fan poll. Some even refer to it as the deciding race of the year."
+        },
+        {
+            "name": "Monologue",
+            "text": "The hype around this race is second to none. I'm sure some part of it will strike a chord with Oguri Cap."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, it's about to start… That's weird. Why's my heart pounding?",
+            "choice_data_list": [
+                "Make sure to pay close attention.",
+                "Make sure to pay close attention."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Got it!"
+        },
+        {
+            "name": "Crowd",
+            "text": "<i>Woooo!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "This year's Arima Kinen winds up being one of the most thrilling ever."
+        },
+        {
+            "name": "Spectator E",
+            "text": "Wow, that was incredible! Almost made me tear up…"
+        },
+        {
+            "name": "Spectator F",
+            "text": "<i>Sniffle…</i> She won the Grand Prix! I'm so happy! I'm so glad I chose to support her!",
+            "color_text_info_list": [
+                "Grand Prix"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Nothing. I just feel… kind of emotional."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I felt a little weepy after going face-to-face with central-level racers for the first time—and after winning my debut race too… But this is something else entirely."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey… Actually, I—"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Wait, isn't that Oguri Cap?!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "You're right! It <i>is</i> her! Hey, Oguri!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh…"
+        },
+        {
+            "name": "Spectator C",
+            "text": "I've been watching all your races lately! I'm cheering for you!"
+        },
+        {
+            "name": "Spectator G",
+            "text": "Watching you race is always so exciting!"
+        },
+        {
+            "name": "Spectator F",
+            "text": "I'll vote for you for next year's Arima Kinen! I hope you're able to run!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh! Th-thank you!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Your support means a lot to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After hearing so many words of encouragement from her fans, Oguri Cap seems to have found some new resolve."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Turns out there are even people in the city rooting for me now."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want their cheers to propel me on the track. And… I want the folks back home to see me racing here."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I wanna race in the Arima Kinen!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "…So, what's your ultimate goal? What kind of race do you want to run in?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Umm… Well… I…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Oguri Cap has never set her sights on a specific race before, I notice an undeniable sense of determination in her gaze. I know exactly what to suggest.",
+            "choice_data_list": [
+                "Let's aim for the Arima Kinen!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Yeah! Let's do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With next year's Arima Kinen as her goal, Oguri Cap begins her training once again."
+        }
+    ]
+}

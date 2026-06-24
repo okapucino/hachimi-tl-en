@@ -1,0 +1,44 @@
+{
+    "title": "ヘアスタイル狂想曲",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Although it's time for her training session, Biwa Hayahide hasn't shown up, so I decide to search for her."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hey, Trainer! Perfect timing.",
+            "choice_data_list": [
+                "What are you up to?",
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehehe… I'm so glad you asked."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There’s a salon that's holding a special promotion to help tame \"extremely voluminous hair,\" so I tried it out!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I had five millimeters taken off, and it's really helped reduce wind resistance! I'm sure today's training will be—",
+            "choice_data_list": [
+                "Um, it's a bit late for that.",
+                "Um, it's a bit late for that."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh my goodness! When did it get so late?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sorry! I was so focused on short-term improvement that I lost sight of my responsibilities!"
+        },
+        {
+            "text": "She seems genuinely sorry, so I tell her to take the day off and come back tomorrow for training."
+        }
+    ]
+}

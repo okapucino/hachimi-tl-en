@@ -1,0 +1,37 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, you got so many! I'm sure the claw machine is happy you had fun as well!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, that's right. I said I'd give you a reward if you got a lot, didn't I?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I apologize. I said it on a whim, but I didn't give any thought as to what it would be…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What would be appropriate? I've seen game shows give away TVs, audio equipment, cars, or even a yacht…",
+            "choice_data_list": [
+                "I want you to win a race!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I see! In that case, I'll win for sure!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

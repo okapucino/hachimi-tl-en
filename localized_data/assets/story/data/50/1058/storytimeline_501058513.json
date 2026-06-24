@@ -1,0 +1,193 @@
+{
+    "title": "熱闘！激辛勝負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On a day off, Meisho Doto, for some reason, is booked to compete in the shopping district's spicy-food-eating contest…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh… I thought I was filling out a questionnaire, but to think it was a sign-up sheet all along…",
+            "choice_data_list": [
+                "You could just drop out."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "N-no, I sh-shouldn't… I would only be causing everyone trouble if I leave now."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I probably won't last too long, but I'll do my best."
+        },
+        {
+            "name": "Event Host",
+            "text": "It's time to announce the contestants! First up, we have a competitor ready to turn up the heat. Bringing in the passionate <i>fuego</i> of her Latin heritage, it's El Condor Pasa, everyone!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I've got the appetite and the speed to put me on top! And I brought my own Salsa de la Vida to further increase that picante!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Next up, she's challenging the spice with guts and gusto! A hot-blooded sister to all, it's Hishi Amazon!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Spicy stuff's my specialty! I'll come out on top, no matter the contest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Event Host",
+            "text": "And lastly… whoa there, looks like she's got a mild case of the jitters. Her resistance to spice shrouded in mystery—it's Meisho Doto!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, u-um… I p-pwomise to do my besht! Oh no, I messed up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with the colorful cast now introduced to the crowd, the competition kicks off."
+        },
+        {
+            "name": "Event Host",
+            "text": "First up on the menu is a super spicy ramen! We had the noodles specially made with chili peppers, served up in a bright-red broth! Contenders, dig in!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ack?! What is this stuff?! The spice level has my Salsa de la Vida beat by a mile! Is this real?!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Next, we're bringing in the super spicy wings! The plate's piled up so high, you have to crane your neck to see the top!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Eurgh! The coatin' is made completely out of chili peppers?! My tongue's 'bout to shrivel up and fall right off!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hm, now that you say that… I guess it's… a little spicy? But it's really delicious!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What?! This is \"a little spicy\" to you?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "This is like torture, but you haven't even winced! What kinda trainin' did ya do to prepare?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh no, no, no! I haven't trained for this in the slightest!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm honestly just a klutz! I've always had this problem of ordering spicy food by mistake, so I'm used to the taste—that's all!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Whoa, looks like the tables have turned! Meisho Doto looks cool as a cucumber, while her competition struggles to bear the heat!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Last on the menu is a super spicy mapo tofu, served piping hot! Who will be the one to finish it first? We're now entering the final stretch!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Adrenaline is my middle name! I'll finish this competition with a bang and scarf it down at full speed!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ohhh, if it's speed you want, it's speed you're gonna get! I'm talking full throttle, all systems go—full speed ahead!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh… I'm not so good at eating quickly… Wh-what should I do, Trainer?",
+            "choice_data_list": [
+                "Don't panic and go at your own pace.",
+                "Go for three times the speed!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-well… if I slow down, I don't think I'll win… But, o-okay, I'll try!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Grlagh… Nope! This is too spicy, even for me! Let me break for five or so!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Guh… I don't wanna admit it, but I'm with her… Please, some water!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Looks like two of our contestants are asking for a time-out. Meanwhile—whaaaat?! You're not going to believe this!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Gulp!</i> Aaahh… Thank you for the food—it was delicious!"
+        },
+        {
+            "name": "Event Host",
+            "text": "Meisho Doto clears her plate! Her insurmountable strength pushes her to the finish line!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like I made a good call—maintaining her pace was the answer. Meisho Doto's unbelievable resistance to spice lands her a victory!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-okay… I'll s-speed up!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eeek! My plate! And m-my glass of water!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle! Craaaash!</i>"
+        },
+        {
+            "name": "Event Host",
+            "text": "Uh-oh, Meisho Doto has tipped over her dishes! This is sure to slow her down!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ohhh, I'm s-so sorry! Did I break anything? I'm sorry!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-why am I like this? My hands get all slippery at the worst moments…"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Hishi Amazon and El Condor Pasa finish in the time it takes Meisho Doto to clean up."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, you were a tough one to beat… If it weren't for that accident, that win would've easily been yours."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I agree. I'm gonna come back stronger next time, so let's do this again!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh wow… you two think too highly of me… I w-would be honored!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three contestants exchange handshakes. After being deemed a strong opponent, Meisho Doto leaves the experience more confident than before."
+        }
+    ]
+}

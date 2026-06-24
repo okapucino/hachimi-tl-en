@@ -1,0 +1,215 @@
+{
+    "title": "応援行脚",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Passing by a ramen shop, I swear that I hear King Halo's voice coming from within, and decide to take a peek inside."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hooray! Hooray! SPE-CIAL WEEK! HOORAAAY!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ahhh! That was delicious!"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Congratulations! You completed the Mega-Sized Challenge!",
+            "choice_data_list": [
+                "What's… going on here?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "The way everyone cheered you on at the Fan Fest was incredible! It moved me to tears!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí! Your fans were all on the edge of their seats, hollering their hearts out! I'd love to be on the receiving end of such aplausos at least once!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Heehee! Well, it wasn't <i>that</i> impressive!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, but I know! Why don't I bestow some royal encouragement to you all instead? Come, rejoice at my generosity!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Huh? You'll cheer for us?"
+        },
+        {
+            "name": "Monologue",
+            "text": "…So, apparently, that's how King Halo ended up making rounds and cheering for her friends.",
+            "choice_data_list": [
+                "You must really be serious about this if you're all dressed up for it.",
+                "You must really be serious about this if you're all dressed up for it."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "But of course! Did you think I would offer anything less than my first-rate support?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I designed this outfit myself, <i>specifically</i> for my role as a cheerleader!"
+        },
+        {
+            "name": "King Halo",
+            "text": "It is absolutely crucial if I am to provide first-rate cheering!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now come, to our next destination!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like that, I'm unwittingly assigned to be her attendant. I <i>am</i> concerned about how this will unfold, though, so I follow along as told."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hooray! Hooray! SEI-UN SKY! Do your best! Do your—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Um… Could you please direct your encouragement toward that there boulder?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Pardon me? At that boulder? Well, as you wish…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Do your best! Do your best! Hooray for Sky! Hooray!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hey, you're here! Por favor, join me in cheering for Mambo!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Mambo? And who is that?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Mambooo! You've gotta nail this next somersault!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Um, ah… I'm not sure whom I'm addressing, but do your best! Do your best! MA-M-BO!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for being mindful of our setting and adjusting your encouragement accordingly.",
+            "choice_data_list": [
+                "(She's offering silent support!)"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmm, yes… I think I'll arrange today's flowers with your support as the motif…"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant… Huff…</i> Traveling about and offering encouragement is actually rather taxing.",
+            "choice_data_list": [
+                "You must be worn out."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "From this? Absurd! Today has been an absolute picnic!"
+        },
+        {
+            "name": "King Halo",
+            "text": "And more importantly, my first-rate support was phenomenal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems proud of her efforts, even if some of her cheering was directed at inanimate objects… I hope the boulder and flowers felt encouraged."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Muchas gracias for your support today! Mambo seemed to really like the cadencia of your cheering and finally got the hang of somersaulting!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You granted me a new perspective from which to arrange flowers. I'd be obliged if you could cheer for me again in the future."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You got the fish from that rock pool to come out too. It was fun. It's nice when things get a little lively sometimes. ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Your encouragement helped me lots too, King! I was able to finish a whole Mega-Sized portion of noodles in record speed!"
+        },
+        {
+            "name": "Special Week",
+            "text": "If you ever need any help, feel free to tell us! We'll do our best to s'pport you, too!",
+            "choice_data_list": [
+                "Your tour was a massive success!",
+                "Your tour was a massive success!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh… Hmph! I'm too flawless to ever need anyone's assistance!"
+        },
+        {
+            "name": "King Halo",
+            "text": "But I commend you for recognizing my true brilliance!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Do inform me if you require further encouragement in the future. Should I feel so inclined, I might just lend you my support again!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're so brave for saying that with a red face! ♪ Ooh, you must be trying to hide how embarrassed you are!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph! I hate to disappoint you, but I'll not rise to your ribbing!"
+        },
+        {
+            "name": "King Halo",
+            "text": "This experience has simply reminded me of my own excellence! That's all!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo laughs raucously with an utterly delighted look on her face."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah… It only looks that way because of the sunset. Such gratitude is nothing out of the ordinary for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If she says it's the setting sun that's reddening her cheeks, then I see no reason to question it."
+        },
+        {
+            "name": "King Halo",
+            "text": "You dolt! I'm not blushing in the slightest! I'm just touched by—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ohhh, so that's it. ♪"
+        },
+        {
+            "name": "King Halo",
+            "text": "No, no, no! You didn't hear that! Come now, what are you all smiling about?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, King Halo remains as evasive about her true feelings as ever."
+        }
+    ]
+}

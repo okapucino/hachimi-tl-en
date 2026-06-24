@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Argh! What an unexpected twist of fate…",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, it wasn't your fault, Trainer! Don't worry about it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But still, how could this have happened?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I must seek the truth from Shiraoki! Woiya, haiya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

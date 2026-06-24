@@ -1,0 +1,37 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Phew… Running beside the water feels great. There's a cool breeze and a lovely smell in the air… Wait!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh no! This is an emergency! I see a kebab stand over there!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk! It smells so delicious… What should I do?!",
+            "choice_data_list": [
+                "Just run past it!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ughhh… Oooh… Okay, fine. Let's go!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm gonna run and run until the aroma fades from my memory!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I'm sure fate will bring us together again someday!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fighting through sweat and tears, Oguri Cap remains focused on her running. In the end, she manages to get back to her target weight."
+        }
+    ]
+}

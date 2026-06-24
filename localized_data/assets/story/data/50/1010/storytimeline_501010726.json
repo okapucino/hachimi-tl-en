@@ -1,0 +1,46 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Taiki Shuttle…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa! Trainer, look! It's amazing!",
+            "choice_data_list": [
+                "Something caught your eye?",
+                "Something caught your eye?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Take a gander at that machine! It's chock-full of Umamusume toys!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It says they're called \"Cuties\"! I'll be darned if they don't live up to their name, hehe!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Betcha my little sisters would appreciate one of these. I should send 'em some!",
+            "choice_data_list": [
+                "All right, I'll win some for you!",
+                "All right, I'll win some for you!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ya will?! Thanks so much! Now, go on—show me what ya got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

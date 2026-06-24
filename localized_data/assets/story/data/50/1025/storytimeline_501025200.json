@@ -1,0 +1,57 @@
+{
+    "title": "Before the Debut",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "She's here… She's gone… She's here… She's gone…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the day of Manhattan Cafe's debut, and while many of her peers are trembling with nerves, her mind is elsewhere."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Before the race… may I go and have a look?",
+            "choice_data_list": [
+                "Of course you can.",
+                "Of course you can."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(She's not here…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(Or here…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "(She's not here, or here, or…)"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>…There</i> she is!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer, I found her… She was there… Far beyond the finish line…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She looked so happy. I <i>knew</i> I was right. So…",
+            "choice_data_list": [
+                "Let's see if we can close that distance."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their game of cat and mouse—long played without anyone knowing—finally takes to the turf."
+        }
+    ]
+}

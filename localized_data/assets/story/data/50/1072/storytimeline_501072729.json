@@ -1,0 +1,25 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah, you were very close. The claw machine is a tricky opponent indeed.",
+            "choice_data_list": [
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "There's no need to apologize. It's enough for me that you made the effort."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I hope you all find someone kind to take care of you, little plushies…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "title": "菊花賞の後に・青空を駆けた雲",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Clear as the blue skies above Kyoto Racecourse, the track below is awash in bright sunshine!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Pant… Pant…</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…I won."
+        },
+        {
+            "name": "Spectators",
+            "text": "Whoooaaa?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Seiun Sky's the winner?! But Special Week got so much better!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Th-that was incredible! I've never seen a race like that before!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cheers, the applause, the surprise… Everyone in the audience has realized the biggest star this whole time was none other than Seiun Sky."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh… haha!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hahaha! Hehehe! This is what I'm talking about!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is what I've been after!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow… I feel incredible. ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Sei!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Congrats! You were incredible!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm so glad I was able to run in the Classic Triple Crown with you! I mean it, congratulations!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Thank you, Spe."
+        },
+        {
+            "name": "Special Week",
+            "text": "But… I'm not gonna lose anymore."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh. That's right, you did declare war against me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Then I'll see you on the track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two rivals show their mutual respect for making it through the Classics. And as the curtains close on the Kikuka Sho, the crowd explodes with cheers at the sight of this beautiful scene."
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "C'mon! This is the triumphant return of the Kikuka Sho champion! Cheer and celebrate, Trainer! ♪",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Thank you, thank you. I am the greatest Umamusume ever after all. ☆"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, to tell you the truth, it was really brutal out there, but I won somehow!",
+            "choice_data_list": [
+                "You won because of your skill.",
+                "You won because of your skill."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh… I guess you're right."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Anyway, did you see Spe's face back there?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "She still hasn't had her fill! She's gonna make me work myself to the bone all over again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sky smiles bitterly as she says this, but at the same time, she seems to be enjoying herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "On our way home from the race, Sky is surrounded by a large number of fans."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Oh, it's Seiun Sky! That was an amazing race today!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "I can't wait to see you in the Arima Kinen! Good luck!",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The Arima Kinen? Am I running in that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The year-end Grand Prix—the Arima Kinen… Many set this race as a goal, but Seiun Sky hasn't given it any thought yet.",
+            "color_text_info_list": [
+                "Grand Prix"
+            ]
+        },
+        {
+            "name": "Passerby B",
+            "text": "Oh… I figured since you won the Kikuka Sho that, well, the next one would be a given…"
+        },
+        {
+            "name": "Passerby A",
+            "text": "With this momentum, you can beat Grass Wonder and prove that you're the top of your generation!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ohh, so Grass is gonna be there?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I see… The top of my generation, huh…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's a good enough reason for me. Guess I'm running in the Arima Kinen then.",
+            "choice_data_list": [
+                "What?! Just like that?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's not like I had anything else in mind. This works out pretty great.",
+            "choice_data_list": [
+                "The other racers are the best of the bunch. Are you sure you can handle that?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow, how can you say that? After we just went for the Triple Crown together, no less! ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Things'll work themselves out, just like they always have."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And I have a feeling something really cool is gonna happen. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As simply as that, Sky's fans have talked her into her next goal… the Arima Kinen!"
+        }
+    ]
+}

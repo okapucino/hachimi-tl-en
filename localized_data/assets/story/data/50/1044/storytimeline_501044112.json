@@ -1,0 +1,236 @@
+{
+    "title": "Hot Spring Getaway",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Sweep Tosho has seized countless victories and cast many a spell…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us are riding a train to the hot spring vacation we won in the shopping district's raffle.",
+            "choice_data_list": [
+                "Are you sure you're okay not going to an amusement park?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Well, they do say hot springs are good for when you're all worn out. Plus, I can go to an amusement park whenever I want…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What's it to you, anyway? I just changed my mind is all! …Hm. Are we there yet?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I know. I'll use some magic to make the train go faster! \"Get there in an instant! Alstroemeria! ☆\""
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Come on, Familiar. Help me make my incantation stronger! First, get the cards out of the bag!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Once you find them… we're gonna play a game! Hehe. Just so you know, I'm pretty good!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, is the joker on the left or the right? I can tell by looking at your face, Familiar!",
+            "choice_data_list": [
+                "Grrr!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Haha! Don't try and throw me off with a funny face! That's against the rules!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe Sweep's spell is working, as the hours fly by like magic."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "See? We got here right away once we started playing cards! My spell worked like a charm!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oooh, so this is where we're staying? I'm gonna look around every corner of this inn!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wow! The shopping district did an awesome job getting an inn like this involved!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The bath's gigantic! I bet I could swim in there! Oh, I wanna go to the arcade too!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There's so much I haven't even seen yet! I'm gonna go explore a little more!",
+            "choice_data_list": [
+                "Make sure you don't get lost!",
+                "Make sure you don't get lost!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Who do you think I am?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I must have fallen asleep at some point. I guess all the recent fatigue is catching up with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I knock on the door to the next room, but it doesn't seem like Sweep Tosho has come back yet, so I decide to go look for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk through the inn and spot Sweep Tosho stepping out of the locker room."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ohhh! You finally woke up! You were sleeping like a baby, so I figured I'd go take a bath!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…? What? What're you making that face for?!",
+            "choice_data_list": [
+                "So you didn't get lost?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What?! Me?! Lost?! And here I was, trying to be consi—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Forget it! I'm going back to my room! You go take a bath and cool your head!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Dummy! Ugh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm pretty sure that getting in the hot spring will only make my head hotter… At any rate, I decide to follow her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I knock, but there's no answer. Left with no choice, I open the door…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwump!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Pffft… Hahaha! You look so dopey!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She threw a pillow at me the second I opened the door!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You've just gotta have a pillow fight when you stay at an inn! Here comes another!",
+            "choice_data_list": [
+                "Now you've done it!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hahaha! Oh no, my familiar's mad! Sooo scaaaaary!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We play around for a bit before eating dinner. Afterwards, I decide to take that bath I've been putting off."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, Sweep Tosho has been on her best behavior today."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was fine with getting up early to catch the train, walked from the academy to the train station without complaint…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And she didn't throw a single tantrum, even when she had to stand for most of the train ride."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, without even trying to wake me, she took a bath all on her own. And when we were in her room, she was in such a good mood that we had a pillow fight."
+        },
+        {
+            "name": "Monologue",
+            "text": "When we first won the coupon for the hot spring, she said she'd rather go to an amusement park, but she ended up being the one who suggested coming here."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe this is her way of showing her appreciation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho and I have spent three years together. It's not a short amount of time, and I feel that she's maturing a little more each day."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…",
+            "choice_data_list": [
+                "Sweep?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…! Wh-why…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why do we have separate rooms?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We're having a sleepover, but we can't even chat late into the night!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I've got a big, Japanese-style room, but the corners are kinda dark!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And just so we're clear—I'm not afraid or anything! I was coping fine! …I'm just really bored!",
+            "choice_data_list": [
+                "Want to talk until you get sleepy?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "W-well, all right. I mean, I bet you're bored too, right? Yeah. Okay, I'll stay with you until you're ready to sleep!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We have a relaxed chat until we both feel sleepy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Three years have passed… Some things have changed. Some things haven't."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Sweep Tosho and I have formed an irreplaceable bond during this time together."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After her training, Special Week, looking flustered, approaches me about something."
+        },
+        {
+            "name": "Special Week",
+            "text": "The others in my class have been getting better and better lately."
+        },
+        {
+            "name": "Special Week",
+            "text": "I can't lose to them! So I wanna train a little more today!",
+            "choice_data_list": [
+                "Got it! Then let's do some more laps until you're satisfied!",
+                "Don't get too excited, or you might overdo it."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Thanks! I'm gonna do my best to produce some good results!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We continue our training until the very last minute."
+        },
+        {
+            "name": "Special Week",
+            "text": "Y-you were right… I think I got a little too worked up."
+        },
+        {
+            "name": "Special Week",
+            "text": "I need to cool myself down. Deep breaths… <i>Phew… Fwaaah</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week appears to have calmed down, but I still have to do something about her overzealousness…"
+        }
+    ]
+}

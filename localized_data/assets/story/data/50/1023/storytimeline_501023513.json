@@ -1,0 +1,220 @@
+{
+    "title": "持つべきか、捨てるべきか",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, I step into my office and find Biwa Hayahide muttering to herself."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. This section looks fine…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'd still like to test the strength and elasticity of the fabric, though."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course, I can't forget to check how the outfit moves and looks while I'm on stage…"
+        },
+        {
+            "text": "Biwa Hayahide is examining her signature racewear closely and making detailed notes of her findings."
+        },
+        {
+            "text": "She already evaluated the outfit a while ago when it first arrived and tried it on, but I suppose she isn't done yet."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh. Hello there, Trainer."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I was hoping to ask for your opinion, but do you notice anything off about my outfit?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You can be honest. I'm trying to identify and make note of any issues.",
+            "choice_data_list": [
+                "Are you <i>that</i> worried about it?",
+                "Are you <i>that</i> worried about it?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well… yes."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You'll probably say I'm overthinking it, but I just can't relax until I've made sure everything is perfect."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've encountered so many exceptional athletes since I entered Tracen Academy."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They're able to adapt quickly to unexpected circumstances and don't hesitate to let go of the old if the need ever comes."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And they're capable of overcoming challenges with their extraordinary strength."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "However, I lack such qualities."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know it would benefit me to learn by their example, but I can't bring myself to let go of the things I've accumulated over the years."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So the only thing I can do is prepare as much as possible in advance."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "However, this method may forever doom me to being no more than an ordinary racer.",
+            "choice_data_list": [
+                "That's your secret weapon!",
+                "Why don't you try stopping your note-taking for a while?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What do you mean?",
+            "choice_data_list": [
+                "Can I take a look at your notes?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sure, I don't mind."
+        },
+        {
+            "text": "I'm shocked by the overwhelming volume of notes that I find in her notebook."
+        },
+        {
+            "text": "There are detailed analyses of every track, placement records, and strategies on how to improve her performance before a race."
+        },
+        {
+            "text": "Everything Biwa Hayahide has learned through trial and error is meticulously recorded."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What's wrong, Trainer? You're awfully quiet…",
+            "choice_data_list": [
+                "It's just as I thought!",
+                "It's just as I thought!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh?"
+        },
+        {
+            "text": "The more one prepares for every eventuality, the more they're able to perform at full potential."
+        },
+        {
+            "text": "However, not everyone has the ability to do this. I tell her that her attention to detail and analytical ability is what sets her apart."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You have a point. That's certainly one way to look at it.",
+            "choice_data_list": [
+                "Let's take full advantage of this secret power of yours!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I suppose if this weapon is unique only to myself, then there's no need to compare myself to others, is there?",
+            "choice_data_list": [
+                "That's right!",
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you… I feel like a new path of possibility has been opened up to me."
+        },
+        {
+            "text": "There's no magic equation for growth. And that's exactly why I'm eager to keep learning through trial and error with her until we find what's right."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've tried several times…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But I've never been able to stay calm without it. I become so anxious that I always end up with my notebook in my hands before I realize it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If I truly wanted to stop, I would require enough nerve to simply tear the whole thing apart.",
+            "choice_data_list": [
+                "You can't be serious!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Essentially, it's true. I'd have to burn that bridge, so to speak."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And perhaps…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I don't even need this anymore!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…!"
+        },
+        {
+            "text": "Biwa Hayahide moves to destroy her notebook, and in a panic I reach out to stop her. Before I can, however, her face crumples."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I… I can't do it!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I don't have it in me to compete against such strong opponents entirely unprepared… I just don't!"
+        },
+        {
+            "text": "Seeing how stressed she is by this ordeal, I start to think that pushing her to make such a radical change might not be the best approach."
+        },
+        {
+            "text": "Instead, I take a breath and say…",
+            "choice_data_list": [
+                "That's all right! There's no need to destroy your notes!",
+                "That's all right! There's no need to destroy your notes!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But if I don't…",
+            "choice_data_list": [
+                "Don't worry. We can simply do what works for you!"
+            ]
+        },
+        {
+            "text": "I tell her there's nothing wrong with taking detailed notes on items of concern—rather, they can be a vital tool for her growth."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I really don't need to get rid of them?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Maybe you're right… Maybe it's better to work <i>with</i> myself rather than against."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hearing you say that has taken such a weight off my shoulders. Thank you so much, Trainer."
+        },
+        {
+            "text": "We spend time going over her notes, discuss her most recent areas of concern, and brainstorm ways to tackle them together."
+        }
+    ]
+}

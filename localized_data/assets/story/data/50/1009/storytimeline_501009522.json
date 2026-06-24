@@ -1,0 +1,33 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The morning of my day off, I spot Daiwa Scarlet standing in front of the pharmacy."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Gah! Trainer?! Stop right there! Don't come near me!",
+            "choice_data_list": [
+                "Huh? Why not?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urgh… Well… The thing is… I've got a pimple on my forehead."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And after I made sure to come here bright and early so I wouldn't run into anyone I knew… Just my luck."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Anyway, there you have it. Bye!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet seems to be suffering from skin problems…"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "title": "気になる隣の晩ご飯！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and I are on our way back from an outing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Sniff, sniff…</i> Mmm. Smells like one of these houses is having curry for dinner."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hehe… Sure does bring back nice memories—reminds me of my folks' curry."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It was always chock full of chunky vegetables and never failed to fill you up."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…",
+            "choice_data_list": [
+                "You hungry?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growl…</i>",
+            "choice_data_list": [
+                "Let's hurry back so we can eat.",
+                "Wanna grab a bite on the way back?",
+                "Wanna grab a bite on the way back?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growl…</i>",
+            "choice_data_list": [
+                "Let's hurry back so we can eat.",
+                "Wanna grab a bite on the way back?",
+                "Wanna grab a bite on the way back?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah… Dinner's waiting for me at the dorm, so I think I'll save my appetite for when I get back."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growl…</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Urgh. I can smell the curry even more now…",
+            "choice_data_list": [
+                "Feel free to run ahead."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sorry… And thanks for being so understanding!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap runs off, her pace even quicker than usual. Is it her empty stomach driving her forward? Or did our trip give her a boost of energy? It's hard to tell."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah… I was thinking the same thing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I gotta eat a lot now for tomorrow's training!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Actually… Do you mind if I pick where we eat?",
+            "choice_data_list": [
+                "You want curry, don't you?",
+                "You want curry, don't you?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "How did you know? Are you some kinda psychic?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, we stop by the shopping district to grab some curry and replenish our energy."
+        }
+    ]
+}

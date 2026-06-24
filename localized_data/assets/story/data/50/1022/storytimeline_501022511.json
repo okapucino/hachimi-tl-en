@@ -1,0 +1,202 @@
+{
+    "title": "殿下と刺激的なお茶会",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fine Motion has invited me to a tea party she's hosting to deepen her connection to the other Tracen students."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, well, well. I'm honored to have been invited. Delicious tea, a chat with friends… It's a truly productive event, wouldn't you say?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "On that note, I've prepared a concoction that can make the party even more delightful! What do you say? Interested? I know you are!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not taking that crap! I can't believe you… This thing just started, and you're already offering weird things to people."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm? What's wrong, Cafe? Is there something interesting about that wall?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…No. It's… nothing important."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Just… There's someone I've never seen before… standing over there…",
+            "choice_data_list": [
+                "I don't see anyone…"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've heard your power of <i>perception</i> is incredible, Cafe. How splendid! What do you see?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Could it be a fairy of some sort? A Japanese fairy? Like a zashiki-warashi?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It doesn't have… that kind of aura…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Then perhaps a ghost? I <i>might</i> have met one in my castle before!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh my, care to include me in this juicy little conversation? I'm also interested in subjects that have yet to be proved with science!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch… How can you all get so excited about something so dubio—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwoosh…</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "GAH! The hell was that?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hehe, <i>that</i> was just my tail. That was quite a reaction, though, Shakur."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why you…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, how wonderful! If you're scared, that means some part of you believes!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Who're you callin' scared?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, don't get too mad at me! I'm just happy that you believe in the same things as the rest of us. ♪"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Tch."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Phew!</i> Let's take a short break!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, yes! I was just doing a little thinking… I'm sure my past self would be shocked to see me right now."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sitting around with my friends and laughing until our sides ache…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I always used to sit around and imagine what kind of things I'd discuss with people my age."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But now it's happening right before my eyes, and it's beyond anything I could have imagined!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So of course I'm having a great time. How could I not be? Not to mention that all the Umamusume here are so unique and exciting!",
+            "choice_data_list": [
+                "That makes sense."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "By interacting with Umamusume her age, Fine motion is surely learning many new things. It seems her study abroad has truly been worthwhile."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Of course, I am a little worn out, but there's a certain joy in that fatigue, isn't there? Time for round two of tea party time!",
+            "choice_data_list": [
+                "You really can switch gears in an instant!",
+                "Round two, here we come!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha! Well, my adaptability has always been one of my strong points, right?"
+        },
+        {
+            "name": "Security Captain",
+            "text": "During our inspection, your curiosity led to us visiting every related establishment. We traveled halfway across the country in a day."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, that's right! We had tea with everyone everywhere we went. I barely even had room left for dinner…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wait! Now that I think about it, I didn't prepare any Irish tea for this party."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "All right! ♪ Sounds like a good excuse to head to that specialty shop the next town over!",
+            "choice_data_list": [
+                "Wait, right now?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Tap, tap.</i>"
+        },
+        {
+            "name": "Security Captain",
+            "text": "…Godspeed."
+        },
+        {
+            "name": "Monologue",
+            "text": "With \"that specialty shop in the next town\" as my only hint, I hype myself up and chase after Fine Motion."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Right! I have an inexhaustible supply of stamina when I'm having f—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! What's all this smoke?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh, ahaha! It seems the effects of my concoction manifested quicker than I thought!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You are… the worst… <i>Cough!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ooh, I wonder what's going on. I'm going ahead, Trainer. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion runs off, eyes brimming with excitement. It doesn't seem like she'll be running out of energy anytime soon…"
+        }
+    ]
+}

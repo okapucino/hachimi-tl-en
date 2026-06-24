@@ -1,0 +1,206 @@
+{
+    "title": "皇帝の社会勉強",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I bump into Symboli Rudolf in front of the school gates. She seems to be on her way out."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hello, Trainer. What an unexpected surprise.",
+            "choice_data_list": [
+                "Are you going somewhere?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I am. I was going to indulge in some… social studies, I suppose you might call them."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You can accompany me, if you'd like. Assuming you have no other obligations."
+        },
+        {
+            "name": "Monologue",
+            "text": "With no other plans for the day, I decide to go with Symboli Rudolf."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us eventually arrive at the racecourse."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now, let's see… What is on the schedule today…",
+            "choice_data_list": [
+                "Here to watch a race?",
+                "Here to watch a race?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "No, not today."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The racecourse hosts all manner of events in addition to races."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They present good opportunities to gain insight into the general public's perception of Umamusume."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "For that reason, I like to drop in and take a look when I have the time.",
+            "choice_data_list": [
+                "Interesting."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Seeing as this is your first time, why don't you select the event?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf gestures to a noticeboard covered in posters for various events."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Select whichever strikes your fancy and we'll go together."
+        },
+        {
+            "name": "Monologue",
+            "text": "Two activities in particular stand out.",
+            "choice_data_list": [
+                "Volunteer Garbage Cleanup.",
+                "Notable Umamusume Exhibition."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Cleaning up the stands, hm? I'll lead the way."
+        },
+        {
+            "name": "Monologue",
+            "text": "Volunteers of all ages and backgrounds have come to join the garbage cleanup."
+        },
+        {
+            "name": "Woman",
+            "text": "Oh! Hello there! Aren't you the Tracen Academy student council president?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I am. It's a pleasure to meet you."
+        },
+        {
+            "name": "Woman",
+            "text": "Oh, the pleasure's all mine! It's such a joy to watch you all on the track."
+        },
+        {
+            "name": "Woman",
+            "text": "I come along to these cleanups as my own little way of giving back."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you. That's very humbling to hear."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf takes the opportunity to speak with a variety of other volunteers as we work."
+        },
+        {
+            "name": "Monologue",
+            "text": "Every one of them harbors clear affection for the Twinkle Series."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf seems to take pleasure in listening to what everyone has to say."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you for indulging me today.",
+            "choice_data_list": [
+                "Not at all. I learned a lot."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm glad to hear that. I feel the same."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I learned an important lesson today: our fans support us in various ways, even when we aren't racing."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The next time I look out into the stands, it will be with a different sense of appreciation."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the day draws to a close, I feel that I've gotten a rare glimpse of what Symboli Rudolf values."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh? A limited-time exhibition of Umamusume achievements… And as luck would have it, it opens today."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Surely this will be worth seeing. Shall we take a look?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Entering the venue, it's clear at a glance that the organizers have spared no effort."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah, I see… They've collated the achievements of famed Umamusume all around the world, not just in races, but in the culture surrounding racing too."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's a shame this exhibition is only temporary. The organizers' passion for Umamusume is plain to see."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I do wish it was better promoted, though. Perhaps there's something we could do to help…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though subtle, there's a spark of joy in her eyes as she surveys the exhibit."
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy all it has to offer, with Symboli Rudolf occasionally chiming in as my personal guide."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My, it has gotten late. Still, that was an afternoon well spent."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's important to remember that races are more than just contests of skill. They're part of Umamusume history and culture."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They form a great river of time and devotion, flowing all the way from the distant past to the present we and our fans inhabit."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll see what I can do to have this exhibition advertised around the academy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you for indulging me today.",
+            "choice_data_list": [
+                "Not at all. I learned a lot."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm glad to hear it."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the day draws to a close, I feel that I've gotten a rare glimpse of Symboli Rudolf's love for knowledge."
+        }
+    ]
+}

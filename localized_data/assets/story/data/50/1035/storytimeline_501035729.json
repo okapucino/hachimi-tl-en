@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaah! No waaay!",
+            "choice_data_list": [
+                "I'm sorry… I couldn't rescue them.",
+                "I'm sorry… I couldn't rescue them."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No, it's fine, Trainer. You did what you could!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It looks like it's up to me to save them!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Just wait! I gotta save some money, but then I'll come get you!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm so sorryyyy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

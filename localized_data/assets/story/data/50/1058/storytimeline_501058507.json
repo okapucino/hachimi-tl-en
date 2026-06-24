@@ -1,0 +1,62 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, a letter from a fan arrives for Meisho Doto."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A f-fan letter? It… can't be for me, right?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Maybe they got the names mixed up? I mean, there isn't one good thing about me…",
+            "choice_data_list": [
+                "Why don't you try reading it first?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I should, shouldn't I? Okay, here goes! Um…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh… Trainer…",
+            "choice_data_list": [
+                "What does it say?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "\"I love how hardworking you are. I'm clumsy too, so you give me courage.\""
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm so happy… This is just like how I was in the past."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I remember listening to a post-race interview and hearing the winner say, \"I was able to overcome my flaws.\""
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "It gave me courage, enough courage to come to this academy… And now, now I'm the one who's…",
+            "choice_data_list": [
+                "The one who's inspiring others.",
+                "The one who's inspiring others."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sniffle…</i> Trainer, I promise to work even harder."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Because… despite my many flaws, I was able to encourage someone!"
+        },
+        {
+            "text": "From this day on, Meisho Doto puts in far more effort during our training sessions."
+        }
+    ]
+}

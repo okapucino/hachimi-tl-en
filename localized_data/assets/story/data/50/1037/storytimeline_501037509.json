@@ -1,0 +1,33 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Huff… puff…</i> Today's weight training workout is… complete."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hm, what time is it now?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh… It appears I finished much earlier than expected…",
+            "choice_data_list": [
+                "You're actually a little behind schedule…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What?! I-I stand corrected…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh…</i> I appear to have confused the big hand with the little hand on the clock. How embarrassing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be exhausted if she's managed to misread the clock. I should rethink her race schedule."
+        }
+    ]
+}

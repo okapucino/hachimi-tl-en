@@ -1,0 +1,184 @@
+{
+    "title": "テイオーの武者修行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I realize that I left something behind at training yesterday, so I head to the field to get it."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yayyy! I win! ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Grr! I thought I had you that time!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hmph! I'm gonna win the next one for sure!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! Let me know next time you wanna try! ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, Trainer! What are you doing here so early?",
+            "choice_data_list": [
+                "I forgot something. How about you?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mmm, hard to explain. Making friends? Kinda?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I noticed this really good racer recently, but when I tried talking to her…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey! We raced together the other day, didn't we?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Yeah. And you are…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm Tokai Teio! The invincible monarch who's gonna overthrow the Emperor!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I thought you looked sooo cool when you overtook everyone! Wanna race sometime?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Uh, what?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Come on! Pleeease! I promise it'll be super fun! ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Pant, pant…</i> I can't believe I lost…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. That was mega fun, right? I knew you were gonna put up a good fight!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Ugh! Is this all just fun and games to you?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "This isn't over… You better race me again! And brace yourself, 'cause next time it won't just be for \"fun\"!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa! Yeah, count me in!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, if we're gonna be racing more, why don't we hang out and get to know each other better? ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You know what they say: \"Rivals on the track, friends off the track!\""
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I've never heard that saying in my life."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, now you have! C'mon, let's grab some mini parfaits from the cafeteria. ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "H-hey! Let go of meee!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So yeah, we've been racing each other in our free time ever since.",
+            "choice_data_list": [
+                "Training not enough for you?",
+                "Training not enough for you?",
+                "Sounds like you made a good friend.",
+                "Sounds like you made a good friend."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So yeah, we've been racing each other in our free time ever since.",
+            "choice_data_list": [
+                "Training not enough for you?",
+                "Training not enough for you?",
+                "Sounds like you made a good friend.",
+                "Sounds like you made a good friend."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's not it. I'm just having fun! I get so excited when I'm up against a tough opponent!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Plus, I've gotten to know her, and sometimes we hang out together!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "More races, <i>and</i> more friends! What's not to love? ♪",
+            "choice_data_list": [
+                "Just don't go too crazy, all right?",
+                "Just don't go too crazy, all right?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm doing fine! It takes way more than this to wear <i>me</i> out!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "We're gonna run on dirt next! Ooh, I can't wait! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, it looks like Tokai Teio's new friend has been a good influence on her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yep!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, and the other day, she told me the secret to pulling away from the pack!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I forgot the details, but basically you gotta slip into an opening like <i>whoop,</i> then break away like <i>whoosh,</i> then you go like <i>vavoosh!</i>",
+            "choice_data_list": [
+                "Va-what?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Whoop, whoosh, vavoosh!</i> Duh! Oh, I can't <i>wait</i> to try it out in my next race! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't quite understand the so-called secret…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But, well, it looks like Tokai Teio's new friend has been a good influence on her."
+        }
+    ]
+}

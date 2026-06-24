@@ -1,0 +1,44 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Concerned that Tokai Teio hasn't shown up for training, I go looking for her. Soon enough, I find her in front of the stress stump."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've heard that the students come here to let out all their negative feelings of frustration, but today…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'll become just like Prez! I swear I will!",
+            "choice_data_list": [
+                "Not here to vent?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, Trainer! I come here to pump myself up!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "There's no rule saying you can only yell into the stump when you're having a bad day."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Shouting your hopes and dreams out loud makes you feel refreshed and ready to take on anything!",
+            "choice_data_list": [
+                "That's nice and all, but what about training?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? …Ahhh! Sorry, I totally forgot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She apologizes to me over and over, and I can't help but forgive her."
+        }
+    ]
+}

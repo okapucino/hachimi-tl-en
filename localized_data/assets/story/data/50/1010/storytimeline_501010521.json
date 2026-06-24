@@ -1,0 +1,29 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nnh… It's a holdup…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Just look at that bounty…",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Mhm… Thing is, these Westerns I rented are due back pretty soon."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I figured it'd be a real waste not to watch 'em all, so I went and pulled me an all-nighter. <i>Yawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle looks sleep-deprived for the entire rest of the day…"
+        }
+    ]
+}

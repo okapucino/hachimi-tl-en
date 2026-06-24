@@ -1,0 +1,380 @@
+{
+    "title": "Raffle Time!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm out walking with Sweep Tosho, and we stop by the shopping district."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hm? What's going on over there? People are lining up for something…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oooh, a raffle! That looks like fun! Let's do it, Familiar!",
+            "choice_data_list": [
+                "But we don't have a raffle ticket."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Then we just need to go get one! Let's go buy something. It doesn't matter what! Candy, clothes, or even curry!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm definitely playing that raffle today! And I'm not going home until I do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At Sweep Tosho's request, we go shopping and get a raffle ticket. Naturally, everything is my treat."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Here I go!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Clove, clove, clover! ☆ Magic of luck, lend me your power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho chants a spell and gives the lever an enthusiastic pull."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yippeeeee!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's the grand prize! I got the grand prize! That's the best one, Familiar!",
+            "choice_data_list": [
+                "I never doubted your magic!",
+                "I never doubted your magic!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Of course! I'm the great and invincible Magical Girl Sweepy, after all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And since great witches are kind and generous, I'm gonna give the coupon to you. Here. Okay, let's go home!",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah. I mean, a hot spring sounds boooring. A big bath sounds kinda fun, but the one at the academy is big enough for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I accept the coupon for the hot spring vacation…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, I know! Take me to the amusement park instead! And then the zoo… and strawberry picking!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That was the grand prize, so we've gotta go somewhere equally good!",
+            "choice_data_list": [
+                "Okay, let's go when we have some free time…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I guess you're right. I am super busy, after all."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And first, I've gotta learn that racing magic and really surprise everyone!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You can give me my grand prize when I've done that! I'll cast a promise spell so you don't forget!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Plidge, pledge, anagallis! Make a promise that can never be broken!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm happy to see that she has her priorities in order."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm going to throw a huge celebration for her when she accomplishes her goal… and this coupon is proof of my commitment."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oooh, not too shabby!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's tonight's dinner taken care of! Make the preparations, Familiar!"
+        },
+        {
+            "name": "Grocer",
+            "text": "How about some fresh veggies as a side? We've got some delicious green peppers today!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nooope! Nope, nope, nope! This hamburger steak is gonna be tasty enough on its own!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I just wanna get home and eat it! C'mon, hurry up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After practically being dragged back to the academy by Sweep Tosho, I end up cooking the hamburger steak in my own kitchen."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hold on a sec! What are green peppers doing in here?!",
+            "choice_data_list": [
+                "I had some left over."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't care where you got them! I don't want them! You made the first prize into a punishment!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh. I'm giving you my peppers. They can be your reward for cooking the hamburger steak, so be grateful."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Sweep Tosho hurriedly pushes her green peppers onto my plate, she does seem to thoroughly enjoy the hamburger steak!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Second prize! Hey, that's pretty good!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I wonder how big the bushel's gonna be…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Whoa?! That's <i>huge!</i>"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha. I reckon even an Umamusume might struggle to finish all these by herself."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Excuse me?! I can <i>easily</i> eat all of these! Don't underestimate Magical Girl Sweepy!",
+            "choice_data_list": [
+                "Can you really eat all of these?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Of course I can! And I'm not gonna give you any, no matter how much you complain!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho returns home triumphantly, clutching her huge bushel of carrots."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…I'm sick of these. Sick! Of! Them!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't want any more! I wanna eat something else! Do something, Familiar!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She <i>could</i> finish them if she wanted, but she doesn't want to. I rack my brain trying to come up with a solution… and then I have an idea!",
+            "choice_data_list": [
+                "Let's cast a spell on the carrots to turn them into a dessert!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A carrot dessert spell? That's… a great idea!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "One, twooo…"
+        },
+        {
+            "name": "Trainer and Sweep",
+            "text": "Cook, cook, confections! ☆"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We did it! It's a deluxe carrot parfait!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But I'm not sure how much magic was involved… It kinda felt like we were just following a recipe…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Still, it was fun, so whatever! I'll even give you a bite!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Sweep Tosho in good spirits, I let out a sigh of relief. It seems I was able to keep her happy!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aw, c'mon! I wanted the grand prize! I even cast a spell!",
+            "choice_data_list": [
+                "But that carrot sure looks tasty."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hm…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now that you mention it, it is a nice orange color. And so shiny…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chomp! Crunch!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This tastes… amazing?! How is it this good?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, right! That spell helped me win the most delicious carrot of all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! I'm <i>definitely</i> a genius magical girl!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Sweep Tosho looking pleased, a wave of relief washes over me as we head back."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A-a blank one?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How did that even happen?! I cast a spell for luck!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Grrr! No, no, no! I'm gonna do it again! Go get me another ticket, Familiar! I can't believe my magic failed!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ah-choo!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh! First, I didn't win, and now I'm sneezing because it's so cold! Achoo!",
+            "choice_data_list": [
+                "Here, your tissues."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh, fine… If this is how it's gonna be, I'll use every single last scrap of them!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Pffbtbfbfbt!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if angry at the tissues themselves, Sweep Tosho aggressively blows her nose under the cold sky."
+        }
+    ]
+}

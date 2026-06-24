@@ -1,0 +1,59 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Seiun Sky…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Trainer, this is a little out of the blue, but…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Do you like fishing?",
+            "choice_data_list": [
+                "Why are you asking now?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, no reason—just something to talk about. C'mon, close your eyes and picture this."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "There's a pond in front of you. You're holding a fishing rod in your hands…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well? Do you wanna fish now?",
+            "choice_data_list": [
+                "Uh, I guess?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Perfect! Let's go do it for real, then! I'm itching to reel in a big one."
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks in the direction of a claw machine packed full of Umamusume plushies. Could it be…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This should be a cinch for an expert angler like you, Trainer! …Right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can almost feel her pulling my strings like some kind of puppeteer. But I'm her trainer, so…",
+            "choice_data_list": [
+                "I-I'll do my best!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

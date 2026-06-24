@@ -1,0 +1,356 @@
+{
+    "title": "『我が脚歩むは、真新しい畳』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "More, more, more!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I need to get stronger! I'm not good enough right now!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I need more strength!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the start of the Classic Triple Crown tour inches closer, even more reporters have begun visiting campus than usual."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Right now, I'm not even ready to stand on the starting line of the Classic Triple Crown."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "While my legs are able to run, I must use them to push myself even further… to achieve the highest speeds I possibly can!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Wheeze… Huff…</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wow, the racers aiming for the Classics are incredible! Yaeno's already run about a million laps!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "For real… If I tried doing that training plan, I'd probably end up throwing up halfway through."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "This is not enough! I cannot content myself with this!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "They've both got plenty of drive, but…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "I don't think Mejiro Ardan will make it in time, and I'm not sure about Yaeno Muteki, either. That recent loss has broken her winning streak."
+        },
+        {
+            "name": "Reporter B",
+            "text": "It's hard to say if she'll even be eligible to run in the Satsuki Sho. Hm… Wonder who'll be the pick for the win."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"My pick to win, their pick to win.\""
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "No matter what anyone has to say about those two, I'm not going to stop what I'm doing."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I bet the two of them will do whatever they can to enter the races in their best conditions, so I'll have to do the same.",
+            "choice_data_list": [
+                "I agree.",
+                "I agree."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since she reaffirmed her resolve to win the Derby, the fire in her eyes has grown brighter with every day the race draws closer."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "One… two… All right!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Trainer, I'm ready! Let's start today's training session!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Pile on the exercises, and don't you dare go easy on me! Our normal regimen won't be enough!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to meet her brightly burning enthusiasm and pay close attention to her exercises. She starts running, but then…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ack!",
+            "choice_data_list": [
+                "(Wh-what was that?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch her sprint down the track, it seems like her running form is completely thrown out of sorts for a split second."
+        },
+        {
+            "name": "Monologue",
+            "text": "It almost looks like she's injured somewhere…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whew… How was that, Trainer?! I've still got plenty left in me!",
+            "choice_data_list": [
+                "Are you trying to hide an injury?",
+                "Are you trying to hide an injury?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? N-no… What makes you say that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She avoids my gaze and draws back her right leg.",
+            "choice_data_list": [
+                "Show me your leg."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But… Um…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O's right calf is fully taped up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Multiple strips of tape crisscross her leg to help support the arch of her foot. I've seen this kind of taping method in a textbook before.",
+            "choice_data_list": [
+                "This is the taping method for shin splints from <i>Athletic Injuries 101.</i>",
+                "This is the taping method for shin splints from <i>Athletic Injuries 101.</i>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Monologue",
+            "text": "A shin splint is a common injury among new athletes who increase their training volume too suddenly."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're especially prevalent in athletes whose muscles are still growing. Overworking their legs and running on hard surfaces causes their muscles and tendons to become inflamed.",
+            "choice_data_list": [
+                "Have you been practicing in private?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Gulp…</i> Yeah…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But it only hurts for a moment when I kick off the ground! It's not even that bad, so I can bear with it!",
+            "choice_data_list": [
+                "If it worsens, you won't be able to run at all."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…I'm sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask her more about her injury, and it's thankfully not a serious one. Still, I should take her to the doctor's after this…",
+            "choice_data_list": [
+                "Looks like you'll have to take a break from running.",
+                "Looks like you'll have to take a break from running."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wha…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "W-wait a second! A break?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But you just saw how hard Yaeno was working and how determined Ardan was! I-I can't…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I can't just give up on such a big race. I don't care if it ruins my leg, I'm going to run in the—",
+            "choice_data_list": [
+                "Chiyono O. Stop. Breathe."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "B-but…",
+            "choice_data_list": [
+                "No one said anything about you giving up the race."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Hello, Trainer! Please come in! The room is over this way.",
+            "choice_data_list": [
+                "Thank you very much, ma'am."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I end up asking Sakura Chiyono O's parents for help, and we get permission to carry out her rehabilitation at her family home."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "I do apologize for how much trouble Chiyo's caused!"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Honey! Honey! Chiyo and her trainer are here!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ugh… That's enough, Mom! I'm gonna head in and start training already, OK?!"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Oh, dear. She's still as shy and easily embarrassed as ever."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Trainer, thank you so much for helping Chiyo through this."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "I know her stubbornness is the reason you brought her here."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Once she sets her mind on something, she won't let it go until she accomplishes it, for better or worse."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "She'll even force herself to work through injuries—especially if there are people around who she doesn't want to lose to."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "It's why you took her away from school, yes? Here at home, she can concentrate on recovering, far removed from the racing world."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "I can't imagine the headaches she's caused you…",
+            "choice_data_list": [
+                "Well, that determination of hers is also her strength."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Mom, stop talking Trainer's ears off! You're going to get in the way of my rehabilitation!"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Goodness, this child! Fine, fine. Thank you again, Trainer. I hope you'll continue to support our daughter."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So what am I supposed to do again? Towel curls and calf raises?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm… Those are completely different from my usual exercises.",
+            "choice_data_list": [
+                "They'll help with recovery and prevent future injuries."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Really?",
+            "choice_data_list": [
+                "Of course we'll be seeing a doctor for treatment too."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh… Yeah, that makes sense…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But the time I spend on this isn't just for my recovery—it's to prepare for my victory at the Satsuki Sho and the Derby too, right?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we focus our attention on Sakura Chiyono O's medical treatment and training to improve her strength."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Huff! Huff!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shuffle! Shuffle!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Uh-oh… The tatami mats are all torn up. Dad's gonna be so angry…"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Heehee! I don't think so. This is proof of how hard you're working, after all."
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "Chiyo, dear? Could you tell me about the other racers you'll be competing against?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? Uh, they're strong. They're talented, of course, and determined too."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh! But I won't lose to them! No way!"
+        },
+        {
+            "name": "Chiyono O's Mother",
+            "text": "I see. I was thinking about recording your races on the TV and passing them out to the folks in the neighborhood association."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wha?! That'd be so embarrassing! Just watch them yourself! That's good enough for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While being smothered in her mother's love, Sakura Chiyono O pours her soul into recovery and training."
+        }
+    ]
+}

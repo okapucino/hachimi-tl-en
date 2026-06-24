@@ -1,0 +1,43 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just when I think Inari One isn't going to show up to training…"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm late! Sorry, Boss. No excuses for my disgraceful behavior!",
+            "choice_data_list": [
+                "What happened to make you late?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm late! Sorry, Boss. No excuses for my disgraceful behavior!",
+            "choice_data_list": [
+                "What happened to make you late?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Didn't I just say I don't make excuses?! I'm an Edo girl, after all!",
+            "choice_data_list": [
+                "…Well, just be careful from now on."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Tch! You're so mature and sensible! Meanwhile, just look at me!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm real sorry! Feel free to splash boilin' hot soup in my face as a punishment!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Inari One refuses to tell me why she arrived late. However, she appears to be quite remorseful, so I decide to let it slide this time."
+        }
+    ]
+}

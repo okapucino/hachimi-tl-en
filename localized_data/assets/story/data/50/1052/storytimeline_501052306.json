@@ -1,0 +1,103 @@
+{
+    "title": "目標達成の後に・ド根性！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "\"No matter how many times Haru Urara loses, she never gives up!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I've been hearing more and more people praise Haru Urara for her tenacity."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ugh! Winning is so hard! Everyone whooshed right past me!",
+            "choice_data_list": [
+                "What do you think is the key to winning?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Um, well…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, I know! I should enter a race where it's only me!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Then there's no way to lose!",
+            "choice_data_list": [
+                "…That wouldn't be a race then."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, really? I thought I struck gold for a second there."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Ah, is that Haru Urara? Hey there!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Who said my name?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "You've been trying so hard! I'm rooting for you!"
+        },
+        {
+            "name": "Passerby C",
+            "text": "Hey! It's that plucky Umamusume!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! You know who I am?"
+        },
+        {
+            "name": "Passerby D",
+            "text": "Of course! We're in your fan club!"
+        },
+        {
+            "name": "Passerby E",
+            "text": "I love that you keep going no matter how many times you lose! Don't ever give up!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! Yeah! Okay!",
+            "choice_data_list": [
+                "You're so popular!",
+                "You're so popular!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee! I feel like an idol! I'm glad I've worked so hard!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Everyone is so excited to see me race!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I wanna race even more! Then they'll <i>really</i> be excited!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara's motivation skyrockets! It was a good idea for her to enter races to gain experience and grow her fanbase.",
+            "choice_data_list": [
+                "Let's keep up the great work and enter more races!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps by having her enter races, Haru Urara will find a race to aspire to… Once she finds that dream race, I'll do whatever I can to help her reach it and <i>win!</i>"
+        }
+    ]
+}

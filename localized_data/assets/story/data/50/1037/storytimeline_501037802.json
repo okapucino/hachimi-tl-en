@@ -1,0 +1,167 @@
+{
+    "title": "Cookies of Joy",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On one of our days off, we're volunteering at a baking class for children when Eishin Flash and I notice one of the kids standing alone in the corner."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What's wrong? You have yet to touch your ingredients. Are you having difficulties with something?"
+        },
+        {
+            "name": "Quiet Child",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Twelve minutes, thirty-one seconds have elapsed since the class began. We are more than happy to help if needed, so why don't you give it a try?"
+        },
+        {
+            "name": "Quiet Child",
+            "text": "Don't wanna… Too many people…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The child looks interested in the class but is hesitant to join the others. I try to make it less daunting.",
+            "choice_data_list": [
+                "No rush. You can start whenever you're ready."
+            ]
+        },
+        {
+            "name": "Quiet Child",
+            "text": "…'Kay."
+        },
+        {
+            "name": "Monologue",
+            "text": "The child nods with relief. I'm sure things will be fine, but I still want to keep an eye on them.",
+            "choice_data_list": [
+                "Let's save some cookies for them once we're done."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Sure. Good idea."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The cookies are done. You all did very well. Let's get ready for Teezeit with some tea and enjoy the cookies while they're hot."
+        },
+        {
+            "name": "Children",
+            "text": "They look so yummy!"
+        },
+        {
+            "name": "Energetic Child",
+            "text": "Oh, wow! Mine are the best, for sure!"
+        },
+        {
+            "name": "Lively Child",
+            "text": "The ones I made are so good! Look how neat I made them!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. They look wonderfully happy. …Oh, yes."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The cookies are ready. I baked these… Would you like to share some with me?"
+        },
+        {
+            "name": "Quiet Child",
+            "text": "…Really?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, of cour—"
+        },
+        {
+            "name": "Energetic Child",
+            "text": "Hey, that's not fair! How come they get to eat cookies even though they didn't help at all?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At the accusation, the quiet child freezes before retracting the hand that was reaching out for the cookies Eishin Flash holds in her hands. That's when Eishin Flash speaks."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Did everyone have fun baking cookies today?"
+        },
+        {
+            "name": "Children Who Participated",
+            "text": "Yeah, lots!"
+        },
+        {
+            "name": "Energetic Child",
+            "text": "Uh-huh! We did lotsa mixing and made lotsa cookies shaped like cars and kitties!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm glad. But did you know that it's just as nice when you see someone else enjoying your baking?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "How about this? If I give you one of the cookies I made, would you be willing to share one of yours with our friend here?"
+        },
+        {
+            "name": "Energetic Child",
+            "text": "You'll give me one of your cookies?! Hmm… Okay. Here, you can have this."
+        },
+        {
+            "name": "Quiet Child",
+            "text": "Th-thank you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I expected Eishin Flash to take a harsher approach, so I'm surprised by how gently she handled things. When I ask her about it…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I understand what they are feeling. Attempting a new endeavor comes with nervousness and confusion. We hyperfixate on the task at hand and then boast about our accomplishment after."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, these feelings are not inherently bad. Hesitation allows the mind to prepare. Fixation is the driver of hard work. Though they can appear negative, emotions can be fuel for growth."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That is what my mother taught me.",
+            "choice_data_list": [
+                "That's a good lesson."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe, I'm glad that you agree."
+        },
+        {
+            "name": "Quiet Child",
+            "text": "This is really good! You're so good at baking!"
+        },
+        {
+            "name": "Energetic Child",
+            "text": "…Right?! Aren't my cookies the best? I got more over there, so c'mon!"
+        },
+        {
+            "name": "Quiet Child",
+            "text": "Okay!",
+            "choice_data_list": [
+                "They both look so happy now.",
+                "They both look so happy now."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Indeed. Baked treats have the power to make people smile."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Baking allows all people to share in their joy together. That's why I love baking so much."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash smiles softly as she watches the kids wolf down cookies."
+        }
+    ]
+}

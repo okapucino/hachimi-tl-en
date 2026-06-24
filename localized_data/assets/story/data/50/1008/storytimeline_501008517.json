@@ -1,0 +1,53 @@
+{
+    "title": "礼儀は大事なんだよっ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "<i>Sigh…</i> I really messed up…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment I meet up with Vodka, she lets out a big sigh.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I just ran into Opera O. She said hi to me, but…"
+        },
+        {
+            "name": "Vodka",
+            "text": "She was so cool, I couldn't help but stare…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Before I knew it, she was already gone. She probably thinks I totally ignored her!",
+            "choice_data_list": [
+                "There's no need to worry about it that much, is there?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I know we all leave ranks to the races. It's not like I have to be super polite to upperclassman, but…"
+        },
+        {
+            "name": "Vodka",
+            "text": "But if she starts thinkin' I'm some brat who won't even say hi back to her—"
+        },
+        {
+            "name": "Vodka",
+            "text": "I wouldn't be able to take it!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What am I even doing? I'm being so lame…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to forgive herself, Vodka's mood remains in the dumps for quite a while after."
+        }
+    ]
+}

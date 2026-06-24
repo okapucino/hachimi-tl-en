@@ -1,0 +1,66 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After finishing everything on today's training schedule…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thanks for today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega sets off in the opposite direction of the changing room.",
+            "choice_data_list": [
+                "Where are you off to?",
+                "Where are you off to?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm going to run through the park and then come back along the riverside."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "After that, I'll run to the park with the large hill, and once I return, I should be just in time for curfew."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I still have more energy to burn… So I'm going to do more training.",
+            "choice_data_list": [
+                "I'll accompany you.",
+                "Save some energy for tomorrow."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You'll accompany me? There's no way you'll be able to keep up…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well, whatever. I'll just run the track in that case. Keep an eye on my form, please."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, I stay with Admire Vega for several hours while she focuses on her running."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But… the extra practice I do today can help with tomorrow's session."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain the importance of proper rest to Admire Vega."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well, if you put it that way… You <i>are</i> speaking from a position of responsibility after all."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "In exchange, make sure tomorrow's training makes up for my rest."
+        }
+    ]
+}

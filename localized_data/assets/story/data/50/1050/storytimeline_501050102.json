@@ -1,0 +1,249 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm visiting a shrine on the first day of the new year to renew my resolve to support Narita Taishin when…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ohhh! Taishin, look! It's your trainer! Hiiiii!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Great…",
+            "choice_data_list": [
+                "Taishin! I didn't know you'd be here.",
+                "Taishin! I didn't know you'd be here."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She hates crowds, so I wasn't expecting to bump into her at a shrine crowded with people making their first visit of the year."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's not like I wanted to come, but these two kept bugging me about it."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Now that we're finally senior racers, we couldn't just <i>not</i> come!",
+            "color_text_info_list": [
+                "senior"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The Umamusume who debuted after us keep getting stronger, but we're gonna get stronger too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "And to do that, we gotta get fired up from the very beginning of the year! Wooooo!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I feel as though you're always fired up—but I do agree with you for the most part."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's go, Taishin. I still have to pray for your good health."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…No one asked you to."
+        },
+        {
+            "name": "Monologue",
+            "text": "They chat more freely than when the Kikuka Sho was looming over them. Watching the three interact makes me smile."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now that we're done here—hm? Taishin, are you okay?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm out. I can't stand being here anymore. I'm going home."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaat?! But we don't get to hang out that often! C'mon, stay with us a little longer!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Quick! You gotta help us change her mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's dragging me into it! Still, Taishin really does look like she's in bad shape, so it might be good to go elsewhere.",
+            "choice_data_list": [
+                "I'll treat you to something tasty.",
+                "Why not go for a run?",
+                "How about we go to an arcade?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Like…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What in the actual hell are we doing here?! Is this the kinda cafe you're into?!",
+            "choice_data_list": [
+                "No, that's not it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's just, this was the only place that didn't have a line out the door!"
+        },
+        {
+            "name": "Bear-eared Maid",
+            "text": "Grrr, welcome! ♪ Just give me a roar when you're rawr-dy to order! ♪"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Rawr-ger that… I think?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What kind of rules do they have here?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahahaha! This cafe's so fun! Okay, I know what I want!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Rawr! Excuse meee! I'd like a Bear-y Berry Pancake Plate, please!"
+        },
+        {
+            "name": "Bear-eared Maid",
+            "text": "Grrr-eat choice! ♪ And what would you like?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Er… I'll just have a hot tea with lemon…"
+        },
+        {
+            "name": "Bear-eared Maid",
+            "text": "Hm? Sorry, I can bear-ly hear you."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I-I'd like the Brewin' Bruin Lemon Tea."
+        },
+        {
+            "name": "Bear-eared Maid",
+            "text": "Got it, rawr! ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"…then I'm kicking that doofus to the other side of the world!\" Narita Taishin's words from before her debut ring in my head…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you serious?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha! On New Year's Day? I admire your enthusiasm!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Then again, that's a very fitting activity for us to do."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We might as well. Let's run until we find somewhere we can take a quiet break."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoooaaa! It's the first sunrise of the new yeaaaar!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, if we'd been here hours ago. It's practically noon already."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But this place still feels great! I had no idea it existed!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The view truly is fantastic. Do you come here often, Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, I guess."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ohhh! I can see the racecourse! Taishin, Hayahide! Over here!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(I'm pretty sure this is the first time it's been so noisy here.)"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oooh! That's an <i>awesome</i> idea! Hey, hey, hey! You like arcades, right, Taishin?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No… I like playing games to kill time, but I don't really go to arcades."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But Taishiiiiin…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, fine."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Really? Yaaaay!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're rather indulgent today."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Shut up!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yaaaaah! I won't let a single one of you escape my wrath!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bonehead! Don't use your shotgun on the weaklings! You need to save it for the big one coming after this—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Gaaah! What do I do, what do I do?! It's biting me—I don't wanna become a zombiiie!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh… Shoot them in the head to kill them instantly!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoa! Wow, Taishin… You're nailing every one of 'em with headshots!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's nice seeing them having fun."
+        }
+    ]
+}

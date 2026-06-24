@@ -1,0 +1,73 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Ngh… <i>Groan…</i>",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Pardon me… It's just that I've had a headache for a little while. I don't think it's anything to—"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Attention, all units. Did you hear that? Escort Her Highness to the nearest medical facility at once!",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Security Officer",
+            "text": "Captain! Transport preparations are complete! We've also booked Her Highness in for a complete medical evaluation!"
+        },
+        {
+            "name": "Voice on the Radio",
+            "text": "This is Eagle Squad. Now dispatching chopper to school rooftop. ETA is in two minutes. Over."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Copy. Everyone, take your positions! Operation Doctor's Visit is—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "STOOOOOP!"
+        },
+        {
+            "name": "Security Team",
+            "text": "…!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahem! By the power vested in my name, I hereby order you to abort this operation at once!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We must not cause an undue ruckus at the academy. I have no need for medical treatment at this time."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Understood, Your Highness! My apologies. All units, stand down! Return to default positions!",
+            "choice_data_list": [
+                "L-let's just see how you feel in a bit.",
+                "L-let's just see how you feel in a bit."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, that sounds—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ooouch… All that shouting has got my head pounding again…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's migraine doesn't go away, however, and she struggles with the pain for a while."
+        }
+    ]
+}

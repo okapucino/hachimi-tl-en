@@ -1,0 +1,30 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki is in the middle of her warm-up for today's training session, but something seems off."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Huff…</i> Strange, my body's not moving the way I want…",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, uh… Yes! I'm fine, and there's nothing to worry about."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Is it all right if I take a break, though? I'm sure a little rest is all I need!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her bravado, I can see she's exhausted. I should make changes to her racing schedule so she can rest."
+        }
+    ]
+}

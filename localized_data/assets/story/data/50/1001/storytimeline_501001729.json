@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "Awww, you were so close!",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "No need to apologize, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm happy you tried so hard for me."
+        },
+        {
+            "name": "Special Week",
+            "text": "Anyway, it's getting late, so let's head back to the academy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

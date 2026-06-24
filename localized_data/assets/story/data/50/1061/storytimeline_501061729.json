@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "King Halo",
+            "text": "Wh-what are you doing?!",
+            "choice_data_list": [
+                "I'm sorry…",
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh, you dummy! Apologizing won't fix anything!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Take this experience as a lesson so you can do better next time for your king. Understand?",
+            "choice_data_list": [
+                "Yes…",
+                "Yes…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph. But don't you worry. A tiny failure like this won't get me down. A first-rate Umamusume knows how to rebound!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

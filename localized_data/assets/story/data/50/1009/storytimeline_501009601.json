@@ -1,0 +1,28 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I've got something to say, so listen up."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I screwed up closing out the last race. It hurts to admit it, but it's true."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "This time will be different. I'm not gonna embarrass myself like that again.",
+            "choice_data_list": [
+                "Show the world you're number one!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah, I will. I'll blow you all away!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The number one spot is mine! No one's gonna steal it from me again!"
+        }
+    ]
+}

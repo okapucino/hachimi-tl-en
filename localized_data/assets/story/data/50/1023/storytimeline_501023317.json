@@ -1,0 +1,83 @@
+{
+    "title": "天皇賞（秋）の後に・オブテイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After the race, I'm in the middle of preparing ice packs for Biwa Hayahide when I hear her behind me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well? How did I look today?",
+            "choice_data_list": [
+                "You were great!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I agree. I feel so much stronger after summer—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…?",
+            "choice_data_list": [
+                "What's wrong?!",
+                "What's wrong?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "N-nothing. I'm fine. Absolutely everything is all right."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm just so happy…",
+            "choice_data_list": [
+                "Happy?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes. I wanted to win this race so badly, and my legs didn't let me down."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It was nothing like how they failed me before, just when I needed to run a little faster…",
+            "choice_data_list": [
+                "That's wonderful.",
+                "That's wonderful."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yeah. That's all…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I wonder if I can catch up to her now…",
+            "choice_data_list": [
+                "I'm sure you are."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm… You're right."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's exactly why we've been working so hard on my winning equation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So I can finally beat Brian."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are two more months until the Arima Kinen. Only a short while remains until it's time for the long-awaited sibling showdown."
+        }
+    ]
+}

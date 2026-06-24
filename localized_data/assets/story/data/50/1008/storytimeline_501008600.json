@@ -1,0 +1,26 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Heheh. Time to race, Trainer. I'm so ready for this."
+        },
+        {
+            "name": "Vodka",
+            "text": "All this pre-race excitement has got me fired up! I'm itchin' to get runnin'!",
+            "choice_data_list": [
+                "You can do it, Vodka!",
+                "You can do it, Vodka!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah! Leave it to me! I'm gonna take everyone out!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna look so cool takin' first place that you'll never be able to forget it!"
+        }
+    ]
+}

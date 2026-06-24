@@ -1,0 +1,114 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan hasn't been feeling well lately, so she proposes a visit to the shrine."
+        },
+        {
+            "name": "Monologue",
+            "text": "I assume it's to make a prayer for her condition to improve. However…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Huff, huff…</i> Phew…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Okay. That's ten rounds up and down the stairs!",
+            "choice_data_list": [
+                "…I thought you weren't feeling well.",
+                "…I thought you weren't feeling well."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! That's why I'm working up a sweat—to get back into the swing of things."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ah… Maybe I've been lacking in discipline?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Well, then. I better do ten more! Gotta make myself sweat like a waterfall!",
+            "choice_data_list": [
+                "Hold on a second!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing as we've made the trek all the way here, I suggest we also say a prayer."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, yeah. That makes sense. Let's go make a wish while we're here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-ching!</i>"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Phew… That should do."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I pray the fruits of my daily training are seen by the gods of this shrine!",
+            "choice_data_list": [
+                "I'm certain they're watching over you."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I pray the fruits of my daily training are seen by the gods of this shrine!",
+            "choice_data_list": [
+                "I'm certain they're watching over you."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! I think so too!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Woo! I'm all revved up! I'm gonna go do a couple more rounds on the stairs!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Here we go, muscles! Don't fail me now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Whether it's due to her prayers or not, it appears that Mejiro Ryan is feeling better."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I hope they are…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "B-but maybe I'm just not training enough! I'll go run another lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Snap!</i>",
+            "choice_data_list": [
+                "Oh, your laces…"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh nooo! Why is this happening?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Sigh…</i> I can't run properly with my shoe untied."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan can't finish training to her satisfaction and returns home dejected."
+        }
+    ]
+}

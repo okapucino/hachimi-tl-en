@@ -1,0 +1,64 @@
+{
+    "title": "良薬は口に苦し",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Walking into the cafeteria one lunchtime, I spot Mejiro Ardan with several plates of peculiar food in front of her."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hello, Trainer. Take a look at this cuisine—not something you find every day, is it?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's an herbal dish that improves digestion."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Apparently, the cafeteria has introduced it on a trial basis, but the flavor is so unique that hardly anybody orders it."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It'd be a great shame to let food go to waste, and since my palate is accustomed to healthy food, I decided to order several servings.",
+            "choice_data_list": [
+                "Don't you think this is a little much, though?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Slightly, yes. But I believe the additional nutrients will prove beneficial.",
+            "choice_data_list": [
+                "You'll overdose on nutrients at this rate.",
+                "In that case, eat up and bulk up."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's as I feared… I can't manage all of this. Yet I can't bear to waste any of it either…",
+            "choice_data_list": [
+                "I'll help you finish the food."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Thank you for your gracious offer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now, please wait a moment while I calculate the appropriate portion size in terms of nutrition."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan divides up the food, and I eat what she's not able to finish herself."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. I will build up a figure capable of winning races, so please do look forward to my progress."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan goes on to finish every last bite of the herbal cuisine, getting a healthy heaping of nutrition in the process."
+        }
+    ]
+}

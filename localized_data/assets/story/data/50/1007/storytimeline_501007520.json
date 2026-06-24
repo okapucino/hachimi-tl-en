@@ -1,0 +1,240 @@
+{
+    "title": "えっアタシのバイト……ヤバすぎ？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "…So what I'm saying is, I've come to a realization."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You're not really free unless you're paying your own way."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Otherwise, you're just living like a sheep off someone else's dime! And I ain't no lamb chop!",
+            "choice_data_list": [
+                "What are you talking about?",
+                "What are you taking about?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I'm heading to a part-time gig, duh! And you're coming with me!",
+            "choice_data_list": [
+                "A part-time gig?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yep! I'm gonna get moolah on the clock. Pull myself up by my bootstraps, y'know?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, Tracen Academy does allow part-time work, as long as the student gets permission."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Thing is, permission is taking <i>forever.</i> Weird, right? Can't they see how raring to go I am?"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I'd have reservations about letting her loose on the world as well."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, don't go nodding along with that! Doesn't it bother you that your student's getting frozen out?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well, I'm not gonna stand for this! There's only one thing for it…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I gotta practice up before I take on the real thing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ding ding ding! Got some hits!",
+            "choice_data_list": [
+                "That was fast!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Better screw on your thinking cap, 'cause it's decision time!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Your choices are… One: Fantabulous ☆ Physical Labor with the Dorm Leader! Or two: Splendiferous ☆ Yakisoba Noodle Fry-Up!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tick, tock… Oh, and if you run out the clock, you're in for some Paintastic ☆ Trainer Origami!",
+            "choice_data_list": [
+                "Go with the physical labor!",
+                "Let's make some yakisoba!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahahaha! So you've come to help, have you? Thanks a million!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's Ritto Dorm's turn to clean the pool, but we're rather shorthanded. You're lifesavers!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Think nothing of it, young mistress—your faithful maid Golshi lives only to serve! This limescale will be all gone in a scrub-scrubbity-scrub!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Erm… That sounds splendid, but… why are you talking like that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her latest bit aside, Gold Ship does a surprisingly thorough job cleaning the pool."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All right, dirt! Prepare to meet your maker!"
+        },
+        {
+            "name": "Ritto Dorm Students",
+            "text": "What graceful technique! She wields the brush like an extension of her arm… No, her entire body is one with the brush!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You too? What on earth has gotten into everyone today?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Phew! I \"maid\" short work of that mission!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm impressed. Without your help, this would have taken twice the time."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can't offer you money, but still, I'd like to reward your efforts somehow."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "For real?! I can have anything I want? That's what you said, right?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Not in the slightest!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hmm-hmm! Let's see…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I've got it! I wanna freeze all the water in this pool and make shaved ice out of it!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha… That's an amusing idea, but from a hygiene perspective, I'm afraid there would be issues…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Tachyooon! Gimme some of that insta-freeze powder, and lots of it!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The perfect partner in crime! …I mean, hold it, Golshi! Stop, I say!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship takes off with the deck brush, and Fuji Kiseki and I gave chase. In the end, we all collapse from exhaustion."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship gathers all the equipment and ingredients for yakisoba in a flash."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've come for yakisoba. I hear this place serves the good stuff."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You heard right, my friend! So just one… no, two of you today?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oohhh, dat's one nice-lookin' pan ya got dere. And dat stove looks like it could put out some real heat!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Naniwa's gutsiest's got a cravin'… I got high hopes for dat yakisoba, Golshi!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Sorry, but I got no words to say to either of you."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "My frying pan does all the talkin'. That's the vow I made when I chose this life five minutes ago!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship deftly fries up the noodles like a real pro!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "OHHH YEEEAAAHHH!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa… Her form's darn near flawless! Da way she flips da noodles… She's steamin' off all dat excess water so's dey don't get soggy!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…This isn't good, Tama. For the first time in my life, I fear… I may drool!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Da heck's up wid dis?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…Dis here flavor, I can't put it inna words… Nothin'll do it justice!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Seconds, please!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Heh… Well, maybe dat'll do."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tamamo, does that mean…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, yer legit! Naniwa's soul lives in ya! The title of ultimate yakisoba fryin' Umamusume is all yers!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tamamo! Thank you so much!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Um… Seconds please…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship's yakisoba is so good that all of life's little problems seem to melt away with one bite."
+        }
+    ]
+}

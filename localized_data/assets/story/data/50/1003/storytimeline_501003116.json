@@ -1,0 +1,250 @@
+{
+    "title": "地VS天",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As the spring Tenno Sho draws near, Tokai Teio throws herself more and more into training."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Huff… Huff…</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "How'd I do? Did I get a faster time?!",
+            "choice_data_list": [
+                "You're guaranteed to win at this rate!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heck yeah! You just wait—I'll prove I can dominate in senior year too!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha, you seem hard at work."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah! Prez!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The Tenno Sho is almost here. How are you feeling?",
+            "color_text_info_list": [
+                "Tenno Sho"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm feeling amazing, of course!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've made it all the way to senior year now, so I can't go messing up at this point!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah… Bold as brass, and working hard to achieve your goals."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "With your classic year over, I look forward to seeing what kind of performance you'll show us next."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe! Then don't be shocked when I blow your expectations out of the water!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Huh? What's with the crowd?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My apologies, but I'm in the middle of training."
+        },
+        {
+            "name": "Reporter A",
+            "text": "All we need is a quick comment on your upcoming Tenno Sho challenge!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "At least tell us how you're feeling!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I would be happy to during a press conference, but for now I must take my leave."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I must push myself even harder!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Aah?! Miss McQueen!",
+            "color_text_info_list": [
+                "McQueen"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A group of reporters, it seems… They really should know better than to meddle in a racer's training."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She could've just answered a few questions…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well… there was a time when she would have readily indulged them for such a simple affair."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now, however, that is not the case. There has been a monumental shift inside her."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Take note, Teio. When you face her on the track, victory will not come easily."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Really? I mean, sure, I know she's a tough opponent and all…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But I'm training just as hard as she is! We're <i>both</i> giving it our all!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "In fact, lemme show you right now just how powerful I've become!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Keep your eyes on me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "\"Just as hard,\" huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several days later…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A press conference is held for the spring Tenno Sho participants."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Though you're in your senior year now, there's a lot at stake in this race. How do you feel?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I feel like a winner already! My legend is gonna continue through my senior year!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Mejiro McQueen is a competitor you'll need to look out for. What are your thoughts on her?",
+            "color_text_info_list": [
+                "Mejiro McQueen"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm not the least bit worried! I feel like I'm the strongest I've ever been!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It doesn't matter who I'm up against, I'm not gonna lose! I could run to the ends of the earth!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Oh! You seem to be brimming with confidence!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Next up is Mejiro McQueen's interview."
+        },
+        {
+            "name": "Reporter A",
+            "text": "How are you feeling about the Tenno Sho?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I am putting everything I have into avoiding unsatisfactory results."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I must win… and I'm prepared to do whatever it takes."
+        },
+        {
+            "name": "Reporter B",
+            "text": "You seem to be going all out in your training. Do you feel like you have a handle on it?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Indeed. I sense that this is the best condition I could hope for."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm stronger than I've ever been before… I feel as if I could race to the heavens themselves."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heeey! Don't be such a copycat!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wh-what do you think you're doing?! This is <i>my</i> interview!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "How're you gonna win if you aim for the heavens, anyway?! You'd just smash straight into the ceiling of the starting gate!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's just an expression! I'm not actually going there!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Well, this is a surprise! We're already seeing sparks fly between this year's biggest competitors!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "This year's spring Tenno Sho is going to be quite the show!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ugh… So much for this interview."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're the one who started it by copying me…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In any case, I'm different than who I was before."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "They will all see my ascension. From the earth to the heavens above…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "From the earth?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The reporters seem excited to see these two clash before the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their showdown at the spring Tenno Sho is fast approaching!"
+        }
+    ]
+}

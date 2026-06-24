@@ -1,0 +1,379 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After picking up some training supplies at the shopping district, Mejiro Ardan and I are on our way back.",
+            "choice_data_list": [
+                "Thanks for coming shopping with me."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Not at all. These are all things I use regularly during training, and besides, I'm sure you're very busy, so it's my pleasure to be of assistance."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Oh? Isn't that…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my, a raffle!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's been such a long time since I last saw one! And it's quite an old-school raffle machine, isn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly remember that we received a complimentary raffle ticket when I purchased the training supplies earlier.",
+            "choice_data_list": [
+                "Do you want to have a go at the raffle?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "R-really?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But the ticket came with something that <i>you</i> bought.",
+            "choice_data_list": [
+                "Well, this shopping trip was for your benefit, too."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Hehe. Well, when you put it that way, I find myself quite tempted to see whether I can win."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Greetings, young lady! Care to try your luck?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes please, I'd like to have a go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan gives the raffle machine a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…",
+            "choice_data_list": [
+                "You did it, Ardan!",
+                "You did it, Ardan!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Um… Are the grand prizes won quite frequently?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Not at all, young lady! The grand prize is called the grand prize precisely <i>because</i> of its rarity!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh yes, of course. My apologies, I was simply so stunned that I…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Even so… is it really all right for me to accept the grand prize?",
+            "choice_data_list": [
+                "This must be karma for all your good deeds.",
+                "This must be karma for all your good deeds."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In that case… I'm equally honored and thankful."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Considering that I've been defying fate itself in an effort to leave my mark on the present… I never expected to receive such a blessing."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Your phrasing earlier implied that this win was my doing, Trainer, but the raffle ticket was yours to begin with."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As such, this coupon… should be left in your hands, don't you think?",
+            "choice_data_list": [
+                "I don't mind holding onto it, but it belongs to you.",
+                "I don't mind holding onto it, but it belongs to you."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well, since I won the grand prize using your raffle ticket, Trainer, I was thinking that it might be best if the two of us discussed how best to use it."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In this moment, I'm pinning absolutely everything on racing. I expect I'd struggle to spare the time and mental space needed to enjoy a vacation.",
+            "choice_data_list": [
+                "All right, I understand."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "When the time is suitable… let us discuss how best to utilize this travel coupon."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The first prize?! To think that I'd have such luck playing a raffle on a whim…",
+            "choice_data_list": [
+                "You did it, Ardan!",
+                "You did it, Ardan!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Yes."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "All things considered, though, this is a very generous serving. And it's not simply an enormous portion either—it's been cooked to perfection as well…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I wonder how one might best savor this dish.",
+            "choice_data_list": [
+                "It looks delicious.",
+                "It looks delicious."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer… would you like to partake of this hamburger steak with me later?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well, this all started with the raffle ticket you received with your shopping. I merely used the ticket."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "One could say that we earned this prize <i>together,</i> so it follows that we should also enjoy it together…",
+            "choice_data_list": [
+                "In that case, I think I will partake."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I insist."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "With that decided, let's purchase some sauce and garnishes on our way back."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This meal's going to be a special treat, so I'd very much like to <i>present</i> it as nicely as possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later on, Mejiro Ardan and I enjoy the mouthwateringly delicious deluxe carrot hamburger steak together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I did it!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Honestly, I never even considered that I might win something."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Delighted as I am, the sheer number of carrots here is simply overwhelming.",
+            "choice_data_list": [
+                "Why don't you share them with your friends?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, of course! What a splendid idea."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "These carrots here are for you, Trainer, since you obtained the ticket. And these carrots are mine, as I won the prize. I shall give the rest of them to my friends."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm thinking of making a meal out of our combined share of carrots. What do you think?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Do any recipes that use carrots come to mind?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, after thoroughly enjoying the carrot dish Mejiro Ardan makes, I feel greatly revitalized and ready to take on tomorrow!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, I won something."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "What a lovely carrot. One can tell it was grown with painstaking care and attention. In fact, I expect it would taste quite wonderful as is…",
+            "choice_data_list": [
+                "Why not eat it right now then?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Wouldn't that be a little uncouth?",
+            "choice_data_list": [
+                "Just think of it as a quick snack.",
+                "Just think of it as a quick snack."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. \"A quick snack,\" you say?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I must admit, that does sound fun."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, of course. Seeing as one doesn't get to see a carrot of this caliber every day, would you like to share it with me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, on our way back, Mejiro Ardan and I enjoy the delicious carrot together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh… It's a consolation prize…",
+            "choice_data_list": [
+                "That's a shame…",
+                "That's a shame…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Only receiving the consolation prize is… unexpectedly disheartening."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I suppose one can't help but feel suddenly optimistic as one pulls the raffle lever. This has been a great learning experience."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for allowing me to partake in the raffle, Trainer. Considering how rare an opportunity this was, I was hoping to win something we might share…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I apologize for having failed to make that a reality.",
+            "choice_data_list": [
+                "It's totally fine. You don't have to apologize."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Shall we head back?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she doesn't say or show it, I can tell Mejiro Ardan feels a little dejected…"
+        }
+    ]
+}

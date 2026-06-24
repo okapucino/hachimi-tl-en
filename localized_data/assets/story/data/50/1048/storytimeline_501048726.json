@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Tosen Jordan…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh! Those are Cuties, right? Holy crap, they're cute! Wow! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "She points toward a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "You like Cuties?",
+                "You like Cuties?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I wouldn't say I <i>like</i> like them or anything, but it could be cool to have a plush version of City."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Imagine if I put it next to one of me… I can't. It would be too cute to handle. That'd give me life."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But I'm no good with this kind of thing. Yeah… I better not. Once I'm hooked, I can say goodbye to my spending money, and there's some lipstick I wanna buy this month."
+        },
+        {
+            "name": "Monologue",
+            "text": "She says that, yet Tosen Jordan's eyes keep flicking toward the machine. I have a feeling she won't be able to hold back, so…",
+            "choice_data_list": [
+                "Okay, I got this!",
+                "Okay, I got this!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For real? No offense, but you don't seem like you'd be any good at it. But, meh, if you insist."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ooh, I'm gonna take a vid. Don't embarrass yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

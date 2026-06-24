@@ -1,0 +1,158 @@
+{
+    "title": "After the Debut: Bring the Brat",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Huff… Puff…</i> Aghhh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(Oh, it's just so, <i>so</i> irritating! That was the real deal, and I couldn't concentrate at all!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(That was supposed to be my chance to find a new spell! This is no fun at all! It's just really, really annoying!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(I hate this!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, Sweep Tosho is rather irritated. The silent pressure seems to have gotten under her skin."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Sweep Tosho! I'm sorry to bother you right after a race, but may I have a word?",
+            "choice_data_list": [
+                "Not right now—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Don't speak for me! I can make my own decisions!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "My! Um… W-would it be better to interview you another time?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We can do it now. What's your question?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh, well, thank you very much. In that case, I'd like to ask about your next goal."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…It's the Hanshin Juvenile Fillies.",
+            "choice_data_list": [
+                "…!"
+            ],
+            "color_text_info_list": [
+                "Hanshin Juvenile Fillies"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a junior G1 held at Hanshin Racecourse. It's also a mile race, so it's well-suited to her.",
+            "choice_data_list": [
+                "(…I wonder if she's already looked into it.)"
+            ],
+            "color_text_info_list": [
+                "junior",
+                "G1"
+            ]
+        },
+        {
+            "name": "Reporter B",
+            "text": "You're going straight for a G1?! You must really be looking for a challenge…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Haha. Well, you are at that age when people start wanting to showcase who they are. That said, Sweep…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "I believe this is your first interview, so I'm just going to give you a little advice. Instead of answering with one or two words, we'd appreciate it if you could share a little more with us."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Yeah. It's cuter if you smile and speak more cheerfully."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt… Bzzzt…</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Who could that be at a time like this?!"
+        },
+        {
+            "name": "Sweep's Father",
+            "text": "Hey, Sweepy! Make sure you get plenty of rest today! Try and get used to going to bed even when you want to—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Beep! Click…</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Grrrrr!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Every single person has been telling me what to do all day long!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I can't stand it! I'm not even gonna race anymore, so just leave me alone!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Staff",
+            "text": "Um… Sweep? It might be best for you to head home…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm not going home! I'm not moving an inch from this spot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She bolts herself to the spot, but after refusing to budge for some time, her eyelids start to droop, and she falls fast asleep."
+        },
+        {
+            "name": "Monologue",
+            "text": "While grappling with the major issue of how to interact with her going forward, I start to think about her next goal.",
+            "choice_data_list": [
+                "She did mention the Hanshin J.F.",
+                "She did mention the Hanshin J.F."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Since she brought it up herself, I decide to make the Hanshin J.F. her next goal for now."
+        }
+    ]
+}

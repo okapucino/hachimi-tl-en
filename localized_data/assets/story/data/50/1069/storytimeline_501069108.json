@@ -1,0 +1,275 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Spring Fan Fest is here, and ardent fans from far and wide have flocked to Tracen Academy to glimpse this year's active Umamusume."
+        },
+        {
+            "name": "Umamusume Host",
+            "text": "The final round of the 34th annual speed-eating grand prix is underway! Our last food for the contest is taiyaki!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me…"
+        },
+        {
+            "name": "Umamusume Host",
+            "text": "Oh, it's Oguri Cap! Her presence is as overwhelming as ever—could she be signaling she's finished her portion already?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've run out of tea. Do you know where I might be able to get some more?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "This dessert is delicious, so it would be a shame not to enjoy it with some warm tea…"
+        },
+        {
+            "name": "Umamusume Host",
+            "text": "And Oguri Cap has walked off! Does she not understand what the goal of the contest is?!"
+        },
+        {
+            "name": "Umamusume Host",
+            "text": "First place is in sight for Super Creek! …But wait! Another Umamusume is surging forward toward the top spot!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Come on, this is no time to be givin' up!"
+        },
+        {
+            "name": "Umamusume Host",
+            "text": "And the win goes to Inari One! Oguri's iron stomach has finally met its match!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ngh… Heh… Witness the power… of Edo…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Inari, stay with us! It's Mommy. Can you hear me?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "…No. You're not my mommy…"
+        },
+        {
+            "name": "Fan A",
+            "text": "That was a good contest! I never thought Oguri Cap would lose!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Haha! Yeah! That Inari is pretty strong—I heard she's gonna run in the Takarazuka Kinen too! …Ouch! Hey, you're stepping on my foot!",
+            "color_text_info_list": [
+                "Takarazuka Kinen"
+            ]
+        },
+        {
+            "name": "Fan C",
+            "text": "Ack! I'm sorry! Did I hurt you?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Th-this place is packed! I can't believe how popular the Top Three are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"The Top Three\"—Oguri Cap, Inari One, and Super Creek."
+        },
+        {
+            "name": "Monologue",
+            "text": "Skilled and powerful, it's no wonder they're popular, both here at the Fan Fest and in general."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Perhaps gluttony is the secret to their strength…",
+            "choice_data_list": [
+                "What kind of reasoning is that?",
+                "What kind of reasoning is that?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Well, you know what they say! Hunger rests for no one! Maybe there's another contest that's still looking for participants!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Register here for the Trainer and Me Eating Contest!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's perfect!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow… I see… This sure is a lot…"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the table in front of us is a mountain of hot dogs."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "The current record is fifteen! And we're offering a special edition Tracen Academy miniature car to anyone who can break it!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh… That's a nice prize…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprised by Sakura Chiyono O's unusual interest, I prepare to start eating hot dogs.",
+            "choice_data_list": [
+                "If it's only fifteen, I guess we might be able to break the record…"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sounds like a plan! Let's aim for sixteen plates of hot dogs then!",
+            "choice_data_list": [
+                "Sixteen <i>plates?!</i>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes. They count the number of plates after you finish, and each plate has ten hot dogs."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If we want to break the record, we'll need to eat more than fifteen plates… So we've gotta aim for 160 hot dogs!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I can probably eat about 150 hot dogs of this size, so you just need to eat ten, please and thanks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The gong to start rings…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Chomp! Munch!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ngh… Hm?! Urgh…",
+            "choice_data_list": [
+                "(…Hm?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I look to my side to see that Sakura Chiyono O has ground to a halt. She's staring intently at the plates with a strained expression.",
+            "choice_data_list": [
+                "Chiyono O? Are you okay?",
+                "Chiyono O? Are you okay?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh. Haha… I'm fine… Just… forty hot dogs… to go…",
+            "choice_data_list": [
+                "You don't look so hot…"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I can do it… After all… I usually eat… way more than this…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hurgh!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Whew. See? I'm perfectly… fine…",
+            "choice_data_list": [
+                "I'm pretty sure you're not!",
+                "I'm pretty sure you're not!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Heh. Hehe… Urk…",
+            "choice_data_list": [
+                "Excuse me! We give up!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see any option but to quit. I stop Sakura Chiyono O from eating any more and rush her to the infirmary."
+        },
+        {
+            "name": "Monologue",
+            "text": "The gong to start rings…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Chomp! Munch!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whew! I'll leave the rest to you, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a satisfied look on her face, Sakura Chiyono O gives the remaining hot dogs to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've managed to eat eight hot dogs myself so far, which means there are only…",
+            "choice_data_list": [
+                "Why are there still twelve left?!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ehehe…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "S-Sorry! I'm just so full… I can usually eat so much more than this…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Urgh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Judging by the look on Sakura Chiyono O's face, she's already gone past her limit. And if that's the case, there's only one thing I can do…",
+            "choice_data_list": [
+                "I got this!",
+                "I got this!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Go, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Encouraged by Sakura Chiyono O's enthusiastic cheering, I somehow manage to keep shoveling hot dogs into my mouth."
+        },
+        {
+            "name": "Monologue",
+            "text": "And finally…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "There you have it, folks! Sakura Chiyono O and her trainer have broken the record! Here's your prize!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow! Thank you so much! Aw, it's a little sedan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing the smile on Sakura Chiyono O's face, I promptly pass out."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Omigosh! Trainer?! Traineeer!"
+        }
+    ]
+}

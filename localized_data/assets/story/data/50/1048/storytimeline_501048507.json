@@ -1,0 +1,93 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, a letter from a fan arrives for Tosen Jordan."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No way! A fan letter, for me?! It's like I'm already a star!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hehe, this is, like, so embarrassing. I wonder what they wrote…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Sorry, I'm outtie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "About thirty minutes later, Tosen Jordan returns, humming to herself."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I splurged a little! New lip color, some glittery nail polish. And what else…",
+            "choice_data_list": [
+                "You went shopping?",
+                "You went shopping?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh, yeah! I bought so many cosmetics! I just couldn't help myself."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, the person who wrote the fan letter?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "They said I sparkle!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So, like, if that's how my fans see me, then I seriously can't slack off with my makeup!",
+            "choice_data_list": [
+                "I don't think that's what they meant by \"sparkle\"…"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? What do you mean?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Tosen Jordan that I suspect they meant she sparkles when she's working hard."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For real? And that's a thing?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Nah! I'm <i>pretty</i> sure they were complimenting my beat face!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, you know my nails and makeup are, like, high-key what I'm known for, right?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Some people say I'm too flashy, but <i>whatever!</i> Like I care what they say."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "This is who I am! I'll show the fans who support me how much I really sparkle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Speaking with her head held high, Tosen Jordan certainly does seem to be shining bright."
+        }
+    ]
+}

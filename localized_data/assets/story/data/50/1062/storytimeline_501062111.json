@@ -1,0 +1,265 @@
+{
+    "title": "Food, Tears, and a Star",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After three years of racing in the Twinkle Series, things have finally settled down. One early afternoon…"
+        },
+        {
+            "name": "Woman A",
+            "text": "It's precisely because she's so ordinary that seeing her win is so motivating!"
+        },
+        {
+            "name": "Newscaster",
+            "text": "Matikanetannhauser's victory in the Arima Kinen has served as a moment of inspiration for countless people."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser drops by my office while I'm watching the news."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey! Wanna come to my hometown with me?",
+            "choice_data_list": [
+                "Sure, but isn't this is a bit sudden?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe, well, my parents and I were just talking about having a picnic."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Since they're going to be making plenty of food, I thought you might wanna tag along!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmmm… I'm sure this is where we're suppose to meet up…"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "Oh, there she is! Tannhauser!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A couple carrying a multitiered lunch box is heading our way, waving all the while."
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "Sorry we're late, but it took a while to prepare everything. Nice to meet you. I hope Tannhauser hasn't been giving you too much trouble."
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "Hehe. Ever since she told us she'd be bringing along someone special, I haven't been able to sit still."
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "We pulled out all the stops with this meal, so I hope you enjoy it.",
+            "choice_data_list": [
+                "It's nice to meet you both. And thank you. I can't wait to try it."
+            ]
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "…I have to say I'm surprised, though!"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "How did you ever find such an upstanding <i>partner,</i> Tannhauser?! Way to go!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "H-huh?! What, no! This is my trainer!"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "Your trainer?! Oh… silly me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Misunderstandings resolved, we decide to search for a good picnic spot."
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "I wanted to bring some boiled shark fin, but I just couldn't get the flavor up to snuff. Apologies, but the sides are all rather ordinary today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser's father lays out each tier of the lunchbox, and it looks like exactly what you'd expect from a famous restaurant!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wooow! Isn't this incredible, Trainer?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hamburger steaks, fried shrimp, big rolls of sushi, simmered vegetables, rolled omelets…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "These are all super popular at our restaurant! Mom, Dad, thanks a lot!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Everything is even more incredible than I imagined. I feel like I'm starting to understand where her unusually broad definition of \"ordinary\" comes from."
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "Still, Tannhauser's always had a tendency to trip up at critical moments."
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "One time, she got selected for an interschool Umamusume relay and worked herself so hard she ended up with a fever on the day of the race."
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "One Labor Day, she wanted to cook for us, but ended up spending all of her allowance making the practice dishes."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "H-hey! Let's not go digging up the past!"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "But… that's exactly why we were so happy when we watched the Arima Kinen."
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "You pulled off the win, and everyone in the stadium was cheering so loudly!"
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "Ahhh, we were bawling our eyes out. You did great, Tannhauser."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, you two…"
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "Thank you for supporting our daughter and helping her reach great heights."
+        },
+        {
+            "name": "Tannhauser's Father",
+            "text": "She might not be the flashiest girl around, but she's our little treasure…"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "We're just so happy we got to see her shine brilliantly like that. So many people said that they look up to her."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "M-mommy… Daddy… <i>Sob!</i>"
+        },
+        {
+            "name": "Tannhauser's Mother",
+            "text": "Eat as much as you like today! <i>Sniff!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them continue eating while tears stream down their faces. Watching them, I can feel the deep love that Matikanetannhauser's parents have for her."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew! I'm stuffed! That was delicious."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Still, I never expected I'd be crying so much today.",
+            "choice_data_list": [
+                "Really? I figured you for a regular crybaby."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No way! I normally cry an ordinary amount! I just got really emotional talking about the good old days…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Anyhoo, that was great! Mom and Dad were sooo happy for me."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…Thank you so much, Trainer.",
+            "choice_data_list": [
+                "You know, it's all thanks to your hard work.",
+                "You know, it's all thanks to your hard work."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No, I couldn't have done any of this alone. Ahaha."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks for sticking with me, even though I always flub it when it counts."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You're the one who believed in me and taught me what's important."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You gave me the strength to keep moving forward. That's why… Yeah, that's right."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You've been my star these past three years."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…Just teasing."
+        },
+        {
+            "name": "Monologue",
+            "text": "She says that, but she also looks like she meant it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So, uh… I'm probably still going to mess up a whole lot. I'll probably catch a cold on the day of a big race or something."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But I can't imagine doing all of this with anyone else. So…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Will you stay by my side?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe, I'm so happy…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thank you, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser bows her head slightly, looking just a tad more timid than usual."
+        },
+        {
+            "name": "Train Conductor",
+            "text": "The doors are closing. The next stop is…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Agh! We missed our stop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, my days alongside the ordinary, slightly clumsy, yet hardworking Matikanetannhauser are set to continue."
+        }
+    ]
+}

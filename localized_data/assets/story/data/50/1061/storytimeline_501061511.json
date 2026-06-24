@@ -1,0 +1,191 @@
+{
+    "title": "キングは疲れ知らずよ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm discussing the day's training schedule with King Halo, a sudden noise interrupts me."
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thunk!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "OUCH!!! Geez, that hurt!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having banged her own head on the desk, King Halo appears angry at herself.",
+            "choice_data_list": [
+                "Dozing off?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "O-of course not! I was just practicing headbutting!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Anyway, we need to be focusing on today's training plan!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…So where were we again?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I knew it. She fell asleep in the middle of our conversation.",
+            "choice_data_list": [
+                "You seem pretty tired.",
+                "You seem pretty tired."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Gosh, there's no need for your concern."
+        },
+        {
+            "name": "King Halo",
+            "text": "Well, I <i>did</i> add a little bit of personal training to my schedule…"
+        },
+        {
+            "name": "King Halo",
+            "text": "But only second-rates would admit defeat this early!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I shall endure the pain, overcome the hardships, and better myself! Ohohoho!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Seeing as you're my trainer, I expect you to be on the same page. Now then, let's get to training!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Goodbye to the old me, hello to the new me! Victory is calling my name!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, what kind of training will it be today? Let's go over it one more time!",
+            "choice_data_list": [
+                "Today's plan is to take a nap on the grass.",
+                "We're doing some light training today."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Excuse me? I believe I told you that this level of fatigue is no problem at all.",
+            "choice_data_list": [
+                "Shh, just come with me for a minute."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, come on! I've already prepared myself to start running!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You want me to lie down here and take a nap?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Very well, then. I suppose even if I don't actually fall asleep, relaxing still has its benefits."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll resume training after the short break, understood?"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> But I suppose it's not so bad lying down and gazing at the sky like this. Hehe…"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Zzz… Zzz…</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "King Halo",
+            "text": "I-I wasn't sleeping, you know! I was just relaxing! For an extended period of time!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Tomorrow, I'm going all out! I need to make up for today's lost time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following her deep sleep, King Halo is brimming with energy and motivation."
+        },
+        {
+            "name": "King Halo",
+            "text": "What?! Didn't I just say that only second-rates give up this early?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Being first-rate means never giving up! It means moving forward even when the going gets tough!",
+            "choice_data_list": [
+                "I understand, but let's try it and see how it goes."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh.</i> Fine, but if I feel this isn't enough, then I'm taking matters into my own hands."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "This should feel… far less strenuous… than usual… but my body won't move…",
+            "choice_data_list": [
+                "This is just right, considering how tired you are.",
+                "This is just right, considering how tired you are."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I mean, ohohoho! Don't go getting the wrong idea about all this!"
+        },
+        {
+            "name": "King Halo",
+            "text": "This was a test! That's right, a test! To make sure you won't let your trainee behave recklessly!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You assigned me training that was appropriate for my condition… Quite a fine response. I present you with a passing grade!",
+            "choice_data_list": [
+                "I'm glad I passed.",
+                "I'm glad I passed."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! And with that, I am done for the day!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Phew. I'm quite ready for a rest…"
+        },
+        {
+            "name": "Monologue",
+            "text": "This light dose of training proved to be more than enough for King Halo today."
+        }
+    ]
+}

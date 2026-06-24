@@ -1,0 +1,210 @@
+{
+    "title": "デビュー戦の後に・ぐるぐるばったん",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "I made it! This isn't a dream—I actually made my debut!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I got through the starting gate, and I didn't run into the rails, and look—I'm so energetic!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I could… could… c-c-c-c—Caaaagh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Doto, what has come over you?! Doto! Dotooooo!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "…To be continued!",
+            "choice_data_list": [
+                "No! Call an ambulance!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wee woo wee woo…</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ohhh… I'm sorry for causing all this trouble."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Geez, I nearly jumped out of my socks after hearing what happened. I'm glad it's nothing serious."
+        },
+        {
+            "name": "Monologue",
+            "text": "The examination doesn't reveal any serious injuries. However…"
+        },
+        {
+            "name": "Doctor",
+            "text": "We can scratch exhaustion and anemia off the list. Simply put, your collapse wasn't caused by fatigue."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? Then… why did I faint?"
+        },
+        {
+            "name": "Doctor",
+            "text": "While this isn't common by any means, my conjecture would be…"
+        },
+        {
+            "name": "Doctor",
+            "text": "Your body, perhaps, has yet to enter the \"race-ready\" state.",
+            "color_text_info_list": [
+                "race-ready"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "\"Race-ready…\" Isn't that…"
+        },
+        {
+            "name": "Physician",
+            "text": "Ahem… Allow me to explain the specifics of the \"race-ready\" state."
+        },
+        {
+            "name": "Monologue",
+            "text": "Stepping out from behind the doctor, a female physician takes over the conversation."
+        },
+        {
+            "name": "Physician",
+            "text": "When an Umamusume reaches a certain stage of adolescence, their body begins developing rapidly."
+        },
+        {
+            "name": "Physician",
+            "text": "We refer to that period of growth as becoming \"race-ready.\""
+        },
+        {
+            "name": "Physician",
+            "text": "This is the moment the athlete within awakens, eventually reaching the peak of their capabilities. Afterwards, this peak will eventually weaken over time."
+        },
+        {
+            "name": "Physician",
+            "text": "It's important to know when an Umamusume has begun her race-ready development. The challenge is, it cannot be objectively diagnosed."
+        },
+        {
+            "name": "Physician",
+            "text": "The only diagnostic method is essentially instinct—the athlete themselves will have to sense a certain change."
+        },
+        {
+            "name": "Physician",
+            "text": "For instance, your body may feel unusually light, you develop a very strong appetite, and you're now able to do things that were impossible for you before."
+        },
+        {
+            "name": "Physician",
+            "text": "If you experience any change like this during your growth, then it's very possible you've entered the race-ready stage."
+        },
+        {
+            "name": "Physician",
+            "text": "One method to confirm this for yourself is by entering a tryout race."
+        },
+        {
+            "name": "Physician",
+            "text": "Usually, once an Umamusume has confirmed for herself that she's in this period of growth by assessing her tryout performance, she'll enter into an agreement with a trainer."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "If I want to know I'm race-ready… I should join a tryout."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I feel like I already have. I mean… I should have…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I did… race in a tryout, right, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think back to when I first met Meisho Doto, but..",
+            "choice_data_list": [
+                "…You didn't!",
+                "…You didn't!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Whaaat?! Oh, why am I such an <i>airhead?!</i> I skipped tryouts and went straight to my debut!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry, I'm sorry, I'm so sorry, Trainer…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I've really screwed things up. Maybe I did well in my debut… but maybe that won't continue in the future, nnngh…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "There, there, Doto… It's not that bad of a situation."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "This just means… My only choice now…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nooo, don't panic! Quitting is the absolute last thing you should—"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'll do my best! Little… by little…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Huh?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Since I'm not race-ready, I can't go headfirst into big races, but if I run in smaller ones…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I may be a lost cause, it may be impossible, but if I work my way up, step by step…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Then maybe, at the very least, people will recognize me as a runner you've trained. Is… that okay?",
+            "choice_data_list": [
+                "Of course it is!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When it comes to not giving up, she's a league above the rest. We decide to hold back until her body appears ready."
+        },
+        {
+            "name": "Physician",
+            "text": "Well, never count out the possibility of a surefire solution. It juuust might solve your worries!"
+        },
+        {
+            "name": "Physician",
+            "text": "And now… to unveil my disguise! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwoop!</i>"
+        },
+        {
+            "name": "Physician",
+            "text": "How about a quick poke? One for the road?",
+            "choice_data_list": [
+                "No, we're good."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Leaving the strange \"physician\" lady aside, we decide to build up our racing experience gradually. If Meisho Doto increases her number of fans, her confidence should undoubtedly follow."
+        }
+    ]
+}

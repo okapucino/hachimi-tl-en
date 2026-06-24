@@ -1,0 +1,26 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Yawn…</i> Morning, Trainer…",
+            "choice_data_list": [
+                "Someone looks sleepy.",
+                "Someone looks sleepy."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehe. I accidentally stayed up late watching a music show. You know, it's way better watching live than a recording."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Staying up juuust a little bit for the sake of Umadol research is fine, right? ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the upbeat attitude, Smart Falcon seems extremely sleep deprived…"
+        }
+    ]
+}

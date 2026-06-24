@@ -1,0 +1,41 @@
+{
+    "title": "閃光と憤怒",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I approach the front gate of the academy, I catch a glimpse of someone rushing into a taxi and speeding away."
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Pant, pant…</i> Hey, you! Have you seen a reporter pass by?",
+            "choice_data_list": [
+                "Someone was hurrying away in a taxi."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Grrr, so they've escaped…",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That reporter was here to photograph our training, but the fool used the flash!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I explicitly forbade its usage before we started."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph. I'll call the publisher later and file a complaint."
+        },
+        {
+            "name": "Monologue",
+            "text": "After chasing down that reporter, Air Groove looks a bit worn out."
+        }
+    ]
+}

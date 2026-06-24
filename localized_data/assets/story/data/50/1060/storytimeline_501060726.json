@@ -1,0 +1,58 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Nice Nature…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey, are those… Cuties?",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I just saw the new prizes in that claw machine over there."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I saw the same one at a store in the shopping district the other day. I was pretty impressed with how popular they are."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It just caught my attention, is all. I'm not the type to like cutesy things, anyway.",
+            "choice_data_list": [
+                "I'm going to go win one.",
+                "I'm going to go win one."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What? No, it's okay, really!",
+            "choice_data_list": [
+                "I want to get one.",
+                "I want to get one."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You want one that badly? You have interesting taste."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I'll be here watching. Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

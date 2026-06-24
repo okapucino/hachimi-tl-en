@@ -1,0 +1,40 @@
+{
+    "title": "Claw Machine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Manhattan Cafe…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Th-that claw machine…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Manhattan Cafe's gaze to find a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "I could get you one if you want."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You could? …Thank you."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "With a cute plushie like that, I won't have to worry about it suddenly growing its hair out…",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, nothing. Just something from the past… Anyways, do your best."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

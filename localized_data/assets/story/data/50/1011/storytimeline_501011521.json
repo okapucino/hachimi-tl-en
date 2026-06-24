@@ -1,0 +1,34 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, good morning, Trainer… <i>Yaaawn…</i>",
+            "choice_data_list": [
+                "Someone's sleepy.",
+                "Someone's sleepy."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, you see… El was talking in her sleep last night, and I couldn't help but be a little curious…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "She must've been having the buffet of her dreams, because she kept calling out things like \"a la plancha\" and \"gazpacho.\""
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's incredible how she can muster that much energy even while sleeping…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So you see, I didn't catch a wink all night… <i>Yawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Grass Wonder needs more sleep."
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm in the camp lodge getting some work done while the racers are out on break."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see you're hard at work, Trainer. Are those all adjustments to my regimen?",
+            "choice_data_list": [
+                "Yep. It's important to make the best out of the season.",
+                "Yep. It's important to make the best out of the season."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… I appreciate your consideration."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "By the way, are you staying hydrated? Would you like a glass of sweetened barley tea?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I know what you're thinking: sugar, in barley tea? Surprising, I know… but it works well."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Please, have some, and we can relax for—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Relax?! Nuh-uh!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Not when you and I have a score to settle, Grass!",
+            "color_text_info_list": [
+                "Grass"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh… El… What has gotten into you all of a sudden?",
+            "color_text_info_list": [
+                "El"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The power of el sol! The crashin' waves onto la playa! They call to me!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "In other words, your excitement has bubbled over, and you want me to help you burn off the excess energy?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's one way to put it!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Let's do this, Grass! A fight! A competition! I need some kinda challenge!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmmm… But this is so sudden…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder's smile seems forced, but this is a chance to face a rival who will be racing against her in the Japan Cup."
+        },
+        {
+            "name": "Monologue",
+            "text": "She might learn something useful. With that in mind…",
+            "choice_data_list": [
+                "How about a game of beach flags?",
+                "How about a battle of endurance?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So, a race to grab a flag stuck in the sand?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "A proper activity for some beach-time fun! Let's do it! Ándale! Ándale!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Be reasonable, El. You can't just up and start—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh? Chickenin' out, Grass?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Well, you always were one of them \"take it slow\" types. Can't blame ya for turnin' tail when the goin' gets tough!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Talk all you want. Your cheap little taunts won't be getting under my skin."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'll humor you for one round, and one round only. So I hope that makes you happy."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, a one-off beach flag match gets underway."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoooosh!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whaaa?! Q-qué rápida!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… Have I ever told you?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I've dabbled in the sword-drawing art of iaido, so I have a bit of confidence in my reaction time. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, due to El Condor Pasa's constant requests for a rematch, Grass Wonder ends up taking her on several more times with a confident smile."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So… if I've understood you correctly, there's a challenge to eat piping hot food with the AC off?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahahaha! Trainer, that's a death wish."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I guess you don't know. Grass might not look it, but she hates the heat!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Like right before bed when it's super humid and hot, sometimes her tummy—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "El?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Huh?! I-is it just me, or did it suddenly get kinda chilly?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehehe… Thank you for the wonderful suggestion, Trainer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "However, we are Umamusume. We settle things with our legs. Therefore…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Why don't we have a race, El? ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It'll help you work off aaaall that excess energy."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "HYAAAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All in all, getting to run alongside El Condor Pasa seems to have been a fruitful experience for Grass Wonder."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that night, I return to the beach to find…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nghh… I went a bit overboard this afternoon… I'm gonna be sore tomorrow.",
+            "choice_data_list": [
+                "You did great, El Condor Pasa."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ah, Grass's trainer! Buenas noches."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Gracias for the suggestion earlier! It was the release I really needed!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But I think I ran my tank too dry…",
+            "choice_data_list": [
+                "You and Grass seem like good friends.",
+                "You and Grass seem like good friends."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Haha! Do we?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I tell ya, though. Back when we first met…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I thought she was a snooze fest 'n a half!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It was durin' the entrance exam for Tracen Academy.",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "First we all had a once-over to gauge our potential. Then it was time to race…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But me? I was bored outta my mind."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "(Hmmm… I know it's just the entrance exam, but I thought Tracen Academy'd be more, I dunno, challengin'?)"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "(Like, more passion, more flair. More KA-BOOM! …That's what I'm after.)"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Excuse me. Might you be El Condor Pasa, by any chance?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué? Ah, yep! That's me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You and I have been assigned to the same racing block. My name is Grass Wonder."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Even chance meetings are predetermined. May we both have a fruitful race."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'll see you on the track."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Uh-huh, ditto…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And that was all! Can ya believe it?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We were right before a race! A big one, with our careers on the line!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But she's all lackadaisy 'n smilin'. Where's the fire? Where's the drive?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Talk about a letdown. Why do I gotta run with this snooze fest, ya know?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But then…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Fly! Soar! INTO THE SKYYYY!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wow, look how long her stride is! She did crazy good on the other tests too, but this—this is on a whole 'nother level!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "She's not the only one."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huh? What do you mean?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Weren't you paying attention in the fitness test? The one who really put us all to shame was…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Haaah!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "…?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I could tell she was different."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Her form, her aura, her guts! Grass was nothin' like the rest!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Durin' the race, I'd get the lead, she'd take it, then me again, back and forth. Finally endin' in a tie."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It was my first taste of it, the burnin' desire beneath that mellow grin."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I was shakin' in my cleats."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's when I knew!",
+            "choice_data_list": [
+                "Knew what?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Heh!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That if I wanna prove myself the world's strongest racer, I've gotta beat Grass Wonder at her best."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm gonna take her down head-on when she's givin' it her all!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And then everyone'll see that no one's faster than the one, the only… El Condor Pasa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see the determination burning in El Condor Pasa's eyes."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It's gotta be me."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I swear I'll have those gentle blue eyes <i>boiling</i> as she watches me tear down the turf!",
+            "choice_data_list": [
+                "…El?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oops! I said a little too much there!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'll fill ya in later, after the startin' gate opens!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Adiós… 'Til the Japan Cup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, El Condor Pasa runs like the wind into the night."
+        }
+    ]
+}

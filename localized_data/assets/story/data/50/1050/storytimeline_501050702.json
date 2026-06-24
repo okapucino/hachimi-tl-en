@@ -1,0 +1,236 @@
+{
+    "title": "『bg』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm gonna head back now.",
+            "choice_data_list": [
+                "Already?!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What? There something you wanted to do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's not it, but I'm taken aback by her coldness toward me despite having spent the whole day together.",
+            "choice_data_list": [
+                "Did you not have a good time today?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What do you mean? It was fine.",
+            "choice_data_list": [
+                "I wanted you to have fun…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, ease off already. That's for me to decide."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whether or not I have fun is none of your business."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "We done? I wanna go home already."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A new weapon comes out today. I gotta check it out ASAP."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that I can't force her to have fun, but I really want her to feel glad that she came out today.",
+            "choice_data_list": [
+                "Then I'll just bring the fun to you!",
+                "Then I'll just bring the fun to you!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? I have absolutely no idea what you're talking about.",
+            "choice_data_list": [
+                "I want to see you smile.",
+                "I want to see you smile."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Tch."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You're an idiot."
+        },
+        {
+            "name": "Monologue",
+            "text": "I expect her to leave after insulting me, but she doesn't. It seems like she's waiting for my next move."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she likes gaming, maybe I should suggest some kind of game we can play. That would surely keep her entertained!",
+            "choice_data_list": [
+                "Let's play the rhyme game!",
+                "Let's play tag!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What am I, a child? No way."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why did I even stay? I should've just left…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was a total flop. She looks beyond unimpressed, but I can't let this chance slip away!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…",
+            "choice_data_list": [
+                "Rhyme!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…",
+            "choice_data_list": [
+                "Time!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you seriously playing by yourself? Do you have any shame at all?",
+            "choice_data_list": [
+                "Shame, shame… Fame!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Siiigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I struggle to keep the game going by myself while she pointedly ignores me.",
+            "choice_data_list": [
+                "Mustard!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Seriously, will you knock it off already?"
+        },
+        {
+            "name": "Baker",
+            "text": "Welcome! We've got some freshly baked pastries and desserts of all kinds! Come and take a look! ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, they even have custard…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ack! N-no, I didn't mean to say that!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I wasn't playing your stupid game! I was just looking at the custard pastry!",
+            "choice_data_list": [
+                "Ohhh! I said \"mustard\" and you followed up with \"custard\"!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wait, are you telling me you didn't even notice?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Arrgh! Me and my big mouth!",
+            "choice_data_list": [
+                "So you <i>do</i> want to play!",
+                "So you <i>do</i> want to play!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I <i>don't,</i> and I wasn't playing with you! Ugh, wipe that dumb smile off your face!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Seriously?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You really think you're a match for me?",
+            "choice_data_list": [
+                "I might be able to catch you if I try really hard?",
+                "I might be able to catch you if I try really hard?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why would you suggest a battle you can't win? You could've said literally any other game.",
+            "choice_data_list": [
+                "I wanted to play something you would enjoy."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You make it sound like I'm some hyperactive kid…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whatever. You asked for it."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, see ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "Whoa! I have to catch up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately for me, Umamusume are fast even when they're not trying. No matter how hard I run, there's no way I can catch her…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Still no sign of my dumb trainer."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Psh… There's no way a regular person could stand a chance against me. How'd I get stuck with the world's stupidest trainer?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "And what was that whole thing about wanting to see me smile? What a weirdo."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I probably should have waited instead of sprinting off so fast…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What am I even saying? This is ridiculous."
+        }
+    ]
+}

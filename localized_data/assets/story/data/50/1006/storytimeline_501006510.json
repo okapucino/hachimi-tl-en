@@ -1,0 +1,217 @@
+{
+    "title": "迷いウマ娘",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While doing some shopping at the mall on my day off, I spot Oguri Cap and Tamamo Cross having a look around."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, Trainer.",
+            "choice_data_list": [
+                "Are you two doing some shopping together?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hehehe, sure are. But it's no ordinary shoppin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We're takin' a trip down memory lane! C'mon, Oguri, spill the beans!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growwwl.</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…'Ey! All that tells us is how hungry ya are!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Sigh…</i> Guess I gotta explain it myself."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Apparently, there's a Kansai food fair goin' on, so us two're gonna check it out together!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What she said. So, you'll have to excuse us. Our okonomiyaki awaits."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, not so fast! What am I, your spokesperson?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "H-hey, stop! Don't charge on ahead! You're gonna get lost again, Oguri!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them leave in a hurry."
+        },
+        {
+            "name": "Monologue",
+            "text": "A short while later…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmph… This fair is farther than I thought. It feels like we've been walking for miles."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, Trainer. We meet again. What a coincidence, given how big this mall is.",
+            "choice_data_list": [
+                "Have you and Tamamo Cross gotten separated?",
+                "Have you and Tamamo Cross gotten separated?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama? No, she's… Wait. Tama?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Could this mean… Tama's gotten lost?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She might be feeling lonely. Quick, we have to find her!",
+            "choice_data_list": [
+                "Let's search the entire mall.",
+                "Why don't we try heading to the food fair?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, we'll definitely find her that way. Let's hurry."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me, have you seen an Umamusume with a Kansai accent?"
+        },
+        {
+            "name": "Store Clerk A",
+            "text": "Hmm… I can't say that rings any bells."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Are you sure? She's about as fast as I am."
+        },
+        {
+            "name": "Store Clerk A",
+            "text": "Um… I can't really tell how fast someone is just standing here."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, right. Well, let me know if you see anyone like that."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmph. I can't find her anywhere. I wonder where she could have gone."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grumble.</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Argh… All this rushing around is making me hungry…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wuzzat what I think it was?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I knew it! This's why I told ya not ta go on ahead!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama, there you are! I'm so glad you're safe."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Although… It turns out you're the one who found me."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We got your ear-splittin' stomach rumblin' to thank for that. So long's you're hungry, I could track ya down in an instant."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Is that right? I guess an empty stomach isn't always a bad thing."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, don't go lookin' all smug now."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right. We're back together and I'm hungry. Time for that okonomiyaki."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Do you want to join us, Trainer? I'm sure it'd be fun for the three of us to eat together."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Always on your own terms, am I right?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I won't argue, though. I'm starvin' after all that walkin' around!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, the three of us eat okonomiyaki together."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Good point. Maybe she's gone on ahead."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But that's where we were heading in the first place. And I still haven't made it there…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Things could get problematic if I leave Oguri Cap on her own. I decide to take her to the food fair."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Phew… That's a relief. Look, Tama's over there."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh there ya are! Wait, why's your trainer here too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that Oguri Cap had been walking around in circles, so I decided to bring her here myself."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Sigh…</i> It's my fault for takin' my eyes off ya. I dunno how anyone can get lost so quick, but still."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't blame yourself. Everyone gets lost every now and then."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Anyway, as long as you're safe, that's what matters. I'm here for you."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, you're da one who went missin', not me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her sharp retort echoes throughout the whole Kansai food fair."
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "title": "はっけよい、陶芸教室！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out, Hishi Akebono and I are on our way home when…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? I wonder what Nature's up to over there?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, good timing, Akebono! And your trainer's here with you, too? Hey there. Could you both lend me your ears for a sec?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature hands us a flyer with pictures of teacups, plates, and earthenware pots on it, as well as the slogan, \"Create art unique to you.\""
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "This is for… a free trial of a ceramics class?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So, basically, I'm friends with one of the shopkeepers in the shopping district, and he asked me to stop by and observe one of his classes…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Except my schedule's packed right now, and I can't go. Sooo…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Do you think you two could attend in my place? If you go now, you'll get to make a ceramic piece for free!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We'll go, we'll go! You don't have to us ask twice! Right, Trainer? ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since Hishi Akebono has already answered for the both of us, I agree to attend the event. On the day of the free ceramics class…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm so excited to make a one-of-a-kind art piece. Hehe! I'll have to take a picture of it and send it to my parents when it's done!",
+            "choice_data_list": [
+                "What are you going to make?",
+                "What are you going to make?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "A pot for making chanko, of course! I want to make it so big it'll take at least two people to hold!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "What?! I can't make a pot?!"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Well, it's not that you can't, but a pot would be a little too advanced for a beginner to make."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hmm… That makes sense. I bet it <i>would</i> be tough to make something you're supposed to stick right over a fire…"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Exactly. Why don't you try making something easier fir—"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay! I'll have to do my very best, then! A clay pot it is!"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "What?! You still want to make a pot?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yes, please! Oh, but I want to make a really big one, so I don't mind if you charge me for the materials and instruction."
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Oh, that's of no matter to me, but… Hmm…",
+            "choice_data_list": [
+                "It'll all be good experience.",
+                "Why don't you try after improving your skills?"
+            ]
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Experience… Indeed. And besides, it's delightful simply having someone so enthusiastic about ceramics attending the class…"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Very well! Let's do what we can!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yaaay! Thank you so much! And thank you, too, Trainer!"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Let's start with the design first. Go ahead and sketch the sort of pot you wish to make."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay! Ehehe! Here I go! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I want to make it reaaally big and smooth… This part should be like <i>this,</i> so it can hold a lot of ingredients, and then this part should be…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The design Hishi Akebono comes up with is beyond intricate and would probably be difficult for even a professional to realize."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a serious expression on her face, she revises her draft multiple times and continues adjusting her design. Then, finally…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Phew! There, I'm done! Here's the design for my special, one-of-a-kind pot! What do you think, sir?"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Are you sure about this? Don't get me wrong—this is a wonderful design—but it looks incredibly challenging to make…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll do my best, sir!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps swept up by Hishi Akebono's contagious enthusiasm, our instructor almost reflexively nods in approval."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ultimately, although Hishi Akebono only gets as far as finalizing her pot design today, she still enjoys the entire process."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Nnngh… But I still want to make a pot for my first ceramics piece! Nothing else will do."
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "Why do you want to make a pot so badly?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I just really love cooking! That's why I'm so nitpicky about tableware."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I know a cooking pot isn't really \"tableware\" like plates and stuff are, but a pot's still an important tool for good food presentation!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And that's the reason I want to make my very own pot!"
+        },
+        {
+            "name": "Ceramics Instructor",
+            "text": "I see… That makes sense. Very well. Let's try to make something good, then. Now, to do that, we must start with the design!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yes, sir! I'll do my best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono begins studiously working on her design for a perfect earthenware pot."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ultimately, although she only gets as far as finalizing her pot design, she still manages to make something she's both satisfied with and proud of."
+        }
+    ]
+}

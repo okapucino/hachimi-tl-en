@@ -1,0 +1,68 @@
+{
+    "title": "チャンピオンズCにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Champions Cup is held at Chukyo Racecourse."
+        },
+        {
+            "name": "Monologue",
+            "text": "This racecourse, which also hosts several popular turf races, is bustling with spectators today. Its stalls are filled to just under maximum capacity."
+        },
+        {
+            "name": "Monologue",
+            "text": "The boisterous cheering even reaches Smart Falcon in the waiting room."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Urgh…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Y-you know, I think I'm actually feeling… super nervous?!",
+            "choice_data_list": [
+                "Is that a question?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's just… It's been a long time since I've felt like this."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Things have been going great, but what if today's the day I mess up?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What if I don't win, even when everyone's cheering me on?!",
+            "choice_data_list": [
+                "You'll be fine."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But, Trainer…",
+            "choice_data_list": [
+                "You're sparkling.",
+                "You're sparkling."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you, Trainer. That's helped my nerves a little!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You're right… I want to sparkle today. And I'm not letting go of that feeling."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna shine like never before!"
+        }
+    ]
+}

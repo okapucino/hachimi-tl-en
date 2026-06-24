@@ -1,0 +1,309 @@
+{
+    "title": "ナイスネイチャ登場！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the start of a new, full-fledged training regimen to get Nice Nature ready to make her debut.",
+            "color_text_info_list": [
+                "debut",
+                "Nice Nature"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But first, I want to see how fast she is currently, so I ask some other Umamusume to run a scrimmage with Nice Nature. But then…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah. Heya, Trainer… can we talk for a second?",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nothing is <i>wrong</i> exactly, but here's the deal…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm happy that you put together this scrimmage for me, and I reeeeally appreciate it. So much appreciation. But…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeeeees! I'm gonna run so fast today!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's the spirit! But if you think I'm gonna let you pass me, you've got another thing comin'!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What the heck is this lineup?! They're all top-level runners!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right—I only asked the best of the best. And it seems quite a few came, either out of curiosity or a sense of camaraderie.",
+            "choice_data_list": [
+                "This lineup should be the perfect way to measure your strength!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "M-more like the perfect way to embarrass myself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature starts off without confidence, but then…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant… Pant… Pant…</i> Come ooooon!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Look at Nature! She's keeping up with all those amazing runners!",
+            "color_text_info_list": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Her results have always been solid. Seriously, Nature is a great runner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The spectators are right, Nice Nature is in perfect form today!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant… Pant… Pant…</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I knew it—third place again.",
+            "choice_data_list": [
+                "That was awesome!",
+                "That was awesome!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well… Yeah, I guess so. With those runners, I'm proud of myself for even finishing in third place."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I was in the best position. I had the advantage in terms of distance, and I <i>still</i> got third…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature doesn't seem satisfied…"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Nature! What a marvelous day for a race! ☆"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I wanna see your absolute best, Nature! Let's compete fair and square, like grown women should! ♪",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I put together another scrimmage. All the racers I invited seem to be acquainted with Nice Nature…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hold on here. Trainer, you just up and brought all your favorite racers, didn't you?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If that's the case, I have to say… I like your taste. If I were you, I'd choose them too.",
+            "choice_data_list": [
+                "They're all good runners."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm just joking. I know that they're all more than just cute faces. They're really fast on top of that."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Natuuurrre! Come on, hurry up and run with meee! ☆"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… Is that an angel? Maybe she can cleanse my soul while we're running."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature jokes around, but once the race starts…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hup!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Nature is going so fast! She's keeping up with the other two!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Woohoo, another third place finish…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Those two are sooo young. I can't even begin to compete with that kind of energy.",
+            "choice_data_list": [
+                "You aren't that much older than them.",
+                "You aren't that much older than them."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yes, I am. Even a one year gap can make a huge difference."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, now you know, right?",
+            "choice_data_list": [
+                "Know what?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "C'mon, what did I run those scrimmages for? You were sizing up my skills, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"Close, but not quite.\" That's me in a nutshell."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I run <i>okay,</i> but \"okay\" isn't gonna win me the gold."
+        },
+        {
+            "name": "Monologue",
+            "text": "…The way I see it, the fact that she finishes third no matter what shows that she's got potential."
+        },
+        {
+            "name": "Monologue",
+            "text": "But that's not how she sees it. I try to think of the best way to explain it to her, when…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey! Whatcha doing? Something fun?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eh?! Teio?!",
+            "color_text_info_list": [
+                "Teio"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Were you guys running a scrimmage? What a waste of time…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You guys didn't even invite the best racer around—me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio. As she says herself, she is the star runner in the current generation. Many were singing her praise even before her debut.",
+            "color_text_info_list": [
+                "Tokai Teio"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Which means Tokai Teio will be an unavoidable wall between Nice Nature and glory."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "She can say all that and not feel even a tinge of embarrassment. She's certainly something, I'll tell you that."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Did you say something? Whatever. Come on, get ready!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…What?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Don't just stand there! We're going head-to-head, Uma to Uma! ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'll give you the honor of a race!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…S-seriously?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, a battle between Nice Nature and Tokai Teio abruptly begins."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Phew… The sunset sure is beautiful today."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Another day, another loss! What can I say? That Tokai Teio sure is strong."
+        },
+        {
+            "name": "Monologue",
+            "text": "The head-to-head with Tokai Teio ended in a clean defeat, with Nice Nature failing to catch up to Teio's pace."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Welp, I don't blame myself for losing to her! In fact, I did well, considering it was after I ran with Mayano and Marvelous!",
+            "color_text_info_list": [
+                "Mayano"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Yup, it always ends with \"I did well.\" The idea of a third-rate runner like me shining in a race… might as well be a pipe dream."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Do you get it now, or do you still want to aim for victory with me?",
+            "choice_data_list": [
+                "Aim for victory, of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to help make her dreams of shining like a star come true. As long as we're together, my feelings will never change."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I've been thinking about this for a while now, but… where do you get all that confidence?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Your eyes are shining brighter than mine."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Not sure if I can meet your expectations, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Maybe… it'd be okay for me to dream a little bit."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Nice Nature's journey to make her dreams come true begins!"
+        }
+    ]
+}

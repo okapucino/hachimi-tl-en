@@ -1,32 +1,35 @@
 {
-    "no_wrap": true,
+    "title": "自己紹介",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Starting now, the days of racing through \nthe Twinkle Series with the Uma Musume in \ncharge will begin. And the name of the girl \nI'm walking it with is――",
+            "name": "Monologue",
+            "text": "Starting today, my trainee and I will be taking on the Twinkle Series. The Umamusume joining me for this journey is none other than…",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, this is Sakura Bakushin O!",
+            "text": "Hello, Sakura Bakushin O here!",
             "color_text_info_list": [
-                "Sakura Bakushin O."
+                "Sakura Bakushin O"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I intend on Bakushin-ing \nall my races!"
+            "text": "As class representative, I hope to Bakushin my way through my races!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And furthermore, I will win every G1 race \nand set an example for Uma Musume \neverywhere! \nWhat an honor-student-like idea! I'm afraid \nof my own brilliant mind! \nmy own !",
+            "text": "Then, I'll become a role model for everyone by dominating all the G1 races! WOW, what an exemplary idea! My intelligence scares even me!",
             "color_text_info_list": [
-                "GI"
+                "G1"
             ]
         },
         {
-            "text": "And so began <chrname>'s attempt at the \nTwinkle Series!"
+            "name": "Monologue",
+            "text": "And so, <chrname> and I take our first steps towards competing in the Twinkle Series!"
         }
     ]
 }

@@ -1,0 +1,60 @@
+{
+    "title": "桜花賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "The day's finally here, folks! The first of the Triple Tiara races!"
+        },
+        {
+            "name": "Caster",
+            "text": "Which of today's racers will claim the sakura laurels and ascend the stairs to the Queen's throne?"
+        },
+        {
+            "name": "Commentator",
+            "text": "We saw sparks fly between Vodka and Daiwa Scarlet during the Tulip Sho, and it might well happen again today!"
+        },
+        {
+            "name": "Commentator",
+            "text": "This will be a showdown between the two rising stars of the Tiara tour. It's a race you won't want to miss!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "Feeling nervous?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! Of course not. If anything, I'm excited."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Once I win this race, I'll be that much closer to the top."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Not to mention, she's running in this race too.",
+            "choice_data_list": [
+                "Who's \"she\"?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Vodka, obviously!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Just to be clear, though—I don't care about her at all!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The first Tiara has my name on it! I'm going to be number one!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, then. Time to take the throne!"
+        }
+    ]
+}

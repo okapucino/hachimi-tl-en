@@ -1,0 +1,224 @@
+{
+    "title": "信じ合うこと",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's scrimmage is an exercise designed to serve as a rehearsal for a real G1 race, with participants even wearing their signature racewear. Opportunities like this don't come often, and yet…"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Ah, Mejiro Ardan's trainer! I just had a look at the track, but it's still all mucky from the rain.",
+            "choice_data_list": [
+                "I was afraid of that…"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "There's a chill in the air too. I'm going to withdraw my Umamusume from this one. Passing up this opportunity hurts, but still…"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "If I remember right… your racer's not the burliest around, is she? I'd err on the side of caution if I were you. …Well, see ya later."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Greetings, Trainer. Did I hear the word \"withdraw\" just now?",
+            "choice_data_list": [
+                "Yeah, they're worried about you.",
+                "Yeah, they're worried about you."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I see… It's kind of them to look out for my well-being."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "To race or not to race… Have you come to a decision, Trainer?",
+            "choice_data_list": [
+                "Is it okay for me to make the call?",
+                "Is it okay for me to make the call?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, by all means."
+        },
+        {
+            "name": "Monologue",
+            "text": "…What to do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The experience she'd get would be invaluable, and she looked great during the warm-ups. I struggle to think of a reason to stop her from racing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then again, if she's putting on a brave face… Just to be sure, I ask Mejiro Ardan how she's feeling."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'll be absolutely fine. As long as I run for <i>this</i> moment."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I've no doubt that I'll be able to run my very best. I assure you I will.",
+            "choice_data_list": [
+                "Understood… Then, let's run."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…And you're sure about this?",
+            "choice_data_list": [
+                "Yes. I trust that the moment is yours, Ardan."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Thank you very much. In that case, I'll hold nothing back—for I shall entertain no regrets.",
+            "choice_data_list": [
+                "Do your best!",
+                "Do your best!"
+            ]
+        },
+        {
+            "name": "Energetic Umamusume",
+            "text": "Let's do our best out there!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I'm looking forward to this race."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Mingling in with so many Umamusume dressed in their signature racewear brings back memories…)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Come to think of it, it took quite some time for me to don my signature racewear after becoming race-ready.)"
+        },
+        {
+            "name": "Caster",
+            "text": "Proudly sporting their signature racewear, the competing Umamusume are now entering the starting gate!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "How beautiful… Thank you for bringing me along, Nanny."
+        },
+        {
+            "name": "Ardan's Nanny",
+            "text": "It's my pleasure. But you mustn't forget that you only just got out of the hospital, so no running around, okay?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes… I understand."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(That pride, that light… How long must I wait to know their embrace?)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(I swore to myself that no matter what, I would someday wear such an outfit myself. But it would be a lie to say that I was not envious. And now…)"
+        },
+        {
+            "name": "Monologue",
+            "text": "The gate opens with a bang. The atmosphere is heavy beneath the overcast sky, but her racewear flutters vividly."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Now… I wear this outfit to <i>race!</i>)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(You lit the spark. That means this clothing also serves as proof of your faith in me.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(I wish to prove that I am worthy of it—of that pride, and that light!)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Phew!</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Huff, huff… Pant…</i> I've, I've lost!",
+            "choice_data_list": [
+                "But you did great! …It sure was muddy out there.",
+                "But you did great! …It sure was muddy out there."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. Hehe. It really was. My clothes are filthy but…",
+            "choice_data_list": [
+                "That was your first step toward victory.",
+                "That was your first step toward victory.",
+                "But?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. Hehe. It really was. My clothes are filthy but…",
+            "choice_data_list": [
+                "That was your first step toward victory.",
+                "That was your first step toward victory.",
+                "But?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…! …Hehehe. I was thinking exactly the same thing."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shall etch this defeat onto my heart. But I didn't run from the contest, I fought. And I raced in the moment, in the now."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This experience will surely fuel my resolve. I will strive even harder. And I…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I thank you, for having faith in me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I entrust you… with my future endeavors.",
+            "choice_data_list": [
+                "I'm looking forward to working with you too!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to continue living up to her expectations, and be a trainer worthy of her trust… Today has renewed my resolve!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Somehow, I feel… rather refreshed."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I might be covered in mud and soaked to the bone… but I managed to keep running. And that's because you had faith in me…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "So, Trainer? Moving forward… I think it might be difficult for anyone to stop me.",
+            "choice_data_list": [
+                "Yeah, let's give it our all next time, too!",
+                "Yeah, let's give it our all next time, too!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "With pleasure!"
+        }
+    ]
+}

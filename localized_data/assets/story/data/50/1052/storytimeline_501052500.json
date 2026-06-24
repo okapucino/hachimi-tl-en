@@ -1,0 +1,48 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way to the shopping district when I encounter Haru Urara singing a tune."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Dootie-do-doo! ♪ Dootie-doo! ♪",
+            "choice_data_list": [
+                "Did something put you in a good mood?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, Trainer! Hiya!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "The people from the shopping district got me a \"you can do it\" present! Isn't that sweet?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Last time it was a \"don't overdo it\" gift, but now it's \"you can do it\"!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I bet it's because I've got a lot more \"oomph\" in my running these days!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And you're part of the reason why, Trainer!",
+            "choice_data_list": [
+                "We're both in it to win it!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! Three cheers for us! Hip, hip, hooray!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I promise Haru Urara that we'll both give it our best shot."
+        }
+    ]
+}

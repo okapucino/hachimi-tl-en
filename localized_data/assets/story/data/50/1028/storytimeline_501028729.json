@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, you were so close! You nearly had it there!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer… Are you hungry right now?",
+            "choice_data_list": [
+                "Hmm, I'm not sure…"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I bet you are! You probably couldn't do your best because your tummy's empty!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm going to bake a cake once we get back, so let's eat it together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

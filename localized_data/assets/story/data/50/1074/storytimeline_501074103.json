@@ -1,0 +1,61 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's summer, and we're discussing how to train for the Kikuka Sho on a beach near camp…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hey, Trainer! I'm really fretting here! Honestly, I don't know how much help I can be to Bright."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Greetings, Ryan. How reassuring to have you here. ♪"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Nah, my poses might be empowering, but I'm real anxious over here…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "If you're looking for an edge in medium-distance races, I'm your gal. But those long races? And especially those 3000-meter ones? I don't think I've got the stuff…",
+            "choice_data_list": [
+                "How about you, Ines Fujin?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Me? Geez, I'd be even less help than Ryan. I've been on a break since I won the Derby, and I've never run in a longer race before either."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "If you're looking for someone to coach Bright for the Kikuka Sho, there's definitely a better candidate out there. Think about it!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Just leave the rest to her! Do your best out there, Bright!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, I guess she's right… There's someone else who's way better equipped for long-distance training than Ines and I would be."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer, Bright. How about betting on you-know-who? The Mejiro family boasts all kinds of Umamusume, after all!",
+            "choice_data_list": [
+                "Good point. Let's do that.",
+                "Good point. Let's do that."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When the race you're aiming for changes, it's best to switch to a coach who knows that race."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to come up with a new training regimen that'll put us in good stead to take on the challenges of the fall season."
+        }
+    ]
+}

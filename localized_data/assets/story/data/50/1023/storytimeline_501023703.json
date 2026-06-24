@@ -1,0 +1,196 @@
+{
+    "title": "明暗を分かつ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide and I are walking past the train station when she suddenly remembers something and stops in her tracks."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "By the way, Trainer…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Do you remember that cafe we tried going to the other day?",
+            "choice_data_list": [
+                "The one that was closed?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes. I'm still baffled as to why it was closed so early. Do you mind if we go back and check it out?"
+        },
+        {
+            "text": "And with that request, we make our way to the cafe together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It closes at 8 p.m., so it should still be open…"
+        },
+        {
+            "text": "We're almost at the cafe when we see someone who appears to be the owner pulling down the shutters.",
+            "choice_data_list": [
+                "They're closing up already?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It seems like it. I wonder why. I'll go ask."
+        },
+        {
+            "text": "I follow her as she approaches the owner."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me. Have your store hours changed recently? I thought you were supposed to be open for a while yet."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Terribly sorry about that, but yes, we've been closing a little early lately."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "It just doesn't make sense to stay open when we get no customers."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You don't?"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "No… Not since that new place down the street run by some famous celebrity barista opened up."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Business dried up as soon as that place started. Honestly, we might have to close up shop <i>permanently</i> soon."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That can't be…"
+        },
+        {
+            "text": "There's no question as to what cafe that must be. No doubt, it's the one I visited with Biwa Hayahide the other day."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Up until recently, we managed to scrape by somehow."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "We've come up with seasonal menu items and listened to the requests of our regulars…"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "But no matter what we do, it's not enough to compete against a famous barista."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "It makes sense. When someone like that, with both skills and fame, opens a shop down the street, there's not much a small cafe like us can do."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…"
+        },
+        {
+            "text": "Biwa Hayahide's expression clouds as she mulls over the matter."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I understand how you feel. However…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What I love most about your cafe is how cozy its atmosphere is and what a wonderful person you are."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And those things are all a result of how much effort you've put into making your customers happy."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You've accomplished so much already. Why don't you try just a little harder and see what comes of it?"
+        },
+        {
+            "text": "Her impassioned speech is inspiring. I feel as though it's enough to fire anyone up. However…"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Thank you. Your kind words mean a great deal to me."
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "But running a business isn't easy. Sometimes, you just have to cut your losses."
+        },
+        {
+            "text": "Unfortunately, Biwa Hayahide's encouragement isn't enough to spur the owner into further action."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I suppose life is difficult no matter what one pursues."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I only wish there was something I could do to help…"
+        },
+        {
+            "text": "Pursuing a dream is tough. She knows that better than anyone.",
+            "choice_data_list": [
+                "If only the cafe could do something to set it apart…",
+                "Maybe we can help promote the cafe."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Set it apart… Yes, that's it!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I go there all the time! I would know better than anyone how it can best stand out!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This information might be just what we need to change the owner's mind!",
+            "choice_data_list": [
+                "Do your thing, Hayahide!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thanks for helping me come up with something I can do!"
+        },
+        {
+            "text": "I have high hopes that Biwa Hayahide can get through to the owner as we walk home together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I guess, realistically speaking, that's about all we can do."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But simply promoting the cafe probably won't yield any significant results…",
+            "choice_data_list": [
+                "If only we had something to work with…",
+                "If only we had something to work with…"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But of course! If there's nothing to work with yet, we can start from scratch and try to catch people's attention with a new idea!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'll start putting together everything we need once I get back!",
+            "choice_data_list": [
+                "Let me know if I can help.",
+                "Let me know if I can help."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you so much. I'm going to make sure that cafe stays in business!"
+        },
+        {
+            "text": "With that strong declaration, it's clear that Biwa Hayahide is filled with determination."
+        }
+    ]
+}

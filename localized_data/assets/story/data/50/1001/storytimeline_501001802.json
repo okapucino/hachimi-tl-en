@@ -1,0 +1,216 @@
+{
+    "title": "もう1人のお母ちゃんへ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, Special Week invites me out to the beach."
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer! This way! I'm over here!"
+        },
+        {
+            "name": "Special Week",
+            "text": "There's someone I'd like you to meet today!",
+            "choice_data_list": [
+                "And who might that be?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe, the person in question is…"
+        },
+        {
+            "name": "Special Week",
+            "text": "My other mom!",
+            "choice_data_list": [
+                "Huh?! What does that even mean?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, let me take you back to when I was a little kid…"
+        },
+        {
+            "name": "Young Spe",
+            "text": "<i>Sniffle…</i> Mom… why are we at the beach?"
+        },
+        {
+            "name": "Spe's Mother",
+            "text": "Because, dear… you said you wanted to see your other mother."
+        },
+        {
+            "name": "Young Spe",
+            "text": "But my other mom… is already…"
+        },
+        {
+            "name": "Spe's Mother",
+            "text": "Your mother and I would often come here to talk whenever something was bothering either one of us…"
+        },
+        {
+            "name": "Spe's Mother",
+            "text": "Even now, whenever I'm feeling lost, I come here to talk to her."
+        },
+        {
+            "name": "Young Spe",
+            "text": "You talk to my other mom?"
+        },
+        {
+            "name": "Spe's Mother",
+            "text": "That's right. It's true I can't see her, but she's definitely here. I know it… I can feel it."
+        },
+        {
+            "name": "Spe's Mother",
+            "text": "Go on, speak up if you've got something to tell her. I'm sure she'll hear you."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ever since then, I started coming to the beach whenever I felt like talking to my other mom.",
+            "choice_data_list": [
+                "What do you have to tell her today?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "It's a little late now, but I remembered I hadn't introduced you yet."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ideally, I wanted us to be in Hokkaido for this, but I guess all the seas are connected."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm sure she's listening, even from here!"
+        },
+        {
+            "name": "Special Week",
+            "text": "All righty, here I go!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mamaaa! This person here is my trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My trainer's kind, smart, and always supportive of me and my dreams! So rest assured—I'm in the best of hands!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mamaaa! I'm so glad to attend Tracen Academy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew… I finally got to tell her. I wonder if she'll be happy for me."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh yeah, you should say something to her too, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm sure she'd like to talk with you!"
+        },
+        {
+            "text": "There's only one thing I need to tell her mother.",
+            "choice_data_list": [
+                "I'm going to make your daughter the number one in all of Japan!",
+                "I'm going to make your daughter the number one in all of Japan!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heh… Hehe. Let's do our best to rise to the top!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Is there anything else you want to tell my other mom? Something about me, for example?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Like, \"She's really giving it her all,\" or, \"Her dance skills have improved a lot.\"",
+            "choice_data_list": [
+                "Please make sure she doesn't eat too much.",
+                "Please make sure she doesn't injure herself."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "What?! I don't eat that much!"
+        },
+        {
+            "name": "Special Week",
+            "text": "W-well… I guess I go little bit overboard when the food's really good…"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Sigh…</i> Mom did tell me that Mama was a light eater."
+        },
+        {
+            "name": "Special Week",
+            "text": "So how's it that I ended up with such a big appetite?"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Gasp!</i> What if my overeating is a reaction to Mama's undereating?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "If that's the case, then…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mamaaa! I'll eat enough for the both of us!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'll eat lots of tasty food so I can stay healthy an' happy!"
+        },
+        {
+            "text": "Her big voice resounds far across the sea. There's no doubt her other mother will continue to watch over her."
+        },
+        {
+            "name": "Special Week",
+            "text": "You're making it sound like I'm some klutz who gets hurt all the time!",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "What're you looking away for?! I am <i>not</i> a klutz!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Although I do have my clumsy moments…"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Gasp!</i> What if I inherited my clumsiness from Mama?!"
+        },
+        {
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "text": "Suddenly, a large wave comes crashing down on Special Week."
+        },
+        {
+            "name": "Special Week",
+            "text": "Eep!",
+            "choice_data_list": [
+                "I think you've upset her.",
+                "I think you've upset her."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh no… Mamaaa! I'm sooo sorry!"
+        },
+        {
+            "text": "Her loud apology resounds far across the sea. It might be a coincidence—or perhaps it's my imagination at play—but the waves seem a little calmer now."
+        }
+    ]
+}

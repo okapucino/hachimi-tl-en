@@ -1,0 +1,29 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Nngh… Morning, Trainer.",
+            "choice_data_list": [
+                "Didn't get much rest?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ehehe… The thing is, everyone in my dorm got together last night and chatted away until really late."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It was really fun. There were so many interesting stories, I was on the edge of my seat the whole time!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'd very much like to talk today as well, but… I guess… I might be a teensy bit tired…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Clearly sleep deprived, Fine Motion remains drowsy all day."
+        }
+    ]
+}

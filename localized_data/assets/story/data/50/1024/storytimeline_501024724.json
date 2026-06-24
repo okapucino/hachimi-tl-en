@@ -1,0 +1,50 @@
+{
+    "title": "レース勝利",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm back, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun managed to pull off an incredible victory, but she seems sort of down."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I did it. Go ahead, shower me with praise.",
+            "choice_data_list": [
+                "Good job.",
+                "Did you have fun?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Aah… I love it when you praise me."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe! Keep it coming, please."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her spirits seem to have picked back up a bit."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…Sure."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But who cares about that?! Go ahead and praise me! Say I did a good job!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I won't take a single step until my tanks are topped up with your love!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be pouting, so I go ahead and comfort her for a while."
+        }
+    ]
+}

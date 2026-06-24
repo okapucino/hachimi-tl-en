@@ -1,63 +1,65 @@
 {
-    "no_wrap": true,
+    "title": "レース敗北",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaaaargghhh―!! \nI, I've… What a mess I've made of this run!!"
+            "text": "Gaaah! How could I run so ungracefully?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was ab-so-lutely not! By any means! \nan exemplary run!"
+            "text": "That was in no way an exemplary performance!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was the run of a flunk-student! \nNow, I'm Bakushin-ing down the road to \nbecoming a delinqueeeent―!!"
+            "text": "That was the footwork of a failing student! I'm going full-Bakushin down the road to becoming a delinquent!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……Gulp.",
+            "text": "<i>…Urgh.</i>",
             "choice_data_list": [
-                "Failure isn't a bad thing.",
-                "Class president, pull yourself together!"
+                "Failure isn't necessarily a bad thing.",
+                "Hang in there, Class Representative!"
             ]
         },
         {
-            "text": "Can you recover from failure? That's the \nreal key to success, I told her."
+            "name": "Monologue",
+            "text": "I explain how getting back up again after being knocked down is the key to success."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…So, in other words, what you're saying is, \nI'm still Bakushin-ing down the glorious \nhonor student road at this very moment!?",
+            "text": "…In other words, I'm actually going full-Bakushin on the glorious road of a model student?!",
             "choice_data_list": [
-                "That's exactly what I'm saying!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I seeee! ……I won't let this happen again! \nLet's start training straightaway!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I have to set an example for everyone! \nThere's no time to stand still!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "T-Trainer…!",
-            "choice_data_list": [
-                "You're supposed to be a role model for everyone, right?",
-                "You're supposed to be a role model for everyone, right?"
+                "That's right!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Yes, I have not yet resigned from my \nposition as class president……!"
+            "text": "I see! I can't back down like this! I have to get back to training right away!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In order to carry out my solemn duty of \nguiding each and every Uma Musume, \nI must keep going with everything I've got!!"
+            "text": "I have to set an example for everyone, so I can't stand still for even a moment!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A model student from cradle to grave!! \nBecause that's exactly what Sakura \nBakushin O is!"
+            "text": "T-Trainer!",
+            "choice_data_list": [
+                "You're going to set an example for everyone, right?",
+                "You're going to set an example for everyone, right?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…That's right. It's not as if I've retired from being class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's my duty to throw my heart and soul into leading the others until the very end!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A model student from the cradle to the grave! That is me, Sakura Bakushin O!"
         }
     ]
 }

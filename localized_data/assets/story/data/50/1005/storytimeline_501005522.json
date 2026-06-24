@@ -1,0 +1,36 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm… It's still sold out.",
+            "choice_data_list": [
+                "What is?",
+                "What is?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, just one of my favorite hand creams."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's not particularly popular, but I haven't been able to get another since it went out of stock last week."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I recommended the same product to a darling pony last week. I wonder if she managed to buy one.",
+            "choice_data_list": [
+                "Maybe it's sold out <i>because</i> you recommended it to her."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Haha! Inconceivable!"
+        },
+        {
+            "text": "But indeed, that was why. All of Fuji Kiseki's fans rushed to buy the same hand cream, leaving her hands dry and flaky for a while."
+        }
+    ]
+}

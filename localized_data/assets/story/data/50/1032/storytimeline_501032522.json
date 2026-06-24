@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm… It seems my skin's flaring up. Perhaps it's due to the experiment?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I was very careful with the chemicals.",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's just a little rough, nothing severe."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You hadn't noticed before I said anything, which means it's no big deal."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just forget about it. If it gets worse, I'll make some ointment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her telling me to not worry, she keeps messing with her skin as if it hurts or itches."
+        }
+    ]
+}

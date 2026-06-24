@@ -1,294 +1,313 @@
 {
-    "no_wrap": true,
+    "title": "サクラバクシンオー登場！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "At long last, starting today the Twinkle \nSeries challenge with Sakura Bakushin O \nhas begun!",
+            "name": "Monologue",
+            "text": "Finally, today marks the start of Sakura Bakushin O's run in the Twinkle Series!",
             "color_text_info_list": [
                 "Sakura Bakushin O",
                 "Twinkle Series"
             ]
         },
         {
-            "text": "She's going to do some amazing things. \nBecause—"
+            "name": "Monologue",
+            "text": "She will surely perform well. The reason for that being…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Without further ado, I'll be running the 1200 \nmeters!"
+            "text": "Okay, I'm off to run 1,200 meters!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Allow me to show you my world-class \nspeed!"
+            "text": "I'll show what world-class speed is like!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiii―n!!"
+            "text": "BAKUSHIN, BAKUSHIIIN!"
         },
         {
-            "text": "She accelerates right from the start, \nand in the blink of an eye she's gone. \nIt's already a struggle to catch up to her…!"
+            "name": "Monologue",
+            "text": "Accelerating straight off the bat and then speeding up even more! Even as her trainer, my eyes struggle to keep up with that speed!"
         },
         {
-            "text": "I didn't need to test her ability again. \nHer weapon of choice is her overwhelming \nspeed. She may well be one of the best in \nher generation."
+            "name": "Monologue",
+            "text": "We hardly need to reassess her abilities on this front. Her weapon of choice is, after all, her immense speed. She's probably already the top of her class among her peers."
         },
         {
-            "text": "I'm sure she'll do great in races, \nespecially in shorter distances where \nthat overwhelming speed is vital!"
+            "name": "Monologue",
+            "text": "Sprints are where speed reigns supreme, so there's no doubt that she'll deliver great results."
         },
         {
-            "text": "But—"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Baku… shin…… Baku……"
-        },
-        {
-            "text": "…When she crosses the 1200m mark, she \nsuddenly starts to lose steam. \nIt was supposed to just be a 1200m race \nto begin with…"
+            "name": "Monologue",
+            "text": "However…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Baku… haah, hah……",
+            "text": "Baku…shin… Baku…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…She suddenly begins losing speed after she passes the 1,200 meter mark. Although, this was supposed to be practice for running sprints, so she didn't have to keep going…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Baku… <i>Huff, huff…</i>",
             "choice_data_list": [
-                "Were you just about to run over 1200 meters?"
+                "Were you trying to run over 1,200 meters just now?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hah… haah…. I was……"
+            "text": "<i>Wheeze… wheeze…</i> Yes…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My legs, were in great shape… \nAll was, going well…"
+            "text": "My legs felt good today… so…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, I think… the 2400m….also, showed \nme… what it was made of……"
+            "text": "I thought… I might be able to… show you… a perfect 2,400-meter run…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaah… It's… okay. \nMy room for growth, is… in… infi… infini……",
+            "text": "<i>Wheeze…</i> I'm fine, I'm fine… My potential for growth is un-un-unlimi…",
             "choice_data_list": [
-                "Calm down…",
-                "Calm down…"
+                "Take it easy there.",
+                "Take it easy there."
             ]
         },
         {
-            "text": "The longer the distance, the worse her \nperformance is going to be. \nAfter all, sprinting is her specialty."
+            "name": "Monologue",
+            "text": "The moment the distance increases even a little, her performance drops. It seems she really is best suited for sprinting."
         },
         {
-            "text": "So it is, but…"
+            "name": "Monologue",
+            "text": "But…"
         },
         {
-            "text": "After our training session, I was creating a \nplan of action on how to train her…"
+            "name": "Monologue",
+            "text": "After training is over, I begin laying out an overall plan to help her develop."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san! My apologies that I kept you \nwaiting!!"
+            "text": "Sorry to keep you waiting, Trainer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Greetings! Your class president, \nSakura Bakushin O, has arrived!",
+            "text": "Hello! The class representative is here! It's me, Sakura Bakushin O!",
             "choice_data_list": [
-                "I didn't call you, though…"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No matter! Only a superior class \npresident rises to the occasion \nbefore she is even beckoned!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So, I'm here to greet you once again!",
-            "choice_data_list": [
-                "Greet me?"
+                "I don't remember calling for you…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, naturally! Manners are very \nimportant to class presidents."
+            "text": "No, no! Class representatives are great at showing up before being asked!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Firstly, congratulations on receiving the \nwonderful honor of being my trainer!",
+            "text": "With that, allow me to go through all the formalities once more!",
             "choice_data_list": [
-                "Thank you?"
+                "Wait, what?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm sure you're very excited about \nhow I'm going to put my overflowing \nbrilliance to use! Yes, yes, I'm certain you \nare!"
+            "text": "Observing etiquette is an important part of being a class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm willing to do everything in \nmy power to Bakushin together with you!"
+            "text": "First off, let me congratulate my trainer for attaining such a prestigious job!",
+            "choice_data_list": [
+                "Th-thank you?"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, that dream of ours, that dream of \nunparalleled, earth-shattering, genius \nwonder and applause—"
+            "text": "I'm sure you're already overflowing with enthusiasm about how best to make use of my abounding excellence! Yes, that's for certain!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "— \"The speed to win all G1s\"!! \nIn order to achieve this!!",
+            "text": "I wholeheartedly intend to continue to Bakushin with your guidance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "We'll aspire to achieve an unprecedented, earth-shattering applause for my dream!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That is, winning all the G1 races through sheer speed! That's my goal!",
             "color_text_info_list": [
-                "G I"
+                "G1"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I've been making plans A.S.A.P.! \nCome, come, please take a look!"
+            "text": "I've drawn up a plan! Here! Take a good look!"
         },
         {
-            "text": "What she handed me was a neatly written \nrace rotation plan for the year.",
+            "name": "Monologue",
+            "text": "She hands me a carefully written one-year race schedule.",
             "choice_data_list": [
-                "Challenge all the GIs in one year?!"
+                "You're going to take on all the G1 races in a single year?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nI believe that is roughly 30 races!"
+            "text": "Yep! That's about 30 races!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The only way to be a proper class president \nis to accomplish something that no \none has ever done before!",
+            "text": "I'm class representative! I can succeed in greatness where others have failed!",
             "choice_data_list": [
-                "You can't enter them all in one year.",
-                "You can't enter them all in one year."
+                "You can't participate in all the races in just one year!",
+                "You can't participate in all the races in just one year!"
             ]
         },
         {
-            "text": "I explained that there are certain times \nof the year when certain races can be run, \nand that there are prerequisites to \nenter…"
+            "name": "Monologue",
+            "text": "I explain how certain races can only be run during certain periods and that there are different entry requirements for each race."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm, hmm…… So, the Junior class can only \nenter G1's such as the Asahi Hai Futurity \nStakes, and the Hanshin Juvenile Fillies, \net cetera.",
+            "text": "Hm… So there are races like the Asahi Hai Futurity Stakes and the Hanshin Juvenile Fillies which you can only enter in your junior year?",
             "color_text_info_list": [
-                "Junior class",
+                "junior year",
                 "Asahi Hai Futurity Stakes",
                 "Hanshin Juvenile Fillies"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words, only the Classic class \ncan aim for the Triple Crown, hm.",
+            "text": "And you can only shoot for the Triple Crown in your classic year?",
             "color_text_info_list": [
-                "classic class"
+                "classic year"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whaaaaaat?!",
+            "text": "Interesting!",
             "choice_data_list": [
-                "It's basic knowledge…",
-                "It's basic knowledge…"
+                "That's basic knowledge…",
+                "That's basic knowledge…"
             ]
         },
         {
-            "text": "And with distance aptitudes and \nscheduling issues, it's a 100% impossible \nchallenge for one girl to win all the G1s. \nSo…",
+            "name": "Monologue",
+            "text": "She's also got to consider things like distance aptitude and issues with scheduling. Winning every G1 race is absolutely impossible. Therefore…",
             "choice_data_list": [
-                "Why don't you narrow down your target races?",
-                "Why don't you narrow down your target races?"
+                "Shouldn't we narrow down what races you're aiming for?",
+                "Shouldn't we narrow down what races you're aiming for?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh? \nWhy do I need to narrow down?"
+            "text": "Huh? Why would we need to do that?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha! \nCould it be, you are doubtful of my abilities, \nTrainer-san?",
+            "text": "Ah! Trainer! You're not doubting my ability, are you?",
             "choice_data_list": [
-                "No, it's your duty as class president!"
+                "It's your duty as class representative to set a reasonable schedule!"
             ]
         },
         {
-            "text": "I told her that it was the duty of the \nclass president to show the other girls \na clear path to follow…"
+            "name": "Monologue",
+            "text": "I tell her it is her responsibility as class representative to mark out an easy-to-understand path for future Umamusume to follow."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……"
+            "text": "…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now that you mention it―!"
+            "text": "You're right!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, it is my solemn duty to \nmake it easier for everyone to run!"
+            "text": "One of the class rep's jobs is to create a comfortable environment for everyone to run in."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood, let's narrow down our target \nraces!!"
+            "text": "All right, I understand! Let's narrow down the races!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After all, as long as I bear the name of \nclass president, the title of Triple Crown \nUma Musume is non-negotiable!"
+            "text": "Bearing the crown of class representative, I can't let anyone else take the Triple Crown!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, I'll be participating in the Satsuki-sho, \nJapan Derby, and Kikka-sho!",
+            "text": "So I'm going to enter the Satsuki Sho, the Japanese Derby, and the Kikuka Sho!",
             "color_text_info_list": [
-                "satsuki azalea (Rhododendron indicum)",
-                "Japan Derby",
-                "Chrysanthemum Awards"
+                "Satsuki Sho",
+                "Japanese Derby",
+                "Kikuka Sho"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh, oh, and we can't forget the \nArima Kinen, right? There's no way \nI can't participate in the race where \nall the best Umas gather!",
+            "text": "I'll also go for the Arima Kinen! It's a competition of the very best Umamusume after all, so I can't NOT enter!",
             "color_text_info_list": [
                 "Arima Kinen"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And the Tenno Sho would be good, too! \nAfter all, it's a shield! It's perfect for \ndefending the class president's seat!",
+            "text": "The Tenno Sho might also be a good race to enter. It can act like a shield. It's the perfect race for guarding the seat of representative!",
             "choice_data_list": [
-                "…… Alright, anyways!"
+                "Okay! Let's go with that plan!"
             ],
             "color_text_info_list": [
-                "Emperor's prize"
+                "Tenno Sho"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oooooh～! \nMy glory as class president has already \nbeen decided!"
+            "text": "Wooo! My path to glory is set!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll be counting on your support \nfor that, Trainer-san!"
+            "text": "I'm going to need your full support to achieve my goals, Trainer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You and I have decided on the path \nthat Bakushin ought to take… \nThat is to say, the Bakushin Road!"
+            "text": "Together, we've decided on the path to Bakushin… You could call it the \"Bakushin Road\"!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Starting today, let's put our all into this path! \nLet us go forth and Bakushin!!!"
+            "text": "From this day forward, all my efforts will go towards that journey! I'm going to Bakushin straight for it!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaah, I can't wait any longer! I can't wait for \nthe day I pave the way with explosive speed!"
+            "text": "Ah, I can't wait! The day I lead everyone with my exquisite quickness isn't far off!"
         },
         {
-            "text": "There's no doubt, her weapon of choice is \nher sheer speed. It would be a shame not to \ntake advantage of that talent…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Satsuki Sho, Japan Derby, Kikka Sho, \nTenno Sho, and Arima Kinen!"
+            "name": "Monologue",
+            "text": "It's true, the greatest weapon in her arsenal is her speed. But her proposed schedule focuses on stamina—it doesn't make use of her talent at all!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please wait for me! Because this class \npresident will, without a doubt, \nhead straight for the biggest Bakushin―!!"
-        },
-        {
-            "text": "But, even if I explained the race schedule \nto her, she wouldn't be convinced. \nWell, then… I'll just have to guide her \nwell myself!"
-        },
-        {
-            "text": "—I'm in charge of her future, as her Trainer!"
-        },
-        {
-            "text": "And so began the days of running with \nSakura Bakushin O towards a grand dream… \n…Right? I think?"
+            "text": "The Satsuki Sho, the Japanese Derby, the Kikuka Sho, the Tenno Sho, and finally the Arima Kinen!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiin!!"
+            "text": "Just you wait! This class representative is definitely going for the HUGE BAKUSHIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No amount of explaining would be enough to convince her, though. I have no choice but to skillfully and carefully guide her."
+        },
+        {
+            "name": "Monologue",
+            "text": "And I'll take her future into my hands, as her trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so Sakura Bakushin O begins daily training in pursuit of her noble dream."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushin, BAKUSHIIIN!"
         }
     ]
 }

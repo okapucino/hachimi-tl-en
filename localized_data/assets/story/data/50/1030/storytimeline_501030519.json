@@ -1,0 +1,38 @@
+{
+    "title": "描き取りたい1ページ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "It's such a nice day… but I… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day off, I find Rice Shower walking through the park looking defeated.",
+            "choice_data_list": [
+                "Did something happen?",
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, Big Brother… Um, it's no big deal, but…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, Big Sister… Um, it's no big deal, but…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I came here because I wanted to sketch the scenery, but I forgot my sketchbook…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I thought I'd just buy a new one, but they're sold out everywhere I go. <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Depressed, Rice Shower stares listlessly at the sun's beautiful reflection on the water."
+        }
+    ]
+}

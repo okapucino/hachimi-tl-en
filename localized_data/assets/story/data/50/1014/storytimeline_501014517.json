@@ -1,0 +1,34 @@
+{
+    "title": "時差ボコ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "Ugh! It's still bright and sunny over here, so why?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk into the training room to find an irritated-looking El Condor Pasa."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Listen to this, Trainer!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Here I was thinkin' my papa was going to compliment me for getting my lap time down…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But he fell asleep 'cause of the time difference!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Stupid time difference… I oughtta give it a German suplex!"
+        }
+    ]
+}

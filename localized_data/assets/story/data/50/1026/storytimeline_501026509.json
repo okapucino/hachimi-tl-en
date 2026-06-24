@@ -1,0 +1,35 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I find Mihono Bourbon standing in the hallway in a daze.",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…",
+            "choice_data_list": [
+                "Ummm, Bourbon?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Ah."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Forgive me… Cognitive abilities in decline. Unable to recognize Master…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Cause may be… severe fatigue… from excessive racing…"
+        },
+        {
+            "text": "The fatigue from racing has started to hinder her everyday life now. It might be best to adjust her race schedule."
+        }
+    ]
+}

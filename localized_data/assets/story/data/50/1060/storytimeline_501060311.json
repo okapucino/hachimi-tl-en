@@ -1,0 +1,133 @@
+{
+    "title": "菊花賞の後に・自分のレース",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Spectators",
+            "text": "You go, Nice Nature! You were amazing out there!"
+        },
+        {
+            "name": "Spectators",
+            "text": "I was disappointed that Teio wasn't in the race, but… you run so well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cries echoing from the spectator seats say it all… Nice Nature made this race her own."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trainer! I ran the race my way, right?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm glad… Hehe."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, if this is how the Kikuka Sho ends for me, then I'm not complaining! I'll give myself a few pats on the back!",
+            "choice_data_list": [
+                "I now present you with… the \"Job Well Done\" award!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, another handmade trophy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I gave Nice Nature an origami trophy at the Kokura Kinen to boost her confidence. She's come to expect it, so I did it again."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I can't believe you made another. Hehe, this one's floppy too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nice. Let's do the award ceremony later."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You can congratulate me on my success then. ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Kidding. I can't get too cocky here. It wouldn't have been like this if Teio was here."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I wonder if she's okay… and how bad the injury is…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Even Teio must be feeling down after not getting to participate.",
+            "choice_data_list": [
+                "I'm sure she'll be all right."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're right. She must be."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's Teio we're talking about, after all. She'll just say something like, \"I'm invincible!\" and come back in no time."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I have to be stronger by then.",
+            "choice_data_list": [
+                "We still have a big race left."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? Big race? But it's almost winter. What big races take place then?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Gasp!</i> You don't mean…",
+            "choice_data_list": [
+                "Why don't we aim for the Arima Kinen?",
+                "Why don't we aim for the Arima Kinen?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature had a good showing in the Kikuka Sho and has a strong fan base. Surely she can take on the Arima Kinen now!",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Besides, the Arima Kinen will bring out some of this year's most notable racers. Running with them will help her grow even more."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The Arima Kinen, huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That would be the perfect race to repay the people who always support me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…It might be impossible for me to win. Even if I enter, it might all go up in smoke once the gates open. Still…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I want to compete in the Arima Kinen!",
+            "choice_data_list": [
+                "Let's do it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide that the last race of her classic year is going to be the Arima Kinen!"
+        }
+    ]
+}

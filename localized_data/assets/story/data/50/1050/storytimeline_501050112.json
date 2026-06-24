@@ -1,0 +1,253 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after having won many races, Narita Taishin drops by."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So, about that hot spring ticket…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Both Ticket and Hayahide are busy, and I've got no one else to go with me, so…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Uh… If you've got nothing better to do…",
+            "choice_data_list": [
+                "I'd love to go!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's finally here—it's time to use the vacation ticket we won at the raffle."
+        },
+        {
+            "name": "Monologue",
+            "text": "But first… I have to get through the mountains of paperwork that's piled up over the course of the Twinkle Series!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I roll up my sleeves and bury myself in work for the next few days."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And that's everything! Thank you very much."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Um, you appear to be rather exhausted. Make sure to rest up."
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to finish up all of my work, and the next day quickly rolls around."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay. The schedule's fine with me, but…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you sure you're okay to go on vacation looking like that? I feel like a light breeze could knock you over.",
+            "choice_data_list": [
+                "I can wash my exhaustion away in the hot spring!",
+                "I can wash my exhaustion away in the hot spring!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Meh. It's your funeral."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so we set off."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whoa…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Who chooses such a decked out place for the prize of some shopping raffle?",
+            "choice_data_list": [
+                "I bet the hot spring will be amazing!",
+                "I bet the hot spring will be amazing!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, I guess."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel much better after my bath. It seems the long soak really did take away my exhaustion."
+        },
+        {
+            "name": "Monologue",
+            "text": "My head feels a little light, but I'm sure the dizziness will fade soon enough."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Phew."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, did you just finish up too?",
+            "choice_data_list": [
+                "The water felt amazing!",
+                "The water felt amazing!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sure, it wasn't half bad."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wait, your face is really red. Were you in the hot water for too long?",
+            "choice_data_list": [
+                "I don't… think… so…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? Whoa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hey, are you okay?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Snap out of it! Trainer!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Finally, you're awake. Do you remember getting lightheaded and passing out?",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Do you even know what you're apologizing for?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "If it's for ruining our trip or for collapsing and being a pain…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Then I'll kick you right back into the hot spring. Boil for all I care.",
+            "choice_data_list": [
+                "Taishin…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I talked with Tazuna earlier, and she said you were working like mad so you could go on this trip."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What am I supposed to do with you if you pass out from exhaustion? Bonehead.",
+            "choice_data_list": [
+                "I thought this would be a good reward for all your wins…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Seriously, I think you might hold the record for being the biggest dummy in the world."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin abruptly stretches her hand towards me."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Poke! Jab!</i>",
+            "choice_data_list": [
+                "Ow, ow, ow! What are you doing?!",
+                "Ow, ow, ow! What are you doing?!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The staff taught me a pressure point to get rid of dizziness from heat exhaustion."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Now stay there, and don't move!",
+            "choice_data_list": [
+                "Ow, ow, ow! OW!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her jabs are too much, and I shuffle away from the painful prodding. I manage to escape her for a moment, but…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Stop trying to get away."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Those teary eyes won't stop me. I'm not here to be nice.",
+            "choice_data_list": [
+                "H-have mercy!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Save. Your. Breath!",
+            "choice_data_list": [
+                "OUCH!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I hope you learned your lesson now. Don't push yourself for my sake."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You're the only person who's crazy enough to put up with me and be my trainer, so…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't know what I'd do without you.",
+            "choice_data_list": [
+                "I'm sure there are plenty of people lining up to be your trainer now."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! That's not what I meant!",
+            "choice_data_list": [
+                "Yeeeowch!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Get it through your thick head—you're the only trainer for me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You'd better get what I'm saying now."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Narita Taishin and I have formed an irreplaceable bond during our trip."
+        }
+    ]
+}

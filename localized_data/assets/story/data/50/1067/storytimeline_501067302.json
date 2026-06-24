@@ -1,0 +1,370 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back to the school, Satono Diamond and I pass by the shopping district."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ooh, they're holding a raffle!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That machine… That's the type where you turn the lever until a ball drops out, right? That's the best kind of raffle machine!",
+            "choice_data_list": [
+                "You have a preference?",
+                "You have a preference?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, since you turn the lever yourself, you have control over how hard and fast you want the tumbler to spin."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I like it because it feels like your luck is in your own hands.",
+            "choice_data_list": [
+                "Do you want to try it out?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I remember receiving a raffle ticket when we were shopping, so I offer it to her."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, please! I want to see if I can win the grand prize!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Take <i>this!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond gives the tumbler an extraordinarily spirited spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I… I did it! The grand prize! Trainer, I won the grand prize!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "See? I told you I'd win it! Luck is something you seize with your own hands!",
+            "choice_data_list": [
+                "Yeah, that was incredible!",
+                "Yeah, that was incredible!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She wins the grand prize just as she promised. It feels like she won through sheer determination."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. I've got a feeling it's going to be a good year. ♪",
+            "choice_data_list": [
+                "You should go to the hot spring with Kitasan."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "No, I'm giving this to you, Trainer. It was your raffle ticket, after all."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm just happy I got to spin the tumbler!",
+            "choice_data_list": [
+                "But you're the one who won…",
+                "But you're the one who won…"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well then, how about we go together?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It'll be a great break from work. Yes, that sounds like a grand idea. It's decided, then!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We can use it to celebrate completing the first three years of the Twinkle Series! It's important to mark milestones and show appreciation for each other, after all!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Besides, having a reward for working hard is a good motivator, right?",
+            "choice_data_list": [
+                "I suppose you're right.",
+                "I suppose you're right."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All right! Then it's a promise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We promise to use the coupon as a reward once we successfully get through her senior year with flying colors."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, a carrot hamburger steak!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I just love how impressive it looks. At home, we cut up the carrot, so I always look forward to getting to eat this version with a whole carrot. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Guess what! I can eat the entire steak without the carrot falling over!",
+            "choice_data_list": [
+                "But how?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! ♪ The secret is at the top of the carrot. You have to… Well, it will be easier to just show you. Let's eat it together!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Prepared to be amazed by my special skill!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond handles her knife and fork expertly and gracefully polishes off the hamburger steak without the carrot toppling over."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Mm, that was wonderful. It certainly deserves its \"deluxe\" title! It was absolutely delicious!",
+            "choice_data_list": [
+                "That was impressive!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Long ago, I heard of a jinx that says the direction a hamburger steak carrot falls indicates where bad luck lies."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I figured there wouldn't be any bad luck around me if I could eat the steak without the carrot falling over, so I practiced doing just that.",
+            "choice_data_list": [
+                "You were trying to overcome the jinx?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes. Everyone is always surprised when I manage to do it, and it makes for a great conversation starter. Do you want to try too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Satono Diamond passes on her secret technique to me, and I learn to eat it without the carrot falling over."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, we got so many! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer, please take these home with you. It was your raffle ticket, after all.",
+            "choice_data_list": [
+                "I don't think I can finish these alone!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm… In that case, I'll split them with the others in the dorm."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Just giving them away as-is isn't very fun, so I'll cook them up first. ♪",
+            "choice_data_list": [
+                "What are you going to make?",
+                "What are you going to make?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, there's something I've been wanting to try my hand at making—carrot taiyaki!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Everyone loves sweet carrot paste, so I'll fill the taiyaki with that and top them off with grated carrot."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll knead some carrots into the dough as well and mix in some carrot chips! That should give the taiyaki a cute orange color! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "For the final touch, I'll skewer it with a whole carrot, just like a carrot hamburger steak!",
+            "choice_data_list": [
+                "Th-that's pretty… innovative.",
+                "Th-that's pretty… innovative."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You think so too? If it turns out well, I plan to propose it as a new dish for the Satono Group's culinary division. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite feeling somewhat unsure about how extremely creative the dish is, I offer to help her with the cooking."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, Satono Diamond informs me that the carrot taiyaki was a huge hit among the Ritto Dorm residents."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Just a single carrot… I'm sorry, Trainer. I wasted your precious raffle ticket…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It seems I didn't try hard enough…",
+            "choice_data_list": [
+                "In that case, eat that carrot and cheer up!",
+                "In that case, eat that carrot and cheer up!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh? Are you sure I can have it?",
+            "choice_data_list": [
+                "Of course! Go ahead!",
+                "Of course! Go ahead!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Despite this being the only carrot we won, you're willing to give such a precious prize to me? Thank you so much."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "This carrot you've gifted me is the only one of its kind, and it's all mine."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm sure it's the tastiest carrot in the world! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm just happy to see Satono Diamond smiling so much, but the raffle clerk sweats nervously under the pressure of the carrot having to be the tastiest one in the world."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I didn't… get a prize?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I want to try again!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I refuse to accept this! I swear I'll turn these results around!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Erm… Do you have another raffle ticket?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I don't. Where can I buy one?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You can't buy them. You get them with your purchases in the shopping district."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So I just have to buy something else, right?! I'll be right back!",
+            "choice_data_list": [
+                "Hold on! Let's calm down a little!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Don't try to stop me! As an Umamusume of the Satono family, I cannot run away from this problem!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's just as opposed to bad luck as she is committed to breaking jinxes. Or maybe she's taking this way too seriously."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I even have my wallet right he—huh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears Satono Diamond forgot her wallet in her dorm room. Thanks to that, I'm able to dissuade her from trying the raffle again."
+        }
+    ]
+}

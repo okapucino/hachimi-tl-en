@@ -1,0 +1,50 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Are we done for the day? That's not enough! I need to be training way more!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm shooting for number one, not second place! I won't stop until I can outrace everyone!",
+            "choice_data_list": [
+                "Don't worry, I've prepared some extra sets.",
+                "Don't worry, I've prepared some extra sets.",
+                "Running is about quality as much as quantity.",
+                "Running is about quality as much as quantity."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm shooting for number one, not second place! I won't stop until I can outrace everyone!",
+            "choice_data_list": [
+                "Don't worry, I've prepared some extra sets.",
+                "Don't worry, I've prepared some extra sets.",
+                "Running is about quality as much as quantity.",
+                "Running is about quality as much as quantity."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, look who planned ahead! ♪ Come on, let's get started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet throws herself into training until the day ends."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's… a good point, actually. Okay, fine. But let me just do one more lap!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'll make sure it's the best lap I've ever done. That won't be overdoing it, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet runs a lap in her best time yet. She finishes up training satisfied with her performance."
+        }
+    ]
+}

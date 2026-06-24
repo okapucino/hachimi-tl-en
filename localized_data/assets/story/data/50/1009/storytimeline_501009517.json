@@ -1,0 +1,30 @@
+{
+    "title": "がっかりツインテール",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm supposed to meet with Daiwa Scarlet first thing this morning, but…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh…</i> This is driving me crazy. No matter how many times I tie it, I can't get my hair right.",
+            "choice_data_list": [
+                "…Something wrong with it?",
+                "…Something wrong with it?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yes! There is! It has to be just like how my mom taught me to do it!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh! I can't focus like this! I'll be back once I fix it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Daiwa Scarlet is unable to focus when her hair isn't perfect."
+        }
+    ]
+}

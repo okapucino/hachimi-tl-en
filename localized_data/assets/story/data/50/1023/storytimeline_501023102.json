@@ -1,0 +1,115 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's, and we decide to visit a shrine to make a wish for success in Biwa Hayahide's coming senior races.",
+            "color_text_info_list": [
+                "senior"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I can't believe it's already a new year. Time sure does fly."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "By the way, did you watch the Asahi Hai F.S. last month?",
+            "choice_data_list": [
+                "(The Asahi Hai Futurity Stakes…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide participated in that G1 before. It's one of the races that determines the junior year champion."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I heard Narita Brian took first in it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Time really does go by quickly. She's a classic racer already."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It might even be as soon as <i>this year</i>…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide takes a deep breath and lets it out as if she's steeling herself for something. Then, she turns to me again."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The battle between Brian and me might be as soon as this year.",
+            "choice_data_list": [
+                "…!"
+            ],
+            "color_text_info_list": [
+                "Brian"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We need to start gathering data on Brian right away. I doubt she'll stop with the Classic Triple Crown tour.",
+            "choice_data_list": [
+                "We need to be ready to beat her.",
+                "We need to be ready to beat her."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Exactly."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, the line's moving. We'd better start thinking about what we want to pray for."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What will you ask for this year, Trainer?",
+            "choice_data_list": [
+                "For you to be healthy.",
+                "For us to improve your abilities so you can win.",
+                "For us to polish up your technique."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're praying for my sake and not your own? You really prioritize us racers over yourself too much."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Why don't we drink some amazake after we're done praying? We can do a little New Year's toast to <i>both</i> our health."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I enjoy the start of the new year with Biwa Hayahide."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, you're right. That's something we need to work on together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's do some training when we get back, so we can make that wish of yours come true."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Biwa Hayahide and I get started training from the very first day of the new year."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm, my technique? I feel like you already help me enough with my running skills…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But I love that you never get complacent. I'll take a leaf out of your book and pray for the same, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I spend a nice start to the new year with Biwa Hayahide."
+        }
+    ]
+}

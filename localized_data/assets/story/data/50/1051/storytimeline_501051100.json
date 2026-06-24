@@ -1,0 +1,353 @@
+{
+    "title": "Introducing Nishino Flower!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the day Nishino Flower starts training in earnest for her debut in the Twinkle Series!",
+            "choice_data_list": [
+                "(I'll put together a regimen right away!)",
+                "(I'll put together a regimen right away!)"
+            ],
+            "color_text_info_list": [
+                "Nishino Flower",
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite my lack of knowledge and experience, she accepted me as her trainer. With her future in my hands, I know what I have to do."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's work my fingers to the bone—I'll simply overcome my shortcomings with effort. Just as I feel my resolve renewed…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hello, Trainer! Working hard as always, I see!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Today, our journey together finally begins, so I wanted to come and greet you properly."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I, Nishino Flower, will put everything I have into this! Let's do our best!",
+            "choice_data_list": [
+                "Excellent! I'll be counting on you!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Right! And… I know we don't start training until the afternoon, but…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If you haven't had lunch yet, I thought you might be interested in trying this.",
+            "choice_data_list": [
+                "Is that…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yup, I made a bento box!",
+            "choice_data_list": [
+                "And you're giving it to me?",
+                "And you're giving it to me?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Of course. I made it especially for you… So please accept it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's bento box includes rolled omelettes, rice balls, a stewed side dish, and a bean salad, all arranged appetizingly.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…How does it taste?",
+            "choice_data_list": [
+                "It's delicious!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yay! ♪",
+            "choice_data_list": [
+                "The stewed side dish is very rich in flavor.",
+                "The stewed side dish is very rich in flavor."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You mean the butterbur and deep-fried tofu? I prepared them yesterday, so the flavor had time to really soak through! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Please tell me how you prefer your food to be seasoned. I'll do my best to match your tastes next time!",
+            "choice_data_list": [
+                "You're planning to make me lunch again?",
+                "You're planning to make me lunch again?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "As long as you don't mind. I love to cook, but more than anything…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It makes me happy to see people smile as they eat the things I made for them.",
+            "choice_data_list": [
+                "I appreciate the kindness!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After Nishino Flower and I eat lunch together, we jump right into her training."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower zooms down the track. Though small in stature, I get a sense of her innate talent by how hard she runs. Not to mention…",
+            "choice_data_list": [
+                "(She's blisteringly fast!)",
+                "(She's blisteringly fast!)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant… pant…</i>",
+            "choice_data_list": [
+                "Great running out there!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Do you really think so? Thank you!",
+            "choice_data_list": [
+                "I see why you were accepted here at such a young age.",
+                "I see why you were accepted here at such a young age."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-you're praising me too much… I'm still a long way from where I want to be!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower was granted early admission to Tracen Academy. That in and of itself is an amazing accomplishment.",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But the fact that she skipped a few grades comes with its own set of concerns…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Excuse me, Trainer, Nishino Flower. Sorry to interrupt your training."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Is something wrong, Tazuna?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Can you spare some time once your session is over? The infirmary doctor would like to have a word with you about Nishino Flower's physique."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "As you are aware, Nishino Flower enrolled at Tracen Academy earlier than most students."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "The decision was based on both her impressive talent and the fact that she was determined to be entering her race-ready stage."
+        },
+        {
+            "name": "Monologue",
+            "text": "Being \"race-ready\" refers to an Umamusume's period of physical development. It's during this time that their ability as an athlete grows dramatically."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Simply put, Nishino Flower is already more than capable of competing in races. However…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Compared to the other students, my body still has a lot of growing left to do… Right?"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Exactly. I believe this was already discussed with you and your parents prior to your enrollment."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Trainer, her body is already in a state of flux."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "That's why I implore you to factor in her physical state when making decisions on her training and races. I trust you'll do what you believe is best for her.",
+            "choice_data_list": [
+                "I understand."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower is the age of an elementary school student. Naturally, she doesn't compare physically to the others starting their racing careers."
+        },
+        {
+            "name": "Monologue",
+            "text": "There may be times in the future where that leaves her at a disadvantage, but for the time being…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But it's fine for me to keep running, right? I'll just have to train hard to make up for any physical differences!"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Yes, that's a great mindset to have. I'm sure you'll become a splendid Umamusume. Good luck."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer, I'll do my best. I promise!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I know it won't be easy, but I'll find a way to rise above any hardships!",
+            "choice_data_list": [
+                "I'll do my part, too!",
+                "I'll do my part, too!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to work even harder than you will!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And, um, on that note… I still have plenty of energy left over, so can I do some extra training?",
+            "choice_data_list": [
+                "Let's not overdo it on the first day."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, okay…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I understand. Are you going to take the rest of the day off, too?",
+            "choice_data_list": [
+                "I think I'll do some studying."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Studying?"
+        },
+        {
+            "name": "Monologue",
+            "text": "While there's nothing keeping her from starting her career, Nishino Flower's circumstances are quite special and require extra attention."
+        },
+        {
+            "name": "Monologue",
+            "text": "That means I need to continue learning every day so that I'm ready to tackle any unforeseen problems that might pop up. After all…",
+            "choice_data_list": [
+                "I'm still pretty new at this, you see.",
+                "I'm still pretty new at this, you see."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!",
+            "choice_data_list": [
+                "I'll see you tomorrow, then!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, yes! Have a nice night!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer didn't sound all too confident…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Despite being so small and inexperienced, Trainer told me I'd do fine and agreed to guide me.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(There's got to be a way for me to repay such kindness and help Trainer gain some courage and confidence.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But how do I do that?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Is something the matter, Flower?",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, I'm sorry! I just got a little lost in my thoughts!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(This is Grass Wonder. She's kind and has a gentle nature, and she's a fellow member of the groundskeeping committee.)",
+            "color_text_info_list": [
+                "Grass Wonder"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "There's no need to apologize. Just let me know if there's anything you don't understand about your duties."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I appreciate that—thank you! I'll go water the flowers now."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hm? …Wait a minute. This flower bed is empty. But there was moss phlox growing here before."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, it seems there are no plans to grow anything new in that flower bed for now."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "If you have any ideas for how to use it, please let me know."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(A new flower bed… It sure would be pretty if all kinds of flowers were blooming in it.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Hehe! Watching flowers try their hardest to bloom always gives me so much courage.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Ah."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Perhaps if I work really, really hard, then…"
+        }
+    ]
+}

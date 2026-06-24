@@ -1,0 +1,182 @@
+{
+    "title": "ふたつの原風景",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from our outing, Grass Wonder tells me there's somewhere she wants to visit, so we stop by an inn."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hello, everyone. It's been a while."
+        },
+        {
+            "name": "Boy",
+            "text": "Hey, it's Grass! Long time no see!"
+        },
+        {
+            "name": "Girl",
+            "text": "Hi, Grass! What are we gonna play today?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A warm smile grows across Grass Wonder's face as the excited children flock around her.",
+            "choice_data_list": [
+                "So you know these kids?",
+                "So you know these kids?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, they're the children of this inn's proprietors. They're very knowledgeable about traditional Japanese games."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We bonded over a game of otedama the last time I visited."
+        },
+        {
+            "name": "Girl",
+            "text": "We played lots and lots! We did ohajiki, ayatori, karuta, and tons more."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We sure did. Learning so many new things was fun for me, as well."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So, what shall we do today?"
+        },
+        {
+            "name": "Boy",
+            "text": "Hmm… I think we probably showed you all the games we know already."
+        },
+        {
+            "name": "Girl",
+            "text": "I've got it! Why don't you teach us a game you played when you were little?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Huh? Me?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But… I didn't really get to play any Japanese games when I was young. What to do?",
+            "choice_data_list": [
+                "What types of games did you play in the States?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What types? Well… it's just that I'm not sure if these children would really enjoy—"
+        },
+        {
+            "name": "Boy",
+            "text": "Oh, I forgot! You're from America! That's so cool!"
+        },
+        {
+            "name": "Girl",
+            "text": "That's right! I wanna know what you play in America!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Very well… I guess I do know a game called Simon Says."
+        },
+        {
+            "name": "Boy",
+            "text": "Simon?! What a cool name!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I guess it would have some flair for being foreign."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "America and Japan. I wouldn't be who I am today without them both.",
+            "choice_data_list": [
+                "Well, let's get it started!",
+                "Tell us more about the United States.",
+                "Tell us more about the United States."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "America and Japan. I wouldn't be who I am today without them both.",
+            "choice_data_list": [
+                "Well, let's get it started!",
+                "Tell us more about the United States.",
+                "Tell us more about the United States."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Sure. So, in this game, one person plays the role of \"Simon,\" and everyone else has to do what Simon says."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Experience is the best teacher. I'll start, and you can follow my lead."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's see… Oh yes. <i>Simon says, right hand up…</i>",
+            "choice_data_list": [
+                "English?!"
+            ]
+        },
+        {
+            "name": "Girl",
+            "text": "But I don't know English!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh… I'm sorry."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I guess I got too excited about sharing something from back home…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The four of us play together until the sun goes down, and I get to learn a lot about Grass Wonder's feelings toward her home country."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Gladly. There's so much I could tell you."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My father fits the typical image of a confident, rough-around-the-edges American, but he loves Japan dearly."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Meanwhile my mother is the polar opposite—unfailingly gentle and polite. She's something of a role model for me, actually.",
+            "choice_data_list": [
+                "You take after both of them.",
+                "You take after both of them."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Perhaps I do."
+        },
+        {
+            "name": "Girl",
+            "text": "Hey! Can we play now?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, sorry. Yes, let's get started."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer, I can tell you more on the way back to the academy. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We play until the sun goes down. Later, as we're returning to the academy, she tells me all about her happy memories from back home."
+        }
+    ]
+}

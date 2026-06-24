@@ -1,0 +1,91 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross got injured during training, so I've brought her to the infirmary.",
+            "choice_data_list": [
+                "Sorry, I should have been more careful."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "How come <i>you're</i> apologizin'? This wasn't anyone's fault, so ya can cut the doom 'n gloom."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "'Sides, a scratch like this'll clear up in no time! C'mon, cheer up!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait a sec, I'm the one who got hurt, so how come I'm tryin' to make <i>you</i> feel better? You're s'posed to be cheerin' <i>me</i> up!",
+            "choice_data_list": [
+                "Good point."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hahaha. You're gettin' some color back in your cheeks now. C'mon, there's still time on the clock. Let's get back to trainin'!",
+            "choice_data_list": [
+                "I want you to rest for today.",
+                "…Okay, but let's train extra carefully!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, it's not that bad. Light injuries like this happen all the time.",
+            "choice_data_list": [
+                "But… I'm still concerned."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Geez! Quit gettin' gloomy over everythin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…Okay fine, I'll give. Trainin' wouldn't be fun with you this on edge."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'll rest up for today, 'kay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sounding disappointed, Tamamo Cross takes herself back to the dorm."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right! I think I'm good for a light jog!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "OUCH!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dang it. I think I might've made it worse."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "If I'd known this'd happen, I woulda just listened to ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "After I see Tamamo Cross back to the dorm, she makes sure to rest up properly."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right! I think I'm good for a light jog!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, I feel fine! I knew it was nothin' serious!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her injury doesn't seem to be affecting her very much. Being mindful of her temporary limits, Tamamo Cross continues to train."
+        }
+    ]
+}

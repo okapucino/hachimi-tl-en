@@ -1,0 +1,222 @@
+{
+    "title": "左にホクロはないらしい",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold Ship turns to me as we're passing through a park on the way home."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "T to the rainer, aka \"Trainer\"!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Let's have a little swing-a-roo on those swingy swings!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're gonna sing while we swing, and the first one to bite their tongue loses!",
+            "choice_data_list": [
+                "What kind of game is that?",
+                "What kind of game is that?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm?"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "S-somebody save meee!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Holy guacamole! Is Armageddon upon us?!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "Huh?! Uh, no, it's nothing that serious…"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "But it's still an emergency! You have to help me! Look over there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The girl, who can't be much older than ten, points a shaky finger across the park."
+        },
+        {
+            "name": "Suspicious Man A",
+            "text": "Argh! Where'd she go?!"
+        },
+        {
+            "name": "Suspicious Man B",
+            "text": "I'm certain she ran off in this direction… Hey, search the playground!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wow, check it. They're literally Suspicious Man A and Suspicious Man B over there."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hang on… Are they after <i>you,</i> kiddo?"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "Yes… Please don't be alarmed, but the truth is, well…"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "I'm a princess from a faraway land, and they're assassins sent to kill me!",
+            "choice_data_list": [
+                "Whaaat?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "No waaaaay!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then… Could it be? Are you the heir to the long-lost Argent Kingdom?!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "History recalls how the king's twenty-one daughters scattered upon hearing news of his untimely death amidst the coup twelve years ago."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "O princess… To think! To think that you're safe! It is an honor to meet you!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "I, um, well…",
+            "choice_data_list": [
+                "(Golshi's totally commandeered the conversation!)",
+                "(Golshi's totally commandeered the conversation!)"
+            ]
+        },
+        {
+            "name": "Suspicious Man A",
+            "text": "She's not here, either… Goodness, why must she do this every time?"
+        },
+        {
+            "name": "Suspicious Man B",
+            "text": "Please come out, my lady! Your lessons were to begin quite some time ago! Your father is going to be beside himself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…It seems the girl is being pursued for a completely different reason than she claims."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Duty has called, and I, the Golden Knight, shall rise to meet it! Princess, have no fear! I shall protect you from these evildoers!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "…"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "…Well met, brave knight! As my shield, see that no harm comes to me!",
+            "choice_data_list": [
+                "(She's playing along?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yes, Your Highness! I live to serve!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now, Trainer! My faithful right-hand companion—er, that's a bit much. My faithful right-pinky companion!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Have you a plan to keep Her Highness safe?! Well? Do you?!",
+            "choice_data_list": [
+                "I think it's better if we let them find her.",
+                "I think it's better if we let them find her.",
+                "When hiding a tree, one must make for the forest!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Have you a plan to keep Her Highness safe?! Well? Do you?!",
+            "choice_data_list": [
+                "I think it's better if we let them find her.",
+                "I think it's better if we let them find her.",
+                "When hiding a tree, one must make for the forest!"
+            ]
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "What? I don't wanna be found! If they find me, I'll have to sit all alone and stud―er, I mean…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh! See, this is why you'll only ever be a pinky!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Princess, let us leave this pinky to itself till its nails grow over."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now, climb onto my back! The Golden Knight will save you!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Listen up, baddies! Get outta the way if you don't wanna get hurt!"
+        },
+        {
+            "name": "Suspicious Men",
+            "text": "Ack! What the—my lady?! Stop right there!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "Ahahaha! Wow, miss―oops, I mean brave knight! You're very fast!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hyahaha! 'Tis I, the Golden Knight, lethal weapon of the Argent Kingdom!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I end up with no choice but to join the men and chase after Gold Ship as she flees with the girl."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wowzers! That plan is perfect! I expected nothing less from Trainer the Wise!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But this is no time for dawdling! Princess, this way! Quickly!"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "Huh? Where are we going?"
+        },
+        {
+            "name": "Mysterious Girl",
+            "text": "Oh, wow! Is this a racecourse? I've never been to one before!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bwahaha! They'll never find you with all these people around, even if they have a +1 in investigation!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Look at that, Trainer. Turns out you do have some good ideas sometimes! I officially promote you from pinky to eyelash!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After enjoying the races for a while, we escort the girl back to her home."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The race is about to begin, and Kitasan Black's phone has been buzzing nonstop with messages of support."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, I got a message from one of my classmates! She said, \"I know you'll win it today, Kita!\" ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A lady from the shopping district and my brother also sent me a message a while ago. Everyone's support means so much to me!",
+            "choice_data_list": [
+                "I'm cheering for you, too!",
+                "I'm cheering for you, too!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Heehee! ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm definitely gonna score a win! Don't you worry about a thing and just watch me whiz past the finish line!"
+        }
+    ]
+}

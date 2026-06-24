@@ -1,0 +1,225 @@
+{
+    "title": "寄ってらっしゃい見てらっしゃい！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back to the academy, we run into Nice Nature, who invites Kitasan Black and me to a flea market in the shopping district."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well? What do you think of the best bread in the whole shopping district?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mmm! It's delicious! And the apricot jam on top takes it to a whole other level!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "I know, right? It <i>should</i> be flying off the shelves, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Can't really sell something without people to sell to…",
+            "choice_data_list": [
+                "Now that you mention it, there aren't many customers around."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The whole market does feel deserted… but why? People should be flocking here with food this yummy on sale!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I heard there's a big event being held nearby, so everyone must be there instead."
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "This flea market is supposed to promote the shopping district's upcoming Gratitude Festival, but at this rate, no one will know about it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Now, now! There's no need to get so depressed! After all, you have two very pleased customers right in front of you, don't you?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um… If it's all right with you, I'd like to help you out!",
+            "choice_data_list": [
+                "Do you have some kind of plan?",
+                "Do you have some kind of plan?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah, and you're going to help! Oh, but first, let's buy some extra bread and jam."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay! Now we've gotta spread the jam on the bread, and…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Here, Trainer! Let's tuck in!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We've got apricot, strawberry, kiwi, and blueberry jam! Heap on as much as you like!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What do you wanna start with? How about some good ol' strawberry jam?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black passes me a slice of bread slathered with strawberry jam, so I accept it and take a bite."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How is it?",
+            "choice_data_list": [
+                "D-delicious!"
+            ]
+        },
+        {
+            "name": "Passerby",
+            "text": "That does look really tasty… Are they selling that at an event nearby or something?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We bought them at that flea market just over there! They've got tons of delicious food and bargain finds for sale!"
+        },
+        {
+            "name": "Passerby",
+            "text": "Wow, really? I had no idea they were doing a flea market. Maybe we should go take a peek.",
+            "choice_data_list": [
+                "We did it! We hooked in a group of customers!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "All right! Let's keep up the good work and try another location!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mm-mmm! This kiwi jam bread really hits the spot! I can feel all the exhaustion leaving my body!",
+            "choice_data_list": [
+                "The tangy aftertaste is great too!",
+                "The tangy aftertaste is great too!"
+            ]
+        },
+        {
+            "name": "Jogger",
+            "text": "Hmm… I suddenly feel hungry."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, go ahead and take a slice if you like! They're selling them right over there at the flea market!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter… Murmur, murmur…</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wh-whoa, we're getting so many customers! How'd you manage to pull so many people so quickly, Kitasan?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, all we did was have some fun! Curiosity did the rest.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Even when you're busy or in a rush somewhere, if you hear people having fun, you naturally wanna see what's going on, right?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You might wonder what the ruckus is about and take a look. Once you do, you've already become part of the festival!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "People'll inevitably get swept up in the excitement, so all we gotta do is keep enjoying ourselves and keep the party vibes high!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wow, just like that? We're clearly learning from the master here.",
+            "choice_data_list": [
+                "So that's why you were acting so excited outside!",
+                "So that's why you were acting so excited outside!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yup! But it's thanks to the shops here that I was able to hype things up so much!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Everyone's welcoming personalities and the care they poured into each product are what got the customers so excited!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe! You're sure laying it on thick."
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "You're right, though! The shopping district's relaxed and friendly atmosphere is our main selling point!"
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "Once the customers are here, the rest is up to us!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Thanks for all your help, you two. I have a feeling the festival is gonna be A-OK!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Here! Have some tasty bread and jam as a thank-you gift!",
+            "choice_data_list": [
+                "A chic gift for a chic girl!",
+                "A chic gift for a chic girl!",
+                "It sure was fun attracting customers.",
+                "It sure was fun attracting customers."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Here! Have some tasty bread and jam as a thank-you gift!",
+            "choice_data_list": [
+                "A chic gift for a chic girl!",
+                "A chic gift for a chic girl!",
+                "It sure was fun attracting customers.",
+                "It sure was fun attracting customers."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Me, chic?! Hehe, that might be going a bit too far…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Come on, you're our super stylish captain! Hold your head high!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aw, you guys! I'm gonna take that as a sincere compliment, then! Haha!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Dad… I wonder if I've managed to get a tiny step closer to being like you…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It really was! You sure know what you're talking about, Trainer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And it's not like we didn't get anything out of it ourselves. I mean, it was so much fun!"
+        }
+    ]
+}

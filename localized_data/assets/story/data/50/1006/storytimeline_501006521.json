@@ -1,0 +1,38 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "One morning, I see Oguri Cap assumedly headed to the academy, but as she approaches, she marches right past its gate.",
+            "choice_data_list": [
+                "Where are you going?",
+                "Where are you going?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That was a close one. You're a real lifesaver… <i>Yawn.</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I couldn't fall asleep last night, so instead of sheep, I decided to count takoyaki."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then I counted taiyaki, and then carrots, and then hamburgers…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Before I knew it, it was morning."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap looks sleep-deprived throughout the remainder of the day."
+        }
+    ]
+}

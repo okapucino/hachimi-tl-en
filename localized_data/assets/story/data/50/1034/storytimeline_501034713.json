@@ -1,0 +1,84 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I escort Inari One to the infirmary after she gets injured during training."
+        },
+        {
+            "name": "Inari One",
+            "text": "Gimme a break, it's only a li'l scrape! A little spit and grit and I'll be as good as new!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I can't be sittin' on my butt all day. Let's hurry and get back to trainin'!",
+            "choice_data_list": [
+                "You need to get proper rest.",
+                "We can continue, but in moderation."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "What're you talkin' about? I'm tellin' ya I'm fine!",
+            "choice_data_list": [
+                "You'll only make things worse if something bad happens."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Geez. Never took ya for such a worrywart!"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Seriously, do you <i>have</i> to sit next to me with that gloomy expression? Fine… I'll take the day off."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One goes back to her dorm with a miserable look on her face."
+        },
+        {
+            "name": "Inari One",
+            "text": "I told ya not to worry! Right, time to get my head back in the game!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I only tasked her with a light run to check her condition, Inari One's face contorts with pain."
+        },
+        {
+            "name": "Inari One",
+            "text": "Okay, so the pain's back… but I can still work through it, I swear!",
+            "choice_data_list": [
+                "Let's call it a day."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Sigh…</i> Guess you've got a point. Best to do as I'm told and play it smart."
+        },
+        {
+            "name": "Monologue",
+            "text": "After I cut our training session short, Inari One slumps her shoulders and trudges back to the dorm."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe! Howzat, Boss? No problem if I just keep it light, eh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe! Howzat, Boss? No problem if I just keep it light, eh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm an Edo girl, born and bred! No way a li'l injury like this'll stop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While monitoring her injury, Inari One completes a light training session."
+        }
+    ]
+}

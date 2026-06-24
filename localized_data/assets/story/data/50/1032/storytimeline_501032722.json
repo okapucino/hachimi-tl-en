@@ -1,0 +1,38 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm in my office doing paperwork when…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Uuugh… Trainer, I need your help.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My head is pounding… I can't think straight."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You're my assistant. You have to do something about this pain…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aaah… It even hurts just to speak. There's no way I can do proper research like this…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I can't even make any painkillers. <i>Sigh…</i> It's hopeless…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon looks terrible. I should do something to help her."
+        }
+    ]
+}

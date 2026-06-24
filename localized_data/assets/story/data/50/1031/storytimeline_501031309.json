@@ -1,0 +1,278 @@
+{
+    "title": "After the Kikuka Sho: Beyond Limits",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Overcoming the 3,000-meter trial, a blistering gale snatches victory from the flower of famed lineage and brings the Triple Crown tour to a splendid close!"
+        },
+        {
+            "name": "Caster",
+            "text": "It's Ines Fujin! Ines Fujin has triumphed!"
+        },
+        {
+            "name": "Fan A",
+            "text": "You're amazing, Ines! That was some incredible racing!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…",
+            "choice_data_list": [
+                "Ines?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I carry Ines Fujin to the waiting room. She undergoes a brief examination, but the doctor tells me she's perfectly fine."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Where… am I?",
+            "choice_data_list": [
+                "You're in the waiting room."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh. I collapsed again, huh?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…This is pathetic. I've caused so much trouble and made everyone worry."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I thought I could pull it together. And my sisters were watching too… This means I—",
+            "choice_data_list": [
+                "…Did something happen?",
+                "…Did something happen?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "N-no, nothing like that! It's just, you know…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "There was that whole mess before the race, and then I went and passed out, so I… I'm just really sorry!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm okay, though. I am. I won't mess up ever again! No matter what!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin may insist that she's fine now, but she certainly doesn't look it.",
+            "choice_data_list": [
+                "I want you to tell me if something happened.",
+                "I want you to tell me if something happened."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "No, it's fine. Nothing happened at all. I'm fine. Totally fine…",
+            "choice_data_list": [
+                "What matters to you matters to me, too.",
+                "What matters to you matters to me, too."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…! B-but… it's like…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I can't take care of the things that are important to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes well up like a dam about to burst."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Last time I visited home… I found out something that shocked me."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My sisters quit their dance lessons so they could help out around the house."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Our mom gets sick a lot. And she's been going through another bad spell lately, so she's in and out of hospital."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My sisters said they're going to take care of her in my place, since I can't be there right now."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "This is all because I left home to satisfy my own selfish desire to race…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Why did you two give up dancing?! I can just quit racing and come home. That will solve everything!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "You're wrong! You don't get it, Big Sis! Just go back to the academy already!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "I won't forgive you if you quit racing to stay at home! I'll never talk to you again!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "This is something me and Polly set our minds on! If you go and quit racing now, then…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!"
+        },
+        {
+            "name": "Ines's Father",
+            "text": "<i>Sigh.</i> We all discussed this, and we want you to pursue your dream. So there's no need to worry about us."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So… you two will be happy as long as I don't give up on running?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But you don't need to handle everything yourselves. There are plenty of housekeeping services these days, and I could pay for it with my wages."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So please don't let go of your dreams… Promise me that one thing!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I worked all I could to send more money home, but that just made them <i>more</i> worried that I'd end up ruining my health."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I wanted to put their minds at ease, to show them I wasn't overdoing it. I even changed my running style in an attempt to blow away all their worries."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's why I didn't want them to see me collapse after the Kikuka Sho…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "If things keep going like this, then…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, I'm sorry! I guess it's not really that big a deal!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It is what it is, you know? Besides, I'm sure girls born into prestigious families are under a lot more pressure than I am."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It kind of feels like I should be doing all this bellyaching about race-related stuff, huh? Like a major injury or something."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm sorry for burdening you with something so trivial. It's a family matter, so there's no need for you to worry about it.",
+            "choice_data_list": [
+                "It's not trivial at all!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!",
+            "choice_data_list": [
+                "It's an important issue for you, right?",
+                "It's an important issue for you, right?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!",
+            "choice_data_list": [
+                "I won't let you shoulder this alone."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Trainer, I…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Sniffle…</i> Waaaaah! <i>Sob, sob…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The tears that had been filling Ines Fujin's eyes finally begin to overflow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her shoulders tremble as she sobs. I gently put my arm around her in an offer of support."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once she eventually calms down, we talk about what her next step should be."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The next step, huh?",
+            "choice_data_list": [
+                "How about taking a bit of a break?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Yeah, that might be a good idea."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'd like that. A short one. Just until I figure out how to handle my situation."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "As for my next major goal… Would it be all right to choose something far off? Say, early spring?",
+            "choice_data_list": [
+                "How about the Osaka Hai?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Osaka Hai is a G1 race held in spring. At 2,000 meters on turf, the distance shouldn't pose an issue. It's even held at Hanshin Racecourse, just like the Asahi Hai F.S.",
+            "color_text_info_list": [
+                "Osaka Hai"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That sounds good. I think I can handle it."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days after the Kikuka Sho, I make a phone call that I believe will be important in supporting Ines Fujin going forward."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Brrring, brrring…</i>"
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "Hello, is this Ines's trainer? Thank you for always looking out for my daughter.",
+            "choice_data_list": [
+                "It's been nothing but a pleasure."
+            ]
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "I'm sorry we haven't had many opportunities to speak on the phone like this. Are you calling about the matter we discussed previously?"
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "Actually, I have a request of my own. I hesitate to ask considering the situation, but regarding the Arima Kinen…"
+        }
+    ]
+}

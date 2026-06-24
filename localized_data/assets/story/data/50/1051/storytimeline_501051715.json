@@ -1,0 +1,71 @@
+{
+    "title": "Extra Training",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just as Nishino Flower completes today's training session, she makes a request."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… Trainer! Can I keep running just a little longer?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "After looking over my previous lap times, I realized I've gotten faster!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And I guess that must have given me an extra burst of motivation, because I just want to keep going!",
+            "choice_data_list": [
+                "That's the spirit! Run like wild!",
+                "That's the spirit! Run like wild!",
+                "You're going to wear yourself out."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And I guess that must have given me an extra burst of motivation, because I just want to keep going!",
+            "choice_data_list": [
+                "That's the spirit! Run like wild!",
+                "That's the spirit! Run like wild!",
+                "You're going to wear yourself out."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! Off I go!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "All right! I can go even faster!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower happily continues running until the sun sets."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's a good point… Too much training could backfire on me…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But then, what should I do about this urge to become even faster?",
+            "choice_data_list": [
+                "Running isn't the only way to train."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Oh! That's right! I can study instead! Strategy during a race is just as important speed, isn't it?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer, could you spend some more time teaching me today? I want to improve my racing knowledge!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Nishino Flower and I go over racing tactics in my office until the sun sets."
+        }
+    ]
+}

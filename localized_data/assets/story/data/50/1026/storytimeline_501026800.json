@@ -1,0 +1,279 @@
+{
+    "title": "Mission for バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mihono Bourbon",
+            "text": "Have you decided on which chocolates to buy? I can help you find something suitable if you require help."
+        },
+        {
+            "name": "Monologue",
+            "text": "I happen to be checking out a Valentine's Day event on my day off when Mihono Bourbon suddenly approaches me.",
+            "choice_data_list": [
+                "What brings you here?",
+                "What brings you here?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My apologies for failing to inform you of this beforehand."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I am currently carrying out my designated task of acting as a guide for this event.",
+            "choice_data_list": [
+                "So basically, this is your part-time gig?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Contractually speaking, that is correct. As for why I am working here…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, some of the event's workers are running late due to traffic so Eishin Flash decided to help out at one of her friend's shops."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon ran into her here and was asked to help out too. She agreed as a way to pay Eishin Flash back for her constant support."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This mission is imperative for gaining vital knowledge and funds for Valentine's Day."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Could I please receive your approval to engage in part-time work exclusively today?",
+            "choice_data_list": [
+                "Sure, I'll notify the academy for you."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Woman A",
+            "text": "Excuse me. I'm looking for some chocolate truffles. Are there any that are exclusive to this event?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative. Please state your preferred flavors."
+        },
+        {
+            "name": "Woman A",
+            "text": "Hmm… A box with a variety of sweet flavors to try out would be nice."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Search complete. I would recommend you peruse the shop over there. Their truffles boast a velvety ganache that melts into a milky flavor."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The adjacent shop offers a range of different flavors. It is the only one selling fragrant and succulent truffles containing real fruit juice."
+        },
+        {
+            "name": "Woman A",
+            "text": "Wow! You sure know your stuff! Okay, I'll think I'll check out that store!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her suggestions are surprisingly detailed. Had she tried each shop's chocolates beforehand? I can really feel her passion for Valentine's Day."
+        },
+        {
+            "name": "Shop Staff A",
+            "text": "I'm so sorry for being late! Thanks for covering me last minute! I'll take over from here, so go ahead and clock out!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. Mission complete. Best of luck."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for your help today, Bourbon. You're a real lifesaver."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "By the way, are you available after this? I wish to treat you to some cake for your trouble. Of course, your master is welcome to join us."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Cake? Thank you, but you need not provide me further compensation, as I have already received payment from the shop.",
+            "choice_data_list": [
+                "Then how about we simply enjoy some cake together?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That… would be acceptable! Let the three of us have cake together, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "We go to the cafe nearby, and both Mihono Bourbon and Eishin Flash order the special Valentine's Day chocolate cake."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Although it's only January, Valentine's decorations are already festooned all around. It's nice we can start trying all kinds of chocolates so early."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Every year around this time, a number of my friends come to me to learn how to make chocolates themselves.",
+            "choice_data_list": [
+                "They're already preparing for Valentine's Day, huh?",
+                "They're already preparing for Valentine's Day, huh?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, those who are unaccustomed to making desserts often need to practice several times to get them right."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Flash, I have a question pertaining to homemade chocolates that you may have the answer to."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Homemade chocolates are inferior to those prepared by professional chocolatiers in every way."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I believe they require something unique to set them apart from store-bought ones, but what would be appropriate to add?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "For something unique, I believe it would be enough to pour your heart into the chocolate while you make them."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Searching… No results found. How does one pour their \"heart\" into chocolate?",
+            "choice_data_list": [
+                "I guess how much time you spend deciding on the chocolates also counts."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how debating over the right chocolates to give someone is a form of showing one's \"heart.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In addition, making sweets from scratch takes a lot of time and effort. That in and of itself is something the recipient is sure to appreciate."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reconstructing hypothesis. The unique element that sets homemade goods apart is the inclusion of \"heart,\" which consists of time and effort."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That's right. The thoughts and feelings poured into homemade confections have an inherent worth not present in store-bought goods."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see. That was very educational."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I read an article the other day about homemade goods which confused me, but this discussion has dispelled my concerns."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I now have a deeper understanding of Valentine's Day. Many thanks for your answers and advice."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, Bourbon. You finished work? I'm done with shopping."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. Time to proceed with our post-work hang out. Please wait a moment while I change."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Gotcha. Well, hey, you free too, Master?",
+            "choice_data_list": [
+                "Yeah, I guess so."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nice! We got us a sponsor! All right, let's get goin'! ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Okay, here's all the chocolates you asked for."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan covers the table with various boxes of chocolates from different stores and starts opening all of them.",
+            "choice_data_list": [
+                "Are all these Valentine's Day presents for people?",
+                "Are all these Valentine's Day presents for people?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nah, they're for us. Valentine's is like the best time of year to try out fancy chocolates!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Jordan is able to collect a vast amount of information on chocolate through her friend network. This data is vital for selecting chocolate."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "As I wished to gain access to this information as well, I suggested to Jordan we make a joint purchase of a wide selection and share them."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Bourbon's strict when it comes to choosing chocolates for friends, and I can try all kinds of goodies while she's at it, so it's a win-win situation!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Now then, let us begin sampling.",
+            "choice_data_list": [
+                "Are you tasting them to see which ones to get?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative. Firsthand experiences form the most reliable data."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Munch, munch…</i> Verdict—delicious. Its caramel flavor should be compatible with most palates."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Omigosh! This one's <i>so</i> yummy! Here, you give it a try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They offer me a rich-looking dark chocolate. I bite into it, and my mouth floods with a lovely, distinctive bitterness.",
+            "choice_data_list": [
+                "It's good. I like that it's not too sweet."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Status—\"surprise.\" So this is the type of chocolate you prefer…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Popular chocolate choices typically contain elevated levels of sugar. Your preference for chocolate that lacks sweetness was not anticipated."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "As I have not had much bitter chocolate before, I must expand my palate at once. I shall start with this bitter chocolate here."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Munch, munch…</i> Verdict—\"satisfactory.\" Though bitter, I detect a hint of sweetness in it. I wonder how this one will compare?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, just wondering, but did you just want to binge on chocolates or something?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Was Bourbon's \"gift investigation\" just a front? Seeing her face stuffed with chocolates, I can't help but think Tosen Jordan is onto something."
+        }
+    ]
+}

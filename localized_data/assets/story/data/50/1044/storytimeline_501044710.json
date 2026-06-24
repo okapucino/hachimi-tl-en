@@ -1,0 +1,75 @@
+{
+    "title": "Defeat",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh, this isn't fun at all! I'm done! I don't care anymore!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Forget all this boring stuff! Let's go get a parfait!",
+            "choice_data_list": [
+                "Are you upset you lost?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! I don't care! I wasn't even trying today!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So why should I be upset? No chance!",
+            "choice_data_list": [
+                "I think you did a really good job.",
+                "Let's review your performance and plan for the next race."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uuugh…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But… But… It didn't feel good. <i>At all!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There's no way I'll be a witch at this rate! This is cruddy!",
+            "choice_data_list": [
+                "It's okay. You'll win the next one."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Of course! Like I'm gonna let myself be a loser!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll win the next one for sure! And you! Get your act together and help me!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Isn't that <i>your</i> job?! Figure it out!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>I'm</i> leaving!",
+            "choice_data_list": [
+                "Huh?! Where are you going?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "To study victory magic, duh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm never losing again! Ever!"
+        }
+    ]
+}

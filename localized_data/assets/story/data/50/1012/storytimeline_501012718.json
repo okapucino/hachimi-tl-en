@@ -1,0 +1,36 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, Teach! Thanks for giving me a day off!",
+            "choice_data_list": [
+                "Were you able to rest well?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yep. You told me to rest, so I did just that!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right. Now it's your turn to blow my expectations outta the water."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I bet you spent your time off cookin' up a real killer of a training regimen for me, didn't you?",
+            "choice_data_list": [
+                "I sure did."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I knew I could count on ya! All right, let's get training, Teach!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon is raring to go after some much needed rest!"
+        }
+    ]
+}

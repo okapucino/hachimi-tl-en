@@ -1,0 +1,287 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's already December 25th. I join Meisho Doto to help with the preparations for a small get-together we're having."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hmm-hmm. ♪ Holiday… ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "La-di-daa. ♪ Happy holidays! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto continues humming this odd little song. Eventually, we finish setting everything up."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, I'm so happy. I can't wait to see everyone at the party!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "The me before coming to Tracen would never be spending time with good friends like this.",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Why? Well, um… let's say I didn't have anyone I could call… a friend."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I couldn't make any, really. I've never lived long enough in the same place."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I would say my fondest holiday memory is probably the time I celebrated with my parents on an air shuttle.",
+            "choice_data_list": [
+                "Shuttle? As in, an airplane?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "That's right."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We had to move around a lot for my dad's job."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I tried really hard to make friends, but I never really got to know anyone long enough to get invited to parties."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I kept on trying though! I tried, just…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "My mother and father saw how sad I was, so they quietly celebrated with me on the plane."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "There were only candied carrots to eat and juice to drink, but we still held hands and quietly sung carols together."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hmm-hmm. ♪ Holiday… ♪ La-di-daa. ♪ Happy holidays!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now I know the story behind her little song. Not only that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "This is probably one of the reasons why Meisho Doto doesn't have much confidence. Everything she built always came tumbling down."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But that's all in the past! ♪ Right now, I have a lot of friends coming to celebrate."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I wonder when they'll be here. I just can't wait. I wrote on the invitation to come thirty minutes early, so it shouldn't be too long…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaaaahh! I forgot to send out the invitations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She screams in agony. Without receiving invitations, no one will know to come. That makes today…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ohhh… This is just like my past. The two of us alone, like I was with my family…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'll just sing my heart out! La, la, laa! Happy holidaaays!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ring, ring!</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh, someone's… here?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn tootin'! Is this where the party's supposed to happen? Sorry I'm tardy!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I see you're runnin' this rodeo, Doto. Let's get the party started!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Whaaat? How did you get my invitation if I never sent it out?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-what's going on? Could it be I actually did hand them out?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Or did you hand them out for me, Trainer?",
+            "choice_data_list": [
+                "I don't remember doing anything like that…"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Invitation? I didn't receive no invitation. However…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I was passin' by when I got the sense a party was happenin' somewhere! And ya can't have a party without lots of people!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Turns out Taiki Shuttle decided to drop by on a hunch. But then…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Excuse me. I heard this is where the animal lovers club was secretly hosting their special event tonight."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? Have I got the wrong place? Is this a holiday party or something?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I'll be. Pardon my intrusion."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Holy cow! Your timin' couldn't have been better, Nature! ☆ Join the celebration, won't ya?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huuh… are you sure that's okay? I feel a little out of place. Doto, is this your party?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes, it is. You can stay and enjoy yourself if you'd like. No one else will be here anyway."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We don't have many animals, but there is a tanuki."
+        },
+        {
+            "name": "Tanuki",
+            "text": "Yip, yip!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto may not have had many friends in the past, but right now she has Taiki Shuttle and Nice Nature."
+        },
+        {
+            "name": "Monologue",
+            "text": "And a tanuki."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What are you all doing?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, it's Ayabe… You came?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But… my invitations, they weren't sent out… How?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "We don't need a letter or permission to join in, do we?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Besides, a certain someone has a habit of barging in uninvited."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha! Welcome all to my holiday party! I presume all the guests have already arrived."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Um, Opera O, this party was organized by Doto's fans."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch, I knew it would be cramped. That's why I told everyone to find somewhere bigger."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Cramped? Uh-oh, do you need to stretch your legs?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Happy holidays, Doto!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm looking forward to running against you at the Arima Kinen. Also, thank you so much for hosting this gathering."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, wh-what's going on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With all Meisho Doto's friends looking out for her, it seems we didn't have to worry about preparations after all."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Come, Doto, commence the festivities! Let us raise our glasses and sound a chorus of cheers to your many fans!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Thank you, everyone, for doing something like this for someone like me."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm slow, wimpy, and clumsy—I'm flawed in so many ways, but I couldn't be happier right now!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So please, raise your glasses. And cheeers!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Sploosh!</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waaagh! It spilled all over my head!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone laughs at what we all saw coming. With her surrounded by many fans, the merrymaking seems to go on forever."
+        }
+    ]
+}

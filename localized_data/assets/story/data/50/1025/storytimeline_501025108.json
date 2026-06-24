@@ -1,0 +1,254 @@
+{
+    "title": "Fan Fest",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Fan Fest, and a special new shop has opened up at Tracen Academy for the occasion."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ting-a-ling!</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Welcome."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a cozy pop-up coffee shop that'll be open for one day only."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you for waiting, Trainer… This is my specially roasted Manhattan blend."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Go ahead, try it…",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…",
+            "choice_data_list": [
+                "What about the other customers?",
+                "What about the other customers?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There aren't any. It's this serenity that makes the shop so comfortable. What's more…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No one can find it anyway. Even if they do, the entrance will only lead them straight out through the exit…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Manhattan Cafe is distorting the boundaries of space and time. I'm not sure why she opened this shop though…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ting-a-ling!</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Sniff, sniff…</i> That smells amazing! I just <i>knew</i> there had to be a cafe around here!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whoa, I didn't know this was your place, Cafe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The new customer is Special Week, a cheerful racer from Hokkaido.",
+            "color_text_info_list": [
+                "Special Week"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Hmm, gimme a \"Super-Duper Creamy Coffee\"!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…O-okay. But… I must ask you, Spe…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "How did you… enter?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Uh… I just smelled something amazing, I guess?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Something… amazing? I see…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe might sound like she's accepted the explanation, but the suspicious look she's giving Special Week says otherwise."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you for waiting, here's your large Viennese coffee. I'll just place it here."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wow, there's so much cream on top! All righty, I'll knock this back, then go give the Fan Fest and my spring races ev'rything I got!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… Spe? Which spring races… are you going to enter?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh, you wanna know about my schedule? Well, I got a bunch of ideas, but there's this one race I <i>gotta</i> run in…"
+        },
+        {
+            "name": "Special Week",
+            "text": "And that's the spring Tenno Sho!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The spring Tenno Sho… I knew it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe will be running in that race too. Is that somehow related to Special Week showing up at this cafe?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "This must be a sign… Our rivalry is what led you here…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Spe… I'll be racing too…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm also entering the spring Tenno Sho…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whoa, you're entering too, Cafe? G-guess that means I've got some steep competition, huh."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hrmm. In that case, I'd better put my power-up plan into action right now! Time for my signature move!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "What… signature move?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Cafe! Gimme all the desserts on the menu! And that includes the milk-flavored macaron and the apple custard!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Gimme all ya got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Is she looking to… boost her stamina? Special Week goes on to polish off everything she asked for, down to the last bite."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I think I'm in trouble…",
+            "choice_data_list": [
+                "Are you out of stock?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No, I have a more pressing concern…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She scarfed down all that food without a care in the world. I had no idea you could get stronger that way…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I can't lose… I just can't…"
+        },
+        {
+            "name": "Monologue",
+            "text": "This cozy pop-up cafe is open for one day only…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yet the barista in charge has other things on her mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ting-a-ling!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The doorbell rings unexpectedly, and in comes a clamoring crowd of customers."
+        },
+        {
+            "name": "Man",
+            "text": "Oh, this has to be the place—the coffee shop Manhattan Cafe opened up!"
+        },
+        {
+            "name": "Woman",
+            "text": "What a lovely atmosphere! And the interior is just as wonderful as you'd expect! Oh, I'm such a big fan of hers."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, um…",
+            "choice_data_list": [
+                "Looks like they've found you.",
+                "Looks like they've found you."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes, it seems that way… But… I wonder how?",
+            "choice_data_list": [
+                "It just goes to show how passionately they were searching."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to her recent efforts, Manhattan Cafe's popularity is starting to soar."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like her fame is what drew in her fans. And…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Gee whiz, this place is as bustling as a hive of bees! There's no way Cafe will be able to manage this shop on her lonesome."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okey dokey, I'm going to chip in! Boss, we need a lemon squash, a milkshake, and some homemade napolitan spaghetti on the double!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Whoa, hey… I never agreed to any of this. I'm not your butler."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Geez. Don't come crying to me if you get burned. If you know what you're getting into, though… I guess I'll play along."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer… My concept for the cafe… It's…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Well… I suppose it's nice to be popular sometimes. If the alternative is the place staying empty every year…"
+        },
+        {
+            "name": "Monologue",
+            "text": "With so many fans and Umamusume coming to see Manhattan Cafe, the shop is a huge success."
+        }
+    ]
+}

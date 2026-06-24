@@ -1,0 +1,49 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa didn't show up for training, so I decide to go looking for her."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Soooaring… dunk!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Damn, we lost again! It's no fair to recruit El for help!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehe! Aerial attacks are a condor's specialty!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Just keep giving me the ball and I'll keep droppin' 'em in!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Uh, El… I think your trainer is here…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué? What's up, Trainer? You need help with somethin'?",
+            "choice_data_list": [
+                "Did you forget about training?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ah, that's right! I totally spaced!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I was only gonna play for a little bit, but my competitive spirit got the best of me…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'll be careful next time. I'm really sorry…"
+        }
+    ]
+}

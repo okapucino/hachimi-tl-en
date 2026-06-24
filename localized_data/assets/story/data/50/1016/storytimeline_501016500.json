@@ -1,0 +1,50 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I inform Narita Brian of some sudden changes to her training regimen."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…I see."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What? Is there something else?",
+            "choice_data_list": [
+                "I was just thinking you took that pretty well."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Who do you take me for?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "If there's good reason for making a change, I'll accept it. That's only natural.",
+            "choice_data_list": [
+                "I haven't even explained the reason yet…"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…You haven't said anything that doesn't make sense to me before."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Your actions always lead to the desired outcome. I assumed that would be the case this time as well."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Don't make me start regretting it now, all right?"
+        },
+        {
+            "text": "Narita Brian seems to be satisfied with the results of her training."
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "title": "逃げゆく風を追いかけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ryan",
+            "text": "Bright, you're gonna win this Derby! I just know it!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Dear me… Ryan, you sound terribly assured."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Derby, the greatest challenge of the Classic Triple Crown approaches. Mejiro Ryan's brimming with confidence."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You should be just as confident as I am. The track at Tokyo is practically made for you, Bright. 2,400 meters is just the right length!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's got the longest straight of all the racecourses! That means you'll be able to charge ahead no problem!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "The track is wide, too, so you won't get blocked. If you just hit the track like always, then…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan may be full of cheer, but…",
+            "choice_data_list": [
+                "It's too early to celebrate.",
+                "It's too early to celebrate."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer? Perchance, are you… concerned about something?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm frank about my worries. While it's true this track suits her well, I'm still concerned that she can't control the pace."
+        },
+        {
+            "name": "Monologue",
+            "text": "The pace chasers back at the Satsuki Sho were no joke. If Mejiro Bright relies too much on the final stretch, assuming things are in her favor…",
+            "choice_data_list": [
+                "You might run into a nasty surprise.",
+                "You might run into a nasty surprise."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Urk! You're not wrong… In fact, there's an Umamusume here who stood out to me. Kinda reminded me of Ines…",
+            "color_text_info_list": [
+                "Ines"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You'll be in trouble if you don't pay attention to the front runners and pace chasers. It's rare, but front runners sometimes win the Derby too."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That's right. I believe something similar happened the year you ran, Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You remember?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Of course I do. The front runner who won was a dear classmate of yours, was she not?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. The Umamusume who beat Mejiro Ryan at the Derby was her own roommate, Ines Fujin.",
+            "color_text_info_list": [
+                "Ines Fujin"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Urgh… Don't reopen that old wound… I was so bummed by that result… It really hurt!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But past scars don't spell the end of your story. I was able to come back better than ever because of all the iron I pumped!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer! I wanna put Bright through the same lesson I had!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hold on for a sec! I'll be right back."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "P-pardon? Ryan?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan sprints away at an incredible speed, but she's back in the blink of an eye."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hello-lo, Bright! ♪ I'm here to have some fun!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, you must be Ines! I'm positively elated to make your acquaintance."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Same here! Ryan's been going on about you since forever!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Her love and affection for you are the real deal! She's practically drowning in love!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "S-stop, Ines. That's so embarrassing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Mejiro Bright begins her training by partner running with Ines Fujin."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, catch up, Bright!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Huff, puff…</i> The distance between us keeps increasing… I suppose I have to accelerate a tad…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thump, thump, thump, thump!</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Heehee! That's what I want to see! Now, here comes the final stretch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoooosh!</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh no… I can't push ahead! Normally, I can close the gap, but this time…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Huff, huff…</i> Trainer, what happened?",
+            "choice_data_list": [
+                "I see. She's the perfect opponent for you.",
+                "I see. She's the perfect opponent for you."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The perfect opponent…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are various types of front runners. Ines Fujin is one who controls every aspect of the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "She sets the pace from the beginning, condenses the pack in the middle of the race, and finally sprints forward with all her energy right at the end."
+        },
+        {
+            "name": "Monologue",
+            "text": "In other words, the type of runner that Mejiro Bright's least compatible with."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right, Trainer. While Bright and I both save our energy for that final spurt, Ines is totally different."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I could see it clear as day, watching them run just now."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I understand too. I'm so grateful to have had the chance to run with you, Ines."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I also believe, if you were to help coach me, it would go a long way in preparing me for the race ahead."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Right, right! You and I training together is a recipe for awesome! Plus, I'd do anything for Ryan's sworn sis."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks, Ines. I knew I could count on you to spot."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The ability to borrow aid from others is more proof of our Mejiro power, no?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I can receive aid not just from other Mejiros, but also from the Umamusume we befriend."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ines, I'm looking forward to becoming your protege."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I feel so reassured—as if I've just gained another big sis!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "For sure! I'll totally play big sis for you! I've actually got two little sisters back home."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Now then, you two, let's hit the track! Trainer, whenever you're ready!",
+            "choice_data_list": [
+                "Right. Let's test out a few different strategies.",
+                "Right. Let's test out a few different strategies."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With the race approaching, we run several mock derbies. Before we know it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our strategy is perfectly formed. Mejiro Bright should be able to hold her own against even the most oppressive front runner."
+        }
+    ]
+}

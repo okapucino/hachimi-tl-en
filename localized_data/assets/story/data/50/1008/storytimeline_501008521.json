@@ -1,0 +1,37 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Vodka is in my office, ostensibly with some sort of request."
+        },
+        {
+            "name": "Vodka",
+            "text": "Listen to this, Trainer. I only slept for four hours last night!",
+            "choice_data_list": [
+                "What? Why?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I was up workin' on my arms, and then it just got so late."
+        },
+        {
+            "name": "Vodka",
+            "text": "Well, four hours might not be enough for some, but it's more than enough for me…"
+        },
+        {
+            "name": "Vodka",
+            "text": "<i>Yaaaawn…</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh! That wasn't 'cause I'm sleepy or anything!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since then, Vodka has been staying up late in order to brag about not needing sleep…"
+        }
+    ]
+}

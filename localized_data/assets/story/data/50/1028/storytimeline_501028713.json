@@ -1,0 +1,73 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono has suffered an injury, so I bring her to the infirmary."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm sorry, Trainer… I guess I didn't warm up properly…",
+            "choice_data_list": [
+                "Nonsense. You did your warm-ups perfectly.",
+                "Nonsense. You did your warm-ups perfectly."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thank you… But please don't look so sad."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "This is nothing! And I always feel better after having some chanko, so I'll be okay! ☆",
+            "choice_data_list": [
+                "You should still take it easy, though.",
+                "You're not pushing yourself too hard, are you?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! I guess you can't help but worry about me. Okay, then. I will!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Now, let's go have some chanko! I bet I'll recover even faster if we have some together. ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "That day, Hishi Akebono rests up properly and starts preparing for our next training session."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course n—",
+            "choice_data_list": [
+                "Whoa, are you okay?!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe… I must've strained myself a little too hard…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I knew she was worse off than she let on… We get her treated that same day, then pause her workouts for a while afterwards."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course not!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Watch this! These legs I've trained up with my sumo stomping aren't just for show!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After getting treated, Hishi Akebono gets right back into her training with all guns blazing."
+        }
+    ]
+}

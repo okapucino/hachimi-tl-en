@@ -1,84 +1,88 @@
 {
-    "no_wrap": true,
+    "title": "夏合宿（3年目）終了",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I was coming and going due to the races, \nbut… I was able to finish the summer \ntraining camp without incident!"
+            "text": "That was quite the mean schedule of races, but summer camp ended with no hiccups!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah!!!!!",
+            "text": "Ack!",
             "choice_data_list": [
-                "What!?"
+                "What?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I have realized something, just now…!"
+            "text": "I just realized!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In terms of distance traveled, surely I must \nhave passed the 3600 meter mark by now!?"
+            "text": "Considering how much I've run, haven't I gone way over 3,600 meters?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Perhaps I've already covered about \n100 million meters…!?"
+            "text": "Maybe I've even run 100,000,000 meters!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I, I… \nI'm just way too brilliant――!?",
+            "text": "A-aren't I too talented for my own good?!",
             "choice_data_list": [
-                "……Unchartered territory for an Uma Musume, huh!",
-                "……Unchartered territory for an Uma Musume, huh!"
+                "You're making Umamusume history!",
+                "You're making Umamusume history!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hawawawawaa, my excellence is \njust terrifying…!"
+            "text": "Oh, I scare even myself!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But I cannot settle for just this!"
+            "text": "However, I cannot loiter around like this!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm going to go run on the beach \nand extend the distance even more!!"
+            "text": "I will run all the way to the beach and back to put in even more meters!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushiiiin!",
+            "text": "Bakushiiin!",
             "choice_data_list": [
-                "Right now!?"
+                "Right now?!"
             ]
         },
         {
-            "text": "I rushed after Sakura Bakushin O!"
+            "name": "Monologue",
+            "text": "Panicking, I trail after Sakura Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "BakushinBakushiiiin!",
+            "text": "Bakushin, BAKUSHIIIN!",
             "choice_data_list": [
-                "Wait, the bus is already here!",
-                "Wait, the bus is already here!"
+                "Stop, the bus is almost here!",
+                "Stop, the bus is almost here!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!? Then, I cannot proceed! \nTardiness is a class president no-go!"
+            "text": "Huh?! Well, I must put a hold to my running then! Class representatives cannot be tardy!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm turning back right awa―― \nAaaaahhhh――?!"
+            "text": "I will turn back at once, whoaa?!"
         },
         {
-            "text": "(Splaaash!)"
+            "name": "Monologue",
+            "text": "<i>Splaaash!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaah, my speed has turned against me…! \nTrainer, you're soaking weeet―!!"
+            "text": "Oh no, my speed has backfired on me! Trainer, you're completely soaked!"
         },
         {
-            "text": "…This is how the, hot? summer camp with \nSakura Bakushin O came to an end."
+            "name": "Monologue",
+            "text": "And so Sakura Bakushin O's passionate (?) summer camp comes to a close."
         }
     ]
 }

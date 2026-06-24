@@ -1,0 +1,29 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold Ship seems less chipper than usual."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh… Mayday, mayday. This is Gold Ship."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I am out of fuel. I repeat, I am out of fuel. Switching to low power mode. Over."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Zzz…</i>",
+            "choice_data_list": [
+                "(She fell asleep standing up?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I should probably adjust her racing schedule…"
+        }
+    ]
+}

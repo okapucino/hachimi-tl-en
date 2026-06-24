@@ -1,0 +1,488 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while walking with Mejiro Dober in the shopping district…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clang-clang! Clang-clang!</i>"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation for two"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh, they're holding a raffle."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why don't we give it a try, Trainer?",
+            "choice_data_list": [
+                "Someone's eager.",
+                "Someone's eager."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So what if I am? I didn't draw a fortune on New Year's, after all."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose I am. I didn't draw a fortune on New Year's, after all."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I thought this would be a good chance to test our luck. So? What do you think?",
+            "choice_data_list": [
+                "All right, let's give it a shot!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I thought this would be a good chance to test our luck. So? What do you think?",
+            "choice_data_list": [
+                "All right, let's give it a shot!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thanks. Let's get a ticket, then. Let's see… Looks like we'll have to make a purchase in order to get a raffle ticket."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and I go off to buy some things in order to get a ticket. Once we do, we return to the location of the raffle, and…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and I give the raffle machine a powerful spin together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "W-we got the grand prize?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Incredible… I can't believe our luck turned out <i>this</i> good!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Why, that's the same as drawing a <i>super-duper</i> great fortune at the temple!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, you're right! This is so much better than a regular great fort—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, Fukukitaru?!",
+            "choice_data_list": [
+                "Oh, aren't you one of Dober's friends?",
+                "Oh, aren't you one of Dober's friends?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Indeed! The name's Matikanefukukitaru! Happy New Year!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I was just in that nearby bookstore when I heard mention of the word \"luck\" and realized I was being summoned by the universe!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But to think you won the grand prize! What super-duper great luck indeed! This is an indication that your future together will be a very bright one!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um… Thank you? I think?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "While we're at it, would you like me to read your fortune, Dober? I can determine when you should go to the hot spring—and with whom!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?!",
+            "choice_data_list": [
+                "Why not? Sounds like a good opportunity to me.",
+                "Why not? Sounds like a good opportunity to me."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? W-wait!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've got it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Already?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You must go when both of your affairs have calmed down. And the ideal person to go with is someone who is always by your side!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And with that, I shall take my leave! I bid you both adieu!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hmph…",
+            "choice_data_list": [
+                "You seem mad.",
+                "That's how fortunes are."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What an extremely vague fortune…",
+            "choice_data_list": [
+                "You seem mad.",
+                "That's how fortunes are."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You didn't let me answer for myself and just let her do whatever she wanted."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's true. Anyway, if either of us wants to go with someone else, we can just give them this voucher."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Anyway, I'll hold on to the voucher until things calm down."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But if we end up deciding to go together, well… We can cross that bridge when we get to it."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Mejiro Dober takes the voucher for safekeeping."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Mejiro Dober takes the voucher for safekeeping."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We won the first prize? No way…",
+            "choice_data_list": [
+                "Wow, that's like drawing a great fortune on New Year's!",
+                "Wow, that's like drawing a great fortune on New Year's!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Whoa, what are you so excited about? I mean, I know I was the one who mentioned it…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. You're right. Maybe this is a sign of good things to come!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha! You two sure are close. Here, have a bonus gift as a treat!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha! You two sure are close. Here, have a bonus gift as a treat!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wha?! W-we're not close at all!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? A bonus gift? We couldn't possibly accept…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Here you go—two pieces of candy. That's all you're getting, since I can't be handing out extra steaks willy-nilly. Be good and share those, now!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Here you go—two pieces of candy. That's all you're getting, since I can't be handing out extra steaks willy-nilly. Be good and share those, now!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-oh! Uh, thank you very much!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, anyway… about the prize we just won—",
+            "choice_data_list": [
+                "Which flavor do you want?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Oh, you mean the candy? If it's between orange and strawberry, I guess I prefer the strawberry.",
+            "choice_data_list": [
+                "Okay. I'll make sure to give it to you along with this hamburger steak when we part ways."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, okay. Thanks."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Right, yeah… Trainer wouldn't ask me to eat it together. What was I thinking?)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Am I out of my mind? This isn't some cheesy manga—it's real life!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know why, but Mejiro Dober starts smacking her head as if reprimanding herself as we leave the shopping district."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wow! Hehe. I guess this would equate to drawing a good fortune, huh?",
+            "choice_data_list": [
+                "Not bad!",
+                "Not bad!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah… It's not bad."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah. I hope this is a sign of even better things to come."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. I'm glad we did this together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. I'm glad we did this together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Especially since we'll be walking the same path together for so much long—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait. Forget you heard anything. I feel like I just said something really embarrassing…",
+            "choice_data_list": [
+                "I didn't think it was?",
+                "I didn't think it was?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, it was, so forget it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I guess it's fine if it doesn't bother you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we walk home in the light of the setting sun, Mejiro Dober's cheeks seem just a bit redder than normal."
+        },
+        {
+            "name": "Monologue",
+            "text": "As we walk home in the light of the setting sun, Mejiro Dober's cheeks seem just a bit redder than normal."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose this is the same as a modest fortune. Hehe.",
+            "choice_data_list": [
+                "You look pretty pleased about it.",
+                "You look pretty pleased about it."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And what's wrong with that?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just feel like it's a fitting prize for me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Winning this means there are still greater and higher heights I can aim for.",
+            "choice_data_list": [
+                "That's a good point.",
+                "That's a good point."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Winning this means there are still greater and higher heights I can aim for.",
+            "choice_data_list": [
+                "That's a good point.",
+                "That's a good point."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Right. That's why I have to keep up this momentum."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Right. That's why I have to keep up this momentum."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "After all, this is just the start…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober smiles as she looks at the lone carrot she won."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh… We didn't win anything…",
+            "choice_data_list": [
+                "Do you want to try again?",
+                "It's okay! How about we try again?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm sorry…",
+            "choice_data_list": [
+                "Do you want to try again?",
+                "It's okay! How about we try again?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, forget it. You're only supposed to draw your fortune once, anyway."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, forget it. You're only supposed to draw your fortune once, anyway."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'd already decided to work hard no matter what the results were, but…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sorry. I shouldn't have even suggested doing this raffle."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh.</i> Sorry for making things weird and forcing you to walk on eggshells…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we head home, I try reassuring Mejiro Dober that she has nothing to feel bad about, but she remains despondent."
+        },
+        {
+            "name": "Monologue",
+            "text": "As we head home, I try reassuring Mejiro Dober that she has nothing to feel bad about, but she remains despondent."
+        }
+    ]
+}

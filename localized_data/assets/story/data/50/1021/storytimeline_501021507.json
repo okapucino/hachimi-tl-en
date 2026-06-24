@@ -1,0 +1,52 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Tamamo Cross before she starts training. I think I hear her sniffling, though…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ack! What da heck are you doin' here?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O-oh… this snifflin' is uh—I got hay fever! What else could it be?! Ya never heard of allergies?",
+            "choice_data_list": [
+                "And what's that in your hand?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh! Uh, this? Just some regular ol' tissue paper. Y'know, for wipin' the ol' sniffer…",
+            "choice_data_list": [
+                "Want me to toss it away for you?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No, ya dolt! Just see what happens if ya do!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nothin' gets past you, huh! I was just readin' a fan letter's all!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "\"Whenever I see you zipping past the bigger racers like lightning…\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "\"It gives me courage.\" That's what they said. Readin' this stuff gives me the fuzzies…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…But I'm <i>not</i> cryin' or nothin'!"
+        }
+    ]
+}

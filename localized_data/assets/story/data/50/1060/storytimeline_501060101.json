@@ -1,0 +1,249 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Happy New Year, Trainer!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Thank you for all the support last year. I'm looking forward to working with you this year too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…There. Got the formal greeting out of the way.",
+            "choice_data_list": [
+                "What a polite young lady.",
+                "What a polite young lady."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"Young lady\"? What are you, one of my grandparents?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I grew up surrounded by adults, so they were always lecturing me about my manners and greetings."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You've been my trainer for a while too, so I just wanted to do things right."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, and about my New Year's resolution…",
+            "choice_data_list": [
+                "Did you decide on one?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, yeah, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, actually, why don't you share yours first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The New Year's resolution I set for us is…",
+            "choice_data_list": [
+                "Let's take extra care when coming up with a training routine!",
+                "Let's focus on health with a better diet!",
+                "Let's learn some new tricks to stand out!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oho… You wanna make sure every part of our training has a purpose, huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Really considering the effects and stuff, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Nice Nature already has a grasp of how training affects her progress. She is a smart girl, after all. In that case…",
+            "choice_data_list": [
+                "I think you can go even deeper than that."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's a very peculiar way of saying \"think harder.\" But yeah, I'll do as you say."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And trust me, my mind will go as deep as it needs to go. I'll figure out your game in no time."
+        },
+        {
+            "name": "Monologue",
+            "text": "After discussing my New Year's resolution, I have another thing I have to talk to her about."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "A better diet?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I already pay attention to my diet, though. I'm a young athlete, after all.",
+            "choice_data_list": [
+                "Are you paying attention to your snacking in the shopping district too?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Urk! H-how did you know about that?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, the shop owners are so nice and give me food! There's no way I can reject that kindness."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So please, Trainer! Is there any way you could ignore the snacking part?",
+            "choice_data_list": [
+                "If you make your dinner proportionally smaller, sure."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uuuuugh, noooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After discussing my New Year's resolution, I have another thing I have to talk to her about."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aw, geez, here we go… New tricks? Stand out?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm no good at any of that. That stuff's only for naturally talented people.",
+            "choice_data_list": [
+                "But don't you want a secret weapon unique to you?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hmmm… I guess, but I can't help cringing at those phrases."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "A secret weapon, huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I've got a year. I'll keep an eye out for things that could potentially work."
+        },
+        {
+            "name": "Monologue",
+            "text": "After discussing my New Year's resolution, I have another thing I have to talk to her about."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ummm… Trainer? What did you just say?",
+            "choice_data_list": [
+                "Tokai Teio is going to be competing in the Wakagoma Stakes!",
+                "Tokai Teio is going to be competing in the Wakagoma Stakes!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio is the strongest of her generation. Though earlier than expected, Nice Nature will face off against her in an open race."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez… I was hoping I just misheard…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm joining that race to show everyone what I can do… Ugh, why did Teio have to join?",
+            "choice_data_list": [
+                "You still have a chance!"
+            ],
+            "color_text_info_list": [
+                "Teio"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're my trainer! Of course, you'd say that!",
+            "choice_data_list": [
+                "I mean it."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Urghhh, I guess I really have to do this…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see she's still wrestling with her feelings but has accepted the reality of the situation. As long as we keep training, I'm sure we can win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "By the way…",
+            "choice_data_list": [
+                "What's your resolution?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?! You want me to tell you now?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Umm… Uh… Soooo, my resolution is…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Top.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Urgh! To slide on up to the top!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Don't get the wrong idea! I wasn't the one who came up with this resolution!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I went to the shopping district the other day to say hi to people, and I happened to mention that I didn't have a New Year's resolution yet."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Everyone teased me into making an epic resolution!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So it's like… I set that as mine just to go along with it.",
+            "choice_data_list": [
+                "Well, let's slide into victory next race!",
+                "Well, let's slide into victory next race!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahhh, I can't! It's impossible!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I knew I shouldn't have said anything!"
+        }
+    ]
+}

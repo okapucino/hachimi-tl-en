@@ -1,0 +1,26 @@
+{
+    "title": "桜花賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In a rare display, I find Air Groove fixed on her phone in spite of the approaching start of the race.",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Dober just messaged me. She's coming to watch."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If she's watching, then I have no choice but to deliver my challenge."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can sense that Air Groove is ready to go! I just need to send her off and trust her to give this race her all."
+        }
+    ]
+}

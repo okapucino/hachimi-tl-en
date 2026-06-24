@@ -1,0 +1,268 @@
+{
+    "title": "怒りと燻り",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold City has been training hard every day for our next goal race, the Satsuki Sho."
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Pant… pant…</i>",
+            "choice_data_list": [
+                "Good work. Let's take a break!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…Already?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I can keep going. Why are you being so easy on me?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Push me harder. I have to be so much better than I am now!",
+            "choice_data_list": [
+                "You need to have patience.",
+                "You need to have patience."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "I <i>am</i> patient.",
+            "choice_data_list": [
+                "Where are you going?!",
+                "Where are you going?!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm going to cool down! I'll be back soon!"
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh…</i> What am I, a little kid throwing a tantrum?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What're ya doin' wanderin' onto the track? Don'tcha know that's a hazard?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Sorry! I must've spaced out."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dang it, well be careful!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Guess I should go back."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Raaaaahhhh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Pant… pant…</i> Tch, I'm not gettin' faster at all. Again!"
+        },
+        {
+            "name": "Gold City",
+            "text": "What insane energy…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Um… Tamamo! Can I…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been a while since City ran off. I decide to check on her."
+        },
+        {
+            "name": "City and Tamamo",
+            "text": "Haaaaahh! Raaaahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City is having an intense pair running session with Tamamo Cross!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Woo! Dat's what I'm talkin' about!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Damn it, I was so close!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ey, but ya did good. Nothin' like having a rival to get ya fired up!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Sounds like you can go for more. How about another lap?",
+            "choice_data_list": [
+                "City!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh… So you ran away durin' your break and wandered over here."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No wonder your trainer looks like a sad puppy."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's not that I don't respect what my trainer says…"
+        },
+        {
+            "name": "Gold City",
+            "text": "But I can't afford to take a break. I have to push my limits and get faster!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, can't say I don't know how ya feel."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But that's no reason to skip out on breaks. For such a pretty face, you're really bullheaded."
+        },
+        {
+            "name": "Gold City",
+            "text": "What does being pretty have to do with anything?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Um… I…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "My bad."
+        },
+        {
+            "name": "Gold City",
+            "text": "Uh…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We all got things we don't wanna be told, even if they're compliments."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "People used to make funna me, callin' me short all the time."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But that doesn't matter here. I'm sorry if I made ya feel bad."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm… sorry for overreacting."
+        },
+        {
+            "name": "Gold City",
+            "text": "I know <i>you</i> actually care more about how I run."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay… Sorry for bothering you. But if it's all right with you, maybe we could—"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, City. Can I ask ya one thing?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why do ya run?"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Isn't it obvious?"
+        },
+        {
+            "name": "Gold City",
+            "text": "To make people accept who I am… to <i>show</i> them who I am!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Flames burn in City's icy blue eyes. Tamamo Cross responds…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Haha! Go get 'em! I knew there was somethin' special about you!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "See, the reason <i>I</i> run is to win. I gotta win to help out my family, and nobody can stand in my way!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But no one's recognized me yet. I gotta let everyone know I'm here, just like you!"
+        },
+        {
+            "name": "City and Tamamo",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two look at each other silently with measured smiles."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well then, I'mma head on back. You take a little breather though, yeah?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Tamamo! Are you going to compete in the Classics?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I want to race against you."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I debuted pretty late, ya know? I'm still… adjustin' to things."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Tell ya this, though, if we do meet on the track, I'm gonna beat ya for real. Be prepared!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? That's my line."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get the feeling Gold City's interaction with Tamamo Cross today will contribute to her growth."
+        }
+    ]
+}

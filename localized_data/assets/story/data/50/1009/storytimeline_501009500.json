@@ -1,0 +1,62 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's the day the students get their race times officially measured. Everyone's brimming with excitement, as well as anxiety."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! I expected nothing less! ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I did it! I beat my time! It's all thanks to you, Trainer!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "I knew you had it in you! Keep up the great work!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…",
+            "choice_data_list": [
+                "Hey there. How was your time?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! ♪ Listen and be amazed! I crushed my previous best!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Not that that's a surprise or anything. I <i>am</i> always number one, after all!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wait, that's not what I meant to say. I mean…",
+            "choice_data_list": [
+                "All that training paid off."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You know, Trainer… I-I mean, obviously, I'm perfect and all, but…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I guess I'm saying… It wasn't <i>all</i> thanks to me, so…",
+            "choice_data_list": [
+                "(Let her find the words herself.)"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Gaaaaah! Never mind! It's nothing!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Just… keep up the good work, okay?! Y-you better not slack off!"
+        }
+    ]
+}

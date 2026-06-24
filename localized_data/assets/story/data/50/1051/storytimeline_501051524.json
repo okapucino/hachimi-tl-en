@@ -1,0 +1,330 @@
+{
+    "title": "Catching the Evening Blooms",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One night, I accompany Nishino Flower in waiting for one of her flowers to bloom. Apparently, it only blooms at night."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hm… It should bloom any moment now…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Yawn…</i>",
+            "choice_data_list": [
+                "You all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Sorry!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I usually go to bed at this time, so I'm a bit sleepy…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But I'm going to do my best to stay up tonight! I want to be here when this flower blooms!",
+            "choice_data_list": [
+                "Then let's stay and wait a little longer.",
+                "You shouldn't overdo it."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, but please don't push yourself, okay? I was the one who made you come out here with me, after all…",
+            "choice_data_list": [
+                "Right back at you. Don't push yourself either, got it?",
+                "Right back at you. Don't push yourself either, got it?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Got it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower and I continue to chat while waiting for the flower to bloom…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…",
+            "choice_data_list": [
+                "Flower?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-yes?! I-I wasn't asleep, I swear!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There's no telling when the flower will bloom, so I have to stay alert!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower fights valiantly against her drowsiness, but as time passes, the flower bud remains stubbornly shut…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, the flower is still tightly closed when the sun rises…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Zzz… Zzz…</i>",
+            "choice_data_list": [
+                "Flower. Wake up."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I-it's morning already?! Sorry, I didn't mean to fall asleep!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Did the flower—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…",
+            "choice_data_list": [
+                "I'm sorry. It didn't."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No, it's okay. I knew these flowers don't bloom very often. Besides…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I had a great time waiting here with you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If, um… we ever have the chance, will you watch the flower with me again?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though the flower didn't bloom, my bond with Nishino Flower feels a little stronger than before."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Here's to another night of flower watching!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I didn't want you to catch a chill, so I brought some hot tea with me. Here you go, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower and I drink tea and chat while waiting for the flower to bloom…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, the flower is still tightly closed when the sun rises…",
+            "choice_data_list": [
+                "It's too bad it didn't bloom this time either…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But I'm sure it'll bloom next time!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So—",
+            "choice_data_list": [
+                "Let's try waiting for it again another night, okay?",
+                "Let's try waiting for it again another night, okay?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though the flower didn't bloom, my bond with Nishino Flower feels a little stronger than before."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm not overdoing it! Just look at how full of energy I—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh…",
+            "choice_data_list": [
+                "Do you want to take a nap?",
+                "Do you want to take a nap?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "B-but…",
+            "choice_data_list": [
+                "Staying up the entire night won't do you any favors."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…You're right."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay, I'll take a short nap."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, but make sure you don't overdo it either, Trainer!",
+            "choice_data_list": [
+                "I won't."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to take turns napping and coming back out to check on the flower…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But Nishino Flower and I both sleep straight through to the next morning. When we wake up, we both rush to the flower in a panic to see…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haha… Of course it bloomed last night.",
+            "choice_data_list": [
+                "I'm so sorry…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh no, it's okay! You don't need to apologize! I mean, I fell asleep too, so…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Hehe. It's funny, though, isn't it?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can't believe we both slept straight through it blooming.",
+            "choice_data_list": [
+                "I guess that makes us real birds of a feather, huh?",
+                "I guess that makes us real birds of a feather, huh?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. I guess it does. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though the flower didn't bloom, my bond with Nishino Flower feels a little stronger than before."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm not overdoing it! Just look at how full of energy I—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh…",
+            "choice_data_list": [
+                "Do you want to take a nap?",
+                "Do you want to take a nap?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "B-but…",
+            "choice_data_list": [
+                "Staying up the entire night won't do you any favors."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…You're right."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay, I'll take a short nap."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, but make sure you don't overdo it either, Trainer!",
+            "choice_data_list": [
+                "I won't."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to take turns napping and coming back out to check on the flower…"
+        },
+        {
+            "name": "Monologue",
+            "text": "But Nishino Flower and I both sleep straight through to the next morning. When we wake up, we both rush to the flower in a panic to see…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haha… Of course it bloomed last night.",
+            "choice_data_list": [
+                "I'm so sorry…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh no, it's okay! You don't need to apologize! I mean, I fell asleep too, so…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Hehe. It's funny, though, isn't it?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can't believe we both slept straight through it blooming.",
+            "choice_data_list": [
+                "I guess that makes us real birds of a feather, huh?",
+                "I guess that makes us real birds of a feather, huh?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. I guess it does. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though the flower didn't bloom, my bond with Nishino Flower feels a little stronger than before."
+        }
+    ]
+}

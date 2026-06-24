@@ -1,0 +1,110 @@
+{
+    "title": "Praying at the Shrine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go to a shrine with Nishino Flower, who's been feeling down lately."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Nishino Flower bows at the torii gate before heading through it, making sure to avoid the middle of the path.",
+            "choice_data_list": [
+                "You sure know your shrine etiquette.",
+                "You sure know your shrine etiquette."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehehe! After spotting other visitors doing the same thing, I decided to look into it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "We're here to request help from the gods, after all. It's only natural to avoid offending them!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll go offer my prayers now."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O gods, thank you for always watching over me. I hope to continue receiving your blessings in the future."
+        },
+        {
+            "name": "Little Girl",
+            "text": "Wow, you sure bowed a bunch of times."
+        },
+        {
+            "name": "Monologue",
+            "text": "A young girl who was watching Nishino Flower appears puzzled as she makes her observation."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I sure did. Before making a request to the gods, you need to bow twice, clap twice, and then bow one more time when you're done praying."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Here, why don't we try it together?"
+        },
+        {
+            "name": "Little Girl",
+            "text": "Sure!"
+        },
+        {
+            "name": "Little Girl",
+            "text": "(Bow, bow… clap, clap… and bow.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You got it, great job!"
+        },
+        {
+            "name": "Little Girl",
+            "text": "Ehehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, we hear a woman's voice call out to the girl from afar."
+        },
+        {
+            "name": "Little Girl",
+            "text": "Oh! Mommy's here! Bye-bye!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bye-bye."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! She was so cute, wasn't she? That must be what it feels like to have a little sister."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower is beaming and looks like she's totally revitalized!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "First, you make an offering… Ahh!",
+            "choice_data_list": [
+                "Everything all right?",
+                "Everything all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I forgot to bring my coin purse… And I had 115 yen all ready to go… They say that amount brings extra luck."
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly take out my wallet to see if I can help, but unfortunately, I'm fresh out of coins."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, please don't worry about it, Trainer. It's my fault for being forgetful…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's spirits are dampened, and her condition fails to improve."
+        }
+    ]
+}

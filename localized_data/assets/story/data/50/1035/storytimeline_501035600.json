@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "All riiight! A race, a race! It's time for a race!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All these awesome racers! At an awesome racecourse! Ready to have a <i>seriously</i> awesome showdown!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's enough to get my heart thumping like it's gonna jump outta my chest!",
+            "choice_data_list": [
+                "Get out there and run with all you got!",
+                "Get out there and run with all you got!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Absolutely! You know it! Get ready to see an amazing achievement!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Full power, at full throttle! I'm aiming for first place and nothing less!"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Gold Ship and I are visiting a shrine."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Phew… And up! And down! And left! And right!",
+            "choice_data_list": [
+                "Wh-what are you doing?",
+                "Wh-what are you doing?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dancing, duh! Can't you tell?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dancing's how we communicate with the spirits! It's been that way since ancient times!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I'm practically an oracle, so if I dance, the spirits'll probably get their boogie on too!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So here I am, dancing away! One and two and three and four and—"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What's that you say, spirits? \"Sleep lots, eat lots\"?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, I'm an expert at that! No time like the present to put that advice into practice!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "After all, who am I to disobey the spirits?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship follows the spirits' advice to a tee, and her condition improves quite a bit."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whaaat?! \"Listen to your trainer,\" you say?",
+            "choice_data_list": [
+                "Well, you heard the spirits.",
+                "Well, you heard the spirits."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, no, no, no! <i>The</i> Golshi doesn't take orders from anybody!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That includes all-powerful spirits! Fare thee well!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "TO FREEEDOOOOOM!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe it's because she ignored what the spirits said, but Gold Ship's condition doesn't improve at all…"
+        }
+    ]
+}

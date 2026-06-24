@@ -1,0 +1,202 @@
+{
+    "title": "お魚、観ましょ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "On the way back home with Nice Nature…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey… Since we still have some time… do you want to go check out some fish?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The lady at the fish store told me to bring you sometime.",
+            "choice_data_list": [
+                "Sure, I'm down."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Great. Shall we, then?"
+        },
+        {
+            "text": "I follow her, thinking maybe she has her eye on a particular fish she wants to buy, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ohhh, look at them go! These tasty-looking fish sure know how to swim.",
+            "choice_data_list": [
+                "I wasn't expecting to come to an aquarium."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trust me, I get it! You're probably thinking, \"Huh, what was up with the way she invited me?\" Right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's just good ol' Nature for you. I can't really do things the cutesy way."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "After the lady at the fish shop went through the trouble of giving me the tickets for us to relax, I had to get you here somehow…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I really didn't mean to trick you or anything, I swear.",
+            "choice_data_list": [
+                "Thanks for bringing me here."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I'll be… Who's this cool cucumber over here? You sure are taking this in stride."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, that's good. I'm glad you're not upset."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyway, I don't know if it'll make up for it, but… let's see what you want to see today!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It looks like they have a lot of interesting stuff going on here. Can't go wrong with everyone's go-to da—I mean, hangout spot."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The jellyfish exhibit, stingrays, snappers… They all looked so tasty."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, how about we go and see the dolphin show?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Actually, I bet you don't want to see cutesy things like that with me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I'll leave it up to you! What do you want to go see?",
+            "choice_data_list": [
+                "The dolphin show.",
+                "The <i>World's Spookiest Sea Creatures</i> exhibit!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… Were you listening?",
+            "choice_data_list": [
+                "Yeah, I was listening."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, I get it, but are you saying that because you <i>want</i> to do it, or…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, never mind… I guess I did say we'd see whatever you want to see."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Fine. If that'll help you relax, then let's do it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I hope you understand I won't be doing any cutesy screams, though."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wow, look at how lively that dolphin is! Wait… Water! It's coming this way!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gyaaaargh!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Drat… That splash was way bigger than I expected."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I didn't expect the dolphin show to be a near-death experience…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez… Not only did I end up screaming, it was more of a yowl.",
+            "choice_data_list": [
+                "That was fun.",
+                "That was fun."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Heh… I guess it was, wasn't it? Maybe places like this are my thing, after all."
+        },
+        {
+            "text": "Nice Nature and I have a great time at the aquarium, and we both leave feeling fully refreshed."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, that sounds exciting!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It says \"spookiest.\" I wonder how scary these fish can be…"
+        },
+        {
+            "text": "We move on to the exhibit area. After looking around myself, I glance over at Nature to see her reaction."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So…",
+            "choice_data_list": [
+                "…So?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So adooorable!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Awww! Look at their little eyes! And they're called flapjack octopi!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ooh!",
+            "choice_data_list": [
+                "I'm glad you're having fun."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "C-come on, this is false advertising! No way you could call cuties like this \"spooky.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oooh… They're too adorable.",
+            "choice_data_list": [
+                "Hey, that one over there is pretty cute too…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're right! It's kinda ugly, but in a cute way!"
+        },
+        {
+            "text": "Nice Nature and I have a great time at the aquarium, and we both leave feeling fully refreshed."
+        }
+    ]
+}

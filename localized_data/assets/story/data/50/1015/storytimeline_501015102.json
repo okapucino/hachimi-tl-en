@@ -1,0 +1,173 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O and I are going to meet at a shrine to welcome in the new year. This marks her advance to senior racer."
+        },
+        {
+            "name": "Monologue",
+            "text": "She still hasn't arrived, but then I hear a familiar voice coming from the main building."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Ask something of the gods?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I am accustomed to <i>being</i> worshipped, but the other way around? Well…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "If you insist, I shall come up with something."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hear me, gods. Why not ask <i>me</i> for a favor, hm?",
+            "choice_data_list": [
+                "Opera O, move over to the side, please."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The side?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh, I see. Standing at the center makes it seem as though the masses have come to pray to me instead."
+        },
+        {
+            "name": "Monologue",
+            "text": "We hurriedly move to a spot away from the center…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I must say, it's a perplexing task to think of a wish the Overlord might ask."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Alas, what could one who has everything, as I do, possibly desire?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I could demand to be initiated as the Centurial Overlord, but that is, as you'd expect… asking a lot."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Have you any ideas?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And make sure they are overlordly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "An overlordly desire. If I had to say anything, it would be…",
+            "choice_data_list": [
+                "The Manchu-Han Imperial Feast.",
+                "A title change to Demon Lord.",
+                "The restoration of monarchical rule."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ahh, an imperial feast! I will ask the gods to prepare an assortment of the most lavish delicacies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooosh!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Wh-whoa! My body is moving on its own! Are the gods guiding me?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Come along, Trainer! Quickly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She leads me to…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A ramen shop? And a rather run down one at that. But a restaurant of Chinese origin all the same."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The roots are identical, so I will dine in the spirit of the Qing dynasty rulers. In what manner should I ask…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Master, I request \"the works,\" if you please. This is the most affluent, I assume."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And add gyoza and fried rice as toppings for good measure!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now <i>that</i> is what I call a New Year's special—the Overlord ramen forte!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O eats every last bite of the extra large ramen put in front of her. She's full of energy!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A vocational change! Yes, rather than the path of the Centurial Overlord, the path of the Demon Lord is also on the table."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "How interesting… A new year is the best time to try new things, and thus, to the dark side I turn. Behold, I am the Demon Lord! Heavens, cower before me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Flash! Rumble, rumble!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha! Come, torrential downpour! Drench all of humanity, all of Umamusume kind!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ohh! This play tickles far more than I expected! I feel a level of greatness never before experienced!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Acting like a demon lord seems to have made Opera O stronger in every way."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Restore the ruling system of old! Veni, vidi, vici… and the like, yes?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Of course! It is time to reclaim control from the modern-day statesmen."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "President, there is a matter we must discuss. It concerns the organizational structure of this academy."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I believe it's about time we do away with these democratically elected leaders and restore the right of rule to kings."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I was unaware that Tracen Academy was ever a monarchy…",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Listen well. Rule under a king has its superior points. Such as…"
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O elegantly lays out her argument. This exchange with Symboli Rudolf appears to have expanded her knowledge."
+        }
+    ]
+}

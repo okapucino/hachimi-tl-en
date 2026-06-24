@@ -1,0 +1,36 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. I've got me some special spice today, Trainer!",
+            "choice_data_list": [
+                "Spice?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, I'm feelin' a little better than usual. What is it people say again? I've got a pop in my step today?",
+            "choice_data_list": [
+                "You mean you've got pep in your step?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah, that's the one! I've got some pep in my step!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "If I lose again like last time, it'll give all my fans the blues."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'll come out of this race the winner and throw everybody a big, happy party!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Anybody who gets in my way is goin' down with a bang! These legs of mine'll blast them away!"
+        }
+    ]
+}

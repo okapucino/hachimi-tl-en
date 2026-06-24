@@ -1,0 +1,89 @@
+{
+    "title": "皐月賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Think there'll be a Triple Crown champion this year?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Beats me! But personally, I've got my eye on…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the long-awaited Satsuki Sho. Expectations couldn't be higher for the first leg of the Triple Crown. However…"
+        },
+        {
+            "name": "Fan A",
+            "text": "Hey, about this \"Smart Falcon\"… Doesn't she usually compete in dirt races?"
+        },
+        {
+            "name": "Fan A",
+            "text": "I wonder why she's running today. Is she gonna be okay?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Maybe she's just as good on turf. At any rate, I've heard her concerts are a blast…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "People seem shocked to see me here. Figures, I guess.",
+            "choice_data_list": [
+                "You don't seem fazed.",
+                "You don't seem fazed."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, yeah. I knew this would happen."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "On dirt, I'm the up-and-coming Umadol everyone's talking about…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But here, I'm just a regular runner. It makes sense for everyone to be a little confused."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's fine with me, though! I have faith in myself."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm super-duper nervous, but… I've got to believe I can do it."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I've already come this far. The only thing left to do is grab that center spot!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna show all my fans just how good I can sing on a big stage!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes waver, but only slightly. Nonetheless, she steps up to the challenge, choosing to believe in herself…",
+            "choice_data_list": [
+                "L-O-V-E! Who do we love? Falco!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…?!",
+            "choice_data_list": [
+                "I believe in you too.",
+                "I believe in you too."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…Haha, I should know this by now. I'm not on my own."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thanks for the cheer. Time to go! ☆"
+        }
+    ]
+}

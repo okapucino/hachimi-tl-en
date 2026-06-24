@@ -1,0 +1,29 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go looking for Taiki Shuttle to see how she's doing before the race…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay. On the fourth corner, I'll kick it into high gear, and…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, hey there, Trainer! You gotta say somethin' when you come in!",
+            "choice_data_list": [
+                "Sorry, it looked like you were focusing."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe, 'course I was! A real cowgirl knows ya gotta get in the zone before a showdown!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm gonna show ya a true Texan quick draw out there on the turf!"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Agnes Tachyon has a number of victories under her belt…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hey, Trainer. You still have it on you, don't you?",
+            "choice_data_list": [
+                "Have what?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You know, that thing we won by chance at the shopping district."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Seeing as you haven't left the academy since then, I'd imagine you're still carrying it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shopping district… won by chance… Hmmm, could she be talking about the hot spring vacation ticket we got from that raffle?",
+            "choice_data_list": [
+                "I still have this ticket if it's what you're asking about…"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, perfect. Then it's settled. We should head out to our destination this instant.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What do you mean \"huh?\" Wouldn't it bother you if you simply held it until it expired?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What are you waiting for? Come on."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure she had complained about traveling being nothing but a hassle."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, I succumb to her pressure, and we end up going on that hot spring vacation together."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Transferring between trains while carrying around this heavy luggage was more bothersome than I had thought…",
+            "choice_data_list": [
+                "Well, this is what traveling is."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Is that so? Hmm…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a long journey and multiple transfers, we finally arrive at the hot spring inn."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Phew… They don't call them hot springs for no reason."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "How are you feeling? Were you able to recuperate?",
+            "choice_data_list": [
+                "I guess you could say so."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After a long and arduous trip, soaking in a hot spring is more comfortable than I imagined."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm, I see."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Could it be how the muscles relax due to the warmth, or is it the healing effects of the mineral-rich water? Or perhaps…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "No, never mind. In any case, you're enjoying the benefits. That's what matters."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "After this, let's have dinner together. I already arranged for the meal to be delivered to your room."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If you'll excuse me, I'll head out first."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ooh, the food is already here! That big thing there… is that a spiny lobster?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's said the ample amount of taurine found in spiny lobster is beneficial in alleviating fatigue…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But taking into account the effort required to peel the exoskeleton, it feels rather meaningless, no?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Anyway, should we start? You peel the lobster for me."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Sigh…</i> I ate myself into a coma. The spiny lobster was better than expected, though."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, what about you? You do look pretty satisfied.",
+            "choice_data_list": [
+                "I guess you could say so."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Having a fancy meal like this, in a nice tranquil place far removed from the worries of work. Truthfully, it's very relaxing."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, the tryptophan you ingested earlier is being converted into serotonin, thus causing that heightened feeling of happiness."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Or perhaps… hmm…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'm about to ask you something unusual, if that's okay with you."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her, unusual questions are the norm."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why do you feel, as you say, \"satisfied\"?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You seem to be struggling for an answer. In that case, why don't I take a guess as to why?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Today, we went through all the trouble of packing our luggage and transferring between trains, among other things to get here."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Fundamentally, troubles are nothing more than troubles, but…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "During this special time frame—this vacation—these troubles formed part of a greater experience…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And that is what, on the contrary, is serving to further <i>this</i> feeling of happiness. Sound correct?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't believe what I'm hearing. I sit there for a moment, speechless."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahaha, you should see the look on your face."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's true that, up until now, I never considered such tedious frustrations could turn into valuable experiences."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But what I've learned in these past three years has opened my eyes to an all-new hypothesis."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's a simple thing to categorize troubles as troubles."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's easy to write them off as risks, discarding the hidden possibilities they contain."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Which is why from here on, I shall make the effort to discover those possibilities."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This vacation was another experiment. And its conclusion is here before our very eyes."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In spite of all the troubles we went through, can you say that you are enjoying yourself?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hahaha! That's my guinea pig!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spend the rest of the day engaged in conversation with Agnes Tachyon."
+        },
+        {
+            "name": "Monologue",
+            "text": "During this time together, I feel we have formed an irreplaceable bond."
+        }
+    ]
+}

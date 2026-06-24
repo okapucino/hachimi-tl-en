@@ -1,0 +1,195 @@
+{
+    "title": "Before the Debut",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're in my office, and Ines Fujin has been talking to someone on the phone for a while now."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Right. Yes… but Mom, it's what Cassie and Polly want…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, just leave it to me… Don't worry, I'll be fine! Talk to you soon!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Now then, Trainer! I need a big favor!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's almost time for Ines Fujin's race to begin. In the waiting room, a pair of Umamusume twins are perched happily on chairs."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Now listen up, you two! Make sure you do what my trainer tells you to while I'm not here!"
+        },
+        {
+            "name": "Ines's Little Sisters",
+            "text": "We will!",
+            "choice_data_list": [
+                "That's what I like to hear!",
+                "That's what I like to hear!"
+            ]
+        },
+        {
+            "name": "Ines's Little Sisters",
+            "text": "Yaaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin's little sisters have come to watch her debut race. That big favor she wanted was for me to look after them."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks for bringing them both here."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Unfortunately, my race overlaps with our mom's hospital visit, but they both kept pleading for the chance to come along and watch me.",
+            "choice_data_list": [
+                "I've got this. You just focus on the race!",
+                "I've got this. You just focus on the race!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Haha, okay. I'm counting on you!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm gonna head to the paddock. Wish me luck!"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "W-wait a sec! The two of us have something we want to show you, sis! Ready, set…"
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Spin, spin, and pom-poms!"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "Pom-pom! One, two…"
+        },
+        {
+            "name": "Ines's Little Sisters",
+            "text": "\"Do your best, Big Sis!\" Hehe, did you like our cheer dance?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Haha! That was fantastic! Thanks a bunch, you two!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You've given your big sis a huge energy boost! I'm gonna have to reward you by finishing in first place!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After saying goodbye to Ines Fujin, I take the twins by their hands and lead them over to the spectator seating."
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Wow! So this is Nakayama Racecourse… It looks different on TV, huh?"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "There's not that many people, either.",
+            "choice_data_list": [
+                "That's because this is a debut race."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I imagine they're more accustomed to seeing the Nakayama Racecourse filled to the rafters during the Arima Kinen and Satsuki Sho.",
+            "color_text_info_list": [
+                "Arima Kinen",
+                "Satsuki Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The only people in the stands right now are the race organizers and avid fans. It probably feels different from that big, festival-like vibe."
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Huh, I see.",
+            "choice_data_list": [
+                "Were you expecting it to be more exciting?"
+            ]
+        },
+        {
+            "name": "Little Sister A",
+            "text": "No, this is still really great! We get to watch Big Sis race!"
+        },
+        {
+            "name": "Little Sister B",
+            "text": "She loves running a whole bunch! And I love seeing her have fun!"
+        },
+        {
+            "name": "Ines's Little Sisters",
+            "text": "Yeah!",
+            "choice_data_list": [
+                "…I see."
+            ]
+        },
+        {
+            "name": "Ines's Little Sisters",
+            "text": "Right! So we're gonna cheer extra loud to help her win!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Inhale… Exhale…</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Gotta calm these nerves… I can do this! I just have to remember what my trainer taught me!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "It figures there aren't many spectators at my first race. I just need to produce results—then my popularity will soar!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(I can hear so many different voices.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Voices from the Umamusume I'm competing against, and those from the spectators waiting just beyond the paddock.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Inhale… exhale…</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Is that an announcement? They must be using a high quality speaker system. I can hear the sounds of the paddock from here.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(I wonder if my number has already appeared on the jumbotron.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Inhale…</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "This is it—the real deal."
+        },
+        {
+            "name": "Caster",
+            "text": "Ladies and gentlemen, please join us as we watch these courageous Umamusume take the first steps on their racing journeys!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Twinkle Series, here I come!"
+        }
+    ]
+}

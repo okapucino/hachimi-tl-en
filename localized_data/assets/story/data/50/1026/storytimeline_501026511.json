@@ -1,0 +1,201 @@
+{
+    "title": "『オペレーション：補習』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Mihono Bourbon is taking extra home economics lessons. Intrigued by the unusual situation, I go to check on her."
+        },
+        {
+            "text": "I find her and Sakura Bakushin O using sewing machines to create what seem to be drawstring pouches."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Sewing machine halted. Confirming the ninth instance of frayed threads."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I have determined that rectifying the situation will take approximately fifteen minutes."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What the?! I sewed the opening shut again! Why's this so hard?! Give me a break…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This has to be some kinda test from a higher power! That's right—it's a test for me, the gorgeous class representative!"
+        },
+        {
+            "text": "There are piles of failed pouches everywhere, and they're both working up a sweat. They're not having an easy time with this.",
+            "choice_data_list": [
+                "That seems tough.",
+                "That seems tough."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Welcome, Master. Indeed, this mission is more difficult than I predicted in my initial analysis."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In addition, if I cannot complete this task today, then I face the possibility of another extra class tomorrow."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Commencing repairs immediately. Perhaps if I remove this thread…"
+        },
+        {
+            "text": "<i>Snap!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aieee?! What just happened?! What was that horrible sound?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…The top and bobbin threads have snapped. Repair method unknown. Status—\"despair.\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Looks like you got a little careless! Very well then, I'll allow you to use <i>my</i> renowned sewing machine!"
+        },
+        {
+            "text": "Sakura Bakushin O beams with pride and vigorously yanks some material out of her sewing machine."
+        },
+        {
+            "text": "<i>Snap!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "GAH! My needle! It broooke!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Status—\"hopeless.\""
+        },
+        {
+            "text": "Even Mihono Bourbon looks understandably perplexed by the unexpected turn of events.",
+            "choice_data_list": [
+                "How about a break!",
+                "Why not sew by hand?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. Taking a break in order to achieve relaxation."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, the sakura mochi was so chewy! It's got my name in it, so no wonder it's good!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come to think of it, there's a really famous proverb about mochi!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's, um… uh… Mochi… blotchy… mochi?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Are you referring to \"buy mochi from mochi makers,\" meaning \"leave it to the experts\"?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah, yeah, that one! It was right on the tip of my tongue!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, what's the matter, Bourbon? Is there something on my face?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Status—\"inspired.\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's it! Leave the mochi to the mochi makers and the sewing machines to the… sewing ma—meh! Let's just ask the teacher!"
+        },
+        {
+            "name": "Home Economics Teacher",
+            "text": "Hey, less talking, more sewing. …You're doing well, Bourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you."
+        },
+        {
+            "text": "After the teacher fixes their sewing machines, they're both able to successfully finish their pouches."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I believe it would be plausible for me to complete the pouch by hand. Rapid transition to hand-sewing mode initiated."
+        },
+        {
+            "text": "Mihono Bourbon then takes a needle and starts sewing with exact precision and speed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Complete."
+        },
+        {
+            "text": "She finishes the pouch with completely uniform stitching. It's hard to believe it's handmade!",
+            "choice_data_list": [
+                "W-wow!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Grrr… Mark my words, I won't let you upstage the class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll complete my pouch using all nineteen different hand-sewing methods described in our textbook!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There! Running stitch! Back stitch! Cross stitch! Bakushin, Bakushiiiiin!"
+        },
+        {
+            "text": "One way or another, Bakushin O is also able to finish her hand-sewn pouch, but…"
+        },
+        {
+            "name": "Home Economics Teacher",
+            "text": "Did you make this by hand?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. We encountered difficulties using the machines, so manual sewing proved optimal.",
+            "choice_data_list": [
+                "(Were they not supposed to?!)",
+                "(Were they not supposed to?!)"
+            ]
+        },
+        {
+            "name": "Home Economics Teacher",
+            "text": "Normally, this is grounds for failure, but given how uniform this stitching is, and how many methods have been used here, I'm impressed."
+        },
+        {
+            "name": "Bourbon and Bakushin O",
+            "text": "…!"
+        },
+        {
+            "name": "Home Economics Teacher",
+            "text": "So, you both pass."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hah hah hah hah! But <i>of course</i> I passed! I'm the very image of a role model, the class rep-re-sen-ta-tive!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you, Teacher."
+        },
+        {
+            "text": "They both manage to pass the extra class in the end, despite the issues they encountered along the way."
+        }
+    ]
+}

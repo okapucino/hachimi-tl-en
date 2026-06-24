@@ -1,0 +1,94 @@
+{
+    "title": "A Legendary Magic Item?!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho and I decide to eat lunch off campus, so we head to a diner."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Whew! I am <i>full!</i> I think I might've eaten too much."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Anyways, the food here is pretty good. I wonder what I should try next…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What in the world?!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wh-what is this? Some kind of magic crystal?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The kids' meal comes with a pendant that has a magic crystal!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh! How could you miss this, Familiar? I would have gotten that if I knew!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph… I don't care if I'm full! I'm getting this too!",
+            "choice_data_list": [
+                "That would be overeating.",
+                "Do what you gotta do to become a great witch!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nuh-uh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Your master is saying she wants a magical pendant, so order the kids' meal! Order it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I express my concern for her health if she overeats… but she completely ignores me."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "When I say I want it, that means I want it! I'm not leaving until I get it!",
+            "choice_data_list": [
+                "Hey, what if I eat it for you?",
+                "Hey, what if I eat it for you?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I guess that could work! Excuuuse me! One kids' meal for my friend here, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wish she hadn't been so loud about it, but seeing Sweep Tosho so satisfied with her toy gives me a sense of a job well done."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, of course! That magic crystal is as good as mine!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Munch, munch…</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Burp…</i> I… I did it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she's clearly in pain from eating so much, Sweep Tosho finishes every last bite and gets the toy pendant!"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One morning, when I get to my office, Mejiro Dober is already there waiting for me.",
+            "choice_data_list": [
+                "You're early."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-no I'm not. This is a perfectly normal time to be here."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, the new essential oil I bought was really effective, so I slept well!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Actually, aren't <i>you</i> just late? Are you getting enough sleep?",
+            "choice_data_list": [
+                "I am.",
+                "I am."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "How are you? Are you getting enough sleep?",
+            "choice_data_list": [
+                "I am.",
+                "I am."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You should at least try to sleep more on your days off. Use essential oils to help you or something.",
+            "choice_data_list": [
+                "Thanks for worrying about me.",
+                "Thanks for worrying about me."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's good… I still worry about you, though, since you're always pushing yourself so hard.",
+            "choice_data_list": [
+                "Thanks for worrying about me.",
+                "Thanks for worrying about me."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-I'm just warning you. I'd be negatively impacted too if something happened to you, so you'd better watch yourself!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I should be the one saying that. If you'd like, I can recommend you some essential oils."
+        },
+        {
+            "name": "Monologue",
+            "text": "I should follow Mejiro Dober's example and get more rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "I should follow Mejiro Dober's example and get more rest."
+        }
+    ]
+}

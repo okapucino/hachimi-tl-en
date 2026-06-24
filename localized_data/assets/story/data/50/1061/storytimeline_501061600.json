@@ -1,0 +1,29 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "King Halo",
+            "text": "The king has arrived!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, it's time to excite everyone in the paddock and put on a show for the audience."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, all in day's work for a first-rate Umamusume.",
+            "choice_data_list": [
+                "Let's try for first place!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Right!"
+        },
+        {
+            "name": "King Halo",
+            "text": "That said, I'd come in first even if I didn't try!"
+        }
+    ]
+}

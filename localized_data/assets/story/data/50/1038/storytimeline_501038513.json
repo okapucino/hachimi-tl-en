@@ -1,0 +1,289 @@
+{
+    "title": "どんなカレンがお・す・き？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I come to the station on my day off to find one of its corners particularly colorful."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ah, this is a great angle. ♪ Don't we both just look awesome?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! ☆ You're a selfie genius, Curren! ♪ Next, let's try this pose…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wait… Big Bro? What a coincidence! ♪ Or is it fate?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wait… Big Sis? What a coincidence! ♪ Or is it fate?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoooa! It's <i>gotta</i> be fate! ☆ That's crazy!",
+            "choice_data_list": [
+                "What are you two—"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, Curren! Let's have your trainer hang out with us too!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Are you sure? Okay, thanks! Come on, Big Bro, let's go!",
+            "choice_data_list": [
+                "Wait. What?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Are you sure? Okay, thanks! Come on, Big Sis, let's go!",
+            "choice_data_list": [
+                "Wait. What?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And before I even know what's happening…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hm… Which photo booth should we do? I don't really know much about this stuff."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I did the one in the back the other day. You couldn't really edit the pics, but the photos had so much sparkle!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm okay with whatever, but you wanna do a more natural-looking one, right?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Haha. You really know me. ♪ Let's try that one!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "That phone case is so cute! It's so glittery! ☆"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's so like you—super flashy! ♪ It'd be cool if you changed your case to match your outfit!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I like that! You're a genius. ☆ I'm gonna get it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We keep walking around together and end up at Mayano Top Gun's favorite shop."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "They have both fashionable designer clothes and eccentric clothes that bring out your personality, so even just looking around is fun. ☆"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But today, I'm gonna have you try on a bunch of things! ☆"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Widdle ol' me? Why?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You have your own fashion rules, right? It's cute, but I wanna see you in something completely different too!",
+            "choice_data_list": [
+                "Fashion rules?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah! ☆ Like something fashion-wise you always do or never ever do."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You know me so well! ♪ I have a few, like how much skin I show and how I always wear a mini skirt."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I do all that to make sure I'm a hundred-percent cute, so I've never really thought about doing something else…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hm… But well, if Big Bro begs me to, I <i>guess</i> I could give it a try.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hm… But well, if Big Sis begs me to, I <i>guess</i> I could give it a try.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hooray! ☆ C'mon, tell her to try! ☆"
+        },
+        {
+            "name": "Together",
+            "text": "Come oooon.",
+            "choice_data_list": [
+                "…P-please try something new!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ehehe. Guess I've got no choice. ♪ Sooo…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Would you rather see me in something bold or something super stylish?",
+            "choice_data_list": [
+                "Something bold.",
+                "Something stylish."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh? You wanna see me be more bold? Interesting…",
+            "choice_data_list": [
+                "I didn't mean it like that…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh? You wanna see me be more bold? Interesting…",
+            "choice_data_list": [
+                "I didn't mean it like that…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Mhm, sure you didn't. ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hm… Something bold… Maybe a harness belt and some fishnet tights?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Maybe. But something tells me my trainer has a different kind of boldness in mind. ♪",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Maybe. But something tells me my trainer has a different kind of boldness in mind. ♪",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Really? You mean, like… something see-through?! Wh-whoa… Now <i>that's</i> bold."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You should tell me about more shops like this. ☆ I know you've been looking to try a bolder look for yourself."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "What?! You knew?!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Haha. ☆ Wait here, 'kay? I'll go try this outfit on juuust for you, Big Bro…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Haha. ☆ Wait here, 'kay? I'll go try this outfit on juuust for you, Big Sis…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Maybe. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren Chan keeps teasing me as we continue shopping, and it ends up being a mentally and physically exhausting day."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh, so you like a more mature look?",
+            "choice_data_list": [
+                "Um…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh, so you like a more mature look?",
+            "choice_data_list": [
+                "Um…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "So by \"stylish,\" you mean something more monotone and reserved, right?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Which means… adults prefer mature women. I knew it!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…All right then, Big Bro. I know what you're thinking. In that case…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…All right then, Big Sis. I know what you're thinking. In that case…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I guess I've gotta teach you the true appeal of cuteness.",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I guess I've gotta teach you the true appeal of cuteness.",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cuteness is all around us. It is all-encompassing. Cuteness… is life. It seems you don't quite get that yet."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Sorry, Maya, we're gonna have to hit pause on the shopping. My crash course on cuteness about to start! ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Copy that! ☆ That sounds fun! I wanna take the lesson too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren Chan starts her lesson. Three, two, one—Cute Curren Chan!"
+        }
+    ]
+}

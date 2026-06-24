@@ -1,0 +1,29 @@
+{
+    "title": "Claw Machine: Great Success!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "You won so many… Thank you. …I'll put them in that room.",
+            "choice_data_list": [
+                "Which room?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The room I share with Tachyon… though I'll have to make sure she doesn't experiment on them…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… Feel free to come and see these plushies every once in a while…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm sure <i>everyone</i> will welcome you with open arms… Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

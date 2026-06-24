@@ -1,0 +1,38 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono hasn't shown up to training, and when I go off in search of someone who might have seen her…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmm! This new macaron parfait is so crunchy and syrupy and buono! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I had no idea this combination would work this well. I'll have to recreate it for everyone else to try!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's see… Which stores still have new desserts I haven't tried?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh? Trainer?!",
+            "choice_data_list": [
+                "…It's past your training time.",
+                "…It's past your training time."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh! Oh no! I'm so sorry! I forgot to check the time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her to be more careful next time…"
+        }
+    ]
+}

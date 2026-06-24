@@ -1,0 +1,326 @@
+{
+    "title": "New Year's Resolutions",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Time passes in the blink of an eye until soon enough, the new year is upon us. While the students are on winter vacation…"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Here you are, one salt ramen!",
+            "choice_data_list": [
+                "Thank you very much!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I track down a ramen shop that's open on the first of January, and sit down to review our training regimen over a hot meal."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Oh, what have we here? Fu's trainer, kicking off the new year with a business lunch?",
+            "choice_data_list": [
+                "Yes—it's the start of her classic year, after all."
+            ],
+            "color_text_info_list": [
+                "Fu"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin is raring to take on the Classic Triple Crown—a series comprising the Satsuki Sho, Japanese Derby, and Kikuka Sho. It's a once-in-a-lifetime opportunity for any racer.",
+            "color_text_info_list": [
+                "Kikuka Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I imagine she'll face stiff competition in all three races. If we're going to stand a chance of winning, her hard work alone won't cut it…",
+            "choice_data_list": [
+                "That's why I promised her we'd do this together!"
+            ]
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "…! I see."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "All right, have another egg—on the house. Get in some extra nutrients before you go see Fu!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I leave, the ramen shop owner tips me off to Ines Fujin's whereabouts, and sure enough, I find her at the shrine."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Happy New Year! There are two more lines available on the right, so please—"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh? …Trainer?!",
+            "choice_data_list": [
+                "I heard you were working here."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, were you hoping to see me in shrine maiden getup? Aw, too bad! I'm doing crowd control today!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Just kidding."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So how come you're here? I'm pretty surprised you came to see me while I'm on the job."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Is there some kind of emergency? Or maybe…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You're here to convince me that the time I spend working is time wasted?",
+            "choice_data_list": [
+                "Yes, and we can't waste a single second!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh… Haha. I guess I should have expected that…",
+            "choice_data_list": [
+                "So how about we turn your work into a form of training too?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Pulling out my files, I show her the regimen I made over winter vacation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Lately, her peers are getting better and better at late surges. If she's going to make a successful getaway, we have to exhaust the competition's energy reserves."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why I want her to learn how to manipulate the pace of her opponents. For example, she should be able to…",
+            "choice_data_list": [
+                "Control the flow of the visitor lines!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whaaat?",
+            "choice_data_list": [
+                "…Am I asking for too much?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well… I just don't see how what you were saying has anything to do with organizing all these people.",
+            "choice_data_list": [
+                "That's a bummer…"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeahhh."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Hehe. So you want my work shifts to double up as training shifts, huh?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hey, Trainer. This is just a hunch, based on how enthusiastic you are about all this, but… I'm guessing that's not the only idea you've come up with, is it?",
+            "choice_data_list": [
+                "I want to test out new ways to boost your speed!",
+                "I'm thinking of working part-time at Shinkyu Hospital.",
+                "I'm thinking of working part-time at Shinkyu Hospital.",
+                "I want you to treat your delivery runs like track runs!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hey, Trainer. This is just a hunch, based on how enthusiastic you are about all this, but… I'm guessing that's not the only idea you've come up with, is it?",
+            "choice_data_list": [
+                "I want to test out new ways to boost your speed!",
+                "I'm thinking of working part-time at Shinkyu Hospital.",
+                "I'm thinking of working part-time at Shinkyu Hospital.",
+                "I want you to treat your delivery runs like track runs!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Strength training isn't the only way we can boost her speed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Lightening the load on her shoes could work, and so could performing tooth maintenance that'll help her keep her teeth clenched during races…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, now I get it. Well, we can test all those out.",
+            "choice_data_list": [
+                "Right!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whew. Tomorrow's going to be one busy day."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?! <i>You</i> want to get a part-time job too?!",
+            "choice_data_list": [
+                "It would only be at the reception desk…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But if I can get to know the doctors at a treatment facility, I might be able to request mobile medical services after training and before races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Recently, I've noticed that Ines Fujin has been straining her back muscles. If I can do anything to alleviate that burden…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You're such a dummy.",
+            "choice_data_list": [
+                "I'm pretty serious about this!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Okay, I'm going to be straight with you. If you're that worried, let's just schedule some proper hospital visits."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I can adjust my work hours if you let me know the plan ahead of time, and this'd be way simpler than you picking up another job."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…You really do put me first, don't you? And worry a lot while you're at it."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ooh! That sounds like a pretty good idea! Let's start tomorrow morning!",
+            "choice_data_list": [
+                "It does, right?!",
+                "It does, right?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Haha. Don't get carried away now."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Trainer, bend down for a second. Your shoelaces are untied.",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Nope, just kidding."
+        },
+        {
+            "name": "Monologue",
+            "text": "A moment later, I feel two gentle pats on my head."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But you've really thought long and hard about this! So you get a gold star! Great job!",
+            "choice_data_list": [
+                "Um… What was that?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…A show of gratitude. That's all."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Trainer, you know, all of your ideas are built around my part-time work.",
+            "choice_data_list": [
+                "That's because I made a vow to you.",
+                "That's because I made a vow to you."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You did?",
+            "choice_data_list": [
+                "If it matters to you, it matters to me, too.",
+                "If it matters to you, it matters to me, too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Ines Fujin loves to run. But she loves her family just as much."
+        },
+        {
+            "name": "Monologue",
+            "text": "If working part-time is how she wants to support her sisters, then I have no business interfering.",
+            "choice_data_list": [
+                "I like seeing you enjoy running.",
+                "I like seeing you enjoy running."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Seeing me enjoy running, huh. Hehe, is that so."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Then maybe I'll take this opportunity to make some self-centered requests! Like when the Classic Triple Crown is over, I might just ask to compete in an even bigger race. ♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And I mean without quitting <i>any</i> of my jobs. I don't want to lose a single thing, you know?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Will you still like me if I start saying crazy things like that?",
+            "choice_data_list": [
+                "Yes, I'll do everything I can to support you!",
+                "Yes, I'll do everything I can to support you!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Sappy line acquired! Ahaha, I was hoping you'd say that. Another win for me!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "All right. Then here's to another great year, Trainer!"
+        }
+    ]
+}

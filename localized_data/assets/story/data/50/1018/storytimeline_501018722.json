@@ -1,0 +1,41 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm explaining today's training plan to Air Groove, but she seems off-kilter.",
+            "choice_data_list": [
+                "You doing okay?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm fine. Continue what you were saying.",
+            "choice_data_list": [
+                "You don't look fine.",
+                "You don't look fine."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "If I say I'm fine, I'm fine—end of discussion."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ow…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Apologies. To tell you the truth, I've been suffering from a migraine recently."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's put me in a foul mood. <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove seems to be plagued by a severe headache."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, that's enough. Sucks for you, but it's quitting time.",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't get why you're apologizing to me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I told you I'm not interested in them."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ughhh, stop feeling so sorry for yourself. C'mon, let's go."
+        },
+        {
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

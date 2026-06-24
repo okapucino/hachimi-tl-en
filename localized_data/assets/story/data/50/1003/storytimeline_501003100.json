@@ -1,0 +1,243 @@
+{
+    "title": "トウカイテイオー登場！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today marks the beginning of Tokai Teio's training.",
+            "color_text_info_list": [
+                "Tokai Teio"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Trainer! Helloooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear an excited voice, and turn to see…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio shouts and leaps over the high fence surrounding the track."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Enter the graceful Teio! Morning, Trainer!",
+            "choice_data_list": [
+                "It's dangerous to jump over the fence like that.",
+                "It's dangerous to jump over the fence like that."
+            ],
+            "color_text_info_list": [
+                "Teio"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Don't worry, I'm fine! That was a breeze for the invincible Teio!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That was an unbelievable jump. Once more, I'm struck by the incredible physical prowess she possesses."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So, today we start training for real, yeah? I'll do anything, so lay it on me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If I'm gonna take down Prez, I gotta give it my all!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So let's get down to business! I'll follow your lead, Trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And that makes five laps around the track!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So, what's next? Hit me with whatever you got!",
+            "choice_data_list": [
+                "That was the last thing on my checklist…"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What?! That's it?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nghh! Why are you going easy on me? Don't you know I'm the invincible Teio?!",
+            "choice_data_list": [
+                "You're too good.",
+                "You're too good."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. I know, right?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Wait, that's not the point! I'm never gonna beat Prez if I don't go the extra mile!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Just come with me for a second! You'll understand!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whew, look at that gaggle of onlookers! She always draws a crowd!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, look over there, Trainer! On the track!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Thank you for training with me, President Rudolf!",
+            "color_text_info_list": [
+                "Rudolf"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You're facing your first graded race, so I'm sure you are anxious.",
+            "color_text_info_list": [
+                "graded"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope this session leaves you with something that can help you improve. Now, please, give it your all."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I will! Thank you!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez is about to start her partner running!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf begins to run slowly in order to guide her inexperienced partner. Until…",
+            "color_text_info_list": [
+                "Symboli Rudolf"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Here it comes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if she could hear Tokai Teio, Symboli Rudolf shoots off, leaving her partner far behind."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Incredible! She's still speeding up?! That's two lengths, three lengths, and… she's crossed the finish line!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wow! Every time I see Prez in action, I can't help but sing her praises!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I felt the same thing when I saw Tokai Teio run. That complete and total control over the race. It's…",
+            "choice_data_list": [
+                "Overwhelming power.",
+                "Overwhelming power."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So you get it now, right? The way Prez runs."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She's got the instincts and the smarts to read a race, and the legs to make it happen!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I can't just keep training like normal! I need super training!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So let's get back to it! I gotta keep running!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Now <i>that</i> was a great workout!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And I bet it's taught you a thing or two about how much training I really need, too.",
+            "choice_data_list": [
+                "It sure has."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, great!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's the thing about Prez. Nobody can catch up to her by just doing the normal stuff."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "The outcome of a race is never certain—unless Symboli Rudolf is running in it."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If you said something like that about any other Umamusume, it'd sound ridiculous…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But when I see Prez run, I know it's true."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's not just me who thinks that. Everyone feels it—that's why it's such a popular quote."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's what makes Prez amazing. Anyone who sees her is completely captivated by her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And that's the kind of Umamusume I'm gonna be! I'll surpass even Prez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'll become so great that no matter how big a goal I aim for, everyone'll believe I can do it for sure!",
+            "choice_data_list": [
+                "Let's make it happen together!",
+                "Let's make it happen together!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mhm! You better set your sights sky-high, Trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! I'm gonna surpass Prez for sure! And to do that, I'll run my heart out again tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Tokai Teio's challenge starts now!"
+        }
+    ]
+}

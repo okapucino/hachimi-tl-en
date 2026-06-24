@@ -1,0 +1,288 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The holidays are here, and at Fine Motion's suggestion, we're holding a casual party."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Apologies for interrupting your festivities."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh! Happy holidays, Tazuna! ♪",
+            "choice_data_list": [
+                "Can we help you with something?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I have something that I'd like Fine Motion to see…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oof!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tazuna has brought a cardboard box packed full of…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"Petition to allow Fine Motion to continue racing.\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Are these all… signatures?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I've only brought over a small portion. There's around another dozen boxes in the office."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But… why?",
+            "choice_data_list": [
+                "They want to keep watching you run.",
+                "They want to keep watching you run."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Of course, the most important thing for us here at the academy is to respect your situation and your desires."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "At the same time, we couldn't exactly let all these voices go unheard."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I understand. Thank you."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Now then, I have to organize all those boxes."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Please wait a moment. …Would you allow me to inspect the contents?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After Tazuna leaves, Fine Motion asks me to go for a short walk with her outside."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I'm so happy."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ten of thousands of people wish for me to run. I feel truly honored.",
+            "choice_data_list": [
+                "I'd say this is proof you've made an impact.",
+                "I'd say this is proof you've made an impact."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're a surprisingly rash individual. We have no assured method with which to make such an impact."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I see. I suppose that <i>is</i> a lot of boxes of proof."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's not so bad if I can know I'll be in everyone's hearts.",
+            "choice_data_list": [
+                "Do you mean that?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I do!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Although, perhaps I'm putting on a bit of a front."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "All the same, I'm quite content."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This collection of everyone's feelings is the greatest present I could ever receive."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion looks truly happy as she smiles."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Brrr… It sure is chilly.",
+            "choice_data_list": [
+                "Want to head back?",
+                "Want to head back?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Not just yet."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's stay a little longer.",
+            "choice_data_list": [
+                "You'll catch a cold.",
+                "You'll catch a cold."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I wouldn't mind if I did."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That would leave me with no other choice than to stay here."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Just kidding. Let's go back. We were still in the middle of dinner."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, our peaceful evening draws to a close."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion looks truly happy as she smiles.",
+            "choice_data_list": [
+                "So you won't be needing any other presents, then?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No, I do! Have you arranged a gift for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "When I was thinking of what to get for Fine Motion, one idea immediately jumped out at me."
+        },
+        {
+            "name": "Monologue",
+            "text": "That being…"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Welcome! And happy holidays!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Happy holidays."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Happy holidays!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Uhhh… Trainer? What is all this?",
+            "choice_data_list": [
+                "Welcome!"
+            ]
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "And why is my apprentice so late? Hurry up and get your butt in the kitchen!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Huh?! What's going on?!"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Not long ago, this fine individual suddenly came to me with a request for an original ramen recipe."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "I refused at first, but when I heard it was for one of my favorite regulars, I decided to help out."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's right. I've been training here day after day whenever I found a spare moment—all for Fine Motion's sake."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whaaat?! How have I never heard of this?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's only natural to keep a present under wraps."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hold on. Have you <i>all</i> been learning?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't be ridiculous. Your trainer simply invited us here tonight."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "When I heard we'd have the whole place to ourselves and the food was on the house, there was no way I was missing it!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's a great way to lift our spirits before a race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chop… Chop, chop!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! Excellent job quartering the seaweed, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After many arduous hours of study, I've finally completed my own ramen recipe!",
+            "choice_data_list": [
+                "One Fine Special coming right up!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Astonishing! The soup is glistening!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Wow, the fish cake is shaped like a four-leaf clover! How cute. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you, Trainer! This is the most splendid present ever!",
+            "choice_data_list": [
+                "Eat up before it gets cold!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Right! Let's eat, everyone!"
+        },
+        {
+            "name": "Everyone",
+            "text": "Thanks!"
+        }
+    ]
+}

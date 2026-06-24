@@ -1,0 +1,34 @@
+{
+    "title": "ゴルシ七不思議（未定）",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Hey… there…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship doesn't seem like herself today.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You'll never believe this…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Mystery Adventures</i> got canceled! It was my favorite show!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now they'll never feature me as one of the seven wonders of the world…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship takes a while to recover from the devastating news."
+        }
+    ]
+}

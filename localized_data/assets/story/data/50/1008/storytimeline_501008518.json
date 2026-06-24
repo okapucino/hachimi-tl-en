@@ -1,0 +1,45 @@
+{
+    "title": "急な雨にはご用心",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The sunny weather suddenly clouds over, and rain starts pouring down soon after."
+        },
+        {
+            "name": "Vodka",
+            "text": "Man, what gives?! Why's it gotta be when I'm running?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Just my luck. Guess that's all for me today, then.",
+            "choice_data_list": [
+                "You should change into some dry clothes.",
+                "You should change into some dry clothes."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Heheh, I'm fine. These won't take too long to dry if I just leave them alone."
+        },
+        {
+            "name": "Vodka",
+            "text": "Seriously, you worry too much."
+        },
+        {
+            "name": "Vodka",
+            "text": "…Achoo!",
+            "choice_data_list": [
+                "I told you!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Th-that was just a coincidence! I'm not gonna get a cold just from this."
+        },
+        {
+            "name": "Monologue",
+            "text": "So she says, but a few days later, Vodka isn't looking so good."
+        }
+    ]
+}

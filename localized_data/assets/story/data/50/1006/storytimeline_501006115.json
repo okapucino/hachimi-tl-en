@@ -1,0 +1,182 @@
+{
+    "title": "注目ウマ娘、集結",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "…All right, things are looking good."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and I are training for the NHK Mile Cup."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa! Keep up the good work, Oguri!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Looks like you're in pretty good shape!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama! Inari! Are you guys training too?",
+            "color_text_info_list": [
+                "Inari"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, duh! Runnin' is kinda our thing!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We happened to spot ya runnin' while we were trainin', so we thought we'd come say hi. And spy on ya a bit while we're at it."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're doing pretty amazin', as always. I bet you'll be a real threat when we go head-to-head."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A treat?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A <i>threat!</i> Geez! Ya never think of nothin' but food, do ya?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross, Oguri Cap's roommate, and Inari One, who's in the same grade as them, are both regarded as this year's rising stars.",
+            "color_text_info_list": [
+                "Inari One"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Though the two are small in stature, they've managed to come out on top in all kinds of different races. Even so…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, whatcha gawkin' at? Bet ya were thinkin' how tiny we both are!",
+            "choice_data_list": [
+                "Who, me?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Whazzat?! You better keep the t-word outta your mouth! We're not even that small!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "To be fair, though, ya are pretty tiny. Tinier than me, at least!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Say what?! There's barely an inch between us! If you're trying to pick a fight, I'm game!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Why are you even fighting? You're both short. That's a matter of fact."
+        },
+        {
+            "name": "Tamamo Cross and Inari One",
+            "text": "Aargh! Ooof!"
+        },
+        {
+            "name": "Monologue",
+            "text": "What a heartwarming sight. These are three of the year's hottest contestants, but the atmosphere between them isn't tense in the slightest."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch them laugh and joke with each other, until…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Looks like you're all having fun. Mind if I join?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Super Creek!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Huh? What's the matter?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek is another up-and-coming Umamusume from the same year as the others."
+        },
+        {
+            "name": "Monologue",
+            "text": "Possessing formidable physical prowess, she's had considerable success in long-distance races. This has put her name on every trainer's lips."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama, Inari… even you, Trainer? How come you guys are so quiet all of a sudden?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Do you all have a stomachache or something? Are you okay? I can rub your bellies if you want."
+        },
+        {
+            "name": "Inari One",
+            "text": "That's not it! It's just… you two have both been makin' a splash recently, you know?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "From an outsider's perspective, the two of ya are enemies! 'Course we're gonna tense up when the two of yous meet!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's right. Super Creek is a major contender in the classic year.",
+            "color_text_info_list": [
+                "classic year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Depending on how well she performs in the future, she could present a major obstacle for Oguri Cap."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, Oguri seems like a worthy opponent indeed. It looks like I have my work cut out for me if I'm racing against her."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh? What makes you say that?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I mean, weren't you undefeated back in Kasamatsu? That's what I heard at least. Very impressive. ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "O-oh, you know about that? Hehe…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What're ya actin' all flattered for? She's clearly tryin' to rile ya up, suggestin' you're just a nobody here in the city!"
+        },
+        {
+            "name": "Oguri Cap and Super Creek",
+            "text": "…Was she? …Was I?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Are yous guys for real? I've never seen two rivals look <I>less</I> competitive!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I guess I was a little hasty in hopin' they'd break out into a spectacular brawl…"
+        },
+        {
+            "name": "Monologue",
+            "text": "How will these two perform against one another in a race? In order to find out, Oguri Cap will need to keep improving her track record in mile races!"
+        }
+    ]
+}

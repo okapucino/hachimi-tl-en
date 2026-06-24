@@ -1,0 +1,115 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I decide to watch Air Groove as she does some solo dance practice."
+        },
+        {
+            "name": "Air Groove",
+            "text": "One, two, three, four. One, two, three, four!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove's dance skills are, unsurprisingly, top notch. However…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Is there something you'd like to say?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "If something is on your mind, speak up. You're not holding back because you're afraid, are you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears that the hesitation I'm feeling is as clear as day to her.",
+            "choice_data_list": [
+                "Your dance could use a bit more oomph.",
+                "Your routine could do with a bit more sophistication."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh? Well, that's a bold piece of criticism."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Very well, I'll bite. Explain yourself."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain what aspects of the dance could be expressed with more energy and power."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm… Your reasoning is sound enough.",
+            "choice_data_list": [
+                "Glad it made sense."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Not so fast!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have to put your advice into practice. Your job is to stay here until it's been properly executed.",
+            "choice_data_list": [
+                "I suppose you're right.",
+                "I suppose you're right."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Your eyes had better be glued to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "By the end of the session, Air Groove is putting far more power into her dance, thus improving her routine."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sophistication? That's not a word you'd use without a good reason."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You need to be more specific. I'm assuming you have something in mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain what aspects of the dance could be expressed with more finesse and grace."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Hmph. I see what you mean. Not a bad idea.",
+            "choice_data_list": [
+                "Glad it made sense."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't get too pleased with yourself just yet, you dunce!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm going to implement your advice, and I expect a full dissection of my performance after."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Your job is to point out any flaws and help me achieve perfection. Don't blink!",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Then let's get started."
+        },
+        {
+            "name": "Monologue",
+            "text": "By the end of the session, Air Groove is instilling more intent into her dance, thus improving her routine."
+        }
+    ]
+}

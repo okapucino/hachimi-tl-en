@@ -1,0 +1,410 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after training and picking up a few things in the shopping district…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There appears to be a raffle stand over here."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I didn't expect to receive a raffle ticket along with my notebook purchase…",
+            "choice_data_list": [
+                "Do you have time in your schedule?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If we increase our walking speed back home, there should be no problem. Above all…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I cannot miss this opportunity for an interesting story to tell my parents."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm excited to see what this Japanese way of testing luck in a raffle has in store for me."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "What's got your eye, young lady?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If we consider what prize would be equivalent in value with my notebook, then I suppose it would be the single carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Really?! I don't see many folks like you, that's for sure!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I believe luck tests like this are more about enjoying the experience than the prize. Now, here I go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash gives the tumbler a spin with a tense expression on her face."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The hot spring vacation!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wahnsinn!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you… But is this acceptable? Should I really take it?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm sure that luck smiled on you today because you're so humble. Don't just throw that luck away!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You're right. I gratefully accept this, then."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. Hot springs…",
+            "choice_data_list": [
+                "You like them?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I do. In fact, Germany is just as renowned for its hot springs as Japan.",
+            "choice_data_list": [
+                "I had no idea!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The temperature is lower than those here, so it's possible to spend an entire day relaxing in the bath."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Unfortunately, I haven't had an opportunity to visit one since arriving in Japan."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So… I'm genuinely happy for this.",
+            "choice_data_list": [
+                "It'll be nice to take it easy and soak in one, then.",
+                "It'll be nice to take it easy and soak in one, then."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Take it easy…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer, may I entrust you with the coupon?",
+            "choice_data_list": [
+                "Why is that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Alas, there is no room in my schedule for a hot spring getaway at present."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let me think… After everything is finished next year, I should have enough leeway to go."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That said, I cannot write it into my schedule in orange ink as I am now."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Therefore, could you give it back to me once everything has concluded?",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how the hot spring vacation ticket came into my possession.",
+            "choice_data_list": [
+                "By the way, why orange ink specifically?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When it is for something I am looking forward to in my schedule, I write it in orange.",
+            "choice_data_list": [
+                "Is that part of German culture?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, it is but a habit of mine from early childhood.",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I can tell you are laughing. Is orange a strange color?",
+            "choice_data_list": [
+                "No, I just think it's cute how you color code your schedule."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Please give it a try for yourself sometime. You'll come to understand how rational this conscious decision is once you do."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You must understand—schedules are meant to be written in minute detail. By categorizing everything with colors, the information—"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Eishin Flash's lecture on the finer points of schedule-making lasts all the way home."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It looks more delicious than I expected…",
+            "choice_data_list": [
+                "Do you like hamburger steaks?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But of course. The dish originated from Germany, after all!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Therefore, I feel entitled to critique the flavor. Let's find out if it is worthy of being called a \"deluxe\" hamburger steak."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Munch, munch…</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…It <i>is</i> delicious!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives Japan's hamburger steaks a perfect score."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…This is truth in advertising, I see. How many kilograms is this, exactly?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Beats me… All I know is the box is jam-packed, so your guess is as good as mine."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They completely disregarded their profit margins with these prizes. Well, I must reciprocate that goodwill."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I know just what to do. I shall make Rüblitorte with these.",
+            "choice_data_list": [
+                "What's Rüblitorte?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A delicious Swiss carrot cake. The flavor of carrot in it is rich and scrumptious."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My parents taught me a recipe for it which doesn't require butter."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, we cannot possibly eat it all ourselves. So to remedy that…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Flash, the oven's all ready! ♪"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The batter is also complete. Let's bake four whole cakes at a time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sometime later, Eishin Flash bakes and shares a bunch of cakes with her dormmates—and they rave about it for days afterward."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Just what I wanted. What a great result."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You sure are one in a million, young lady…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Excuse me, but do you know any good recipes for this carrot?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "At the moment, I cannot think of one which would use it in its entirety."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh! My ma will know for sure! HEEEY, MAAA!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What? Please, you needn't go so far—"
+        },
+        {
+            "name": "Female Raffle Clerk",
+            "text": "Oh, I heard your question, no worries! You want to whip up something nice with that carrot, don't you?"
+        },
+        {
+            "name": "Female Raffle Clerk",
+            "text": "I just happened to have put a little something together earlier, so why don't you come on back and have a taste of it?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wh-what?"
+        },
+        {
+            "name": "Female Raffle Clerk",
+            "text": "As they say, experience is the best teacher. Right? Hahaha!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What should I do, Trainer?",
+            "choice_data_list": [
+                "Take her up on it."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Very well. I look forward to your… lesson?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Eishin Flash receives a heartfelt cooking lesson from the nice lady."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What a Pechvogel I am…",
+            "choice_data_list": [
+                "What does that mean?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It means \"an unlucky person.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Winning a consolation prize was well within the realm of possibility."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yet despite understanding that fully…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Understanding something and accepting something is very different. Eishin Flash is clearly disappointed."
+        }
+    ]
+}

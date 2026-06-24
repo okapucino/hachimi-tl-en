@@ -1,0 +1,30 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Yaaawn…</i> Oh my, I'm so sleepy…",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-Trainer? Oh, I'm sorry. The thing is…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Last night, I was exercising my legs so they'd look beautiful when I wear glass slippers."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I got so into it that I was doing squats right up until dawn! Now my legs feel like jelly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Kawakami Princess didn't get much sleep, or any rest for that matter…"
+        }
+    ]
+}

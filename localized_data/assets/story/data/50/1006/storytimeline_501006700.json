@@ -1,0 +1,66 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri! O-gu-ri! C'mon, wake up already!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Yawn…</i> Tama? What is it?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Don't ya \"What is it?\" me! You're the one who begged me to bring ya to the cafeteria for lunch!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh yeah… Lunch… <i>Yawn…</i>",
+            "choice_data_list": [
+                "You look exhausted.",
+                "You look exhausted."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was up all night trying to figure something out… Before I knew it, the sun was up."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And to make matters worse, I couldn't solve my problem… Can either of you help me?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sounds like ya were really racking your brains last night. Go on then, hit us with it!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, Tama."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yesterday, I ate a rice ball while I was running on the track…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I thought that if I ate while training, it would make me stronger."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But it didn't make much of a difference. Should I be eating more? Or do I need to swap out the rice ball for some bread?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Pretty sure that's not the issue here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon after, a half-asleep Oguri Cap devours lunch beside an astonished Tamamo Cross."
+        }
+    ]
+}

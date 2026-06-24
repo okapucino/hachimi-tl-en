@@ -1,0 +1,175 @@
+{
+    "title": "表立っては言わないけど",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from my outing with Gold City, we pass by a bookstore in the shopping district."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh—it's that magazine… So they've even got it on display here, huh.",
+            "choice_data_list": [
+                "Is that the one where you guys recommended outfits to readers?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yup, the one you helped me with at the mall."
+        },
+        {
+            "name": "Gold City",
+            "text": "My recommendations were a hit at the studio too, so thanks again.",
+            "choice_data_list": [
+                "I'm glad I could help."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Since we're here, can I look around a bit?"
+        },
+        {
+            "name": "Gold City",
+            "text": "This one, this one… Oh, and this one too."
+        },
+        {
+            "name": "Monologue",
+            "text": "The stack of books Gold City chooses gets taller and taller."
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought she'd only be picking out magazines, but there are denser paperbacks in the mix too.",
+            "choice_data_list": [
+                "(Is she going to read all of them?)",
+                "(Is she going to read all of them?)"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh hey, if it isn't City!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Whoa, you're buy'n a lotta books!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, well, I do read quite a bit. You know, on the bus, during downtime between shoots…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wow, I see! And you even read tricky-look'n books like these?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yep. These are recommendations from my coworkers."
+        },
+        {
+            "name": "Gold City",
+            "text": "Gives you something to talk about, y'know? I try to read all of them."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That's so cool! You must be really good at work!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Sure… Anyway, why are you buying so many books on training?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City points at a basket full of books Yukino Bijin appears to have selected."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, um, heh… I couldn't decide which one to buy, so I kept putt'n more in the basket."
+        },
+        {
+            "name": "Gold City",
+            "text": "Maybe it's none of my business, but…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Instead of buying every book under the sun, try really digging into this one here. My trainer's read it too, you know.",
+            "choice_data_list": [
+                "You even read the stuff I read?",
+                "You even read the stuff I read?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I mean, training's easier when we're on the same wavelength, isn't it?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Plus, well… you actually have decent sense. I found it useful."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City never cuts corners, no matter how busy she is."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is there anything I can do to help?",
+            "choice_data_list": [
+                "Recommend her a book on training.",
+                "Buy a model's autobiography."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I recommend a book that would pair well with Gold City's suggestion."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Golly… This one's a lot more compact'n the other books I found…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, I'm sure you've got nothing to worry about."
+        },
+        {
+            "name": "Gold City",
+            "text": "Should be able to trust a trainer's picks when it comes to books about training, right?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but swell with pride a little after Gold City's comment. I decide to buy them each a copy of the book I recommended."
+        },
+        {
+            "name": "Monologue",
+            "text": "To learn more about modeling, I decide to buy an autobiography of a famous model."
+        },
+        {
+            "name": "Gold City",
+            "text": "Why that book? Modeling isn't your thing, is it?",
+            "choice_data_list": [
+                "Well, shouldn't we be on the same wavelength?",
+                "Well, shouldn't we be on the same wavelength?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that I want to do my best to match her effort and enthusiasm."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Th-that's amaz'n! It's like I'm watch'n a teen drama!"
+        },
+        {
+            "name": "Gold City",
+            "text": "What the—what do you mean? This is nothing like that."
+        },
+        {
+            "name": "Gold City",
+            "text": "Anyway, Trainer, I… I appreciate the thought."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm setting up for the day's early-morning training, I'm greeted by a familiar voice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Good morning, Trainer. I thought I might find you here.",
+            "choice_data_list": [
+                "Morning. You're up early.",
+                "Morning. You're up early."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I slept well last night, so I thought I might come and pay you a visit."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, more precisely, I thought I might lie in wait and surprise you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But it seems even the Emperor cannot outdo you when it comes to early starts."
+        }
+    ]
+}

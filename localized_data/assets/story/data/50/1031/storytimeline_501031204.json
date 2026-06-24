@@ -1,0 +1,195 @@
+{
+    "title": "Before the Kikuka Sho",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Huh? Morning shift again today, Ines? I feel like I see you all the time lately."
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Come to think of it, my boyfriend said he saw you working at some other place…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, yep! I've started another part-time job."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, darn it. I've gotta get to class! Let's chat again next time we have a shift together!"
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "…Yeah, okay. Hang in there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we complete our final preparations for the Kikuka Sho, something about Ines Fujin seems off…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Pant… pant…</i> Urgh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She has a bleak expression on her face, and her lap time reflects her shortness of breath."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a mediocre time—a far cry from her personal best. Attempting to suppress her natural instincts has caused her form to become rigid…",
+            "choice_data_list": [
+                "(She's in a bit of a slump…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If she doesn't break out of this rut soon, it might have serious implications for her future performances.",
+            "choice_data_list": [
+                "Listen, Ines…",
+                "Listen, Ines…"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "What's up, Trainer?",
+            "choice_data_list": [
+                "You don't need to force yourself so much."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I've been striving to help Ines develop a new running style because I believed that was the best way to address her stamina issues."
+        },
+        {
+            "name": "Monologue",
+            "text": "But if taking on that challenge is just causing more issues for her, we might be better off going back to her original running style.",
+            "choice_data_list": [
+                "Don't forget I'm here to support you.",
+                "Don't forget I'm here to support you."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm fine, I'm fine! Rather than worrying, I want you to sit back and expect big things!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I want to show my family that I'll always be brimming with energy, no matter how tough the race!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Because I know those two will be watching."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the Kikuka Sho has arrived. Ines Fujin has her eyes tightly shut, as if trying to suppress her excitement."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt… Bzzzt…</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh—someone's calling me! Huh? But this number is…"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Hello? Is this Ines Fujin? Where are you at the moment?"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "As it's your first day working with us, I wanted to give you a quick rundown of your duties. But you didn't show up to the assigned meeting place."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…?!"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Um? Hello? I don't have the wrong number, do I?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I-I'm so sorry! I'm sorry! I'm sorry! I'm—",
+            "choice_data_list": [
+                "Pass me the phone!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin's face suddenly turns pale before my eyes, so I take the phone and speak for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "In short, she accidentally scheduled a shift at her new part-time job that overlaps with the race.",
+            "choice_data_list": [
+                "(That's not like her at all…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After apologizing profusely, we're able to settle the matter without it turning into too big of an incident."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm sorry, Trainer. I messed up…",
+            "choice_data_list": [
+                "Don't worry about it."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Nothing like this has ever happened before…",
+            "choice_data_list": [
+                "It's fine, so just relax."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Ines Fujin that I'll explain the situation to her employer so that she doesn't have to shoulder the blame alone.",
+            "choice_data_list": [
+                "Take a deep breath and focus on the race."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…",
+            "choice_data_list": [
+                "Show everyone how much you enjoy racing!",
+                "Show everyone how much you enjoy racing!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "O-okay… You're right!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "At the very least, I've gotta redeem myself on the track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow behind her as she hurries out of the waiting room."
+        },
+        {
+            "name": "Monologue",
+            "text": "She shouldn't be left alone right now. The least I can do is wave to her from the side of the paddock."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to do whatever I can to support her, no matter how small…"
+        }
+    ]
+}

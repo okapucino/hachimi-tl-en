@@ -1,0 +1,490 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as Curren Chan brings me through the shopping district…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh! There it is! There it is! ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Let's play the raffle! ♪ I have a ticket!",
+            "choice_data_list": [
+                "Is that why you brought me to the shopping district?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Let's play the raffle! ♪ I have a ticket!",
+            "choice_data_list": [
+                "Is that why you brought me to the shopping district?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ehe! Yup! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I thought it'd be to fun to play the raffle together. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I thought it'd be to fun to play the raffle together. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "And I want you to film me spinning the lever."
+        },
+        {
+            "name": "Monologue",
+            "text": "To Curren Chan, it looks like the social media post is more important than the actual prize.",
+            "choice_data_list": [
+                "Okay, let's do it!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I knew you'd say that. ♪ Take my phone! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I knew you'd say that. ♪ Take my phone! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As cute as ever, Curren Chan puts her hand on the lever… and… and…",
+            "choice_data_list": [
+                "Are you going to spin it or what?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It'd be boring if I did it right away! ♪ Okay, here I go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…And she spins it! A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ohhh!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ohhh!",
+            "choice_data_list": [
+                "You did it!",
+                "You did it!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wow! I never thought I'd get the grand prize! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I was thinking the bushel of carrots would make for the best pic, but…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I guess my cuteness just drew in the big one! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Assuming she'd get at least the second-place prize is very typical of Curren Chan…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Aaand here you go! You take it!",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Aaand here you go! You take it!",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I got a good vid, so I'm happy. ♪ Think of it as a thank-you for coming with me.",
+            "choice_data_list": [
+                "But…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It sure would make me happy to know you got in a good break, whenever that may be."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It sure would make me happy to know you got in a good break, whenever that may be."
+        },
+        {
+            "name": "Monologue",
+            "text": "She does whatever it takes to get everything she wants but doesn't care much for what she gets by chance… That's so like Curren Chan. Still…",
+            "choice_data_list": [
+                "No, I can't accept this."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Awww. Well, too bad. I already gave it to you.",
+            "choice_data_list": [
+                "Wait, but…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh! I know…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I'll take it back if you can catch me!",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ready, go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But no matter how hard I run, there's no way I can catch up with her…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Good job, Big Bro. But unfortunately for you, I win this time!",
+            "choice_data_list": [
+                "<i>Wheeze, wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Good job, Big Sis. But unfortunately for you, I win this time!",
+            "choice_data_list": [
+                "<i>Wheeze, wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh wow, you really went for it, though! That's so like you…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh wow, you really went for it, though! That's so like you…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's an opportunity to take a break without me around, so you should've just accepted it in the first place.",
+            "choice_data_list": [
+                "You need to take a break too, Curren.",
+                "You need to take a break too, Curren."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's a hard worker, but she tends to take on everything herself. I tell her how I think she needs to rest as well."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…I getcha. You'll do anything for me, huh?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You're something else, Big Bro…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You're something else, Big Sis…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Okay, you win. I guess there's such a thing as having someone care about you too much. Haha!",
+            "choice_data_list": [
+                "Sooo…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "So!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Once everything settles down and we have some time, let's go together. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, I end up holding onto the coupon for the hot spring vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yay! ♪ Did you hear that? Deluxe!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "But I kinda feel like \"deluxe\" should be more than just a hamburger steak."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I want everything to be deluxe, like a party or something! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Sooo… let's look around the shopping district some more before we leave."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I wanna get some decorations… Oh!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "By the way, do you like cooking?",
+            "choice_data_list": [
+                "Why do you ask?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "By the way, do you like cooking?",
+            "choice_data_list": [
+                "Why do you ask?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I'm just making small talk. As for me…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I like cooking when I have to, I guess. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You know, I'd looove to try your cooking sometime."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You know, I'd looove to try your cooking sometime."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we head back to the academy and have a deluxe carrot hamburger steak party…"
+        },
+        {
+            "name": "Monologue",
+            "text": "For some reason, I end up being the chef and having to serve Curren Chan!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wow! That's a really big bushel!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "This reminds me of harvest festivals. I bet they'd look cute displayed in a box. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "My outfit has orange in it today as well… It's perfect!",
+            "choice_data_list": [
+                "Were you… shooting for this prize?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe. It's just a coincidence. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I just heard that the carrots in the raffle were suuuuper sweet and a really pretty orange!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Can you help me out with some pics when we get back?",
+            "choice_data_list": [
+                "Sure, I can take a few pictures."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Can you help me out with some pics when we get back?",
+            "choice_data_list": [
+                "Sure, I can take a few pictures."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh no, you won't be the one taking them…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, Curren Chan posts online with the caption, \"#AllTheseCarrots #EatenbytheStaff.\""
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…One carrot, huh?",
+            "choice_data_list": [
+                "Disappointed?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Nooo…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I was just thinking about what I can do with just one carrot. But I've got it. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "First, I put the carrot next to my face, and… <i>Flash!</i> ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Perfect! ♪ Now for a caption…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "\"#CarrotChallenge #Carrot #PerfectForPics #CuteCurrenChan\""
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…I think I'll roast the carrot."
+        },
+        {
+            "name": "Monologue",
+            "text": "After her post, #CarrotChallenge trends on Umastagram for a while."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…",
+            "choice_data_list": [
+                "That's too bad…",
+                "That's too bad…"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hah. Oh, well. It's just a raffle, after all."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh, that's right. I wanna go shopping before going home."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I need new makeup brushes for my pics and vids."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hm… I should get some spares too, so I guess about a hundred should be enough.",
+            "choice_data_list": [
+                "A h-hundred?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Do you still have some time? Would you come with me?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Do you still have some time? Would you come with me?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "We're also going to play the raffle another hundred times or so.",
+            "choice_data_list": [
+                "(Her eyes look dead serious!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's nothing Curren Chan hates more than losing, so I spend the rest of the day trying to calm her down. I finally succeed after agreeing to join her on a date."
+        }
+    ]
+}

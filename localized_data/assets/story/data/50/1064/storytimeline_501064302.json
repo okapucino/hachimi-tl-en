@@ -1,0 +1,363 @@
+{
+    "title": "Raffle Time!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer and I are on our way home from a race, when…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "There's a bunch of people up ahead… You think there's a sale or something?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Why don't you give it a go? Yes, <i>you,</i> with your hair tied back!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, a raffle! It's not like I can say no if you're asking! Let's do this!",
+            "choice_data_list": [
+                "Do you have a ticket?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You bet I do! I got one when I paid at the driving range earlier."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm like one of those people that <i>needs</i> to have all my tickets and point cards on me at all times. Haha…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Such mundane, everyday habits like that may not be typical of a noble lady, but they're very much typical of Mejiro Palmer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Let's pull the lever together! Hold on tight!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Time to get this party started! Gimme a good one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Excited, Mejiro Palmer and I spin the lever together."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "A-a hot spring?! No waaay! I really got the grand prize?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh wow! I didn't think getting hyped would actually get me the hot spring party."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uh-oh, the party vibes in me are getting out of hand! I need to caaaalm down. Breathe iiin, and ouuut…",
+            "choice_data_list": [
+                "Congrats! That's awesome!",
+                "Congrats! That's awesome!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Y-yeah, thanks… I'm super happy, but I also feel, like, kinda pressured now."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "If I'm gonna go, I've gotta do it right. Now I gotta look up stuff about the area, make an itinerary…",
+            "choice_data_list": [
+                "You don't need to do all that."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I… don't? But whenever the Mejiro family goes out, I practically always do all the prep work…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's not going to be able to relax if she does all that. So…",
+            "choice_data_list": [
+                "You're banned from doing any logistical work. Your only job there will be to have fun."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whoa, you mean I can just be no work, all play?! Huh, that's pretty lit. But… can I really?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, I've always done <i>something</i> for these kinda outings, so I don't think I'm gonna be able to just sit back…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I've gotta do something so I don't feel guilty at least… Oh, I've got it!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How about I make the trip a reward for myself if I do well in the Twinkle Series? I think I can kick back in that case.",
+            "choice_data_list": [
+                "Yeah, go for it.",
+                "Yeah, go for it."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Then it's a plan! I'll work really hard so I can have a hot spring party afterward!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aw yeah! Now I'm getting hyped again! All riiiight! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer is burning with motivation. Now she has something great to aim for after her big runaway!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oooh! What a get! Looks juicy!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "This hamburger steak looks good, but the sauce that comes with it looks a little rich for my blood."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You think it's okay if I season it myself?",
+            "choice_data_list": [
+                "How about putting some salt on it?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, I could… but just salt might be kinda bland."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, I know! Let me use your kitchen."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "If you're down, I'll be our chef tonight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Sizzle!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Finiiished! Here, try some. I just seasoned it with some soy sauce and onions."
+        },
+        {
+            "name": "Monologue",
+            "text": "At her insistence, I take a bite…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "So? How is it?",
+            "choice_data_list": [
+                "It's got a very refreshing flavor! I like it!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha! Right?! It's nothing fancy, but it's pretty healthy since it's low in sodium."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Guess I'll have some too. I made some rice and soup too, so help yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer turns her deluxe hamburger steak into a full-course impromptu dinner party."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oooh, that's not bad! Look how many we got!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm… I would've brought a cart or something if I knew we'd be getting all this.",
+            "choice_data_list": [
+                "Cart? You mean car?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No, I mean a golf cart. It'd be way easier to bring all these back to the dorm if we had one with us."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Not like I have a golf cart or a car, though. You can bet I'd be going on drives all the time if I did."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Well, no use sitting here daydreaming about shoulda, woulda, couldas. I'll just have to carry them myself!",
+            "choice_data_list": [
+                "I'll help! We can both carry them."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You sure? I'm the type to just do everything myself…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But if you're offering, I guess I'll take you up on it. Let's carry them together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We carry the carrots back to my office and decide to cook them one by one."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Chomp!</i> Hm… Mm…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Mmm! These taste so sweet and delicious! Especially after working so hard to carry them over here!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You eat up too, Trainer! You've gotta be paid properly for your work."
+        },
+        {
+            "name": "Monologue",
+            "text": "She insists, so I try one. Just as Mejiro Palmer said, it tastes extra delectable after doing all that heavy lifting."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Awww, just one? I thought we put some good energy into it, though."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Welp, whatever. Carrots are lucky vegetables in my eyes.",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Just take a close look. What does the shape remind you of?",
+            "choice_data_list": [
+                "Uh… a rocket?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oooh, you guessed it! It's a rocket! And a rocket signifies a rocket start."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I tend to win my races by bursting out the gates like a rocket and then slaying with my runaway."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Not a bad way to look at it, right?! That's what I call positive thinking!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Let's eat it on the way home."
+        },
+        {
+            "name": "Monologue",
+            "text": "The prize is nothing to write home about, but Mejiro Palmer doesn't seem too bothered about it."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whoa… No way…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey, Trainer… There's only one thing to do in times like these."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "When you're confronted with a reality you just can't handle, all you gotta do is…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Run awaaaaay! I saw nothing! Nothing! I don't accept it!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No tissues here! Nothiiing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She claims not to have seen anything, but Mejiro Palmer still looks rather upset."
+        }
+    ]
+}

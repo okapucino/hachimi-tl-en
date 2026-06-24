@@ -1,0 +1,80 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet says she wants to visit a shrine, so I go with her. As soon as we arrive, she starts to pray very seriously."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Right, that should do it. Here's hoping it works…",
+            "choice_data_list": [
+                "What did you pray for?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I've been feeling sluggish recently. I've tried all sorts of things, but nothing seems to work."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "People say this place is supposed to have healing properties, so I figured it couldn't hurt.",
+            "choice_data_list": [
+                "Then I'll pray for you too.",
+                "Then I'll pray for you too."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh? How considerate of you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I pray from the bottom of my heart that Daiwa Scarlet's condition improves."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. You sure look serious about this. I guess you <i>are</i> my trainer and all…",
+            "choice_data_list": [
+                "Is it working yet?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hah, stop fooling around. There's no way it'll work that fast."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But… Huh. I guess I <i>do</i> kind of feel a bit better… maybe?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's probably just placebo, but I'll go for a quick jog and see how I feel."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Come on, let's head back! I wanna go running before whatever this is goes away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet is in high spirits. The prayers must really have worked."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I don't want to get my expectations too high. For now, let's just go back and start traini―"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh… I just stepped in gum…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Who the heck spits out their gum in a place like this?! And just when I was starting to feel better, too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like the prayers haven't done much to improve Daiwa Scarlet's fortune…"
+        }
+    ]
+}

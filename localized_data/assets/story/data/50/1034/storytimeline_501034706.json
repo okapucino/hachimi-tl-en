@@ -1,0 +1,197 @@
+{
+    "title": "並んで待つのも悪かねえ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out, Inari One and I are headed back to the academy when…"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Whoa. People are lining out the door for this ramen shop today too?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "It's gotten pretty popular. Guess we'll just have to join the queue. My stomach won't settle for anything less."
+        },
+        {
+            "name": "Inari One",
+            "text": "…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oguri mentioned that ramen shop over there bein' real good a while back, and I've been kinda wantin' to check it out."
+        },
+        {
+            "name": "Inari One",
+            "text": "But ya know, I'm not really a fan of standin' 'round, waitin' patiently in line!"
+        },
+        {
+            "name": "Inari One",
+            "text": "At the same time, I'd hate to ignore her recommendation, so I'm ponderin' what I should do.",
+            "choice_data_list": [
+                "Want to line up together then?",
+                "Want to line up together then?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…",
+            "choice_data_list": [
+                "The line will move along while we're talking."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, you're right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While Inari One and I are waiting in line, the topic I bring up is…",
+            "choice_data_list": [
+                "Favorite foods.",
+                "Recent worries."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I know we're in line for ramen and all, but my fave food is probably soba!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I could eat it every day! Actually, I learned a thing or two 'bout makin' it back in my hometown."
+        },
+        {
+            "name": "Inari One",
+            "text": "I might not be great in the kitchen, but when it comes to soba, I can hold my own!",
+            "choice_data_list": [
+                "Amazing! You can make it by yourself!",
+                "Amazing! You can make it by yourself!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, well I'm not a pro or anythin'. Mine can't compare to a proper restaurant's.",
+            "choice_data_list": [
+                "I wouldn't mind trying it."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, you're a curious one! And that makes me wanna deliver!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll make some for ya next time then. Be prepared for a flavor explosion!",
+            "choice_data_list": [
+                "I'm looking forward to it!",
+                "I'm looking forward to it!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "By the way, what's your preference when it comes to soba noodles, Boss? Gimme a li'l hint for reference!"
+        },
+        {
+            "name": "Inari One",
+            "text": "By the way, what's your preference when it comes to soba noodles, Boss? Gimme a li'l hint for reference!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know it, Inari One and I are in deep conversation about soba."
+        },
+        {
+            "name": "Ramen Shop Staff",
+            "text": "Sorry to keep you two waiting! This way, please!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, it's already our turn?! Time just flew by!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, time to quit thinkin' 'bout soba and focus on the ramen!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Let's dig in!",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Spending the day standing in line together, I can't help but feel the distance between me and Inari One has shrunk a little."
+        },
+        {
+            "name": "Inari One",
+            "text": "That reminds me, the sauna at the bathhouse I usually go to is bein' fixed right now. It's super annoyin'.",
+            "choice_data_list": [
+                "You really enjoy saunas, don't you?",
+                "You really enjoy saunas, don't you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "'Course I do! Takin' a hot bath is nice, but so are saunas! Plus, there's a particular way to enjoy 'em."
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya gotta follow all the right steps and then savor every moment… Before ya know it, you'll be in heaven!",
+            "choice_data_list": [
+                "You're making me want to try it now."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Heeey, great idea! I'll give ya some sauna recommendations later! It's even better after a hard day's work!",
+            "choice_data_list": [
+                "You know other places?",
+                "You know other places?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I've scoped out pretty much every bathhouse in the area! There isn't a single thing 'bout baths and saunas the great Inari doesn't know!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss, what kinda baths do ya like? Now that we're on the subject, I realized I've never asked ya."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss, what kinda baths do ya like? Now that we're on the subject, I realized I've never asked ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know it, Inari One and I are in deep conversation about baths and saunas."
+        },
+        {
+            "name": "Ramen Shop Staff",
+            "text": "Sorry to keep you two waiting! This way, please!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, it's already our turn?! Time just flew by!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, now how 'bout we sample a bowl of Oguri's top pick?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Let's dig in!",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Spending the day standing in line together, I can't help but feel the distance between me and Inari One has shrunk a little."
+        }
+    ]
+}

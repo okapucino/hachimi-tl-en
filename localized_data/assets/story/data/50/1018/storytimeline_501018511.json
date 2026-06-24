@@ -1,0 +1,264 @@
+{
+    "title": "花壇制作大作戦",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hear some excited voices coming from the academy garden, so I go to check it out."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Basically, we have amaryllises over there! And then gladioluses, dahlias, and the cherry on top—hibiscuses!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "So they're all red and ostentatious?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí! Passion, fire, beauty! Perfect for a summer-themed flower bed!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well, it's clear that you've put a lot of thought into this… in your own way. Although it sounds a tad difficult to put into practice."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Special Week, any thoughts?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, um… When I think of summer, I think of sunflowers."
+        },
+        {
+            "name": "Special Week",
+            "text": "There were sunflowers near my home when I was growing up, so personally, I'd like to see some at the academy too!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah yes, sunflowers… A classic, reliable option. They may not have the novelty one would want in a new flower bed, however.",
+            "choice_data_list": [
+                "You're making a new flower bed?",
+                "You're making a new flower bed?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! It's Air Groove's trainer! Hello."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That we are. We're just discussing the best plan of action."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Grass Wonder was meant to be in charge, as she's the head of the school groundskeeping committee, but unfortunately—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grass came down with a fever yesterday. But she's sooo responsible, she can't even rest if her work isn't done!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's why we decided to take it off her hands!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I appreciate the enthusiasm, but we have to settle the matter, and both of our options have their pros and cons."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'd like to hear your input, if you don't mind."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Plain yet achievable, or striking yet difficult? Which option would <i>you</i> favor?",
+            "choice_data_list": [
+                "Plain yet achievable.",
+                "Striking yet difficult."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hmm, playing it safe, huh? Sounds about right for Air Groove's trainer."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well, sunflowers are emblematic of summer, and their versatility as decorations is unmatched."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That said, I believe we can still include enough flashiness in this flower bed to keep you satisfied."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You mean we can use some red flowers?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Yes, let's add some red."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once the flower bed meeting reaches a good stopping point, the group decides to take a break. Suddenly, Air Groove speaks up."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Speaking of sunflowers, do either of you know the famous fable about them?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I think I do! My mom told me when I was little! Ummm, how's it go again?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Once upon a time, there was a girl who fell in love with the god of the sun. She spent all her time looking up and following him across the sky, until one day, she transformed into a flower!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's what my mom told me when I asked her why sunflowers always follow the sun!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hehe. You're very well-informed, Special Week."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoa, whoa, whoa! Hold up! The girl actually became a flower?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's not a happy story! It's spooky! And… a little bit melancólica…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Indeed. Many interpret it as a tragedy about heartbreak."
+        },
+        {
+            "name": "Air Groove",
+            "text": "However, a different emotion wells up in me when I hear the fable.",
+            "choice_data_list": [
+                "Do you mind sharing?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "The girl longed for something out of reach. I think such passion and bravery is admirable."
+        },
+        {
+            "name": "Air Groove",
+            "text": "And I believe that the girl transformed… because she desired to do so."
+        },
+        {
+            "name": "Air Groove",
+            "text": "She longed to become a flower that resembled the summer sun she so admired."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The girl's resolve, these proud flowers—I think there's a certain beauty in them both."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ohhh myyy—",
+            "choice_data_list": [
+                "—gosh!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wh-what's with the strangely in-sync response?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "A-Air Groove… I never knew you were…"
+        },
+        {
+            "name": "Special Week",
+            "text": "…Such a romantic!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "F-forget everything I just said! All of you!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's an order! No objections!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I know I already made a suggestion, but I really like El's idea too!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I think a colorful, vibrant flower bed would be really popular with the other students!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oho… So you choose the path of thorns."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'd expect nothing less from a fellow associate of Tracen Academy."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Very well—I shall lead us to success."
+        },
+        {
+            "name": "Air Groove",
+            "text": "We will create an enchanting sea of bright-red flowers at all costs—no matter how difficult it may prove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "First on the agenda is securing the supplies. Follow me, everyone!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Magnífico! What energy! What passion! All hail the Empress!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh man, it looks like we've really lit a fire in her!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh! That reminds me of something."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I heard that when Air Groove runs, the stronger the opponent and tougher the situation, the more she smiles!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wh-what do you mean?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The bigger they are, the harder they fall… and the sweeter the victoria! She savors finding a worthy opponent!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That particular smile of hers even has a name… They call it \"The Empress's Savage Smirk\"!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wh-whaaat?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "O-oh no, Mom… Am I gonna finish this thing alive?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "A completely red flower bed… Hehehe…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "How exhilarating! I shall relish this challenge!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They seem like they're all having fun, so I decide to leave them to it."
+        }
+    ]
+}

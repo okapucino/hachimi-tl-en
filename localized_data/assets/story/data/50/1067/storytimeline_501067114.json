@@ -1,0 +1,308 @@
+{
+    "title": "今はまだ遠き",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Satono Diamond and I have come to watch Kitasan Black compete in the Kikuka Sho."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, Kita's on the track!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh… It looks like there's something off about her…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Maybe it's nerves."
+        },
+        {
+            "name": "???",
+            "text": "I think it's more likely because of who <i>isn't</i> running in today's race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature suddenly appears from among the crowd. She's one of the students who threw Satono Diamond and the other newcomers a welcome party when they entered the academy.",
+            "color_text_info_list": [
+                "Nice Nature"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah! That's right. You mean the person who won the Satsuki Sho and Japanese Derby, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yep. She's not racing today, and it seems that Kitasan was all fired up about beating her here.",
+            "color_text_info_list": [
+                "Kitasan"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It just doesn't quite feel worth it to try hard when your rival's not there, you know? It's kind of like when the star of a show is missing."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The star…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kitaaa!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She's completely focused on the race… Seems I was worrying for nothing!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm certain she'll put on a great performance and show everyone that <i>she's</i> the main star!"
+        },
+        {
+            "name": "Caster",
+            "text": "Yodo has become grounds for the Kitasan Festival as Kitasan Black conquers the Kikuka Sho!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wooow! Kita was amazing!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa, seriously? I didn't know Kita was a shining star herself…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Although, it seemed like she struggled a bit with her positioning towards the end…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It always comes down to the final sprint for me, so I would've tried to avoid being trapped on the inside and pushed toward the outside on the fourth turn. Then—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, come on. Ugh. You're getting too dazzling for me too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day after returning from watching the Kikuka Sho…",
+            "choice_data_list": [
+                "That's it for training today!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I can keep going! I'm still worried about my endurance, so can we do some additional training, please?",
+            "choice_data_list": [
+                "You're not ready to work on your endurance yet."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Then, how about I do some incline dashes?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She passionately pleads her case, but since she's still in her junior year, I want to avoid any training that will put undue stress on her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that putting too much strain on her body while she's still growing could lead to injury."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sorry… You're right. Seeing Kita run in the Kikuka Sho made me feel pressured to work harder too…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like yesterday's race triggered something inside her, and now she's positively bursting with pent-up energy."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if there's a way for her to channel that energy productively without straining herself.",
+            "choice_data_list": [
+                "How about we do some special training to break the school's jinxes?",
+                "How about we do some special training to break the school's jinxes?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That sounds great!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Let's get started right away! Where can I find these jinxes?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wow. Talk about hook, line, and sinker. She's completely into it."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Okay, what's the first jinx?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's rumored if you play milk caps on the school's rooftop and win, you'll slip on the stairs on the way down. Just as I take out some milk caps…"
+        },
+        {
+            "name": "???",
+            "text": "Oh, it's Satono and her trainer!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh, what's that? Are you playing milk caps? Can we join? We're, like, sooo supes bored right now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer approaches us excitedly, accompanied by Ikuno Dictus and Nice Nature.",
+            "color_text_info_list": [
+                "Mejiro Palmer",
+                "Ikuno Dictus"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'd be delighted to have you as opponents! I'm actually in the middle of undergoing special training to break jinxes."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're training to… break jinxes? What does that mean?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh, so that's it. We'll help too!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes, we would be happy to. If it's school jinxes you're looking for, I know of around ten."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "This is the jinx where if you win a game of milk caps on the rooftop, you'll slip on the stairs on the way down, yes?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "In other words, if Satono manages to win a game and make it down the stairs without slipping, then she'll have broken the jinx."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Come to think of it, aren't you really good at milk caps, Nature?",
+            "color_text_info_list": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't know if I'm <i>good</i> at it, but I do play it a lot. How are you at milk caps, Satono?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I haven't played it very much, but I'll do my best!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I think it's gonna be a toughie, winning against Nature…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I did it!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh! You made it down the stairs without tripping!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! That's one jinx down!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "There's another jinx where the person who buys the last juice box here is cursed with bad luck for the rest of the day."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, what a coincidence. This is the very last one, isn't it?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "To check whether you have bad luck or not, the two of us will both draw raffle tickets."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ikuno drew the fourth prize ticket and Satono got the first. Well, you definitely don't have bad luck.",
+            "color_text_info_list": [
+                "Ikuno"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's the second jinx taken care of! I'm on a roll!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And that's ten! I've successfully broken ten jinxes in a row!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Overcoming ten jinxes is legit wild! Mad respect, Satono!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! It's not that big a deal, really."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sure it is. It's awesome how you face everything head-on without backing down, whether it's a jinx or your family's dream."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You're like McQueen in that way."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Do you really think so?! You just made my day!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I've… I've always admired McQueen."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The way she moves stoically toward her goals while remaining unfazed even in the face of great pressure―that's how I aim to be."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Just as McQueen bore and met the expectations of the Mejiro family, I, too, wish to realize my family's dream."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hehe. You know, McQueen was complimenting you for working so hard to make your family's dreams true."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But I'm nowhere near her level yet. I haven't achieved anything remarkable so far."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man… All you sparkly go-getters sure have it tough…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "We're rootin' for you, Satono, so do your best! Don't you dare lose!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I won't! Thank you!"
+        }
+    ]
+}

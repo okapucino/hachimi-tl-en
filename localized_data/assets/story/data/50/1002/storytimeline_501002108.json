@@ -1,0 +1,307 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Fan Fest is finally here."
+        },
+        {
+            "name": "Monologue",
+            "text": "The huge crowds of fans visiting campus bring a festive mood with them."
+        },
+        {
+            "name": "Fan A",
+            "text": "Hey! You're Silence Suzuka! You were so great at the Kinko Sho!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, th-thank you very much."
+        },
+        {
+            "name": "Fan A",
+            "text": "You're running in today's team relay race, right? I can't wait!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes, um… Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "She appears a little uncomfortable having to interact with people in the packed crowd."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Honestly, all these fans…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I never know how I should respond to them."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems a lot of fans here today were particularly impressed by her performance at the Kinko Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "We walk around the academy grounds a bit, but it's not long until we're completely surrounded."
+        },
+        {
+            "name": "Fan B",
+            "text": "Watching you run is so inspiring!"
+        },
+        {
+            "name": "Fan C",
+            "text": "When's your next race?"
+        },
+        {
+            "name": "Fan D",
+            "text": "Is it true that you like strawberry mochi?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… Well… Uh…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm sorry. I should be getting ready for the relay. If you would excuse me!"
+        },
+        {
+            "name": "Fan B",
+            "text": "She's so cool!"
+        },
+        {
+            "name": "Fan C",
+            "text": "That's part of what I like about her though!"
+        },
+        {
+            "name": "Fan D",
+            "text": "I know, right! She's so stoic and focused only on running. That's so cool!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems her fans love her all the more for her reticent nature."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon afterwards, the relay race is ready to begin! The academy's most popular Umamusume gather up to participate in this special event."
+        },
+        {
+            "name": "Monologue",
+            "text": "Serving as the commentator for the event is the martial arts-loving El Condor Pasa!",
+            "color_text_info_list": [
+                "El Condor Pasa"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It's time for a relay caliente! Which team will take the prize in today's scorchin' hot contest of speed?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The heated competition unfurls. As it nears the end, the batons are passed to each team's anchors—Air Groove and Silence Suzuka!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The red team's Air Groove has the baton and she's running like the wind!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But she's not alone! Fuji is hot on her tail, passin' the baton off to Suzuka!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It's down to the two anchors—Silence Suzuka, the Otherworldly Front-Runner, and Air Groove, the Empress!",
+            "color_text_info_list": [
+                "Otherworldly Front-Runner"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Can the red team keep their lead? Or will the white team catapult ahead?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The crowd of spectators goes wild."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And there you have it! Air Groove flies ahead to the finish line! The relay goes to the red team!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Phew…",
+            "choice_data_list": [
+                "Good job! You almost had it.",
+                "Good job! You almost had it."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer. Yes… It was close."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Even though I had a slow start… in the end, Air Groove's final dash was just too powerful."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I wish I could have taken the lead.",
+            "choice_data_list": [
+                "You sound a little frustrated.",
+                "You sound a little frustrated."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yeah. I almost feel like I should apologize to everyone…",
+            "choice_data_list": [
+                "Apologize for what?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well… Because there are so many people who came to see me win.",
+            "choice_data_list": [
+                "(This is unexpected!)"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Why do you look so surprised?",
+            "choice_data_list": [
+                "It's nothing. Next time, you'll win!",
+                "It's nothing. Next time, you'll win!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. Next time, without a doubt."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the events of today's Fan Fest have given Silence Suzuka a motivation boost."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Que rápido! The white team might have the upper hand! They pass their baton just a tiny bit ahead!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The showdown between Silence Suzuka, the Otherworldly Front-Runner, and Air Groove, the Empress, is on!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Fly, Silence Suzuka! You can do it!"
+        },
+        {
+            "name": "Fan B",
+            "text": "You've got this! You've got this!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(…All this enthusiastic cheering… It's like I'm running at a racecourse.)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(I… I want to see what lies beyond this passion!)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…Hah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The crowd goes wild."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Silence Suzuka does it! She flies across the finish line and takes it for the white team!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Phew…",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Thank you.",
+            "choice_data_list": [
+                "The crowd really went crazy!",
+                "The crowd really went crazy!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. It felt like we were at a racecourse."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The sounds… The atmosphere… The vibrations!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I went beyond the passion of the crowd and found a calm place all my own…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Though, I wish I could have better expressed my appreciation for my fans.",
+            "choice_data_list": [
+                "Just show it through your racing."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My racing?",
+            "choice_data_list": [
+                "It's exactly what they want to see.",
+                "It's exactly what they want to see."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, is that right? In that case…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'll just have to keep doing what I do best."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the events of today's Fan Fest have given Silence Suzuka a motivation boost."
+        }
+    ]
+}

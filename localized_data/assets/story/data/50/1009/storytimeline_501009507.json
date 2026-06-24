@@ -1,0 +1,39 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Daiwa Scarlet receives a fan letter."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "O-oh? A fan letter? For me?",
+            "choice_data_list": [
+                "You look pleased."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! If anything, there should be piles of these on the way!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The future number one would never get all excited for just one letter.",
+            "choice_data_list": [
+                "You've got a <i>huge</i> grin."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Y-you're just seeing things! Come on, it's time to train!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…I'm going to make all my adoring fans proud."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet is in a wonderful mood for the entire day."
+        }
+    ]
+}

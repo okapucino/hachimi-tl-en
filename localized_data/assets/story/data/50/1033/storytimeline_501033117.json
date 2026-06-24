@@ -1,0 +1,431 @@
+{
+    "title": "この星明かりをしるべにして",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "…!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Oh, they've put out the list of entrants for the Japan Cup.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Myself… Opera O, Doto, and…)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Classmate A",
+            "text": "Good morning! Huh? Where's Top Road?"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Oh… She's not here yet? Then I think she might be off today. I heard some teachers talking about it."
+        },
+        {
+            "name": "Classmate A",
+            "text": "Really?! That's not like her! Is she sick? I hope she's okay."
+        },
+        {
+            "name": "Classmate B",
+            "text": "Um, well, I think they said she wasn't feeling well, but look…"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Didn't you hear about the Japan Cup?"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Top Road didn't get a spot in the race."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the afternoon. Whenever Admire Vega has training, she's usually the first to arrive on the field, ready to go."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's how efficient she is… usually."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Um…",
+            "choice_data_list": [
+                "(She's still in her uniform?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "That on its own is enough of a sign that something is wrong."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks at me indecisively, frantically searching for the right words to say."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now I'm certain she's holding something back.",
+            "choice_data_list": [
+                "Ayabe."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…?",
+            "choice_data_list": [
+                "You know yourself pretty well now, right?",
+                "You know yourself pretty well now, right?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seasons have come and gone since she confided in me during our New Year's shrine visit. Now that she's been living her life honestly and for herself…",
+            "choice_data_list": [
+                "I want to know what you want to do."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'd like to take a break from training today."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I… want to talk to Top Road about something.",
+            "choice_data_list": [
+                "Okay, sure thing!",
+                "Okay, sure thing!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Thank you."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ah."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…There you are."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabe?! Wh-what are you doing here?! Shouldn't you be at training?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What about you? You should be resting in your dorm if you aren't feeling well."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah… hahaha."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I thought skipping class and taking the day off would clear my head, but it's not doing any good. Probably 'cause I've never done this before!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I couldn't think of anything I wanted to do or anywhere I wanted to go. Before I knew it, half the day was already gone."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "In that case…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why don't we skip class the <i>right</i> way?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Huh?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Cosmetics?! Ayabe, I had no idea you like this stuff!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well… not particularly."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Right, you even cut your hair yourself! So… why are we here again?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "This one's a miss, I guess. Okay…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Um… It looks like this restaurant has some special rules. Do you know them, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Not really. But…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I know there are a few items that would be really embarrassing to order."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Wh-what a minefield!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Oh, right! You don't like noisy places! We should get going!"
+        },
+        {
+            "name": "Ayabe and Top Road",
+            "text": "<i>Siiigh…</i>"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haha, I guess I'm not one to talk, but you aren't great at skipping class either!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Still…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Thank you for looking out for me."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "And you know, I think I'm all right now!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "It's true that I won't be able to race in this year's Japan Cup, but it's not the end!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "So, um… I'm going to head back."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I want to go for a run, so—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Wait."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Stay with me."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Until it's night—stay until the stars come out."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two wait in silence until the sun goes down."
+        },
+        {
+            "name": "Monologue",
+            "text": "They continue to wait and wait until…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabe? What are those four shining stars over there?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's the Great Square. It's also called the Great Square of Pegasus."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I see… Pegasus, huh? That sounds so cool. I bet they could take off flying and never look back."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "…I wanted to shine brightly like that with everyone else."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "It's… hard, though."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I can't be like Opera O or Doto, and I could never be like you."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "It doesn't matter what I do, I'll only ever be myself… And it looks like this is as far as I can get."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…You're right."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You can't be anyone else. You'll only ever be yourself."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's why I want to race against you."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Wha…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're reliable and caring. Your running is a little sloppy, but you're strong and super popular."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're earnest in your promises to meet your fans' expectations, but you tend to overthink things a bit… You're a good person."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabe…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Top Road…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Let's compete again."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yeah…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "You can gather your strength, <i>then</i> you can get back to training…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "That way, when we compete again—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Oh… Top Road's hand.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(I brushed her off once before. But now, one year later, I feel her touch.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(…This is the hand of my strongest rival.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Be sure to come watch me at the Japan Cup."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Watch me, and I know you'll want to face me again."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Because I'm going to win. So…"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "So you want me to be there, to crawl out of my slump and see you, no matter what."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Even if I'm coughing up blood?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Uuuh…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I guess so?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "…Heh. Ahahaha! Ahhhh!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I've never heard you say something so selfish!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're right…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That might be the first time I've said something like that."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Is… that okay?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "<i>I-is</i> that okay? Well… I think I already feel at least a tad bett—"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Heeey!"
+        },
+        {
+            "name": "Ayabe and Top Road",
+            "text": "…!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You two are bad little ponies! What in the world has gotten into you?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Did you have fun skipping class and breaking curfew? I hope so, because I'm assigning you extra cleaning duties as punishment!"
+        },
+        {
+            "name": "Ayabe and Top Road",
+            "text": "…Understood."
+        }
+    ]
+}

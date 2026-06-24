@@ -1,0 +1,403 @@
+{
+    "title": "BNW、再燃",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After the Takarazuka Kinen, Winning Ticket and I spend some time thinking about what Biwa Hayahide said."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What is it about me now that's so different compared to when I ran the Derby?",
+            "choice_data_list": [
+                "Before the Derby, you had those scary dreams…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh yeah, I remember that! It got me all scared!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But that makes sense, right? It was my big dream, to go to the Derby. I <i>really</i> couldn't stand the thought of losing."
+        },
+        {
+            "name": "Monologue",
+            "text": "She couldn't stand… losing?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It seems like losing to me in that final struggle has got her rather worked up."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh… Wouldn't scrimmages be more useful than training on her own though?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I mean, the one we had just now was really great!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh? Was it?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah. The last sprint between you and Taishin was such a tough fight!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Everyone said it was a really intense race!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…Did you think so too?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Even though you lost?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe I didn't notice since Ticket is always so earnest, but it's true that something important has changed.",
+            "choice_data_list": [
+                "It's that feeling!",
+                "It's that feeling!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh, what's going on? What feeling?",
+            "choice_data_list": [
+                "The feeling you had when you couldn't bear the thought of losing!",
+                "The feeling you had when you couldn't bear the thought of losing!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's right… I couldn't stand the thought of it…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah… Maybe I'm seeing things wrong."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I thought all I wanted was more amazing races like the Derby—running against my rivals, the audience getting super into it…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I figured that would be enough to satisfy me."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So maybe I lost sight of the feeling I had back then—that I absolutely didn't wanna lose, that I <i>had</i> to win.",
+            "choice_data_list": [
+                "But that feeling itself is what's really important."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh… Yeah, you're right."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If \"having an awesome race\" is all that I try for, it's never really gonna <i>be</i> an awesome race."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I've gotta go for broke! Aim to win no matter what! 'Cause when everyone competes with everything they've got, <i>that's</i> when you get a race as fiery as the Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin and Hayahide put all their heart into winning, and that's why they keep improving."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But I wasn't serious about getting first place… so I wasn't a real rival to them at all!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer, I wanna win! I gotta beat Taishin and Hayahide!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No… not just them. I wanna beat everyone! I can't lose to anyone!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'll win every time and show the audience what a real awesome race looks like!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "'Cause I realize now…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>That's</i> the dream I've been chasing all along!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her resolute declaration moves my heart."
+        },
+        {
+            "name": "Monologue",
+            "text": "Much like the very first time she told me about the Derby and her dream.",
+            "choice_data_list": [
+                "Then we might as well aim for the biggest race!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The biggest?",
+            "choice_data_list": [
+                "The Grand Prix at the end of the year! The Arima Kinen!",
+                "The Grand Prix at the end of the year! The Arima Kinen!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoooa, the Arima Kinen! So many famous showdowns happened there!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! I'll become a legend once I win it! So it's time to train!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But before that, I need to do one last important thing. Hold on a sec!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hurry after Winning Ticket as she dashes off."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin! Hayahide! Race against me!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pass."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No passing! The loser buys everyone juice!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket… If you simply want to have fun at practice, now is not—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No holding back! This is gonna be a serious showdown between the three of us!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pleeease! I'm begging you—I really gotta tell you both something!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What do you think?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "History shows that she will not be denied. You know that as well as I do."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Then it's on! Okay, get readyyy, GO!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though they run in cheerful weather, under a pleasant, blue sky…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The final hundred meters of the sudden race spark a serious battle."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "(Both of them are really in the zone! They're so fast!)"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But don't count me out! I'm not gonna lose this tiiime!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket! <i>Huff…</i> Failure is not an option for me!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No, I'm gonna leave both of you behind!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Haaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket is the first to sprint forward, but the others quickly kick into high gear and give chase."
+        },
+        {
+            "name": "BNW",
+            "text": "HAAAAHHHH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Each unleashing every last ounce of their stamina, the three racers bound across the finish line!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Huff, huff, huff…</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's… my… WIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The racers drop down on their knees, too exhausted to say anything for a moment."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, you guys… I know I haven't been good enough to be your rival."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Especially lately, but that's 'cause I forgot about the most important thing."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, well…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's why today I've gotta tell you exactly how I really feel!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Okay, let's hear it."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hayahide! You always know how to analyze the whole race ahead! You're calm, but also passionate, and I love that about you!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's why I don't wanna lose against you!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…I understand."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "And Taishin! Your final sprints are so great it's crazy! You're awesome, and a little scary, and I love that about you!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So that's why I don't wanna lose against you either!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…I know."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Both of you are my all-time favorites—my most respected rivals! And I <i>really</i> wanna beat you more than anyone else!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm entering the Arima Kinen, so will you please race me there?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I want to have a real battle against you two, as rivals!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At the sight of Winning Ticket's earnest expression, a fond smile widens across Biwa Hayahide's face."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Rivals, hm? I know that look in your eyes well enough."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "All right. I'll enter the Arima Kinen. It's a promise."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aww, H-Hayahideee!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I… have things I need to do."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So I don't have time to be playing around with you guys."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But a race against the two of you…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, I suppose it's worth making time for."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Th-then does that mean…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But if you put on a weak-sauce performance at the Arima Kinen, I'll literally kick your butt."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "TAISHIIIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket wraps her two friends in a big hug."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! I-idiot, you're crushing me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WAAAAH! Let's do everything we can to make the Arima Kinen the greatest ever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Winning Ticket's emotion-filled cry echoes across the track, it's clear that the members of BNW are rivals once more."
+        }
+    ]
+}

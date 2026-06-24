@@ -1,0 +1,202 @@
+{
+    "title": "天道の守護者",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "Apologies for bothering you, Trainer, but have you seen any ladybugs around?",
+            "choice_data_list": [
+                "Ladybugs?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes. Seven-spotted ladybugs, to be precise. The ones that should be in the field at the moment have gone missing."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "As one entrusted with their management, I am investigating their whereabouts.",
+            "choice_data_list": [
+                "You're managing ladybugs?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, but it's more of a personal hobby."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Any information would be most appreciated, as I have no leads at the moment.",
+            "choice_data_list": [
+                "I'll help."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Are you sure?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After splitting up and asking around the school, we get some useful information. We immediately head out to find the ladybugs, but…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Geez! Sit still already! How are you so tiny yet so fast?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Listen up, ladybugs! You'd better stay in the magic circle if you know what's good for you!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You there! Unhand those poor creatures!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wh-who're you?!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We are members of the Ladybug Management Association. Return the ladybugs you abducted.",
+            "choice_data_list": [
+                "(<i>We?!</i>)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No! I need them for my magic to work right this time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "With these seven-spotted ladybugs and a seven-pointed magic circle, I just know it's gonna work!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I understand the urge to rely upon ladybugs."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I did the very same when my father taught me that they were symbols of luck."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I used to beg for ladybug-shaped cakes and polish the ladybug charms affixed to my Schulranzen—my schoolbag…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But in the end, I realized that they were merely a symbol."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My father taught me that while ladybugs can provide a morale boost, only I can control my own life."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If there is something I want to achieve, I must do so with my own efforts. On that note…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let me ask you something. Can you truly feel joy towards an achievement that isn't yours?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Urgh… Nnngh…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, fine! I'll give them back if you want 'em so bad! I'll make the magic work all by myself!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "All's well that ends well.",
+            "choice_data_list": [
+                "Congrats on straightening that out."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The situation was resolved five minutes, fifty-three seconds earlier than anticipated. Your assistance proved invaluable."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "By the way…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Would you be interested in joining the Ladybug Management Association?",
+            "choice_data_list": [
+                "Er…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Your willingness to drop everything and take action for the sake of ladybugs is an admirable trait."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Having someone like you among our ranks would be of great help. Of course, I'll ensure none of our ladybug activities affect my training.",
+            "choice_data_list": [
+                "I don't know if I have the energy…",
+                "If you really think I can help, sure!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I understand. Taking on another job in addition to your current duties as a trainer would certainly be tiring."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We can begin with building up your educational background on ladybugs, then.",
+            "choice_data_list": [
+                "Er…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Aller Anfang ist schwer—all beginnings are difficult. However, once you start, a whole new world will become yours."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "After we've built up your knowledge of them, we will begin training you to run at thirty kilometers per hour, the same speed that ladybugs can fly.",
+            "choice_data_list": [
+                "Thirty kilometers per hour?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Have no fear. Ladybugs tend to favor a specific locale, so their migration paths are rather short—"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't bring myself to stop her with how excited she looks while rattling off ladybug facts… so I end up listening to her lectures on a regular basis."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But of course. I will inform the other members at once."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oho? Interested in joining this association, are you? You have good taste."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ladybugs are beneficial insects that protect fields and flowerbeds day and night."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Therefore, protecting them is a vital part of protecting the academy as a whole."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let's do our utmost for the academy and for the ladybugs."
+        },
+        {
+            "name": "Monologue",
+            "text": "From that point on, I join Eishin Flash on regular patrols around the campus to check on the ladybugs."
+        }
+    ]
+}

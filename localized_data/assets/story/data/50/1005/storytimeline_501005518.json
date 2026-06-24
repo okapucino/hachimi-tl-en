@@ -1,0 +1,36 @@
+{
+    "title": "声を枯らして",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I'm in the middle of a meeting with Fuji Kiseki, when…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ngh… Sorry, my throat feels a little funny today.",
+            "choice_data_list": [
+                "You okay? Did you catch a cold or something?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "No, it's not that."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The thing is, I went to sing karaoke yesterday."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "They had a lot of songs from minor musicals, so I got carried away."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I ended up singing each one as if I were performing on stage, and… <i>Cough, cough!</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ugh… I've learned my lesson. It's never good to go overboard, whether it's racing or singing."
+        }
+    ]
+}

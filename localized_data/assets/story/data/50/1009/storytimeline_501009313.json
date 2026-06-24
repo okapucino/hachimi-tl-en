@@ -1,0 +1,42 @@
+{
+    "title": "オークスにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Today's the day, folks! It's the second race of the Tiara tour!"
+        },
+        {
+            "name": "Caster",
+            "text": "Which Umamusume will step up as today's heroine? Let's see their glory blossom on the track!"
+        },
+        {
+            "name": "Commentator",
+            "text": "This year's Tiara tour has been dramatic, to say the least!"
+        },
+        {
+            "name": "Commentator",
+            "text": "The powerhouse Vodka has left the tour. Is she taking the limelight with her, or will a new star rise in her absence?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I've entered the Japanese Oaks, just like we planned."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And just like we planned, I'm going to get first place. Then they'll all see what I'm made of.",
+            "choice_data_list": [
+                "Don't overthink it, okay?",
+                "Don't overthink it, okay?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "As if. I'll run just like I always do."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Even if she's not here to see it…"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "After the Debut: Mirage",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Racer A",
+            "text": "<i>Huff, huff…</i> Phew! Well done everyone! That was some race!"
+        },
+        {
+            "name": "Racer A",
+            "text": "Wait… isn't that Manhattan Cafe over there? Hey, good job today…"
+        },
+        {
+            "name": "Racer A",
+            "text": "Huh, didn't she hear me? Um…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe turns away from the other runner and gazes into the distance."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, Trainer…",
+            "choice_data_list": [
+                "How did the race go?",
+                "How did the race go?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…My friend won. She took off by herself, shot past the finish line… and kept going… into the distance…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She seemed so happy, getting to run in a vast space like this. But at the same time…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She ran so, so fast… it was like she was set free from something. The distance between us was greater than I'd ever seen…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I want to catch up to her, but… how can I do that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Judging from what Manhattan Cafe's told me, her Friend is significantly faster than her."
+        },
+        {
+            "name": "Monologue",
+            "text": "So a quick-fix plan won't get us anywhere. Meaning…",
+            "choice_data_list": [
+                "Let's build your strength little by little. We can decide on your goal race later."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Little by little… That's going to take a while…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Okay… Let's go with that.",
+            "choice_data_list": [
+                "Are you okay with this approach?",
+                "Are you okay with this approach?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I am. If you say rushing is out of the question, then that's that…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Besides, this might be just what I need… Since my body isn't very strong…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She nods, moves to my side, then vows to chase after our goal together."
+        },
+        {
+            "name": "Racer A",
+            "text": "Hey, don't you think those two are kinda weird? Staring off into the distance like that."
+        },
+        {
+            "name": "Racer B",
+            "text": "I guess they're both weirdos… Let's keep our distance."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll try to make sense of the things that only Manhattan Cafe can understand as we continue racking up achievements together."
+        }
+    ]
+}

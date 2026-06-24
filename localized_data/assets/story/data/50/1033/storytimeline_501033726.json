@@ -1,0 +1,56 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Admire Vega…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice her eyeing up a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "Do you want a plushie?",
+                "Do you want a plushie?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I was just thinking about it… Not for me, though. For a friend."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Yeah, never mind. Let's hurry back and train."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Come on."
+        },
+        {
+            "name": "Monologue",
+            "text": "She steps forward, but then her head turns as if someone yanked on her hair. I think she's putting on a front.",
+            "choice_data_list": [
+                "I'll nab one for you."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh? I told you… I don't need it.",
+            "choice_data_list": [
+                "You might change your mind once you have one."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Do whatever you want."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

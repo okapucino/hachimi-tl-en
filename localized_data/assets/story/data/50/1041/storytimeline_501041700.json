@@ -1,35 +1,37 @@
 {
-    "no_wrap": true,
+    "title": "寝不足で……",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaaaawwwnn～～～…"
+            "text": "<i>Yawn…</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nn… I'm sorry, I was in a… meeting. \nAn intellectual evil… kind of situation.",
+            "text": "Ah, sorry for interrupting you in the middle of a meeting. About the damage to the inferior…",
             "choice_data_list": [
-                "Intellectual, evil…?"
+                "Damage… to the inferior? Did you mean interior?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes… Last night, the beverage that \nBakushins one's thoughts… \nCoffee, I drank too much of it."
+            "text": "Oh yeah… Last night, I had a drink to kick-start my thoughts… and drank too much coffee."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "\"Stay sharp, keep that drowsiness away!\" \nthe label said… but I didn't expect it to go \nthis far…"
+            "text": "The label said something like \"Feel alert and say goodbye to drowsiness.\" But I never imagined it'd be so effective as to keep me awake so long…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaaawn～… \nTrainer, please do be careful around coffee."
+            "text": "<i>Yaaawn</i>… You should be careful with coffee as well."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Only one cup, and it has this effect… \n…I'll… only get through half of the day today."
+            "text": "Just one cup had this effect… I'll… have only half a cup today."
         },
         {
-            "text": "Perhaps because of her overly straight- \nlaced nature, Sakura Bakushin O was unable \nto sleep well after just one cup of coffee…"
+            "name": "Monologue",
+            "text": "Perhaps due to her guileless personality, Sakura Bakushin O suffers from insomnia after drinking just a single cup of coffee…"
         }
     ]
 }

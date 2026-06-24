@@ -1,0 +1,303 @@
+{
+    "title": "宿敵現る！ワガママ王女との場外乱闘",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, we've come to a cafe to film the TV show Kawakami Princess was approached about after the Japanese Oaks."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…There's not a single customer in sight. It's like a ghost town!"
+        },
+        {
+            "name": "TV Station Staff Member",
+            "text": "Good to see you again! Thank you for agreeing to take part."
+        },
+        {
+            "name": "TV Station Staff Member",
+            "text": "As mentioned in the materials I sent you, today's show will be held in a discussion format. I've reserved the whole cafe so we can really explore your appeal as a racer!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "S-so I have the whole cafe to myself?! How princessly!"
+        },
+        {
+            "name": "TV Station Staff Member",
+            "text": "Hehe. We made sure to pick the perfect conversation partner to join you, so I'm sure the program will turn out great!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hm?"
+        },
+        {
+            "name": "MC",
+            "text": "Thanks for tuning in to today's episode of <i>Meet the Racers!</i> Our guests today are…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hello! I'm Kawakami Princess! Should I stand in the middle?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Obviously not!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "After all, today's main star is me: Magical Girl Sweepy!",
+            "color_text_info_list": [
+                "Sweepy"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, <i>you're</i> my discussion partner?! R-really?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(It's Sweep Tosho. She's the Umamusume who won the Queen Elizabeth II Cup that Kawakami Princess and I watched together.)"
+        },
+        {
+            "name": "MC",
+            "text": "Now, now. You're both the stars of our program. ♪"
+        },
+        {
+            "name": "MC",
+            "text": "To kick things off: Sweep Tosho! As the Shuka Sho marvel, do you have any advice for Kawakami Princess?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nope!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why should I give advice to some hooligan princess who's way in over her head?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "W-wha… How dare you call a princess a hooligan?! Who taught you such a word?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. That's none of your beeswax, Kawakami.",
+            "color_text_info_list": [
+                "Kawakami"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're not getting any advice from me. Not even if you drop to your knees and cry! ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…! Ohhh. I seeeee."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's okay, Sweep. I've realized why you're being mean to me."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…What are you talking about?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The truth is… you don't even <i>have</i> any advice that could help me, do you?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm already far too powerful, after all, and poor losers only know how to criticize… I understand your frustration, I really do."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Whaaaat?! Don't you look down on me!"
+        },
+        {
+            "name": "MC",
+            "text": "P-please, you two! Let's get a hold of ourselves, shall we?! Umm… On to our next segment!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm standing beside the TV producer and watching the program from off camera, when…"
+        },
+        {
+            "name": "Lady Passerby A",
+            "text": "Who are those two? They're bickering without a sliver of dignity."
+        },
+        {
+            "name": "Lady Passerby B",
+            "text": "Oh, it's the magical girl and the savage Umamusume. Remember what the savage one did at the Japanese Oaks?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Kawakami and Sweep's furious exchange can be heard even outside the cafe. Passersby are beginning to peer inside with puzzled expressions.",
+            "choice_data_list": [
+                "…Are you sure this will be okay?"
+            ]
+        },
+        {
+            "name": "TV Producer",
+            "text": "Yes, there's no problem. If there's anything you want cut, just let us know. But I'm personally fine with it as is!"
+        },
+        {
+            "name": "TV Producer",
+            "text": "I was hoping to capture a natural conversation between the two of them. Aren't they both so strong and fascinating?"
+        },
+        {
+            "name": "TV Producer",
+            "text": "Umamusume don't need glitz or glamour to shine in the Tiara tour. That's the message I want to convey to our viewers.",
+            "choice_data_list": [
+                "What makes you feel that way?"
+            ]
+        },
+        {
+            "name": "TV Producer",
+            "text": "Haha, it's a little embarrassing, but my friend's daughter is an Umamusume. She always wanted to enter the Tiara tour, but before she could…"
+        },
+        {
+            "name": "TV Producer",
+            "text": "She gave up because she didn't think she was glamorous enough. Her friends in elementary school told her the Tiara wouldn't suit her."
+        },
+        {
+            "name": "TV Producer",
+            "text": "I'm not sure what that's even supposed to mean. But I guess it was profound enough to steal away the courage she needed to pursue her dream.",
+            "choice_data_list": [
+                "It \"wouldn't suit her…\""
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ohhh, I'm really mad now! Listen up, precious princess! You'd better enter the Queen Elizabeth II Cup this year!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, I was already planning on it! And you know what I'm also planning on? Strolling into first place!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe, there's no way I'll lose, so I hope you're prepared to fall to the ground crying!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're the one who'll be crying! On the day of the race, you'll get a taste of my most powerful magic!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their squabbling shows no signs of dying down, and in the end, Kawakami doesn't get any advice for the Shuka Sho. However…"
+        },
+        {
+            "name": "Kawakami and Sweep",
+            "text": "Let's settle this at the Queen Elizabeth II Cup!",
+            "choice_data_list": [
+                "(They're both really fired up…)",
+                "(They're both really fired up…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When the episode hits the air, the vigorous exchange between the two racers becomes a big hit among viewers."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some days later, I'm watching a recording of the program when…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Excuse me. I've got some fan letters here for Kawakami Princess.",
+            "choice_data_list": [
+                "Thanks for going out of your way to bring them here!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Don't mention it. I had some documents I needed to give you anyway, so I thought I'd do it all at once."
+        },
+        {
+            "name": "TV Audio",
+            "text": "\"Let's settle this at the Queen Elizabeth II Cup!\""
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, is this that TV program from the other day?",
+            "choice_data_list": [
+                "Yeah, that's right."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "They're both so wonderful and full of energy. Hehe, maybe that's why there are so many fan letters coming in."
+        },
+        {
+            "name": "Monologue",
+            "text": "After checking the documents regarding the Shuka Sho, I open the paper bag containing Kawakami Princess's fan letters."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I check through them to make sure there aren't any letters for other Umamusume mixed in by mistake, I spot an envelope that reads…",
+            "choice_data_list": [
+                "\"To Kawakami Princess and her trainer?\""
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprisingly, it's not even a one-off. Several of the fan letters are addressed to both of us."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open one up to read, yet all that's written inside is…"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You're the worst.\"",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle!</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hey there, Trainer! …Oh? Why do you look so flustered?",
+            "choice_data_list": [
+                "…It's nothing."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh… Are you hiding something from me? Oh my. Whatever could it be, I wonder?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Come ooon, you should know that a princess is very perceptive! I'll have to pretend I didn't see anything. ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe. You actually prepared a surprise present for when I win the Queen Elizabeth II Cup. ♪ That's my trainer—so considerate. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In my surprise at Kawakami Princess' sudden entrance, I panicked and hid the letters from her…",
+            "choice_data_list": [
+                "(I wonder if the other letters say the same thing…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hate to invade her privacy, but I want to check the rest of the letters before handing them over. I pack the bag deep into a cardboard box."
+        },
+        {
+            "name": "Monologue",
+            "text": "She may be a pro athlete, but she's also still a sensitive young teenager. At times like this, I have a duty as an adult to protect her."
+        }
+    ]
+}

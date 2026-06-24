@@ -1,0 +1,282 @@
+{
+    "title": "経験を授けよ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, I'm accompanying Symboli Rudolf to the Fleetfoot Festival, a celebration for Umamusume."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I gave the course a test run. The positioning of the targets and the condition of the equipment all seems to be in order. The archery planning committee has done an excellent job."
+        },
+        {
+            "name": "Tracen Student A",
+            "text": "Th-thank you very much, President! We're so lucky to have you performing the inspection personally!"
+        },
+        {
+            "name": "Tracen Student B",
+            "text": "Excuse me, President. Could we trouble you for some guidance for this year's archers?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It would be my pleasure. To call it noblesse oblige may be a bit much, but it is undeniably my duty to bestow my knowledge upon them."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Symboli Rudolf spends the day making sure the Fleetfoot Festival goes smoothly."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Your words at the closing ceremony were wonderful, President."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you, Air Groove. Now, if you'll excuse me…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Of course. Well, the festivities have come to a close. All that's left now is to enjoy the rest of the day. After all, everybody needs a breather every once in a while, including you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…? And what do we have here?"
+        },
+        {
+            "name": "Food Stall Lady",
+            "text": "Thanks for all your hard work, President! We've extended our opening hours for the day!",
+            "choice_data_list": [
+                "Come to think of it, we didn't check out the stalls.",
+                "Come to think of it, we didn't check out the stalls."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You arranged all this for me? You really shouldn't have…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I would have to be the most heartless of tyrants to disregard such a courteous act. I shall be sure to savor this opportunity."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Farewell!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Shooting Gallery Staff",
+            "text": "Wow! You're a great shot, President."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Aha, thank you. I do have some shooting range experience.",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes. My grandfather took me on a few trips to America, where I had the opportunity to try my hand."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Symboli Rudolf has an explanation for her shooting skills, her talents don't end there."
+        },
+        {
+            "name": "Cookie Cutting Stall Owner",
+            "text": "H-heavens! I've never seen anyone cut a cookie that intricate with such precision! You're unbelievably dexterous!"
+        },
+        {
+            "name": "Cotton Candy Stall Owner",
+            "text": "Cotton candy! Make your own cotton candy for only a hundred yen! Whoa, President, you're really good at this!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha, thank you very much. It appears I still have the muscle memory from when I used to enjoy handicraft. I suppose it is like riding a bike."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Hm? What's the matter?",
+            "choice_data_list": [
+                "You're so skilled at everything!",
+                "You're so skilled at everything!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe, I would hardly say <i>everything…</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But, come to think of it, passing on knowledge and experience is a thing of great importance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So, Trainer. I am generally the one who comes to you seeking advice… but just for tonight, what if I were to impart my wisdom unto you?",
+            "choice_data_list": [
+                "What happened to taking a breather?",
+                "What happened to taking a breather?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But it is. My proposition is a breath of fresh air for the both of us. Why don't we take advantage of this opportunity to both experience a fresh perspective?",
+            "choice_data_list": [
+                "Okay, then. How about some shooting tips?",
+                "I want to know how to make picturesque cotton candy."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. Shall we head back to the stall, then?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So, Trainer… Which prize takes your fancy?",
+            "choice_data_list": [
+                "(Let's see here…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Urged to choose by Symboli Rudolf, I point at the prize that's caught my eye—the one on the highest shelf."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "An excellent choice… Well then, allow me to assess your skills. Now, look down the sight…",
+            "choice_data_list": [
+                "I take aim, and…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Shooting Gallery Staff",
+            "text": "Ah, not quite! But nice try!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Don't worry, you still have plenty more shots. Try to visualize the trajectory and adjust your aim after any misses."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking Symboli Rudolf's words to heart, I assume a more comfortable position by resting my elbow on the counter. As I'm adjusting my aim…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something lightly brushes my shoulder.",
+            "choice_data_list": [
+                "(…Was that her hair?)"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…My apologies. I was too close."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope you will forgive me. I felt that I had to share your point of view in order to offer satisfactory advice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Not bad. Your aim is nearly on target. Try aiming a bit farther to the bottom-right—yes, like that. Go ahead and give it another try."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf whispers words of encouragement in my ear, and I adjust the muzzle according to her advice.",
+            "choice_data_list": [
+                "(I take aim, and…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Congratulations, Trainer! The prize is yours!",
+            "choice_data_list": [
+                "It's all thanks to your instruction!",
+                "It's all thanks to your instruction!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe, well, that is quite some praise! I've only been your instructor for a single evening, but what a rewarding one it has been."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get the feeling that Symboli Rudolf's expression seems warmer than usual."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "\"Picturesque,\" you say. Heh. Well, if I am to meet your expectations, I will need to muster all of my skill."
+        },
+        {
+            "name": "Cotton Candy Stall Owner",
+            "text": "Oh, President! Nice to see you again! Would you like another go at the cotton candy machine?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm afraid not, but my trainer would. Right, now hold out the chopstick…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm… You should hold it up a little higher. Gather the sugar by twirling the stick around… Good, now move it toward the bottom.",
+            "choice_data_list": [
+                "(This is surprisingly difficult…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I try using the chopstick to fashion the cotton candy into the same shape as Symboli Rudolf's earlier effort, but to no avail."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…Hmmm."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Pardon me. Let me give you a demonstration.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf places her hands on mine."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, this angle should work. Exactly. Now spin it like so."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Next, tilt the chopstick upwards… Very good. That should do nicely."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…And voila!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Retracting the chopstick from the cotton candy machine, I can hardly believe that the picture-perfect cotton candy before me is my own doing.",
+            "choice_data_list": [
+                "…Wow."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Give it another try while the feeling is still fresh. Perhaps you could make one for me this time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I do my very best to make a nice, big ball of cotton candy just for Symboli Rudolf."
+        }
+    ]
+}

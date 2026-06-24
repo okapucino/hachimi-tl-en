@@ -1,0 +1,206 @@
+{
+    "title": "粋な流儀",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm walking with Inari One to the track to begin our training session…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, someone's already here? Hm, who's that with Tickezo?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket is engaged in conversation with two students about something."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniff!</i> I understand how you feel. That's why… I'm going to let you use the time I reserved on the track!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I-I'd just be in the way. So, I-I'm going to go back now. Waaaaaugh!",
+            "choice_data_list": [
+                "Looks like trouble! Let's hurry and stop her—",
+                "Looks like trouble! Let's hurry and stop her—"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Heeey! Hold it right theeere!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, pump your brakes! The heck ya think you're doin'?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Tryin' to snatch someone's reserved track time! You've got some real guts!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wha? Inari? What do you mean \"snatch\"?"
+        },
+        {
+            "name": "Blonde-Haired Younger Student",
+            "text": "Tickezo! Inari's right! We couldn't let you give up your track time!",
+            "choice_data_list": [
+                "Hm? Give up?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "In other words, you were talkin' about doin' your best to get ready for your debut, and Tickezo overheard?",
+            "choice_data_list": [
+                "She was inspired, so she offered to give up her time on the track."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's right! While I was warming up, I overheard their conversation!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You talked about doing your best in the tryouts so you could one day compete as rivals in a G1!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Seeing the sparkle in your eyes made me want to help out! <i>Sniffle!</i>"
+        },
+        {
+            "name": "Black-Haired Younger Student",
+            "text": "A-actually! I'm really happy you offered to help. I want all the time I can afford to train for my debut, but…"
+        },
+        {
+            "name": "Blonde-Haired Younger Student",
+            "text": "It wouldn't be right to achieve our dream by trampling over someone else's. That's why…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa… Now that…"
+        },
+        {
+            "name": "Inari One",
+            "text": "is CLASSY!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whaddaya think, Boss? How 'bout lettin' 'em use my training slot?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whaddaya think, Boss? How 'bout lettin' 'em use my training slot?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Seein' these girls bond over chasin' their dreams, and witnessin' Tickezo's bighearted kindness…"
+        },
+        {
+            "name": "Inari One",
+            "text": "It wouldn't sit right if I didn't lend a hand!",
+            "choice_data_list": [
+                "Cool! Let's go for a run outside the academy!"
+            ]
+        },
+        {
+            "name": "Blonde-Haired Younger Student",
+            "text": "W-we couldn't possibly impose on you! What about the track time you booked for your training?"
+        },
+        {
+            "name": "Inari One",
+            "text": "What're ya talkin' 'bout? Who said I'm doin' this for you?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm doin' this for myself!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Repayin' class in style—that's just how we roll in Edo, ya know!"
+        },
+        {
+            "name": "Inari One",
+            "text": "So don't sweat it! Just stand tall and run like the wind!"
+        },
+        {
+            "name": "Inari One",
+            "text": "How about taggin' along, Tickezo? Me and you could do a few laps outside the grounds!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "OHHH! That'd be great! I'd love to do some partner running with you!"
+        },
+        {
+            "name": "Younger Students",
+            "text": "Thank you so, so much!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, Inari One and Winning Ticket run up and down the riverside until they're completely exhausted."
+        },
+        {
+            "name": "Inari One",
+            "text": "Maaan, this feels waaay better than runnin' on the track!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Pant, pant…</i> It does! It feels really refreshing!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha! Runnin' with a classy partner makes it all the better!",
+            "choice_data_list": [
+                "It's nice to train differently once in a while!",
+                "It's nice to train differently once in a while!",
+                "It makes me want to run too.",
+                "It makes me want to run too."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha! Runnin' with a classy partner makes it all the better!",
+            "choice_data_list": [
+                "It's nice to train differently once in a while!",
+                "It's nice to train differently once in a while!",
+                "It makes me want to run too.",
+                "It makes me want to run too."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You bet! Plus, me and Tickezo are on the same wavelength, ya know!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hehe, I feel the same! Um, hey! Do you want to go for another run?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm game! C'mon, let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the two of them continue running happily beneath the glow of the setting sun."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, you said it! Ya heard that, didn'tcha, Tickezo?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I sure did! Okay, Trainer! On your mark, get set…",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Run with everythin' ya got, and make sure ya finish with <i>style!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I work up a good sweat chasing after the two as they run off along the riverside, beneath the glowing sunset."
+        }
+    ]
+}

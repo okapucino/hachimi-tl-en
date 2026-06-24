@@ -1,0 +1,26 @@
+{
+    "title": "All Refreshed",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Good morning! And thank you for the day off!",
+            "choice_data_list": [
+                "Looks like you made it count.",
+                "Looks like you made it count."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I sure did! I got to tell Mom and Dad all about you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Now I'm fully charged and ready to go. Let's get to work!"
+        }
+    ]
+}

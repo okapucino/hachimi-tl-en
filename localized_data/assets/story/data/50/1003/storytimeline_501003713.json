@@ -1,0 +1,74 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Argh… Why can't I train?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's just a teensy little injury! It's no big deal!",
+            "choice_data_list": [
+                "I'm worried about it, so no.",
+                "Fine, let's see what you've got."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, c'mon! It's nothing!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You know, I bet my mom would be totally fine with it, as long as I go easy!",
+            "choice_data_list": [
+                "Well, I'm not your mom.",
+                "Well, I'm not your mom."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh, I know that! I'm just saying, it's not such a big deal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After tending to her injury, I tell Teio to take the rest of the day off, just to play it safe."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yes! That's what I like to hear!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okie-dokie! Then, let's get this star―"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ouch!",
+            "choice_data_list": [
+                "Does it hurt?!",
+                "Does it hurt?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Urgh. I said I'm fine! Could you hurry up and go get ready?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's definitely not going to happen. I tell her to take the rest of the day off."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heheh. Then let's get right back to it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna put on an even better show than usual!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After tending to her injury, I let Teio start training again."
+        }
+    ]
+}

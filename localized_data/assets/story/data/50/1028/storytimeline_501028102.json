@@ -1,0 +1,313 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's Day, and I decide to head to a shrine to pray, but when I get there…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Here you go! ☆ It's warm and <i>very</i> buono!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I find Hishi Akebono among the shopkeepers, handing out amazake to shrine visitors."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh! Hi, Trainer! Happy New Year!",
+            "choice_data_list": [
+                "Happy New Year. What's with the amazake?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "When I was in the shopping district, I saw a recruitment flyer for volunteers, so I signed up to help!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "My job is to make lots of amazake and then hand cups of it out to everyone."
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Bono's been a great help. She's so strong!"
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "And she was the one who suggested we offer drinks other than amazake."
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "A lot more people than usual have been coming up to get drinks. It's really great!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! Aw, I hardly did anything.",
+            "choice_data_list": [
+                "Oh, you're offering more than just amazake?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking a closer look at the stand, I see cups of coffee and hot chocolate among the amazake."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Some people don't like amazake, so I thought it'd be nice to have other drinks they can warm themselves up with!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, let me get you something, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "What would you like? The amazake's full of vitamins and very nutritious."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We brewed the coffee with beans we bought from a cafe in the shopping district. You'll be ready for anything after a cup of that stuff! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The hot chocolate's great too, though. There's something <i>special</i> about its deliciousness!",
+            "choice_data_list": [
+                "I'll take the nutrient-packed amazake!",
+                "I'll have the coffee, so I'll be ready for anything!",
+                "I'll drink the hot chocolate, for that special power!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay! This'll make your tummy feel nice and toasty!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me a cup of amazake. It tastes absolutely delicious with its full-bodied sweetness and smooth, creamy texture.",
+            "choice_data_list": [
+                "This is really good!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm glad to hear it!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We've been simmering it since last night. It's been really fun!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, right! You came up in conversation while we were making the amazake!"
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "Yes, she told us how kind and dependable you are, and about how much you mean to her."
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "She also said you always look really happy when you eat the food she makes, <i>didn't</i> she?"
+        },
+        {
+            "name": "Shopkeeper C",
+            "text": "She <i>did!</i> And when Bono said how much enjoys making food for you, <i>well!</i>"
+        },
+        {
+            "name": "Shopkeeper B",
+            "text": "Oops, sorry! It's been some time since we last talked about something so sweet and cute, so we got a little rowdy there!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! You know, it's really funny when everyone gets so giddy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spend the rest of the day having a great time hanging out with everyone from the shopping district."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Roger! ♪ Would you like any sugar or milk?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask for both and carefully take the warm coffee she hands me."
+        },
+        {
+            "name": "Monologue",
+            "text": "The coffee has a rich aroma and a distinctive flavor. It's absolutely delectable.",
+            "choice_data_list": [
+                "This is delicious!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm so happy you like it! I really love it too!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I bought some beans for myself, too. We should brew some more coffee the next time we have cake together!"
+        },
+        {
+            "name": "Visitor",
+            "text": "Excuse me, could I have some amazake, please?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! Coming right up! ♪"
+        },
+        {
+            "name": "Visitor",
+            "text": "Wait… Aren't you Bono?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I am! Oh, are you…"
+        },
+        {
+            "name": "Visitor",
+            "text": "Yes, I'm a fan! I was just thinking you looked really familiar, but I can't believe it's really <i>you!</i>"
+        },
+        {
+            "name": "Visitor",
+            "text": "I was amazed by how powerful and impressive you were in that race I watched! Or rather, I was hopelessly smitten!"
+        },
+        {
+            "name": "Visitor",
+            "text": "I'm really excited to see you race against Biko in the Takamatsunomiya Kinen!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! It's kind of embarrassing getting all this praise, but thank you! I'll do my best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After taking a cup of amazake, the woman walks away, waving happily at Hishi Akebono as she goes."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You want the hot chocolate? You've got good taste, Trainer! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I hope it's to your liking! Hehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me a cup of hot chocolate. Its rich, distinctive flavor is wonderfully tasty.",
+            "choice_data_list": [
+                "Buono!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Isn't it just?! I love it too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then…"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Huh?! Hey, Bono! And Bono's trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ah, Biko! Happy New Year!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Happy New Year! What are you up to?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm helping pass out warm drinks! Would you like one while you're here?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Ooh! I think I'll have a hot chocolate, plea—"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Wait, I cannot! I'm in a hurry right now! They're broadcasting a special New Year's feature on heroes today!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh dear! You definitely don't want to miss that!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Exactly! I rushed here so I could get my prayers done quick!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Thanks for the offer, but I'm afraid I must decline! Good luck, Bono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks! See you later!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I wonder what Biko's going to pray for?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I really hope she prays to do well at the Takamatsunomiya Kinen.",
+            "choice_data_list": [
+                "Yeah.",
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, by the way, have you prayed yet, Trainer?",
+            "choice_data_list": [
+                "Not yet."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Really? Excuse me! Is it okay if I go and pay my respects with my trainer, please?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I want us to pray together to show that we're going to work hard as a team!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Sure. Things are pretty slow right now anyway, so go ahead!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thank you! I'll be right back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having received permission, we hurry and join the queue to pray."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap! Clap!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Don't forget what you're praying for, Trainer! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We're asking for help with doing our best at the Takamatsunomiya Kinen—and all the other races after that, too!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe! Praying at a shrine just fills me up with power, you know? It's like <i>wh-wh-whoosh!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm gonna work really hard this year! Let's do our very best, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we kick off the new year on a bright and cheery note! Here's to a good year for us both!"
+        }
+    ]
+}

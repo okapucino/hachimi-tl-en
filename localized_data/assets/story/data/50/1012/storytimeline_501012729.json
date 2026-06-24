@@ -1,0 +1,31 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "Man, that was close, Teach.",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Come on, don't say that! Keep your head high. You did a great job!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, time for me to give it a shot! Teach, can I borrow a coin or two from ya?",
+            "choice_data_list": [
+                "I'm out, sorry…"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Shucks, well… I guess I could make it up with a huge meal for the newbies."
+        },
+        {
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Grass Wonder",
+            "text": "…I've lost."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "However, this failure gave me valuable hints for the next race."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "There's no time like the present. We should go evaluate today's race at once.",
+            "choice_data_list": [
+                "You should rest for today, okay?",
+                "We can talk on the way back.",
+                "We can talk on the way back."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "There's no time like the present. We should go evaluate today's race at once.",
+            "choice_data_list": [
+                "You should rest for today, okay?",
+                "We can talk on the way back.",
+                "We can talk on the way back."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "May I ask why? The race is still fresh in my mind…",
+            "choice_data_list": [
+                "We'll have plenty of time to talk about it tomorrow.",
+                "We'll have plenty of time to talk about it tomorrow."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Plenty of time, you say? So then, we can discuss our views until we're both satisfied?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Very well. I'll go home and write down all my thoughts in preparation for tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, Grass Wonder and I have a deep and thorough discussion about the ill-fated race."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, before this sensation begins to fade…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I can see clearly where my abilities stand. I must move quickly to amend my shortcomings."
+        }
+    ]
+}

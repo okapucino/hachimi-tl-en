@@ -1,0 +1,344 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As Mejiro Ryan and I are walking through the shopping district one evening…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh? Look, Trainer. There's a bunch of people over there. Is there a sale on protein powder or somethin'?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "The sporty Umamusume over there! Care to try your luck?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A raffle! Hey, Trainer, didn't we just get some vouchers for this?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Looks like you need one ticket or five vouchers to enter! If we put ours together, we can take a shot at it!",
+            "choice_data_list": [
+                "We have one try, so don't get your hopes up, okay?",
+                "We have one try, so don't get your hopes up, okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whaddya mean? You only have one shot in a race too! This kind of tension is exactly what brings out my inner flex."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Let's turn that wheel like pros! Grab the handle and get swole!",
+            "choice_data_list": [
+                "Try not to break the raffle spinner.",
+                "Try not to break the raffle spinner."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, yeah, I should be careful…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Heeding my warning, we grab the lever together and turn the spinner."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the ticket for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "Why do you look so confused?",
+                "Why do you look so confused?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I can't believe it… I mean, this can't be real, can it?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I was only acting like that to get myself pumped up. I never believed that I'd have such luck."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I won… the grand-prize?! For real?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like she's having trouble accepting this sudden turn of good fortune."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A ticket for a hot spring trip! G-geez, what should I do?",
+            "choice_data_list": [
+                "Use it however you'd like.",
+                "Use it however you'd like."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh? Honestly, I don't know how to handle something like this… Hrm…",
+            "choice_data_list": [
+                "Why don't you take someone with you and have a nice, relaxing vacation?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But I don't deserve to take a vacation like that!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm still in the middle of my racing journey…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "And I'm not on great terms with McQueen right now, even though I really wanna chat with her. I can't just invite her on a trip."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's not right. That wouldn't be helpful for either of us."
+        },
+        {
+            "name": "Monologue",
+            "text": "To the stubborn-headed Mejiro Ryan, a hot spring vacation is a frivolous distraction."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Uh, Trainer… Could you hold onto this ticket for me?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I don't even know how I'd use it right now. And…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I think it's because I don't deserve to use it yet."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "When the time comes, I'm sure I'll know. And I'll work my hardest to reach that point.",
+            "choice_data_list": [
+                "…Understood."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks! It's only until I gain enough confidence to feel comfortable taking time off."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having made her decision, Ryan looks up at the sky. I'll hold onto the hot spring ticket until she's achieved something great."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "First-prize?! Woo! I can't believe I won something so awesome!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A deluxe carrot hamburger steak! That's like getting top-tier whey protein!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I'm not sure I get the comparison, but it does sound pricey.",
+            "choice_data_list": [
+                "Still, a hamburger steak is just a hamburger steak.",
+                "Still, a hamburger steak is just a hamburger steak."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer! How could you say that?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Look at that fine piece of meat being displayed on the prize stand!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Meat like this exudes confidence! Just look at how lean and low in fat it is! It has a natural umami flavor as well, removing any need for special seasoning."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "And look at that carrot in the middle! The deep color is proof that it's packed full of nutrients!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A hamburger steak with such a generous amount of ingredients… I would never have the courage to make this for myself."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But bravo to the people who did! Thanks to them, I get to eat an extremely healthy power food!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that to Mejiro Ryan, at least, this prize is quite valuable."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hehe, this year's off to a great start! I'm gonna eat my fill and train hard!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wow! A bushel of carrots! That's still a pretty great prize."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "They must be in that cardboard box over there… Whoa, it's like a mountain of 'em!",
+            "choice_data_list": [
+                "Think you can carry them all home?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Leave it to me! I'm used to carrying big boxes from all the stuff I buy in bulk."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This box is gonna be a piece of cake. In fact, I'm sure I could carry another one too!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Mr. Raffle Man, can I carry this other box too?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hold on, now. You've only won one case."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ohhh, I get it! Oops, sorry about the misunderstanding!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This isn't a powerlifting competition. Hehe…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A single case is plenty enough. Afterward, Mejiro Ryan and I chow down on some delicious carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A carrot! A <i>single</i> carrot! Well…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's about all I expected really. Even if I turned the spinner with all my might, there was no guarantee I'd win a good prize.",
+            "choice_data_list": [
+                "Hey, it is what it is."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right. It may be just one carrot, but I shouldn't make light of that."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You don't know how hard this carrot had to work out to gain such a bright color!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thinking about it like that though… It does make it harder to eat. Sorry, my little carrot friend…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's feeling sympathy for the carrot… But we decide to enjoy it anyway, and let it nourish us for tomorrow."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, that's a blank—tough luck! Here's this pack of tissues as a consolation prize"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Aww… Tissues? What a letdown…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You know, whenever I see tissues, it always reminds me of something."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "McQueen always carries both a cute handkerchief and some pocket tissues with her."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I just carry a sports towel around. That's plenty enough for me."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Sigh…</i> Maybe I should take this chance to change up my habits."
+        },
+        {
+            "name": "Monologue",
+            "text": "It is what it is, and tissues are tissues… But it sure would have been nice to win a better prize."
+        }
+    ]
+}

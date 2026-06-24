@@ -1,214 +1,227 @@
 {
-    "no_wrap": true,
+    "title": "大切な方と、一緒にッ！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "After going out with Sakura Bakushin O, \nwe were supposed to have dinner and \ngo home, but…"
+            "name": "Monologue",
+            "text": "After a day out, Sakura Bakushin O and I decide to get some food before heading back. However…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer! \nI… have a restaurant I'd like to take you to!"
+            "text": "Trainer! There's actually a place I wanna take you to!"
         },
         {
-            "text": "I was taken along by her, accompanying \nher to…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I can't waait～! The \"Deluxe\" course at \nthis ryokan is famous for its \nall-you-can-eat crab…"
+            "name": "Monologue",
+            "text": "So, I let Sakura Bakushin O take the lead."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oyaoya! Trainer, you look so \nexcited that you're freaking out!?",
+            "text": "I'm looking forward to this! The inn's premium course is famous for its all-you-can-eat crab dishes!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh ho, it looks like you've become all fidgety with excitement yourself!",
             "choice_data_list": [
-                "No, I was wondering if it's really alright to use your \ncard…"
+                "N-no… I was just wondering if they'll take credit…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fu-fu-fu… No need to worry! \nBecause Trainer is my \"special person\"!",
+            "text": "He he he… don't worry! You're my VIP today!",
             "choice_data_list": [
-                "W, what does that mean?"
+                "What do you mean?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In fact, the other day I delivered \nan elderly woman to the hospital, who \nwas huddled in pain…"
+            "text": "The other day I came across an elderly lady curled up in pain, and so I took her to the hospital."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That person turned out to be the \nproprietress of this place!"
+            "text": "It turns out she was the owner of this place!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And so, as a thank you, \n\"Please, come with your special someone,\" \nwas the invitation I received!"
+            "text": "As a thank-you, she invited me to visit and said I could bring someone important along with me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So go ahead and relax, please stuff \nyourself full!"
+            "text": "So don't worry! Just enjoy yourself!"
         },
         {
-            "text": "I was touched by Sakura Bakushin O's \nwords, and I did, indeed, relax as I \nwaited for the food to be served――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oohhhhh～～! This is deliciooous～～! \nThis one, that one, they all taste \nso expensive!"
+            "name": "Monologue",
+            "text": "Moved by Sakura Bakushin O's words, I relax as I wait for each dish to come out."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, what do you think, what do you \nthink? Is it delicious? \nAre you deeply moved!?",
+            "text": "Hooo! It's SO good! Each dish tastes so high-class!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "How is it? Delicious, right? Isn't the flavor life-changing?!",
             "choice_data_list": [
-                "I am!"
+                "It is!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaall right! Now, onto the main \ndish! …Is what I'd love to do, but――"
+            "text": "Okay! Onto the main dish! Is what I wanna say, but…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This crab! The way this crab is cooked is \nthe only thing that, no matter how I \ntry… I'm, not very good at… well……"
+            "text": "It's one of those fancy crabs served up in its entirety! And… I'm not good at opening up seafood that's presented like this."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You're not coming out at all! \nYou're hiding in your spike-y shell! \nThat's unsportsmanlike!"
+            "text": "Like, the meat is totally inaccessible! Hiding inside that spiky shell! How cowardly!"
         },
         {
-            "text": "…Definitely, the delicate task of extracting \nthe crab from its shell looks difficult for \nsomeone as hasty and impatient as her.",
+            "name": "Monologue",
+            "text": "…True, carefully taking the shell off the crab is troublesome work for a hasty girl like her.",
             "choice_data_list": [
-                "Crab is a battle of patience!",
-                "You can crack them with utensils."
+                "Eating crab requires perseverance!",
+                "It's easy to do with the right tools."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Patience…! I see, now that you say that! \nBecause everything can be done with \npatience, can't it!"
+            "text": "Perseverance! That makes sense! Perseverance helps overcome all obstacles!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaaall ri～ght! Patience is an honor roll \nstudent's specialty! Leave it all to me!"
+            "text": "Okay! Perseverance is a model student's specialty! Leave it to me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hummmmuuuuuu～～!! \nBakushin's, patieeeencee～～!!"
+            "text": "<i>Hnnnnngg!</i> Bakushin perseveeerance!"
         },
         {
-            "text": "(Crack! Crack, craaack!!)"
+            "name": "Monologue",
+            "text": "<i>SNAP! CRACK!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wheee―w… \nSome way or another, I managed to smash \nall the shells.",
+            "text": "Ahhh… I somehow managed to break open the shell.",
             "choice_data_list": [
-                "Th, this is… patience…!"
+                "This… this is perseverance!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehhen! That's right, this is the patience \nof an honor roll student!"
+            "text": "Heh! Yes, this <i>is</i> the perseverance of a model student!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come, now! Trainer, dig in! And while \nyou're eating, I'll serve you another round!",
+            "text": "Here you go! While you're eating, I'll free another crab from its shell!",
             "choice_data_list": [
-                "I'll do it myself, okay?",
-                "I'll do it myself, okay?"
+                "I can do it myself though?",
+                "I can do it myself though?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nonono! I have decided! That you \nshall enjoy this!"
+            "text": "No, no! I decided I want you to thoroughly enjoy yourself!"
         },
         {
-            "text": "Sakura Bakushin O's offer moved \nme once again… and I decided to \nput my faith in her."
+            "name": "Monologue",
+            "text": "Stirred by Sakura Bakushin O's offer, I decide to accept it."
         },
         {
-            "text": "…The cracked crab shells were \npainful to the tongue, but the two of \nus enjoyed the meal together――"
+            "name": "Monologue",
+            "text": "…The broken shards of crab shell do hurt my tongue, but eating together is a lot of fun."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaaa～～… \nThat food was absolutely delicious!",
+            "text": "Ahhh! That meal was so good!",
             "choice_data_list": [
-                "Thank you for letting me enjoy it."
+                "Thank you for letting me have my fill."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My pleasure! Thanks to the advice of \nmy Trainer, my patience won out over \nthe crabs!"
+            "text": "My pleasure! It was thanks to your words that I was able to persevere and defeat those crabs!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My Trainer always inspires me this way!"
+            "text": "You always motivate me like that!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If Trainer had been a classmate \nof mine, I would have even recruited \nTrainer to be my vice president!"
+            "text": "If you were one of my classmates, I would scout you to be the vice class rep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha… So this is how Trainer felt when \nyou scouted me!?",
+            "text": "Ah! This is how you must've felt when you scouted me, right, Trainer?",
             "choice_data_list": [
-                "Mostly, I guess?"
+                "I guess so?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehehe―! Is that so, is that so～～! \nYou're making me blush～."
+            "text": "Hehe! I see, I see! No need to get bashful!"
         },
         {
-            "text": "We had both full stomachs and full \nhearts over our banquet cuisine."
+            "name": "Monologue",
+            "text": "The banquet leaves us with full stomachs and full hearts."
         },
         {
-            "text": "I handed her a spoon made \nespecially for cracking crabs――"
+            "name": "Monologue",
+            "text": "I pass her a special spoon for eating crab."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohhhh～～!? That stubborn crab broke \napart so easily!"
+            "text": "Oooh? To think such a durable crab can be dismantled so easily!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Then, leave the peeling to me! \nPlease do enjoy the fruits of my labor, \nTrainer!",
+            "text": "Okay! Leave the de-shelling to me! Please sit back and enjoy the meat, Trainer!",
             "choice_data_list": [
-                "I'll do it myself, okay?",
-                "I'll do it myself, okay?"
+                "I can do it myself though?",
+                "I can do it myself though?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nonono! I have decided! That you \nshall enjoy this!"
+            "text": "No, no! I decided I want you to thoroughly enjoy yourself!"
         },
         {
-            "text": "Sakura Bakushin O's offer moved \nme once again… and I decided to \nput my faith in her."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "(Chew, chew!) Ah, here comes the next \ncrab! Mr. Crab, so hefty! Bakushinbakushin!"
-        },
-        {
-            "text": "…Her crab-handling was too fast, and I \nhad to eat an absurd amont of food, \nbut we enjoyed our dinner――"
+            "name": "Monologue",
+            "text": "Stirred by Sakura Bakushin O's offer, I decide to accept it."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaaa～～… \nThat food was absolutely delicious!",
+            "text": "Munch, munch! Ah, the next crab has arrived! And what a bulky boy! BAKUSHIN! BAKUSHIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With her moving swiftly and dexterously to dismantle the crabs, we wind up consuming a large amount of food, but we do so happily…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Sigh…</i> That was some good food!",
             "choice_data_list": [
-                "Thank you for letting me enjoy it."
+                "Thank you for letting me have my fill."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no! I'm the one who \nwants to thank you!"
+            "text": "No way! I'm the one who should be thankful!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Thanks to Trainer, I have now gained \nanother Bakushin speciality of mine!"
+            "text": "Thanks to you, I've gained another Bakushin-related skill!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please continue to teach me so much! \nAnd――"
+            "text": "Please teach me lots of things from now on! And…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I hope you'll continue to, as an important \nperson in my life, polish my Bakushin \ntogether with me!"
+            "text": "As someone important to me, help make my Bakushin bigger and better!"
         },
         {
-            "text": "We had both full stomachs and full \nhearts over our banquet cuisine."
+            "name": "Monologue",
+            "text": "The banquet leaves us with full stomachs and refreshed spirits."
         }
     ]
 }

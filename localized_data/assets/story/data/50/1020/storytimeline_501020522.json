@@ -1,0 +1,41 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "Ow, ow, ow.",
+            "choice_data_list": [
+                "What happened?!",
+                "What happened?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The sunlight's way too strong over at that fishing pond."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I got all sunburned.",
+            "choice_data_list": [
+                "We'd better get that treated."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But… what about fishing and napping in the great outdoors?",
+            "choice_data_list": [
+                "You'll have to stop for a while.",
+                "You'll have to stop for a while."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aww… But I'll miss the sun and its harmful rays…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky shoots several hateful glances up at the sun over the course of the day."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "Ouch, ouch, ouch! That hurts like crazy!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But I have to hurry and get back to training!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, that's right! At times like this, I can just tape up, take some painkillers, and push through!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "As long as I tend to my injury properly, I'll be able to keep going!",
+            "choice_data_list": [
+                "You need to rest.",
+                "Okay, but I'm stopping you if you try anything reckless.",
+                "Okay, but I'm stopping you if you try anything reckless."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "As long as I tend to my injury properly, I'll be able to keep going!",
+            "choice_data_list": [
+                "You need to rest.",
+                "Okay, but I'm stopping you if you try anything reckless.",
+                "Okay, but I'm stopping you if you try anything reckless."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But… if I just fix the pain, then I can keep running!",
+            "choice_data_list": [
+                "Suppressing the pain won't help your injury heal."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ugh, you're right… If I just end up making it worse, that will defeat the whole purpose…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Sigh…</i> Waiting around patiently just isn't in my nature!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay! I promise I won't do anything rash!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Let's get started right away, then. Umm, is the medical tape in the medicine cabinet?",
+            "choice_data_list": [
+                "Oh, I'll go find it for you!",
+                "Oh, I'll go find it for you!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eeek! Owowow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess takes a tumble and aggravates her injury. Naturally, I tell her to take time off to recover."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well then, Trainer, can I ask you to fetch the tape from the medicine cabinet?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Time for some Princess Taping! Pain, pain, go away!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Phew! Now I can get back to strength training no problem!",
+            "choice_data_list": [
+                "You look like you're doing fine!",
+                "You look like you're doing fine!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Indeed! Thank you for believing in me and letting me continue my training."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer… I feel like I can overcome any obstacle that stands in my way."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "As long as I have you by my side, of course."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And on that note, it's time to plunge back into training! Full throttle! But with caution! Let's get lifting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Kawakami Princess is able to overcome her injury and continue her training, taking care not to push herself too hard."
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's Day, and Yaeno Muteki has come to visit."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Pardon my intrusion."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Happy New Year, Trainer. Let's do our best this year.",
+            "choice_data_list": [
+                "Same to you! I'm looking forward to a good year!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My classic year has finally begun. I can't afford to waste a moment of this crucial time, so I'll be returning to my family dojo to fit in some martial arts practice.",
+            "choice_data_list": [
+                "Can I come observe your training?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel it'd be best if I saw what Yaeno Muteki's training entails before I start planning for the future."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm… As long as it's limited to watching. I don't believe you would be physically able to participate."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like training at the Kongo Yaegaki dojo is pretty intense. I think I'll be fine just watching."
+        },
+        {
+            "name": "Monologue",
+            "text": "But even that presumption could be naive of me…",
+            "choice_data_list": [
+                "It's f-f-freezing!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can feel my toes turning to ice cubes as I stand observing. It's bitterly cold, even with my fleece, woolly hat, winter jacket, and thermals on."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Deep inhale…</i>"
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Seiyaa!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Too slow! Take this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's amazing that Yaeno Muteki and the other students can stay focused in such thin clothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm reminded of just how disciplined she is, both in mind and body."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Have you warmed up?",
+            "choice_data_list": [
+                "Yeah, mostly…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Here's some soup. The best way to warm your body is from the inside out."
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "I'm sorry it's nothing too fancy, but I hope you'll enjoy it all the same. Yaeno made those rice balls herself.",
+            "color_text_info_list": [
+                "Yaeno"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to refuse such a kind gesture, I take a bite out of one of Yaeno Muteki's homemade rice balls.",
+            "choice_data_list": [
+                "This is delicious!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The fluffy rice practically melts in my mouth. The more I chew, the sweeter it becomes, and before I know it, I finish the entire thing!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe… Perhaps it's because we cook our rice in a traditional kamado stove."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If you want to bring out the true flavor of the rice, a kamado is definitely the way to do it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That said, my skills don't hold a candle to those of Granm—my grandmother."
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "Oh, that's not true. This rice is fluffy and delicious."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's been a while, though, so I'm rusty. I wasn't too sure how hot to make it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As with all things, the secret is consistency. My goal for this year is to focus on making steady progress."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer! I'd like to hear your opinion!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "What kind of training do you think I should prioritize for my classic year?"
+        },
+        {
+            "name": "Monologue",
+            "text": "This year, I'm going to recommend that Yaeno Muteki should…",
+            "choice_data_list": [
+                "Aim for a well-balanced training routine!",
+                "Get sufficient rest!",
+                "Master an ultimate skill!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm, my self-training could very well be lacking in balance."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Yaeno has a tendency to see things from a limited perspective, but it seems you're doing a splendid job of guiding her.",
+            "choice_data_list": [
+                "You're far too kind!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "In that case, perhaps I should train to improve… my running?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I suspect I haven't been running enough during my Kongo Yaegaki training.",
+            "choice_data_list": [
+                "Correct!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe. Then, let's strike while the iron's hot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With our plan set, we head to a local school's track and perform some running drills."
+        },
+        {
+            "name": "Monologue",
+            "text": "Knowing how diligently Yaeno Muteki trains every single day, I tell her that what she needs is sufficient rest."
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "Yes… I can believe that. Even back when she used to train at home, she tended to overdo it a bit."
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "Since you're taking some time off anyway, how about going out for a little trip?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, at her grandmother's suggestion, we head to a local farm."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh! Look at those big round eyes and that tiny pink nose… Ah, look! It's stretching its stumpy little legs out!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Sigh…</i> It's adorable… I want to protect it…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Just the sight of it is deeply soothing."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like seeing the farm animals has left Yaeno Muteki feeling completely refreshed!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "An ultimate skill… You speak of a technique with the potential to change the outcome of a race, yes?"
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Hmm… But an ultimate skill is not something one can master overnight."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Even in the world of martial arts, it is only through experience and relentless pursuit that mastery can truly be achieved."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Blaze fierce and water still is our school's technique. With that in mind, perfecting such Yaegaki techniques could result in my acquiring an ultimate skill."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Master, I humbly request instruction!"
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Very well."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Then, let us begin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After training with her grandfather, a master of the Kongo Yaegaki style, Yaeno Muteki attains valuable insight!"
+        }
+    ]
+}

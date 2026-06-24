@@ -1,0 +1,210 @@
+{
+    "title": "A Long-Awaited Lunch",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's lunchtime, and the school store is crammed full of students. Matikanetannhauser is at the very end of the line."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "…I shall impart a divine message from the great Shiraoki. Machitan!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Gulp!</i> Y-yes?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today, like most days, shall bring you a frenzy of great fortune! Lunch time portends particularly good luck!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wowieee! So you're saying I'll finally be able to get my hands on the bread that always sells out?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Melon bread, cream buns, carrot bread. ♪ Bready, bready, breaaad!"
+        },
+        {
+            "name": "School Store Lady",
+            "text": "Sorry, everyone! The melon bread, cream buns, and carrot bread are all sold out!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whaaat?! But I'm supposed to have great fortune today!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Th-that's so strange… Could I have made a mistake in my divination?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No, no, it's fine!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It must mean my great fortune isn't related to bread!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Off to the cafe, where my lucky break awaits! ♪"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, I'm coming too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Overcome with curiosity, I decide to follow the two of them."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow! Take a look at this signboard!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "\"New menu item: Stewed Carrot Hamburger Steak!\" And it's limited to only ten customers!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This has to be it! It's your destiny to acquire this rare lunch today, Machitan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them line up and wait for their turn to order. But…"
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "I'm sorry, but the Stewed Carrot Hamburger Steak is all sold out."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "What?! You're sold out too?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Uwaaah?! Wh-what's going on?! How could the great Shiraoki's divination mislead us not just once, but twice?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can practically see the good luck awaiting us! This is so very strange!",
+            "choice_data_list": [
+                "You keep getting close, though.",
+                "You keep getting close, though."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Trainer… You saw all that, huh?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Man, being one step away and still missing out is so like me… Ahaha."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Buuut…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Lunch time isn't over yet! The bread and new hamburger steak were sold out, but there must be an even luckier lunch waiting for me!",
+            "choice_data_list": [
+                "…You think so?",
+                "…You think so?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aha! That's it! I get it now! The key is your unbreakable spirit!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You brave any headwind—<i>that's</i> why my divination said you've got a super dose of luck coming your way!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That's right, Fuku! There's no doubt in my mind that I'll get my hands on an ultra-rare lunch!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The only question is, where am I gonna find it? Muuun…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Where do you think my ultra-rare lunch is hiding, Trainer?",
+            "choice_data_list": [
+                "Let's march right back to the school shop!",
+                "Let's wait patiently for fortune to come to us."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I see. Going back to the beginning. That might just work!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Indeed! The divine message did say the good omen was at the school store, after all!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aww, everything's sold out. Where's my ultra-rare lunch?"
+        },
+        {
+            "name": "School Store Lady",
+            "text": "Oh, perfect timing! We just got a batch of all-new products in. Would you like to try a sample?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's see here… \"Supreme Grape Bread\"?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow! I can smell the fruity aroma from here!"
+        },
+        {
+            "name": "Tannhauser & Fukukitaru",
+            "text": "Thanks for the sample! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser and Matikanefukukitaru dig into the delicious new bread with relish!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I see. So if I just stay as I am now, the fortune will come to me."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Allow me to perform a prayer to invite even greater fortune! Ommmmm!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yummy yummy lunch! Chewy chewy munch! Kiyaaah!"
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "Oh, it's you two. Have you still not had any lunch?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That's right. We're suuuper hungry."
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "You can have my lunch, if you'd like. I did so much taste-testing while I was working that I can't eat another bite."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow! Spring rolls, hamburger steak, oden… There's so much!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The cafe lady's personal lunch is bound to be delicious! This must be what the divine message was referring to!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser and Matikanefukukitaru enjoy the ultra-rare lunch together!"
+        }
+    ]
+}

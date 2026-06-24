@@ -1,0 +1,46 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Super Creek doesn't show up for training, so I decide to go look for her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "There! That should keep those buttons from popping off."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now then, what else did I get asked to do…",
+            "choice_data_list": [
+                "Did someone ask you to do some sewing?",
+                "Did someone ask you to do some sewing?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Trainer! What brings you he—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ahhh! When did it get so late?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm so sorry. Silly me, getting carried away like this…",
+            "choice_data_list": [
+                "Please be more careful next time.",
+                "Please be more careful next time."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I will… I apologize for being such a handful."
+        },
+        {
+            "name": "Monologue",
+            "text": "I comfort Super Creek as she reflects on her actions and we leave the classroom together."
+        }
+    ]
+}

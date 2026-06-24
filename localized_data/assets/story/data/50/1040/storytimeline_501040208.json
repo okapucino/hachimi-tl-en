@@ -1,0 +1,72 @@
+{
+    "title": "宝塚記念にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "…Ah."
+        },
+        {
+            "name": "Gold City",
+            "text": "Tamamo…"
+        },
+        {
+            "text": "Seeing Tamamo Cross ahead, City looks back at me, uncertain. I decide to give her a nudge.",
+            "choice_data_list": [
+                "Go tell her how you feel."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…Yeah!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Tamamo."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Seems like you're back to normal. You ran good in the Tenno Sho."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But I can't tell if ya overcame some kinda hurdle, or you're like this 'cause ya just stopped carin'."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Did ya figure out the reason why ya run?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I don't have a reason."
+        },
+        {
+            "name": "Gold City",
+            "text": "Except that… I want to. I run because I want to. I want to keep running and running…"
+        },
+        {
+            "name": "Gold City",
+            "text": "And I want to win. I don't want to lose to anyone. Especially you!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "I said it.",
+            "choice_data_list": [
+                "You're good, then?",
+                "You're good, then?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yup. All that's left to do is run past it all!"
+        }
+    ]
+}

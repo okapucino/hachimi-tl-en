@@ -1,0 +1,419 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, we're walking through the shopping district after a street performance, when…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, look, Trainer! Something's going on over there!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aha… I see what's happening here.",
+            "choice_data_list": [
+                "What's happening?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This is a test."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "A test of my Umadol stardom!",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You know how I got a raffle ticket with that dessert earlier? Just a single ticket…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "In other words…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This is totally a test to see if I can get the grand prize with just one chance!",
+            "choice_data_list": [
+                "A test from <i>who?</i>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "The Stardom Goddess!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "At any rate! When an Umadol is tested, we just have to prevail!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm going to prove that I'm the best vessel for her blessings!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon eagerly grabs the raffle machine's lever…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Okay, star power! Time to shine! ☆ Yah! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And she spins it! A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I… DID IT! ☆☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Trainer! Did you see?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's what a real Umadol's capable of!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you! ☆ See? My Umadol power is real!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahhh, that just made my day. ♪ Anyway, should we head home?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Excuse me! Don't forget your prize!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "A hot spring vacation coupon…",
+            "choice_data_list": [
+                "That's nice, isn't it?",
+                "That's nice, isn't it?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, I'm super happy, but… when should we go?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I only just made that declaration that I'll take first place in every race…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It'll have to be after all my races are finished, I guess.",
+            "choice_data_list": [
+                "Then you can save it to use as a final reward."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, I guess that's the best…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hold on a sec! Why are you talking like it's got nothing to do with you? You're coming with me, you know!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "If it's a reward for all our hard work, then you'll need it just as much!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "We're working towards the same dream, aren't we? We're in this together! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Besides, if we go once all this is over, I'll definitely already be a top Umadol."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And a top Umadol needs a bodyguard even in her off time, right?",
+            "choice_data_list": [
+                "So <i>that's</i> why you want me there."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…Ehe, I guess you got me. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Geez, you're so dense…",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Nothing! ☆ I'm really looking forward to our hot spring getaway!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So in the end, I wind up holding on to our vacation coupon for the time being."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yay! First prize. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's not the grand prize… But still!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "First prize is the same as first place! And the deluxe hamburger steak has <i>deluxe</i> in the name!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "In other words… my Umadol power is <i>deluxe!</i>"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That makes sense, right?!",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Tonight's dinner is gonna be super special! I hereby invite you to the Falco Dinner Show! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I enjoy a luxurious dinner that evening, while listening to a delighted Smart Falcon sing."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Awww…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aw!",
+            "choice_data_list": [
+                "Aw?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Awww yeeeah! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Anyways…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wow! Look at all these carrots! ☆ How can I possibly eat them all? ♪",
+            "choice_data_list": [
+                "(She's just going to pretend that didn't happen?!)"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I know! This should be enough to…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hi, everyooone! ☆ It's me, Falco!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Today's street performance has a special bonus! Everyone who came to watch…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Gets one carrot! ☆ Hand delivered by yours truly! ♪"
+        },
+        {
+            "name": "Go-Getter Umamusume S",
+            "text": "A carrot…"
+        },
+        {
+            "name": "Silver-haired Umamusume O",
+            "text": "A carrot…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I hope you'll stay until the very end! Let's make it a good one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It could just be my imagination, but today's audience seems a little larger than usual when all is said and done."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…Trainer.",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "There's something really important to me as an Umadol."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And that is… being free to sing and dance anywhere and anytime my fans desire!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's why winning this carrot—or should I say this carrot <i>microphone</i>…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Winning this carrot microphone means…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I've been acknowledged as a wonderful Umadol!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you, Stardom Goddess! I'm gonna do my best to live up to your expectations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Twinkle…</i> ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if in response to Smart Falcon's words, the stars peeking through the sunset appear to twinkle."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I didn't lose!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Losing a raffle isn't a real loss! So I'm still full of endless potential!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I am… right? I've gotta be…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Or what… Is this all my star power is worth? A pack of tissues?",
+            "choice_data_list": [
+                "Falco…"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Juuuust kidding! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "A tissue is totally fine with me! If you have enough tissues, you can build a mountain!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's why… Aha… haha…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's putting on a brave face, but Smart Falcon's smile seems more than a little forced."
+        }
+    ]
+}

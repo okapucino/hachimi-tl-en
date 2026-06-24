@@ -1,0 +1,44 @@
+{
+    "title": "秋華賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "We're welcoming fall here at Kyoto Racecourse with the last race of the Triple Tiara series—the Shuka Sho!"
+        },
+        {
+            "name": "Caster",
+            "text": "The start of the race is moments away! Who will emerge to be showered in glory?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Before I begin the race, there's something I wish to tell you.",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've done a great job so far."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I promise I'll do your hard work justice today.",
+            "choice_data_list": [
+                "I know you will."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well then… here goes nothing."
+        }
+    ]
+}

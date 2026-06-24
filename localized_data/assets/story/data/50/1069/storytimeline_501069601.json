@@ -1,0 +1,33 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sigh…</i> I'm so nervous… What if I lose again?",
+            "choice_data_list": [
+                "You have to stay strong!",
+                "You have to stay strong!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're right."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I've reviewed my training and tackled the reasons for my losses… I've done everything I could to prepare for today's race."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The results of the last race were frustrating, but I'm determined to place first today.",
+            "choice_data_list": [
+                "I know you can do it."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you! Those who fear the starting gate will never reach the goal, as they say! I'm going to keep that in mind as I run today's race!"
+        }
+    ]
+}

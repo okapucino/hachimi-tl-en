@@ -1,0 +1,25 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "Urgh… I guess it was impossible for you too!",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Please don't let it bother you! It's all the puny claw's fault!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "If you could put me in there instead of that claw, I'd scoop out every last adorable plushie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

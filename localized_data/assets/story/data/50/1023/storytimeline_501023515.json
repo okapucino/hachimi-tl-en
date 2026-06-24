@@ -1,0 +1,190 @@
+{
+    "title": "理論こそ最大の武器",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide and I have just finished our training session for the day."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm? Where's my bottle? Did I leave it on the track?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry, Trainer. I need to get my bottle. I'll head straight home afterward.",
+            "choice_data_list": [
+                "It's dark already, so I'll go with you."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Really? Thank you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm pretty sure it was around there…"
+        },
+        {
+            "name": "Assertive Umamusume",
+            "text": "Did you not hear us the first time? We have a race coming up soon so get out of our way and scram."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Excuse you? <i>I'm</i> in your way? That's strange because I'm pretty sure I was here first."
+        },
+        {
+            "name": "Sharp-eyed Umamusume",
+            "text": "What does that matter to us? Seriously, get lost already!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, now you're asking for it!",
+            "choice_data_list": [
+                "Isn't that Narita Taishin?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Looks like it… I'm going to see what's wrong."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I was under the impression that there were no restrictions on the use of this track today."
+        },
+        {
+            "name": "Assertive Umamusume",
+            "text": "Great, another nosy meddler. What do you want?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hayahide?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm trying to understand if special permission is required to use this track today for some reason."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If so, please let me know who I need to speak to in order to get permission. I can go to them on Taishin's behalf."
+        },
+        {
+            "name": "Assertive Umamusume",
+            "text": "Well, uh… It's not exactly…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Apologies, I couldn't quite hear you. It's not exactly what? Are you saying that special permission is <i>not</i> required to use this track?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In that case, would you care to explain why you told Taishin to leave? Did she commit some sort of infraction, perhaps?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If she interfered with your training in any way, please let me know."
+        },
+        {
+            "name": "Assertive Umamusume",
+            "text": "Uh… Um…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What's the matter? Can it be that you had no legitimate reason to harass Taishin and simply wanted to throw your weight around?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If that's the case, then I believe it's <i>you</i> who is in the wrong."
+        },
+        {
+            "name": "Assertive Umamusume",
+            "text": "Ngh! Okay, we get it already!"
+        },
+        {
+            "name": "Sharp-eyed Umamusume",
+            "text": "This is so stupid! Let's just get out of here!"
+        },
+        {
+            "text": "The two are no match for Biwa Hayahide's cold, hard logic and run off without another word."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Honestly, the audacity! Acting like they're the only ones allowed on the track…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Sorry. You didn't need to do that for me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, it's fine. I don't mind."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Try not to stay out too late, okay? And make sure to eat something once you get back to the dorm."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, yeah, I know."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, good!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry to keep you waiting, Trainer.",
+            "choice_data_list": [
+                "That was so awesome of you!",
+                "Your logical thinking and reasoning got them good!",
+                "Your logical argument and reasoning got them good!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry to keep you waiting, Trainer.",
+            "choice_data_list": [
+                "That was so awesome of you!",
+                "Your logical thinking and reasoning got them good!",
+                "Your logical argument and reasoning got them good!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "R-really? I was just being my usual self, honestly…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I will say one thing, though."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The best way to handle overly emotional arguments is to strike them down with sound logic."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Doing so usually trips up the other person so much, they give up on their own."
+        },
+        {
+            "text": "Biwa Hayahide is a little prouder of her logical approach to things than usual today."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I didn't expect it to have come in handy in such a situation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know sometimes I can come off as cold and inflexible because of my overly logical thinking, but…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If I can use it to help my friends out, then I think it's safe to call it a strength. Hehe."
+        },
+        {
+            "text": "After successfully defending a friend, Biwa Hayahide seems to feel even more confident in her reasoning abilities."
+        }
+    ]
+}

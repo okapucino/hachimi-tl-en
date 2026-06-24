@@ -1,0 +1,30 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Ah… ah… <i>Yawn…</i>",
+            "choice_data_list": [
+                "Are you sleepy?",
+                "Are you sleepy?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, a little bit… I had a long night yesterday."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I went to a store that has all kinds of cool stuff and bought a disco ball for my house."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Unsurprisingly, I developed a severe case of disco fever and ended up dancing all night…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Uuugh… I'm so sleepy…"
+        }
+    ]
+}

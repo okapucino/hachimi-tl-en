@@ -1,0 +1,337 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's dusk, and Kitasan Black and I have just finished helping out the neighborhood association. We're strolling around town when…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Look at all those people over there… Do you think they're holding a festival or something?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation for two"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, a raffle! I love testing my luck with these!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wait… We don't have any tickets since we didn't do any shopping…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oho, hey there, Kita! Thanks for pitchin' in with the association again today."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Tell you what. Here's a ticket, on the house. Go and have a spin."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Really?! Yay! Did you hear that, Trainer?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, I guess one good turn does deserve another."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "All right, Trainer! Let's spin this with all we've got! Heave ho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black and I take hold of the level and give it a good spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "YEEES! We did it, Trainer! We got the grand prize!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A hot spring vacation! It'll be like an all-you-can-eat-and-relax fest!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, but… We can't accept this… It wouldn't be fair for everyone else since we won this with a free ticket.",
+            "choice_data_list": [
+                "Yeah… That's true.",
+                "Yeah… That's true."
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "What're you two talkin' about? Have you any idea how much the neighborhood association owes you, Kita?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "And here you are, pullin' the grand prize! We're thrilled you got it! Go and have fun, y'hear?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well… if you insist! Thank you!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer, let's do as he says and accept the coupon. It'd be rude to refuse such kindness.",
+            "choice_data_list": [
+                "Okay, let's do that, then.",
+                "Okay, let's do that, then."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we humbly accept the vacation coupon."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Still, it's not like we can start packing our bags right away. I mean, this year is just so important…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Not just for me, but for Dia, too. I can't be goofing off during such a critical time."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Maybe after I've kept my promise with Dia and I feel like it's okay to use it to treat myself…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Then maybe we can use it. What do you think, Trainer?",
+            "choice_data_list": [
+                "Sounds like a plan! We'll have to work hard!",
+                "Sounds like a plan! We'll have to work hard!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "For sure! I'm going to make this year one for the history books! And once I do…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm gonna soak all my troubles away in the hot spring! I'll hum my dad's best hits in the tub!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A relaxing soak is waiting for us on the other side of victory. Kitasan Black is bursting with joy and determination to claim that vacation!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa… Talk about an indulgent side dish!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's huge, too! We probably won't even need a pot for this, huh, Trainer?",
+            "choice_data_list": [
+                "Uh… Why would we need a pot at all?",
+                "Uh… Why would we need a pot at all?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, I was just thinking, it's so big, we could share it with people family-style, just like you do with hot pot!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nothing beats eating together! I always eat together with my dad's apprentices when I'm back home!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, I know! Since this steak is so big, why don't we invite people over to eat it with us? Like Dia!",
+            "choice_data_list": [
+                "Sounds good to me!",
+                "Sounds good to me!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, Kita! This steak is huge! Did a bunch of carrots rain from the sky for you to make this or something?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ahaha! Of course not. Anyway, come on! Let's dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us descend on the mammoth of a hamburger steak and have a great time!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-whoa! Are you sure I can have all of these?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "This is a lot of carrots… This reminds me of the soup kitchen…",
+            "choice_data_list": [
+                "Oh, I didn't know you volunteered there.",
+                "Oh, I didn't know you volunteered there."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah, I do! I go there to help all the time!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's always so nice to see people smiling and warming themselves up by the huge pot of stew on snowy days."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Their smiles will stay with me forever. Seeing them always makes me glad I went to help out."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Gah! There's no time to waste. Everyone is waiting for these carrots!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "C'mon, Trainer! Let's hurry! There are hungry mouths to feed!",
+            "choice_data_list": [
+                "Hold on! We're not on volunteer duty right now!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, oops! Sorry, force of habit…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "All right, let's take these back with us, then. We should share them with the others since we have so many!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When we get back, Kitasan Black makes carrot stew and shares it with everyone. They all thoroughly enjoy the nutritious meal."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh… Just one carrot, huh? That's kind of a letdown…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sorry for the anticlimactic finish, Trainer…",
+            "choice_data_list": [
+                "Don't worry about it."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thanks. I guess I didn't put enough spirit into it."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hang on! I can hold a concert using this carrot as a microphone!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll sing something special that I don't usually do in my winning concerts, like an enka song!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A single caaarrot! ♪ Hidden in the depths my sleeeve!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A truly inexplicable carrot-themed enka song echoes into the evening sky. We eat the carrot as a side dish at dinner afterward."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aw, rats… Just tissues. I'm sorry, Trainer…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Things usually don't end up great when I act on impulse…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What should I have done differently? Maybe I should've spun the lever more gently…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Or maybe, instead of that, I should've spun it fast enough to make the handle snap right off!",
+            "choice_data_list": [
+                "I feel like it's better to get tissues than to break the poor machine…"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Weeell… I guess you have a point… But really? Just tissues?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black's shoulders slump in disappointment over the lackluster result…"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Yawn…</i> Aye, aye, sir…",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh… Trainer… It's you. Perfect timing…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "How about some hot-off-the-press divination, ready to go? I spent my whole day off thinking it up. I didn't get a wink of sleep!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "First, you make a peace sign like this, okay? And then you…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Yawn…</i> I forget…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Matikanefukukitaru hasn't rested at all…"
+        }
+    ]
+}

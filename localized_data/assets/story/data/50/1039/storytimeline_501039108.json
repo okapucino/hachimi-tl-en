@@ -1,0 +1,316 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest. Everyone attending is enjoying the various events being held."
+        },
+        {
+            "name": "Vodka",
+            "text": "Whoa! There's so many people. Oh, if it isn't Scarlet.",
+            "color_text_info_list": [
+                "Scarlet"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Vodka?! Did you come to watch the Tiara tour talk show as well?",
+            "color_text_info_list": [
+                "Vodka"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "The Tiara tour talk show?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…I guess not. <i>Sigh…</i> It's about to start, so shut up and watch if you're going to stay. I'm taking this seriously, so don't disturb me."
+        },
+        {
+            "name": "Vodka",
+            "text": "Wha—?! Then <i>you</i> make sure not to bother me either!"
+        },
+        {
+            "name": "Girl with Braids",
+            "text": "This way, this way! We'll be able to see her talk from over here!"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "…"
+        },
+        {
+            "name": "Chestnut-haired Umamusume's Fan",
+            "text": "…Tch. Why is <i>she</i> always at the same events?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Everyone, we'd like to express our dearest thanks to you all for coming to see our talk show today."
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Your support meant so much to me last year. As a princess, I—"
+        },
+        {
+            "name": "Fan A",
+            "text": "Yeah, Princess did amazing last year! Although she's not as refined as her name might imply."
+        },
+        {
+            "name": "Chestnut-haired Umamusume's Fan",
+            "text": "<i>Sigh…</i> There she goes babbling about princesses again. That's quite an ego—does she want to hog the spotlight for herself?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…",
+            "choice_data_list": [
+                "Kawakami <i>Princess!</i>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The word \"princess\" brings to mind many different qualities. There's beauty, nobility, candor, and so much more."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So when each of us say \"princess,\" I think we all have different things in mind. And that's okay. They <i>shouldn't</i> be the same."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Certainly, these differences may sometimes lead us to hurt one another…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But even so, I want to become the princess I envision for myself."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I have a lot of regrets, but also a lot to be proud of. That's why…"
+        },
+        {
+            "name": "Girl with Braids",
+            "text": "…Kawakami Princess?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I…"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "Don't cry!"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "To me, you're the coolest princess there is! I want to become a princess like you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A commotion begins to stir within the audience. The crowd separates, forming a circle around a young boy… and a woman."
+        },
+        {
+            "name": "Lady in a Dress",
+            "text": "Ken?! Don't tell me you still harbor that foolish desire to become a princess…"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "Mother… I know you told me it was impossible and that I should give up the thought…"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "But I can't change how I feel! I want to be a princess!"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "I want to be just like Kawakami Princess! A cool, strong, dazzling princess!"
+        },
+        {
+            "name": "Lady in a Dress",
+            "text": "At the very least, surely you should aim to be a prince instead! I mean, you're a…",
+            "choice_data_list": [
+                "What do you say to that, Kawakami Princess? Is that true?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No, it isn't! Whether or not he can become a princess all depends on his mindset and effort!"
+        },
+        {
+            "name": "Lady in a Dress",
+            "text": "What?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I believe that a princess is someone who never gives up. And how one becomes that princess is different for everyone!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Just as my vision differs from yours, I'm sure the boy has his own idea of what being a princess entails.",
+            "choice_data_list": [
+                "There's no right or wrong here."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Indeed. It's not our place to tell others what to believe. That's for them to decide. Instead, focus on who <i>you</i> want to be."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That way, when you look back on your past, you'll feel proud."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Proud of the fact… that you did it all yourself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, I hear the sound of footsteps approaching…"
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "I… think that she's right."
+        },
+        {
+            "name": "Chestnut-haired Umamusume's Fan",
+            "text": "Huh? Y-you're…"
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "I won't pretend it doesn't bug me when she talks about princesses in events and interviews, but that's my problem, not hers. She's her own person, and so am I!"
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "To tell the truth, I think you're amazing! But I believe that my own dream is even more incredible."
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "That's why I won't lose our next race! When we compete, let's see which of us has grown more!"
+        },
+        {
+            "name": "Chestnut-haired Umamusume's Fan",
+            "text": "…!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Gladly. I'll take you head-on in any race!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Daaang… The older racers are so cool!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Sigh…</i> Talk about nerves. I feel like my whole body tensed up.",
+            "choice_data_list": [
+                "But you stayed true to your ideal of a princess.",
+                "But you stayed true to your ideal of a princess."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You're right, and I won't lose sight of it again."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I can't be ignorant of the hurt I may cause others, but I won't be afraid. I'll continue down the path I've chosen."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "In order to become the princess I aspire to be… I'll conduct myself in a manner I can be proud of.",
+            "choice_data_list": [
+                "I'm sure you'll become a role model for others, too.",
+                "I'm sure you'll become a role model for others, too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Princess Fighter inspired Kawakami Princess, I'm sure she will go on to inspire others.",
+            "choice_data_list": [
+                "…Like you did for that boy."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hehe… I hope you're right."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl…</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Ack."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, come on… Why now?! How's anyone supposed to take me seriously if my stomach growls like a lion?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Kawakami Princess laments her growling stomach, I'm only too happy to take her around to the different food stalls to show my appreciation for her effort and growth."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, I hear the sound of footsteps approaching…"
+        },
+        {
+            "name": "Girl with Braids",
+            "text": "Kawakami Princess, you were so cool up there!"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Awww, are you enjoying the festival? They even have a punching tournament over there, you know? ♪"
+        },
+        {
+            "name": "Girl with Braids",
+            "text": "Whoa, really?! …I mean, Ken, you talked to your mom, right?"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "Shut uuup… Anyway, my mom already said sorry."
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "She apologized to me and gave me a pat on the head. So…"
+        },
+        {
+            "name": "Suntanned Boy",
+            "text": "Thanks, Princess! Later!"
+        },
+        {
+            "name": "Girl with Braids",
+            "text": "Ah, wait! Ken!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Oh my."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm sure the two of them will become wonderful princesses one day."
+        },
+        {
+            "name": "Monologue",
+            "text": "In that moment, I take a glance at Kawakami Princess and see the eyes of a wonderful, bona fide princess."
+        }
+    ]
+}

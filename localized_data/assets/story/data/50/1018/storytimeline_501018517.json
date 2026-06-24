@@ -1,0 +1,33 @@
+{
+    "title": "花と散漫",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day in the plaza, I spot Air Groove sitting with her shoulders slumped dejectedly. I approach her, but…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "This doesn't concern you. Don't stick your nose where it doesn't belong.",
+            "choice_data_list": [
+                "You don't look so good."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…It's not that serious."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I didn't pay enough attention to some of my flowers, so they withered away."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I can't believe I allowed myself to become this lax. What's gotten into me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove's mood doesn't improve for a while."
+        }
+    ]
+}

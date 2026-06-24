@@ -1,0 +1,36 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Traineeer! This is <i>amazing!</i>",
+            "choice_data_list": [
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I got me a fan letter! She said watchin' my races and concerts made her real happy!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "This is some fantastic news! I'm tickled pink to have somebody rootin' for me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I know just what to do! I'm gonna mosey on over to this fan and give 'em a big ol' hug!",
+            "choice_data_list": [
+                "Wait, wait, wait!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! You wanna join me, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I desperately stop Taiki Shuttle before she leaves."
+        }
+    ]
+}

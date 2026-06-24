@@ -1,0 +1,250 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Air Groove and I head out to a store to buy some supplies for my office."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? What's that?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "How about you? The elegant Umamusume over there! Care to try your luck?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now that I think about it, we did receive a raffle ticket while shopping earlier, didn't we?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm not particularly interested in the rewards…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "However… this <i>could</i> be considered a seasonal activity. In which case, it would go against my values <i>not</i> to participate."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes… I suppose we may as well give it a whirl.",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I don't really need your support for something like this, but okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove gives the raffle machine a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I… won?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh… Everything I do, I do to the best of my abilities, but I didn't actually expect to win this one."
+        },
+        {
+            "name": "Air Groove",
+            "text": "A hot spring vacation ticket… Quite the grandiose prize."
+        },
+        {
+            "name": "Air Groove",
+            "text": "(Hold on…)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "(I was the one who spun the lever, but we were originally given that raffle ticket while buying supplies for the office…)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "(So who does this actually belong to?)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "(Who should have the privilege of redeeming it?)",
+            "choice_data_list": [
+                "You look like something's troubling you."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…It's nothing. I was just wondering who the rightful owner of the prize is."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You can hold onto it for the time being. I'll tell you when I determine how we should use it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove forces the ticket into my hands, leaving it in my care."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well, well—this <i>does</i> look high quality. I can see why they call it \"deluxe.\""
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now the question is, how should we flavor it? Hmm…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I've got it. Let's do another round at the stores.",
+            "choice_data_list": [
+                "Why?",
+                "Why?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Isn't it obvious? You need the perfect combination of flavors for a delicacy like this."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I think this would benefit from some demi-glace sauce."
+        },
+        {
+            "name": "Air Groove",
+            "text": "We'll get the highest quality ingredients and make a sauce to match our prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "So we go around the stores once more to cook up a sauce fit for the meal."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh… Not bad at all."
+        },
+        {
+            "name": "Air Groove",
+            "text": "A number of students were telling me that they wished to practice their cooking."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm sure they could use a gift like this."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Let's go. Help me carry everything."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove looks satisfied as we haul the massive amount of carrots back to the academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm… Not awful."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Even a single carrot can unlock many possibilities in the kitchen."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It can be used for a salad, for stir-fry, for juice…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Tell me, Trainer—what would you make with it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove and I talk about our favorite carrot dishes as we head back."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "A mere consolation prize…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No matter. Luck-based games result in more losers than winners."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's why in real competitions, we must rely on skill and talent, not luck alone."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh… Imagine learning that from a pack of tissues…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove stares at the pack of tissues, looking slightly upset."
+        }
+    ]
+}

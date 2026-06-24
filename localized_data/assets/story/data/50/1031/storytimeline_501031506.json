@@ -1,0 +1,177 @@
+{
+    "title": "Dance Lesson",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Ines Fujin invites me to visit the amusement park where she works part-time, so I drop by to see how she's doing."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Okay, kiddos, let's all give the hero of the park, Park Knight, a nice loud welcome! On the count of three—one, two…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Park Kniiight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Huh? Okay, let's try that one more time! Park Kniiight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Okay, give me a second, everyone! I'll just go check up on Park Knight's battle status!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like something's going on backstage… Worried, I go over to check the situation."
+        },
+        {
+            "name": "???",
+            "text": "…!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Th-the mascot actor suddenly got sick?!"
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "He's currently cooped up in the restroom with stomachache… It doesn't look like it'll last too long, but could you buy us some time until we can sort this out?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Buy some time? I dunno… The only time I ever go on stage is to do my winning concert dance routine."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And that's a totally different livey-vibey from a superhero show. Hmm…"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hold it right there! Is it true that Park Knight is in trouble?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whoa! …Wait, Biko?! And how come you're here too, Trainer?! This area's off-limits to guests!",
+            "choice_data_list": [
+                "It looked like an emergency."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well, yeah, it is an emergency, but—wait a sec, we really need to figure out the stage situation! Maybe we should just tell everyone the truth and—"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "It's Park Knight's duty as the hero of this amusement park to bring joy to the children, right?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh? Y-yeah, that's right."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Then we mustn't let the children down! They've come all the way here to cheer for Park Knight!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…You're right. Telling the truth would only disappoint the kids and their parents."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I really don't want to make these families sad on their day out together. I might not be a hero, but…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I want to put on an entertaining performance for everyone!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…But how? This isn't a winning concert, so I'm not sure how well my dance would go down.",
+            "choice_data_list": [
+                "How about incorporating your dance number into the hero show?",
+                "An Ines-style dance would be best."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "A hero-style dance number… That could be fun! Biko, could you give me a hand?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Listen, everyone! We've got a situation! Park Knight's in a real crisis!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Urgh, it's all my fault… Park Knight got captured by the enemy leader to save my life!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Did you hear that, everyone? You know what this means, right? We have to cheer for Park Knight!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Let's all dance together! I'm sure the power of dance will help save Park Knight!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You've got this, Park Knight!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "You're super tough, Park Knight!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "All right, everyone, show me your biggest smiles! All your smiles will boost Park Knight's power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The hero show is a great success, with Ines Fujin's performance perfectly covering for the park mascot's absence."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "An Ines-style dance… Yeah. I practice all the time to make my fans smile! This should be a piece of cake!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Okay, watch this, you two! Ines is taking the stage!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Attention, all guests. There has been a slight change of schedule today, but please enjoy this mini dance show!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm back, everyone! Park Knight will be back in action soon, but until then, let's all sing and dance together!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "One, two, three! One, two, three!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…And then finish with a spin! Okay, got that? Now let's add some lyrics to this dance!"
+        },
+        {
+            "name": "Boy A",
+            "text": "One, t-two, three, and <i>turn…</i> I did it!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Awesome! That's perfect! Okay, let's all become dancing superstars and give Park Knight a big surprise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The hero show is a great success, with Ines Fujin's performance perfectly covering for the park mascot's absence."
+        }
+    ]
+}

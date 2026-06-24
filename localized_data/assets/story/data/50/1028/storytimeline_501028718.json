@@ -1,0 +1,26 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, Trainer! Thanks so much for giving me time off! ☆",
+            "choice_data_list": [
+                "Do you feel recharged now?",
+                "Do you feel recharged now?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yup! I rewatched the whole <i>Sumo Broadcasting: Best Matches Compilation!</i> It was amazing!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've got an idea! We should go watch some live sumo wrestling together, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Hishi Akebono had a nice, refreshing break."
+        }
+    ]
+}

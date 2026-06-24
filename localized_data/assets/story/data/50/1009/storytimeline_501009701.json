@@ -1,0 +1,33 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm at the academy early one morning, still yawning to myself when I catch sight of Daiwa Scarlet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Morning, Trainer. I'm the first one at school again!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A model student is always early to bed and early to rise. I got my beauty sleep last night, and now my skin is flawless!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Meanwhile, <i>someone</i> can't stop yawning. Did you stay up too late?",
+            "choice_data_list": [
+                "I was working on our training program…"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh? I-I see…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Then it's an early night for you tonight, you hear? I can't have you collapsing on me!"
+        }
+    ]
+}

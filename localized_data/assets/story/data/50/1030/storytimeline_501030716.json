@@ -1,0 +1,44 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Rice Shower and I arrive at the cafeteria for lunch."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Apple pie slices! They look so yummy…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But… I shouldn't…",
+            "choice_data_list": [
+                "Why not?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um… In children's stories all over the world, there are lots of greedy bad guys that eat too much."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I eat a lot too… What if I turn evil?",
+            "choice_data_list": [
+                "You've got plenty of time before that happens."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "M-maybe…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But… I'm going to resist. I don't want to turn into a bad guy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, I begin to notice Rice Shower carefully watching her portion sizes."
+        }
+    ]
+}

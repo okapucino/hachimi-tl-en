@@ -1,0 +1,29 @@
+{
+    "title": "朝5時に飛び起きて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One morning, I'm heading to my office early to finish up some leftover work from the day before."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer! Are you still alive?! There's no gaping hole in your stomach, right?!",
+            "choice_data_list": [
+                "I seem to be intact…"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh! Th-thank goodness! So that terrible sight was all just a dream, then?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You weren't brainwashed by an evil organization?! And you didn't get torn to pieces shielding me from that enemy attack after all?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I find myself spending the early morning hours trying to console Kawakami Princess as she bawls her eyes out."
+        }
+    ]
+}

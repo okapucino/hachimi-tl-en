@@ -1,0 +1,76 @@
+{
+    "title": "Before the Takarazuka Kinen",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Interviewer A",
+            "text": "We're here at Hanshin Racecourse! Who do you think will come out on top today?"
+        },
+        {
+            "name": "Spectator A",
+            "text": "I'm thinking Ikuno Dictus! Win it this time, Ikuno! You can do it!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "I think it'll be Mejiro Palmer. She was fantastic in last year's Takarazuka Kinen."
+        },
+        {
+            "name": "Spectator C",
+            "text": "I'm feeling Nishino Flower. This might not be her best distance, but she definitely has the potential to win it!",
+            "color_text_info_list": [
+                "Nishino Flower"
+            ]
+        },
+        {
+            "name": "Spectator D",
+            "text": "No way! Today's all about Mejiro McQueen!"
+        },
+        {
+            "name": "Interviewer A",
+            "text": "There are certainly a lot of people here today rooting for Mejiro McQueen! And how about you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The person on the other side of the microphone is none other than…"
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "I'm rooting for Matikanetannhauser, of course!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Bespectacled Reporter",
+            "text": "She's always optimistic and inspiring! Even today… I came here just to watch her!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tannhauser."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, McQueen! What's up?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can truly feel how rapidly you've improved since the spring Tenno Sho."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I've marked you as the person I have to be most careful of today, and I'll be doing my absolute best to beat you!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So, let's have a good race."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh! Yes, I'll do my best too! I'm looking forward to a great race today!"
+        }
+    ]
+}

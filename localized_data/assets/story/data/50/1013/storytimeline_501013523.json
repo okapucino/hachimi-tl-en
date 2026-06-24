@@ -1,0 +1,95 @@
+{
+    "title": "限界トレーニング",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm headed to the gym to pick up Mejiro McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff… puff…</i> Ninety-nine… One hundred…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh, my entire body is throbbing with pain. This must be what Ryan meant by \"screaming muscles.\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "However, there's no time to rest. Next, I need to do fifty—",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, Trainer. Yes, but I haven't met today's quota yet."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm working on the muscle training regimen Ryan gave me, you see. I must finish the entire thing, no matter what.",
+            "choice_data_list": [
+                "But you've clearly already hit your limit.",
+                "But you've clearly already hit your limit."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Naturally. After all, I specifically asked for a regimen that would push me <i>beyond</i> my limits."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If I'm unable to surpass the limit looming right before my eyes, I cannot possibly call myself a Mejiro!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Please don't try to stop me! This is all for the purpose of achieving victory! One… two… three…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Four… five… Hehe, the night wind is refreshing… and the hot spring was the perfect temperature. Just marvelous…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, it's nearly time for the baseball game. This TV looks old, but… this is another pleasure of traveling. ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I also secretly brought some treats with me, and there isn't anyone here to stop me. Hehe, now then…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hit that ball, Yu-ta-ka! Hit that ball, Yu-ta-kaaa!",
+            "choice_data_list": [
+                "McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh? I thought I just heard a familiar voice."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It would be nice if I could stay and relax here, but it doesn't look like I can anymore."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gasp!</i> T-Trainer! Wait… where am I?",
+            "choice_data_list": [
+                "You were in the middle of a desperate workout."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I-is that so? I feel I've just woken up from the strangest dream."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In any case, I'm filled to the brim with strength. I think I may have surpassed my limits!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She has indeed done just that. Mejiro McQueen is looking stronger than ever."
+        }
+    ]
+}

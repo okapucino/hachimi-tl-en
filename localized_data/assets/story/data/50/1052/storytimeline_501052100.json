@@ -1,182 +1,200 @@
 {
-    "no_wrap": true,
+    "title": "ハルウララ登場！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Starting today, we would finally begin \nfull-scale training for Haru Urara's \nTwinkle Series challenge.",
+            "name": "Monologue",
+            "text": "Today is the day where Haru Urara finally starts her training for the Twinkle Series.",
             "color_text_info_list": [
                 "Haru Urara",
                 "Twinkle Series"
             ]
         },
         {
-            "text": "Haru Urara is also very eager to win \nthe first place. I'm sure she will work \nhard enough."
+            "name": "Monologue",
+            "text": "She insists on taking first place. And it shows with just how much enthusiasm she has."
         },
         {
-            "text": "—Or at least that's what I thought…"
+            "name": "Monologue",
+            "text": "At least, that's what I thought. However…"
         },
         {
             "name": "Haru Urara",
-            "text": "Ah, it's the trainer! \nStarting today, I'm counting on you!",
+            "text": "Ah, it's you, Trainer! It's a pleasure to start training with you!",
             "choice_data_list": [
-                "Let's do our best together!",
-                "Let's do our best together!"
+                "Let's give it our best!",
+                "Let's give it our best!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Yes! \nI'm good at doing my best, \nso leave it to me!",
+            "text": "Yeah! I'm the best at doing my best! You have nothing to worry about!",
             "choice_data_list": [
-                "Okay, let's start training!",
-                "Okay, let's start training!"
+                "Then let's start training!",
+                "Then let's start training!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Yay! \nI'll run a lot!"
+            "text": "Okay! I'm ready to run!"
         },
         {
             "name": "Haru Urara",
-            "text": "Eh-ho, eh-ho, eh-ho! \nPhew, the first round is over!",
+            "text": "Hup, hup, hup! Phew… That's one lap down.",
             "choice_data_list": [
-                "Okay, one more lap!"
+                "Great, do another one!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Ye—"
+            "text": "On it!"
         },
         {
             "name": "Haru Urara",
-            "text": "Ohhhhh!!",
+            "text": "Aaaaah!",
             "choice_data_list": [
-                "What happened?!",
-                "What happened?!"
+                "What's wrong?!",
+                "What's wrong?!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "A butterfly! \nIt's a big one with a pretty pattern!",
+            "text": "A butterfly! It's so big and pretty!",
             "choice_data_list": [
-                "…… Eh?"
+                "…Huh?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Look, look, over there! \nIt's fluttering across the grass!"
+            "text": "Oh look! It's fluttering off toward the grass over there!"
         },
         {
             "name": "Haru Urara",
-            "text": "Ah, it's going away! \nWait, don't go!",
+            "text": "Ah, where are you going! Wait for meee!",
             "choice_data_list": [
                 "Urara?!"
             ]
         },
         {
-            "text": "Haru Urara ran at full speed. \nI thought about going after her, \nbut maybe she has something in mind."
+            "name": "Monologue",
+            "text": "Haru Urara bolts off. I think to chase after her, but I wonder if this is part of her plan for training."
         },
         {
-            "text": "Trusting her, \nI decided to wait a little longer…"
+            "name": "Monologue",
+            "text": "I decide to trust her and wait and see until she comes back…"
         },
         {
-            "text": "……… She hasn't come back at all! \nMaybe something happened… \nI must hurry to find her!"
+            "name": "Monologue",
+            "text": "…But she doesn't! Something must have happened. I have to find her!"
         },
         {
+            "name": "Monologue",
             "text": "(She's not here…)"
         },
         {
-            "text": "(Not here, either!)"
+            "name": "Monologue",
+            "text": "(Or here…)"
         },
         {
-            "text": "(Same here!)"
+            "name": "Monologue",
+            "text": "(Or here!)"
         },
         {
-            "text": "After searching around, finally―"
+            "name": "Monologue",
+            "text": "I look almost everywhere for her, until…"
         },
         {
             "name": "Haru Urara",
-            "text": "Pheeeew, I'm so tired! \nLet's take a break～!"
+            "text": "<i>Phew…</i> I'm beat! Time to take a break!"
         },
         {
-            "text": "I found Haru Urara! \nWhat's more, she's covered in mud… \nDid something happen after all?!",
+            "name": "Monologue",
+            "text": "I've found Haru Urara! But she's covered in mud… What happened here?!",
             "choice_data_list": [
-                "Urara!!"
+                "Urara!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Huh? Trainer! \nWhat a coincidence!"
+            "text": "Huh? Trainer! Fancy meeting you here!"
         },
         {
             "name": "Haru Urara",
-            "text": "Did the trainer come here to chase after \nthe fish, too?",
+            "text": "Oh, are you going to play tag with Mr. Fish, too?",
             "choice_data_list": [
-                "…… Hm?"
+                "…Huh?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Hm?"
+            "text": "Huh?"
         },
         {
-            "text": "―According to the story, Haru Urara, \nafter chasing the butterfly, reached \nthe riverbed and started chasing the fish."
+            "name": "Monologue",
+            "text": "I ask her to explain. It seems that after she chased the butterfly, she found herself by the river and started to play tag with a fish."
         },
         {
-            "text": "I'm not quite sure about it… \nbut maybe it was Haru Urara's way \nof training."
+            "name": "Monologue",
+            "text": "I don't really understand, but maybe this is all a part of a unique training regimen of hers?"
         },
         {
             "name": "Haru Urara",
-            "text": "You know, there was one that looked like \nthe king of the river! \nI was so close to catching it～!"
+            "text": "Actually, I think I found the king of the river! And I almost caught him too!"
         },
         {
-            "text": "… I think she was just playing around \nafter all.",
+            "name": "Monologue",
+            "text": "…Never mind. She was just goofing off.",
             "choice_data_list": [
-                "Come on, let's get back to training."
+                "So, how about we get back to training?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Hmm? \nWere we training?"
+            "text": "Huh? But I already did it, didn't I?"
         },
         {
             "name": "Haru Urara",
-            "text": "Hmmm, I guess we were doing it, \nbut I didn't feel like we were…"
+            "text": "Yeah, I did it… Or did I?"
         },
         {
             "name": "Haru Urara",
-            "text": "Aah! There was a big fish just now! \nIsn't that the king?! Let's look together!",
+            "text": "AH! I just saw a huge fish! That must be the river <i>god!</i> Let's go find it!",
             "choice_data_list": [
-                "… You want to win first place, right?",
-                "… You want to win first place, right?"
+                "Don't you want first place?",
+                "Don't you want first place?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Of course! \nBecause winning looks like a lot of fun!"
+            "text": "Of course! Getting first place is so exciting!"
         },
         {
             "name": "Haru Urara",
-            "text": "I want to run a lot, win a lot, \nand have a lot of fun!"
+            "text": "I wanna run a lot, get first place a lot, and have a lot of fun!"
         },
         {
             "name": "Haru Urara",
-            "text": "That's why you became my trainer after all!"
+            "text": "I mean, that's why you became my trainer, right? You're gonna help me make that happen!"
         },
         {
             "name": "Haru Urara",
-            "text": "I'm looking forward to working with you \nfrom now on! *Bow*"
+            "text": "So I'm gonna try my hardest from now on!"
         },
         {
-            "text": "After all, Haru Urara has the will to \ndo her best. As long as she can keep \nthat up, her goal of getting first place \nwill definitely come true, but…"
+            "name": "Monologue",
+            "text": "It seems that Haru Urara really does want to try her best. As long as she has that mindset, I'm sure she'll reach her dreams of taking first place. But…"
         },
         {
             "name": "Haru Urara",
-            "text": "Ah, it's a carrot cloud! \nIt looks delicious～! Ah, wait, don't go～!"
+            "text": "Ooh! That cloud looks like a carrot! It looks so tasty! Wait for meee!"
         },
         {
-            "text": "… It looks like I'll need to think about \nhow to get her to focus on her training first."
+            "name": "Monologue",
+            "text": "…First of all, I need to get her to focus on her training. Then I'll think about what comes next."
         },
         {
-            "text": "In any case, my days of training \nwith Haru Urara have begun!"
+            "name": "Monologue",
+            "text": "In any case, Haru Urara's training starts today!"
         }
     ]
 }

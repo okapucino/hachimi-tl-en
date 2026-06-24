@@ -1,0 +1,33 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ugh, the sun's blinding…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I waited until morning and still haven't heard back… I feel like I just want to collapse…",
+            "choice_data_list": [
+                "Hear back? About what?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yesterday, I sent some material to a research institute I know, but…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Even though I waited until morning, there's been no reply…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm… I still haven't heard anything… This is the worst…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon sways sleepily as if she'll fall over at any moment."
+        }
+    ]
+}

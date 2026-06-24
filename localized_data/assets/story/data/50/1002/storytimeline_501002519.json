@@ -1,0 +1,37 @@
+{
+    "title": "辿り着いた景色",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's my day off. I'm headed back home after some shopping when…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh…</i> You have to be kidding…",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer. Don't worry about it. It's nothing, really."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's just… there were roadworks on my usual jogging route, so I couldn't go that way…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And everywhere else I went was the same—roadworks or closed off."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And then the rain…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka stands there, shoulders slumped in defeat, rain pitter-pattering against her."
+        }
+    ]
+}

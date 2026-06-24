@@ -1,0 +1,365 @@
+{
+    "title": "釣果アリ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The autumn Tenno Sho has arrived. There are only five minutes left to enter the racecourse, but Seiun Sky still hasn't shown."
+        },
+        {
+            "name": "Monologue",
+            "text": "I made the decision not to bring her here myself so she wouldn't feel forced to compete…",
+            "choice_data_list": [
+                "(It'll be fine. She'll come.)"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sorry to keep you wading.",
+            "choice_data_list": [
+                "Sky!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nice to see you too… I guess."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I came up with a pretty good idea, and I couldn't stand the thought of not trying it in a race."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So… you know…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Are you listening? I have a plan to tear down that wall."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll give you a hint about it—what's something I've done every day with you?",
+            "choice_data_list": [
+                "With me?",
+                "With me?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep. I'll just tell you. When I face an opponent who's always overcoming their own limits…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I have to overcome my limits and run away! That's all there is to it!",
+            "choice_data_list": [
+                "Wh-what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The final stretch at Tokyo Racecourse is long, which means it's perfect for a racer like Spe who bursts ahead toward the end."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So I was thinking, what if I pushed past my own limits and tried to maintain my top speed?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Clean out your ears, 'cause I'm about to let you in on a huge secret…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I really, reaaally hate losing! Heehee. ☆",
+            "choice_data_list": [
+                "I already knew that."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh, of course you did. But I don't think anyone else does."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They don't know the sizzly, broiling hot fire hidden behind my lovable facade."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's why I have the best chance of winning, even compared to Spe and the others!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll be yelling at myself to run, run, and run, until the very end!",
+            "choice_data_list": [
+                "Sounds like this'll be a real spectacle!",
+                "Sounds like this'll be a real spectacle!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. It sure will be."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, like… keep your eyes peeled and expect the best and whatnot."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll smash down that wall and come back to you the victor!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll pull ahead at the last possible second! That's my only option!",
+            "choice_data_list": [
+                "Wh-what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The last stretch is when the real challenge starts, right?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So if I sprint for it a second time then, I'll win!",
+            "choice_data_list": [
+                "Isn't that a bit unrealistic?",
+                "Isn't that a bit unrealistic?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Can't say it's not. But it's what I'm gonna try."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's like this—I've been pretty lax about everything up until now, right?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, ta-daaa! I'm not gonna do that anymore!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I don't care how I look out there, I'm going all out. No calculated tactics, no nothing—just the real me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No other racer has kept their abilities as hidden as I have. You see…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm betting that there's still some hidden power left for me to squeeze out at the very end!",
+            "choice_data_list": [
+                "Sounds like this'll be a real spectacle!",
+                "Sounds like this'll be a real spectacle!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. It sure will be."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, like… keep your eyes peeled and expect the best and whatnot."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll smash down that wall and come back to you the victor!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll tear ahead at the hill! That's my only choice!",
+            "choice_data_list": [
+                "Wh-what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It may not be the steepest, but the Tokyo Racecourse slope is still a force to be reckoned with."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's a problem for everyone, which means it's the perfect place to put some distance between me and the others!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sure, runners like Spe, with all their talents, would keep the advantage crossing that section."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But… I've been climbing mountains with every kind of method I can wrap my hands around.",
+            "choice_data_list": [
+                "Mountains?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. Roads that look totally flat to others are to me as difficult to climb as mountains."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You see… I'm going to turn my sense of inferiority into my strength and keep climbing. That's how I'll win."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is no contest! There's no possible way I can lose."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm going to unleash all the strength that's built up inside me… and cross the finish line first!",
+            "choice_data_list": [
+                "Sounds like this'll be a real spectacle!",
+                "Sounds like this'll be a real spectacle!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. It sure will be."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, like… keep your eyes peeled and expect the best and whatnot."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll smash down that wall and come back to you the victor!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Soon as they pass me, I'll pass 'em right back! That's all I can do!",
+            "choice_data_list": [
+                "Wh-what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Right when I'm in the zone charging forward is when Spe and the others will come up from behind."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But at that very moment, if I boost forward, they'll be practically frozen in shock!",
+            "choice_data_list": [
+                "Is that even possible?",
+                "Is that even possible?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You bet it is."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't you think sudden comebacks fit within my personal narrative?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No one's been passed up as much as me, especially since I have no special abilities or strengths."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's why I've had to use my head and brew up ideas for dashing past anyone who's sprinted ahead. And I've never given up when they gain the lead back."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's always been my only path to winning. Each time I had to think things through to the very end."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm just stubborn like that.",
+            "choice_data_list": [
+                "Sounds like this'll be a real spectacle!",
+                "Sounds like this'll be a real spectacle!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. It sure will be."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, like… keep your eyes peeled and expect the best and whatnot."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll smash down that wall and come back to you the victor!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I have to aim for the best racer! That's the only way!",
+            "choice_data_list": [
+                "Wh-what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And I already know who I have to glue my eyes to."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll keep her under my thumb so she can't pull anything funny, then <i>I'll</i> be the one to snatch first. ☆"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What do winners need? Raw strength? Talent? Luck? Nope, not in my book."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They need to be the first one to cross the finish line—that's all.",
+            "choice_data_list": [
+                "You're really gonna show them your stuff.",
+                "You're really gonna show them your stuff."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Exactly. ☆ The curtains are rising on the first act of my magic show!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "When they're about to win, I'll throw them off their pace with a bluff… and use that opening to push forward."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's right, I have to use my head! That's the unique thing I've been improving this entire time."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's my secret weapon.",
+            "choice_data_list": [
+                "Sounds like this'll be a real spectacle!",
+                "Sounds like this'll be a real spectacle!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. It sure will be."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So, like… keep your eyes peeled and expect the best and whatnot."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll smash down that wall and come back to you the victor!"
+        }
+    ]
+}

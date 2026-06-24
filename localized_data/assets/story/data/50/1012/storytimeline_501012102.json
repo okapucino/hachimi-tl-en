@@ -1,0 +1,168 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's Day, and Hishi Amazon and I are out on our first shrine visit of the year."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap, clap!</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "This year will be quite the challenge for Hishi Amazon. I wonder what she prayed for…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Phew! Finally, we're done! That line was way longer than I thought it would be.",
+            "choice_data_list": [
+                "What did you pray for?",
+                "What did you pray for?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? The same thing as always—good health for everyone important to me!",
+            "choice_data_list": [
+                "Oh, I wouldn't have guessed that."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You seem surprised. Well, I can see why."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I've got some big races coming up this year, and I did think about prayin' for some good luck."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But it's not my style to ask for divine favor. If I'm gonna win, it's gonna be with the efforts we put toward victory together, eh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Such a confident answer is so true to her nature that, without noticing, I break into a smile.",
+            "choice_data_list": [
+                "Yeah, that's right.",
+                "Yeah, that's right."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So, what should we do after this? We could dive straight into some training."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her suggestion isn't bad, but since it's New Year's and everything, I feel it would be more appropriate to celebrate.",
+            "choice_data_list": [
+                "How about we get something to eat?",
+                "Do you want to try practicing some party tricks?",
+                "Let's make some traditional New Year's dishes."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, that's a great idea! My stomach's just startin' to get rumbly."
+        },
+        {
+            "name": "Monologue",
+            "text": "We tour the stalls on the shrine grounds, sampling what they have to offer."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Mmm, that was great! Grilled squid tastes even better when you eat it outside!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hold on, Teach! Your hands are all sticky!",
+            "choice_data_list": [
+                "Oh!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I must have gotten sauce on them while eating."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Gosh, you're hopeless. Here, use this wet wipe to clean up.",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend the rest of New Year's Day strolling about at our leisure and have a nice, relaxing time."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, that sounds like fun! I know of a cool one—you know the one where you pull a tablecloth off a table?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm always scared—I mean <i>surprised</i>—by Fuji's magic tricks, so I wanna do something cool too!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's about time <i>I</i> leave <i>her</i> speechless for once!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Okay, the tablecloth is ready, and so are the plates and glasses!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Heh, it looked like a cinch in that video I watched. I'm gonna nail this in one go!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Raargh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Craaaaash!</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the rest of the day, she continues practicing the trick until she's satisfied with her progress."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, nice idea! It might take a while, but it'll be a great chance to show off my skills!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, let's shop for ingredients!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Now to take the bamboo mat off and… Nice, the sweet rolled omelet came out just right!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "How are the kelp rolls doing, Teach? We've been simmering 'em for some time, so the broth should have cooked off by now."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Mmm… Now it's really starting to smell like New Year's."
+        },
+        {
+            "name": "Monologue",
+            "text": "We work together to cook up a delicious spread for New Year's."
+        },
+        {
+            "name": "Monologue",
+            "text": "This year is going to be a decisive one for us, and I want to push through it at full throttle together with Hishi Amazon."
+        }
+    ]
+}

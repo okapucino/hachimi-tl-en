@@ -1,0 +1,109 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While I'm walking with Sakura Chiyono O after training, we notice Rice Shower in what seems to be a predicament."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sob…</i> I'm so scared…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What are you doing in a place like this, Rice?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh… Chiyono O…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I just went on a run to the shrine, but when I stopped to take a break, I realized that I lost my phone…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What?! That's terrible! We have to look for it right away!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But the shrine is so dark at night, and there's no one around. It's so scary…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It <i>would</i> be pretty scary to go alone…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay! I'll go with you!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wait, really?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I can't just leave you here, and I'm sure you'll feel better if you have someone with you!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, and while we're at it, why don't we run there? It'll be good training, so think of it like killing two birds with one stone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I understand she's worried about Rice Shower, but she's already run a lot today…",
+            "choice_data_list": [
+                "Make sure you come right back.",
+                "Make sure you come right back.",
+                "I'll come too, so let's walk instead.",
+                "I'll come too, so let's walk instead."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I understand she's worried about Rice Shower, but she's already run a lot today…",
+            "choice_data_list": [
+                "Make sure you come right back.",
+                "Make sure you come right back.",
+                "I'll come too, so let's walk instead.",
+                "I'll come too, so let's walk instead."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay! Don't you worry, we'll be back in a flash!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…Can we hold hands when we get to the shrine?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… I'm not great with spooky stuff either, so I'd appreciate that too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite their fears, the two of them set off for the shrine at full speed."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? You're coming too?",
+            "choice_data_list": [
+                "Think of it as doing a cooldown together."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's a wonderful idea! It won't be scary at all with three of us, and going on a walk together sounds fun!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "O-okay. Thank you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We have a good time strolling to the shrine as a group, and we find Rice Shower's phone waiting there for us."
+        }
+    ]
+}

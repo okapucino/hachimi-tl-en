@@ -1,0 +1,42 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka and I have come to the riverside to run."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What great weather. The sun is shining so bright—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh no. My sunscreen…",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, it's nothing."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Air Groove gave me some sunscreen the other day because she said my skin looked a little agitated."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I should go back home to get it. <i>Sigh…</i> If only the weather wasn't so nice, then I wouldn't need it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But wait… If the weather were bad, then it wouldn't feel good to run anyway…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It doesn't take too long for Silence Suzuka to return from her room, but she seems a little down about losing some running time."
+        }
+    ]
+}

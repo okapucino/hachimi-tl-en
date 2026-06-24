@@ -1,0 +1,232 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the Fan Fest has arrived, and the entire area is jam-packed with people. Peeking through the crowd, I spot familiar faces by the gate."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Reports of lost children are on the rise. Please be extra careful."
+        },
+        {
+            "name": "Special Week",
+            "text": "If you don't know where to go, find an Umamusume! Just look for—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "—ears like these, and—"
+        },
+        {
+            "name": "Special Week",
+            "text": "—a tail like this!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Please let us know if there is anything else you require."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ngh! This pose… It's so hard to keep up!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I know. It's meant to be visually appealing, but it is rather awkward.",
+            "choice_data_list": [
+                "I see you're taking your guide job seriously.",
+                "I see you're taking your guide job seriously."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ahh?! I'm right here to help you! Don't be scared!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh dear… Calm down, Spe. You're not talking with a lost child."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? Wait, you're—Grass's trainer?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew… You aren't lost, then? What a rel—"
+        },
+        {
+            "name": "Girl",
+            "text": "Uwaaaaah! Big Brotherrrr!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my! But this little girl actually does seem lost."
+        },
+        {
+            "name": "Special Week",
+            "text": "L-l-lost?! Then it's our job to—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wh-where'd she go?! …Graaass?!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, I see… You became separated from your older brother, yes?"
+        },
+        {
+            "name": "Girl",
+            "text": "Uh-huh… He ran off somewhere… And now I can't find him…"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Huff… Huff…</i> This way, madam! Your daughter's right over here!"
+        },
+        {
+            "name": "Girl",
+            "text": "Mommy?!"
+        },
+        {
+            "name": "Mother",
+            "text": "Thank goodness! I was looking all around for you!"
+        },
+        {
+            "name": "Mother",
+            "text": "Thank you both so much… And I believe someone else has something to say as well?"
+        },
+        {
+            "name": "Boy",
+            "text": "…Hmph. She can stay lost for all I care."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Goodness…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You know, your sister was calling for you this whole time."
+        },
+        {
+            "name": "Boy",
+            "text": "And? She's a loud, annoying brat, and I wish she'd go away!"
+        },
+        {
+            "name": "Mother",
+            "text": "Hey! Don't talk about your sister like that!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I guess I'll just volunteer to take your place and become her \"big sister.\""
+        },
+        {
+            "name": "Boy",
+            "text": "…What?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'd be so happy to have another cute little sister around. Hehehe. ♪"
+        },
+        {
+            "name": "Girl",
+            "text": "Wha? B-Big Brother?"
+        },
+        {
+            "name": "Boy",
+            "text": "S-stop! Where do you think you're taking her?! She's <i>my</i> sister!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I guess someone wants to be a big brother now after all."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Spilled water never returns… There's no erasing words once said."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "If there's something you hold dear, you should take proper actions to preserve it."
+        },
+        {
+            "name": "Boy",
+            "text": "…"
+        },
+        {
+            "name": "Boy",
+            "text": "W-we made up, okay?! What more do you want?!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… Just for you to run along and have fun together!",
+            "choice_data_list": [
+                "You handled that perfectly.",
+                "You handled that perfectly."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, you flatter me. It's only proper to be a good role model for those younger than you."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Though I must say, being strict for a child's sake does sting inside.",
+            "choice_data_list": [
+                "You did good."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I'll quietly accept your words of appreciation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her conflicting feelings, Grass Wonder does an excellent job as a guide, staying firm, polite, and true to herself."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… Just for you to run along and have fun together!"
+        },
+        {
+            "name": "Boy",
+            "text": "Hmph! …C'mon, where are we going next?"
+        },
+        {
+            "name": "Girl",
+            "text": "Ehehe, anywhere you want!"
+        },
+        {
+            "name": "Boy",
+            "text": "…Yeesh.",
+            "choice_data_list": [
+                "He's a good brother.",
+                "He's a good brother."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, it makes me a little jealous. His younger sister clearly adores him dearly…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Eheh. Perhaps I'll call my sister tonight. It's been so long since we spoke.",
+            "choice_data_list": [
+                "You have a sister?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, dear me. Have I never told you about her?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I must not have mentioned it, but I'm an older sister."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ehehe. ♪ My sister's such an excellent student, she even got invited to a boarding school back in the States."
+        },
+        {
+            "name": "Monologue",
+            "text": "From there, I sit through nearly an hour of Grass gushing about her little sister in America."
+        }
+    ]
+}

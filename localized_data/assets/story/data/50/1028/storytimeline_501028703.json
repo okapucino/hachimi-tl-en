@@ -1,0 +1,187 @@
+{
+    "title": "はっけよい、お弁当！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way home with Hishi Akebono after a day out when the topic of the ceramics workshop we attended comes up."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I booked a second session for us! I only got to finish the design last time, but this time, I'm going to actually make the pot!",
+            "choice_data_list": [
+                "You've got this for sure!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! Ehehe! I wonder what kind of chanko I should make in it when it's done? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's our second lesson and, after learning the basics, Hishi Akebono gets started on the pottery wheel. She messes up before long though, and repeats the same mistakes over and over."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "<i>Sigh…</i> Break time!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Turning the clay is a lot harder than I thought. It looked easy, but getting the pressure and motions right is super tricky!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Still, it's shaping up better than when I first started. I bet the more I practice, the closer I'll get to creating my perfect pot!",
+            "choice_data_list": [
+                "You don't let anything get you down, huh, Akebono?",
+                "You don't let anything get you down, huh, Akebono?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? What's there to be down about? Practice makes perfect, and I'm getting better and better the more I try! I don't have time to get upset!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, break time's over! Time to get back to work!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We don't get as far as firing Hishi Akebono's pot, so that'll have to wait until next time. The following day…"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Please, lend me your aid!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh dear, what's wrong? I'll do whatever I can to help!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Really?! Thank you! I've got a crisis situation on my hands!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I… I have to prepare a lunch in time for tomorrow's field trip!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Field trip? I didn't know there was a field trip tomorrow."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "There is! Not for us, but you see, I have a friend whose kid…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I see… So the parents are too busy… We've got to get that packed lunch prepped!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "As an ally of justice, I cannot simply stand by and do nothing! But I'm terrible at cooking, so there's no way I can put a decent lunch together!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You just leave this to me, Biko! I'll teach you everything you need to know!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oho! I owe you my very life, Bono!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Aaah! I burned the eggs again! And the salmon's completely disintegrated!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's okay! Just cut off the burnt bits and mix the rest in with the rice!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Gah! My hand slipped and I dumped a heap of sugar onto the meat!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Prepping the meat with sugar helps tenderize it, so you're doing great! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono helps and reassures Biko Pegasus every step along the way."
+        },
+        {
+            "name": "Monologue",
+            "text": "The food she makes is perfectly fine, but after making so many mistakes in a row, Biko Pegasus is starting to look a little glum."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Guh! This is no easy foe! My apologies, I'm very bad at this!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I think you're doing fine! ☆ We had to make changes to a few of our dishes, but they still came out yummy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "But if I keep making so many mistakes, I doubt I'll be able to pull this off tomorrow… At this rate, my lunch will be terrible!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'll be okay, don't worry! We still have time, and besides, everyone makes mistakes when they try something new.",
+            "choice_data_list": [
+                "Did you used to make mistakes too?",
+                "You had to practice a lot too, huh?",
+                "You had to practice a lot too, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'll be okay, don't worry! We still have time, and besides, everyone makes mistakes when they try something new.",
+            "choice_data_list": [
+                "Did you used to make mistakes too?",
+                "You had to practice a lot too, huh?",
+                "You had to practice a lot too, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! I messed up a lot before I was finally able to do things right."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I only managed to get this far because I never gave up! You've got to keep it up too, Biko! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I get it now! It's the same as being an ally of justice… You mustn't give up! YES! I'm gonna keep practicing hard!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! You've got this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, the next morning, Biko Pegasus puts the packed lunch together without issue. And so, the crisis is solved and I come away knowing where Hishi Akebono's resilience and determination come from."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I did! I practiced more times than I could even count! And when I was a kid, I messed up way more times than I got it right."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But I kept trying because I wanted to eat tasty food, and I knew that would be the prize waiting for me at the end of my grueling journey! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Indeed… Some foes cannot easily be bested. But it is a hero's duty to stand against them in bitter battle again and again until they are beaten!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's exactly right! Let's keep it up! I'll give you all the help you need! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear that with Hishi Akebono's help, Biko Pegasus manages to pack the lunch without issue. The crisis is resolved, and I come away having learned the power of resilience and determination."
+        }
+    ]
+}

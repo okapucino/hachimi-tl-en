@@ -1,0 +1,29 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "Good morning, Trainer!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waagh!",
+            "choice_data_list": [
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… hehe. I saved myself from falling over this time!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I know it has something to do with me getting in some good rest yesterday. Thank you so much!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like she's got enough energy to hold herself steady."
+        }
+    ]
+}

@@ -1,0 +1,457 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we stroll through the shopping district…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, here we go again. Give me a sec."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh, Natie, you're here! Are you gonna try your luck again this year?!",
+            "color_text_info_list": [
+                "Natie"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Of course! You can cry all you want, but I won't comfort you after I snatch away the grand-prize!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hehe, you seem extra fired up. Let's have a clean, fair fight! I won't pull any punches!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's how I like… wait, as opposed to what? Are you usually rigging this thing?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyways, I'm not the same Nature I was before! I went to the shrine a hundred times this year! I'm definitely going to win!",
+            "choice_data_list": [
+                "Y-You're really into it…"
+            ],
+            "color_text_info_list": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I <i>have</i> to get myself fired up. This is it—the year I…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Finally rid myself of the dishonorable title of \"Third-Prize Collector!\"",
+            "choice_data_list": [
+                "\"Third-Prize Collector\"?"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Natie has done this raffle every year since we first got to know each other…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "But no matter how many times she tries, she always gets the third-place prize. It became the talk of the town for a time since it was so impressive! All that talk has mostly died down now, though."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Three, three, three! The number three follows me around everywhere I go!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But that ends today. With this beautiful raffle ticket that I purified at the shrine a hundred times over…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'll summon all the luck in the world and win the grand priiiiiize! Hot spring vacation, here I come!",
+            "choice_data_list": [
+                "(She's gone nuts…)"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Do it with me, Trainer! We're going to break the curse!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I grip the lever with Nice Nature, who looks full of all manner of frustrations and even enmity, and turn the raffle tumbler's lever."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What…what did you just…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Natie… You've won. The grand-prize, the coupon for the hot spring vacation… It's all yours!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tra… T-Trainer… I-I-I won the grand-prize!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And it's for a <i>hot spring!</i> My favorite place! Can you believe it?!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh! I mean… ahem. Excuse me, I'm too old to get carried away like that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But wow. The gods must've finally decided to show me some sympathy."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyways, tell everyone about this, okay? Tell them that Nature snatched the grand-prize."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Of course! I'll put it on the front page of the community newspaper too!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I've got the perfect headline. \"Natie Redeems Herself and Sets Off for Hot Spring Vacation Paradise with Trainer!\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah—wait!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wh-whaaaat?! Me and T-Trainer?! On a hot spring vaca—"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh, is that not what you're doing?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Th-that's r-ridiculous! Why would I go to a hot spring with my trainer?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gah!",
+            "choice_data_list": [
+                "Well, it's your prize…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "N-no, Trainer, that's not what I meant! What I was trying to say was…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahhh! You know what?! You take it!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, it's not like I wanted to go to the hot spring, anyway. I just wanted to get rid of that stupid title!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Now that I have, I can give the coupon to you."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You go enjoy yourself whenever you want to. Really… I'm okay."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well! I guess I'll get the finest sirloin steak to celebrate my victory before heading home!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I decide to hold on to the coupon for now."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yes! We won the first-prize, Trainer!",
+            "choice_data_list": [
+                "You did it!",
+                "You did it!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm so glad. I seriously could not stand being the \"Third-Prize Collector.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What do you think of that, Gramps?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right, you win. That was great, Natie! With this kinda luck, it's gonna be trophy after trophy!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um, hold on there…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's not exactly how it works… Being lucky doesn't mean I can win…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Right, Trainer?",
+            "choice_data_list": [
+                "That's right.",
+                "That's right."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait, why am I disappointed—",
+            "choice_data_list": [
+                "Nature's going to win because she has what it takes."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha, that's right! My apologies!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm happy you have such an amazing trainer, Natie!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's enough of that kind of talk! Let's go, Trainer!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Now that we've got a delicious hamburger steak, let's get back and fire up the grill!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I'll cook it for you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, we enjoy a delicious hamburger steak prepared just the way Nice Nature likes."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hnnng, so close! But I guess it's not that bad."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "At least I avoided the third-prize. Yeah, I'm calling it a win!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "At any rate… I never realized how big a bushel was. Aren't you being a bit too generous?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Well, the raffle is the main attraction of this shopping district! We gotta go all out with things like this if we want to go…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "\"Viral,\" was it? Natie, you should take a photo of this and post it on your social mixer too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You mean \"social media.\" It's touching seeing you working so hard to keep up with the times, Gramps."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Trainer, I have a favor to ask.",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Can you take a photo for me?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I want to capture this mind-boggling amount of carrots, along with me and the old man."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…It's not like I have any influence or anything, but I can at least tell my friends about it.",
+            "choice_data_list": [
+                "Gotcha!"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Natie… you're such a good kid. I still remember when you were just a tot…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You didn't know me when I was a kid, silly. Come on, smile for the camera!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I snap a picture Nice Nature with a big smile, holding a mound of carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You've extended your record, unfortunately. I'm sorry, but it is what it is."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Welp, I did it again. I've gotta accept defeat."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm starting to suspect that this is some sort of superpower at this point. Should I donate myself to a lab?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Juuust kidding. It's just a game, right? Thanks for the carrot."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Crunch into sweetness galore! They say fresh carrots are the best carrots!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yup, that's the stuff, I'm feeling rejuvenated already! Ha ha ha!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "…She's frustrated."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, despite her wishes, Nice Nature once again defends her title of \"Third-Prize Collector.\""
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tissues? I don't even know what to say."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I guess this one is the most practical, which isn't so bad, but…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You even said you went to the shrine a hundred times. I'm kinda sad that I couldn't see a miracle either."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "C-can you not? I kinda feel guilty. But more than anything…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's super embarrassing! Why did I say all those things in the heat of the moment?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You summoned all the luck in the world…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah! Stop! Forget what I said!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The people of the shopping district tease Nice Nature, wearing her out."
+        }
+    ]
+}

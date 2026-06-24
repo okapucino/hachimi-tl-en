@@ -1,0 +1,41 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "What a massive haul! You did great!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "This should be more than enough! Thanks a ton, Teach!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Hehe.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nothin' much. Seeing you flaunt your skills has got me itchin' for a little competition!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Let's see who can get the most prizes! You in?!",
+            "choice_data_list": [
+                "I thought you didn't have any money."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Oh, right."
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

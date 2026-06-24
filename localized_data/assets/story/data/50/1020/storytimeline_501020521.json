@@ -1,0 +1,42 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While on my way to the office, I bump into Seiun Sky."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmn… So sleepy…",
+            "choice_data_list": [
+                "Maybe you're napping too much.",
+                "Maybe you're napping too much."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "C'mon, drop that already. I've just been kind of obsessed with watching chess tournament videos late into the night."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They're fun and make me think about what I would have done. Plus I can learn new strategies too."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The matches are so intense. I'd love to play in one someday."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i> I couldn't manage a match right now though…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky dreams of a chess showdown, but it looks like the sandman already has her in checkmate."
+        }
+    ]
+}

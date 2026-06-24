@@ -1,0 +1,252 @@
+{
+    "title": "Sweepy and the Legendary Teachings",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, check out that poster! \"In just two days, the floor magician finally appears among us!\"",
+            "choice_data_list": [
+                "Uhhh, I don't think it's what you're picturing…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Well, we won't know until we see! I want to meet that magician! If I say we're going, we're going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Remembering all the duds we went to before, I can't help but think this one is going to turn out the same. But…",
+            "choice_data_list": [
+                "All right, let's check it out!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If this is what she wants, then even if it isn't magical, I want to take her and make sure she has a good time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Whoa! This place is crazy! All these people are making so much noise, it's got my head spinning! This must be one of the witch gatherings I've heard so much about!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And on top of that, it's a mystery when and where the magician will appear! Isn't that so fitting for a magician?! But I'm definitely gonna find them!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The magician will be making a surprise appearance on a stage somewhere in the venue. I imagine it will be somewhere everyone can see them.",
+            "choice_data_list": [
+                "Why don't we head toward the central sta—"
+            ]
+        },
+        {
+            "name": "MC",
+            "text": "Oh! It looks like we've got a surprise performance near the entrance! The fresh new singer, Adam, is taking the stage!"
+        },
+        {
+            "name": "Cheerful Guy",
+            "text": "Where are you going?! You're gonna miss it! Come on, let's run to the entrance together!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Where do you think you're going, Familiar?! I'm gonna go to the central stage without you!"
+        },
+        {
+            "name": "Cheerful Guy",
+            "text": "Wait, you're here to see the magician?! I assumed you were here for Adam! My bad! Here, let me give you some info…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Look who finally decided to show up! Aren't you a lucky familiar, having a master like me who'll let you get away with making me wait?",
+            "choice_data_list": [
+                "I got some info on the magician!",
+                "I got some info on the magician!"
+            ]
+        },
+        {
+            "name": "Boisterous Audience",
+            "text": "Yay! Let's make some noooise! This is awesome!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "WHAT ARE YOU SAYING? I CAN'T HEAR ANYTHING!",
+            "choice_data_list": [
+                "A-anyway, let's go this way!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph. So this is where the magician is gonna be? Well, I do see some people that look like staff walking around!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Cough, cough…</i> Ugh, I might have hurt my throat yelling earlier. I hope I can still talk to the magician…",
+            "choice_data_list": [
+                "I'll get you a drink!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yummy! ♪ Good work, Familiar! All we need is the magician and everything'll be perfect!"
+        },
+        {
+            "name": "Audience",
+            "text": "The magician is gonna come from over here! Let's get closer to the fron—oh no!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud! Splash!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ah! My limited edition drink! And my favorite socks!",
+            "choice_data_list": [
+                "I-I'll get them cleaned up right away!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Are you serious?! The magician finished while we were cleaning my socks?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, this outing also ends in failure. Worst of all, Sweep Tosho chose the event herself this time.",
+            "choice_data_list": [
+                "…Sorry. All I do is mess things up."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "… Ugh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Seriously, what are we gonna do with you? You mess up once, and then you start tripping all over yourself. You've got no spine!",
+            "choice_data_list": [
+                "Ouch…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How can you think this was a failure?!",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Listen here. You're like the poster child of a brand-new familiar! Don't you get that?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're not a genius magical girl like me. You can't expect to be perfect!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And even I wasn't always like this. Why, way back when…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Cough, cough, cough!</i> Ugh! Why did the pot explode like that?!"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "That was quite a show! But it's okay. As long as you aren't hurt, everything is fine."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's not fine at all! All the ingredients have gone to waste. I even burnt the pot…"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "Now that you know that can happen, you'll be more careful next time. Right?"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "That's how everyone improves. You didn't fail. You're building a foundation for success!"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "There's no need to be upset. Just keep building that foundation!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Granny told me there's no such thing as failure, and I think she was right about that."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's the same for you!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Last time, you just believed anyone who said magic was involved, but you took that mistake to heart and really looked into things this time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Sure, you didn't really handle things very well at the witch gathering, but now you've learned and can do better next time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You worked hard and you've made a lot of progress as a familiar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, keep up the good work and no slacking off! That's what I need from a familiar!",
+            "choice_data_list": [
+                "Thank you for saying that!",
+                "So you've noticed how hard I've been working?",
+                "So you've noticed how hard I've been working?",
+                "I'm gonna be the best familiar ever!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, keep up the good work and no slacking off! That's what I need from a familiar!",
+            "choice_data_list": [
+                "Thank you for saying that!",
+                "So you've noticed how hard I've been working?",
+                "So you've noticed how hard I've been working?",
+                "I'm gonna be the best familiar ever!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey now, don't start celebrating just yet! I'm not saying that I'm satisfied."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Let's see… I'm hungry, so go find me something sweet! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho has a big grin on her face. I promise her that I'll keep working hard to make her happy."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's not like I've been watching you! I just happened to notice you looking all panicked and mopey is all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Anyways! You're my familiar, so no more looking pathetic or I'll punish you with magic next time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't like to show it, but she does care. Knowing that fills me with joy and warms my heart."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's the spirit! Nice to see you motivated!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All righty, then! I want you to be the strongest familiar ever, so I can brag about you to all the other witches!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Someday you'll be known as Great Witch Sweepy's familiar!"
+        }
+    ]
+}

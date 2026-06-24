@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Ugh… Gag me with a spoon! I'm done for…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My skin is a mess. I should just bag my face…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Blech! I really need to be more careful about sunburn!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I should buy a sun hat, arm covers, and a sweet pair of sunglasses."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Aww, but I wish I could enjoy the nice weather more… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky seems to be suffering from skin problems."
+        }
+    ]
+}

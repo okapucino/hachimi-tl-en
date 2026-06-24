@@ -1,0 +1,455 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day before Spring Fan Fest."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All right, then… Decorating team, follow me to the next location!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait… Trainer?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Don't you have something better to do? Like… work? You shouldn't slack off too much, you know.",
+            "choice_data_list": [
+                "Ahaha… You sure are working hard, Dober.",
+                "You sure are working hard, Dober!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Did you come here to check on me? Hehe… Thanks.",
+            "choice_data_list": [
+                "Ahaha… You sure are working hard, Dober.",
+                "You sure are working hard, Dober!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I asked the student council if I could help out with Fan Fest this year."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You know how Air Groove is such an amazing student council vice president?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I thought that if I tried leading something like this, I'd be able to figure out how to be more like her.",
+            "choice_data_list": [
+                "I see…",
+                "I see…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ack, this is no time to be chatting! I have to get back to work."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, sorry! I have to get going! There's so much left to do. The student council sure is busy."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If you're going to be slacking off anyway, you might as well come and see things on the day of!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "See you later, Trainer. I'll be sure to make some time for you on the day of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch Mejiro Dober lead the younger students off, looking every bit like the Empress herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch Mejiro Dober lead the younger students off, looking every bit like the Empress herself."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why, I can hardly believe one student is doing so much! Mejiro Dober is proving herself an industrious worker."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "However… Hm. You do not look too pleased."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Sorry to cause you concern. I never can hide anything from you, can I?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Even so, there's nothing I can say to sway Mejiro Dober."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes. I understand."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, it's finally time for the Spring Fan Fest."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooo!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So yeah! Dober's gone and gotten herself a fever!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, now that we're on the same page, let's gooo!",
+            "choice_data_list": [
+                "Where to?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm no match for an Umamusume, especially one as strong as Taiki Shuttle, so resistance is futile."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle hoists me over her shoulder and carries me off to…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, Dober! The Taiki Visitation Express has arrived!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I know you're trying to be quiet, but you're still really loud. My head hurts, so could you please…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer?! What are you doing here?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Taiki, did you drag my trainer here?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Drag? Of course not! The Taiki Express treats its passengers to a firefighter's carry!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's the same thing! U-urgh… My head…",
+            "choice_data_list": [
+                "D-Dober! You should lie down!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What's with the ruckus in here? Dober's supposed to be restin' right now."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-oh no! Hishiama's here! Trainers aren't allowed in the dorms!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No problemo! Just leave this to me, Dober! I've got a plan!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, partner! Well…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm off to do somethin' dangerous and real terrible!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What?! What're you talking about?! Taikiiiii! Get back here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Because of Taiki Shuttle's quick and clever (?) thinking, I avoid getting caught."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, um… the student council duties were more intense than I thought.",
+            "choice_data_list": [
+                "Did you push yourself too hard?",
+                "Did you push yourself too hard?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes… Stupid, I know…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I've still got a long way to go before I can be like Air Groove."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, forget about that. Trainer, I…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm just reaping what I sowed, so you don't have to stay. Go and enjoy the Fan Fest."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm just reaping what I sowed, so you don't have to stay with me. You should go back and enjoy the Fan Fest."
+        },
+        {
+            "name": "Monologue",
+            "text": "Contrary to her words, the look on her face suggests she'd rather have company as she fights off this fever."
+        },
+        {
+            "name": "Monologue",
+            "text": "Contrary to her words, the look on her face suggests she'd rather have company as she fights off this fever."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I'm not allowed in the dorm, I really shouldn't stay long, but I can't just leave her like this.",
+            "choice_data_list": [
+                "Is there anything I can do for you?",
+                "Is there anything I can do for you?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? You'd… do me a favor?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Really?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, wait! …Ugh, what's gotten into me? Must be the fever."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Can I really ask you for something?",
+            "choice_data_list": [
+                "You can ask for anything.",
+                "You can ask for anything."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-okay, then…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That apple over there… Could you peel it?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Could you, um… put your hand on my forehead?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Have I ever told you? I, um… I like fruit, so…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "When I was little, Ryan would do that for me whenever I had a fever, and… it helped me sleep better."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Please?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Please?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, while listening to the hustle and bustle of Fan Fest in the distance, I peel an apple for Mejiro Dober…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, while listening to the hustle and bustle of Fan Fest in the distance, I rest my hand on Mejiro Dober's forehead…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What is this, a monster? Wait, is it supposed to be a rabbit?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Your hand…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Is this really the best you could do? Haha, pretty sad… Mm, it tastes good."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's so… warm."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not for long, but Mejiro Dober and I spend some quality time together."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next morning…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stay with Mejiro Dober until she falls asleep, then leave the dorm quietly."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "How are you feeling, Dober?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Did you sleep well? I brought you a present!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "A present? What is it?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hehe. Well…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ta-dah! It's all the fan letters you got at Fan Fest!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So many kind words…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! They're all rooting for you, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(They're not just about my races. People are saying they feel encouraged by my words and attitude… I don't really get it, but…)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Now you have no choice but to get better fast, hm?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next morning…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Dober! How's your fever?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Air Groove! I'm all better now!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um… I'm sorry about yesterday! I said I would help, then ended up being useless on the day of."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I'm all ready to go again! I'm going to do my best."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "My best to become more like you, that is."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Dober…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're in your senior year already. We're both fighting for victory on the same stage now."
+        },
+        {
+            "name": "Air Groove",
+            "text": "So I want you to listen to me very carefully."
+        },
+        {
+            "name": "Air Groove",
+            "text": "These are my last words for you as one who walks before you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Mejiro Dober. As you are right now, the future and glory you crave are far beyond your reach."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Because those are things that only one person in the world can ever claim."
+        },
+        {
+            "name": "Air Groove",
+            "text": "And that person is Mejiro Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wh-what do you mean by that?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I told you those were my last words for you. You'll need to figure out the rest on your own."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now if you'll excuse me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "W-wait! Hold on!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Air Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Dober. I'm proud of you, my beloved successor."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But role models are meant to be surpassed."
+        },
+        {
+            "name": "Air Groove",
+            "text": "One day, you will part the clouds with your own hand and become a shining light yourself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I will wait patiently for that moment."
+        }
+    ]
+}

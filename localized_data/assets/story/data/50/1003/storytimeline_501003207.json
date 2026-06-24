@@ -1,0 +1,34 @@
+{
+    "title": "ジャパンカップにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the biggest race of the autumn season: the Japan Cup."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaddya think, Trainer? Am I looking ultra-sharp?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's my big day! Gotta show off how much I've grown!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I trained and trained and finally made it here!",
+            "choice_data_list": [
+                "Seems like your resolve has grown stronger too.",
+                "Seems like your resolve has grown stronger too."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. And you've grown a lot more trainer-like!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, I'm off! I'm gonna give it everything I've got!"
+        }
+    ]
+}

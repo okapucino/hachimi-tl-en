@@ -1,0 +1,277 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the turn of the new year, Mejiro Bright enters her classic year."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle, rattle…</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, your tutelage proved invaluable over the course of last year."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I look forward to further guidance from you this year. It's my honor.",
+            "choice_data_list": [
+                "I'm honored too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…I'm not sure whether I responded in the proper manner, but our conversation is still going, so let's call it good.",
+            "choice_data_list": [
+                "By the way, Bright, do you have any New Year's resolutions?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, resolutions! Well, I do have one in mind, of course."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It's to perform well at the Classic Triple Crown and bring further glory to the Mejiro name."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright is typically one to take things slow, but she shows zero hesitation with her answer. She can see her goal as clear as day."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I mean to try especially hard at the Satsuki Sho and the Japanese Derby, as neither of those has yet been won by a Mejiro.",
+            "choice_data_list": [
+                "Really?",
+                "Really?"
+            ],
+            "color_text_info_list": [
+                "Japanese Derby"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, she's right. No member of the Mejiro family has claimed victory at either the Satsuki Sho or the Japanese Derby yet."
+        },
+        {
+            "name": "Monologue",
+            "text": "If her sights are set on those races… she might already have scoped out the potential competition, too.",
+            "choice_data_list": [
+                "You can't let your rivals beat you at the Satsuki Sho!",
+                "You can't let your rivals beat you at the Satsuki Sho!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oooh… My \"rivals\"?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pardon me, Trainer, but who might you be referring to?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ah… It seems she doesn't have her competition marked yet. Well, when it comes to Mejiro Bright's peers, there's…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "So… You're aiming for the Satsuki Sho, are you, Bright?",
+            "color_text_info_list": [
+                "Bright"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I haven't nailed down my running style yet. Hopefully, I'll have a clearer picture of it in time for the Japanese Derby…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka. She's a quiet Umamusume who keeps to herself.",
+            "color_text_info_list": [
+                "Silence Suzuka"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her indecisiveness influences her running and is limiting her success. Expectations for her classic year admittedly aren't the highest."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes! I see it! I see all, Bright! You intend to run run run in the Classic races, yes?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I expect a mighty rival will make an appearance! Well, I'm referring to myself there, of course. That's assuming I can fill those cleats, anyway!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru—she's into fortune-telling and the supernatural.",
+            "color_text_info_list": [
+                "Matikanefukukitaru"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks like she's doing her best, but rumors abound that she's relying a little too much on luck at the moment."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Suzuka, Fukukitaru… We've spoken from time to time, but I've only just realized now.",
+            "color_text_info_list": [
+                "Suzuka",
+                "Fukukitaru"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "We joined the Twinkle Series at the same time, didn't we?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Mejiro Bright, who tends to march to the beat of her own drum, only saw those two as conversation partners. As for her rivals themselves, though, surprising no one…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…I hadn't paid it any mind either. I've been focused entirely on refining my running."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Likewise! I've been devoting all my efforts to increasing my luck parameters!"
+        },
+        {
+            "name": "Monologue",
+            "text": "None of them have pegged the others as threats… They're all so busy finding themselves that they don't have the headspace to even consider rivals."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pardon me, Trainer. Given that it's the start of a brand-new year, and there are actually two individuals I'd like to get to know better…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Who do you think I should choose to spend time with? There's always the option of spending the time alone, of course."
+        },
+        {
+            "name": "Monologue",
+            "text": "How to spend New Year's with her peers… What should I suggest?",
+            "choice_data_list": [
+                "Braid Suzuka's hair.",
+                "Admire some bonsai alone.",
+                "Invite Fukukitaru to play with dolls."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, that does sound fun. Dear Suzuka, I wonder if you wouldn't mind letting me braid your gorgeous hair?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've loved braiding since I was a child, you see…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Braid it? I mean, I wouldn't mind…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Then let's begin."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "La la laaa, la la laaa. ♪"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… Bright? You've been at this for a while. Are you almost finished?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, not at all. I'm still brushing your hair. I've yet to begin the braiding. ♪"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…So this is going to take quite a while longer, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright makes sure that every strand of Silence Suzuka's hair is perfectly in place, and even while having fun, she grows more patient through the process as well."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Admire bonsai alone… Yes, that might be nice. I can frolic with my school friends anytime I like, after all…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I must bid the two of you farewell for the time being. I'm off to observe the bonsai."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Tonk… Tonk…</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…Ahh."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Wow…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright is simply admiring the bonsai trees when…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer? I've come to a realization…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It is said that each bonsai tree is akin to a miniature universe, but upon observing them…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I would posit that they are not universes, but trees after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "…Words fail me. Still, this venture has definitely been a soothing one for Mejiro Bright."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Play with dolls… Ah, yes, Fukukitaru, what are your thoughts on this little one?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Her name is Maki, and she's <i>ever</i> such a good girl."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh! For you to have a doll like this in your possession, Bright, you must be <i>truly</i> devout."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That is your charm—your protection, no? A doll that sustains injuries in your stead!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…Pardon me?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well, katashiro dolls have been used in Misogi purification ceremonies for millennia…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And this doll has absorbed any and all calamities that would have befallen you, Bright. How fortunate…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, dear me. Poor Maki…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright heads to the shrine to hear some Shinto teachings and comes away having learned a thing or two."
+        }
+    ]
+}

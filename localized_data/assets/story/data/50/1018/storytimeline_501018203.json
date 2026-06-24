@@ -1,0 +1,161 @@
+{
+    "title": "オークスにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Japanese Oaks. We arrive early and are heading to the waiting room, when…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sorry, but do we have some time before we head in?",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'd like to have a look at the course before I run. Is there time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove seems more nervous than usual. I decide to okay her request."
+        },
+        {
+            "name": "Monologue",
+            "text": "The first race hasn't even yet begun, but the stands are quite full already."
+        },
+        {
+            "name": "Male Fan",
+            "text": "We're gonna witness history today! I wanna see the Empress follow in her mom's footsteps and win the Japanese Oaks with my own eyes!"
+        },
+        {
+            "name": "Female Fan",
+            "text": "You said it! I really, really hope Air Groove wins!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's evident that the crowd has a heightened interest in today's race—or perhaps I should say, in Air Groove's performance today."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…I wonder what was going through my mother's mind when she took on the Japanese Oaks."
+        },
+        {
+            "name": "Air Groove",
+            "text": "How strange… To be here myself, yet thinking of that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove has a point—it's not like her to be so pensive.",
+            "choice_data_list": [
+                "You've never asked her about it?",
+                "You've never asked her about it?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Once, but I was quite young at the time. I remember how she responded even now."
+        },
+        {
+            "name": "Air Groove",
+            "text": "\"If you really want to know, then try running there yourself.\""
+        },
+        {
+            "name": "Air Groove",
+            "text": "\"If you give the race everything you can muster, I'm sure you'll understand how I felt.\" That's what she told me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…What's with that look?",
+            "choice_data_list": [
+                "You strike me as pretty different from her.",
+                "You strike me as pretty different from her."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "When it comes to the big questions, my mother doesn't like to hand out answers. She believes it's more effective to let you find them for yourself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "She has a broad outlook that I can't hope to fathom, and her words always have a deeper meaning."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's only natural that you wouldn't understand her words. Especially when I myself am still puzzling over them."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove's tone is as abrasive as ever, but her expression is slightly softer than usual when speaking of her mother. She looks almost… childlike."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together with the new perspective on what the Japanese Oaks means to her, it makes me see her in a new light.",
+            "choice_data_list": [
+                "I guess in the end, you'll just have to try it and see.",
+                "I guess in the end, you'll just have to try it and see."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh. To think you'd be the one to tell me that. But you're absolutely right."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll do exactly as my mother said and give this race everything I can muster."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll show everyone that I can catch the queen.",
+            "color_text_info_list": [
+                "queen"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sorry for wasting your time with this. Let's get ready."
+        },
+        {
+            "name": "Caster",
+            "text": "It's that time of the year when nature blooms into the fullness of its beauty!"
+        },
+        {
+            "name": "Caster",
+            "text": "Which of these dazzling young stars will take the crown and become Queen of the Oaks?!"
+        },
+        {
+            "name": "Caster",
+            "text": "Many eyes are cast upon Air Groove! Can she follow in her mother's footsteps?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "We can hear the cheers from the crowd even here. Now, as for Air Groove…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…All right."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her state of intense focus gives her a more dignified air than I've ever seen.",
+            "choice_data_list": [
+                "You're going to be fantastic.",
+                "You're going to be fantastic."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I know. I'm going to surpass everyone's wildest expectations."
+        },
+        {
+            "name": "Monologue",
+            "text": "The race is about to begin!"
+        }
+    ]
+}

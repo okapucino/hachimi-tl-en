@@ -1,0 +1,29 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During lunch, I spot Daiwa Scarlet looking flustered."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't believe it! Ugh… This doesn't make sense! I don't even eat that much!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So why does my uniform feel so tight? Trainer! I need to do some training, pronto!",
+            "choice_data_list": [
+                "Time to burn off those calories!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Grrrrrr! That's the plan, you carrot-brain! Just don't say it out loud!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After exercising furiously—in both senses of the word—Daiwa Scarlet successfully returns to her usual weight."
+        }
+    ]
+}

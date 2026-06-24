@@ -1,0 +1,220 @@
+{
+    "title": "ナデシコ・ガール",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After spending some time out with Grass Wonder…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Look at that, Trainer. The setting sun's reflection on the river is so beautiful."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh? Did something just fall in?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ugh… I was so sure this scenery would jog my memory! Grrr!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Taiki? What are you up to?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Grass! I'm just here rackin' my brain over somethin' I forgot from earlier! It's drivin' me nuts!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I wonder what it could be…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It's some Japanese poem I learned in class! It's got somethin' to do about a frog fallin' in some water."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don'tcha worry, though. That splash ya heard just now was a stone I threw, not a frog. Hahaha!",
+            "choice_data_list": [
+                "A frog… in water?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, is it the haiku written by the famous poet Matsuo Basho?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Uhhh… The name kinda rings a bell…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But the Japanese was kinda complex, so I can't remember what it meant!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh dear…",
+            "choice_data_list": [
+                "Why not tell her in English?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, I declare! Givin' me the English is sure to do the trick!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Very well. If I recall correctly…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "By an old pondside, A frog leaps and breaks the still With watery thump."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! That's the one! No doubt about it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It's such a beautiful poem! Like that wabi-sabi whatchamacallit, right?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. I think it's expressed well in English too."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Its form and rhythm creates a faithful representation of the original, allowing the haiku to touch the hearts and minds of people around the world."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's right! It's super pretty!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, that sure takes a load off of my shoulders! Thanks a bunch!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "One can always count on a proper Nadeshiko gal like you havin' your studies all in order!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, I'll catch y'all at a later time. I'm fixin' to go hunt some jumpin' frogs!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "No more skipping stones, though!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Taiki is such a ball of energy."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Still, did she call me a \"Nadeshiko gal\"? What a curious phrase…",
+            "choice_data_list": [
+                "Maybe I'll start calling you that too.",
+                "You bridged a gap between Japan and America.",
+                "You bridged a gap between Japan and America.",
+                "\"Nadeshiko gal\" has a nice ring to it.",
+                "\"Nadeshiko gal\" has a nice ring to it."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Still, did she call me a \"Nadeshiko gal\"? What a curious phrase…",
+            "choice_data_list": [
+                "Maybe I'll start calling you that too.",
+                "You bridged a gap between Japan and America.",
+                "You bridged a gap between Japan and America.",
+                "\"Nadeshiko gal\" has a nice ring to it.",
+                "\"Nadeshiko gal\" has a nice ring to it."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Dear me… That would make things a little awkward, wouldn't it?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Why, if you were to use that name, I might have to follow suit and call you \"Trainer Samurai\"!",
+            "choice_data_list": [
+                "Umm… Can't say I'm exactly a fan…"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Right? Now, let's be on our way, Trainer Samurai. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we set out back to the academy, I fervently beg Grass Wonder to go back to addressing me normally."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehehe. That's nice of you to say."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm glad that I was able to connect two places I love.",
+            "choice_data_list": [
+                "Tell me more about America sometime.",
+                "Tell me more about America sometime."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Gladly. You can rest assured this Nadeshiko gal won't disappoint you."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Nothing would make me happier than to teach you about my home. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder regales me with stories about America all the way back to the academy."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I've taken a liking to it."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I think I'm more of a Nadeshiko gal than a traditional Yamato Nadeshiko."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'd actually love it if my fans could call me that when they cheer for me at races, too."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It really shows the inspiration I draw from both my homes—Grass Wonder, a Yamato lady <i>and</i> an American gal.",
+            "choice_data_list": [
+                "Let's make it happen."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I'm counting on you, then."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Japan and the US. You and I. In each case, both elements are essential."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A single strand doesn't make a rope. With you by my side, I believe it may come to be. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I strengthened my determination to reach the top with Grass Wonder."
+        }
+    ]
+}

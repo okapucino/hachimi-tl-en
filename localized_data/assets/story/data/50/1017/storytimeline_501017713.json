@@ -1,0 +1,66 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I escort Symboli Rudolf to the infirmary after she suffers an injury during training."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This is nothing, Trainer—hardly more than a bruise. It will heal in no time."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I were to falter at a scratch like this, I would be ashamed to call myself Emperor."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why, I could resume training tomorrow if you wanted. Haha…",
+            "choice_data_list": [
+                "Absolutely not. You're resting up.",
+                "I was hoping you'd say that!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah… I had hoped a little humor would reassure you, but it seems to have had the opposite effect."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My apologies. I see now that putting up a brave front is not always the best answer."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent! In that case—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf makes to get up, only to freeze mid-motion.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…It seems I was a little hasty in my assessment. I may need time to recuperate after all."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So much for sparing my dignity…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Then we are of one mind. No hardship is too onerous for the Emperor."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm always vigilant for opportunities to put my ideals into practice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This is one such time. I will not be undone by a minor mishap!"
+        }
+    ]
+}

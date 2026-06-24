@@ -1,0 +1,46 @@
+{
+    "title": "宝塚記念にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Captivated by Agnes Tachyon's performance at the Osaka Hai, many fans have come today to cheer her on."
+        },
+        {
+            "name": "Fan A",
+            "text": "Agnes Tachyon is running in the race today!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I might've heard of that name. Who is that again?"
+        },
+        {
+            "name": "Fan A",
+            "text": "She's a strange one! But for some reason, I can't help but want to root for her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well well, there's quite a few fans present.",
+            "choice_data_list": [
+                "The more the merrier!",
+                "The more the merrier!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yes. It's an excellent opportunity to further research the significance of crowd support."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Still…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We're here at a GI race with the full support of the crowd! All procedures are in place! Heh-heh-heh!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "How far can we go today? My body is tingling with anticipation!"
+        }
+    ]
+}

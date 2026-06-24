@@ -1,0 +1,120 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I drop by the dance studio to pick up some stuff I forgot, only to find it occupied."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant, pant…</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> This choreography is pretty tough. There's nothing special about it, but it's still tricky…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, hey, Trainer. Didn't realize you were there."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature is practicing hard, but I notice something about the choreography…",
+            "choice_data_list": [
+                "Isn't that dance for the side positions?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "This? Yeah… I have a feeling I'll be dancing these parts a lot."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So doesn't it make sense to focus on them when practicing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her defeatist attitude towards her own potential takes me aback, and I'm left struggling for words.",
+            "choice_data_list": [
+                "Respect her choice.",
+                "Recommend practicing for the center spot."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh… I was expecting you to tell me to practice for the center spot."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature knows what works for her best. I'd rather respect how she feels than rush her."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I don't want to deny her potential either. That's why…",
+            "choice_data_list": [
+                "At the same time, let's make it the most captivating performance ever!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You and your silver tongue…",
+            "choice_data_list": [
+                "You can do it, Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, all right. Thanks.",
+            "choice_data_list": [
+                "You know what, let's dance together!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's not necessary."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tone says she's annoyed, but her expression softens a little."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Center spot, huh? I figured you would say that."
+        },
+        {
+            "name": "Monologue",
+            "text": "She has the potential to come in first place, but most importantly, I don't want her to give up from the get-go.",
+            "choice_data_list": [
+                "I <i>know</i> you can win!",
+                "I <i>know</i> you can win!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, right…",
+            "choice_data_list": [
+                "We just have to work hard! Come on!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, all right. If you say so."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't know how good my dancing will be, considering how late I'm starting."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But hey, if you believe in me, then maybe…",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nothiiing!"
+        }
+    ]
+}

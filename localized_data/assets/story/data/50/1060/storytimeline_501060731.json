@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Whoooa. I'll admit it, I'm impressed.",
+            "choice_data_list": [
+                "Here you go.",
+                "Here you go."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? Really? But I'm sure there are others who would appreciate this gift more…",
+            "choice_data_list": [
+                "I just want to see you smile.",
+                "I just want to see you smile."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Umm… As I said, plushies aren't my style. That said… I do appreciate it, though."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, give 'em here. Thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

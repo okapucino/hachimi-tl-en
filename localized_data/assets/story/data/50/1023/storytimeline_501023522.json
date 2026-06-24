@@ -1,0 +1,44 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day during training, Biwa Hayahide seems rather preoccupied with her hand."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ngh… Not another hangnail…",
+            "choice_data_list": [
+                "Does it hurt?",
+                "Does it hurt?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No, it's fine. I just ran out of hand cream."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I chose it specifically because the ingredients are perfect for my skin, but there's a shortage right now, so my hands are rougher than usual."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This is quite the predicament…",
+            "choice_data_list": [
+                "Why don't we look for some other hand cream for you?",
+                "Why don't we look for some other hand cream for you?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What? Oh no, I'm fine! I'm sure my usual hand cream will be back in stock soon."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Er, this has nothing to do with my running, so you don't have to check my hands or anything, right?"
+        },
+        {
+            "text": "Biwa Hayahide seems rather abashed by the condition of her skin."
+        }
+    ]
+}

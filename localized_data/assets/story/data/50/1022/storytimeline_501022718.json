@@ -1,0 +1,32 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Morning, Trainer!",
+            "choice_data_list": [
+                "Did you enjoy your time off?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I did! My friend and I shared some Irish tea, and then we prepared some local dishes from the region I grew up in. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My colcannon went down a treat! I'd like to make some for you as well sometime!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm not yet used to cooking, but that's one dish I can serve with confidence!",
+            "choice_data_list": [
+                "I hope I have a chance to try it."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. It's a promise, then! ♪ You'll have to let me know what you think of it!"
+        }
+    ]
+}

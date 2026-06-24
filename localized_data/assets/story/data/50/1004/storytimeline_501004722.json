@@ -1,0 +1,34 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, it's nothing. I just have a little headache."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "They say that beauty brings misfortune, and that has me worried…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! Psych! ☆"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Nngh, ouch…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky tries to play it off, but it's clear that the headache is really bothering her."
+        }
+    ]
+}

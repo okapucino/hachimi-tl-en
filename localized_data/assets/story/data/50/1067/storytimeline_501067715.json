@@ -1,0 +1,106 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After finishing training for the day…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you for your guidance today."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…Oh."
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Satono Diamond's gaze to find Kitasan Black training hard."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Pant… Pant…</i> Almost there! Just one more lap!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…Um, Trainer. Actually, would you mind if I did some additional exercise today?",
+            "choice_data_list": [
+                "You shouldn't push yourself too hard…"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's just… I saw a video of Kita racing the other day."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She's improved quite a bit. She's gotten much faster…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It made me a bit nervous. But more than that… it made me want to run so badly!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's like she's lit a fire under me! So… please say yes!",
+            "choice_data_list": [
+                "If that's how you feel, then, go for it!",
+                "If that's how you feel, then, go for it!",
+                "Let's save that fire for tomorrow."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's like she's lit a fire under me! So… please say yes!",
+            "choice_data_list": [
+                "If that's how you feel, then, go for it!",
+                "If that's how you feel, then, go for it!",
+                "Let's save that fire for tomorrow."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you so much! Okay, I'm going to run some more!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm not going to let you beat me, Kita!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with thoughts of her rival driving her forward, Satono Diamond executes a brilliant solo training session."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Tomorrow? Um… I really don't think I can wait that long!",
+            "choice_data_list": [
+                "Bottle up those feelings and let them explode."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…I understand. But promise me I can train to my heart's content tomorrow!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "…In that case! Let's watch that video of her in your office for today!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That way, I'm sure I'll get even more excited and I can work even harder tomorrow!",
+            "choice_data_list": [
+                "Sure, why not?!",
+                "Sure, why not?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Great! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we study Kitasan Black's race intently while Satono Diamond provides a passionate commentary."
+        }
+    ]
+}

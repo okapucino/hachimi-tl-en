@@ -1,0 +1,49 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of Narita Brian's debut is finally here."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…There's a lot of competition.",
+            "choice_data_list": [
+                "You think so?",
+                "You think so?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I check the list, but there's a normal number of racers for a debut race.",
+            "color_text_info_list": [
+                "debut race"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…This is <i>normal?</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Incredible!",
+            "choice_data_list": [
+                "You kind of look happy.",
+                "You kind of look happy."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hmph. How I'm feeling now doesn't really matter."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I won't know anything until I run. But this just might be the place that actually fulfills me."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…All right, it's time. My Twinkle Series debut starts here."
+        }
+    ]
+}

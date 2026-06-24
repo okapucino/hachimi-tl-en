@@ -1,0 +1,218 @@
+{
+    "title": "ライスのヴァンパイア退治大作戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "Uhhh… Where am I? Why am I here?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Is anyone here? Big Brother… Anyone?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Is anyone here? Big Sister… Anyone?"
+        },
+        {
+            "name": "???",
+            "text": "I've found you, Sable Assassin."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gyah! Wh-who are you?!"
+        },
+        {
+            "name": "Vampire",
+            "text": "Mwahaha, I have come to visit you. I am the King of Darkness—a vampire."
+        },
+        {
+            "name": "Vampire",
+            "text": "Now, come with me. I shall make a feast of your blood!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gyaaaaah!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…And then I woke up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower seems low on energy during training. I ask her about it and she tells me about a nightmare she had."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm so sorry. I know how important getting enough sleep is!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "This is all my fault!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm the one who recommended that vampire book…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "No, it's not your fault, Rob Roy! I was the one who asked… I was just a bit curious with Halloween coming up…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It was scary, but a dream is just a dream. All you have to do is wake up… I'm fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, sleep deprivation won't do any good for her training. We can't let this continue…",
+            "choice_data_list": [
+                "Should we get you a protective charm?",
+                "Let's defeat that vampire!",
+                "Let's defeat that vampire!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, sleep deprivation won't do any good for her training. We can't let this continue…",
+            "choice_data_list": [
+                "Should we get you a protective charm?",
+                "Let's defeat that vampire!",
+                "Let's defeat that vampire!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "A protective charm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower looks confused, so I show her a pair of replacement cleats I brought with me."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Is there something special about those cleats?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I see! They say cleats can function as a protective talisman!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I've read that the fairies who bring nightmares hate iron… We should hang those up in our dorm room immediately!",
+            "choice_data_list": [
+                "Do you need more? I can get them if you do.",
+                "Do you need more? I can get them if you do."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "More?! Where would we even put them?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe. I'll help as well. Should we hang one at the entrance to the dorm too?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "In that vein, I've heard that sage can also prevent bad dreams. Do you want to go pick some with me?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rob Roy… Big Brother…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rob Roy… Big Sister…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank you. As long as I have you two, I'm sure everything will work out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower's smile has returned. The next morning, she announces that she slept well."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that no matter how powerful they might be, a vampire is probably no match for an Umamusume who trains hard."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "R-really? If you say so, I guess it must be true…",
+            "choice_data_list": [
+                "All right. I'll play the vampire, then.",
+                "All right. I'll play the vampire, then."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "R-really? If you say so, I guess it must be true…",
+            "choice_data_list": [
+                "All right. I'll play the vampire, then.",
+                "All right. I'll play the vampire, then."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh?",
+            "choice_data_list": [
+                "<i>Groan… Hiss!</i>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eeeek!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower dashes away in the blink of an eye. She may be screaming, but I can't help but notice how strong her start is!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Just like that, Rice! If you can picture this while you're dreaming, I'm sure that nightmare won't bother you any longer!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Really? Okay, I'll do my best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, our vampire eradication training continues…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Great work! How are you feeling, Rice?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff… Puff…</i> I don't think I'm as scared anymore!",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah… but I've realized something."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "If the vampire is actually someone like you, I don't want to defeat it… I'd rather be friends."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "If the vampire is actually someone like you, I don't want to defeat it… I'd rather be friends."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "So… ummm… the next time they show up in my dream, I'll do my best to befriend them!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower is too kind for her own good."
+        }
+    ]
+}

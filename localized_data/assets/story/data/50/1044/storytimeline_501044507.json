@@ -1,0 +1,93 @@
+{
+    "title": "Fan Letter",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Sweep Tosho brings me along on a search for new magic ideas, when…"
+        },
+        {
+            "name": "Woman A",
+            "text": "Sweep Tosho! I just thought of a new spell! Would you mind taking a look at it?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A new spell? But this is just a letter!"
+        },
+        {
+            "name": "Woman A",
+            "text": "It's not just a letter! I put an enchantment on it. When you expose it to a life source, words appear!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Well, we can't just sit here! Let's go, Familiar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Ergh, why?! No matter how much light I shine on it or how much I beg Sylph, nothing shows up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Light nurtures life, wind carries seeds… They're both life sources! I don't know what the heck else w—"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she says that, a somewhat familiar woman walks right up to us.",
+            "choice_data_list": [
+                "Hey, it's the woman from earlier…"
+            ]
+        },
+        {
+            "name": "Woman A",
+            "text": "Ah, I'm so thirsty. I think I'll have myself a sip of water from my trusty water bottle!"
+        },
+        {
+            "name": "Woman A",
+            "text": "<i>Gulp, gulp, gulp…</i> Phew! Just what the doctor ordered! Water really is the source of all life!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The source of all… That's it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho rushes to the river and splashes water on the letter."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ooh! There's letters! Letters are appearing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Um… \"I'm always rooting for you. Good luck in your next race!\"",
+            "choice_data_list": [
+                "It's a fan letter!",
+                "It's a fan letter!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I can't believe she went through all the trouble of writing me a magic letter!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Talk about dedication! That's what a true fan of the genius Magical Girl Sweepy looks like!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm not about to be outdone! I need to cast an awesome spell back and show her just how different our powers are!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, Familiar! Let's head back and get studying! Hehe. ♪"
+        },
+        {
+            "name": "Woman A",
+            "text": "Oooh, she's going to cast me a spell back! I'm glad I thought so hard about my letter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho seems enthusiastic. The love of her fans really might be its own magic."
+        }
+    ]
+}

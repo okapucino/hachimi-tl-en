@@ -1,0 +1,38 @@
+{
+    "title": "ままならない体調",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Upon hearing that Mejiro Ardan collapsed in the middle of class, I sprint to the infirmary."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "Are you all right?!",
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes… Just embarrassed. It was a history lesson, you see, and I got a little overzealous…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But it was just a dizzy spell. I feel right as rain at the mome—ngh…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…My body appears to be protesting any sort of physical exertion today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Such a complicated feeling. I'm not sure whether it's assuring or not that I can tell I'm at my limit…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After letting out a deep sigh, Mejiro Ardan lies down in bed."
+        }
+    ]
+}

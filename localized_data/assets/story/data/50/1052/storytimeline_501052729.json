@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "So close! I thought you had it there for a second…",
+            "choice_data_list": [
+                "I'm sorry I couldn't get it for you.",
+                "I'm sorry I couldn't get it for you."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "No problem! There's no way I could have gotten it either!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growl…</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, I'm starving! How about we get some carrot ice cream on the way back?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

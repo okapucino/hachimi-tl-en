@@ -1,0 +1,155 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin isn't feeling very motivated, so I take her to a shrine."
+        },
+        {
+            "name": "Monologue",
+            "text": "We pray and draw our fortunes."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I was wondering where you were taking me, but a shrine? Really?",
+            "choice_data_list": [
+                "I thought it would make you feel better."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh…</i> If wishes really came true so easily, there would be literally no more suffering in the—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hang on… Taishin?! Is that you? Heeeey!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, you two came to pray too?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "We're about to leave. We already prayed and got our fortunes and everything."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaat?! Don't go yet! Do it again so we can make a wish together! Please? Pleeease?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Praying twice is better than once, and doing it three times is even better! The more you pray, the more likely your wish'll come true!",
+            "choice_data_list": [
+                "…Is that how it works?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "At Winning Ticket's insistence, we get back in line to pray."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, gods—and the Buddha too! Grant my wiiiish!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This is a Shinto shrine, Ticket. The Buddha isn't here."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Why the heck am I even doing this?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, what fortunes did everyone get? I got \"good fortune\"!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I got \"modest fortune.\" Not bad. What about you, Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…I got \"great fortune.\"",
+            "choice_data_list": [
+                "That's amazing, Taishin!",
+                "That's amazing, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's not like it's super rare or anything."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's not true! Not everyone has great luck, after all!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If you combine it with my good luck and Hayahide's modest luck, your wish will definitely come true!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm sure you'll feel totally better in no time!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, I suppose we should tell you. We actually came here to pray for your good health."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We want to race you when you're in top fighting shape after all."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Did you two really…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, who asked you to do that?! You boneheads!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward, it seems like their wishes come true with Narita Taishin making a full recovery."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…I got \"great misfortune.\"",
+            "choice_data_list": [
+                "D-draw again!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah, yeah! They say you always get a \"great fortune\" after drawing that one!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "However… it appears that they've run out of fortunes."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaat?! Does that mean Taishin's stuck with the worst possible luck?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't really care, actually…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But you <i>should</i> care! Oh, poor Taishiiin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Geez… Shut up already! And stop crying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she's able to calm Winning Ticket afterward, Narita Taishin's condition unfortunately doesn't improve."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "大吉カモン！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I pay a visit to a shrine with Taiki Shuttle."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We made it to the shrine! It's so quiet and peaceful!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Woiya, woiya! Hoiya, hoiya!",
+            "choice_data_list": [
+                "(Way to disturb the peace!)"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Namu, namu! Woiya, hoiya! Come ooon, great fortune!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Fukukitaru! Whatcha doin'?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, hello there, Taiki! I was just praying for great fortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You see, I've received a divine charge from the great Shiraoki. I must pull \"great fortune\" on a fortune slip at the shrine."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Why don't you join me and try your luck, Taiki?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, fortune slips! That got something to do with the fortune-telling stuff you're always goin' on about?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I love when ya tell me 'bout all that! It's awful fun!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I wanna try pullin' in a whole mess of happiness!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oho, you <i>are</i> known for spreading happiness! With you around, I'm sure to get great fortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay, let's go! Fortune, come our way!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ahoooyyy! Bring on the fortune!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Great fortune, pretty please! All right, let's give this a go!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer, look! I really got me a \"great fortune\" slip!",
+            "choice_data_list": [
+                "Nice!",
+                "Nice!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yippee! I like this fortune slip pullin' thing!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "H-how come Taiki drew \"great fortune\" and I pulled \"great <i>mis</i> fortune\"?! What is happening?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No! Don't give up, Fukukitaru!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "If you draw a ton of 'em, I'm sure you'll get \"great fortune\" eventually!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Taiki, that's not how you're supposed to pull fortune sli—wait, hang on!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Shiraoki didn't specify about the number of slips I could pull… I still have a chance!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's the ticket! Give it another shot, Fukukitaru!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hoooo! One more try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, the two of them leave with \"great fortune\" slips."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now we both get to be happy! Somethin' real good must be on its way! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aw shucks. I pulled \"great misfortune.\"",
+            "choice_data_list": [
+                "Oh…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't worry, Taiki! Your luck can only get better from here!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This is a message worthy of exaltation! Even in times of great havoc, your good fortune will never falter."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Fukukitaru… I can't understand all those difficult words…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Great misfortune brings great happiness!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Great misfortune brings great happiness?! Then I'm in luck! Yeehaw!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle looks happy enough… but it doesn't change the fact her slip has \"great misfortune\" on it."
+        }
+    ]
+}

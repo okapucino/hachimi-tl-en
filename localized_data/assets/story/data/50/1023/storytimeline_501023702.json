@@ -1,0 +1,186 @@
+{
+    "title": "カフェで読書を",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide and I have been out walking for quite a while."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We've gone a pretty long way. You must be tired."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Since we still have plenty of time, why don't we take a break and have some tea before heading back?",
+            "choice_data_list": [
+                "Good idea."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "One of my favorite cafes is around here, so let's go there."
+        },
+        {
+            "text": "She leads the way to our destination."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's just past that corner over there."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh? That's strange…",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They're closed, though they're usually open at this time…",
+            "choice_data_list": [
+                "Maybe they're taking a day off."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Perhaps. Well, let's try somewhere else."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I heard a nice outdoor cafe just opened down the street."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I haven't been there yet, but this is the perfect opportunity to try it."
+        },
+        {
+            "text": "We arrive at a very fancy cafe with a sign declaring it to be owned and managed by a celebrity barista."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Wow, a celebrity barista runs it? It's no wonder this menu is so elaborate."
+        },
+        {
+            "text": "This seems like a place for the younger crowd. There are dozens of drinks to choose from, and the selection of desserts is just as varied."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This is nothing like the establishments I usually frequent, but it's the perfect place to bring a friend."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It deserves a spot on my list, for sure."
+        },
+        {
+            "text": "With a highly skilled hand, Biwa Hayahide writes down the cafe's name.",
+            "choice_data_list": [
+                "Do you go to cafes often?",
+                "Do you go to cafes often?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, sometimes with friends, and sometimes just by myself."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They're the perfect place to read a book on a rainy day.",
+            "choice_data_list": [
+                "That does sound nice.",
+                "That does sound nice.",
+                "Can you recommend any other places?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They're the perfect place to read a book on a rainy day.",
+            "choice_data_list": [
+                "That does sound nice.",
+                "That does sound nice.",
+                "Can you recommend any other places?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "At first, I was merely looking for a nice spot to read at, but now it's become something of a habit."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh. Speaking of books, there's one I'd like to recommend to you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's an autobiography by a legendary Umamusume…"
+        },
+        {
+            "text": "She takes the book out from her bag almost <i>too</i> nonchalantly.",
+            "choice_data_list": [
+                "…Do you always walk around with books in your bag?",
+                "…Do you always walk around with books in your bag?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes. I know it's rare in this age of digitization, but…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I think I've just gotten used to having books in my bag. It helps me feel at peace.",
+            "choice_data_list": [
+                "I see.",
+                "I see."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…Anyway, this book is <i>quite</i> interesting."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I think you could learn a lot from it as a trainer. Why don't you give it a try?",
+            "choice_data_list": [
+                "Thanks! I think I will!"
+            ]
+        },
+        {
+            "text": "I spend some time reading with Biwa Hayahide…"
+        },
+        {
+            "text": "While I'm at it, I gain some direct insight into how she hones her intellect on a daily basis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But first, I need to know your criteria.",
+            "choice_data_list": [
+                "Criteria?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes. For example, do you plan to go on a weekday or the weekend? And will you be there in the morning, afternoon, or evening?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Do you plan to go by yourself or with others? Additionally, are you looking for somewhere that specializes in food or in drink?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course, there are also the issues of location and how far you are willing to travel."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The more information you can give me, the more well-equipped I'll be to recommend you a place."
+        },
+        {
+            "text": "For a moment, I feel like I'm talking with a real estate agent because of how detailed her inquiries are."
+        },
+        {
+            "text": "But with her quick thinking and analytical skills, she really is able to make the best possible recommendation for me."
+        }
+    ]
+}

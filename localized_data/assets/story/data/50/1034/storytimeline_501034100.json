@@ -1,0 +1,392 @@
+{
+    "title": "イナリワン登場！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "If ya just perk up those ears of yours, you'll be able to hear it."
+        },
+        {
+            "name": "Inari One",
+            "text": "Piercin' the sky, shakin' the earth, and grippin' your very soul!"
+        },
+        {
+            "name": "Inari One",
+            "text": "That's right! It's the sound of a festival, burstin' with heart and style!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You there, and you! Take a moment and lend me your ear!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Born 'n' raised among the real locals, I'm the Umamusume with Oi flair! It's me, the Edo girl—Inari One!",
+            "color_text_info_list": [
+                "Inari One"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Lemme spin ya a tale like no other, of an all-out battle of legendary proportions! The grand festival of the Twinkle Series!",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Keep your eyes on me 'til the very end!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Starting today, Inari One and I are officially taking on the Twinkle Series!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Umamusume races are largely divided into two categories."
+        },
+        {
+            "name": "Monologue",
+            "text": "One is the Twinkle Series, which is governed by the URA. These are the central races.",
+            "color_text_info_list": [
+                "URA"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The other category comprises races overseen by the National Association of Umamusume, also known as NAU.",
+            "color_text_info_list": [
+                "National Association of Umamusume",
+                "NAU"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "These races—referred to as <i>regional</i> races—are run mainly on dirt at racecourses like Oi, Kasamatsu, and Funabashi."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One, being associated with the Oi team, was expected to run her debut as a regional racer."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I just had to try scouting her after being captivated by her running. Eventually, she developed an interest in central races."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with the support of the people from her hometown, Inari One transferred to Tracen Academy and signed a contract with me.",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that she and her hometown folks have put their trust in me, I can't let any of them down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With renewed determination, I make my way to the training track, when…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Bring it ooooon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Beneath the clear skies, Inari One's booming voice echoes across the training track."
+        },
+        {
+            "name": "Inari One",
+            "text": "The great Inari's burnin' hot today!",
+            "color_text_info_list": [
+                "Inari"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fierce and sharp, every step she takes seems to hammer her raw fighting spirit into the earth. The spectacle stirs my very soul.",
+            "choice_data_list": [
+                "(Watching her never gets old!)"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Whew! Tracen Academy track's in real proper shape today. Gotta give the maintenance folks props!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, Boss! What the heck? How long ya been standin' there?",
+            "choice_data_list": [
+                "Sorry for making you wait.",
+                "Sorry for making you wait."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, Boss! What the heck? How long ya been standin' there?",
+            "choice_data_list": [
+                "Sorry for making you wait.",
+                "Sorry for making you wait."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, no need to apologize. Figured I'd get here a lil' early and do some warmin' up 'fore ya came."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, no needa apologize. Figured I'd get here a lil' early and do some warmin' up before ya came."
+        },
+        {
+            "name": "Inari One",
+            "text": "Welp, we're finally here! The start of our quest through the Twinkle Series! The long, flowery road to glory for the great Inari!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Aww yeah! Can't wait to get out there 'n' race! I'm gonna send fireworks into the sky with my victory!",
+            "choice_data_list": [
+                "Let's make sure you do well in your debut race first!",
+                "Let's make sure you do well in your debut race first!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You bet! Don't pull any punches with my trainin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya know, though… I'm sure gettin' a lotta stares today.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "There's this group eyeballin' me since I started runnin'. Look, check out the seats."
+        },
+        {
+            "name": "Student A",
+            "text": "Hmm, so that's the transfer student. She seems pretty capable… but a bit rough around the edges, wouldn't you say?"
+        },
+        {
+            "name": "Student B",
+            "text": "Regional racers really run differently, don't they? They say that girl from Kasamatsu has a pretty unique form too."
+        },
+        {
+            "name": "Student A",
+            "text": "Heh. Let's see how far they'll make it."
+        },
+        {
+            "name": "Inari One",
+            "text": "Tch, same ol' story. Scopin' out the new kid to see what the big deal is.",
+            "choice_data_list": [
+                "Does it bother you?",
+                "Does it bother you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "It's a bit annoying havin' so many eyes on me, but nothin' worth fussing over. This academy doesn't get many transfers after all."
+        },
+        {
+            "name": "Inari One",
+            "text": "Let 'em flap their mouths now. Once they see me in a real race, they'll be eating those words!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hasn't changed a bit since arriving here—always standing tall and brimming with confidence. As her trainer, I need to rise to the same level."
+        },
+        {
+            "name": "Inari One",
+            "text": "Anyway! Time to refocus 'n' get back to the track! What's the game plan for today?",
+            "choice_data_list": [
+                "First, I want to set a goal."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "A goal? Well, I don't have anything specific in mind, but…"
+        },
+        {
+            "name": "Inari One",
+            "text": "The Twinkle Series is huge. I wanna turn <i>that</i> into my own, ultimate festival!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Then I wanna stand right there at the heart of the festival 'n' roar out a declaration!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Here I am, Inari One! I'm the Edo Uma, born 'n' bred in Oi!",
+            "choice_data_list": [
+                "That's a good goal, very like you!",
+                "That's a good goal, very like you!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, for real? We must think alike, eh, Boss?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, izzat right? We must think alike, eh, Boss?"
+        },
+        {
+            "name": "Inari One",
+            "text": "'Kay, with that set, let's get right to trainin'! I can't sit still anymore!",
+            "choice_data_list": [
+                "Yeah, let's start!",
+                "Yeah, let's start!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with increased determination, Inari One and I begin our training session."
+        },
+        {
+            "name": "Inari One",
+            "text": "I worked up a real sweat today! Can't wait for a great bath after this!",
+            "choice_data_list": [
+                "Nice work out there!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! You too, Boss! Let's keep it up tomorrow—"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! You too, Boss! Let's keep it up tomorrow—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Inariii!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Look at you! You were more fired up than usual, hm? ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. Like Creek said, that was some powerful footwork.",
+            "color_text_info_list": [
+                "Creek"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The two Umamusume who call out to Inari One are two runners destined to become her future rivals."
+        },
+        {
+            "name": "Monologue",
+            "text": "One is Super Creek, recognized for her stamina and tactical prowess, with all the makings of a future champion.",
+            "color_text_info_list": [
+                "Super Creek"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The other is Oguri Cap, who, like Inari One, transferred from the regional circuit and has slowly been turning heads with her extraordinary talent.",
+            "color_text_info_list": [
+                "Oguri Cap"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, you guys've really been tearin' it up too, though! I can tell jus' by lookin' at ya!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Heehee. ♪ Well, seeing you putting in so much effort made me realize I can't afford to lose."
+        },
+        {
+            "name": "Super Creek",
+            "text": "We might be competing in the same races after all!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Since I come from from Kasamatsu, it's been really great seeing another regional racer giving it their all."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But just so you know… I won't hold back if we end up competing in the same race. I have no intention of losing."
+        },
+        {
+            "name": "Inari One",
+            "text": "That's what I like to hear! Comin' at me with a challenge right off the bat!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm lookin' forward to the day we all put on one helluva festival!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. See you around then."
+        },
+        {
+            "name": "Super Creek",
+            "text": "If you'll excuse us. ♪"
+        },
+        {
+            "name": "Inari One",
+            "text": "I really can't afford to fall behind. I feel like <i>I'm</i> the one walkin' away here with the bigger motivation boost."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that she mentions it, Inari One saw Oguri Cap and Super Creek racing when she first visited Tracen."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't doubt they'll give her that extra push by becoming her rivals."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, yeah! I almost forgot! Do you have a lil' time after this?",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, yeah! I almost forgot! Do you have a lil' time after this?",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Annnd, we're done!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following our training session, Inari One changes clothes and proceeds to carry several tatami mats into my office, laying them out on the floor like an island."
+        },
+        {
+            "name": "Inari One",
+            "text": "Sorry, Boss, but I jus' can't relax without these."
+        },
+        {
+            "name": "Inari One",
+            "text": "Sorry, Boss, but I jus' can't relax without these."
+        },
+        {
+            "name": "Inari One",
+            "text": "Since I'll be spendin' a lotta time in here with ya from now on, I figured I'd go ahead 'n' borrow a bit of floor space!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, let's share a drink to mark the occasion. I'll brew us some tea."
+        },
+        {
+            "name": "Inari One",
+            "text": "I said this before, but I'm really lookin' forward to workin' together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us sit on the tatami mats, steaming cups of tea raised, and make a vow for our journey ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "We share a final moment of peace before we throw ourselves into the war zone of the Twinkle Series!"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Satono Diamond…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! Look at that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Satono Diamond's gaze to a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "There's no mistake. It's the latest arcade cabinet from our affiliate company!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I heard it would be launching soon, and it looks like it finally has."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hey, Trainer! Would you mind trying it out for me?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I've been following its development, so I can't wait to see it in action!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "How about this? If you win a lot of plushies, I'll, um… give you a special prize!",
+            "choice_data_list": [
+                "Sure, I'll give it a shot!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yay! Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

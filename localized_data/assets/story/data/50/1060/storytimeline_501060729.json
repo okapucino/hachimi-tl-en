@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Daaang… Well, gotta keep your chin up, right?",
+            "choice_data_list": [
+                "Well, this is embarrassing…",
+                "Well, this is embarrassing…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, no, no. It's really not a big deal!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If it were easy, arcades would go out of business."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Don't worry about it. Why don't we grab some ramen on the way home?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sometime around the middle of February, as I walk by the station with King Halo…"
+        },
+        {
+            "name": "High School Passerby A",
+            "text": "Hey, look! Is that the Umamusume everyone's been talking about? Is that King?"
+        },
+        {
+            "name": "High School Passerby B",
+            "text": "Are you serious?! I heard she'll take a picture with us if we ask. I wonder if it's true."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! That depends entirely on my mood!"
+        },
+        {
+            "name": "High School Students",
+            "text": "Whoa!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You needn't be so surprised. Especially not after I took the trouble to address you in the first place.",
+            "choice_data_list": [
+                "Sorry about King. She's my—"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Excuse you! Since when have I been <i>your</i> anything?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Well? Didn't you two mention wanting a picture a moment ago?"
+        },
+        {
+            "name": "High School Students",
+            "text": "Um, ah… Yes…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Right. Then I grant you the right to have your picture taken with me. Tag the image with \"King is the best\" and \"Takamatsunomiya Kinen,\" won't you?"
+        },
+        {
+            "name": "High School Students",
+            "text": "Really? Are you sure you don't mind?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, of course not. Your king is both generous <i>and</i> merciful!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! Now, isn't this a photo you'll remember for the rest of your lives?"
+        },
+        {
+            "name": "High School Passerby A",
+            "text": "Oh my gosh, yes! It's adorbs! Thanks, King!"
+        },
+        {
+            "name": "High School Passerby B",
+            "text": "Please, take this friendship chocolate as a thank you gift! We've got some for you too, mister!"
+        },
+        {
+            "name": "High School Passerby B",
+            "text": "Please, take this friendship chocolate as a thank you gift! We've got some for you too, miss!"
+        },
+        {
+            "name": "King Halo",
+            "text": "For me? Th…"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Th-thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Swept up in the moment, I also receive some friendship chocolate."
+        },
+        {
+            "name": "King Halo",
+            "text": "Friendship chocolate… Hehe. A couple of fans just gave me some friendship chocolate.",
+            "choice_data_list": [
+                "Yeah, they seemed to really like you.",
+                "Yeah, they seemed to really like you."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, well of course. Why wouldn't they?"
+        },
+        {
+            "name": "King Halo",
+            "text": "If I keep this up and boost my popularity, then—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click!</i>"
+        },
+        {
+            "name": "Loud Paparazzi",
+            "text": "Yesss! I got the pic! I can already see the headline for this juicy scoop—\"Social Media Slave? The Shallow Musings of a Wannabe Celeb!\""
+        },
+        {
+            "name": "Elderly Passerby",
+            "text": "Wait, is that the legendary Umamusume socialite? They spoke about her on the talk show the other day…"
+        },
+        {
+            "name": "Woman with Child",
+            "text": "Oh yeah, the one who caused a big fuss when she suddenly changed her goals."
+        },
+        {
+            "name": "Monologue",
+            "text": "Drawn in by the paparazzi, the passersby shoot dubious looks our way. King Halo, however…"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Excuse me, Miss Paparazzi. Wait a moment, please."
+        },
+        {
+            "name": "Loud Paparazzi",
+            "text": "What? You want copy approval or something? You can wait until the article is published like everyone el—"
+        },
+        {
+            "name": "King Halo",
+            "text": "No, that's all right. You're welcome to criticize my behavior. I do use media people like you to benefit myself, after all."
+        },
+        {
+            "name": "King Halo",
+            "text": "But you're absolutely <i>not</i> welcome to use the photo you just took."
+        },
+        {
+            "name": "King Halo",
+            "text": "If your article ends up causing trouble for those girls who gave me chocolate… Well, let's just say I won't let you off lightly."
+        },
+        {
+            "name": "Loud Paparazzi",
+            "text": "<i>Gulp…</i>",
+            "choice_data_list": [
+                "I'd like a word with you too."
+            ]
+        },
+        {
+            "name": "Loud Paparazzi",
+            "text": "Eep!"
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time we get back to the academy after settling things with the paparazzi, it's already dusk."
+        },
+        {
+            "name": "King Halo",
+            "text": "\"Trainer Presses Paparazzi!\" \"Who Is the Figure behind the Famous Young Socialite?!\""
+        },
+        {
+            "name": "King Halo",
+            "text": "\"The Value of King’s Choices to Be Tested at the Takamatsunomiya Kinen.\""
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm prepared to hear all sorts of opinions expressed about my behavior, but…",
+            "choice_data_list": [
+                "You were happy getting that friendship chocolate from your fans."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "What? W-well, that's…"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Of course I was happy. I mean, they were expressing their fondness for me.",
+            "choice_data_list": [
+                "I'm glad to hear it!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Why am I so awkward?"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> Today was tiring for both of us, wasn't it? But at least we got some sweets out of it. Let's have some tea."
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, I hereby give you the right to prepare some exquisite tea for yours truly. Chop chop, now."
+        },
+        {
+            "name": "Monologue",
+            "text": "I brew some tea for King Halo, and the tension seems to melt from her face as she savors the chocolate."
+        },
+        {
+            "name": "King Halo",
+            "text": "…Of course I'm happy. I mean, they were expressing their fondness for me.",
+            "choice_data_list": [
+                "Then ignore all the other voices. Just listen to your fans."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…I know that, dummy."
+        },
+        {
+            "name": "King Halo",
+            "text": "But yes. I'll do them the honor of treasuring such gestures."
+        },
+        {
+            "name": "King Halo",
+            "text": "And I shall also do my closest fan the honor of gratefully acknowledging their commitment."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> Even so, today was exhausting. But seeing as we've been given something sweet, let's have some tea."
+        },
+        {
+            "name": "King Halo",
+            "text": "Today, I will grant you the right to drink some tea that I have brewed myself. Do savor its exquisite taste."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even as King Halo prepares the tea, I catch her glancing at the chocolate from time to time and smiling."
+        }
+    ]
+}

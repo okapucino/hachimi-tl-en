@@ -1,0 +1,41 @@
+{
+    "title": "Slacking Off",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time to start training, but I don't see Mejiro Palmer anywhere, so I decide to go looking for her."
+        },
+        {
+            "name": "Girl",
+            "text": "Wow! You're super duper awesome at digging holes!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ehehe! Good, aren't I? How about we connect the tunnels next?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, hey, Trainer. This girl was bored outta her mind, so we're digging tunnels together."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Since you're here anyway, wanna join in?",
+            "choice_data_list": [
+                "Have you forgotten you have training today?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? …Ack!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Omigosh! I'm so sorry! It totally slipped my mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While her kindness toward the girl warms my heart, I still warn her not to forget about our training sessions so easily next time."
+        }
+    ]
+}

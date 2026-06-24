@@ -1,0 +1,42 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Siiiiigh…</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It was like I was trapped in a box."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Everything around me was dark, and I couldn't see a thing. That's not how I want to run.",
+            "choice_data_list": [
+                "Next time, we're going to break out of that box.",
+                "Do you feel like you want to quit?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. Next time, I'll run my way."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'll never give up the lead again."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No. Not at all."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quite the opposite, actually. I won't allow myself to brood endlessly."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I want to step back onto the track as soon as possible… Next time, I'm getting to the front."
+        }
+    ]
+}

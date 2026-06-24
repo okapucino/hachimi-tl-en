@@ -1,0 +1,29 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's right before the race, and when I walk into the waiting room…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hup, hup! Dokkoi-sho!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Phew! There, I'm done warming up! ☆ I nailed my ceremonial sumo stomp, too!",
+            "choice_data_list": [
+                "You sure look like you're ready to go."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I am! I have to make up for my last race being so unmiraculous and non-buono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'd better get ready too! You've gotta prepare to have a blast at my performance, and to smile until your face hurts!"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "title": "Within a World of Illusion",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's our day off, and I'm accompanying Manhattan Cafe to the antique cafe she often visits."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "What should I get today… Oh.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, nothing. I just saw a coffee blend that takes me back a little…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Would you like to try some with me? It tastes good, I assure you…",
+            "choice_data_list": [
+                "Sure thing."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you. I'll go ahead and order it…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "This aroma… Lend your ear to the music… and free your mind of any thoughts."
+        },
+        {
+            "name": "Monologue",
+            "text": "Coupled with the comforting atmosphere, the fragrant coffee puts me completely at ease…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I relax, I come to hear a strange melody playing. I open my eyes to find…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, so you've found your way here too?",
+            "choice_data_list": [
+                "Where am I?!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm not sure… I drank some of that coffee, closed my eyes, and the next thing I knew I was here…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We walk around in search of an exit, but can't find anything that looks like a way out. In that case…",
+            "choice_data_list": [
+                "Since we're here, why don't we have some fun?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I was thinking the same thing… This <i>is</i> an amusement park, after all…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "So, where should we go?",
+            "choice_data_list": [
+                "Let's go into the haunted house.",
+                "Let's ride the ferris wheel."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A haunted house… within an illusion? Hehe, we should probably proceed with caution…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "This illusion is very polished… It's so atmospheric."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe it's a little <i>too</i> polished… I start to feel a chill running down my spine and—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah!",
+            "choice_data_list": [
+                "Wha?!",
+                "Wha?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, I'm overwhelmed by the sensation of falling into a bottomless pit! I throw my hands up in a desperate panic!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Don't worry, I've got you! This way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe yanks me up, and I finally find my footing again."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I think we'd better watch where we step here… Follow me…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Tap, tap!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Manhattan Cafe leads the way, glittering light trails her every step. I follow after her, guided by her light."
+        },
+        {
+            "name": "Monologue",
+            "text": "The scene feels straight out of a dream. Maybe it's because of the terrifying experience I just had, but it feels like each speck of light shines brighter as if to balance things out."
+        },
+        {
+            "name": "Monologue",
+            "text": "Feeling more comfortable, I grow a little sleepy… And when I open my eyes again…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I like the sound of that… I wonder what we'll be able to see from the top…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We walk over to the empty ferris wheel and climb into a carriage. It lurches and sways as it makes the ascent, and just as we reach the top…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear a loud noise! I have no idea what's going on, but I've got to keep Manhattan Cafe safe!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…It's all right. Look up…",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Fireworks… They're so colorful…",
+            "choice_data_list": [
+                "So that sound just now…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It must have been the fireworks…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The fireworks explode, scattering their shimmering sparks. As I watch them, I feel my heart growing calm."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you for protecting me earlier…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I was happy… that you tried to keep me safe…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's somehow rewarding to hear Manhattan Cafe express her gratitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "Feeling more comfortable, I grow a little sleepy… And when I open my eyes again…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Welcome back. I just got here myself…",
+            "choice_data_list": [
+                "What was that just now?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It must have been the taste of the coffee. It caused our senses to resonate and whisked us off to that illusion…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "And the source of the illusion was my own memories… I used to drink this coffee all the time with my parents."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tasting it again brought back the joy I felt in my childhood…",
+            "choice_data_list": [
+                "I had a lot of fun too.",
+                "I had a lot of fun too."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I'm glad to hear that."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You see, it's very… <i>very</i> rare for two people to experience the same illusion…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We walk home, and though it doesn't seem Manhattan Cafe notices, her shadow sways as if it were dancing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe she's actually quite happy to have shared an experience with someone."
+        }
+    ]
+}

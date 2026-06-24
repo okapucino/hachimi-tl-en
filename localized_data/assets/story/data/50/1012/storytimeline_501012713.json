@@ -1,0 +1,116 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I escort Hishi Amazon to the infirmary after she suffers an injury during training."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Come on, I don't need to be patched up. It's nothing serious."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We're just wasting time here, so let's get back to training.",
+            "choice_data_list": [
+                "Let them treat you for my peace of mind.",
+                "Let's refocus real quick and then get back at it."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm telling you, it's not that bad… Ouch.",
+            "choice_data_list": [
+                "So it does hurt after all.",
+                "So it does hurt after all."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It doesn't—well… it does hurt a little, but this should heal up in no time!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We can't put on the brakes every time I get a little scuffed up. Sometimes it's better to push on, you know?",
+            "choice_data_list": [
+                "What if one of your dorm residents said the same thing?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, I would scold her good and make her rest!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Ah, dang it. You got me there."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Fine, I'll rest up and take care of myself… You happy now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After having her injuries treated, she gives herself plenty of time to rest."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Okay, I get your point! I can't let the others see me lookin' so pathetic."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I won't push myself too hard, so—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Owww!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ugh… This isn't good."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I can walk, but running's a whole different story…",
+            "choice_data_list": [
+                "Let's lay off the training till you're better."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, all right. I can't be makin' my injury worse when I've got so many students lookin' up to me as a role model."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon puts her impatience aside and rests up."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'll be the one to decide how I—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…Sorry, I take that back, Teach. Could you tape it up for me?",
+            "choice_data_list": [
+                "Does it hurt?",
+                "Does it hurt?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Not exactly, but it feels a bit off."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I need to get back in tip-top shape if I want to keep on training."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Plus, I'm always telling the younger students to take their injuries seriously."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tape up her injury tightly, and we finish training without further incident."
+        }
+    ]
+}

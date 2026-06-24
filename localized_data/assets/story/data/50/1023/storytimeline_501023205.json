@@ -1,0 +1,34 @@
+{
+    "title": "天皇賞（春）にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Here we are at the Hanshin Racecourse today for the spring Tenno Sho!"
+        },
+        {
+            "name": "Caster",
+            "text": "Which one of these fine competitors will walk away with the coveted spring shield? Narita Taishin and Biwa Hayahide, of the BNW trio, are the two to watch out for today!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "According to the report released yesterday, the turf should have just the right bounce today."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And these weather conditions are similar to when I ran the D course last week.",
+            "choice_data_list": [
+                "You got this?",
+                "You got this?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "All you need to do is sit back and watch my winning equation in action!"
+        }
+    ]
+}

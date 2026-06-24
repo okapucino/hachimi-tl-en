@@ -1,0 +1,271 @@
+{
+    "title": "Path to Pastries!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, Trainer! Are you shopping for something too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "While out buying some pastries, I spot Winning Ticket and Yukino Bijin.",
+            "choice_data_list": [
+                "Yeah, you too?",
+                "Yeah, you too?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Uh huh! Me and Yuki are here to get some 'grammable pastries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe, sorry, Tickezo's just accompanying me."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "When I told her about these pastries I wanna get, she suggested we go together."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Cause if Yuki's interested in them, they've gotta be good!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "C'mon, let's find some photogenic pastries!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide to go shopping together. However, the further we go inside…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "W-wow, this sure is a pastry hot spot… There're so many folks around!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "The shop we want is… Oh no, it's way in the back… What should we do?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hnnghh… Oh, I know!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The other day, Hayahide said, \"If you think logically, nothing is impossible.\" So let's think logically!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Logically? How do we do that?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Uh… Um… Well!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ummm… Hnngh…",
+            "choice_data_list": [
+                "Maybe think up a strategy?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! That's it—a strategy!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But how? What do we do, Trainer?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Studying the crowd, I can think of a few methods…",
+            "choice_data_list": [
+                "Let's try to slip through as quickly as we can.",
+                "Let's keep an eye on the flow of the crowd and move with it.",
+                "Let's wait until the crowd clears out."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There we go! Let's hurry and zoom right through everyone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We squeeze past wherever there's an opening, but the dense crowd doesn't allow us to make much progress."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ugh, I don't feel like we're gett'n through at all.",
+            "choice_data_list": [
+                "Agreed.",
+                "Agreed."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yuki, Trainer, this way! Around the corner!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I found the shop! This is it, right?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm… Yup, that's the one! I'll go buy some!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket showed surprising speed making her way through, so I ask how she did it…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm, maybe because it's just like when I'm running a race?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Like, during a race when I think, \"Okay, time to speed up!\""
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No matter how packed the front is, I put all my energy into that one push!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Winning Ticket has a good trick up her sleeve to move forward in tight situations."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You got them? Woohoo! Pastries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha! ♪ It's all thanks to the two of you!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I know, how 'bout after this, we eat 'em togeth'r? I just have to repay you! ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Can we? Aww, Yuki, you're so… so kiiiind! <i>Sob!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There we go! We'll follow the flow and gooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Moving with the crowd, we proceed straight ahead, then start curving, gradually losing sight of our destination."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? Where was that shop again… This way? Or over there?",
+            "choice_data_list": [
+                "W-well, uh…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You two, this way! Look, that's the shop's sign!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, it is! I'll go buy some!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket was able to move through the crowd without losing her sense of direction, so I ask her how she did it."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm, maybe it's just like when I'm running a race?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "During a race, you kinda gotta decide for yourself when the critical moment to move is."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's weird, but when it happens, I don't feel lost anymore and can just shoot ahead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Winning Ticket has a good trick up her sleeve to make the most of critical moments."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You got them? Woohoo! Pastries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha! ♪ It's all thanks to the two of you!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I know, how 'bout after this, we eat 'em togeth'r? I just have to repay you! ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Can we? Aww, Yuki, you're so… so kiiiind! <i>Sob!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Got it! If we wait a while, there'll be less people, and we'll be able to get there super easy!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Say, Yuki, the ones you want are the 'grammable pastries, right?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But, um, what does 'grammable mean?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jordan says that all the time too, so I've always wondered what it means… Like, pastries your Gramma would like? Maybe?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I hardly know myself, but city girls use it when someth'n looks peachy on the social media!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Peachy, huh? Ah, so when it looks nice in pictures, it looks 'grammable? I see! Yuki, you're so smart!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While they chat, the crowd slowly begins to thin out."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Look, it's getting emptier! Maybe this is the right time to go buy your pastries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right! I'll go get some!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You got them? Woohoo! Pastries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha! ♪ It's all thanks to the two of you!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I know, how 'bout after this, we eat 'em togeth'r? I just have to repay you! ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Can we? Aww, Yuki, you're so… so kiiiind! <i>Sob!</i>"
+        }
+    ]
+}

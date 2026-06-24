@@ -1,0 +1,32 @@
+{
+    "title": "Claw Machine: Failure…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "It really is hard, isn't it? …Oh well.",
+            "choice_data_list": [
+                "Looks like I have to keep trying until—"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! No, Trainer, stop right this instant!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Don't let yourself get sucked into this. You've already done more than enough, so let's just walk away.",
+            "choice_data_list": [
+                "All right…"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, but… I had a lot of fun playing it with you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing…"
+        }
+    ]
+}

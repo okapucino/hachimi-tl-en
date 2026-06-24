@@ -1,0 +1,267 @@
+{
+    "title": "目標達成の後に・目指すは…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as Haru Urara is steadily gaining recognition and nearing the end of her classic year…",
+            "color_text_info_list": [
+                "classic year"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, Trainer! Let's go to that Arima Kinen race thing!",
+            "choice_data_list": [
+                "Arima Kinen?"
+            ],
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen… A very high-profile race where participants are selected through a fan vote."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I heard both Spe and Grass are gonna be in it! They've been training super hard!",
+            "color_text_info_list": [
+                "Spe",
+                "Grass"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sei said she's going too, so I wanna go too!",
+            "color_text_info_list": [
+                "Sei"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure watching some top-class racers will have a positive impact on Haru Urara."
+        },
+        {
+            "name": "Monologue",
+            "text": "Which is why…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We're here to watch the passion-filled Arima Kinen today!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Yaaaay! Woooo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! There's so many people here! I can't believe Spe and the others get to run here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week and Grass Wonder are both among this year's most-watched Umamusume.",
+            "color_text_info_list": [
+                "Special Week",
+                "Grass Wonder"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And a bunch of older Umamusume are racing too! It must be so cool to race alongside them!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oooh, I'm so excited! I hope it starts soon! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The racers walk out onto the track."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, they're here! HEY, SPE!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Spe's face… It looks way different from usual."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "She looks kinda scary. But this is her big day… I wonder what she's upset about?",
+            "choice_data_list": [
+                "She's probably nervous.",
+                "She's probably nervous."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Nervous? Huh? Why?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But I hope she can do her best! You've got this, Spe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the Arima Kinen begins!"
+        },
+        {
+            "name": "Caster",
+            "text": "The results are in folks! The winner is… Grass Wonder! Grass Wonder has won!"
+        },
+        {
+            "name": "Caster",
+            "text": "Special Week loses by a hair! The gold just barely escaped her grasp!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant… pant… pant…</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "I was so close! Just half a step more and…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hnngh… Urrrgh…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That was an excellent race, Spe."
+        },
+        {
+            "name": "Special Week",
+            "text": "Grass…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…I planned on winning in a much more decisive fashion. Frankly, I'm not satisfied with this result."
+        },
+        {
+            "name": "Special Week",
+            "text": "I… I'm not satisfied either! Next time, I'm gonna beat you for sure!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Heh… I look forward to seeing you try. I'll see you again next year."
+        },
+        {
+            "name": "Special Week",
+            "text": "You can count on it!"
+        },
+        {
+            "name": "Crowd",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wowie, wow, wow! That was so <i>amazing!</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Spe and Grass were so cool!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "My heart is pounding! I wonder why?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week and Grass Wonder put on an amazing performance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching their race has opened Haru Urara's eyes. Maybe now, she'll finally…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, I get it! It's because it's the Arima Kinen!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'm sure it's super fun to run in the Arima Kinen!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That's why my heart is beating so fast! Okay, I've decided!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'm gonna enter the Arima Kinen too!",
+            "choice_data_list": [
+                "Wh-what?!"
+            ]
+        },
+        {
+            "name": "Spectators",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Did I hear Haru Urara say she's gonna enter the Arima Kinen just now?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "What? Seriously? There's <i>no way</i> she could get in…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following Haru Urara's declaration, I can hear the audience's confused voices getting louder and louder."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I should be happy she's decided on a goal… but what a difficult goal it is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "However, if she's dead set on it, I have to support her all the way!",
+            "choice_data_list": [
+                "It'll be a long and hard road. Can you handle it?",
+                "It'll be a long and hard road. Can you handle it?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! I'm no quitter!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Woo! Hahaha! See? I'm super pumped!",
+            "choice_data_list": [
+                "You have to do well in a lot of races too, you know?",
+                "You have to do well in a lot of races too, you know?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If Haru Urara wants to enter the Arima Kinen, she'll first have to prove that she's got what it takes by placing high in graded races.",
+            "color_text_info_list": [
+                "graded races"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Well, you'll help me, right? I'll run a bunch, so we'll be fine!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee. I can't wait for next year's Arima Kinen! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I'm going to believe in Haru Urara's resolve. Now that she's set her sights on a big goal, she can move on from her classic year."
+        }
+    ]
+}

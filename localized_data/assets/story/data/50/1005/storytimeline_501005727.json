@@ -1,0 +1,33 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! This is incredible! I can't believe you were able to scout so many talented ponies!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You might have a real knack for producing plays.",
+            "choice_data_list": [
+                "Oh, you're exaggerating."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "No need to be humble. Hark—can't you hear?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The audience is cheering loudly for your skilled direction."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now, it's time for the curtain call! Hold hands, everyone. The curtain is rising!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

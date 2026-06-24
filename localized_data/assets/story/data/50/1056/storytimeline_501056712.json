@@ -1,0 +1,46 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru doesn't show up for training, so I go and look for her…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The omen to beware of lightning… again?! But why? It's so sunny outside…",
+            "choice_data_list": [
+                "You're busy with divining, I see…",
+                "You're busy with divining, I see…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Upon closer inspection… Th-those clouds look kind of menacing, right?",
+            "choice_data_list": [
+                "Aren't you forgetting something? Starts with a <i>t,</i> ends with a <i>raining…</i>",
+                "Aren't you forgetting something? Starts with a <i>t,</i> ends with a <i>raining…</i>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah… haha. Hahahaha…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm sooooo sorry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I give her a storm of a scolding so this doesn't happen again."
+        }
+    ]
+}

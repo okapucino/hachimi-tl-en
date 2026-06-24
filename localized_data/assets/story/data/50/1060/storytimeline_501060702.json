@@ -1,0 +1,183 @@
+{
+    "title": "おふくろからの電話",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from an outing with Nice Nature…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait, someone's calling me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Mom?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sorry Trainer, I gotta take this!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hi, Mom. You never call me like this. What's up?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, yeah… I'm doing okay… I guess."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Really, I'm doing all right. Don't worry about me, Mom!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What?! You're coming here?! When?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aghhh, you always decide to visit so suddenly. All right… Call me later."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> Sorry to keep you waiting.",
+            "choice_data_list": [
+                "So your mom is visiting?",
+                "So your mom is visiting?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah. It's still a bit away, though. Apparently, her friend invited her on a trip."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "They're planning to stay around this area for some time, so I'll go meet them when they come.",
+            "choice_data_list": [
+                "Are you going to invite her to see you run?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa, whoa, slow down there, will ya?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I-I mean, it's not like I don't want her to, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's kind of embarrassing having my mom watch me. It feels like I'm in elementary school…",
+            "choice_data_list": [
+                "I'm sure she'd love to see you run!",
+                "I think it'd be nice!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Y-you think so?",
+            "choice_data_list": [
+                "If I was your parent, I'd be over the moon!",
+                "If I was your parent I'd be over the moon!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Surely her mother has some ulterior motive for coming here."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Nice Nature that, if I was her mother, my biggest motivation for going on this trip would be to see my daughter's progress."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahaha, you're starting to sound like a real parent now.",
+            "choice_data_list": [
+                "I'm your trainer, after all.",
+                "I'm your trainer, after all."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "True, your jobs are pretty similar. But… are you sure?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, about what you said earlier. You know… That my mom would love to see me run.",
+            "choice_data_list": [
+                "Isn't she your number one fan?",
+                "Isn't she your number one fan?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…You're right. Even when I don't do well, she's still cheering for me…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, you win! …I'll invite my mom."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that, as her trainer, I want her mom to know how amazing of a student she is."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Student? Are you my teacher or something?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, you're my trainer, so I guess you technically are my teacher…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But do you think I'll be able to show her anything special?",
+            "choice_data_list": [
+                "You've been hitting all your training goals, so I'd say so!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature seems relieved to hear my positive opinion of her."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, if you're so confident, you must have some tricks up your sleeve, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I hope you're ready for show-and-tell then, <i>Teach.</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Hello, Mom? About your visit…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If you don't have any plans… do you want to come visit Tracen Academy?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, you don't have to come if you're busy! I don't know how fun it'll be just watching me run."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hm? Really? Okay… I'll tell my trainer.",
+            "choice_data_list": [
+                "What did your mom say?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "She said she's coming. And that she's excited."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> Great. I can't be lame in front of her, so guess it's back to training for me…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She pretends to sound fed up, but I can hear the excitement in her voice."
+        }
+    ]
+}

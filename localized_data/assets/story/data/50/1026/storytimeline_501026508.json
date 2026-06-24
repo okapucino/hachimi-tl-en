@@ -1,0 +1,31 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Mihono Bourbon and I have just started our training, but…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant…</i> It appears that system functions are impaired."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Damage to body, not detected. Probable cause—mild exhaustion from racing."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "These issues are minor and will not impact our schedule today. I can continue running as planned.",
+            "choice_data_list": [
+                "Let's not overdo it. Why don't we finish up for today?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Understood. I have failed to execute your orders. I sincerely apologize."
+        },
+        {
+            "text": "She tends to push herself too hard, even when she's tired. It might be best to readjust her race schedule."
+        }
+    ]
+}

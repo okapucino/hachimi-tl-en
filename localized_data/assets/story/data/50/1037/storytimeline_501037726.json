@@ -1,0 +1,49 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Eishin Flash…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Look, they have Umamusume plushies as prizes."
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Eishin Flash is pointing and see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is a glaring absence of detail, but the cute features on them are rather endearing.",
+            "choice_data_list": [
+                "Do you want to give the game a try?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No. There is a large obstacle to winning this game, and that is the machine itself."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Despite the necessity of precise operation down to the millimeter in order to win a prize, the control system is very inaccurate."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Worse, the claw's flawed design makes grasping objects incredibly inefficient. Such conditions are grossly unfair.",
+            "choice_data_list": [
+                "I'll give it a shot instead, then!",
+                "I'll give it a shot instead, then!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You do seem rather confident. Very well, I entrust you with this endeavor."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I ask Super Creek to write her name on a document that needs to be signed…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "…Sorry, but could you turn the other way for a bit?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's just that, um… my skin's flaring up right now."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I've been asked to do a lot of washing and cleaning lately…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And I guess I've been too busy for proper skin care.",
+            "choice_data_list": [
+                "Are you okay? Does it hurt?",
+                "Are you okay? Does it hurt?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I-I asked you not to look! Bad Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to check but get scolded instead. She pushes my face away, so I stare out the window for a while…"
+        }
+    ]
+}

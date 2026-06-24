@@ -1,0 +1,235 @@
+{
+    "title": "ネイチャさんとお疲れトレーナー",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been a busy few days, but it's finally over…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Deciding to treat myself, I drag my tired body to the shopping district."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey there, Trainer! Wait up!",
+            "choice_data_list": [
+                "Nature?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I knew you were busy, but I didn't expect you to push yourself this hard."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I can't stand seeing you like this, so here, let me treat you."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The shop's not open yet, so there aren't any customers. Why don't you wait in the karaoke section in the back?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature brings me to the corner of a bar.",
+            "choice_data_list": [
+                "Where are we?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I know the lady who owns this place. She said we could use this space after I explained the situation."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'll go make something simple… I can't guarantee it'll be good, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few minutes later, Nice Nature comes back with some fried rice.",
+            "choice_data_list": [
+                "All of this, for me?",
+                "All of this, for me?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "She said I should feed you as much as you need."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Go ahead and start eating before it gets cold.",
+            "choice_data_list": [
+                "Whoa! You could totally open a restaurant!",
+                "Whoa! You could totally open a restaurant!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The fried rice not only looks professionally prepared, but it tastes like it too! I can't stop eating."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're so dramatic. It's just something I picked up from when I used to help my mo—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Holy cow! You've already finished?",
+            "choice_data_list": [
+                "It was just that good."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No need for flattery. You must've been starving. Here, give me the plate."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch her as she leaves."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe it's because I just ate so much, but I start to drift off…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "La… la la… ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…La la la… ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh? Did I wake you up?",
+            "choice_data_list": [
+                "What were you singing?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's a song my mom used to sing at the counter. I don't really know much beyond the melody though."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I was thinking about those times and just started singing… Sorry.",
+            "choice_data_list": [
+                "Actually, I wanted to hear more."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You and your flattery again. It's not necessary, you know.",
+            "choice_data_list": [
+                "I really do like your singing.",
+                "If you sing like that at concerts, it'll be perfect!",
+                "If you sing like that at concerts, it'll be perfect!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You and your flattery again. It's not necessary, you know.",
+            "choice_data_list": [
+                "I really do like your singing.",
+                "If you sing like that at concerts, it'll be perfect!",
+                "If you sing like that at concerts, it'll be perfect!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O-okay, if you say so. You really are strange…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I'm relieved that you said you liked it, instead of saying my singing is \"good.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That kind of pressure really gets to me, you know? It makes it all the worse when I end up not living up to such praise.",
+            "choice_data_list": [
+                "Nature…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, sorry for getting serious.",
+            "choice_data_list": [
+                "I like it when you share your serious thoughts too."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What… You're crazy…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You keep saying things like that, and it'll lose its meaning."
+        },
+        {
+            "name": "Bar Owner",
+            "text": "Are you all done, Natie?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Thanks for letting us use the bar. It was a huge help."
+        },
+        {
+            "name": "Bar Owner",
+            "text": "You must be the trainer Natie's been talking about. She's told me so much ab—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oookay! That's enough! Let's go, Trainer!",
+            "choice_data_list": [
+                "So you've been talking about me?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "We're. Done. Here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The owner watches us warmly as we take off."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wow… You're still thinking about winning concerts even after working so much?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "This has been on my mind for a while now, but… aren't you pushing yourself a little too hard?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I feel like you'll burn out if I don't keep my eye on you.",
+            "choice_data_list": [
+                "That won't happen."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I beg to differ."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "One sec. I'll go make you a rice ball for later."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're just going to continue working when you get home, right?",
+            "choice_data_list": [
+                "You know me too well.",
+                "You know me too well."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey! At least pretend like you won't!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I leave the bar with a loving lecture and a late-night snack from Nice Nature."
+        }
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Narita Brian and I head to the shopping district to buy some equipment one day after training."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…What's going on over there?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "So, it's a raffle. Come to think of it, didn't you get a ticket earlier?",
+            "choice_data_list": [
+                "Want to give it a go?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Well there's no point in not using it, right?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Okay."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hand it over."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "My sister always says that I'm good at turning the tumbler. Just watch."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hand the raffle ticket to a strangely confidant Narita Brian."
+        },
+        {
+            "name": "Monologue",
+            "text": "She steps up boldly and spins the lever of the raffle machine."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the ticket for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Oh… the grand prize.",
+            "choice_data_list": [
+                "That's amazing!",
+                "That's amazing!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Haha, you're a little too happy. You look just like my sister."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Every time I won a prize, she would clap her hands and run up to get it."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "But that's ancient history. Anyway, I'll give you the prize this time.",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Why not? You're the one who got the ticket to play in the first place."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "All I did was spin the lever. If anyone deserves the prize, it's you.",
+            "choice_data_list": [
+                "But you went to all the trouble…"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hah. You're taking this too seriously."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Fine. I'll use it when I decide the time is right. Okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Narita Brian ends up taking the ticket for the hot spring vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hm… Another delicious-looking prize."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oho, you've got a good eye! Actually, the retail value of this hamburger steak is… <i>mumble, mumble.</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What?! Are you insane, giving away something this extravagant as a raffle prize?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>…Gulp.</i>"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I recommend you eat it soon. All food is best when it's fresh!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Let's hurry back and get cooking, Trainer."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Who knew you could get meat like this from a raffle…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian and I head back to the school faster than usual."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Oh, we won something..",
+            "choice_data_list": [
+                "Nice job!"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Not bad, getting second prize and all!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Come on, don't praise me over something like this. It's embarrassing.",
+            "choice_data_list": [
+                "But it's impressive!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…I said cut it out already. Geez…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian splits the carrots with me, looking slightly embarrassed."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Third place.",
+            "choice_data_list": [
+                "Winning anything at all is still lucky!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hmph."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah, I guess so. Raffles are like that."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "At least the prize is a carrot. It's good luck getting something I can eat."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian takes the prize. Although she's not a fan of vegetables, it seems that carrots are an exception."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…I lost?",
+            "choice_data_list": [
+                "Hey, it happens."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "True. Playing a raffle you can't lose would be boring."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Everything happens by chance. Not knowing what will happen is exactly what makes it interesting."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Although, winning still would've been nicer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tail drops dejectedly and doesn't perk up again for a while after."
+        }
+    ]
+}

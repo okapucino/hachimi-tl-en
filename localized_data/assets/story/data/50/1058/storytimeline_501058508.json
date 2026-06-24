@@ -1,0 +1,31 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I go up to the roof during lunch, where I find Meisho Doto."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Guh… Th-this drink should help get rid of my fatigue…",
+            "choice_data_list": [
+                "Doto?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yes! T-Trainer?! I'm just drinking a wellness shot.",
+            "choice_data_list": [
+                "That's a sports drink you're holding.",
+                "That's a sports drink you're holding."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh… R-reeeaaally?! I couldn't tell at all, and I've already had so much of it!"
+        },
+        {
+            "text": "The fatigue must have dulled her senses. The rooftop is littered with her empty plastic bottles. I probably should rework our future race schedule."
+        }
+    ]
+}

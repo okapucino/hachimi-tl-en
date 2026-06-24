@@ -1,0 +1,41 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold Ship seems to be looking for something in the plaza."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Sigh…</i> Ugh, I should've known trying to capitalize on random bursts of energy at night was a bad idea…",
+            "choice_data_list": [
+                "What are you looking for?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I was going to send McQueen on a scavenger hunt, so I spent the whole night hiding coupons for a cake shop all over the place."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But halfway through, I realized I'd been hiding stickerback Gold Ship photocards instead."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "These puppies are supposed to be presents for my fans around the galaxy, so I can't just leave them lying around for any old Joe to find, right?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's why I've been toiling all night to pick them all up."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, you pitch in and help too! You're my trainer, after all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We manage to find all the photos, but Gold Ship ends up exhausted after pulling an intense all-nighter."
+        }
+    ]
+}

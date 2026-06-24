@@ -1,0 +1,57 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm in town with Daiwa Scarlet…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah! Trainer! Look over there!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That claw machine! It's full of plush Cuties!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Aren't they just adorable? Look, there are so many!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I want to collect them all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet practically sparkles with excitement as she stares at the plushies.",
+            "choice_data_list": [
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I… I was just looking, is all. It's not like I actually want one or anything."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But if you <i>really</i> want to give me a present, then I guess I can humor you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So, uh, do your best, I guess…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

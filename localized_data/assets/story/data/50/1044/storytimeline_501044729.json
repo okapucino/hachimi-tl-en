@@ -1,0 +1,38 @@
+{
+    "title": "Claw Machine: Failure…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Unbelievable! I cast a spell to make things go smoothly and you still did this terrible?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Give me a break! There's nothing harder than being stuck with a terrible familiar.",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "H-hey, don't be like that. You don't need to get depressed or anything!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I mean, these things happen, right? Don't worry, I'm not gonna fire you or anything. Keep your chin up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You know what? I feel like eating something sweet now. Buy me something and all is forgiven!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "C'mon, let's go to a cafe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing…"
+        }
+    ]
+}

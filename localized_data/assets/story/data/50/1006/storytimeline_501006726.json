@@ -1,0 +1,52 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Oguri Cap…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ooh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's staring at a claw machine full of Umamusume plushies.",
+            "choice_data_list": [
+                "Do you want a plushie?",
+                "Do you want a plushie?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "They just remind me of the plushies Masa used to give me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whenever I won a race, Masa would bring me a plushie to motivate me to keep up the good work."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "They were weirdly shaped, homemade plushies, but they really made me happy.",
+            "choice_data_list": [
+                "All right, let's get one!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A-are you sure? I guess I do kinda want one, but… why?",
+            "choice_data_list": [
+                "I want to keep you motivated!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh… Thanks. It makes me happy to hear you say that. In that case, I'll be cheering for you."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail."
+        }
+    ]
+}

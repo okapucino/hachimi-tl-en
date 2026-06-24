@@ -1,0 +1,312 @@
+{
+    "title": "寮対抗クイズバトル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "Wha… what is this?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Commence! Let the dorm quiz battle begin! I wish you all the best of luck!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, Miho crew! You better not lose to Ritto!"
+        },
+        {
+            "name": "Miho Dormitory Students",
+            "text": "Let's gooooo!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ritto Dormitory! We'll be celebrating tonight! So, let's enjoy this battle of the brains, shall we?"
+        },
+        {
+            "name": "Ritto Dormitory Students",
+            "text": "Yeeeahhh!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, you came, City! Didn't you say you had work?"
+        },
+        {
+            "name": "Gold City",
+            "text": "We had a schedule change… Anyway, what's all this commotion?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours earlier…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "It is clear! Races are at times a battle of wits!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Hence, we want to provide an opportunity to test your thinking under pressure. I present to you… a quiz competition!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Your teams are arranged by dorm! Work together for a chance to win the grand prize we've prepared! Get ready! Let's go go go!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "City, you're competing with us on the Ritto Dorm team. There'll be a buzzer quiz and a scatter quiz."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Do you know what a scatter quiz is? Envelopes containing questions are scattered about, which we find and bring back to the host to answer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And the dorm with the highest overall score wins. Simple, right? I'm confident you'll be a great contributor, City!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you now? …Well, I don't really have a preference, so Trainer, which should I join?",
+            "choice_data_list": [
+                "Test your speed in the buzzer quiz.",
+                "Test your resolve in the scatter quiz."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "A test of speed, huh. Sounds simple enough."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Question! What is defined as zero degrees, zero minutes, and zero seconds longitude?! A: the prime meridian, or B: the date line?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The answer is B for Bakushin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt!</i>"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Wrong! The correct answer is A: the prime meridian!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What?! My Bakushin intuition was off?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That was close… I have to hit the button faster next time…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Next question! Finish the sentence! \"Eating persimmons—\""
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding!</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I know! \"Makes you want to eat pears and chestnuts too!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Urgh! Wrong again! But oh well—there's still more chances! Yes, I still have a chance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class representative, I will be the first to hit the buzzer each time! Eheh!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Be first… every time…"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Huh.",
+            "choice_data_list": [
+                "(Something seems different about City all of a sudden.)"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Now, next question! The oldest U—"
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding!</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "Turkmenistan."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding ding ding!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "How?! You didn't even finish listening to the entire question!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait… Are you psychic, City?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "No, it just so happens the same question was asked on a quiz show this model I know was on."
+        },
+        {
+            "name": "Gold City",
+            "text": "If my opponent is fast, I have to be faster. It's time to catch up."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Go, go, Ritto Dormitory! What a riveting comeback!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Your strength and determination never changes. I love it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City's staggering comeback helps her dormitory win the competition!"
+        },
+        {
+            "name": "Gold City",
+            "text": "The scatter quiz… Well, a little moving around would be nice."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head over to the beach where the game will take place. There, a helicopter flying overhead scatters a huge number of envelopes containing the questions!"
+        },
+        {
+            "name": "Staff",
+            "text": "Start!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "And they're off to a clean start, making a beeline for the envelopes!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, that envelope is gonna be mine—"
+        },
+        {
+            "name": "Gold City",
+            "text": "Wait, what?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Outta my way! Speed demon comin' through!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh no—she beat me to it!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What're ya doin', City? Get outta da way if you're not gonna run!"
+        },
+        {
+            "name": "Gold City",
+            "text": "D-damn it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The participants begin heading back to the quiz master, kicking up trails of dust in their wake."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once there, they open up the envelopes and take a crack at the questions written inside."
+        },
+        {
+            "name": "Gold City",
+            "text": "What do you mean \"blank\"?!"
+        },
+        {
+            "name": "Quiz Master",
+            "text": "It looks like you brought an envelope with no question inside! You'll have to run for another one!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you—",
+            "choice_data_list": [
+                "City, stay calm!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Urgh… I know!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Currently, Miho Dormitory is in the lead! Will Ritto Dormitory make a comeback?"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, let's keep this lead, everyone!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Not if I have anything to say about it!"
+        },
+        {
+            "name": "Quiz Master",
+            "text": "Sorry! This one is also empty!"
+        },
+        {
+            "name": "Gold City",
+            "text": "One more try!"
+        },
+        {
+            "name": "Ritto Dorm Resident",
+            "text": "City's all sweaty and covered in sand…"
+        },
+        {
+            "name": "Quiz Master",
+            "text": "Well done! Five points to Ritto Dormitory!"
+        },
+        {
+            "name": "Gold City",
+            "text": "All right! Now for another!"
+        },
+        {
+            "name": "Miho Dorm Resident",
+            "text": "Even with all the sweat and sand, she's still so beautiful!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "What a surprise! Listen to the cheers for Gold City coming from both sides!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, isn't that a slick move? Captivatin' the crowd with your determination."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "She's quick on her feet, but we better not underestimate her willpower either!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City's inspiring efforts invigorate the quiz participants, ultimately leading her dorm's team to victory."
+        }
+    ]
+}

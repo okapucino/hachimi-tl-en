@@ -1,0 +1,235 @@
+{
+    "title": "燃える瞳、奮起",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as the Arima Kinen and Special Week's matchup against Grass Wonder draws near…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We set aside some time to strategize by studying racing footage of Grass Wonder."
+        },
+        {
+            "name": "Caster",
+            "text": "We've rounded corner number four and it's Grass Wonder on the outside! Here comes Grass Wonder! Grass Wonder! She did it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "…",
+            "choice_data_list": [
+                "What's the matter, Spe?",
+                "What's the matter, Spe?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer, I…"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm gonna go for a run!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week suddenly gets up and rushes out of the room!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Huff… huff…</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week is running laps around the track with a desperate look in her eyes, almost as if she's being chased."
+        },
+        {
+            "name": "Monologue",
+            "text": "But she's already finished our scheduled training for the day.",
+            "choice_data_list": [
+                "You're pushing yourself too hard, Spe!",
+                "You're pushing yourself too hard, Spe!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "…Leave me alone."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm not good enough yet. You gotta let me run!",
+            "choice_data_list": [
+                "You need to stop!",
+                "You need to stop!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Without thinking, I step in front of Special Week to keep her from running."
+        },
+        {
+            "name": "Special Week",
+            "text": "What are you doing, Trainer?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Don't you know that standing in front of a running Umamusume is like jumping in front of traffic!"
+        },
+        {
+            "name": "Special Week",
+            "text": "You're gonna end up getting hurt if you don't move!",
+            "choice_data_list": [
+                "I'm still not going to let you pass!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Why not?!",
+            "choice_data_list": [
+                "Because I'm your trainer!",
+                "Because I'm your trainer!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ngh… Trainer…",
+            "choice_data_list": [
+                "Talk to me! You don't have to shoulder it all on your own."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Sniffle… sob…</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "Waaaaahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week collapses in a heap on the track and begins to cry for a while…"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm sorry, Trainer… I… I said some horrible things to you.",
+            "choice_data_list": [
+                "Did you panic after watching the footage of Grass Wonder?",
+                "Did you panic after watching the footage of Grass Wonder?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah, that's exactly what happened."
+        },
+        {
+            "name": "Special Week",
+            "text": "I always knew that Grass was a force to be reckoned with."
+        },
+        {
+            "name": "Special Week",
+            "text": "But actually watching the footage… It made me really realize that I'm about to go head-to-head with her…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Her speed, her stamina, the timing of her moves… When you look at it, it's all so perfect…"
+        },
+        {
+            "name": "Special Week",
+            "text": "And it made me realize that I'm no match for her. She'd wipe the floor with me right now!",
+            "choice_data_list": [
+                "I happen to disagree.",
+                "I happen to disagree."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "…How can you be so sure?"
+        },
+        {
+            "name": "Special Week",
+            "text": "There are so many racers in the Twinkle Series who are faster, stronger, or more talented than me!",
+            "choice_data_list": [
+                "Because you're the one I chose!",
+                "Because you're the one I chose!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh…",
+            "choice_data_list": [
+                "And you're the one I've been standing side by side with this whole time.",
+                "And you're the one I've been standing side by side with this whole time."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "You've always… been by my side…",
+            "choice_data_list": [
+                "You ran so well at the Japanese Derby.",
+                "You ran so well at the Japanese Derby."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "…",
+            "choice_data_list": [
+                "And you were amazing in the spring Tenno Sho!",
+                "And you were amazing in the spring Tenno Sho!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "…",
+            "choice_data_list": [
+                "So I know you'll be fine at the Arima Kinen as well.",
+                "So I know you'll be fine at the Arima Kinen as well."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Special Week",
+            "text": "…You really do believe in me, don't you?"
+        },
+        {
+            "name": "Special Week",
+            "text": "…And you think that my dream can become a reality.",
+            "choice_data_list": [
+                "I've believed in you right from the start.",
+                "I've believed in you right from the start."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "…That's right. You have. Hehehe."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm gonna call it a day. It's time to go home, eat, and sleep like a log."
+        },
+        {
+            "name": "Special Week",
+            "text": "And then I'll be able to give it my all again tomorrow! I'm gonna keep running, until I become the top Umamusume in all of Japan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week's big smile still has the same sparkle as it did when I first met her."
+        }
+    ]
+}

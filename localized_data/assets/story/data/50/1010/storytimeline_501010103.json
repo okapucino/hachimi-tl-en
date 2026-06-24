@@ -1,0 +1,37 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the start of summer camp, where Umamusume train to improve their skills."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, Trainer…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I heard Japanese summer camps have pillow fights at night! Is that true?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Back-breakin' training during the day, then pillow fights when the sun goes down. Japanese camps sure are wild…",
+            "choice_data_list": [
+                "(I don't think it's a hard rule…)"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But that won't be a problem for me! See, I'm gonna be the first ever sprinter to become Umamusume of the Year!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'll kill it in my training <i>and</i> my pillow fights!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So begins a thrilling summer camp with Taiki Shuttle!"
+        }
+    ]
+}

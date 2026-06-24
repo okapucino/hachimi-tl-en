@@ -1,0 +1,68 @@
+{
+    "title": "日本ダービーの後に・宙吊り",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "And it's Agnes Tachyon crossing the finish line, in a tremendous display of dominance!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She may be the living embodiment of an enigma, but her running never ceases to amaze me.",
+            "choice_data_list": [
+                "(I'll never get tired of seeing you run!)",
+                "(I'll never get tired of seeing you run!)"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm, I see… This is… truly fascinating.",
+            "choice_data_list": [
+                "Well done! You ran like the wind!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, Trainer. You're in a fine mood."
+        },
+        {
+            "name": "Monologue",
+            "text": "From her debut race to the end of the Classics, she's dominated the track. We've got this in check!",
+            "choice_data_list": [
+                "Next up is the Kikuka Sho!",
+                "Next up is the Kikuka Sho!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "…Yes. I suppose so."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The Kikuka Sho G1 race is the next up in your agenda, after all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmmm. It is a fine goal! However…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "From here on out, I'd like it if you didn't place too much faith in me!",
+            "choice_data_list": [
+                "Wh-what do you mean?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Exactly what I said."
+        },
+        {
+            "name": "Monologue",
+            "text": "What does she mean by that? In any case, it seems our goal hasn't changed… for the time being."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite this uncertainty lingering in the back of my mind, our days training for the Kikuka Sho begin in earnest!"
+        }
+    ]
+}

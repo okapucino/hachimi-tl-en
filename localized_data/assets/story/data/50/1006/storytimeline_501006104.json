@@ -1,0 +1,285 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I walk through the camp dorm after a day of training with Oguri Cap, Tamamo Cross stops me in my tracks."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Phew, I finally caught ya! There's somethin' I wanna chat witcha about.",
+            "choice_data_list": [
+                "Tamamo Cross? What's up?",
+                "Tamamo Cross? What's up?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>You're</i> the one makin' Oguri run outside all day, aren'tcha?",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap has already finished her training for the day. I told her to get some rest before we parted, but…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Judgin' by that reaction, I guess not. Geez, what's she thinkin'?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ever since she ran with Creek, she's been actin' wacky.",
+            "color_text_info_list": [
+                "Creek"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya best go check on her. She's at the beach!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…Geez, Creek 'n Oguri both. I told 'em to have fun and enjoy their youth for a change, but they won't listen.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Naw, forget ya heard anythin'! Just go and get Oguri!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I thank Tamamo Cross for the tip-off, then hurry down to the beach."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Huff… puff…</i> One more!",
+            "choice_data_list": [
+                "Oguri!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Eek! What are you doing here?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask Oguri Cap why she's continuing to train on her own accord, and she hesitantly mutters a response."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You know how I ran with Creek on the beach? I… was confident I'd be able to beat her."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've been in good shape lately, so I didn't think 2,000 meters would be a problem for me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There was no reason I should have lost to Creek. But, well… you saw what happened…",
+            "choice_data_list": [
+                "It was a tie…"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It may have technically been a tie, but it didn't feel that way to me. I… lost."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If the race were 500 meters longer… she <i>definitely</i> would have beaten me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The Arima Kinen is a 2,500-meter race. If that had been the real thing, I wouldn't have stood a chance."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Unless I build up my endurance, I'll never beat Creek. I couldn't bear the thought of losing, and before I knew it, I found myself back here again…",
+            "choice_data_list": [
+                "So that's what's going on.",
+                "So that's what's going on."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Sorry. I should've talked to you first."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But for some reason, I couldn't just allow myself to sit around and do nothing. The urge to keep running was too strong."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All I could think about was not losing to Creek.",
+            "choice_data_list": [
+                "Well, she <i>is</i> your rival.",
+                "Well, she <i>is</i> your rival."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My rival…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's right. I don't want to lose to my rival!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm glad Oguri Cap got the chance to race against Super Creek during our training camp. It sure has ignited her competitive spirit."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's not all. I also got to see the result of all the hard work she's been putting in.",
+            "choice_data_list": [
+                "You've made plenty of progress already.",
+                "You've made plenty of progress already."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I have?",
+            "choice_data_list": [
+                "You didn't give in—even after Creek caught up to you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap may still be lacking in terms of stamina, but that didn't stop her from putting up a good fight."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I… could hear you all calling out to me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama, Inari, and… you as well. That's when I told myself I <i>had</i> to win.",
+            "color_text_info_list": [
+                "Tama",
+                "Inari"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The more support she receives, the better she gets. That's another one of Oguri Cap's strengths."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her current track record, she'll have more fans than ever cheering her name at the Arima Kinen.",
+            "choice_data_list": [
+                "You can do it!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You think so? You really… believe in me?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. Coming from you, those words really put me at ease.",
+            "choice_data_list": [
+                "Let's take things slow and steady."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right. No more acting on whims."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So tell me… What do you think I should do now?",
+            "choice_data_list": [
+                "You need to build more power!",
+                "You need to foster a more positive mindset!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Power, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that with strong muscles, she'll be able to take that extra step—even when she's out of stamina."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Got it. Let's focus on strength training."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A positive mindset, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that having the guts to push on when things are rough will serve her well in her races."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right. Let's build my mental resilience then."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Found ya! Geez, whaddaya think you're doin'?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, Tama, it's you… What happened?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Forget about me, yous guys're the ones that are still out this late!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I was sure your trainer would take ya back soon, so I was standin' around waitin' at the entrance like a friggin' idiot!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, so you're the one who told my trainer where I was. Thank you."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Eh, we just happened to run into each other. Anyways, didja manage to work through whatever was troublin' ya?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, I'm fine now. I'm gonna do my best."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Good to hear. You sure are a nightmare to look after, ya know that?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Still… I can't deny how zippy ya are. Ya amaze me in more ways than one."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What do you mean?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nothin', nothin'! Listen, you're not gonna skip dinner, are ya? Let's get goin'!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Dinner! I almost forgot!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa, don't go leavin' me behind! Wait up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap ends up making great strides during her time at summer camp."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A fan letter has arrived for Matikanefukukitaru."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Omigosh! A fan letter? For me?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "…Are you sure I can have this? I mean, I'm no lucky charm myself. Should someone like me really take this honor?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "…Do you really mean it?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehe, then I guess I'll take it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Fan letters are mystical relics that can endow one with the most miraculous of boons! I must give praise right away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Upon saying this, she retreats into the corner of my office to pray over the letter."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I give thanks! Please continue to watch over this pitiful self of mine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the scene at hand, it looks like the fan support has boosted her spirits."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "無法者……？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Walking past the dorm, I happen to catch sight of Taiki Shuttle cleaning listlessly."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh…</i> Finally done with the entrance. By now, I bet everybody's already…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Siiiiigh…</i>",
+            "choice_data_list": [
+                "That was one long sigh.",
+                "That was one long sigh."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The whole dorm's playin' board games today…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I'm on cleaning duty 'cause I broke curfew… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps due to the shock of the whole ordeal, Taiki Shuttle remains down in the dumps for some time."
+        }
+    ]
+}

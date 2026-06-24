@@ -1,0 +1,108 @@
+{
+    "title": "体重に関与するシナリオ※タイトル記載",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I spot Hishi Amazon and Fuji Kiseki spending their lunch break at the cafeteria, so I head over to join them."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "My, my, aren't you a hearty eater. Isn't that your fourth slice of cake?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I've gotta fill up 'cause I can't afford to fail my make-up exam!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Let me know if you need more. I could fetch you another slice or three!",
+            "choice_data_list": [
+                "What does cake have to do with your make-up exam?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, Teach! Glad you asked!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Sugar gets your mind racing, right? With this much energy, I'm bound to pass the test!",
+            "choice_data_list": [
+                "But won't things backfire if you eat too much?",
+                "Yeah! Chow down and ace that test!",
+                "Yeah! Chow down and ace that test!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Sugar gets your mind racing, right? With this much energy, I'm bound to pass the test!",
+            "choice_data_list": [
+                "But won't things backfire if you eat too much?",
+                "Yeah! Chow down and ace that test!",
+                "Yeah! Chow down and ace that test!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I dunno, but sweets are like fuel for your brain, right?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "The way I see it, more power means more thinking. Right, Fuji?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I agree—the more fuel, the better. Although I suppose eating too much might send you into a food coma."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Fuji… You're just egging me on for giggles, aren't you?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Of course not! I believe you capable of surpassing any tribulations that may come your way, be it drowsiness or a make-up exam!",
+            "choice_data_list": [
+                "Either way, moderation is your best bet.",
+                "Either way, moderation is your best bet."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hmm… You'd be the one to know, Teach, so I'll lay off the cake for now."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well! You sure trust your trainer's judgment a lot."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, trust comes naturally when we're workin' as a team."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Here, you can have this last slice, Teach!"
+        },
+        {
+            "text": "Having properly moderated her sugar intake, Hishi Amazon goes off to conquer her make-up exam with gusto."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, I've got this! History, math—they're all going down!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's the spirit! I'll go get more cake for you."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Actually, you know what? I'll just grab an entire cake! ♪"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Bring it on! I'll stuff myself full and make quick work of my exam!"
+        },
+        {
+            "text": "Hishi Amazon crams her notes while scarfing down the cake, then heads off to face her exam…"
+        }
+    ]
+}

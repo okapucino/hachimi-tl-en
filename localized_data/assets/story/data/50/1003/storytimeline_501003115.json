@@ -1,0 +1,286 @@
+{
+    "title": "菊花賞に出るんだ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day after the Japanese Derby…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio once again asks to continue training without a rest."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, did you know? They say the Kikuka Sho tests who's really the strongest runner!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If I'm gonna surpass Prez, I gotta be considered that strong too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I'm gonna do some more partner running today!",
+            "choice_data_list": [
+                "You sure you're not fatigued at all?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Not at all! Who do you take me for? I'm the invincible Teio!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "'Sides, the Kikuka Sho waits for no one! This is no time to rest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, she resumes training like usual."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant…</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Just a liiittle faster! Yaaahhh!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Huff… Puff…</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Phew… Nice work, Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, you too! Thanks for running with me!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I gotta say, your running is incredible… Aren't you practically the number one classic-year racer already?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. Well my goal is to beat Prez, so I've gotta get even faster!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio keeps training with runner after runner."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Inhale… Exhale…</i>"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "<i>Huff… huff…</i> You run so well, Teio!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I don't know what it is, but I can just <i>feel</i> how badly you want to win."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, gotta do what I gotta do if I'm gonna achieve my goa―"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ow!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Teio?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ouch! Oof, that hurts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Out of nowhere, Tokai Teio collapses with a grimace of great pain on her face!"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "This isn't the kind of damage that results from just a few days of training."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "It's a much longer-term strain that's finally reached breaking point."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Teio, you must have known your legs were in bad condition, but you kept running despite that, didn't you?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Yes.",
+            "choice_data_list": [
+                "What's going on here, Teio?!",
+                "What's going on here, Teio?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…I've been feeling it ever since the Derby."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But I thought that if I stopped training, there was no way I could win the Kikuka Sho.",
+            "choice_data_list": [
+                "So you just pushed on through the pain…"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "…I'm sorry to say, but the Kikuka Sho might be too much for someone in your condition."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What?! N-no way!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…",
+            "choice_data_list": [
+                "We'll need to put training on hold for now.",
+                "We'll need to put training on hold for now."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "N-no! I can't afford to rest!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, my legs do hurt, but… it's not <i>that</i> big of a deal!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Let me train! I have to run in the Kikuka Sho!",
+            "choice_data_list": [
+                "Didn't you hear what the doctor just said?",
+                "Didn't you hear what the doctor just said?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I… I don't care! I said I'm gonna enter!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I need to win! It's the only way I can show I'm ready to take on Prez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If you won't support me, then I'll do it myself! You don't need to train me anymore!",
+            "choice_data_list": [
+                "Teio!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahh… G-get as mad as you like! See if I care! I'm not gonna change my mind!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez told me she was glad that I'd joined her on the same stage!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She's waiting for me to reach her! I can't just stop now and leave her hanging!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With tears welling up in her eyes, Tokai Teio gives me a look that tells me she's not giving up."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've always looked up to her! Before I entered the academy up till now! And I always will!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No matter how strong Prez is, I won't give up! Ever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even in the face of hardship, her dream never wavers."
+        },
+        {
+            "name": "Monologue",
+            "text": "But what about me? Should I really just give up?",
+            "choice_data_list": [
+                "Absolutely not!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Uh, Trainer? Why are you reading a book all of a sudden?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Acupuncture. Massages. Whatever the method…",
+            "choice_data_list": [
+                "I'll find a way to get you back into racing form!",
+                "I'll find a way to get you back into racing form!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You mean… you'll still let me run? I can still train for the Kikuka Sho?!",
+            "choice_data_list": [
+                "Trainers are supposed to support their racers.",
+                "Trainers are supposed to support their racers."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah… you're right! Heheh… Thanks!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And… I'm so sorry!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I shouldn't have kept the pain a secret. And I said some awful things just now too… Even though I know I can't do this alone…",
+            "choice_data_list": [
+                "We're going to get through this together!",
+                "We're going to get through this together!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah! It's a promise!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, I'm gonna try to find ways to recover too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Look, this book says hot springs have healing properties! Let's go on a hot spring trip!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the days that follow, we do everything we can to help her legs heal, and Teio pushes through the worst of it, avoiding any chronic injuries."
+        },
+        {
+            "name": "Monologue",
+            "text": "As a team, we ready ourselves for the third Classic race—the Kikuka Sho!"
+        }
+    ]
+}

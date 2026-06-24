@@ -1,0 +1,57 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Vodka…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer! Look!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Over there! Check out that claw machine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Vodka",
+            "text": "I didn't know they made stuff like this! That's so cool!"
+        },
+        {
+            "name": "Vodka",
+            "text": "There're so many! And they've really captured everyone's characteristics!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Don't get the wrong idea, though. There's no way I'd be interested in plushies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She may say that, but Vodka seems clearly interested in the claw machine.",
+            "choice_data_list": [
+                "I could give it a try."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Really?! …Oh, uh, I mean…"
+        },
+        {
+            "name": "Vodka",
+            "text": "If you really wanna… I'll take any plushies off your hands if ya win, so ya might as well give it a shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

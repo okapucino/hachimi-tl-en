@@ -1,0 +1,34 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Yaaawn…</i>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well… Trainer, today's experiment…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "…Um, what was it again? I was up until morning with the preparations…",
+            "choice_data_list": [
+                "You look sleepy.",
+                "You look sleepy."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I couldn't afford to halt my thoughts in the middle of my research…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But, it's fine… You're the test subject after all. There won't be… any problems."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon is constantly dozing off. It appears she hasn't gotten enough rest."
+        }
+    ]
+}

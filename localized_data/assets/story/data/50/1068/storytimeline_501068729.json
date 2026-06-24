@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Aww… You were so close.",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh no! Don't beat yourself up!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm already so happy and grateful that you tried your best for me, so please don't feel bad!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "H-hey, why don't we get something sweet to eat? We can have sweet steamed buns or a cake or something! Anything's fine with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

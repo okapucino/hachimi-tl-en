@@ -1,0 +1,122 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet injures herself during training, so I rush her to the infirmary."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Sorry about all the trouble…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm fine now, though. I can't waste the day lying down like this."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Especially if I'm going to be number one! I have to get back and train even harder!",
+            "choice_data_list": [
+                "If you want to be number one, you need to rest.",
+                "That's the spirit!",
+                "That's the spirit!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Especially if I'm going to be number one! I have to get back and train even harder!",
+            "choice_data_list": [
+                "If you want to be number one, you need to rest.",
+                "That's the spirit!",
+                "That's the spirit!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I don't need your advice. I'm the patient here, and I say I'm fine!",
+            "choice_data_list": [
+                "What's the point in training when you can't perform at your best?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You're right. There's no point in running when I can't even stand upright."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh…</i> What am I doing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "To be on the safe side, today's training assignment is for Daiwa Scarlet to rest up."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, exactly! I knew you'd get it!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right, let's get back to it!",
+            "choice_data_list": [
+                "Whoa, let's not push it.",
+                "Whoa, let's not push it."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Don't be so wishy-washy. I've got to push myself if I want to be number one, don't I?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Come on, let's g―"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Argh!",
+            "choice_data_list": [
+                "Scarlet?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She tries to force her way back into training but ends up collapsing. In the end, it takes several days for her to properly recover."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, if we're in agreement, then let's focus on getting me healed up."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I suppose we should start with applying an ice… pack…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Why are you looking at me like that? Was that really such a weird thing to say?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I want to get back to training as soon as I can. If I'm going to be number one, I can't neglect my health.",
+            "choice_data_list": [
+                "I'm impressed.",
+                "I'm impressed."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. You should be! What else would you expect from me?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're talking to the future number one Umamusume, after all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shortly after, Daiwa Scarlet returns to training without incident."
+        }
+    ]
+}

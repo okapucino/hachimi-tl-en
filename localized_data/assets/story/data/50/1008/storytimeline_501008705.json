@@ -1,0 +1,222 @@
+{
+    "title": "“寄り道”しようぜ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After being out with Vodka…"
+        },
+        {
+            "name": "Vodka",
+            "text": "What? You're going home already? Isn't it a little early?"
+        },
+        {
+            "name": "Vodka",
+            "text": "This is when kids go home—not us. Why don't we make one more stop before headin' back?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I know the perfect place, y'see. It'll be like going out for a drive!",
+            "choice_data_list": [
+                "A drive… on our feet?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Don't get caught up in the details! Just follow me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So, without asking where we're going, I follow Vodka…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Let's see here… I'm pretty sure we go straight… and then turn right…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Wow! The wind feels so good! Bein' out in nature is the best.",
+            "choice_data_list": [
+                "It really is.",
+                "It really is."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Right? The wind really is different than in the city. It's not half bad!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Now, which way was it again? And were there always this many plants around here?",
+            "choice_data_list": [
+                "…Are we lost?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh?! Not in the slightest!"
+        },
+        {
+            "name": "Vodka",
+            "text": "L-leave it to me. You just enjoy lookin' at the sky."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm a little bit worried, but I continue to follow Vodka. Until…"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Where are we?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So we really are lost.",
+            "choice_data_list": [
+                "Where were you trying to go?",
+                "Where were you trying to go?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "…This really cool rocky area I found when I was wandering around here before."
+        },
+        {
+            "name": "Vodka",
+            "text": "I thought we would get there if we just took the same path as last time, but…",
+            "choice_data_list": [
+                "Do you want me to look it up on my phone?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "No way! That's like admitting defeat!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh! Why aren't we there yet?! Is my memory goin' bad?!",
+            "choice_data_list": [
+                "Let's just throw in the towel for today!",
+                "Time to awaken your sixth sense!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Ugh, you're too quick to give up… But you're probably right. There's no guarantee we'll get there if we keep goin' this way."
+        },
+        {
+            "name": "Vodka",
+            "text": "Damn it. Let's go back."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm seriously so sorry, Trainer! I just wasted your time.",
+            "choice_data_list": [
+                "No worries, I had fun."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Really?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her I had plenty of fun just walking around and talking with her.",
+            "choice_data_list": [
+                "What about you?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, I had fun…"
+        },
+        {
+            "name": "Vodka",
+            "text": "But, I really wanted to be cool and show ya around, y'know!"
+        },
+        {
+            "name": "Vodka",
+            "text": "It really is such a nice rocky area. I wanted to talk with you there…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh, I'm so bummed! Lemme try again sometime!",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm holdin' you to that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka and I return to the way we came. On the way back, we have fun losing ourselves in conversation."
+        },
+        {
+            "name": "Vodka",
+            "text": "Sixth…sense?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…Whoaaa! What's that?! It sounds so cool!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right. Just leave it to me! Awaken, my sixth sense!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Graaaaah!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Whaaat?! I just saw… some huge ruins nearby?!",
+            "choice_data_list": [
+                "Keep going!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "You got it!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Graaah! GRAAAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While Vodka's concentrating on that, I search for nearby ruins on my map app, and find a likely rocky place nearby. Now, all I have to do is…",
+            "choice_data_list": [
+                "Thou shalt turn right in 200 meters…"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh?! Did I just hear… a voice in my head?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Holy cow! We can't stop now! Follow me, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With an excited Vodka leading the way, we continue down the path until.."
+        },
+        {
+            "name": "Vodka",
+            "text": "Whoooa! We really made iiit!"
+        },
+        {
+            "name": "Vodka",
+            "text": "This is insane, Trainer! I seriously might've just had a psychic awakening!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hahaha! Ahahaha! I am the Great and Powerful Vodka, the awakened Umamusume!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Vodka's enthusiastic lead and the two of us hang out and chat in the rocky area for a bit."
+        }
+    ]
+}

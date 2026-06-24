@@ -1,29 +1,30 @@
 {
-    "no_wrap": true,
+    "title": "今度こそ！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I cannot express…… \nhow sorry I am about my last race!!"
+            "text": "I did some serious contemplation after the last race!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was not an honor roll student run! \nI must be a better role model!!"
+            "text": "That performance was not worthy of a genius like myself! My running should have been more exemplary!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyooooone!! Today, I'd like to show \nyou all the class president's comeback \nkid ruuuun―!",
+            "text": "Everyone! Today, I'm going to show you the performance of a fully recovered class representative!",
             "choice_data_list": [
-                "Go on!",
-                "Go on!"
+                "Do your best!",
+                "Do your best!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, I shall go on!!"
+            "text": "Okay! I'm off!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come on… Omeihenko, meiyo banzai!"
+            "text": "Right! I'll restore my sullied name! Bakuuuuushiiin!"
         }
     ]
 }

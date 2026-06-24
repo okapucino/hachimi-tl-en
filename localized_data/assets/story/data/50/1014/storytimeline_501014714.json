@@ -1,0 +1,112 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa gets injured during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "An injury like this is nothing to the world's strongest racer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "There's no need for your concern! Your time is better spent preparing for my inevitable return to racing!",
+            "choice_data_list": [
+                "Yeah… I'm not going anywhere."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "B-but Trainer! I said I'm all right!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You should head back to your offi—Ack! Ouchie.",
+            "choice_data_list": [
+                "You're overdoing it, aren't you?",
+                "You're overdoing it, aren't you?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Uhhh… well…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I think I just got a little careless…",
+            "choice_data_list": [
+                "No, that was my fault.",
+                "True. You weren't fired up enough."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I think I just got a little careless…",
+            "choice_data_list": [
+                "No, that was my fault.",
+                "True. You weren't fired up enough."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "No way! It's my fault!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm just weak… I'm… I'm…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Aaaugh! I want to get even stronger! I <i>need</i> to!",
+            "choice_data_list": [
+                "Let's focus on healing up first.",
+                "Let's focus on healing up first."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Entiendo! Sorry for all the trouble!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After some much needed rest, El Condor Pasa is fully recovered and overflowing with determination."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yes… reflection, introspection—soul-searching…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "My papa's gonna be so angry about this…",
+            "choice_data_list": [
+                "Just be more careful from now on."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Got it! I'll be hella careful during training from now on…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Not… fired up enough?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grrr! Me?! Not fired up?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Di que no es verdad! Say it ain't so! That's not me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Okay! I'm fired up, Trainer! You can count on me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that declaration, she recovers from her injury in a few days and performs better in training than ever before."
+        }
+    ]
+}

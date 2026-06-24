@@ -1,0 +1,37 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Special Week misses her training. It's nighttime when I finally get ahold of her."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm so sorry I couldn't make it to training!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Actually, Suzuka had a race today, and I really wanted to watch her run, so…",
+            "choice_data_list": [
+                "Well, I suppose watching a race also helps you learn."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer! Thank you for understanding.",
+            "choice_data_list": [
+                "Did you learn anything from Suzuka's race?",
+                "Did you learn anything from Suzuka's race?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I realized her Runaway method is something that no one else can imitate."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but wonder whether she really learned anything if the method can't be imitated."
+        }
+    ]
+}

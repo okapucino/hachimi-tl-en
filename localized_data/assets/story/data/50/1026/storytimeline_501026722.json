@@ -1,0 +1,43 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I'm on the rooftop taking a break from work when I see Mihono Bourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hello, Master… Fancy meeting… you here…",
+            "choice_data_list": [
+                "You seem a little off…",
+                "You seem a little off…"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Indeed. I am currently afflicted by a headache."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But do not worry. It is only throbbing a little and does not impact my normal activi—"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Ngh… And I consumed some painkillers with plenty of water earlier."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'm sure I will… recover… during this… class…",
+            "choice_data_list": [
+                "Um, this is the rooftop…"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Oh."
+        },
+        {
+            "text": "Her headache seems so bad that the painkillers are ineffective. I better think of another way to deal with it."
+        }
+    ]
+}

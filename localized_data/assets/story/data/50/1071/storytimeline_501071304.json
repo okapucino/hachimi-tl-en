@@ -1,0 +1,361 @@
+{
+    "title": "目標達成の後に・我等が目指すは",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The spring season of the classic G1 races is finally on the horizon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And as for how Mejiro Ardan is coping during this period of high tensions…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Haaah!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Pant… Pant… Pant…</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>…Phew.</i> Trainer, how was my time?",
+            "choice_data_list": [
+                "You've topped your personal best again.",
+                "You've topped your personal best again."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. I suppose that's yet another goal achieved successfully."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan has been steadily accumulating both experience and strength!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At this rate, she'll be able to set her sights even higher. She must know that herself too. Perhaps, <i>now…</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'd like to discuss something with you.",
+            "choice_data_list": [
+                "I had a feeling you would.",
+                "I had a feeling you would."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Shall we speak elsewhere?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Concerning the Japanese Derby…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Would it be presumptuous of me to make winning such a prestigious race my next goal?",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With eyes harboring a determination fiercer than ever, Mejiro Ardan poses this question seconds after we step into my office."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…As you might know, my older sister, Mejiro Ramonu, is the first-ever Triple Tiara holder, and is reputed as the \"crown jewel of the Mejiro family.\""
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And, as her younger sibling, I have always been outshone by her brilliance."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I wish to be free of her shadow."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I don't wish for acclaim as \"Mejiro Ramonu's little sister\"…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I hope to shine forth myself—as Mejiro Ardan."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "One day, I wish to radiate such brilliant light that it eclipses that of my sister."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As such… I'd like to accomplish something she didn't—leave a mark on the Classic Triple Crown tour.",
+            "choice_data_list": [
+                "Can I ask you why you've decided on the Japanese Derby?",
+                "Can I ask you why you've decided on the Japanese Derby?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Primarily… because of my body."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Though it pains me to admit it… in the event that I run in all of the Triple Crown races, my body will surely be subject to a level of strain I've never experienced before."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm concerned that if I ran in all three, I would inevitably come up short in each."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Therefore, I'd rather focus my efforts on one. I'll make my name at the Japanese Derby—the race heralded by all Umamusume."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Of course, if you believe that I'm capable of running in all three races, then I shall defer to your judgment."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But my desire remains the same—to run in the Japanese Derby. I would appreciate your understanding in this matter."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "So then… what do you think, Trainer?",
+            "choice_data_list": [
+                "I'm with you on this one."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You are?",
+            "choice_data_list": [
+                "Let's shoot for the Japanese Derby.",
+                "Let's shoot for the Japanese Derby."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Mejiro Ardan's classic year before us, her path to eternal glory comes to light."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ahead lies the race of countless Umamusume's dreams… The Japanese Derby—a fleeting, once-in-a-lifetime shot to seize the everlasting title of Derby Champion."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's an inevitable step towards Ardan's future. I would have suggested it myself, had she not.",
+            "choice_data_list": [
+                "Given who you are <i>now,</i> I know you can do it.",
+                "Given who you are <i>now,</i> I know you can do it."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm truly happy that you believe in me.",
+            "choice_data_list": [
+                "For now, let's aim for the Aoba Sho."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I support her decision to focus on the Derby, it'd be haphazard to tackle that race without a run-up."
+        },
+        {
+            "name": "Monologue",
+            "text": "It'd be best to set a mid-term goal for her to get more experience. That should help increase her chances of winning the Derby, if only by a little."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since the Aoba Sho is held at the same racecourse as the Japanese Derby, it'll serve as an excellent preliminary race.",
+            "color_text_info_list": [
+                "Aoba Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "On top of that, with it being a G2 race, it'll probably put less strain on Ardan's body than a Triple Crown G1 event. Essentially, if we're going to set a goal for the near future, the Aoba Sho should be perfect.",
+            "color_text_info_list": [
+                "G2"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Understood. …It appears that I shall have to work even harder as we move forward."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "To embark together for a grand, lofty dream… My heart soars in a way I never knew possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Mejiro Ardan and I take our first step on our journey to the biggest battle of her classic year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meanwhile…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Pant, pant, pant…</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…This isn't enough. I need to step up…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I've realized something over the course of the races I've run. There are people out there whose strength goes far beyond my imagination."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And compared to them, I'm still so green. Mentally, technically, and physically… I lack in all areas."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…That said, I've no intention of losing any momentum whatsoever."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I chose to race in the hopes of squaring off against mighty foes. The power I yearn for lies on the other side of hard-fought victories!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As such… the Classic Triple Crown will be mine."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "No matter how strong the competition, I'll not be bested by anybody. Not Ardan, not Chiyono O…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll not lose to anyone!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>…Sigh.</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…What a lovely sunset."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "My results during my junior year were great for boosting my confidence."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "While reflecting on how well I'd done, I found myself thinking—for just a moment—that winning the Japanese Derby might be possible."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And yet…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Raaaaah!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Ngh. My rate of acceleration is still too slow. I must visualize my maximum speed earlier!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer! I wish to run another lap!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ardan looks really pumped today…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…Even after all that success in her junior year, she still wants to achieve more."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Unlike me, she never settles for less. She brings everything she has to every single training session."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…I'm never going to win like this."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm such an idiot! I can't afford to sit around feeling complacent! I have to…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I have to push myself to my limits."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "After all… I want to win the Japanese Derby too!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm going to win… because I want to stand beside them as equals!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Today's drops of sweat will become tomorrow's tears of happiness!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hyaaa!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(I've no doubt that the Japanese Derby will feature the fiercest competition I have ever faced.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Especially…)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Chiyono O and Yaeno.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Their feats have been particularly eye-opening. Even in the Japanese Derby, I expect they will prove to be my toughest opponents…)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "—No, that's not the case."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(I must remember that which I'm seeking to overcome <i>now.</i>)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(The crown jewel looming over my head, whose splendor casts an undying shadow over me.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Regardless of whom I'm facing, I must first concentrate on completing the race myself.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Then, naturally, the results will follow.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The Aoba Sho… I must focus on the present, and improve myself for the race before me."
+        }
+    ]
+}

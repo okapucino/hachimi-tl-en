@@ -1,0 +1,250 @@
+{
+    "title": "ファインモーション登場！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "This must be a dream."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm part of the world of racing. I can run with everything I have! This happiness feels unreal—like an exquisite dream."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm going to live out this wonderful dream and enjoy it to the fullest. Once it's over, I'll take the abundant memories I make here back home with me as souvenirs."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the day Fine Motion starts training in earnest for her debut in the Twinkle Series.",
+            "choice_data_list": [
+                "First, I want to confirm your current abilities."
+            ],
+            "color_text_info_list": [
+                "Twinkle Series",
+                "Fine Motion"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Duly noted. ♪ I'll start running, then!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Huff… Huff…</i> ♪ One more lap! Hrraaagh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps she was born with innate talent. Her balanced physical strength and powerful running style are remarkable. But more than anything…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Phew… ♪ That was delightful!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The most enchanting thing about her is the purity with which she enjoys running. That attitude will no doubt become a great asset for her. There's just one thing…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Would it be okay for me to run one more lap? I'm still not satisfied!",
+            "choice_data_list": [
+                "Let's take a break for now."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What? But why? I can still keep going!",
+            "choice_data_list": [
+                "No overdoing it.",
+                "No overdoing it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Due to her \"unique\" circumstances, she's never trained as a runner before now. Working too hard off the bat will only lead to injury."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But my legs are crying out! They wish to run! I implore you to reconsi—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion stumbles slightly and begins to stagger."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Your Highness!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, Captain…"
+        },
+        {
+            "name": "Monologue",
+            "text": "An Umamusume in a suit comes rushing to Fine Motion's aid. This is her bodyguard."
+        },
+        {
+            "name": "Security Captain",
+            "text": "I fear you may have injured yourself. I'll arrange for a complete medical examination at once."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I assure you that I'm all right. I merely stumbled."
+        },
+        {
+            "name": "Security Captain",
+            "text": "I'm sorry, Your Highness, but your well-being is of the utmost importance. You are irreplaceable. Your father has made himself quite clear in this regard."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's house is descended from royalty. In present-day, they live in Ireland, where her father serves as a high-ranked politician. Fine was allowed to study abroad on the condition of staying absolutely safe."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I appreciate your concern."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Were you also considering my position when making your remarks, Trainer?",
+            "choice_data_list": [
+                "Nope, I was only thinking about racing.",
+                "Nope, I was only thinking about racing."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Huh?",
+            "choice_data_list": [
+                "If you push yourself too hard, you won't be able to run in races."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're right. You're exactly right. I need to enter races!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My apologies. I won't try to push myself too hard again! From now on, I'll do what you tell me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So, Captain… I'd like you to have faith in us as you watch over me. I promise I will never lose sight of my circumstances."
+        },
+        {
+            "name": "Security Captain",
+            "text": "I am well aware of your astute wisdom, Your Highness. Please do take care of yourself."
+        },
+        {
+            "name": "Security Captain",
+            "text": "One last thing. Could you spare some time once you've completed your training? A certain someone would like to speak with you."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "…Fine. It appears you're making great strides.",
+            "color_text_info_list": [
+                "Fine"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Father!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The dignified man displayed on the computer monitor is none other than Fine Motion's father."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "I expect my official duties will make opportunities for us to converse like this infrequent. As such, I wished to speak with you… and your trainer.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Fine's Father",
+            "text": "As I'm sure you are already well aware, Fine has responsibilities that prevent her from doing as she pleases."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "However, she has satisfactorily demonstrated her talent to me, and I have in return granted her three years in which she can act freely."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "That being said, when our house arrived in Ireland all those years ago, we were welcomed with warmth and a new home."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "With that in mind, Trainer, I wish to ask—are you prepared to watch over and guide my daughter?"
+        },
+        {
+            "name": "Trainer",
+            "text": "Fine Motion's father looks at me intently with eyes just like hers. Yet even in the face of fatherly apprehension, I stand firm on my decision.",
+            "choice_data_list": [
+                "I'll do everything in my power to support her dream!"
+            ]
+        },
+        {
+            "name": "Fine's Father",
+            "text": "…Make sure you never forget those words. Fine, heed your trainer's guidance, and run to your heart's content."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "I'll be watching over you from afar."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sorry about that. And… thank you.",
+            "choice_data_list": [
+                "For what?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "For joining me for some ramen! I ran so much during today's training that I'm simply famished."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Oh, I almost forgot! Now that you have my father's blessing, I'd like to say this again."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I expect great things from our partnership these next three years. I'm looking forward to working with you.",
+            "choice_data_list": [
+                "Likewise!",
+                "Likewise!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I know a great place nearby! They have ramen made with sardine stock…",
+            "choice_data_list": [
+                "(Three years…)"
+            ]
+        },
+        {
+            "name": "Trainer",
+            "text": "Unlike other Umamusume, Fine Motion is beginning her career with a strict time limit in place. All I can do is—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hurry up, Trainer! The ramen is waiting! ♪"
+        },
+        {
+            "name": "Trainer",
+            "text": "All I can do is support her—someone who smiles joyously at something as simple as going to eat ramen, and try to make every moment one that she'll never forget."
+        }
+    ]
+}

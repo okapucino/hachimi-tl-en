@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm waiting for Mejiro Ryan. She hasn't shown up for training yet…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm sorry, Trainer! I didn't mean to skip training."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I got caught up talking to one of the younger students, and…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I consider how to respond to Ryan's apology, another Umamusume enters the room."
+        },
+        {
+            "name": "Younger Umamusume A",
+            "text": "Excuse me… Please don't get mad at Ryan. It was all my fault!"
+        },
+        {
+            "name": "Younger Umamusume A",
+            "text": "I thought she didn't have any training today, so I asked her for advice about my diet."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh! You didn't have to come. I can handle it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears Ryan is trying to protect this girl.",
+            "choice_data_list": [
+                "Just try to be more careful next time."
+            ]
+        },
+        {
+            "name": "Younger Umamusume A",
+            "text": "S-so it's all right? Oh, what a relief."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry. Thanks for understanding, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've learned today that Ryan is very much beloved by the younger students."
+        }
+    ]
+}

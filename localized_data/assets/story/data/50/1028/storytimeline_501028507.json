@@ -1,0 +1,57 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, Trainer. I know there are chilled delivery services that keep stuff cold, but are there delivery services that keep things hot too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono steps into my office and immediately throws me for a loop with her bizarre question.",
+            "choice_data_list": [
+                "I don't think those exist… Why do you ask?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe… So actually, I got this letter in the mail…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And it said, \"I love watching you race, Miss Bono! You're big and powerful like a truck!\" ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Reading that made me so happy! I was going to write back, but the sender's mom added a note saying not to worry about replying, since I'm probably so busy."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "So instead of a letter, I thought I could send them a pot of Nankai chanko! ♪",
+            "choice_data_list": [
+                "I don't think that's a good idea…",
+                "I don't think that's a good idea…"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, really? Well, I guess I can't anyway if there aren't any heated delivery services around."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wait, I know! I can just use a chilled delivery service to send them a tub of homemade ice cream!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'd better start making it now! ♪ I'm just going to head out to the neighborhood supermarket real qui—",
+            "choice_data_list": [
+                "Wait, just send them a normal letter!",
+                "Wait, just send them a normal letter!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hastily stop Hishi Akebono before she runs off. She might have a big appetite, but it looks like that fan letter has filled her right up with happiness."
+        }
+    ]
+}

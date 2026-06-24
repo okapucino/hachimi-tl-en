@@ -1,0 +1,69 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "Aaaagh! I can't believe I lost!"
+        },
+        {
+            "name": "Gold City",
+            "text": "I let them catch me and couldn't fight back. The gap just got wider and wider…",
+            "choice_data_list": [
+                "That's right, let it all out!",
+                "Next time, you'll leave them behind."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "This is seriously the worst! That last part keeps playing back in my head!",
+            "choice_data_list": [
+                "You look good right now, though.",
+                "You look good right now, though."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Are you making fun of me?",
+            "choice_data_list": [
+                "You look like someone eager for victory.",
+                "You look like someone eager for victory."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Obviously! I'm not losing ever again!"
+        },
+        {
+            "name": "Gold City",
+            "text": "I don't want anyone passing me again!"
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll leave them all in the dust. No one gets in the way of my running!",
+            "choice_data_list": [
+                "Then you have to become a winner."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Someone's talking big. Are you really that confident?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Then you'd better take on half the responsibility too. Go ahead and <i>make</i> me a winner!"
+        }
+    ]
+}

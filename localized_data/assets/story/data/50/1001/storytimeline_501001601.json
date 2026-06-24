@@ -1,0 +1,22 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "Trainer! Please watch my race closely today!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My running last time was a bit disappointing, but I'll make sure everyone's jaw drops this time!",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Okay! I'm gonna put all the hard work we've done on full display today!"
+        }
+    ]
+}

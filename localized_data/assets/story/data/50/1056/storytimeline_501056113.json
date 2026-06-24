@@ -1,0 +1,163 @@
+{
+    "title": "幽霊より怖いもの！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Derby draws closer. One night, after another hard session of diligent training…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "AIIIIIEEE!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Is that the cry of a demon-possessed pigeon? No, it's Matikanefukukitaru! I rush to the classroom to find…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, Trainer! I-I-I-I saw it! I-it's right over there!",
+            "choice_data_list": [
+                "A ghost?!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Worse! Have a look, if you dare! Right there on the wall, in the list of Derby entrants!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "A name I never thought I'd see… Look, it says… <i>Silence Suzuka!</i>",
+            "color_text_info_list": [
+                "Silence Suzuka"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aiiieee! Her name is so bright my eyes can hardly take it!",
+            "choice_data_list": [
+                "Hey, get a grip!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "R-right… Sorry. I was just so surprised."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer, let's pray together! As I am, I don't have the confidence to race against the likes of Suzuka!",
+            "color_text_info_list": [
+                "Suzuka"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O gods, hear my supplication! Grant me a divine shield against Suzuka's piercing light!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Such tremendous power may wreak terrible curses. So, I beg of you—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What are you praying for, Fukukitaru?",
+            "color_text_info_list": [
+                "Fukukitaru"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Isn't it obvious? I'm praying not to be consumed by your all-powerful—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aiiieee! Suzuka?! What are you doing here?! Have you come to vanquish me once and for all?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… I'm only here to pray, just like you."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I want to do my best in the Derby."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You want to… do your best? But why would someone like you need to pray for something like that?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I think we all feel the same way in the run-up to the Derby."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "We don't want this monster of a race to get the better of us… It's that intimidating."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You know, it's just like when your rival suddenly starts to look unbeatable. But there's no reason to panic."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's only natural to be scared."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Being scared is… natural?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well, if even someone like you can get scared…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It makes sense why I'd be terrified. For some reason, I feel a little better hearing that."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Thanks a lot, Suzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm just happy to see that you're feeling better.",
+            "choice_data_list": [
+                "Why don't you both pray for victory together?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Together? Yeah, good idea! Thank you!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well Suzuka, since we're both here, we may as well pray together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After they finish their prayers, Silence Suzuka takes her leave."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Phew! All's well that ends well. That's quite a weight off my sh—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait! Oh, no! Since we prayed together, doesn't that mean Suzuka will get the same amount of luck as me?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If she has the same great blessing as me, then her natural ability will surely seal her victory!",
+            "choice_data_list": [
+                "Oh no! What should we do?!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We've got no choice but to ask for divine intervention!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O gods, hear me! Grant me the greatest, best, most supremely sublime blessing that Umakind has known or will ever know!"
+        }
+    ]
+}

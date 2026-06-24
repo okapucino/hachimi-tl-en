@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, Trainer… My heart feels like it's about to burst!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can't wait to run… I've n-never felt like this before!",
+            "choice_data_list": [
+                "Sounds like you're ready to give it your all.",
+                "Sounds like you're ready to give it your all."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-my all!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So… th-that's what it is!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-okay… I'll give it my all!"
+        }
+    ]
+}

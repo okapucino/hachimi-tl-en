@@ -1,0 +1,237 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nice Nature has been acting strange all day…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Like when I passed the academy gates on my way into work…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait. This is not a good idea."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Isn't waiting at the gate in the morning a bit much?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "My easy plan is backfiring… I guess I have to—",
+            "choice_data_list": [
+                "Nature?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, heeey, Trainer…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What a coincidence meeting you here… Seriously, what are the odds?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Umm, we have training this evening, right? See you then!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Let's get it! …What am I saying? Haha…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, she abruptly came into my office at lunch…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, so, uh… here's the thing."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… I have something I'd like to give you…",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yes. It's… it's…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's fried chicken!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The butcher at the shopping district gave me some extra."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's the perfect snack to go with a drink, right? You should take some home.",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, I'll give it to you later…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's okay, I still have time. Just keep it simple…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, while we were taking a break during training…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Wait, not in a tracksuit. Never mind."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm gonna get some water…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And now…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Here's okay. Thanks for your hard work today.",
+            "choice_data_list": [
+                "You too."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Yeah.",
+            "choice_data_list": [
+                "All right, see you tomorrow."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "W-waaaait!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, so…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You forgot your chicken!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The chicken I was supposed to give you! One sec, I'll go get it!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gah! I'm such a coward!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, Nice Nature gives me some fried chicken, but it also comes with a pack of homemade chocolates labeled \"A special bonus.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haven't you forgot something?!",
+            "choice_data_list": [
+                "Oh, the fried chicken?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, not… I mean, you're not wrong, but…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean… Urghhhhh!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Here…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't know if they're any good but… here. Valentine's Day chocolate."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nothing weird about this, right?! I'm just expressing my gratitude to my trainer!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Everyone's always taught me that showing gratitude is important."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So even though they're just normal chocolates, I still figured I should—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No… I <i>want</i> to give you these. That's why I made them."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, I say that, but all I did was cut up some chocolate and melt it!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You probably aren't too excited to get them from me, though…",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "C-come on! Why are you quiet?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're making me look stupid… Come on, say something…",
+            "choice_data_list": [
+                "I'm… so happy. Thank you."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Do you really mean that?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're not just saying it to make me feel better?",
+            "choice_data_list": [
+                "I really mean it."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hm…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I'm glad."
+        },
+        {
+            "name": "Monologue",
+            "text": "The chocolates Nice Nature gave me taste extra sweet."
+        }
+    ]
+}

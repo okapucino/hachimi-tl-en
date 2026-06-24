@@ -1,0 +1,29 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "<i>Yaaawn!</i>",
+            "choice_data_list": [
+                "Wow, that was a big yawn."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "For some reason, I couldn't sleep a wink after getting into bed last night…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "They say that stressing about falling asleep just makes it worse, so I just laid on my side and tried not to worry about it…"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But I was still wide awake when the sun came up… Maybe I should've tried harder to fall asleep? <i>Yaaawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Hishi Akebono had a pretty restless night…"
+        }
+    ]
+}

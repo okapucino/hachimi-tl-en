@@ -1,0 +1,307 @@
+{
+    "title": "At Summer Camp (Year 2)",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as we continue Nishino Flower's specialized short-distance training in preparation for the Sprinters Stakes…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haaah!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Whoa, has Flower gotten even faster? She's aiming for the Sprinters Stakes, right?",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "With speed like that, she could hold her own against students in their senior year, no problem."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew… How did I do, Trainer?",
+            "choice_data_list": [
+                "You've greatly improved your time!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I did? But I felt like I lost a bit of speed at the end there…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Maybe I'm still lacking in stamina. It might be a good idea for me to strengthen my body some more, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell that Nishino Flower is lacking in confidence. It seems like she hasn't put her performance in the Japanese Oaks behind her."
+        },
+        {
+            "name": "Monologue",
+            "text": "The good news is that she's becoming faster by the day. But how do I get her to realize that?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aha! I think it was around here!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, well! Who was it that called for me?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bakushin O? You said someone called you here?",
+            "color_text_info_list": [
+                "Bakushin O"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm? I could have sworn I heard someone say \"with speed like that, she could hold her own against students in their senior year.\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And everyone knows speed is synonymous with Bakushin! Raise your hand if you're the one who called me! No need to be shy now!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, this is the final stop along the wind's currents… Please allow me to join you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You're here too, Zephyr? Umm…",
+            "choice_data_list": [
+                "(This is… the perfect chance!)",
+                "(This is… the perfect chance!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O and Yamanin Zephyr have both declared that they'll be running in the Sprinters Stakes. In other words, they're Nishino Flower's rivals."
+        },
+        {
+            "name": "Monologue",
+            "text": "These two have already achieved great results in sprints and mile races. If Nishino Flower can run well against them, it's sure to boost her confidence.",
+            "choice_data_list": [
+                "I have a favor to ask you two…"
+            ]
+        },
+        {
+            "name": "Bakushin O and Zephyr",
+            "text": "Hyaaah! Hmph!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(They really are just as fast as I imagined! It's like they're on a whole different level… But!)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to catch up to them! Raaahhh!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No way… Did I… actually win?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "She blew past like a searing gale…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, wow! Now that was some impressive speed! Nice Bakushin, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "D-do you think so? Thank you! ♪"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Allow me to express my own thanks as well. The Sprinters Stakes has become even more enticing now."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Whaaa?! Wait, you two are also entering that race?!",
+            "choice_data_list": [
+                "You didn't know that?",
+                "You didn't know that?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No! But I do now! And I won't lose on the big day, that's for sure!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I won't lose either!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower nods with strong determination. It looks like she's built up a bit of confidence in herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's evening and we've wrapped up our training session. Next, I should…",
+            "choice_data_list": [
+                "Find a way to build power for incline running.",
+                "Practice cheering to provide motivation."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Sprinters Stakes will be held at Nakayama Racecourse. Nishino Flower will need strength to overcome the steep slope right before the finish line.",
+            "choice_data_list": [
+                "(I could really use some advice, though…)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "La, la, laaa! ♪ Bath time, bath time…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Correct. My father instructed me in the application of this training method."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? That's Bourbon with… Trainer?",
+            "color_text_info_list": [
+                "Bourbon"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to consult with Mihono Bourbon since I was sure she'd have some valuable input on power training.",
+            "color_text_info_list": [
+                "Mihono Bourbon"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Those are the key points of ramp training. In Flower's case, I recommend keeping the physical load at fifty percent.",
+            "choice_data_list": [
+                "I see… Thanks a lot!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please do your best for Flower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer's still hard at work for my sake.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Then I also need to…"
+        },
+        {
+            "name": "Monologue",
+            "text": "What matters at the end of a race is willpower. Encouragement from the crowd can provide a spark, so I decide to learn the best cheering methods.",
+            "choice_data_list": [
+                "(I could really use some advice, though…)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "La, la, laaa! ♪ Bath time, bath time…"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Once she hears something like that, she'll be bursting with energy!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? That's Biko with… Trainer?",
+            "color_text_info_list": [
+                "Biko"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to consult with Biko Pegasus. As someone who's always going around helping others, I wanted to hear her thoughts.",
+            "color_text_info_list": [
+                "Biko Pegasus"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "In the heat of a race, nothing beats hearing honest cheers that come from the heart!",
+            "choice_data_list": [
+                "Thanks. You've been a big help!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "A true hero is always ready and willing to lend a hand! Call on me whenever you're in a bind!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer's still hard at work for my sake.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Then I also need to…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After gathering advice from other Umamusume, I take a break and go for a walk outside."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There you are, Trainer!",
+            "choice_data_list": [
+                "Flower?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Do you have a moment? Right now?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, here you go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, Nishino Flower hands me a steaming rice ball and a flask containing miso soup.",
+            "choice_data_list": [
+                "What's all this?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A late-night snack. The staff gave me permission to use the kitchen."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I thought you might be hungry."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Um, I hope you don't think I'm being a busybody.",
+            "choice_data_list": [
+                "Not at all! Thank you!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe! I know it's hot out tonight, but warm food is still easier on the tummy."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…I'm going to give it all I have tomorrow, too. I'll definitely win my next race."
+        }
+    ]
+}

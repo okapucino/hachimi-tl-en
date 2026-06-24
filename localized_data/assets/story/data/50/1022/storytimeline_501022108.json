@@ -1,0 +1,361 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Fan Fest, where the students put on various events and interact with their fans."
+        },
+        {
+            "name": "Security Captain",
+            "text": "We've completed our security check of the area, Your Highness. There are no immediate concerns, so we'll remain on standby around the perimeter."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you very much. But… is this really okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Normally, there's no way they would let Fine Motion take part in an event like this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her popularity continues to grow after the accomplishments of her classic year. In an event packed with fans like this, her safety can't be guaranteed. But…"
+        },
+        {
+            "name": "Security Captain",
+            "text": "You're saying that you wish for Her Highness to participate no matter what?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A short time back, I spoke to her security captain directly in the hopes of getting permission for Fine Motion to participate. For her sake, I thought it was absolutely necessary.",
+            "choice_data_list": [
+                "I don't want her to get used to being lonely."
+            ]
+        },
+        {
+            "name": "Security Captain",
+            "text": "I respect Her Highness from the bottom of my heart. That's why I follow her wishes. Which is why…"
+        },
+        {
+            "name": "Security Captain",
+            "text": "I'll try to convince our security HQ. Can I count on your cooperation?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It turned out my \"cooperation\" meant negotiating with their headquarters as a representative of the academy. Luckily, we were able to get permission."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You must have worked very diligently on my behalf, Trainer. You have my thanks."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And you as well, Captain. Good work."
+        },
+        {
+            "name": "Security Captain",
+            "text": "My role is to safeguard your academy life, Your Highness. As such, my pride will not allow me to let you miss out on participating."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, is that right? I'm truly grateful to you both."
+        },
+        {
+            "name": "Academy Announcement",
+            "text": "Our next contest is the Running Quiz! Participating students, please head to the assigned area."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, it's about to begin! I'll be off, then!"
+        },
+        {
+            "name": "Fans",
+            "text": "Fine Motion! Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the Running Quiz begins amid the raucous cheers of the fans."
+        },
+        {
+            "name": "Event Announcer",
+            "text": "Fine Motion is in first place without a single mistake so far! Now, for your final question!"
+        },
+        {
+            "name": "Event Announcer",
+            "text": "There's a song from a famous musical that begins with the word \"doe.\" What does that \"doe\" mean in English?"
+        },
+        {
+            "name": "Fans",
+            "text": "Oh, an English question! That's a gimme!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Doe."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Do-re-miii-re-do, do-re-mi-re-do-reee! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, I've bungled it."
+        },
+        {
+            "name": "Spectators",
+            "text": "So, uh… She was totally just singing that ramen tune, right?!"
+        },
+        {
+            "name": "Event Announcer",
+            "text": "Umm, actually… that is completely incorrect. Bad luck!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha. I just started singing that song without realizing. ♪"
+        },
+        {
+            "name": "Fans",
+            "text": "Fine Motion marches to the beat of her own drum, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "While she may have got the answer wrong, Fine Motion certainly succeeded in creating a buzz among the crowd."
+        },
+        {
+            "name": "Event Announcer",
+            "text": "There's a ramen shop located at the north exit of the station called Raging Storm. Where did the owner fir—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The answer is Ikebukuro!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Holy cow! She didn't even hear the whole question!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The rest of the question was likely, \"Where did the owner first learn his craft?\""
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Originally, he trained at two shops: Stormy Soup and Raging Ramen."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "He mainly learned the ins and outs of management at Stormy Soup and how to cook ramen at Raging Ramen. Therefore, the correct answer is Ikebukuro!"
+        },
+        {
+            "name": "Event Announcer",
+            "text": "Spot on! Fine Motion nailed it! That was a really tough question made to trip up even die-hard ramen lovers, and you made it seem easy!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The names of the shops also provided a hint! He took \"raging\" from one and \"storm\" from the other! ♪"
+        },
+        {
+            "name": "Self-proclaimed Ramen Expert",
+            "text": "Fine Motion is a force to be reckoned with—her love and knowledge of ramen both run deep… Could she be the next Commodore Perry come to shake up the ramen world?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion did a great job at the quiz, thoroughly entertaining the crowd!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whew! I'm so hot! It was just a light jog!",
+            "choice_data_list": [
+                "Maybe because the fans are so fired up.",
+                "Maybe because the fans are so fired up."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, they certainly are…"
+        },
+        {
+            "name": "Fans",
+            "text": "Gooo, Fine Motion! Yeah, Fine!"
+        },
+        {
+            "name": "Fans",
+            "text": "Ahaha! You can do it, Fine! Go for it!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I could hear them calling my name so much more clearly than before."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…But why do they cheer for me so eagerly?",
+            "choice_data_list": [
+                "Your running has enchanted them.",
+                "Your running has enchanted them."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You mean…"
+        },
+        {
+            "name": "Younger Student",
+            "text": "U-um! Do you have a moment?"
+        },
+        {
+            "name": "Younger Student",
+            "text": "I… want to thank you!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But why?"
+        },
+        {
+            "name": "Younger Student",
+            "text": "It's because you make running look so fun! Thank you for that!"
+        },
+        {
+            "name": "Younger Student",
+            "text": "I never even considered that you could have fun racing. I thought that was something only the most skilled racers were allowed to do."
+        },
+        {
+            "name": "Younger Student",
+            "text": "But when I watch you run, it's like something inside me has been set free."
+        },
+        {
+            "name": "Younger Student",
+            "text": "I see you and I think it looks so nice—like racing must be so fun."
+        },
+        {
+            "name": "Younger Student",
+            "text": "I want to run just like you. It's like I've been struck by inspiration!"
+        },
+        {
+            "name": "Younger Student",
+            "text": "I'm not very good yet, but I want to run as powerfully and beautifully as you one day!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…It's peculiar. All I've been doing is having fun."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's like I'm living in a delightful dream. And like any dream, this time will surely end. Which is why I want to enjoy my time here to the fullest."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's all it is. And yet, the fans call out my name."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And there are those who wish to run as I do…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've begun to wish that I could stay here forever. I want to continue racing long, long after I've crossed my finish line."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Even though I know there's no such thing as forever."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I won't find myself here again…",
+            "choice_data_list": [
+                "The end comes for everyone, no matter who you are."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I know that. That's why—",
+            "choice_data_list": [
+                "That doesn't mean you'll lose everything."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As the young Umamusume demonstrated just now in the way she looks up to Fine Motion, feelings linger and memories live on in people's hearts."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "How can you say so with such confidence? I'm certain everyone will forget all about me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Just as the scent of perfume fades away. Am I the only one who will carry these memories?",
+            "choice_data_list": [
+                "You just need to become a pillar of everyone's heart."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That duty… is to become a pillar of Ireland's prosperity."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There are certain concessions required of my heart… but a pillar I shall become."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no doubt that's important to her. However, these concessions are also there to protect her from having to sacrifice her feelings.",
+            "choice_data_list": [
+                "Become a pillar of the Twinkle Series…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She can be a role model that runners in the Twinkle Series will always look up to… someone who inspires such fervent memories the fans pass down the stories for generations!",
+            "choice_data_list": [
+                "And let's make such an impact no one ever forgets the name Fine Motion!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're a surprisingly rash individual. We have no assured method with which to make such an impact.",
+            "choice_data_list": [
+                "But if we can do it, you'll have no reason to be sad."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If I could truly accomplish that… If I could remain in everyone's hearts… I would be exceedingly happy.",
+            "choice_data_list": [
+                "It's a shame that I can't show you my heart.",
+                "It's a shame that I can't show you my heart."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Would I happen to find myself in residence there?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, is that right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I hope I'm smiling in there. And I hope that I'm running heaps."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Yes, that's right. The only way to leave the impression I want is to enter races."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We'll ascertain everything at the Takarazuka Kinen.",
+            "color_text_info_list": [
+                "Takarazuka Kinen"
+            ]
+        }
+    ]
+}

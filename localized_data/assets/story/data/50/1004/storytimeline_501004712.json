@@ -1,0 +1,54 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Maruzensky isn't here for training yet, so I start to get some other work done when…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh snap, Trainer!",
+            "choice_data_list": [
+                "What kept you?",
+                "What kept you?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh snap, Trainer!",
+            "choice_data_list": [
+                "What kept you?",
+                "What kept you?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm afraid I can't tell you that…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I had some urgent business to attend to. So cut me some slack, Jack! Hehe!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Don't worry. You know I'll make up for it!",
+            "choice_data_list": [
+                "Just try not to be late next time.",
+                "Just try not to be late next time."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay. I'm sorry for making you worry."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure there must be a reason, and I don't want to be too strict… I decide not to push the issue."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, I find out that Maruzensky has been trying to help the underclassmen with their problems."
+        }
+    ]
+}

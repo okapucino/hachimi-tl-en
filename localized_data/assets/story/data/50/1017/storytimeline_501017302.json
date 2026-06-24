@@ -1,0 +1,344 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as Symboli Rudolf and I are making our way through the shopping district…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm? What's happening over there?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You two over there! Care to try your luck?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It looks like a raffle, Trainer. Shall we?",
+            "choice_data_list": [
+                "This is surprising.",
+                "This is surprising."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What, for me to be intrigued? It just so happens that I have a ticket."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Brian gave it to me. I recall she said she \"needed somebody to dump it on.\""
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But even if she hadn't, I am interested in the raffle for its own sake."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "To entrust one's fate to chance and receive a commensurate prize in return…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It is almost like a test of one's true worth… I could hardly call myself Emperor if I did not win something suitably extravagant."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Which is to say, I will be satisfied with nothing less than the grand-prize: the hot spring trip.",
+            "choice_data_list": [
+                "(She's really getting into this…)"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "How about it? Shall we prove our worth?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We glance at one another, nod, and then turn the handle together."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We have bested luck today, it seems.",
+            "choice_data_list": [
+                "We did it!",
+                "We did it!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed. I'm rather pleased.",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hah, do I not look it? I promise you, I am more enthusiastic than you might think."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But this now leaves me with a quandary.",
+            "choice_data_list": [
+                "Are you not a fan of hot springs?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Au contraire. I love nothing more than relaxing in the hot water as I soak in the beauty of nature."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "However… I do not believe I am yet worthy of such luxuries."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So here. The ticket is yours.",
+            "choice_data_list": [
+                "You're giving it to me?",
+                "You're giving it to me?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed I am. Save it until I have earned the holiday."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As for when that is, I leave it to your discretion. I know that you will judge me fair and true.",
+            "choice_data_list": [
+                "If you're sure…"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha… There's no need to feel too concerned."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I will work all the harder in anticipation of our excursion together."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And when that day comes, I will celebrate as much as anybody else."
+        },
+        {
+            "name": "Monologue",
+            "text": "The ticket feels heavy in my hand, but with that responsibility comes the promise of a fun vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The name seems apt. This patty is certainly weighty."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's been a long time since I have seen a meal so lavish.",
+            "choice_data_list": [
+                "You don't normally eat this kind of thing?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Not often, no."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I usually opt for plain cuts of steak when I feel like meat, due to its low fat content."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You are what you eat, as they say. Although I doubt you of all people need reminding of that."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Still, this is a worthy prize. It would be a waste not to make the most of it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It would go perfect with some melted cheese, a parsley garnish, and… Oh! How about one of those miniature flags?",
+            "choice_data_list": [
+                "You're really getting into this.",
+                "You're really getting into this."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But of course. When receiving a gift so fine, it is one's duty to enjoy it to the fullest."
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend a good long while discussing how best to decorate the patty."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah, splendid. These will prove to be useful.",
+            "choice_data_list": [
+                "Useful?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The student council was just planning an event to raise the students' spirits."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "With this many carrots, I daresay we can offer a special meal for that day."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll contact the cafeteria and see what they can do on short notice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Perhaps you could help? I know—why don't you be my royal taster?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll warn you, this is an important duty. I trust you'll not shirk it."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how I earned a prestigious position in the Emperor's court."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Answer me this, Trainer. What is the most notable nutritional aspect of a carrot?",
+            "choice_data_list": [
+                "…Carotene?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Precisely. The body converts carotene to vitamin A, which maintains the health of skin and bodily membranes. It also has other benefits."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So how would you prepare a carrot to best aid carotene absorption?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Tell me, Trainer."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I would like to know what dish would make optimal use of this carrot."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way home, we end up embroiled in a fierce debate over how to bring out the best qualities of carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Tissues…",
+            "choice_data_list": [
+                "Shame we missed out on the big prizes.",
+                "Shame we missed out on the big prizes."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, there's no need to feel down. Testing one's luck would be no fun without the risk of failure."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Besides, I happen to be running low on tissues. This has saved me the trouble of having to buy more."
+        },
+        {
+            "name": "Monologue",
+            "text": "True to form, the Emperor takes the disappointment in stride without a word of complaint."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "By the way, do you have any other engagements today?",
+            "choice_data_list": [
+                "Pardon?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have some time before my next appointment. Seeing as we're nearby, I thought we might—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt, bzzzt…</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Forgive me, but it seems I'm out of time. I must return to the academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "It might be my imagination, but Symboli Rudolf looks a little dejected as she walks away."
+        }
+    ]
+}

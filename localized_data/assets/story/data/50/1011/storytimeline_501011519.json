@@ -1,0 +1,38 @@
+{
+    "title": "空飛ぶ車",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, I spot an exhausted-looking Grass Wonder on her way to her dorm."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ngh, so dizzy… The sky is there, that's the ground, and that's… Trainer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Tell me, Trainer, do you appreciate how wonderful it is… to have your feet on solid ground?",
+            "choice_data_list": [
+                "What happened to you?",
+                "What happened to you?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Have you ever seen the red sports car that is often parked in the academy's lot?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Maruzen offered to take me for a spin in it, and I regret to say I didn't know better."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Have you ever wondered what it would be like if cars could fly? It's an unforgettable experience… Haha…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She giggles to herself while staring off into space. Note to self: steer clear of the sports car."
+        }
+    ]
+}

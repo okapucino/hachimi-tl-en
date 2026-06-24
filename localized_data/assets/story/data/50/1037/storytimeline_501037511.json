@@ -1,0 +1,231 @@
+{
+    "title": "教え導くためならば",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking through the hall on the way to my office when…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Forty minutes and thirty seconds have passed. Let's take a break, Scarlet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, it's gotten so late already… Sorry, but I can't solve this problem."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's all right. I took into consideration your attention span and tendency to fixate on difficult problems when creating the timetable."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You needn't feel rushed. We'll be able to cover all the test material without issue at our current pace."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Thank you, Flash… I really appreciate this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. Think nothing of it. I take enjoyment in teaching you since you grasp new material so quickly."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Two minutes, thirty-four seconds have elapsed. Prepare to resume. I'm certain you can figure out the problem after one more attempt."
+        },
+        {
+            "name": "???",
+            "text": "I wonder about that…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Pardon me. I just happened to overhear your conversation while doing some research."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Tachyon! What do you mean?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'm just wondering if Scarlet might be slipping back into her bad habits is all. Just the other day…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I apologize for the wait, Scarlet. This treatment agent is the byproduct we'll be researching toda—"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Zzz… Zzz…</i>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dried rheum around the orbicularis oculi, and edema of the upper arm and zygomaticus major muscle…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It seems what you truly require before your test is a sofa in a dim environment in which you can acquire restful sleep."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Tachyon! I asked you to keep that between us!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Are you telling me you have been studying outside our sessions and even going so far as to forgo sleep?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urk! I'm sorry… I just really want to get the number one score again, so…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, it is I who should apologize. It's my fault for acting as your tutor while failing to comprehend your needs and wants."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To remedy this, I must ask Tachyon to enlighten me about this side of you I don't know."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I will use the information I gain to create a more efficient schedule that better fits your needs!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wh-what?! Don't go digging for more embarrassing stories about me! I'm embarrassed enough already!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "H-hey! You're Flash's trainer, aren't you?!",
+            "choice_data_list": [
+                "Huh? Me?",
+                "Huh? Me?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If you stop her now, um… Flash won't have to work as hard and can focus on training better!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer… Please don't try to stop me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A better understanding of your tutee leads to increased efficiency. As an instructor, surely you understand.",
+            "choice_data_list": [
+                "There's a faster way to solve this, you know.",
+                "There's a faster way to solve this, you know.",
+                "Stick at it and learn everything you can about her!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A better understanding of your tutee leads to increased efficiency. As an instructor, surely you understand.",
+            "choice_data_list": [
+                "There's a faster way to solve this, you know.",
+                "There's a faster way to solve this, you know.",
+                "Stick at it and learn everything you can about her!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And that would be?",
+            "choice_data_list": [
+                "Team up with Tachyon and tutor Scarlet together."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah! That's a fine solution. Tachyon can make up for anything I don't know about Scarlet, and we can cover double the amount of material at once."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh! I'd feel doubly ready with two teachers helping me!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. I shall draft a new schedule right away. One minute and fifteen seconds should suffice."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "While I don't mind contributing, I have an experiment planned after this, Flash."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If I had assurance that I could conduct an equivalent experiment to make up for the one I won't get to perform today, I'd be more inclined to help."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In that case, how about I help you with the task you mentioned yesterday?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? Are you offering to participate in my study on the differences between one's biological clock and real time? Very well, then!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've adjusted my schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "For five minutes, I will explain how to solve a practice question pertaining to the material. Then, Tachyon will give you problems that use the same rules."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right! Sounds good!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Eishin Flash is having a really good time!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Tachyon, I'd greatly appreciate it if you could share your knowledge on Scarlet's bad habits right away."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "W-wait! Wouldn't that be a waste of time?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's not a problem. It won't take me longer than an hour and ten minutes to gather information on you and organize it all."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The improved efficiency will compensate for the lost time, so we technically won't be going past schedule."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "While I don't mind contributing, I have an experiment planned after this, Flash."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If I had assurance that I could conduct an equivalent experiment to make up for the one I won't get to perform today, I'd be more inclined to help."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In that case, how about I help you with the task you mentioned yesterday?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? Are you offering to participate in my study on the differences between one's biological clock and real time? Very well, then!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Let's begin at once. It would behoove us to tackle these questions as quickly as possible!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I was not sure how things would turn out, but I'm relieved to know I can count on your support."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "W-well, I'm not!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Eishin Flash is having a really good time!"
+        }
+    ]
+}

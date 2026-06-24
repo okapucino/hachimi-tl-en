@@ -1,0 +1,285 @@
+{
+    "title": "誇りをまとうに相応しく",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash has asked me for special training, which I'm more than happy to prepare for her, but when I arrive at the grounds…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You're finally here. I've prepared myself both mentally and physically for your arrival."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now, let us advance along the route to perfect victory."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash greets me like a knight ready for battle. She's even wearing her signature racewear… but why?",
+            "choice_data_list": [
+                "Wha… Why are you dressed like that?",
+                "Wha… Why are you dressed like that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Do I look… strange?",
+            "choice_data_list": [
+                "Well, no, but…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I knew it! I shouldn't have done this! Excuse me!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Apologies for running off so abruptly…",
+            "choice_data_list": [
+                "What happened? That wasn't like you.",
+                "What happened? That wasn't like you."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well… The embarrassment became too much for me to bear when I thought about how incompetent I must still seem in your eyes, so…",
+            "choice_data_list": [
+                "Wait, what made you think that?",
+                "Wait, what made you think that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To be truthful, I have been concerned about my signature racewear…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "During its creation phase, I asked for it to be designed to reflect my home country."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And when it was completed, it was evident that the meister's spirit resided within every stitch. The craftsmanship left me in awe."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The outfit is magnificent, but it feels so heavy… Like I might get crushed beneath it…",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When I don this outfit, it is not only fabric that rests upon my shoulders, but the weight of my homeland's pride and traditions too."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My mother must have felt this very same weight and pressure when she raced in Germany."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But I don't know if I'm truly worthy of wearing these clothes and representing all they signify."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I wanted you to help me determine that today.",
+            "choice_data_list": [
+                "So that's why you're in your signature racewear…",
+                "So that's why you're in your signature racewear…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes. It is also why I greeted you like that earlier. Unfortunately, I seem to have acted carelessly…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I finally have a handle on the situation, I think I know what she needs right now.",
+            "choice_data_list": [
+                "Let's have you run in it so you can get used to it.",
+                "I think you're due a baking session!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, that's a good idea. I too believe that would be the best remedy."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Eishin Flash participates in her next scrimmage in her signature racewear. As for how she does…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Pant… Pant!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite seeming a little ill at ease, she manages to place first in the end!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have returned.",
+            "choice_data_list": [
+                "You look kind of troubled. What's wrong?",
+                "You look kind of troubled. What's wrong?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I stopped thinking about whether I'm worthy of carrying my country's pride on my back and representing my people halfway through the race…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I became so absorbed in running as fast as I could that I forgot all about it."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "At this rate, I won't simply be unworthy of my outfit—I'll be doing a disservice to my fellow competitors."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The least I can do right now is to thank them for today."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Everyone, allow me to extend my heartfelt thanks for today's race. Furthermore, I must apologize for how I—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oh! Hi, Flash! That was a great race! I'm glad we got to run together!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Huh? B-but—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Honestly, it stinks that I lost, but whenever I'm up against you, it makes me wanna try even harder."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Same here! Running with you really is fun. I always know you're giving it your all and offering us an honest race."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I mean, you always thank us after each race too. You're so thoughtful and polite, it makes me want to polish up my manners!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Whoops, sorry for droning on and on! Anyway, I'm going to work on getting faster, so let's race again sometime!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It'd be my pleasure! I will face you with every fiber of my being next time too."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer, I…",
+            "choice_data_list": [
+                "Seems you <i>are</i> worthy of that racewear!",
+                "Seems you <i>are</i> worthy of that racewear!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Do you truly think so? Do you truly believe I conduct myself in a manner worthy of it?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. Thank you. I feel as though a weight has been lifted from me."
+        },
+        {
+            "name": "Monologue",
+            "text": "There was nothing to it at all. Eishin Flash has been worthy of carrying her country's pride all along."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh? Uh… Why?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Pastry-making runs in her blood, and I'm sure she'll feel more confident once she realizes how deeply connected she already is to her home country."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I suppose baking is a kind of traditional art that has been refined through generations of meisters."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. I shall attempt to bake something my parents taught me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Specifically, a German cake called Frankfurter Kranz."
+        },
+        {
+            "name": "Monologue",
+            "text": "After reserving the dorm kitchen for her, I decide to wait in my office until she's done baking."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Next, the sugar. And then I have to mix in the butter…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There, the batter is now complete. All that remains is…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(Strange. My body is carrying out all the proper steps without any conscious thought…)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(Everything I measure is correct down to the gram too… It's as though the process has been instilled within me.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(Oh… I see now. This must mean I'm already…)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I apologize for the wait."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Here you go. Guten Appetit.",
+            "choice_data_list": [
+                "Thanks! I can't wait to taste it."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…How is it?",
+            "choice_data_list": [
+                "It's delicious!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. I'm so very happy to hear that."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I actually tried some of it before coming here."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The taste reminded me of my homeland… It tastes just like the cakes I grew up eating. It's a recipe I've known for so long…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I realized there was never a need for me to try to embody my country's values. My homeland's traditions are already part of my very core."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for helping me realize this. My heart and mind feel much clearer now."
+        }
+    ]
+}

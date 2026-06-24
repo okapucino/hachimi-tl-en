@@ -1,0 +1,29 @@
+{
+    "title": "気分も雨模様",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At the training track after a day of heavy rain…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Urgh… Trainer…",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I tripped and fell straight into a puddle on my way here…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ugh! And I'd even hyped myself up to make sure I wouldn't let the rain get me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to that, I think I've lost all my motivation…"
+        }
+    ]
+}

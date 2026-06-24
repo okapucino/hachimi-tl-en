@@ -1,0 +1,52 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen hasn't shown up for training today, so I decide to go looking for her."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My megaphone is ready to go! Now, to the baseball stadium!",
+            "choice_data_list": [
+                "Found you!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eek! Trainer?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ahem… Trainer, what a surprise. I was just on my way out.",
+            "choice_data_list": [
+                "Did you forget about your training?",
+                "Did you forget about your training?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Ahhh!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O-o-oh nooo… I, of all people! I've been thinking so much about the consecutive hits record that I…",
+            "choice_data_list": [
+                "Consecutive hits record?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh… N-nothing! I'm terribly sorry…",
+            "choice_data_list": [
+                "Just be more careful next time.",
+                "Just be more careful next time."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes… I shall practice self-discipline and recover from this blunder!"
+        }
+    ]
+}

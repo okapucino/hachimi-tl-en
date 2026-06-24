@@ -1,0 +1,260 @@
+{
+    "title": "一流の覚悟",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days after the Kikuka Sho…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, I've made a decision."
+        },
+        {
+            "name": "King Halo",
+            "text": "Meet me in an hour. I'll send the location to your cell phone."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding! ♪</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "My screen lights up and I see where she wants me to go."
+        },
+        {
+            "name": "King Halo",
+            "text": "There you are, Trainer. Are you prepared for this?"
+        },
+        {
+            "name": "King Halo",
+            "text": "We're about to go on a journey worthy of a king—one which ends in becoming first-rate."
+        },
+        {
+            "name": "Regular Spectator",
+            "text": "Huh? Is that Umamusume running today? Why's she here though?"
+        },
+        {
+            "name": "Gossipy Fan",
+            "text": "That's not just some Umamusume! That's the nepo baby! She ran in the Kikuka Sho!"
+        },
+        {
+            "name": "Regular Spectator",
+            "text": "Oh, you're right. Hmm? I don't remember hearing about her running…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, the spectators are gathering. The bait is working."
+        },
+        {
+            "name": "King Halo",
+            "text": "What I need to aim for is…"
+        },
+        {
+            "name": "Magazine Journalist",
+            "text": "Whoa! The nepo baby! She's really here?"
+        },
+        {
+            "name": "Paparazzi",
+            "text": "I found her! I'll be the first to get her on record!"
+        },
+        {
+            "name": "Paparazzi",
+            "text": "I can see it now! \"Nepo Baby Runs Amok in Her Signature Racewear!\" It'll go perfectly with the latest news about her mother."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! The media's all here!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer! It's time for my media greeting routine!",
+            "choice_data_list": [
+                "What media greeting routine?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, don't act like you don't remember. Come on!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, are you surprised? This is my new call and response routine for greeting the media!"
+        },
+        {
+            "name": "King Halo",
+            "text": "That's why you need to remember the chant too! When I ask \"What's my name?\", you answer with \"King!\""
+        },
+        {
+            "name": "King Halo",
+            "text": "Come now, we don't have time. It's showtime for my adoring public!"
+        },
+        {
+            "name": "King Halo",
+            "text": "What's my naaame?!",
+            "choice_data_list": [
+                "King!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "She's the smartest of them all, and?",
+            "choice_data_list": [
+                "…The noblest!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Tch! And the wisest! So naturally…",
+            "choice_data_list": [
+                "She's first-rate and admired by everyone!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "That's right! And who stands on top of the world?"
+        },
+        {
+            "name": "King Halo",
+            "text": "The fastest! The strongest! She walks her own path! The one and only first-rate…",
+            "choice_data_list": [
+                "King Halo!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The crowd mutters among themselves."
+        },
+        {
+            "name": "Magazine Journalist",
+            "text": "Wh-what was that? A… self introduction?"
+        },
+        {
+            "name": "Paparazzi",
+            "text": "Hehe, not bad! Not bad! I love that kind of thing!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Attention, all the media gathered here! Prepare for a special announcement concerning my next objective!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I will take first place in the Takamatsunomiya Kinen!",
+            "color_text_info_list": [
+                "Takamatsunomiya Kinen"
+            ]
+        },
+        {
+            "name": "Magazine Journalist",
+            "text": "Takamatsunomiya?! But that's a sprint! What happened to your plan for the Classics?!"
+        },
+        {
+            "name": "Reporter",
+            "text": "A sudden change of course! Wow! This will be a great topic for our lunchtime talk show!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Please! This is not your ordinary change in plans. My path was like this from the beginning."
+        },
+        {
+            "name": "Photographer",
+            "text": "But what about your mother's fans? Surely they'll be disappointed."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph. I have nothing to do with my mother's fan base. I walk my own path, with my own fans."
+        },
+        {
+            "name": "King Halo",
+            "text": "The past is the past, and now is now. I must rid myself of unnecessary bindings."
+        },
+        {
+            "name": "King Halo",
+            "text": "I have my own strength, and that's more than enough."
+        },
+        {
+            "name": "King Halo",
+            "text": "Why, you ask? Because I'm a first-rate Umamusume! But I won't stop there—I'll surpass everything and everyone to become a <i>super</i> first-rate Umamusume!"
+        },
+        {
+            "name": "Photographer",
+            "text": "Super first-rate?"
+        },
+        {
+            "name": "Reporter",
+            "text": "Well then, please, tell us! What made you decide to run in the Takamatsunomiya Kinen?"
+        },
+        {
+            "name": "King Halo",
+            "text": "How about… to herald the coming of spring before the spring Tenno Sho?"
+        },
+        {
+            "name": "Magazine Journalist",
+            "text": "Huh? What does that even mean? Seems rather impulsive to me."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, have I piqued your interest? Come now, ask me all your questions."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm granting all of you the right to an interview! Ohohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo proudly makes her announcement much to the frustration and fascination of the crowd of reporters."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her triumphant, trademark laugh, she readies herself to deviate from the conventional path which brought her here."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now then, Trainer. Can you get to preparing my new training schedule for sprints right away?",
+            "choice_data_list": [
+                "You've got a lot of work ahead of you.",
+                "You've got a lot of work ahead of you."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course. After making such a declaration, I'm prepared to even crawl through mud if I have to."
+        },
+        {
+            "name": "King Halo",
+            "text": "One might say I'm doing a complete one-eighty now that I've finished the Triple Crown tour."
+        },
+        {
+            "name": "King Halo",
+            "text": "But even despite the sudden change in route, I'm about to stand on the grand G1 stage."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm sure everyone will have their own opinions. People will want to compare me to Special Week, who doesn't go against the grain."
+        },
+        {
+            "name": "King Halo",
+            "text": "But I won't quit now—not when I haven't even tried yet."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll keep putting in the effort to walk my own path."
+        },
+        {
+            "name": "King Halo",
+            "text": "No matter what perils are ahead of me, I'll be the one laughing victoriously at the end.",
+            "choice_data_list": [
+                "Let's do it!",
+                "Let's do it!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes! Let's give it our all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo is running faster than ever before, and our next objective becomes the Takamatsunomiya Kinen."
+        }
+    ]
+}

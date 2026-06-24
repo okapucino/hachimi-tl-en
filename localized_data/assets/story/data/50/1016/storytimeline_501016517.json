@@ -1,0 +1,37 @@
+{
+    "title": "振り向けばそこに……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm walking through the central plaza with Narita Brian, when…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Huh?!",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Guess it was just my shadow… Weird…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Did you see that just now?",
+            "choice_data_list": [
+                "I'll pretend I didn't."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch. This is the worst…"
+        }
+    ]
+}

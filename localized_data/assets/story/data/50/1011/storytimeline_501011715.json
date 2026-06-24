@@ -1,0 +1,79 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder and I have come to the track to watch some races."
+        },
+        {
+            "name": "Caster",
+            "text": "There she goes! Laser focused! Blazing ahead and across the finish liiine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Excuse me, Trainer.",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I know we planned to watch races today… But do you mind if we do something different?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Listening to all those cheers. I can't just stand around twiddling my thumbs.",
+            "choice_data_list": [
+                "Let's head back and do some laps.",
+                "Observation is a part of your training.",
+                "Observation is a part of your training."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Listening to all those cheers. I can't just stand around twiddling my thumbs.",
+            "choice_data_list": [
+                "Let's head back and do some laps.",
+                "Observation is a part of your training.",
+                "Observation is a part of your training."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Great! Thank you so much."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's hurry, then. We must begin before this fire within me dims."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head back to the academy together, and Grass Wonder runs late into the night."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I understand that, but…",
+            "choice_data_list": [
+                "We'll do extra training tomorrow, okay?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…Heh. Fair enough. I look forward to what you plan on adding."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Right now… I'll pay full attention to these races and preserve this urge to fuel me for tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "For the rest of our time at the venue, Grass Wonder observes every race with hawk-like attention."
+        }
+    ]
+}

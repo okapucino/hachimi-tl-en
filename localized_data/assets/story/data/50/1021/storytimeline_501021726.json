@@ -1,0 +1,69 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Tamamo Cross…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, look! Those plushies are Cuties, right?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross points toward a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "Do you want one?",
+                "Do you want one?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah. The pipsqueaks back home said somethin' about 'em bein' all the rage at school."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But… how many tries is it gonna take to nab one? If I get it first try, that's only a hundred yen.",
+            "choice_data_list": [
+                "But if I end up gettin' hooked…"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It could set me back upwards of 200—no, <i>1,000 yen!</i> That'd be a tragedy…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, why am I jinxin' it?! I gotta go in expectin' to win one!",
+            "choice_data_list": [
+                "Look no further, for I have just what you need.",
+                "Look no further, for I have just what you need."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya do? You're makin' it sound like ya got somethin' special lined up. C'mon, spill.",
+            "choice_data_list": [
+                "I'm going to take on the crane game for you!",
+                "I'm going to take on the crane game for you!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What?! Seriously?! You're willin' to shell out hard-earned coins for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Tamamo Cross still flustered, I insert a coin into the machine."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "T-Trainer, you're really somethin', ya know that? Guh… Okay, I'm cheerin' for ya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

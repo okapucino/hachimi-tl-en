@@ -1,0 +1,330 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day during the holidays, Symboli Rudolf asks me to come to the cafeteria."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter…</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "Grass, look! They brought out more cakes!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Really, Spe, that's your fourth one. I think you've had enough already…"
+        },
+        {
+            "name": "Special Week",
+            "text": "But look at the name! It's called Premium Matcha Cake! It looks sooo good!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Premium… Matcha…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I suppose we could take a <i>look</i>…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yay! Ehehe, it really is the most wonderful time of the year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cafeteria is crowded with Umamusume. As I try to make my way through…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah, Trainer! There you are. Welcome to the student council holiday party.",
+            "choice_data_list": [
+                "The student council's running this?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Naturally. We do this every year. Public events are an excellent way of raising student morale."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And logistical justifications aside, it would be a bit of a shame not to celebrate the holidays in <i>some</i> way, don't you think?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Attendance is voluntary, and students are free to come and go as they please. We usually see participation rates of around fifty percent…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "But this year, attendance has exceeded ninety percent. Which is to say, nearly the entire student body is present.",
+            "choice_data_list": [
+                "Ninety?! As in nine zero?!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As one of the organizers, I can't deny it's flattering, but at the same time, we didn't plan for this many attendees."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The entire student council is running itself ragged trying to cater to them all."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hate to invite you here only to abandon you, but it seems you may have to enjoy the party on your own."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I planned to show you around myself, but I doubt I'll have the chance.",
+            "choice_data_list": [
+                "No worries, I get it."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My apologies. But at the very least, I'm confident that you'll enjoy the festivities."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now, if that's all…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Excuse me, President! I'm sorry to interrupt, but…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm? What's wrong?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "We… we wanted to ask, um… Could you take a picture with us?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A photo? Of course."
+        },
+        {
+            "name": "Students",
+            "text": "Thank you! You're the best!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "We're so sorry for interrupting you, Trainer, but we thought this might be our only chance!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "The President looked so at ease when she was talking with you…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "…!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Sigh…</i> I am an open book, it seems. My dignity is in shambles…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I mustn't let the camera capture my embarrassment. Speaking of which…",
+            "choice_data_list": [
+                "Want me to take the photo?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If you would be so kind. Do try to get our best sides.",
+            "choice_data_list": [
+                "All right, say cheese…"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wait! Um… President, could you stand in the middle? With your arms crossed?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If you wish, but… why?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "You need to really look like the Emperor! I want to capture you at your coolest!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Very well. If that's what you want…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Then how about this?"
+        },
+        {
+            "name": "Students",
+            "text": "Eeeeek! That's so awesome!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have other poses too, you know."
+        },
+        {
+            "name": "Students",
+            "text": "Kyaaaaa! Sh-she's so… imperial!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha… I think I could get used to this."
+        },
+        {
+            "name": "Monologue",
+            "text": "This holiday party turns out to be a fun opportunity to see Rudolf cut loose a little."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Good grief. I knew I was right to seek you out."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Pardon?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've been working since this morning. You must be exhausted. Why don't you get some fresh air?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Surely the same goes for you? You had just as early a start as I did."
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>I</i> took a break earlier in the afternoon, as per your imperial decree. Or have you forgotten?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well… I suppose that's true, but…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No buts. I've already told the rest of the student council that you're indisposed."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It would only cause confusion if I were to change the story now. Are you certain that's wise?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Is it just me, or have you gotten less compromising recently? But very well. You've made it clear I have no choice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, Trainer, it seems I can either leave of my own volition or be chased out."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And seeing as I would prefer to leave with my dignity intact… would you come with me for a moment?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Look, Trainer."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We can see the entire academy from up here. Of course, this late in the day, it's all dark…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Except for the lights of the cafeteria. It's beautiful, don't you think? The way it shines in the darkness."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Every student of Tracen Academy is their own glimmer of light, and when they come together, they are radiant indeed."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's my place to do everything I can to help them shine brighter.",
+            "choice_data_list": [
+                "And it's my job to help <i>you</i> shine brighter.",
+                "And it's my job to help <i>you</i> shine brighter."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oho?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, aren't you confident. I hope you can live up to those words."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That aside…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Do I hear music in the air? That must be the start of the dance.",
+            "choice_data_list": [
+                "Are you sure? I don't hear anything."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We Umamusume have better hearing than humans, so that's only to be expected."
+        },
+        {
+            "name": "Monologue",
+            "text": "I really don't hear anything… but if she says so, then it must be true."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, we won't make it back before this song ends. In which case…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What do you say we have our own dance right here?",
+            "choice_data_list": [
+                "Y-you want to dance?!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Nervous, are you? Don't underestimate your dance partner."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The Emperor will take the lead."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Unless you're getting cold feet?",
+            "choice_data_list": [
+                "No, I'd… I'd love to."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I am pleased to hear it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, then. May I have this dance?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grip…</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now turn here, and… Oho? You're rather good at this."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha. I may have found myself the perfect dance partner."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us enjoy our private holiday ball for a while, until Symboli Rudolf has finally danced her fill."
+        }
+    ]
+}

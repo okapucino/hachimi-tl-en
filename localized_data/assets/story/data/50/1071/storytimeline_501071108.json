@@ -1,0 +1,441 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest—a huge event wherein Tracen Academy opens its doors to fans of all ages. This year, however…",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Little Girl",
+            "text": "Mommy, do you think I'll get to see Oguri up close?"
+        },
+        {
+            "name": "Female Fan",
+            "text": "Oh, don't you worry! It <i>is</i> very crowded, but I'm sure we'll get to see Oguri!"
+        },
+        {
+            "name": "Male Fan",
+            "text": "Wait, what? Oguri's event isn't until later? So I rushed out the door for nothing… Still, I just can't wait!"
+        },
+        {
+            "name": "Male Fan",
+            "text": "Man, it sure is packed, though. Is <i>everyone</i> here to see Oguri? She's so ridiculously popular."
+        },
+        {
+            "name": "Monologue",
+            "text": "The event is flooded with Oguri Cap fans, eager to get a glimpse of her!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The atmosphere of the Fan Fest is truly amazing. I suppose that's Oguri for you…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…",
+            "choice_data_list": [
+                "…Everything okay?",
+                "…Everything okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Seeing all these jubilant fans so excited to meet Oguri has made me wonder."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "How exactly… should I be interacting with fans?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I've always focused on claiming victory over my rivals and giving each race everything I have so that people might remember the me of that moment."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My own light shines ever brighter as I garner more and more experience competing against my precious rivals, and that light has formed an irrefutable trail behind me…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "With all the focus I've directed elsewhere, though, I think it could be said that I haven't devoted much attention to fans."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Of course, I have poured my heart and soul into my winning concerts, to express my gratitude to the fans who come to watch my races."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But then, as an Umamusume who lives to race, that's but a matter of course. Was there more I could have done for them?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I can't help but wonder."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…You see, I'm actually scheduled to participate in an event with Oguri later today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The notion of racing against her doesn't frighten me at all. And yet…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The thought of facing so many fans, and entertaining them alongside her… Well, that's a different matter."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm unsure as to how to approach the event, and I must admit it's making me somewhat anxious.",
+            "choice_data_list": [
+                "Why not imagine it's a race?",
+                "Why not imagine it's a race?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan puts everything she has into each race, and I think that devotion is exactly what her fans are dazzled by."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she commits herself to this Fan Fest event in the same way she commits to her races, then her fans will get exactly what they came here to see.",
+            "choice_data_list": [
+                "Go all out and the fans will love you.",
+                "Go all out and the fans will love you."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Are you certain?",
+            "choice_data_list": [
+                "I am, so get out there and knock those fans' socks off."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Hehe! Your choice of words is as entertaining as ever, Trainer… and reassuring, too."
+        },
+        {
+            "name": "Super Creek",
+            "text": "The wait is over! Our next \"Improv Race\" will be betweeeen…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oguri Cap and Mejiro Ardan! Come ooon dowwwn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I look forward to our competition."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Same. Good luck."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay! Same as always, after we give our contestants some prompts, they'll have to come up with the funniest answer they possibly can, and then it'll be up to you, the fans, to decide the winner!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Your hosts will be me—Super Creek—and Tamtam, whom you know as Tamamo Cross!",
+            "color_text_info_list": [
+                "Super Creek"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Da heck is this lineup, though?! These gals are so oblivious, they can't even <i>catch</i> jokes, let alone make 'em! I'm gonna turn into a skeleton waitin'!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aw, but Oguri and Ardan are such honest and innocent little cuties. It warms my heart just looking at them!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "See?! This is exactly what I mean! Creek doesn't even realize she's one of the airheads!",
+            "color_text_info_list": [
+                "Creek"
+            ]
+        },
+        {
+            "name": "Audience",
+            "text": "Bwahahaha!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama really is something. She can entertain everyone so effortlessly…",
+            "color_text_info_list": [
+                "Tama"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Improv Q&A… While I've never done anything like this before, it <i>is</i> a battle of wits involving rapid wordplay… so it's not entirely different from racing!)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay, let's get this started with the first prompt! \"Tamtam nearly tripped over her own feet rushing out the dorm this morning. Why?\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, why's da prompt about me?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Me!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(That was so fast!)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oguri's first up! Okay, what's your answer?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "To be first in line for the cafeteria's limited-time special, eggs-travagant eggs benedict!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>You</i> did that yesterday! <i>YOU</i> !"
+        },
+        {
+            "name": "Audience",
+            "text": "Bwahahaha!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(I refuse to lose!)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You're up, Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Tamamo is a straight-laced hard worker and I expect her roommate relies on her for certain things. As such…)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "To retrieve breakfast from the cafeteria for Oguri, who overslept!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whaddya think I am, Oguri's lackey? Her mom?!"
+        },
+        {
+            "name": "Audience",
+            "text": "Bwahahaha!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It looks like you've both tickled tons of funny bones! This should be a close match!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Nice one."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I have every intention of putting up a fight."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh no. These idiots are <i>actually</i> gonna do the whole routine. We're cooked, guys…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A dead heat (of sorts) rages on between Mejiro Ardan and Oguri Cap…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "All right, the votes are in!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ngh… I made so many quips… I'm losin' my… voice…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And the winner is…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oguri, by a hair!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap, clap, clap!</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Yes!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Argh!"
+        },
+        {
+            "name": "Male Ardan Fan",
+            "text": "Mejiro Ardaaan!"
+        },
+        {
+            "name": "Male Ardan Fan",
+            "text": "You were so close! But you were really hilarious! Nice job out there!"
+        },
+        {
+            "name": "Female Ardan Fan",
+            "text": "I never get to see this side of you at the track! It's <i>soooo</i> cute! I hope you do this again someday!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(What a relief… It appears the fans enjoyed themselves!)"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It looks like both our fans had a good time. That's good."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes… It is indeed."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Let's have another contest for the fans sometime. We could do improv again… or take it to the track!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sure!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "The competitors are shaking hands! What a beautiful sight!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Know what? Someone else come take da mic. I give up…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ardan, by a hair!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap, clap, clap!</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…?! I did it!"
+        },
+        {
+            "name": "Male Ardan Fan",
+            "text": "Mejiro Ardaaan!"
+        },
+        {
+            "name": "Male Ardan Fan",
+            "text": "You were <i>hilarious!</i> Do this again, okay?! I'll be first in line to get tickets!"
+        },
+        {
+            "name": "Female Ardan Fan",
+            "text": "I never get to see this side of you at the track! It's <i>soooo</i> cute!"
+        },
+        {
+            "name": "Ardan Fans",
+            "text": "Ardan! Mejiro Ardan! Miss Ardan! Ardaaan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Have I… always had this many fans?!)"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It looks like both our fans had a good time. That's good."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes… It is indeed."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Let's have another contest for the fans sometime. We could do improv again… or take it to the track!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes, let's. And next time, I shan't lose!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "The competitors are shaking hands! What a beautiful sight!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Know what? Someone else come take da mic. I give up…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan's event ends on a high note, but elsewhere, at this very moment…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I've been away for so long, and yet so all these people have come to see me? I… I don't know what to say!"
+        },
+        {
+            "name": "Host",
+            "text": "Now then, I hear you have a major announcement to make. Whatever could it be?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I, Sakura Chiyono O… plan to return to racing at this year's Takarazuka Kinen!"
+        },
+        {
+            "name": "Fans",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm currently working as hard as I can on my final preparations! I really hope you'll all look forward to my comeback with bated breath!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "My name is Sakura Chiyono O… and I will blossom on the turf once more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With word of Sakura Chiyono O's return spreading like wildfire, everyone's suddenly talking about the Takarazuka Kinen!"
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, after a bit of shopping, Matikanefukukitaru and I are walking through the shopping district when…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh… Look at all those people. Do you think a fortune teller has set up shop or something?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "How about you over there with the daruma charm on your head? Care to give it a spin?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "A raffle? A game that tests our luck?! Mwahaha! The gods must have wanted me to see this!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's like drawing a fortune slip with a prize attached! There's no way we can pass this up!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer, some change please… No, you have a raffle ticket, don't you?!",
+            "choice_data_list": [
+                "Yeah, I think I got one while we were shopping."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wooo! Okay, let's join hands and fuse our energies into one!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "With our luck combined, there's nothing to fear! I just know it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our spiritual energies channeled as one, we reach out and grasp the handle of the raffle spinner…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hyaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She belts out a rattling cry as we give it a strong crank."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the spinner's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wooooo! Praise be! Receiving the grand-prize is just like receiving a great blessing at the shrine!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "With both the gods and Buddha in this world, I guess we reap double the rewards for good deeds!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wahoo! Wahoo! Wa-wa-hurray!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know where she came up with that chant, but Matikanefukukitaru seems to be over the moon."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Woooo! We really won! That means we can go together!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We just have to decide when. A lucky trip like this needs to have an appropriately auspicious day."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So it would probably be best to leave it up to the fortune slips. What do you say, Trainer?",
+            "choice_data_list": [
+                "Sure, let's leave it up to fate.",
+                "Sure, let's leave it up to fate."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right then! Onward to today's second lucky draw!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We head to a shrine to let the fortune slips determine the date for our vacation."
+        },
+        {
+            "name": "Monologue",
+            "text": "The slips usually have a section on them devoted to travel plans, so we decide to use that for reference."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right, let's give this an unravel… And here we are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now, what do we have here…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Gyahhhhh! What does this mean?!",
+            "choice_data_list": [
+                "What does it say?",
+                "What does it say?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can't believe this! It usually says something like \"the present time is fortuitous\" or \"a location in the northeast would be favorable.\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But look! It says, \"You're gonna want to wait a year—trust me. ♪\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pretty direct for a fortune, don't you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "One year… I guess the gods want us to wait a while."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, what a shame. However, to ignore a direction from the divine would be a grave transgression."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Good things come to those who wait, after all! I'm sure there's a very good reason for the delay."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer, it's only one year! Will you join me for the hot springs when that time comes?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't worry, the hot springs aren't going anywhere! And if they did, I'd chase them down.",
+            "choice_data_list": [
+                "Sure. Let's go next year."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay, it's a promise! I'm gonna hold you to it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And when that day comes, we'll soak in there for hours on end and feast on the finest local delicacies!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Put 'er there, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The clasp of our handshake echoes through the air. With a hot spring trip to look forward to, Matikanefukukitaru's enthusiasm is at an all-time high."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ooh! It's not the grand-prize, but this isn't half bad! I'd compare it to pulling \"good fortune\" on a fortune slip!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehehe! It's so packed with nutrients, just one bite will probably take you straight to heaven."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And the carrot's reddish hue looks awfully auspicious…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hmm… But it's still missing something.",
+            "choice_data_list": [
+                "What would that be?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's lacking the rich flavors befitting a New Year's feast. If we want this hamburger steak to be even more auspicious…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've got it! Come with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to go along with whatever Matikanefukukitaru has in mind."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We can use the kitchen here to make a cream sauce to go on top of the hamburger steak!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now it's ready! The reddish carrot and white cream sauce together give it a celebratory flair! That's a lucky color combination, you know!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What joy! What bliss! All right, Trainer, let's dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy the meal together. Her homemade sauce really adds a rich, creamy depth to the dish!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Carrots, eh? Well, the sheer number of them is nothing to scoff at, so I'd say this is about the same as \"modest fortune\" on a fortune slip."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We should definitely be accepting them with gratitude in our hearts."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Still, it wouldn't do to keep these all to ourselves."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I know! Trainer, why don't we go on a pilgrimage of good fortune, sharing our blessings far and wide?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we go around handing out carrots to all the Umamusume we meet."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you, Fukukitaru. I'll eat it during my break at training.",
+            "color_text_info_list": [
+                "Fukukitaru"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oho! The heck do we have here? A carrot? Don't mind if I do!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I owe you one. And I always pay my debts."
+        },
+        {
+            "name": "Monologue",
+            "text": "After handing out three carrots…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hey, wait just a second! At this rate, we'll be at this until morning!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Why don't we just eat the rest of them!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Cutting our pilgrimage short at three stops, we gorge on the rest of the carrots."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Whaaat?! Just one measly carrot?! This must be the work of the demon-goddess Kishimojin!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If this were a fortune slip, maybe it would be \"modest fortune.\" Eh, on second thought, it's more like… \"meh fortune.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't remember ever seeing \"meh fortune\" on one of those slips before, but sure."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Still, even one carrot makes for a preeetty good snack. Let's dig in, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "We split the carrot in half and enjoy a small snack together."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All finished? Okay. Let us bring our humble feast to a close, and celebrate with the traditional single clap!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aaaand…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The sound of our clap echoes through the air. It somehow makes the whole event feel a bit more special."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Tissues?! Is this the malady that has been forewarned for centuries—do we have a \"dud\" on our hands?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This is just like receiving \"misfortune\" on a fortune slip! No, make that \"<i>great</i> misfortune\"! How could this happen to us?! Waaaaah!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right, let's turn this around and make paper dolls out of them!",
+            "choice_data_list": [
+                "Paper dolls? But why?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "To ward off evil spirits. They'll take the brunt of the bad luck for us."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "There's no time to waste! Let's get to folding! Chop-chop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make paper dolls out of all the tissues. Their faces are crumpled with misfortune."
+        }
+    ]
+}

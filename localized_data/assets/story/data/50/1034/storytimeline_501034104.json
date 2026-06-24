@@ -1,0 +1,282 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As the end of summer camp draws near, the students are attending a night walk as part of their recreational activities."
+        },
+        {
+            "name": "Monologue",
+            "text": "While officially called a night walk, it's more of a \"fright night\" in practice. I've come along to keep watch of everyone."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, I g-guess nighttime frights go hand 'n' hand with summer… S-sounds like fun, right?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Specters or ghouls, whatever—I can handle 'em all!",
+            "choice_data_list": [
+                "…Do you scare easily?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-whatta dumb question! Izzat some kinda joke?! Nothin' scares the mighty Inari One!"
+        },
+        {
+            "name": "Inari One",
+            "text": "This'll be a piece of cake, just you watch!"
+        },
+        {
+            "name": "Student Organizer",
+            "text": "All right, once you've drawn your partner from the box, make your way to the designated area!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's partner turns out to be Tamamo Cross—a gutsy runner born and raised in Kansai who's been steadily climbing the ranks.",
+            "color_text_info_list": [
+                "Tamamo Cross"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Like Inari One, her cheerful demeanor makes her rather dependable to others. However…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-whazza matter, Tama? You gettin' scared or somethin'? Gonna go cryin' home to Mommy?",
+            "color_text_info_list": [
+                "Tama"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O-oh <i>please!</i> We all know you're gonna be the one cryin'! I can already see ya shakin' under the covers!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh! Gimme a break! You're not foolin' anyone with the way your legs are tremblin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ha! Ya hear that waver in your voice?! You won't last a second and ya know it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Grrrr!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Grrrr!",
+            "choice_data_list": [
+                "Sounds to me like you're both scare—"
+            ]
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "What wazzat?! What was dat?!"
+        },
+        {
+            "name": "Student Organizer",
+            "text": "Tamamo Cross and Inari One, you're up next. Bon voyage!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their faces still look a little tense. Maybe there's something I can suggest to ease their nerves…",
+            "choice_data_list": [
+                "Screaming can help you forget about the fear.",
+                "No shame in speed walking through it all."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "S-sounds like advice Tama could use! You're always yellin' anyway, so why not let 'er rip?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What?! Try listenin' to yourself! You're the one screamin' all the time! Go on and quit holdin' back—I'll cover my ears!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, they begin their rowdy trek into the night…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, well, well! This is just what the doctor ordered! A nice relaxin' walk in the healin' ambience of nature!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "R-right with you on that one! Sooo quiet and relaxin'! Yep… My heart feels at ease—"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, rustle!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Hyeee!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, crack!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-whazza matter with you?! Stop squealin' like a crazy person!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Y-you're da one who sounds like you're gonna cry!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Whoooosh!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "…"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "AAAAAGH!"
+        },
+        {
+            "name": "Inari One",
+            "text": "The hell?! Why ya gotta scream so loud?! I knew you were a big ol' fraidy-cat!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Aw, shut it! You're da one makin' <i>me</i> go deaf! I swear, bein' around scaredy-cats like you's bad for my health!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, rustle… WHOOOOSH!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "HYAAAAAGH!"
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Pant, pant…</i> W-we finally made it outta there…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff, huff…</i> I thought I was gonna lose my voice…"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Hey, Tama."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…Inari."
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Don't tell no one 'bout what happened tonight? Cool. Don't tell nobody 'bout what happened tonight? Cool."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the quiet of the night, Inari One and Tamamo Cross share a secret summer memory."
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, I bet you'd like that, wouldn't ya, Tama? Go ahead, set the pace and I'll follow along! Ya can thank me later!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh?! Speak for yourself! You should thank <i>me</i> for chasin' after you when ya eventually get lost tryna escape!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, they begin their rowdy trek into the night…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, well, well! This is just what the doctor ordered! A nice relaxin' walk in the healin' ambience of nature!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "R-right with you on that one! Sooo quiet and relaxin'! Yep… My heart feels at ease—"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, rustle!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Hyeee!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, crack!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-whazza matter with you?! Stop squealin' like a crazy person!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Y-you're da one who sounds like you're gonna cry!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Whoooosh!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "H-hehe… It's okay. I know ya wanna make a run for it!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Quit tryna sound tough! You're itchin' to split, I can tell!"
+        },
+        {
+            "name": "Obscure Noise",
+            "text": "<i>Rustle, rustle… WHOOOOSH!</i>"
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "…!"
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Pant, pant…</i> I'm completely… worn out…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff, huff…</i> That mighta been da fastest I ever ran…"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Hey, Tama."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…Inari."
+        },
+        {
+            "name": "Inari & Tamamo",
+            "text": "Don't tell no one 'bout what happened tonight? Cool. Don't tell nobody 'bout what happened tonight? Cool."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the quiet of the night, Inari One and Tamamo Cross share a secret summer memory."
+        }
+    ]
+}

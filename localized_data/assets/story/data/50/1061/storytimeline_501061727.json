@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "King Halo",
+            "text": "Now that's what I call first-rate skill! Nice job, Trainer."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe. Look at the new recruits to my Halo Army!",
+            "choice_data_list": [
+                "I'm glad you're happy."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course I'm happy! Here, I'll grant you the right to receive my compliments!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, let's make our triumphant return! Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

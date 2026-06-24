@@ -1,0 +1,25 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "Can you feel the excitement in the air, Trainer? You could cut the tension with a knife."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The eyes of the crowd are on us, watching our every move."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A fitting stage to demonstrate my skills, don't you agree?",
+            "choice_data_list": [
+                "Bring home that victory!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But of course. Victory is the podium from which the Emperor leads her people!"
+        }
+    ]
+}

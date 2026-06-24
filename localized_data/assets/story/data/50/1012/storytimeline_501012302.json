@@ -1,0 +1,274 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One evening, as we're walking through the shopping district…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? What's with that crowd?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wow, we can win a whole bushel of carrots? That sounds like it'd make for a nice gift!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nothing wrong with trying your luck once in a while! What do we need to get a spin in?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Looks like we have to get a raffle ticket first. I'll grab some things for dinner real quick!"
+        },
+        {
+            "text": "Hishi Amazon wraps up her shopping in an instant and returns with a raffle ticket in hand."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, let's give it a go! Watch me win big!"
+        },
+        {
+            "text": "She spins the tumbler's handle with gusto!"
+        },
+        {
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We got the <i>grand</i> prize?! This can't be real! What should I do, Teach?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Man, they're gonna flip when they hear about this!"
+        },
+        {
+            "text": "From the sound of things, it seems like she wants to take all of her dorm residents with her to the resort, but…",
+            "choice_data_list": [
+                "I think only two people can go…"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hang on, you're right!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm… that changes things."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aha! I can give this to someone who deserves it for working so hard! Except everyone's been working hard recently…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "No, I can't do that! Everyone'd start fighting to go, and things would get messy real quick! Man, what now?",
+            "choice_data_list": [
+                "Why don't you use it for yourself?",
+                "Why don't you use it for yourself?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Me? But I'm so busy with training…",
+            "choice_data_list": [
+                "You can save it as a reward for later, then."
+            ]
+        },
+        {
+            "text": "I tell her how she'll probably have more time once the Twinkle Series is over, so she'll have plenty of chances to use the coupon then."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, that's a solid point. If I use it, no one'd try bickering over the coupon either!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Still, it's supposed to be a vacation for two, so I'll need to invite someone to go with me…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ooh, I've got just the person! You should come with me, Teach! It'd be nice to go on a relaxing getaway together!",
+            "choice_data_list": [
+                "Are you sure you want to invite me?",
+                "Are you sure you want to invite me?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What do you mean? Of course I do! You're my partner in crime!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Here, keep this tacked up somewhere in your office so we don't forget!"
+        },
+        {
+            "text": "And now we have one more thing to look forward to."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoooa! I did it, Teach! Man, it looks delicious!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Everyone back at Miho will love thi—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait. This single hamburger steak won't be enough for the whole dorm…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "There's gotta be some way I can feed 'em all…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, I know what to do! I'll try to memorize how it tastes so I can recreate it for everyone!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, now that that's settled, it's time for a taste test! You help too, Teach!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoa… This tastes great! How'd they make it so good?!"
+        },
+        {
+            "text": "We share the hamburger steak. It practically melts in the mouth."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nice, this is just what I wanted! Hehe!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "With this many carrots, I can make carrot anything. Carrot curry, carrot stew…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hang on, now. We can even have a carrot barbecue party with all these carrots."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We can all hang out together, eating and drinking… I think that's a solid plan!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'll talk it over with Taiki! You should come too, Teach!"
+        },
+        {
+            "text": "That weekend, Miho Dormitory hosts a massive barbecue party!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Dang it, I only got the third prize?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "There's no way I can feed everyone on one carrot alone."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What should I even do with this? It wouldn't feel right if I ate it all by myself…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Teach, is there anything you're cravin' tonight?"
+        },
+        {
+            "text": "That night, the two of us have some delicious curry together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh?! Man, not the consolation prize!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Welp, that's a raffle for you. I guess it's pretty rare to strike gold."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right, time to change gears! Let's head home, Teach!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "text": "It's a shame, but I guess luck wasn't on our side tonight."
+        }
+    ]
+}

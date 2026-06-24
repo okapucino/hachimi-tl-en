@@ -1,0 +1,90 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've just wrapped up training for the day with Kitasan Black when she pauses and turns to me."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um, Trainer?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Would it be all right if I continue training a little by myself after this?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I don't know how to explain it, but… I don't feel like I've done enough running today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black's gaze is focused on Satono Diamond, who is still running silently around the track even now."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I can't afford to lose to Dia. I just can't!",
+            "choice_data_list": [
+                "I understand! I'll stay behind with you!",
+                "I understand! I'll stay behind with you!",
+                "You'll need to pace yourself if you don't want to lose."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I can't afford to lose to Dia. I just can't!",
+            "choice_data_list": [
+                "I understand! I'll stay behind with you!",
+                "I understand! I'll stay behind with you!",
+                "You'll need to pace yourself if you don't want to lose."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Just like how sharing the weight of a portable shrine with everyone at a festival makes me feel more powerful…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I just know I'll be able to do great so long as I'm with you, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After wrapping up our conversation, Kitasan Black and I do some extra intense training together."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Urgh… I know it's important to do things in moderation, but still…",
+            "choice_data_list": [
+                "Instead of running, could I ask you a favor?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A favor? Sure…",
+            "choice_data_list": [
+                "Can you tell me what you think of this new training routine I'm drafting?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Of course! I'd be glad to if it'll help improve my running!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmm. This combination of exercises can definitely help strengthen my weaknesses…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, could we increase the amount of weight lifting I do in this section? Considering how I did in my previous scrimmage…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I have a meeting with Kitasan Black and iron out a more efficient training routine for her."
+        }
+    ]
+}

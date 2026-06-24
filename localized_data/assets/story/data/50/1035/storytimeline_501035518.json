@@ -1,0 +1,45 @@
+{
+    "title": "甘味への道は遠く",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Aaahhh… Urghhhh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see Winning Ticket walking toward me, looking unusually gloomy."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, Trainer! Listen, I really need to tell you something!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You see… I went to this cool, new pastry shop. But… but!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Right when I got there… they were <i>sold out!</i>",
+            "choice_data_list": [
+                "Did you want to try it that bad?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Of <i>course</i> I wanted to try it! They sold out right before I got to the front of the line—it's so frustrating!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I lined up for an hour too, but I didn't get anything! I'm still shaking from head to toe!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I wish got there earlier… I'm such a dummy—a big, big dummyyyy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket's sad cries resound down the whole street."
+        }
+    ]
+}

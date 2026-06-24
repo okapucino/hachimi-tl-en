@@ -1,0 +1,34 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While we're at the gym, Mejiro Ryan looks at me and groans weakly."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Uuugh… My muscles will never be their best at this rate…",
+            "choice_data_list": [
+                "Did something happen?",
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I haven't been able to lift as much as usual during my bench presses."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I've had no luck adding weight to my chest and leg presses either."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Guh… What the heck is going on with my body?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Amidst all the racing she's been doing lately, she hasn't noticed her growing fatigue. Maybe I should rethink her schedule…"
+        }
+    ]
+}

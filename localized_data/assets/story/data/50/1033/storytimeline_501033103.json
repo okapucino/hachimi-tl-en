@@ -1,0 +1,122 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp begins today! I'm eager to begin training in preparation for the Kikuka Sho, the last race of the Classic Triple Crown."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, after arriving at the lodge, Admire Vega seems sidetracked with something."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey… You haven't seen Shinko Windy, have you?",
+            "choice_data_list": [
+                "No, I haven't."
+            ],
+            "color_text_info_list": [
+                "Shinko Windy"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Really? Ugh… Where did she wander off to?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabeee!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I found Windy! Thanks for your help!",
+            "color_text_info_list": [
+                "Windy"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grrr… What're ya looking for me fooor?! Leave me alone!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haha, how am I supposed to do that when we're classmates?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "…!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Look, they're doing roll call over there. You only need to hang around a little longer!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Well… if you say so…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh…</i> All right, now that you've found Windy, I'll be—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ayabe! Ticket just found Taishin and is bringing her back to our class's line.",
+            "color_text_info_list": [
+                "Taishin",
+                "Ticket"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket found her resting in a corner. She was feeling sick after getting off the bus and being surrounded by all the other students. Sorry for all the trouble."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's fine if you found her. That sounds like everyone, then."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Top Road! I can handle the roll call."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Okaaay!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "All right… Thanks for the report, Class Representative."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sorry for leaving you in charge of all these troublemakers. As your classmate, I should have helped you with the responsibility."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Don't worry! You're managing the entire student council, Air Groove. Leave the classes to me!",
+            "color_text_info_list": [
+                "Air Groove"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "And actually, I got a lot of help from Ayabe!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If we don't finish roll call, we can't start getting ready for training."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hehe, I knew I could count on you! You're such a huge help!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah, yeah. You don't have to say all that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching Admire Vega around her classmates, she seems like a different person from the taciturn, training-focused Umamusume I'm used to."
+        }
+    ]
+}

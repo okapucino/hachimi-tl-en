@@ -1,0 +1,454 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki and I have come to the shopping district to buy some daily necessities when we spot a throng of people ahead of us."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It appears something is happening up ahead."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah, a raffle."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oh, hello there. Are you two heading home? Before you do, you wouldn't happen to have a raffle ticket on you, would you?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "A raffle ticket? As a matter of fact, I do. I received one earlier."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Great! Come on over, then!",
+            "choice_data_list": [
+                "Go try your luck, Yaeno!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm… I wouldn't want the ticket go to waste, but…",
+            "choice_data_list": [
+                "But?",
+                "But?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When I was a child, I once destroyed a raffle machine in a fit of rage because I couldn't accept the results."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Afterward, I was forbidden from entering any more local raffles."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Since I'm still unaccustomed to them, I'm… quite nervous about how I'll react!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Please, won't you turn the lever with me?",
+            "choice_data_list": [
+                "No problem!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You have my thanks. Now, then…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki and I give the raffle machine a gentle spin."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The grand prize!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HNGH! …Phew."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "How fortuitous.",
+            "choice_data_list": [
+                "Oh, come on! You gotta get more excited than that!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I will not! There's no greater mark of immaturity than being swept up in emotion."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I must remain composed at all times!",
+            "choice_data_list": [
+                "You don't have to suppress your joy!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that as long as she doesn't go running around wildly or something, it's fine to show as much happiness as she wants."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I-is that so? So it's all right for me to let loose this delight I'm feeling?",
+            "choice_data_list": [
+                "Yeah! Let's celebrate together!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Let's!",
+            "choice_data_list": [
+                "Hip! Hip!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HURRAAAY!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'd like for you to use this coupon.",
+            "choice_data_list": [
+                "Huh? But you won it with your raffle ticket…",
+                "Huh? But you won it with your raffle ticket…"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I've been observing you as you walk and noticed that your movements are a bit rigid, especially in the neck, shoulders, and lower back."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I suspect you're suffering from stiff muscles, in which case I recommend going to a hot spring to recuperate."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. My shoulders and back <i>do</i> feel stiff, but when I point out that she must be tired as well…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Nonsense. I'm the picture of health. Thanks to your guidance, nary a trace of fatigue lingers within my body.",
+            "choice_data_list": [
+                "Sure, but you could still definitely use a break.",
+                "Sure, but you could still definitely use a break."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd even argue it's especially important for someone like Yaeno Muteki, who keeps herself to such militantly high standards, to take breaks."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm… training at a hot spring might be a refreshing change of pace."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Fortunately, the coupon's for two, so how about this?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Once our schedule opens up, why don't we both go together?",
+            "choice_data_list": [
+                "Sounds like a plan!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Then it's decided. I shall leave the coupon in your care."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…Hehe. I can hardly wait."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Yaeno Muteki and I make a fun plan to look forward to!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Th-this carrot hamburger steak!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Rice.",
+            "choice_data_list": [
+                "…What?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "We need rice."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I've had this hamburger steak before back at home. Someone gave one to my family as a year-end gift."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The succulent demi-glace sauce goes exceptionally well with rice! We refilled our bowls so quickly, we ran out of rice before we knew it!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It won't suffice to bring back this deluxe carrot hamburger steak on its own."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Let's buy some rice and hurry back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At Yaeno Muteki's request, we go buy a bag of rice before heading home."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>…Munch, munch, munch.</i>",
+            "choice_data_list": [
+                "I can't stop eating! This is so good!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Isn't it wonderful? What can you call this combination of deluxe carrot hamburger steak and rice if not pure bliss?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Long live demi-glace sauce!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Yaeno Muteki, I get the chance to delight in the ultimate pairing of deluxe carrot hamburger steak and rice!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "What?! That's so many!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "By no means can we finish all these with just the two of us."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Forgive me for pressing such a silly question upon you, but…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Since I'm unfamiliar with the details of how friendships work, there's something I'd like to confirm with you."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Would it be considered rude to offer my classmates food made with these carrots?",
+            "choice_data_list": [
+                "Not at all!",
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Really? Then I think I'll prepare some dishes for Chiyono O and Ardan."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Mmm! That was delicious!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thanks for the home-cooked carrot feast, Yaeno!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Everything was delectable. I particularly liked the refreshing taste of the carrot rice."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…! I… I'm glad you both enjoyed the meal."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Carrots are highly nutritious, so when I came into possession of a wealth of carrots, I immediately thought of you two."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I know it was presumptuous, but I hope you'll forgive me for showing up suddenly with so many."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my… You have nothing to apologize for, Yaeno. Thank you so much for this. Hehehe. I'm so glad you think so dearly of us."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Same! That's precisely what they mean when they say, \"Show humanity to your enemy and a carrot to your rival!\""
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…Hmm? Why do I feel like I've heard something similar before?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Interesting proverb aside, Yaeno Muteki seems more than pleased that the two enjoyed the carrot dishes she made."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm, a single carrot…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I think I'll pickle this. Pickles are great for replenishing one's sodium levels, and are perfect for snacking on during breaks between training."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "They make a good lunch served with rice balls as well.",
+            "choice_data_list": [
+                "That's a great idea!",
+                "That's a great idea!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "So it is, if I do say so myself."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "One look at this carrot's luster was enough to convince me to pickle it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Would you like to try some once it's ready? I'll bring it to our next training session."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Yaeno Muteki and I have the pickled carrot. It's delightful, with just the right amount of salt!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "…I see. This must have been a test.",
+            "choice_data_list": [
+                "A test?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. Were you not testing to see if I would be able to calmly accept even the bitterest of raffle outcomes?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "What?! Why would I even consider doing such a thing?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Heh. You needn't try to hide the truth. I know I am merely reaping what I sowed long, long ago."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll show you how capable I am of enduring this humiliating outcome with full composure!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inhale… Exhale…</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Tissues… What more perfect and universally utilitarian a prize could one ask for?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Heh… Behold! I was able to transform a single raffle ticket into <i>this</i> much paper!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If that isn't the definition of good fortune, then what is? Not only that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wouldn't say Yaeno Muteki is perfectly composed, but she manages to stay reasonably calm, showing only a hint of disappointment."
+        }
+    ]
+}

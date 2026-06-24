@@ -1,0 +1,399 @@
+{
+    "title": "いいじゃん？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Local A",
+            "text": "Oh, this month's Twinkle Monthly is out. I knew the Oka Sho feature was gonna be huge."
+        },
+        {
+            "name": "Local B",
+            "text": "But the Satsuki Sho winner was really something! …What was her name again?"
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Ah, Jordan! Those nails you uploaded yesterday were totally adorbs! Like, I'm obsessed!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I know, right? You get it!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ready… go!"
+        },
+        {
+            "name": "Gyarus",
+            "text": "Besties… ♪"
+        },
+        {
+            "name": "Jordan and Friends",
+            "text": "Unite! ☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, was that great or what? I'm gonna upload it to UmaTok.",
+            "color_text_info_list": [
+                "UmaTok"
+            ]
+        },
+        {
+            "name": "Teacher",
+            "text": "Tosen Jordan! Did you forget about your math lesson?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh… Uh…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Run away! ☆"
+        },
+        {
+            "name": "Gyarus",
+            "text": "Yeeeah! ☆"
+        },
+        {
+            "name": "Teacher",
+            "text": "Hey! That's it! I'll be speaking with your trainer!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What?! Is that really necessary?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, well if it isn't Tosen Jordan. Sup?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ew, no. Hearing you say my full name just sounds weird."
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha, okay then, Jordan, I—"
+        },
+        {
+            "name": "Gyaru B",
+            "text": "Oh, my gosh. Is that Jordan… with City?! That's, like, the strongest combo ever!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh. Looks like you've got some admirers. Keep it up, Jordan."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whaaat?"
+        },
+        {
+            "name": "Gyarus",
+            "text": "Get it, Jordaaan!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Hehe. I will."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I'm attending some lectures for trainers given by special guests on the outdoor stage."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, Trainer <username>?",
+            "choice_data_list": [
+                "Trainer Kiryuin!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's a fellow trainer who joined Tracen at the same time as me. We both work hard to push each other to be better trainers."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Are you attending \"A New Proposal for Training Cleats\"?",
+            "choice_data_list": [
+                "I am. I'm also going to—"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, don't tell me! You're going to \"Useful Plyometrics\" and \"Racing Patterns and Competitive Thinking\" too?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Great! I am too! Shall we go together?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I was thinking we could compare notes in case it's too difficult to keep up.",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you so much!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "How to overtake front runners from their tells. Practice predicting movement in pairs, with one running in front of the other… Hm."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Meek is good as both a pace chaser and a late surger, so this training should be effective for her!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um, Trainer <username>! If it's okay with you, why don't we try out the method together?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I couldn't have hoped for a better suggestion. Tosen Jordan is also a great pace chaser and late surger. This training certainly won't hurt.",
+            "choice_data_list": [
+                "It'd be my pleasure!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you so much! I'm looking forward to it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Tosen Jordan and I team up with Trainer Kiryuin and her trainee, Happy Meek, for a joint training session.",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "…Hello."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Meek. Today, I'd like the two of you to practice taking the lead after the third corner."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "…Okay."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "One of you will sit back until the final corner and watch for the tells of the other."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "See whether she moves to the inside or outside, how she shifts her weight… Then, use those tells to determine how to best overtake her."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa. That's, like, next level. Way over my head.",
+            "choice_data_list": [
+                "Do you think you could break it down a little more?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh! G-good idea. Apologies. Let's see…"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "It's okay, Trainer. You don't have to force yourself to simplify it."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I want to understand what you said… I'll study the difficult words too."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "…Meek."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, so did you get what she was saying back there? 'Cause for me, it literally went in one ear and out the other."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "…It was really hard."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Right?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "But my trainer works really hard for my sake."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I… want to match that. Even though it's hard, I have to work hard too."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…But like, aren't there times when you just can't understand even though you really want to?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What do you do then?",
+            "choice_data_list": [
+                "Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Trainer?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What? Are we doing it now? Or…",
+            "choice_data_list": [
+                "You know what to look for?",
+                "You know what to look for?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uhh, I mean…",
+            "choice_data_list": [
+                "If her ears move on the fourth corner, book it on her inside."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? Her ears?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Is it really that simple? Is that what all that shifting weight and tells stuff was about?",
+            "choice_data_list": [
+                "You don't have to think too hard about it."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh-huh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "They begin the exercise, and it's Tosen Jordan's turn to pass this time."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "If the front runner makes a front runner telling move… It's possible to confuse the opponent and… uh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Huh? Her footsteps don't sound any closer. Is she… not planning to pass? Then, I guess…"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I just make a break for it."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(Her ears turned this way on the fourth corner! That means…)"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "She's making a move! I can't let her… Huh? Gyah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the fourth corner, Happy Meek pins her ears and accelerates, but centrifugal force drives her farther and farther to the outside."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "YAAAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With no obstacles left in front of her, Tosen Jordan rides the rail straight through the finish line!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>. Was that…",
+            "choice_data_list": [
+                "The strategy only works in a very specific situation, but…"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It's true that the inside tends to open up if they sprint on the fourth corner. Centrifugal force will push them to the outside no matter what."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "And it's true that many Umamusume instinctively pin back their ears when they're about to sprint… including Meek."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It's as simple as can be when you think about it. I was so fixated on what we heard in the lecture that I forgot a basic tell like that."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "She passed me, Trainer… Even though you taught me what to do…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "…Meek."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It's not your fault. I should be apologizing to you."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "This has been an eye-opening exercise. Why don't we go over it when we get back? There's so much I'd like to teach you."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Yes… I'd like that. I want to understand what you were trying to teach me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So our joint training comes to a close."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're mad smart, Trainer.",
+            "choice_data_list": [
+                "In the end, it was your strength that allowed you to pass her.",
+                "In the end, it was your strength that allowed you to pass her."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That's the problem with you. Learn to take the compliment, fam."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, you <i>are</i> super smart. Like, for real."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…If only I could understand all your strategies, maybe I'd be a stronger runner."
+        }
+    ]
+}

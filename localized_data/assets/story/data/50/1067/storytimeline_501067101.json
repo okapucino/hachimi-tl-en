@@ -1,0 +1,388 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hey there!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Dia & Kitasan",
+            "text": "Thanks for joining us for our first shrine visit of the year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us head to a shrine so Satono Diamond and Kitasan Black can start off the new year by conveying their passionate wishes to the divine."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm… I don't know what to wish for.",
+            "choice_data_list": [
+                "Don't you want to win the Classic Triple Crown?",
+                "Don't you want to win the Classic Triple Crown?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, but that's something I need to accomplish myself, not something I should ask the divine to intercede with.",
+            "choice_data_list": [
+                "How about praying to break your family's jinx?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll break that myself with my own strength!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "See? This is why I can never think of what to pray for. I find myself stumped every year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking that into consideration, I suggest she simply declare her goal for the year instead."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What a wonderful idea! I won't be able to back down once I make it official!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "This won't simply be a prayer for victory, but an oath for victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears she's going to make an incredibly weighty pledge."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What should I make my goal for the year, though? It seems too obvious to simply aim for the Classic Triple Crown."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "How should I run as a member of the Satono family? As someone who aspires to be an illustrious runner?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(How do I envision myself?)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(And what I should devote greater attention to?)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I want to run with pride and dignity."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I want to run with my head held high like McQueen, and stand proudly before everyone as a representative of the Satono family.",
+            "choice_data_list": [
+                "That's a great goal. It's very true to yourself.",
+                "That's a great goal. It's very true to yourself."
+            ],
+            "color_text_info_list": [
+                "McQueen"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "To run with the elegance of a diamond—a goal only one raised from a young age to be an elite runner would have."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It looks like you've made up your mind too, Kita. Then come on, let's go pray!",
+            "color_text_info_list": [
+                "Kita"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I want to perform well in the senior Spring Triple Crown and receive a lot of support! And I want to make everyone smile!",
+            "color_text_info_list": [
+                "senior"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm going to win the Classic Triple Crown! As an Umamusume of the Satono family, I vow to put on a dazzling performance on the track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although they're entering different races, they have the same glimmer in their eyes."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's as if they'll be running in parallel until the fateful day when their paths cross. I feel the strength of their childhood bond."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe! People are slowly starting to take notice of me, so I'm gonna run as best as I can to get more fans!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh my. Unfortunately for you, I plan to captivate everyone with running that's just as dazzling as the jewel I'm named after."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmph! That won't matter if I steal all their hearts first at the Senior Spring Triple Crown!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Grrr… Then I'll simply turn the tables once again at the Classic Triple Crown!"
+        },
+        {
+            "name": "Dia & Kitasan",
+            "text": "Rrrrgh! Victory shall be mine! Hnngh! I'm gonna win this for sure!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Let's settle this with a New Year's showdown!",
+            "choice_data_list": [
+                "Calm down, both of you!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "There's no need to worry, Trainer. A New Year's contest is an annual event for us."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's the perfect way to settle things!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Both of them are becoming quite heated and show no signs of calling this off. But if they do this every year, then I suppose there's no danger…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Let's have Trainer decide our competition!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Fine by me! Be sure to pick something we can really go all out in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to think of a no-holds-barred competition that seems appropriate for New Year's.",
+            "choice_data_list": [
+                "See who can cheer best for the relay race!",
+                "See who can collect the most mochi at a mochi-tossing event!",
+                "Have a kite flying competition!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ooh, you mean the New Year's Relay Race, right? Let's see… They should be passing by here any moment!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All right, it's a cheering contest, then! Trainer, you be the judge!",
+            "choice_data_list": [
+                "You've got it!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, I can see the front of the pack coming up!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "COME OOON! Make a break from the back and steal the lead! It's time to push through!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You can do it! You're catching up! Yes, that's it! Keep up the pace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The leading contenders sprint past us in the blink of an eye."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Right, let's head to the next checkpoint!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's up at the top of the mountain, right? Okay!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The uphill section is tough for everyone! Hang in there! Don't give up!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You've got to keep it together! Don't push yourself too hard! Just go at your own pace!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Let's move to the next spot!",
+            "choice_data_list": [
+                "Hold on! How far are we—"
+            ]
+        },
+        {
+            "name": "Dia & Kitasan",
+            "text": "THIS IS THE LAST STRETCH! YOU CAN DO IIIT!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Aaand both teams cross the finish line at nearly the same time!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Phew, that was fun! I worked up a good sweat!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That was more exciting than I thought it would be! Well, Trainer? Who do you think cheered the best?",
+            "choice_data_list": [
+                "<i>Wheeze! Huff! Cough, cough!</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Well, at least I don't need to worry about gaining any holiday weight."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Mochi-tossing?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The shrine staff throw mochi cakes to visitors during New Year's! Whoever collects the most wins, right?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I see! So we just need to pick up as many as we can!"
+        },
+        {
+            "name": "Shrine Staff",
+            "text": "Here we gooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Aaaah! Wooooo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It looks like there's gonna be a bunch over there! You're miiine!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh? What's going on? Eek!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "O-oh no, I got pushed out… The Umamusume and the human areas are both so packed…",
+            "choice_data_list": [
+                "Look on the ground behind you,"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone's so focused on the mochi the staff are tossing, nobody notices the ones that have fallen out of reach or haven't been picked up."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh wow! There are so many back there!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All right, I'm going to grab them all!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! I got tons of mochi!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What a haul! ♪ Let's head back and whip up some red bean soup with these!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We buy some adzuki beans on the way back to campus, and then the three of us fill our bellies with some tasty mochi soup."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ooh, a bite competition? Are we going to see who can eat more food?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Erm… I think you misheard, Dia. It's a <i>kite</i> competition, not a bite competition."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oops, I guess I'm hungrier than I thought. But okay! I've seen kite flying competitions on TV before! It seems fun!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll fly my kite over there first! Since you suggested this, you be the judge, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Satono Diamond has almost no experience flying a kite, I show her the ropes—or rather, the kite strings."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm, I see. So you control the string like that… and anticipate the wind direction during the run-up…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaah! …Huh?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Weird… It won't catch the wind and go up."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, I'm up next!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond jogs a little and manages to get her kite airborne. She watches the wind direction carefully and skillfully catches the breeze."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, you're so good at this! Okay, I can do it too!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Here we gooo! Ah! It's up! I did it!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's about time! The contest starts now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond employs theory and technique while Kitasan Black utilizes her enthusiasm and perseverance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their kite-flying styles are a perfect reflection of their personalities, and both kites soar majestically in the sky above."
+        }
+    ]
+}

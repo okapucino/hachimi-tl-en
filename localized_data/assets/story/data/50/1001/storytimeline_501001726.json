@@ -1,0 +1,50 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Special Week…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ooooh! Trainer, look!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Over there! It's a claw machine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Special Week is pointing and see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh my gosh, wow! You know you're out of the sticks when you find merchandise like this!"
+        },
+        {
+            "name": "Special Week",
+            "text": "How nice… I bet my mom would be happy if I sent her one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week's eyes are sparkling brighter than diamonds…",
+            "choice_data_list": [
+                "Do you want me to win you one?",
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "What? R-really?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

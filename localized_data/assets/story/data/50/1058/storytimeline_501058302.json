@@ -1,0 +1,320 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "While out walking with Meisho Doto, we stop by the shopping district…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? There's quite a crowd here. Sh-should we… make our escape?",
+            "choice_data_list": [
+                "Don't be ridiculous."
+            ]
+        },
+        {
+            "text": "There's no need to up and run away. I go and have a look for myself…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! You there, the Umamusume hiding in the back! Care to give it a try?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, it's a raffle… But what's inside? Thinking about it makes m-m-m-meee…"
+        },
+        {
+            "text": "It's not like anything bad is in there. We give the raffle a go, using our one ticket."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So, this is a raffle machine… I'll try not to grip the lever too hard so it doesn't snap and break off."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Don't break. Don't break… Yah!"
+        },
+        {
+            "text": "As she repeats her funny wish, we gently turn the lever!"
+        },
+        {
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Whaaaat?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "…"
+        },
+        {
+            "text": "No doubt about it. She's blacked out."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can't possibly accept something like this!",
+            "choice_data_list": [
+                "You don't want to go to the hot springs?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I can't. I can't, I can't, I caaan't. Besides… I have so so many races to run, and…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "How am I supposed to accept something so wonderful?! I'm a walking disaster, always messing things up."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "And, I promise there's a good reason why I really can't go."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I know I'll misplace the ticket if I hold onto it. I could lose it today, even."
+        },
+        {
+            "text": "…She's not wrong about that. It's very possible she'd lose the ticket before our schedule simmers down.",
+            "choice_data_list": [
+                "Would you like me to keep it safe?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh, you… would?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Okay. I know it'll be safe in your hands, unlike in mine."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So… Um… I'll entrust it to you. Or…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I don't mind if you end up using it, either. It's too much of a luxury for me, anyway."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm happy enough just having pulled it."
+        },
+        {
+            "text": "I can't use this ticket in good faith. I'll save it as a little present for Meisho Doto."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A d-d-d-d-<i>deluxe</i> carrot hamburger steak?! We got an amazing pull!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, I could just… I!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Phew… I'm stuffed…",
+            "choice_data_list": [
+                "You haven't even had your first bite?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, it's like… I'm satisfied from this wonderful result alone."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hehe, it's great to have tried out a raffle with someone. I don't think doing it alone would be this fun."
+        },
+        {
+            "text": "It sounds like Meisho Doto doesn't have much luck with raffles."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um… would you let me have this hamburger steak after our outing?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh wow… <i>And</i> I get to eat something delicious. This makes me so happy."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "How nice… I'm really so glad I could go out together with you, Trainer. ♪"
+        },
+        {
+            "text": "In the end, we split the delicious hamburger steak, sharing a wonderful moment together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wow… Look, Trainer, there's lots and lots of carrots. ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We should be just fine with this many! How reassuring.",
+            "choice_data_list": [
+                "Reassuring?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? Ummm, I don't mean anything big by it…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "If you have a lot of something, you can always redo things when you mess up."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Although, it's not like I have anything special in mind to use them for."
+        },
+        {
+            "text": "From the looks of it, Meisho Doto feels more at ease having many things as opposed to one."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ehehe, but maybe this is a good opportunity to try something that normally scares me."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I could peel them or chop them finely for a salad. ♪"
+        },
+        {
+            "text": "Meisho Doto and I try a number of different ways to prepare the carrots. Afterwards, we enjoy the many dishes we made."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "One carrot… Ngh, I'm so sorry, Trainer. This is all my fault."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "If I wasn't so clumsy and had just a bit more luck to my name…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We would have two carrots instead!"
+        },
+        {
+            "text": "That's Meisho Doto, always setting the bar low. However…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Missy, I don't have a prize for two carrots. The prize grade above yours offers much, much more."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-what? Much, much more?! Is that true?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I don't stand a chance as I am now. Uugh, I'll come try again when I'm ready."
+        },
+        {
+            "text": "Meisho Doto and I split the carrot in half and nibble on it all the way home."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Tissues, tough luck… consolation prize…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Phew… I'm disappointed, but kind of relieved at the same time.",
+            "choice_data_list": [
+                "Relieved?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, yes… I must have been feeling this was the best I could do, more or less."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm a little at ease, seeing that things turned out as usual."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But, but… I really shouldn't feel this way, right? This isn't like before my debut."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I have to show my disappointment. Next time… I'll get it next time."
+        },
+        {
+            "text": "Of course, she shouldn't be indifferent to drawing the shortest straw. Let's take this disappointment in stride."
+        }
+    ]
+}

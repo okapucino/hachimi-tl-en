@@ -1,0 +1,53 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out with Grass Wonder…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh? Trainer, look at all of those Umamusume plushies. They seem to be prizes for that claw machine."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm curious which racers there are. Though it does seem rather noisy inside…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder is clearly interested, but the shop's atmosphere is making her a little uncomfortable."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's hard to see much of anything from here. I wonder if there's a plushie of Spe or El.",
+            "choice_data_list": [
+                "I'll get one for you!",
+                "I'll get one for you!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, are you sure?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Just watching from the sidelines wouldn't feel right. If only there were a way I could help you, then it would be like a joint effort.",
+            "choice_data_list": [
+                "Would you cheer me on?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That sounds like it would help. Very well, I'll be your voice of support."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'll give it my all. Go, go, Trainer! Go, go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

@@ -1,94 +1,95 @@
 {
-    "no_wrap": true,
+    "title": "お大事に！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha-ha-ha! I never thought I'd get injured, \nbeing so brilliantly cautious!"
+            "text": "Hah hah! To think someone as brilliant and prudent as myself would get injured!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It seems it's possible that my Bakushin is \nnot in tune with the physical laws of Earth, \nor something to that effect!"
+            "text": "It seems that the physics of the Earth weren't quite able to keep up with my Bakushin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hear me, Earth!! Next time, you shall follow \nmy lead!"
+            "text": "Come on, Earth! Try to keep up next time!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Alright! Now that's done! Let us resume \ntraining straightaway!"
+            "text": "…All right! With this, it's perfect! Let's hurry and resume training!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Don't you worry, I'm an honors student! \nEvery single cell in my body is filled to the \nbrim with excellence, so I'll heal in no time \nflat!",
+            "text": "Don't worry! I'm a genius! Each one of my cells is extraordinary. Even if I get injured, I'll recover quickly!",
             "choice_data_list": [
-                "No, you can't.",
-                "No, you can't.",
-                "……Okay, let's do it!"
+                "No, that's a bad idea.",
+                "No, that's a bad idea.",
+                "…All right, let's try it."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Don't you worry, I'm an honors student! \nEvery single cell in my body is filled to the \nbrim with excellence, so I'll heal in no time \nflat!",
+            "text": "Don't worry! I'm a genius! Each one of my cells is extraordinary. Even if I get injured, I'll recover quickly!",
             "choice_data_list": [
-                "No, you can't.",
-                "No, you can't.",
-                "……Okay, let's do it!"
+                "No, that's a bad idea.",
+                "No, that's a bad idea.",
+                "…All right, let's try it."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No!? This is completely unreasonable! \nEven though the Earth and I are both \nwilling to go through with it!?",
+            "text": "A bad idea?! Please be reasonable! I'm raring to go! And so is the earth beneath my feet!",
             "choice_data_list": [
-                "You're the unreasonable one here!",
-                "You're the unreasonable one here!"
+                "You're the one being unreasonable!",
+                "You're the one being unreasonable!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eeeehhhh～～!?"
+            "text": "Whaaat?!"
         },
         {
-            "text": "……She seemed pretty dissatisfied, but \nsomehow I managed to talk her into taking \na break."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nThen without further delay, let's get going!"
+            "text": "…Despite being visibly dissatisfied, I somehow manage to convince her to take a rest."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiiin!!"
+            "text": "Yes! It's time to go!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaoouuww――!?"
+            "text": "Bakushin, BAKUSHIIIN!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "H, huh―!? Why in the world is it hurting \nmore than before!?"
-        },
-        {
-            "text": "Her injury was exacerbated by her \nfrolicking about, and she was forced…… \nto focus on healing up."
-        },
-        {
-            "text": "Sakura Bakushin O is running briskly \ndown the training track."
+            "text": "OUCH?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whoo-hoo-hoo! That's perfect! The earth \nseems to have reflected well on the matter."
+            "text": "H-huh?! For some reason, the pain is getting worse?!"
+        },
+        {
+            "text": "Her energetic movements cause her injury to get worse… I ask her to focus on recuperating."
+        },
+        {
+            "text": "Sakura Bakushin O runs energetically towards the training track."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is the power of honors leadership! It's \nresilience!",
+            "text": "Heh heh! Perfect, right? It seems the Earth also showed some regret."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This is the leadership power of a model student! The power of recovery!",
             "choice_data_list": [
-                "Yup, honors student… awesome…!"
+                "Model students truly are amazing!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahem. Ahem!"
+            "text": "Heh heh!"
         },
         {
-            "text": "As per her mysterious theory, she showed \namazing recovery… and was able to \nresume her training right away!"
+            "text": "Just as her mysterious theory predicted, she underwent a miraculous recovery… and became able to resume her training right away!"
         }
     ]
 }

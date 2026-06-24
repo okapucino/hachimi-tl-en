@@ -1,0 +1,124 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho gets injured during training so I rush her to the infirmary."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Please. You're making way too big a deal about this, Familiar."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But I really did hurt myself. I guess that means we're done training, right?",
+            "choice_data_list": [
+                "That's right. Take the rest of the day off just to be safe…",
+                "That's right. Take the rest of the day off just to be safe…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay then, I'm going to the mountains!",
+            "choice_data_list": [
+                "What?! Why?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Isn't it obvious?! I'm gonna pick medicinal herbs."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I've already decided to gather ingredients for magic potions today.",
+            "choice_data_list": [
+                "You need to stay home and rest.",
+                "Well, it shouldn't hurt to move around a bit…"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why?! I'm fine! It's just gathering herbs! I've made up my mind, so don't try to stop me!",
+            "choice_data_list": [
+                "What if your injury gets worse while you're hiking?",
+                "What if your injury gets worse while you're hiking?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Like I'd let that happen! Anyway, I'm in a hurry, so—",
+            "choice_data_list": [
+                "No means no."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph… If you're gonna be like that, then you better go pick them for me!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Come to think of it, I should have my familiars gather things for me in the first place."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, get to it! I'm a busy genius magical girl, y'know. I can't change my plans!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As instructed, I hike up the mountain and search for herbs in place of Sweep Tosho, while she stays in the dorm and sulks."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Exactly! Just going to pick herbs is nothing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All right, I'm off!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ouch!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Uh, just kidding! It doesn't hurt at all! Anyway, I need to get going before the sun starts going d—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ow…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't seem okay at all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop her right there and make her rest, though she seems unhappy the whole time."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but worry still, so I decide to accompany her to the mountains."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "See, what did I tell you? I'm totally fine! An injury like this is nothing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All right, time to get those herbs! You be sure to pick some too! ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, Japanese honeysuckle! I found some! Over here!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, now I can make tons of magic potions! And hiking is kinda like training too, so it's a win-win! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fortunately, Sweep Tosho's injury doesn't get any worse, and the light hiking doubles as training."
+        }
+    ]
+}

@@ -1,67 +1,70 @@
 {
-    "no_wrap": true,
+    "title": "ダイエット成功！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuuuuughh! It's still too hard!!"
+            "text": "Ahhh! As I expected, this is tough!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "What seems to be the trouble?"
+            "text": "Are you having some trouble?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The trouble seems to be this! It seems that \nmy uniform can no longer withstand my \nextraordinary excellence!"
+            "text": "Yeah! It looks like my clothing wasn't able to withstand my extraordinary skill!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "The cause can be determined to be weight \ngain. Estimating from the most recent \ncalorie intake and the speed of movement――"
+            "text": "My calculations would attribute the cause to an increase in your weight. Based on your recent calorie intake and your movement velocity, I estimate that—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "N-no, no! It's out of the standard, so it \ncan't be calculated!"
+            "text": "Th-that's not it! My abilities are just beyond the norm, that's all, so it's not something you can just calculate!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "You are incorrect. The change in \nthe numbers proves it."
+            "text": "That is incorrect. A simple calculation with all values present would serve as proof."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If our stories cannot reach an agreement… \nthen let's race to decide! The winner's \ntheory is the right one, that is all!"
+            "text": "If you won't get the point, let's decide it with a race! The winner is the one who is right!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Numerical changes due to exercise are \npresumed to be validation… Order \napproved. Moving to verification phase."
+            "text": "Exercise would add in more verifiable integers. …Affirmative. Executing verification measures."
         },
         {
-            "text": "Thus, the game between the two was played \nout over several days…"
+            "name": "Monologue",
+            "text": "And so, the showdown of the two racers unfurled over the course of a few days…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah! There's Ms. Bourbon! Let's decide \nwho wins today!"
+            "text": "Ah! Bourbon! Today will be the day we decide the winner!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "――End of verification……Weight loss should \nhave relieved the pressure of the uniform."
+            "text": "All calculations complete… A reduction in weight should have alleviated the feeling of tightness of your uniform."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm? Now that you mention it, that seems \nto be the case. While I've been running for \nthe past few days, the scale's been \nreading……"
+            "text": "Huh? Now that you mention it, it has felt a bit looser while running these past few days…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hah! I see, the uniform has grown to \nacommodate me! Could it have been \ninspired by my running!?"
+            "text": "Ah, I see! My uniform has grown! Was it my running that caused it to change?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words……I was right after all!"
+            "text": "So I was right after all!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "……… \n…No, I do not think you were."
+            "text": "…No. You're not."
         },
         {
-            "text": "At any rate, that's how Sakura Bakushin O \nsucceeded in losing weight!"
+            "name": "Monologue",
+            "text": "Whatever the reason, Sakura Bakushin O's diet proves to be a success."
         }
     ]
 }

@@ -1,0 +1,367 @@
+{
+    "title": "目標達成の後に・あの回のように",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Even in her recent scrimmages, there's been a clear shift in Kawakami Princess's performance."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I've got this! Rrraaaagh!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff… Huff…</i> Trainer…",
+            "choice_data_list": [
+                "That was some excellent running!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-thank you… But I'm still overexerting myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true, she ran too hard in the early portion of the race. It didn't go how we planned, but…",
+            "choice_data_list": [
+                "You've made substantial progress.",
+                "You've made substantial progress."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Before, her body would've become stiff just thinking of the race, and her form would crumble as a result."
+        },
+        {
+            "name": "Monologue",
+            "text": "(But today, she paid close attention to keeping her movements under control. She's learned how to use her strength with intent and focus.)",
+            "choice_data_list": [
+                "Your form is steadily improving, too."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh! Ehehe… Thank you! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "(She's gotten sufficiently used to racing that she's no longer straining herself from the get-go. It might actually be time for…)",
+            "choice_data_list": [
+                "I have something important to discuss.",
+                "I have something important to discuss."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Something important?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Simply delicious! Another portion, please, chef!"
+        },
+        {
+            "name": "Ramen Chef",
+            "text": "You've got gusto, missy. Here, have another serving of noodles!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "My trainer's picking up the bill today! So I'm planning to finish off at least five more servings after this!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Still, I must say, Trainer… When you said \"important discussion,\" I never imagined we'd have it at a ramen shop… Hehe."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "This is just like in episode ten of Princess Fighter, when Legendary Trainer makes an important confession…",
+            "choice_data_list": [
+                "Exactly. That's why I wanted to talk here.",
+                "Exactly. That's why I wanted to talk here."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?",
+            "choice_data_list": [
+                "I want you to enter the Japanese Oaks!",
+                "I want you to enter the Japanese Oaks!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-th-the Oaks?! The Japanese Oaks?! Are you serious?!",
+            "color_text_info_list": [
+                "Oaks"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whoa, whoawhoawhoawhaa?! But the Japanese Oaks is a G1 race! And not just any G1 race, either—it's the peak of the once-in-a-lifetime Tiara tour!",
+            "choice_data_list": [
+                "This is the kind of challenge you wanted to take on, isn't it?",
+                "This is the kind of challenge you wanted to take on, isn't it?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The Tiara is the princess's crown, obtainable only from the grandest of stages—the G1 races."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And I always envisioned myself competing fiercely in the Tiara tour, awakening my potential on the field of battle just like Princess Fighter."
+        },
+        {
+            "name": "Monologue",
+            "text": "From the very beginning, this has been what she's dreaming of.",
+            "choice_data_list": [
+                "It's time to let your princess power bloom."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ehe… Ehehe. Thank you! ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…And that's what happened, King! Isn't my trainer amazing?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm. Well, I can say it was a rather thoughtful proposition. But aren't you attending a press conference today?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Press… conference?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "AAAAHHH!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I t-t-t-totally forgot! And Trainer reminded me so many times!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Really?! Oh, you airhead! Hurry and get ready!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll help you out, but don't expect me to do everything. Come now, run!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The press conference is due to start in one minute. I've tried contacting Kawakami Princess several times, but she hasn't answered…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Traineeeer! I'm so soooorry!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Wheeze… Wheeze…</i> Did we make it in time?",
+            "choice_data_list": [
+                "Let's hurry into the venue!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Right! Let's charge straight in! Charge… charge?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ch-chaaaarge?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Moderator",
+            "text": "Th-the door… She broke it down with a single kick…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "D-did I make it?! It's me! Kawakami Princess!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…",
+            "choice_data_list": [
+                "We're very sorry about this!"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Pfft… Hahaha! What an unpredictable Umamusume! Never in my entire life…"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Ahaha! Tell me about it. I wish I had gotten that on camera! Imagine the editor's response."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Really?! Then I can do it one more time!",
+            "choice_data_list": [
+                "Hold on! Hold on!"
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "Ahahaha!"
+        },
+        {
+            "name": "Surrounding Umamusume",
+            "text": "…"
+        },
+        {
+            "name": "Moderator",
+            "text": "Okay, let's all regain our composure and begin the racer interviews. First up is…"
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "Yes. I would first like to express my thanks to you all for being here today. I've pursued the Tiara tour this far with the aim of winning the Japanese Oaks."
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "Every bit of effort I've put into this will be displayed in my results. Thank you."
+        },
+        {
+            "name": "Reporter C",
+            "text": "Wow, there's the overwhelming favorite, so confident and dignified. It's no wonder she's the most popular contender in the Tiara tour."
+        },
+        {
+            "name": "Moderator",
+            "text": "Next up, we have…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Y-yes! Is it me?!",
+            "choice_data_list": [
+                "Not yet, Princess."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh… No?! Okay, then, the next racer… please go ahead!"
+        },
+        {
+            "name": "Reporters",
+            "text": "Pfft…"
+        },
+        {
+            "name": "Moderator",
+            "text": "Finally, we'll be taking questions from the audience. Raise your hand if you have something to ask!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Moderator",
+            "text": "Y-yes, Kawakami Princess?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You, with the yellow and pink striped ear accessory! Is your hair ornament based on Honey Lemon Princess from <i>Sugar Love♪Princess Fighter?!</i>"
+        },
+        {
+            "name": "Dark-haired Umamusume",
+            "text": "M-me?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes! You love Princess Fighter, right?! I'm a huge fan myself! That's all I wanted to ask!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…",
+            "choice_data_list": [
+                "Please move on to the next question."
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "Pfft… Ahahaha! You and your trainer make a unique combo! I'm sure you'll go on to gain many fans!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh? Really?! Th-thank you for saying so!"
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "Hey, this is a press conference for racers entering the Japanese Oaks. Don't you think you should behave more appropriately?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "O-oh… right! My name's Kawakami Princess! My objective this year is to enter the Japanese Oaks and…"
+        },
+        {
+            "name": "Reporters",
+            "text": "Hahaha, we don't need a self-introduction at this point. Hehe, just relax and answer the questions."
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's over… It's finally done…",
+            "choice_data_list": [
+                "Let's work on staying calm for next time."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ughh, you're right… I suppose I'll need to train in that area too, won't I?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she's gotten used to racing, it seems she still has a lot of room to grow mentally."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, if she can learn to remain firm and composed, she'll improve her consistency in races too."
+        },
+        {
+            "name": "Reporter D",
+            "text": "Oh, Kawakami Princess! Do you have a moment?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes, what is it?"
+        },
+        {
+            "name": "Reporter D",
+            "text": "Haha, I just wanted to give you some words of encouragement. My kids are huge fans of yours."
+        },
+        {
+            "name": "Reporter D",
+            "text": "They'll be watching you in the Japanese Oaks with their friends. So, um, please give it your all!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ohhhh! Leave it to me!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer, I'm going to place first at the Japanese Oaks! A princess must claim victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if someone flipped a switch, Kawakami Princess goes from downhearted to full of energy. She still has a long way to go, but we make a vow to win the Japanese Oaks."
+        }
+    ]
+}

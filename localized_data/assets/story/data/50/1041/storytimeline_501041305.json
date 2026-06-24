@@ -1,97 +1,99 @@
 {
-    "no_wrap": true,
+    "title": "スプリングSの後に・スピード勝ち",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaa-ha-ha-ha―!!!!"
+            "text": "Ha ha ha ha!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I won, Trainer! \n1800 meters, in a flash!!",
+            "text": "Trainer, I won! I ran those 1,800 meters in an instant!",
             "choice_data_list": [
-                "You're amazing, Bakushin O!",
-                "You're amazing, Bakushin O!"
+                "You did amazing, Bakushin O!",
+                "You did amazing, Bakushin O!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, it's all because I'm amazing!! \nI won because I'm amazing!!!!"
+            "text": "That's right, I'm amazing! I'm amazing!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now they know that my speed is \ngood enough for any race!"
+            "text": "I hope you know now that no matter the race, my speed can't be beat!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, Trainer, about the next \nrace, the Satsuki Sho――",
+            "text": "So Trainer, about the Satsuki Sho—",
             "choice_data_list": [
-                "Seriously, you're amazing!",
-                "Seriously, you're amazing!"
+                "You're really amazing!",
+                "You're really amazing!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh, indeed!"
+            "text": "Well, yes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course, I'm amazing! \nSo, the next Satsuki Sho――",
+            "text": "Of course I'm amazing! So about that Satsuki Sho—",
             "choice_data_list": [
-                "Your \"speed\" is truly spectacular!!"
+                "Your speed is amazing!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course it is!! Speed is the \nvery mark of a class president!"
+            "text": "There's no doubt about that! Speed makes a true class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Taking advantage of the very same speed \nthat won this Spring Stakes, the Satsuki \nSho―",
+            "text": "I'll put the speed that scored my win at the Spring Stakes to use at the Satsuki Sho—",
             "choice_data_list": [
-                "I want to train you, more and more!"
+                "Let's keep working on that speed!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!",
+            "text": "Huh?!",
             "choice_data_list": [
-                "To undoubtedly make sure you win every single race!"
+                "So that you'll win any race, no matter what!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No matter what the race, \nundoubtedly…!?"
+            "text": "Win no matter what?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "By undoubtedly, in other words, you \nmean 100%. The same probability as the \nfact that I'm the class president!"
+            "text": "No matter what means 100%. That's as certain as me being class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To sum it up… this means that if I enter \na race, I'll 100% win it!!"
+            "text": "That'd mean… as long as I compete, I'll always win!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If I train my speed more than I already \ndo, will that be possible!?",
+            "text": "Are you sure I could reach that kinda level just by improving my speed?!",
             "choice_data_list": [
-                "……Yeah!",
-                "……Yeah!"
+                "…Yep!",
+                "…Yep!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood!"
+            "text": "Okay!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll work on my speed even more! \nThe class president who must be a role \nmodel, must win!",
+            "text": "Then I will improve my speed even more! To be a model class representative, I must win every time!",
             "choice_data_list": [
-                "Then, next up, the Aoi Stakes!",
-                "Then, next up, the Aoi Stakes!"
+                "Then next up is the Aoi Stakes!",
+                "Then next up is the Aoi Stakes!"
             ]
         },
         {
-            "text": "It's a lower grade, but a 1200 meter \nrace that should be a steady winner."
+            "name": "Monologue",
+            "text": "We'll be dropping a grade, but if there's a race she can definitely win, it's a 1,200-meter race."
         },
         {
             "name": "Sakura Bakushin O",
@@ -99,9 +101,9 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wait, the Aoi Stakes?",
+            "text": "Wait, the Aoi Stakes?!",
             "choice_data_list": [
-                "The best way to train your speed \nis through real combat!"
+                "The best way to improve your speed is to compete in many races, no matter the grade!"
             ],
             "color_text_info_list": [
                 "Aoi Stakes"
@@ -113,10 +115,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood! \nLet's work on my speed in real combat!!"
+            "text": "I see! I will improve my speed by entering this race!"
         },
         {
-            "text": "Thus, our next target race was decided \nto be the Aoi Stakes!"
+            "name": "Monologue",
+            "text": "And that's how we decide her next race shall be the Aoi Stakes!"
         }
     ]
 }

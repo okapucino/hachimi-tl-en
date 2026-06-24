@@ -1,0 +1,96 @@
+{
+    "title": "甘くて真っ赤な1ページ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Rice Shower and I are headed home after some bonus training and lunch on a day off, when…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Big Brother! Look! They're holding an apple fair!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Big Sister! Look! They're holding an apple fair!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Apple jelly, apple tarts… Whoa! It all looks so good!",
+            "choice_data_list": [
+                "Do you like apples?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, I love them. They bring back a precious memory…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You see, I got lost once at a festival once when I was little."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "My mom found me pretty quickly, but I couldn't stop crying…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "So she bought me a candy apple. And when I took a bite…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It was so sweet that it made me feel happy and warm again… I stopped crying right away.",
+            "choice_data_list": [
+                "I see.",
+                "I see."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah. So that's why I likes apples! I feel warm inside when I eat them."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahhh, they smell so nice. Thinking about that time again makes me want to eat one…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But… we probably shouldn't have any now. We did just eat lunch…",
+            "choice_data_list": [
+                "We can come back when we're hungry.",
+                "There's always room for dessert!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah, you're right. We did just eat…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I guess we could come back after training sometime…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I bet those apples will taste even better on an empty stomach…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We turn our backs to the pleasant smell wafting from the apple fair and leave."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Room for dessert? You mean I can have some?",
+            "choice_data_list": [
+                "Just don't eat too much."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah! Okay, I'll get a tart. And jelly. And juice. And…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Rice Shower eats pretty much everything at the apple fair."
+        }
+    ]
+}

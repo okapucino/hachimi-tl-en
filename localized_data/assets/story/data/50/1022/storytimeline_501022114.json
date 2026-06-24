@@ -1,0 +1,261 @@
+{
+    "title": "My Dear…",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Ah!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've found you! ♪ Heeey!",
+            "choice_data_list": [
+                "Fine?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion suddenly runs off towards the stands in the middle of training!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "For the love of… You know you don't have to come over every time you see me, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look up to see Air Shakur, a highly logical Umamusume who made her debut before Fine Motion, in the stands.",
+            "color_text_info_list": [
+                "Air Shakur"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh? But I thought that's why you came here, Shakur. To see me.",
+            "color_text_info_list": [
+                "Shakur"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You mean you're not collecting data on me again?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a reason she said \"again.\" I've spotted Air Shakur with her laptop numerous times while Fine Motion has been training."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Figured you didn't mind since you never said anything. What, do I need security clearance or something?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's not what I meant! I'm saying that if you're going to do that, then we should just train together!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Don't you think you'll gather data more efficiently that way?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, but it'll come at the cost of having to engage with you <i>more.</i> No thanks."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Engage? Is that like \"going steady\"? We don't have to do that if you don't want to. Let's just talk!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! You're her trainer, aren't you? Shouldn't you teach her not to stick her nose into other people's business?",
+            "choice_data_list": [
+                "Is she bothering you?",
+                "Is she bothering you?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Are you kidding?! Doesn't that go without saying?!",
+            "choice_data_list": [
+                "Then, why are you collecting data on her?",
+                "Then, why are you collecting data on her?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Because it's necessary, duh. Accurate numbers never lie."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "For example, you know about the research regarding the connection between genes and race-distance aptitude, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The research she mentions is well-known in the racing world. It theorizes that you can determine distance aptitude based on the number of genes that suppress muscle cells."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "In order to understand that trend, I need a large number of samples. Numbers are king in this discussion."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But unlike a certain romanticist, I'm not just in it for the sake of progress or whatever."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I believe everything is predetermined… but simply following along sounds like a drag. What's the fun in playing a game when you already know the ending?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'd rather see what happens when I find a bug in the system… And to do that, I need all the data I can get my hands on."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And that… includes data on any weird outliers that might exist."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm? You mean me?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why else would I be interested in you? Your data's got some weird fluctuations."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fluctuations that don't abide by the rules. If I could just use that to my advantage…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then maybe those seven centimeters would change. Although, there's no telling if that gap would shrink or grow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seven centimeters… A distance that no doubt stirs up feelings of despair within Air Shakur."
+        },
+        {
+            "name": "Monologue",
+            "text": "After winning the Satsuki Sho, she was on the verge of taking home her second crown at the Japanese Derby but lost by a distance of only seven centimeters.",
+            "color_text_info_list": [
+                "Satsuki Sho",
+                "Japanese Derby"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She later won the Kikuka Sho and became a Double Crown champion, but…",
+            "color_text_info_list": [
+                "Kikuka Sho"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Data doesn't lie… What it says, goes. What better proof do you need than this?\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Those were the only words she muttered at her post-race press conference before leaving the podium."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Damn it. I've said too much."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hey, wait!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What? If you say something idiotic, I'll knock some sense into you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Or could it be that the ever-merciful princess desires some kind of compensation for the data I've collected?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I don't care about the data. I just…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'd just like to talk with you a little more."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No thanks. How about you chitchat with your trainer over there?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, you! …Make sure you keep an eye on her.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I mean, don't let her just fool around aimlessly… duh."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Your job is to keep her running right up until the very end."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur never changes, does she? She certainly has a unique way of communicating.",
+            "choice_data_list": [
+                "You like that about her, right?",
+                "You like that about her, right?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, can you tell?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's right. Shakur is different from everyone else I've grown close to at this academy."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's not just how she acts—though I do love that aspect of her, of course."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I suppose the biggest thing is… that I can respect her."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Even if it only leads her to despair, she'll never stop analyzing and theorizing."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Not to mention how cool and clever she is. How could I not like her?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's certainly a sense of respect emanating from Fine Motion as she talks about Air Shakur."
+        },
+        {
+            "name": "Monologue",
+            "text": "But how does Air Shakur feel? She seems to have taken interest in Fine Motion's inherent ability and analyzing her, but…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And that… includes data on any weird outliers that might exist."
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps she sees something in Fine Motion—something more than just fluctuations in data."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "ガラスの脚",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while training with Mejiro Ardan…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Pant… Pant… Pant…</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ngh… My body feels sluggish. This is—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crack!</i>"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ouch?!",
+            "choice_data_list": [
+                "Ardan?!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I'm quite all right."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My legs just feel a little… A short break is all I—",
+            "choice_data_list": [
+                "No, let's stop here for the day."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I'm so sorry. This is all down to my own negligence.",
+            "choice_data_list": [
+                "No. I'm your trainer, and I should have been more attentive.",
+                "No. I'm your trainer, and I should have been more attentive."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…It looks like the consecutive races Mejiro Ardan has been participating in lately have put considerable strain on her legs."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd better review the racing schedule and make some revisions to ensure she won't have so many races back-to-back anymore."
+        }
+    ]
+}

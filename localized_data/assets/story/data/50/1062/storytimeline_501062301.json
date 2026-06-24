@@ -1,0 +1,48 @@
+{
+    "title": "Summer Camp (Year 3) Ends",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the final day of summer camp, but Matikanetannhauser is nowhere to be found. I search high and low for her, until…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Trainer!",
+            "choice_data_list": [
+                "It's almost time to go."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah! Is it that late already?! Sorry! I was just looking for something…",
+            "choice_data_list": [
+                "What are you looking for?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Just some things I found yesterday but forgot to bring back with me. Oh, where are they?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…Ah! Here they are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She points toward a row of several spider conches."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehe, they're seashells shaped like spiders! They're so cute and spiky!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey, let's use them to decorate your office! They can remind us of this summer."
+        },
+        {
+            "name": "Monologue",
+            "text": "All things considered, this year's summer camp comes to a close with Matikanetannhauser in high spirits."
+        }
+    ]
+}

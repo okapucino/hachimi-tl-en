@@ -1,0 +1,227 @@
+{
+    "title": "好敵手と書いて友と呼ぶ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh! This sucks! This sucks! This sucks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, Tokai Teio comes charging into my office in a huff.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I lost to McQueen in the math test by one point. <i>One</i> measly point! Ugh, I can't believe it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But I'll get her back in tomorrow's sports science test! I better start cramming now! Let's go!",
+            "choice_data_list": [
+                "Where are we going?",
+                "Where are we going?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "To the library, duh! C'mon, hurry up!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, the textbook should be around he—wait… McQueen?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You've got the book…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What, this? I'm about to borrow it. Does that bother you for some reason?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yes, it does! It bothers me a whole lot! First off—"
+        },
+        {
+            "name": "Library Staff",
+            "text": "Excuse me, please keep it down while you're in the library."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh… sorry. Right. Gotta use my quiet voice."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "See, the way it works is, I had my eyes on that book first, so I get to borrow it first!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "These books are property of the academy, are they not? If you need this one, then why don't we have a look at it together?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's, uh… not really what I had in mind…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well, then I do not understand. Shall I assume you have no issue with me borrowing this book?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No way! I'm telling you <i>not</i> to do that! Because I have to—"
+        },
+        {
+            "name": "Library Staff",
+            "text": "Ahem! Didn't I just remind you to keep it down?"
+        },
+        {
+            "name": "Library Staff",
+            "text": "I won't have you disturbing the other visitors. The both of you are banned from the library for the rest of the day!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No waaay!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I must leave as well?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "An Umamusume of the prestigious Mejiro family, barred from entering the library…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, this shame will forever stain our legacy…",
+            "choice_data_list": [
+                "You caused a bit of a scene there.",
+                "You caused a bit of a scene there."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Grrr… Gah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I can't help it. When it's McQueen I'm up against…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I just can't allow myself to lose!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Teio…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Whatever am I to do with you?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hrnghhh…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Look at you. How long do you intend to stand around moping? Shall we consider this match of ours over?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No, no, no! This isn't over!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But… now that the library's out of bounds, I'm gonna need somewhere else to study…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh yeah! I know! Hey, Trainer! Lend me your office, will you?",
+            "choice_data_list": [
+                "Sure thing."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I knew you'd say that! That's my trainer for ya! ♪ All right, let's go, McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You want me to come with you?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the amicable duo begin their studies… Or at least they try to."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaaat? You're still on that same question? You know I'm already three down."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Enough out of you! I cannot concentrate! This is not a race, so speed should have no say in the matter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They won't get any useful studying done at this rate. I should step in.",
+            "choice_data_list": [
+                "Why not compete by quizzing each other?",
+                "If you're so intent on seeing who's better, why not just race?",
+                "If you're so intent on seeing who's better, why not just race?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "They won't get any useful studying done at this rate. I should step in.",
+            "choice_data_list": [
+                "Why not compete by quizzing each other?",
+                "If you're so intent on seeing who's better, why not just race?",
+                "If you're so intent on seeing who's better, why not just race?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, sounds good! Let's start right now!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What is the term for the energy exerted on your legs when they make contact with the ground while running?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Energy… it must be \"ground reaction force\"! Hehe, this is nothing for me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Grr… Correct."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now, I suppose it would be my turn. On the subject of ground reaction force and its point of contact…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two become locked in a long battle. The next day, I hear that the match ended in a draw, with both of them getting perfect scores."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, nice idea! The books can wait!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Indeed. Let us end this petty rivalry and set the record straight once and for all."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right, Trainer, I'll be back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, I hear that both of their track times improved considerably. Their test results, however, were unsatisfactory."
+        }
+    ]
+}

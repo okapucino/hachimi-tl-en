@@ -1,0 +1,34 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During my trip into town, I see Meisho Doto apologetically lowering her head to the bronze statue in front of the station."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm so sorry about that! Do you have any injuries? Are your clothes stained?",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer! So, um, I was walking, and… my legs started feeling numb, and then I tripped, and I bumped into this person!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "The collision was pretty strong. Look how sickly their face is… Um, huh?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "This is a br-bronze statue? I'm apologizing to a bronze statue? But why?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto seems to be dealing with a lot of fatigue… I may want to rethink her race schedule."
+        }
+    ]
+}

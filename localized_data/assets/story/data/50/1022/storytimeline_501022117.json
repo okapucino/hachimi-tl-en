@@ -1,0 +1,267 @@
+{
+    "title": "Destiny",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Voice from the Screen",
+            "text": "And now, Lady Fine would like to share a few words with us."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Security Captain",
+            "text": "…Your Highness?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Your Highness, your statement."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Right."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Greetings, everyone. As per a prior agreement…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I, Fine Motion, will return to Ireland in one year. In anticipation of that time, I wish to confirm various…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The new year has only just begun, yet Fine Motion is already swamped with official duties."
+        },
+        {
+            "name": "Monologue",
+            "text": "She has a meeting with people from back home today, so I'm waiting for her to finish.",
+            "choice_data_list": [
+                "(This is really dragging on…)",
+                "(This is really dragging on…)"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sorry for the wait, Trainer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Everyone back home is such a character. Before I knew it, we were caught up talking about all sorts of things.",
+            "choice_data_list": [
+                "Well, shall we get started with training?",
+                "Well, shall we get started with training?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Um, can I take a little break first? I'd like to grab a drink.",
+            "choice_data_list": [
+                "Sure, no problem…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Normally, Fine Motion would be jumping at the chance to go for a run, but recently she seems a little apathetic."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Trainer, may I ask you to go after Her Highness?",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Security Captain",
+            "text": "None of us possess the right to pry into Her Highness's feelings. However… I'm sure she'd be willing to reveal her feelings to you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…You haven't changed a bit since back then. The way you run… even that stubborn face is the same."
+        },
+        {
+            "name": "Monologue",
+            "text": "I catch up with Fine Motion and find her speaking with Air Shakur. Not wanting to interrupt, I'm about to turn back, when…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why don't you do that thing you always do? Y'know, throw a big tantrum like the spoiled little princess you are."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"But I wanna run more!\" Say those magic words, stomp your feet a little, and everything's solved, right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…The thought has never crossed my mind. I'm more than content with the amount I was able to run."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "C'mon, Surely you can lie better than <i>that.</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm sure you understand, Shakur. There's something that I hold more dear than anything else…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I truly wish to perform my duties from the bottom of my heart. It's nothing so dramatic as self-sacrifice."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Are all silver-spoon brats so altruistic, or is it just you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Look, I don't care how you're justifying it. You're not convincing anyone—including yourself."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You realized just how enjoyable racing was at the Queen Elizabeth II Cup, didn't you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "At the time, I'm sure the thought crossed your mind—the desire to abandon your duties, stay here and keep racing forever."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur, please… stop."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But you're trying to use reason to forcibly suppress your instincts. That's why you don't feel like running."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You can't focus, and your times haven't improved… Even though you still have so much more room to grow!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, have you talked to your trainer about this? I bet you haven't even mentioned it.",
+            "choice_data_list": [
+                "(…!)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ever since they talked me into that scrimmage with you, your trainer's been by your side."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even if you don't want to admit that you want to keep racing, you're clearly not giving racing your full attention either. Doesn't that make being your trainer kinda pointless?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I see. You may be right."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Perhaps I haven't fully placed my trust in Trainer…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then, in that case—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But it's because I can't ask for anything more."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer is already shouldering such a large burden for my sake."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I don't want to take advantage of that resolve. Also…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I have to wrestle with these feelings on my own… That's essential for my future."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch… You're so damn stubborn!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wait, Shakur! Thank you for worrying about me!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…I'm not like you. I'm only doing this for my sake."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've just seen how you beat the odds. If you can prove the data wrong, maybe that means things can change…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's all I care about."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I don't know anything about data, but… I think the two of us are more similar than you think."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've known it from the very first time we met—that one day, you would definitely need me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Which is why I decided I need to stay by your side."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What are you-—you are <i>so</i> full of yourself!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, perhaps so. I'm full of myself and I'm stubborn, just like you say."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Let's say, hypothetically, if I asked you to keep running… would you do it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If I said that I needed you to, would you become my goddess—my guiding light?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Ugh, forget I said anything!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm sorry, Shakur. My duties—my destiny—are very close to my heart."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…They need to be."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Fine Motion wants to handle her problems alone… but if she ever requires my help, I will gladly fulfill the first vow we ever made."
+        }
+    ]
+}

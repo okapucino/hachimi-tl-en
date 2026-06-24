@@ -1,0 +1,76 @@
+{
+    "title": "デビュー戦の後に・ディスカッション",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide has asked me to review race footage together, so after returning to the school I head over to meet her."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm… My positioning is a little sloppy. I have a bad habit of just staring straight ahead during races."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's watch again from the beginning. I'm sure we'll find other issues too.",
+            "choice_data_list": [
+                "Shouldn't you get some rest?"
+            ]
+        },
+        {
+            "text": "Since she's just finished her first race and concert performance, I figure she must be pretty tired."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You needn't worry about me. Now that I've experienced a real race, I'm discovering a lot of issues I never noticed before."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And we need to fix them. The winning equation I so desire to complete is the very thing I'll be using against her, after all."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Every second counts.",
+            "choice_data_list": [
+                "(Right… The winning equation against Narita Brian.)"
+            ]
+        },
+        {
+            "text": "It seems she's realized how exceedingly difficult it will be to perfect her equation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Acceleration… wind resistance… the angle at which my feet hit the ground…"
+        },
+        {
+            "text": "Maybe my role as her trainer should be to provide practical experience that will allow her to develop her calculations.",
+            "choice_data_list": [
+                "Do you want to enter the Asahi Hai F.S.?",
+                "Do you want to enter the Asahi Hai F.S.?"
+            ]
+        },
+        {
+            "text": "The Asahi Hai Futurity Stakes is a G1 race between the top junior racers.",
+            "color_text_info_list": [
+                "★★★",
+                "Asahi Hai Futurity",
+                "Stakes",
+                "junior",
+                "G1"
+            ]
+        },
+        {
+            "text": "The competition is fierce, but it might be a good experience for her."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. That's an interesting suggestion…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And a good one, at that. I'll do it."
+        },
+        {
+            "text": "Her glasses glint in the light as we lock in our next course of action."
+        }
+    ]
+}

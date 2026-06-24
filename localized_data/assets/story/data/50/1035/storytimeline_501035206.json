@@ -1,0 +1,50 @@
+{
+    "title": "大阪杯にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Osaka Hai."
+        },
+        {
+            "name": "Fan A",
+            "text": "Winning Ticket and Narita Taishin are both racing? This is gonna be great!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, I saw BNW at the Kikuka Sho, and it's always amazing when they face off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the stands for today's race, fans are anticipating an exciting showdown between Winning Ticket and Narita Taishin."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So many fans called out to me on the way here, it was crazy."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That means they have high hopes, right? I'll do my best and give them a race to remember!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sigh…</i> I hope I can meet their expectations. I'm so nervous, it's making me feel all itchy!",
+            "choice_data_list": [
+                "You've just got to go out there and achieve something great!",
+                "You've just got to go out there and achieve something great!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! Okay, gotta do my best!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I did what I could during training. All that's left is to get in the spirit… WOOHOO!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right, here I go! See you, Trainer!"
+        }
+    ]
+}

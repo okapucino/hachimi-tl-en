@@ -1,0 +1,45 @@
+{
+    "title": "全然平気……です？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "W-well then, if you'll excuse me!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Pant, pant…</i>",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "T-Trainer?! I-i-it's nothing, I assure you!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Everyone in the classroom was telling s-scary stories, so I ran—er, I mean…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I had some urgent business to attend to that couldn't possibly wait, so I took my leave!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What a shame! I so wanted to hear more of those scary stories!",
+            "choice_data_list": [
+                "…Are you trying to act tough?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I-I am doing no such thing! I'm completely calm and collected!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She swears she's just fine, but seems to be out of it for quite a while after."
+        }
+    ]
+}

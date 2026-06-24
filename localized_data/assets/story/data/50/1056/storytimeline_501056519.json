@@ -1,0 +1,37 @@
+{
+    "title": "恐怖！ 不吉の暗示",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I walk into my office one day, only to find…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "T-today's my unlucky day…",
+            "choice_data_list": [
+                "Gah! You scared me!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's… not raining, Trainer…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "My shoe divination and my flower divination techniques both told me it was definitely going to rain today!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can't believe that divine prophecy didn't come true… This is definitely misfortune at play!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Argh! At this rate, a procession of sumo wrestlers is going to stop me from crossing the street, or a sudden gust of wind will have my shrine offerings sinking to the bottom of a pond!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I do my best to put Matikanefukukitaru at ease, but her wild imagination ends up throwing her out of sorts."
+        }
+    ]
+}

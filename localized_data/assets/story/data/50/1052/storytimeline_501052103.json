@@ -1,23 +1,26 @@
 {
-    "no_wrap": true,
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "―A summer training camp to strengthen \nher abilities. This is the perfect chance \nfor Haru Urara to get stronger, but…"
+            "name": "Monologue",
+            "text": "Every year, the academy has a summer camp for special training. This is a great chance for Haru Urara to gain some strength."
         },
         {
             "name": "Haru Urara",
-            "text": "Wow, so much nature! \nThe sky seems so high up!"
+            "text": "Wow! Look at all this nature! The sky looks so huuuge!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hehehe, we're all staying over! \nI've been looking forward to this for so long!"
+            "text": "Heehee… I've been wanting to have a sleepover together with everyone for so long!"
         },
         {
             "name": "Haru Urara",
-            "text": "Ah, it's the sea! \nI can see a little bit of it from here!"
+            "text": "Ah, I can see the ocean! Just a little bit!"
         },
         {
-            "text": "… Is she going to be fine? \nEven though I'm a little worried, \nthe summer camp has begun!"
+            "name": "Monologue",
+            "text": "This'll be fine, right? I still have some reservations, but in any case, let the summer camp begin!"
         }
     ]
 }

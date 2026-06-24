@@ -1,0 +1,196 @@
+{
+    "title": "尽くせ、礼",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, when visiting the library…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Please… I beseech you!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O-Opera O? This is a library…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh! A thousand pardons. To violate the library's code of conduct is a betrayal of beauty itself. As such… Ahem…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Please… I beseech you…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, your voice is softer this time, but…",
+            "choice_data_list": [
+                "What's going on here?",
+                "What's going on here?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, fine trainer. Assist me in my endeavor, would you?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "For she is the scholar of songs who holds knowledge of the composition I seek.",
+            "choice_data_list": [
+                "A scholar of songs?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-that phrasing is somewhat perplexing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask for a quick summary to get up to speed."
+        },
+        {
+            "name": "Monologue",
+            "text": "As it turns out, T.M. Opera O has come here to ask Zenno Rob Roy for opera recommendations."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "She is a veritable fountain of knowledge! I would invite her expertise for the benefit of my dramaturgy!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-that's… You're exaggerating."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I-I simply like to read books. I'm nowhere near qualified to handle such a high request."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Rob Roy."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…Yes?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I am beautiful."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Huh? W-well, yes… you are."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Then no other words are necessary."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Zenno Rob Roy is beyond confused. It looks like I need to step in.",
+            "choice_data_list": [
+                "In layman's terms?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "There are none. When an assessment is made, it must be made rightly. Am I wrong?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Rob Roy, your intimate knowledge of books runs deep. You should be praised for it and proud of it."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Never should it be taken lightly, even by yourself."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…!",
+            "choice_data_list": [
+                "It's true.",
+                "It's true."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You both think so?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "So, I beg of you once again—might you recommend a play worthy of one such as I?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Very well. I'll pick what I consider to be the finest of works!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Zenno Rob Roy comes back with two scripts of recommendation."
+        },
+        {
+            "name": "Monologue",
+            "text": "The one we decide to read first is…",
+            "choice_data_list": [
+                "An epic about a racing deity.",
+                "The tale of a heroic savior of the people."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh-heh, what a coincidence. I have been meaning to read that very one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O and I absorb ourselves in the story."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What is it thou desires?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Speed? So be it… Now, go forth."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure what's come over T.M. Opera O, but it's having a positive effect on her running."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh-heh, what a coincidence. I have been meaning to read that very one!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, Opera O! I've procured another book for you today!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah! Thank you… Hehe, I can hardly wait to read it.",
+            "choice_data_list": [
+                "She gave you another recommendation?",
+                "She gave you another recommendation?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, I have the urge to read more heroic tales. People yearn for heroes of all shapes and sizes."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh… It seems the hero of her dreams and I, the Overlord, somewhat differ."
+        },
+        {
+            "name": "Monologue",
+            "text": "Reading books seems to have helped T.M. Opera O come to a realization."
+        }
+    ]
+}

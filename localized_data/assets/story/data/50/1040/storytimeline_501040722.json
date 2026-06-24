@@ -1,0 +1,39 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Gold City and I are on our way somewhere, but she's been holding her head in pain the entire time."
+        },
+        {
+            "name": "Gold City",
+            "text": "Ohh… Oww…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh, this is the worst. That medicine isn't working at all.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm fine. It's just a little headache."
+        },
+        {
+            "name": "Gold City",
+            "text": "It happens sometimes when I'm modeling. Yesterday's shoot was especially tough, with all the harsh lighting."
+        },
+        {
+            "name": "Gold City",
+            "text": "But hey, it's not the first time this has happened, so you don't have to worry."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, but I have another shoot today… I hope the medicine will start working by then."
+        },
+        {
+            "text": "Gold City continues to suffer from her headache for some time."
+        }
+    ]
+}

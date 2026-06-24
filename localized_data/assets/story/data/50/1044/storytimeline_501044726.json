@@ -1,0 +1,57 @@
+{
+    "title": "Claw Machine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Sweep Tosho…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh! Hold on, Familiar! Look at that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho is pointing to a claw machine full of Umamusume plushies."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So these are called Cuties, but they're basically just like Umamusume worry dolls, right?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That means they should protect me from all my troubles. Like homework and training and whatever…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All right, go get me one!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Don't \"huh\" me! When the master wants something, it's a familiar's job to get it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Eh, I guess I can help you a little. I'll cast a spell to make things go smoothly!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Poppy poppy catch! ☆ Popping yellow! ☆"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There you go! Everything should go great!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, get going, Familiar! Go, go, go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "優等生としては……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out in town with Daiwa Scarlet, I walk her back to the dorms."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Phew…</i> That was wonderful! It's nice taking things easy once in a while! ♪"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And I'm sure it was a nice change of pace for you too, right? I mean, with me around, there's no way you couldn't have fun."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You <i>did</i> have fun, right?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "O-oh, gosh! Just look how dark it's gotten!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You know, now that I think about it, coming back this late probably isn't a good look for a model student.",
+            "choice_data_list": [
+                "Just think of it as part of training!",
+                "Is it really that big of a deal?",
+                "Is it really that big of a deal?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What are you saying? There's no way that excuses it."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But, if I start training now, then it won't just be an excuse, right?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…I meant that as a joke, but now I'm itching to get on the track."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right! That excursion was just a warm-up for the real training! Time to stretch my legs!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And you're coming with me, obviously!",
+            "choice_data_list": [
+                "Yes, ma'am!",
+                "Yes, ma'am!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet spends the whole training session with a huge grin."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Of course it is! If people saw us coming back together, they might think we… went somewhere tog—"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urgh, never mind! The point is, yes, it's a problem! It could harm my reputation!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, I mean… it's not like <i>I</i> have an issue with going off campus with you…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I just don't want people getting the wrong idea, thinking we're chummy or anything.",
+            "choice_data_list": [
+                "Just pretend I dragged you out for a break."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, you couldn't \"drag\" me anywhere if you tried. Besides, blaming you makes you sound bad."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You might end up being removed as my trainer, and… I don't want that."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But I know you're just worrying over my reputation, so… I guess what I mean is…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "Something seems to have put her in a good mood."
+        }
+    ]
+}

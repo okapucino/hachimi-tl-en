@@ -1,0 +1,37 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, you there! Come get yourself a good-morning cuddle!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eek! H-huh? Taiki Shuttle?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. That should cheer ya up! Oh, looks like somebody else needs a good mood-boostin' too…",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, Trainer! Mornin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I've been out here squeezing some energy into anybody lookin' too down in the dumps!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Thanks to my day off yesterday, my energy reserves are overflowing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Taiki Shuttle got in some good rest."
+        }
+    ]
+}

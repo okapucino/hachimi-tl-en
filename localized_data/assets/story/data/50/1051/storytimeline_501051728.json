@@ -1,0 +1,25 @@
+{
+    "title": "Claw Machine: Success!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Oooh! How cute!",
+            "choice_data_list": [
+                "Make sure you take good care of your gift."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I certainly will! Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehehe! Now Bourbon and I will have extra company! Introductions will be in order, all around!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

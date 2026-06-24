@@ -1,0 +1,376 @@
+{
+    "title": "約束、ふたり",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's debut race goes without a hitch, and now it's time to decide our next goal. There are two paths racers like her usually take."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's the Classic Triple Crown tour, which consists of the Satsuki Sho, Japanese Derby, and Kikuka Sho…",
+            "color_text_info_list": [
+                "Satsuki Sho",
+                "Japanese Derby",
+                "Kikuka Sho",
+                "Classic"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And there's the Triple Tiara tour, which consists of the Oka Sho, Japanese Oaks, and Shuka Sho.",
+            "choice_data_list": [
+                "(I should ask Dober which path she prefers.)"
+            ],
+            "color_text_info_list": [
+                "Oka Sho",
+                "Japanese Oaks",
+                "Shuka Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "While I'm pondering such thoughts, two shadows race beneath the night sky elsewhere…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ngh… Haaaaah!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Huff… huff… huff…</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. I did it! Looks like I crossed the finish line first."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, you were incredible! I didn't stand a chance."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, thank you! ♪ It seems all my hard work is starting to pay off."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Speaking of, Bright, I heard you changed your training regimen recently."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ryan said you're pushing yourself even harder than before. She couldn't decide whether to be worried about you or happy about your growth."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well! ♪ Hehe! That does sound like Ryan."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Still, I'm not the only one who's different. You've changed since your debut race too."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Have I?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, don't tell me you haven't noticed?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've been watching you for a long, looong time, so I can tell that the look in your eyes has changed, Dober."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "In fact… As you are now, I bet…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm? You bet what, Bright?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. Dober, would you happen to have some free time after this?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, what a stunning view. You can see for miles out from here."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why did you bring me up here?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Look, Dober. I think the Mejiro estate should be thereabouts in that direction."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I still remember the days you and I spent there together…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Remember how we snuck into the library as children? You held my hand and led me around the whole time."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, yeah… I didn't want to get caught, and you were determined to leisurely stroll through the entire place."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thanks for always looking out for me, dear Dober! ♪ We saw so many things in the library, didn't we?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "All along the shelves were countless awards—proof of the remarkable history the Mejiros forged themselves."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "McQueen, Ryan, Palmer… All of our predecessors have carried on the Mejiro legacy.",
+            "color_text_info_list": [
+                "McQueen",
+                "Palmer"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "They refined and improved the legacy they inherited, and through their efforts, the Mejiro name remains a bright pinnacle in the racing world."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And now, it is our turn."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Are we to forever remain the \"baby Mejiros,\" shielded by the glories of the past, and allowed only to fawn over famed legacies?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I should think not."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Bright…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Dober. I will follow after you and make my own dazzling debut into the racing world…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "After which, I will follow the path of the Classic Triple Crown."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I shall be the one to claim the glory that even Ryan let slip through her fingers. I shall claim the Triple Crown for the Mejiro family."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And then, I will forge a new Mejiro legacy."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "A… a new legacy…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That's right. As for you, Dober…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "What will you do?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I… I…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(I always thought I would simply stay in the shadows.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(People like Bright, Ryan, and McQueen can run toward their glory with strength alone… They're different from me.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Or at least, that's what I thought…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I ran with all my strength! In an actual race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(I was able to finish that race because of everyone's support. It gave me the confidence to believe I'm a capable racer too.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(So long as I still have that pride within me, then surely I, too…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm going to do the same."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll forge a new legacy too!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm going to race in the Triple Tiara tour and conquer the Oka Sho, Japanese Oaks, and Shuka Sho."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm going to do what Ramonu—the Mejiro family's pride and joy and the first person to win the Triple Tiara—did and seize all three tiaras too!",
+            "color_text_info_list": [
+                "Ramonu"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Bright."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm not letting you blaze a path by yourself. Let's make history together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's forge new legacies for the Mejiro family!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. I knew it. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I had a feeling you would say that, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, were you <i>testing</i> me?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, of course not!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I simply wanted to hear you say how you felt in your own words."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh…</i> You and your mind games…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Now then…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Take my hand, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay."
+        },
+        {
+            "name": "Dober and Bright",
+            "text": "We're going to win the Triple Crown and Triple Tiara! We're going to forge new legacies for the Mejiro family—together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their promise echoes toward the setting sun…"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, Mejiro Dober comes to tell me about her goals and plans."
+        },
+        {
+            "name": "Monologue",
+            "text": "And she tells me how she and Mejiro Bright want to build new Mejiro legacies."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we decide to set her on the path toward the Triple Tiara."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I want to continue the legacy Ramonu left behind…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I know I'm nowhere near qualified to say such a thing. I'm still lacking in so many ways."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But—",
+            "choice_data_list": [
+                "That just means we need to work hard to change that."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…!",
+            "choice_data_list": [
+                "I'll do everything I can to help you become even stronger!",
+                "I'll do everything I can to help you become even stronger!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "\"Even\" stronger? Geez…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer… You're so…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, if I want to compete in the Triple Tiara tour during my classic year, I should race in the Hanshin Juvenile Fillies first.",
+            "color_text_info_list": [
+                "Hanshin Juvenile Fillies"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, if I want to compete in the Triple Tiara tour during my classic year, I should race in the Hanshin Juvenile Fillies first.",
+            "color_text_info_list": [
+                "Hanshin Juvenile Fillies"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll make sure to leave my mark at that race first, then focus on improving for the real show—the Triple Tiara tour!",
+            "choice_data_list": [
+                "Sounds like a plan!",
+                "Sounds like a plan!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Our next goal is the Hanshin J.F., followed by the Triple Tiara."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober has taken her first bold steps as a member of the prestigious Mejiro family!"
+        }
+    ]
+}

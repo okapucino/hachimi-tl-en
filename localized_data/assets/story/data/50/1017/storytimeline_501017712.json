@@ -1,0 +1,37 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time for training, but Symboli Rudolf is nowhere to be found. Curious, I make my way to the student council office."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Zzz…</i> Mm… Oh… Air Groove… It's you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure enough, I find her dozing amid stacks of paperwork."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "No… I don't need that chair moved… Heh… Chair move… Air Groove…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like she's sleeping peacefully, so I decide not to disturb her."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Please accept my earnest apologies for failing to keep to our schedule.",
+            "choice_data_list": [
+                "Just be more careful next time."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Of course. I will take pains to ensure that this does not happen again."
+        }
+    ]
+}

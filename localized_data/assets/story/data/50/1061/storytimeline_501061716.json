@@ -1,0 +1,57 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I find King Halo grumbling about something when I walk into the cafeteria."
+        },
+        {
+            "name": "King Halo",
+            "text": "Urk… I simply cannot gain any more weight!"
+        },
+        {
+            "name": "King Halo",
+            "text": "In order to maintain my first-rate beauty, I need to refrain from eating sweets for the time being…",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, Trainer. Well… I was thinking about going on a diet."
+        },
+        {
+            "name": "King Halo",
+            "text": "After all, physique is really important for an Umamusume. Don't you agree?"
+        },
+        {
+            "name": "King Halo",
+            "text": "We need to be strong and limber in races, yet also elegant and light on our feet at winning concerts."
+        },
+        {
+            "name": "King Halo",
+            "text": "To be first-rate, I must enchant everyone with my performance both on the stage and on the track."
+        },
+        {
+            "name": "King Halo",
+            "text": "So, as my trainer, please give me your full support!",
+            "choice_data_list": [
+                "What kind of support?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll need you to accompany me on my early morning runs, track my calorie intake for me, and…"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll need your careful discretion every day to maintain my first-rate beauty!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I work with King Halo to help her stay in peak condition."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Inari One…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, lookie there! That's those Cuties everyone's ravin' about."
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Inari One is pointing and see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Inari One",
+            "text": "They all look so adorable. I jus' wanna scoop 'em all up."
+        },
+        {
+            "name": "Inari One",
+            "text": "Not too good with this kinda game though, sadly. When it comes to festival fishin' games, I can reel prizes in all day!",
+            "choice_data_list": [
+                "I'll grab you one!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh-ho! I like your spirit, Boss! You're confident, huh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh-ho! I like your spirit, Boss! You're confident, huh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Then let's see what ya got. Don't let me down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

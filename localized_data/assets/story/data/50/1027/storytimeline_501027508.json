@@ -1,0 +1,34 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan's movements seem a little off during training.",
+            "choice_data_list": [
+                "Are you feeling okay?",
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm fine, really! Look at these rippling muscles, just full of energ—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh? Hold on a minute… My biceps aren't as taut as usual."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "My hammies and triceps aren't their usual, powerful selves either!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. Her muscles aren't in top condition right now. Maybe she's overworking herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "It might be best for us to revise her race schedule…"
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the evening, and Biwa Hayahide and I have just finished buying some training supplies. We're on our way home, when…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm? It looks like something's going on over there…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "A raffle, huh? Didn't we get something that looked like a raffle ticket from the store?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Since we have one, why don't you give it a—",
+            "choice_data_list": [
+                "Get out there and win a big one, Hayahide!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You want <i>me</i> to go up there?",
+            "choice_data_list": [
+                "Do you not want to?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's not that! I just… hadn't considered going myself."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm usually the one watching things unfold, not the one participating in the actual event…",
+            "choice_data_list": [
+                "Did you always let Brian take the spotlight?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, yes… She was always so sweet when she won something."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Back when she was still quiet and shy, the only time she would get excited and yell aloud was when she won something.",
+            "choice_data_list": [
+                "Well, today, it's your turn to get excited.",
+                "Well, today, it's your turn to get excited."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Um… I'd hate to disappoint you, but I don't think that'll be happening…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide gathers her courage, walks up to the raffle spinner, and gives the handle a crank."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…What?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I won the grand prize?!",
+            "choice_data_list": [
+                "That's awesome!",
+                "That's awesome!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-indeed…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-I'm fine. I'm just still in shock…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The odds seem so impossible. There must be 300 balls in the machine, and of those, there can't be many for the grand prize—"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "That's right! There's only <i>one</i> ball for the grand prize!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We beat 300-to-1 odds on our first try?!",
+            "choice_data_list": [
+                "Talk about lucky!",
+                "Talk about lucky!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-I guess…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But wow, a voucher for a hot spring vacation… It'd be nice to go once things calm down.",
+            "choice_data_list": [
+                "Do you want to go?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh! I'm sorry! This is your prize too, so of course you're free to invite whoever you'd like. I'm not sure why I assumed it would be me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What was I thinking? I guess I must still be in shock.",
+            "choice_data_list": [
+                "I don't mind if you want to use it for yourself.",
+                "I don't mind if you want to use it for yourself."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What?! You're all right letting me have it?! Hm…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "All right, how's this? After the Twinkle Series is over, we can give more thought as to which one of us should use it and how."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And if we both happen to be free… Well, we can cross that bridge when we get to it."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Biwa Hayahide puts away the voucher very carefully."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yay! I won something!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe! I can't believe I actually won—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ahem… Yes, well, now I can certainly see how one might get a little excited about winning first prize."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We won this with that ticket we got at the training supply store, so…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I think it's only fair if we split it.",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course! But only if you promise not to tell anyone about my little outburst here.",
+            "choice_data_list": [
+                "Ah, so it's a bribe of sorts."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "N-no! Just… please don't let anyone know."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If Brian were to find out I was acting like a little kid over some raffle… Ugh, the whole thing would be far too embarrassing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I promise to take her secret to the grave, and we enjoy the hamburger steak together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Wow, this is… a lot of carrots. Well, I guess I won't need to buy any for a while."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Since I have so many, I'd like to give you some as a small token of my gratitude for all your hard work!",
+            "choice_data_list": [
+                "And what about Ticket and Taishin over there?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You read my mind. I was planning to share some with them too."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket! Taishin! Over here!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Thank youuu!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe! Look out, Trainer. Make sure she doesn't knock you over when she comes flying over he—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh my gosh! Are you two okay?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how we end up sharing a whole bushel of carrots with Winning Ticket and Narita Taishin."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yay!",
+            "choice_data_list": [
+                "You did it!",
+                "You did it!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ahem… Yes, well, winning third prize is quite a feat."
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to split the prize, so we each have half a carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What? I only get a pack of tissues?",
+            "choice_data_list": [
+                "It just wasn't your lucky day.",
+                "It just wasn't your lucky day."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I… guess not. But I did learn something."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Brian used to be crushed when she didn't win. I thought she was adorable whenever she wilted like that."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But now I understand how disappointing it actually feels not to win anything."
+        },
+        {
+            "name": "Monologue",
+            "text": "I console Biwa Hayahide as we resume our walk back home…"
+        }
+    ]
+}

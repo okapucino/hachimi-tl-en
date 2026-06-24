@@ -1,0 +1,41 @@
+{
+    "title": "筋肉通の筋肉痛",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I see Mejiro Ryan in front of the stairs, trembling.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ah, T-Trainer… I did too much weight with my leg presses yesterday…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A-as you can see, my muscles are aching mighty hard right now. But don't worry!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This is proof that they're growing!",
+            "choice_data_list": [
+                "Are you going to be okay for today's training?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, yeah! No problem! I'm just—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ouch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps due to her sore muscles, Mejiro Ryan isn't able to get into a rhythm during her training."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm filling out some paperwork when Mayano Top Gun's homeroom teacher informs me that she didn't show up for class…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, a vapor trail… I bet it'd be fun to ride one of those…",
+            "choice_data_list": [
+                "You seem out of it.",
+                "You seem out of it."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, Trainer…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…I don't wanna go to class. It's so boring."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Racing, shopping, talking… All the things I used to like… They're all so boring."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And my body's feeling heavier and heavier…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Running back-to-back races must be taking a toll on her. I'd better adjust her race schedule…"
+        }
+    ]
+}

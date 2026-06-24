@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Mayano Top Gun…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoooa! Look over there, Trainer!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Look at those plushies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Mayano Top Gun is pointing and see a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Look at those cuties! They're sooo adorable! I want one!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But I've already spent my allowance…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun looks crestfallen, the light vanishing from her eyes.",
+            "choice_data_list": [
+                "Do you want me to win you one?",
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You'd do that for me?! All right, then I'll be your own personal cheer squad!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Go, go! You can do it! Gooooo, Trainerrrr! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail!"
+        }
+    ]
+}

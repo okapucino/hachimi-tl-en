@@ -1,9 +1,10 @@
 {
-    "no_wrap": true,
+    "title": "京王杯ジュニアSにむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Phew…",
+            "text": "<i>Sigh…</i>",
             "choice_data_list": [
                 "What's the matter?",
                 "What's the matter?"
@@ -11,41 +12,42 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, I just thought it was a \nbit… disappointing, is all."
+            "text": "Well, I was… a little sad."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This may be the last time I'll be \nBakushin-ing in short distances."
+            "text": "This might be the last time I get to Bakushin a sprint."
         },
         {
-            "text": "If she's going to say something like that… \nMaybe she's starting to find the shorter \ndistances more appealing…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So, it's a shame. \nBecause…"
+            "name": "Monologue",
+            "text": "Saying such a thing… Perhaps she has started to understand the appeal of sprints?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyone in the audience will be \ninconsolable!"
+            "text": "It's such a shame. You know…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There must be people who were born just \nto see this divine speed that wins every \nshort distance race by a huuuge margin.",
+            "text": "The spectators will surely be upset too!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There may be people out there born solely to witness this divine speed… a speed that can tear short-distance tracks to shreds!",
             "choice_data_list": [
-                "Sure…"
+                "Right…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, this is a necessary evil! \nThe class president, for the sake of \neveryone…!"
+            "text": "But one must do what one has to do! A representative always needs to act for the greater good…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The least I can do is go out with a bang!"
+            "text": "The only thing I can do is make sure I go out with a bang!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's leave everyone with a great victory to \nshow for it!"
+            "text": "As a tribute to everyone, I'll show them a splendid victory!"
         }
     ]
 }

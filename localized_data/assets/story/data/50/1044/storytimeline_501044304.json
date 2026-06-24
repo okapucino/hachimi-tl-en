@@ -1,0 +1,102 @@
+{
+    "title": "After the Hanshin J.F.: Behind the Pillar",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Staff",
+            "text": "Sweep Tosho! You're up!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Huh? Why is she being called out specifically? Is she special or something?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Hmm… She's pretty small. Maybe she expects special treatment? She ran well, though, so that's promising."
+        },
+        {
+            "name": "Fan A",
+            "text": "Oh, interesting. Hey! Make sure you listen to what the grown-ups say!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Shaddup, shaddup, SHUT UP!"
+        },
+        {
+            "name": "Staff",
+            "text": "Okay, that about sums it up! Sweep, Trainer, please make sure you're on time for the concert!"
+        },
+        {
+            "name": "Staff",
+            "text": "Oh, Trainer! I'd like to talk to you alone for a minute!",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Staff",
+            "text": "We've heard about what happened the other day…"
+        },
+        {
+            "name": "Staff",
+            "text": "Would you like me to come to the waiting room twenty minutes beforehand? I can call for extra help if necessary.",
+            "choice_data_list": [
+                "…Are you asking because you're worried?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I remember the conversation I had with Sweep Tosho's grandmother."
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "But have you ever felt that people are worrying about you so much because they might not have faith in you?"
+        },
+        {
+            "name": "Staff",
+            "text": "Yes. That is, the staff who were there on the day of her debut have been rather worried."
+        },
+        {
+            "name": "Staff",
+            "text": "They said she's very spoiled, and they're worried she might suddenly back out of the concert…",
+            "choice_data_list": [
+                "She'll be fine."
+            ]
+        },
+        {
+            "name": "Staff",
+            "text": "Are you sure? Wouldn't it be best to set up some kind of contingency plan just in case?",
+            "choice_data_list": [
+                "I'm sure she'll be fine."
+            ]
+        },
+        {
+            "name": "Staff",
+            "text": "…All right, then. You're her trainer, so if you say so."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Hanshin J.F. concert begins. Sweep Tosho takes the stage right on time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And she does exactly what she's supposed to do."
+        }
+    ]
+}

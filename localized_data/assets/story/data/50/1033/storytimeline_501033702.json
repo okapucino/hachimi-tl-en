@@ -1,0 +1,232 @@
+{
+    "title": "それは、当たり前",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sniff… sob…</i> Can I really do it?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't cry. Remember what you said about finding the legendary blade?"
+        },
+        {
+            "name": "Monologue",
+            "text": "This all started a few hours ago while I was walking past the station…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You want to help out Opera O but don't have the confidence?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "She said she's going to do a new opera performance that requires a lot of research. So I offered to help…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But. looking at the map… I don't know if I'll be able to reach all the destinations!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "And that's why you're here crying alone? Hmm…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I know I said I'd help, but I didn't expect to be dragged all the way here!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What exactly is this \"legendary blade\" research anyway?!",
+            "choice_data_list": [
+                "Well, you can't bail on her now.",
+                "Well, you can't bail on her now."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, I'm sorry! I'm sorry! But… there are children looking forward to the performance!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You don't need to convince me. I already know you're not turning back… Let's just get this over with!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, they set out to find the legendary blade."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaaaah! It's shaking! We're so high up! I don't like thiiiis!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't look down. Keep your eyes in front of you while you walk."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But do we have to walk so fast? Eeek!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waaah! My shoes are soaked! So are my butt and back!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Pull yourself together. You're the one who decided to see this through!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hey? That thing over there… is that…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No way. Is this the legendary…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Thanks to you, I managed to get all the information I needed without a hitch! Thank you!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That map was pretty useless, wasn't it? What was Opera O thinking? Geez…",
+            "choice_data_list": [
+                "It took us on a huge detour…",
+                "It took us on a huge detour…"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm… I'm really sorry about that! It's my fault for making you do so much…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There's no need to apologize for something I chose to do of my own accord… I'll see you later."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but… Oh! Hold on for just a second!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Can I buy you a tasty drink as thanks? You know the commercial, right? \"When you're feelin' extra drained, gotta have a honeyade! ♪\""
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No thanks."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't need it. Your words are thanks enough."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but! I couldn't… How about something besides a drink? An ice cream, or a grilled carrot? Or maybe…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's fine. Really. You're the one who put in the effort, right?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But, but… you helped…"
+        },
+        {
+            "name": "Children",
+            "text": "Hey! We knew that was you, Doto! Are you preparing for today's opera?",
+            "choice_data_list": [
+                "Who are the kids?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, they're from the local children's center. Opera O invited them to watch our show…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um, hello, everyone. I actually just finished preparing. This nice lady here was helping me out."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I didn't do anything. I just followed along."
+        },
+        {
+            "name": "Enthusiastic Boy",
+            "text": "Wh-whooooaaa! You're like a superhero!"
+        },
+        {
+            "name": "Cheerful Girl",
+            "text": "You came to Doto's rescue, but you're not even bragging about it! That's… so cooool!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "H-hold on…",
+            "choice_data_list": [
+                "I know! She's <i>suuuper</i> cool, right?",
+                "I know! She's <i>suuuper</i> cool, right?",
+                "Let me deal with this.",
+                "Let me deal with this."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "H-hold on…",
+            "choice_data_list": [
+                "I know! She's <i>suuuper</i> cool, right?",
+                "I know! She's <i>suuuper</i> cool, right?",
+                "Let me deal with this.",
+                "Let me deal with this."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…I only did what anyone should do."
+        },
+        {
+            "name": "Children",
+            "text": "Whooooa!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ah, enough! Why did you have to go and say that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the children surround Admire Vega, she shoots me a resentful look."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Deal with what?",
+            "choice_data_list": [
+                "Quickly, Ayabe Ranger! The city needs their hero!",
+                "Quickly, Ayabe Ranger! The city needs their hero!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Children",
+            "text": "Whoa! You better get going! Thank you for protecting us, Ayabe Ranger!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Have you… done this before?",
+            "choice_data_list": [
+                "I'm just going with the flow."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Keep it up and <i>someone</i> might come and scout you to be in their play."
+        },
+        {
+            "name": "Monologue",
+            "text": "As we leave, I return Admire Vega's half-weary grumblings with a wry smile."
+        }
+    ]
+}

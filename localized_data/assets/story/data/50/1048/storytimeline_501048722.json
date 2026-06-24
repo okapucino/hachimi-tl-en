@@ -1,0 +1,49 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I run into Tosen Jordan while taking care of an errand in the library."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Groan…</i> My head… I don't feel so good…",
+            "choice_data_list": [
+                "Headache?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? Oh, it's you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "My friend was just helping me study, and now my head is killing me…",
+            "choice_data_list": [
+                "You were studying?! Wow!",
+                "You were studying?! Wow!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You know, I don't exactly love that reaction!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Anyway, my friend made time to help me study, so I'm taking it seriously!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Which means I'm tired. I don't have time to deal with you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Urgh! It's starting to throb again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Concerningly, her headache continues for a while after that…"
+        }
+    ]
+}

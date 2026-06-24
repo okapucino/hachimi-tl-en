@@ -1,0 +1,222 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "New Year's break is coming to a close soon. I contact Tosen Jordan's homeroom teacher and learn that she's already back from visiting her family and is in the dorms."
+        },
+        {
+            "name": "Monologue",
+            "text": "I haven't heard from her yet, but there's always the possibility she'll pop in once the break is over."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if she doesn't come for training, she still has to tell me whether she wants to continue training or if she wants to quit."
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Hey, let's go get our fortunes! I'm gonna keep drawing 'em until I get a good one!"
+        },
+        {
+            "name": "Gyaru B",
+            "text": "Isn't that cheating? What about you, Jordan? You want one?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, um… I think I'll pass…",
+            "choice_data_list": [
+                "Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No way… Trainer?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, Happy New Year. How've you been?",
+            "choice_data_list": [
+                "That's what I wanted to ask you.",
+                "That's what I wanted to ask you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, right. Um… Sorry for ghosting you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I've been, like… busy or whatever… But…",
+            "choice_data_list": [
+                "Let's have another good year.",
+                "Let's have another good year."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh… Right. Hopefully I can…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Anyways, what did you come to wish for? To meet someone new?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Haha, that's not a bad idea, actually. Maybe I should pray for someone to come sweep me off my feet?",
+            "choice_data_list": [
+                "I'll pray for you to be able to run without any injuries.",
+                "I'll pray for you to be able to run without any injuries.",
+                "I'll pray that I can make you even better by the next race!",
+                "I'll pray that I can make you even better by the next race!",
+                "I'll pray that we'll find a new strategy for you to use."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Haha, that's not a bad idea, actually. Maybe I should pray for someone to come sweep me off my feet?",
+            "choice_data_list": [
+                "I'll pray for you to be able to run without any injuries.",
+                "I'll pray for you to be able to run without any injuries.",
+                "I'll pray that I can make you even better by the next race!",
+                "I'll pray that I can make you even better by the next race!",
+                "I'll pray that we'll find a new strategy for you to use."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm good. You should make a wish for yourself."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, I'm in great shape. Thanks to… well, because you made me run so much."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What I mean is…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're actually really good. You should be aiming bigger."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…I wonder if I can really get any better."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're such a go-getter, right? Don't you think that energy's wasted on someone like me?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Like, maybe you should spend it on someone else. You might feel a spark with them!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're actually really good. You should be aiming bigger."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You mean something other than really wanting to win? Ahaha, that'd be nice."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah… I wish I had something…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Anyways, what about you? I'm flattered, but you're spending too much time daydreaming on my behalf! ☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're actually really good. You should be aiming bigger."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Then, once you're a big shot, I'll be able to brag that I was your trainee.",
+            "choice_data_list": [
+                "…Jordan."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What?",
+            "choice_data_list": [
+                "I'll be waiting as long as it takes.",
+                "I'll be waiting as long as it takes."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What are you even saying?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, Happy New Year, City! …By the way, have you seen Jordan?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "I haven't seen her training lately! If she's injured, she's gonna be totes stressy depressy. I wanna go see how she's doing!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? I don't think she's injured. She's been coming to class."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh yeah? I wonder if something's troubling her… I'll text her lat—"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hold up. She hasn't gotten in touch with either of you at all?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Nope."
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Um, do you mind holding off on any messages?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Jordan is the kind of girl who always lets us know she's okay, even when she's only out with a cold."
+        },
+        {
+            "name": "Gold City",
+            "text": "But she hasn't texted <i>anyone?</i> That's kinda strange…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…Wait! You think she's avoiding us?"
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Jordan! Suh, fam! ☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Hey! ☆"
+        }
+    ]
+}

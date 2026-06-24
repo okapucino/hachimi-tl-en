@@ -1,0 +1,98 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Narita Brian suffers a minor injury during practice."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "This isn't even a graze."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You worry too much.",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Do you want to continue practice?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You worry too much.",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Do you want to continue practice?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Like I said, I'm fi—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Oof…",
+            "choice_data_list": [
+                "Here, let's get you patched up.",
+                "Here, let's get you patched up."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Tch! What are you, my mother?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With her training cut short, Narita Brian can't hide her disappointment."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah, I can start again in just a second."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "All something like this needs to heal is a bit of spit and—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…!",
+            "choice_data_list": [
+                "It hurts, doesn't it?",
+                "It hurts, doesn't it?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Damn. And I'm already short on time."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "This is no time for resting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian tries to continue despite her injury, but I gently convince her to pause her training."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Of course. I was never planning on stopping.",
+            "choice_data_list": [
+                "All right, at least let me patch you up.",
+                "All right, at least let me patch you up."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Fine. …Geez."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "But as soon as you're done wrapping me up, I'm running. Got it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the proper treatment helped. She continues training after with no issue."
+        }
+    ]
+}

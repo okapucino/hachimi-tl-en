@@ -1,0 +1,219 @@
+{
+    "title": "元ガキ大将の背中",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way home one day, the rascal leader from the other day spots us and comes over to greet Kawakami Princess."
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Hey, Sis! Let's plaaay!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well, aren't you just bursting with energy! Sure, I'll spend some time with you!",
+            "choice_data_list": [
+                "You two are getting along well.",
+                "You two are getting along well."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Of course! To be honest, we've become the town's mightiest princess sisters!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "The mightiest <i>and</i> the princessiest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the rascal leader has even started to copy some of Kawakami Princess's mannerisms. I feel like I've seen a relationship like this before…",
+            "choice_data_list": [
+                "She looks up to you in the same way you look up to King Halo.",
+                "She looks up to you in the same way you look up to King Halo."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Gasp!</i> Th-that thought never crossed my mind!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hmmm, now that you say it, that makes this a huge responsibility! Is it up to me to determine the kind of Umamusume she grows up to be?"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "What's the matter? Let's hurry up and play already!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I must turn her into an excellent princess! But what can I teach her that will set her on the best path?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What would King do in this situation? Hmm… Hmmmm…"
+        },
+        {
+            "name": "Imaginary King",
+            "text": "You appear to be troubled by something, Kawakami."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?! It's… King?!"
+        },
+        {
+            "name": "Imaginary King",
+            "text": "Yes, I am the image of King that lives within your subconscious. But never mind that. Listen closely, as I am about to offer some advice."
+        },
+        {
+            "name": "Imaginary King",
+            "text": "In a situation like this, the first thing you need to do is teach her the mannerisms befitting a princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I see, I see. Thank you, King… Or should I say, Imaginary King?",
+            "choice_data_list": [
+                "A-are you okay?",
+                "A-are you okay?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Right! I've decided! I'll start by teaching you how a princess uses her chopsticks!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "What? We playin' house or somethin'?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?! No, nothing of the sort! This is the first step on your path to becoming an excellent princess!"
+        },
+        {
+            "name": "Imaginary King",
+            "text": "Don't be discouraged. Remember, you're the teacher!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, the rascal leader doesn't take to Kawakami Princess's zealous teaching methods, and the two fail to get on the same wavelength."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A princess must always be elegant and reserved, even when partaking of sweets."
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Ugh, enough of this! Why're you actin' all weird today?! You sound like my mom!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I-I'm only doing this for your own sake! Are you really not going to listen to me?"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "This is stupid! I thought you were cool, but now you're acting weird! I hate it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…!",
+            "choice_data_list": [
+                "You might be missing the mark here…",
+                "You might be missing the mark here…"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes, you're right. A princess doesn't beat around the bush! I have to lead by example!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now pay close attention. I'm about to demonstrate a great leap right over that jungle gym there!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Huuuh?! No way! That's impossible!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Exactly! But being impossible is what makes it worth accomplishing!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hrryaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with a bit of a run-up, Kawakami Princess leaps spectacularly over the jungle gym!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Get outta here! That was <i>awesome!</i> I've never seen someone jump so high!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Except, that's not the point! What's important is that I overcame the obstacle before me!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So what if the way forward seems impossible? That is the way of a princess—to achieve the impossible!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Do you understand what I'm trying to do now?"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Yeah!",
+            "choice_data_list": [
+                "You've become more like a princess yourself.",
+                "Don't you think that was a tad too extravagant?",
+                "Don't you think that was a tad too extravagant?"
+            ]
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Yeah!",
+            "choice_data_list": [
+                "You've become more like a princess yourself.",
+                "Don't you think that was a tad too extravagant?",
+                "Don't you think that was a tad too extravagant?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Gehehe… It's all thanks to my diligent princess training under your guidance!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay! Now I'm going to pull off something even cooler! Watch me jump over both the jungle gym and the slide at the same time!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "Oooh! I can't wait to see that!",
+            "choice_data_list": [
+                "H-hold on a second!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I frantically try to stop Kawakami Princess, explaining to her that she's already shown enough. And the day comes to a close."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?! But what do you even mean?! I'm only trying to demonstrate in the clearest way what a princess is!"
+        },
+        {
+            "name": "Umamusume Wearing a Cap",
+            "text": "That's right! I'm bein' inspired here! You sayin' stop just means you got no class!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Indeed. That's precisely right. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, it appears that the bond between teacher and student has grown even deeper!"
+        }
+    ]
+}

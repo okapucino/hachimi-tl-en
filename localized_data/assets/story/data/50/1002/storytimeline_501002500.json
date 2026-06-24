@@ -1,0 +1,46 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today I'm conducting time trials with Silence Suzuka to measure her progress."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm ready.",
+            "choice_data_list": [
+                "I'm looking forward to seeing how you've improved.",
+                "I'm looking forward to seeing how you've improved."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Me too!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff… Huff…</i> How was my… time?",
+            "choice_data_list": [
+                "You've gotten even faster!",
+                "You've gotten even faster!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. I'm glad."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My legs were tingling with each stride, and I just couldn't stop them."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And what used to be distant scenery seemed so clear. It felt amazing."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems my training with Silence Suzuka is showing good results."
+        }
+    ]
+}

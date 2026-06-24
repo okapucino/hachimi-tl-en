@@ -1,0 +1,33 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Hm, hm, hmmm. ♪ Hm, hmmm. ♪ Okay, all polished up.",
+            "choice_data_list": [
+                "Are those… your cleats?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Indeed. I've poured my thoughts and prayers for victory into polishing them up until they sparkle. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The last race was disappointing, so this time I want to do everything I can to prepare."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We've trained so intensely to prepare for this day. The rest depends on my resolve, right?",
+            "choice_data_list": [
+                "Go out there and do your best!",
+                "Go out there and do your best!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm off, then. I'm definitely going to win today!"
+        }
+    ]
+}

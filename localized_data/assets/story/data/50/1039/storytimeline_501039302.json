@@ -1,0 +1,277 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've come to the shopping district with Kawakami Princess."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Urgh… a raffle…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Which reminds me, I'm sure we got a raffle ticket while shopping earlier."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ngh… Ohh… My old memories are coming back!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I remember trying really hard to get the first-prize Princess Fighter phone, but all I ended up with was a mountain of tissue packets!",
+            "choice_data_list": [
+                "Let's help you forget that bad memory by getting a better result this time around!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Urk… But the more you desire something, the more you're likely to draw a dud…",
+            "choice_data_list": [
+                "It'll be fine. Besides, there's no Princess Fighter phone this time."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…That's a good point."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "All right. Today's the day I'm going to win something other than tissues! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Kawakami Princess and I turn the lever on the raffle tumbler."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I did it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Did you see that, Trainer?! I won the grand prize!",
+            "choice_data_list": [
+                "Way to go!",
+                "Way to go!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess leaps around happily. Now if I let her have the prize all to herself, she'll have her perfect happy memo—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "This is great! Now we can go on a hot spring vacation together!",
+            "choice_data_list": [
+                "Together?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…? You don't want to?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "We won this prize through the power of our bond, Trainer! It's only right that we should both enjoy it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hot springs! ♪ Hot springs! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I leave Kawakami Princess to her dance of joy and look at our schedule. If we're going together, I'll need to find a time when we both have the day off.",
+            "choice_data_list": [
+                "We won't be able to go for a while yet. Is that okay?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Not a problem! Hot springs! ♪ Hot springs! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess is overjoyed at the prospect of visiting the hot springs. She had been looking oddly strained recently, so it's nice to see her smiling again."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "First prize!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So it was all true… Victory truly does come to those who are free from desire!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Here's your prize—a deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Th-thank you very much."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…",
+            "choice_data_list": [
+                "…What's wrong?",
+                "…What's wrong?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I was thinking about trying to draw from the raffle one more time, but…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now that I've seen this scrumptious hamburger steak, I'm not sure I'll be able to suppress my desire a second time!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hwaaah… I'm starting to drool… T-Trainer, I don't suppose you mind if I…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hand over the prize to Kawakami Princess, who's become thoroughly spellbound by the tasty delicacy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh my, the second prize?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "L-look at all those carrots crammed into the box!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's a heck of a lot better than tissues! I'd say this counts as a victory, right?!",
+            "choice_data_list": [
+                "Think you'll feel different about raffles from here on?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes, definitely!"
+        },
+        {
+            "name": "Monologue",
+            "text": "An overjoyed Kawakami Princess and I share the bountiful supply of carrots between ourselves."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Thaaat's… good enough! I'll take anything as long as it's not another pack of tissues.",
+            "choice_data_list": [
+                "Great job, Princess!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eheh, just leave this kind of thing to me. I'm growing each and every day!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Little by little, of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having avoided the dreaded tissues, Kawakami Princess seems in slightly higher spirits."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Waaahhh! I knew it!",
+            "choice_data_list": [
+                "…Sorry about this.",
+                "…Sorry about this."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No, it's not your fault, Trainer!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's all because of my greedy princess right hand! Curse this right hand of mine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to cheer up a thoroughly downcast Kawakami Princess."
+        }
+    ]
+}

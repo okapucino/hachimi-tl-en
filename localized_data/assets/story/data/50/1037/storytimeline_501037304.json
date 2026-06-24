@@ -1,0 +1,109 @@
+{
+    "title": "京成杯の後に・Die Hauptrolle",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash makes her mark at the Keisei Hai. After the race, we hold a quick press meeting."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Let me start by congratulating you on a race well run. Could you tell us how you feel about the race?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This was good preparation for my next race, and though there are still aspects I need to improve upon, I have no concerns about it."
+        },
+        {
+            "name": "Reporter A",
+            "text": "That's wonderful to hear. If I may ask, what exactly is the next race you have in mind?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The Satsuki Sho, of course. It will mark the beginning of my Classic Triple Crown quest."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Oooh! I thought that might be it. You'll be facing some stiff competition this year, though."
+        },
+        {
+            "name": "Reporter C",
+            "text": "You looked great out there today, and I wish you the best of luck, but…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm not the main focus… correct?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "I'm sure you're already aware, but there are a lot of big-name racers who have their eyes on the Triple Crown."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I am aware, yes."
+        },
+        {
+            "name": "Reporter A",
+            "text": "What would you say your odds of winning are right now? The path to victory is looking rather difficult this time around."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There are no odds."
+        },
+        {
+            "name": "Reporter A",
+            "text": "What?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I acknowledge the challenges that lie in my path, and I have prepared accordingly for them."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Therefore, odds are a non-factor. I must simply do what must be done…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And the results will follow. That is all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash doesn't so much as flinch as she makes her declaration. No other reporter dares ask her a similar question."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The press conference ended fifteen minutes earlier than scheduled…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Perhaps I should have adopted a warmer demeanor.",
+            "choice_data_list": [
+                "It was very cool how resolute you were.",
+                "It was very cool how resolute you were."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I'm glad you thought so."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This press conference made something very clear. Though I have garnered a certain level of respect, the general consensus is that I am not good enough to compete for the Triple Crown.",
+            "choice_data_list": [
+                "You'll just have to prove them wrong at the Satsuki Sho."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, I feel the same. It won't be long until then."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Not only will it be on the same track as today, it's even the same length. I have already committed the run to memory."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This will be no problem. Let's proceed as planned."
+        }
+    ]
+}

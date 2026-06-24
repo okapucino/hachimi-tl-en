@@ -1,0 +1,85 @@
+{
+    "title": "サイレンススズカ、覚醒①",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On one of my days off…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though we don't have training scheduled, Taiki Shuttle drops by my office.",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yessiree! Actually, my good pals Suzuka and Fukukitaru are competing today!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I came to see if ya wanna watch the race with me on TV and cheer 'em on!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Got any carrot juice on hand? We can use it to celebrate if either of 'em win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki and I sit down to watch the race together…"
+        },
+        {
+            "name": "Caster",
+            "text": "Silence Suzuka has stolen the lead with her runaway style—the gap continues to widen as she speeds down the final stretch!"
+        },
+        {
+            "name": "Caster",
+            "text": "This race has become hers alone! She crosses the finish line, the competition ten lengths behind!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa, that was fantastic! Way to go, Suzuka!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't believe she won a graded race by such a huge margin…",
+            "choice_data_list": [
+                "That race was something else…",
+                "That race was something else…"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Suzuka's been doin' amazing ever since she came back from Hong Kong! That's her fourth win in a row!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "As her friend, I couldn't be happier! I'm gonna give her a big hug once she gets back to the academy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suzuka has taken on numerous challenges in search of her own unique running style."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like she's finally found her answer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, Trainer! Whatcha daydreamin' about?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Suzuka won! This calls for a party!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After such a memorable race, one thing is for sure—we can't afford to take our eyes off of Silence Suzuka."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "title": "試験：フラッシュプラン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Eishin Flash comes up to me after our training session."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is something I'd like to talk to you about.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You have been rather unfocused for the past five days. Is it possible you're feeling fatigued?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, I have been putting in a lot of overtime lately.",
+            "choice_data_list": [
+                "You hit the nail on the head."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I see. If I may make a suggestion…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Why don't I create the plan for our next training session?",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That way, you could use the time normally occupied by schedule planning to rest instead."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've been thinking about revising my solo training lessons anyway."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I believe this would be a win-win arrangement. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I really appreciate her offer, but still, making training plans is my job as a trainer. Hm… What should I say?",
+            "choice_data_list": [
+                "You know what? Go for it!",
+                "I'll have to decline."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Very well then."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I shall bring a detailed training plan to your office at 8:00 a.m. tomorrow morning."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Good morning, Trainer."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This booklet contains today's training plan."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking my current abilities into account, I concluded that focusing on speed training would lead to optimal results."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I included a detailed timetable as well. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are a few details I would change, but it's clear she put a ton of effort into this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking my current abilities into account, I concluded that focusing on stamina training would lead to optimal results."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I included a detailed timetable as well. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are a few details I would change, but it's clear she put a ton of effort into this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking my current abilities into account, I concluded that focusing on power training would lead to optimal results."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I included a detailed timetable as well. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are a few details I would change, but it's clear she put a ton of effort into this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking my current abilities into account, I concluded that focusing on guts training would lead to optimal results."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I included a detailed timetable as well. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are a few details I would change, but it's clear she put a ton of effort into this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking my current abilities into account, I concluded that focusing on increasing my knowledge would lead to optimal results."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I included a detailed timetable as well. What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are a few details I would change, but it's clear she put a ton of effort into this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If you say so, then there must be nothing to worry about."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. We can carry on our training sessions as usual, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash never really brings up the idea of creating her own training sessions again after that."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "Morning, Trainer. ♪ Ahhh, I'm feeling real good today."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I slept so well last night I can hardly believe it.",
+            "choice_data_list": [
+                "Glad you got some nice rest."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah. I washed my cat plushie too, and now it's fluffy as a little cloud."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's soft belly was the perfect pillow to let me sleep like a baby."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Then I dreamed I was sleeping all snuggled up with a real cat.",
+            "choice_data_list": [
+                "So even in your dreams you're asleep…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's why I'm bursting with kitty power today. ♪"
+        }
+    ]
+}

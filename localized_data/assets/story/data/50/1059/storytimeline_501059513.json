@@ -1,0 +1,309 @@
+{
+    "title": "メジロの色",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Mejiro Dober is training in her signature racewear to get a feel for what it'll be like in a real race."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Could I take a break? I can't seem to run well…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes aren't on me as she says that. Instead…"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "That racewear… She must be a Mejiro. It looks like her game's off today."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Well, that was just her first lap. Let's see how things go."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems bothered by the presence of other trainers watching her run.",
+            "choice_data_list": [
+                "Want to call off training for today?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All I said is that I wanted to take a break!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We don't have to go that far… It's just, I…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh… I hate this!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm sorry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't want to stress her out more, but my suggestion ends up doing just that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't want to stress her out more, but my suggestion ends up doing just that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "At times like this, I wonder if her previous trainer would have been able to sympathize with her more…",
+            "choice_data_list": [
+                "(No, this isn't the time for that!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I chase after Mejiro Dober and search all over the academy before finally finding her."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…I told you I was fine.",
+            "choice_data_list": [
+                "Sorry. I was just worried…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What are you apologizing for?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…It's okay. You don't need to apologize."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The colors of this racewear are the traditional colors of the Mejiro family."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I settled on this design because I want to be able to run like the others too… like a Mejiro."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But… when I think of people seeing me run as a member of the Mejiro family…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I can't run with the same dominance and elegance that McQueen shows…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Nor can I meet people's expectations as confidently and cheerfully as Ryan…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They're leaps and bounds ahead of me, and so long as I'm wearing this, I'll always be compared to them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm worried that my running will bring shame to the Mejiro name…",
+            "choice_data_list": [
+                "I know how you feel.",
+                "I know how you feel."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "How could you? Don't just say whatever to try and console me!",
+            "choice_data_list": [
+                "I know what it's like to have big shoes to fill."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? What do you mean?",
+            "choice_data_list": [
+                "I know what it's like to have big shoes to fill."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I see… You're struggling with the same thing…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And yet, you aren't backing down from it…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Then I won't either."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…And how could I, after seeing how hard you work?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Nothing good will come from running away. Besides, it would be irritating if I lost to you.",
+            "choice_data_list": [
+                "That's the spirit!",
+                "That's the spirit!",
+                "There's no need to pressure yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Okay. I won't give up. We can do this, together.",
+            "choice_data_list": [
+                "That's the spirit!",
+                "That's the spirit!",
+                "There's no need to pressure yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Cut it out with that chipper attitude! Ugh!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You don't have to shout… I-it's embarrassing…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, Dober, it's you! I couldn't help but come over when I saw the Mejiro colors."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, Dober, it's you! I couldn't help but come over when I saw the Mejiro colors."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What kind of training are you doing today? Something tells me this is no ordinary session."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-oh, I'm trying to replicate what a real race will feel like."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, that would explain the racewear, and why something felt different about you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To don those colors is to shoulder the Mejiro name. May I have the pleasure of testing your readiness for such a responsibility?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…You mean you want to race me?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Only if you would allow it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Okay. I'll show you that I'm ready."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them have a spectacular run, and training goes well after that. The sight of them gets spectators cheering from the stands."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I have to try…",
+            "choice_data_list": [
+                "You can try anywhere."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I have to try…",
+            "choice_data_list": [
+                "You can try anywhere."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Anywhere?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's true… But where?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Lifting weights in racewear doesn't exactly feel like an action befitting the Mejiro name."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Lifting weights in racewear doesn't exactly feel like an action befitting the Mejiro name."
+        },
+        {
+            "name": "???",
+            "text": "Lifting in racewear? I love it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Ryan!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry for coming in out of nowhere. I was doing some bench presses when I heard your voice."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm serious about what I just said, by the way."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "No matter where you do it, just trying your best to get stronger is what the Mejiro name's all about!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um… Th-thank you."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hm? You're welcome! All right! Time for me to get back to it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thanks, Ryan. And…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose I'm grateful for you too…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you for always cheering me on, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober gets in a good workout while wearing her signature racewear."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober gets in a good workout while wearing her signature racewear."
+        }
+    ]
+}

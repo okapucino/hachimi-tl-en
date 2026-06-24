@@ -1,0 +1,348 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka and I are on the way home from an outing when we decide to stop by the shopping district."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Wow, it's so crowded."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, there's a raffle. No wonder."
+        },
+        {
+            "name": "Monologue",
+            "text": "Which reminds me, I'm pretty sure we got a ticket earlier when we were shopping.",
+            "choice_data_list": [
+                "We have a ticket, so why not give it a shot?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "They gave the ticket to you, so you should be the one to try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clang-clang! Clang-clang!</i>"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Well, would you look at that! We've got a lucky first-prize winner! You get to walk away with the deluxe carrot hamburger steak! Congratulations!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh… That bell sounds so familiar…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, it kind of takes me back.",
+            "choice_data_list": [
+                "Oh yeah?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yeah… Back in my hometown, there was this little race I ran in as a kid."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It was called the Kiddy Race. It was so small and informal, we didn't even have a proper finish line."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Instead, one of the adults would ring a handbell when one of us finished."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It sounded exactly like the one the clerk just rang.",
+            "choice_data_list": [
+                "Then let's get first place and hear the bell again!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Get first place? Don't you mean \"win the first-prize\"?",
+            "choice_data_list": [
+                "Nope! You have to get first place just like you did at the Kiddy Race!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Is that right?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Are you sure I can use your ticket, though?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you very much. I'll go get first place, then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She goes to the clerk, exchanges the ticket, and turns the handle on the raffle spinner."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the spinner's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Gasp!</i> I placed even higher than first?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Is that even possible in a race, Trainer?!",
+            "choice_data_list": [
+                "I guess it's like breaking a record?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Breaking a record…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, that's a fun way to think of it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What am I supposed to do with this coupon, though?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I've only ever gone on vacation with my family, so I don't know what to do…",
+            "choice_data_list": [
+                "You can go with a friend too. Why not invite someone?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, that's certainly an idea…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Then… who should I invite? Vacations are such special occasions, after all…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hmm…",
+            "choice_data_list": [
+                "You don't have to decide now.",
+                "You don't have to decide now."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That's true. In that case…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Do you think you could hold on to this coupon for me, please?",
+            "choice_data_list": [
+                "I can, but why?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "If I kept it, I'd constantly worry about who I should invite."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Once I've decided, I'll be sure to get it from you. Could you please keep it safe until then?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I do as she requests and take the coupon for safekeeping."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! I got first place! Hehe.",
+            "choice_data_list": [
+                "Congrats!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Even if it's just a raffle, I'm so glad I got first.",
+            "choice_data_list": [
+                "Well, it is a tasty-looking hamburger steak.",
+                "Well, it is a tasty-looking hamburger steak."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It certainly is."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But it's a bit much considering I've still got dinner at the dorm to think about… So would you like to split it with me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm more than happy to, so I agree to share the hamburger steak with her."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh… I was so close to winning first…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But wow, what an incredible amount of carrots."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What should I do with them all?",
+            "choice_data_list": [
+                "Why don't you share them with the others at the dorm?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! That's a good idea. I'll do that."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, Spe will be so excited when she sees them."
+        },
+        {
+            "name": "Monologue",
+            "text": "I help Silence Suzuka carry her carrots back to the dorm."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh… Third place…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sorry, Trainer. I guess I didn't have enough luck to take first today…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Maybe I should have asked Fukukitaru for a good luck charm first.",
+            "choice_data_list": [
+                "A good luck charm?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Apparently, she has one that's meant to boost your luck for drawing fortune slips and such."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I can't say for sure how effective it is, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "We plop her third-prize carrot into a shopping bag, and head back to the academy as we watch the sun set beyond the horizon."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! It's the consolation prize for you—a pack of tissues."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh no! I didn't even place in the top three!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "This is terrible!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer, we need to start training right away!",
+            "choice_data_list": [
+                "It's okay! It's just a raffle!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, yeah! Y-you're right."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh…</i> Sorry, I got a bit caught up in the moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka looks quite crestfallen as we head home, gazing at the sun setting beyond the horizon."
+        }
+    ]
+}

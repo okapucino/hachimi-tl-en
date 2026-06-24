@@ -1,0 +1,274 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While watching Kawakami Princess's training footage in my room, I consider my options carefully."
+        },
+        {
+            "name": "Monologue",
+            "text": "How should I have her run in her debut race… or rather, in all her races from this point on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The footage comes from another scrimmage I entered her in recently."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hmm? Huh? Aghhh?!",
+            "choice_data_list": [
+                "(She's losing her form again…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In practice, she has no trouble coming out of the gate, and her form is impeccable."
+        },
+        {
+            "name": "Monologue",
+            "text": "But as soon as she's faced with an actual \"race,\" even if it's only a scrimmage, everything seems to fall apart."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her whole body suddenly seizes up like a machine that hasn't been oiled. She puts all her strength into each step, but it only makes her movements heavy. And I think I know the reason why…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "She's overexerting herself.",
+            "choice_data_list": [
+                "Tazuna?!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Wah?! I'm very sorry. I called out to you, and you said I could come in, so…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I must have been so absorbed in watching the footage that I replied to Tazuna without realizing it.",
+            "choice_data_list": [
+                "No, I should be the one apologizing."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It's okay. I can understand why you'd be concerned seeing Kawakami Princess in that state."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That kind of overexertion puts a lot of strain on the body. She could hurt herself like that.",
+            "choice_data_list": [
+                "…You're right."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And injuries aren't the only thing I'm worried about."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's still a bit tense, and ends up building up a lot of tension in her shoulders. If she keeps running with this stiff form…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's highly likely that tendency will become a habit."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you enter her into a big race as she is right now, it's only going to make her even more tense.",
+            "choice_data_list": [
+                "…I agree."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "For Kawakami Princess, just the notion of entering a big race might seem like realizing a long-awaited dream."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, it's far too early for her to set her sights on the big stage. I have to think about her future.",
+            "choice_data_list": [
+                "(What would be best for her?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The day has come for Kawakami Princess to make her debut.",
+            "color_text_info_list": [
+                "debut"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Let's gooo! I'm all warmed up and bursting with energy! I'm going to get out there and run rings around everyone!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I have to become super strong—just like Princess Fighter!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "At the very least, during my junior year, I want to run in the Hanshin Juvenile Fillies, and then blast down the G1 path!",
+            "choice_data_list": [
+                "(But those G1 races are the problem…)"
+            ],
+            "color_text_info_list": [
+                "junior year",
+                "Hanshin Juvenile Fillies",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "To Kawakami Princess, G1 races must represent everything she seeks—challenges where she can face the ultimate rivals and become like her ideal, Princess Fighter."
+        },
+        {
+            "name": "Monologue",
+            "text": "And many of those G1 races can only be entered during the junior and classic years.",
+            "choice_data_list": [
+                "(But still…)"
+            ],
+            "color_text_info_list": [
+                "classic"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now then, Trainer, it's time for a strategy meeting! I'll carry out any plan you come up with!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks at me, her eyes beaming with anticipation. But what I'm about to tell her will likely betray her hopes.",
+            "choice_data_list": [
+                "I want to discuss our plans for after your debut.",
+                "I want to discuss our plans for after your debut."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ohhh, I'm glad that you're so forward thinking, too, Trainer! Please continue!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her starry eyes pierce through my core. But since I'm the person who must help shoulder her dream…",
+            "choice_data_list": [
+                "I've been thinking about how to achieve our future goals together.",
+                "I've been thinking about how to achieve our future goals together."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Future… <i>Gulp.</i> Then you mean…"
+        },
+        {
+            "name": "Monologue",
+            "text": "If I want her to have a healthy career, I have to tell her this clearly.",
+            "choice_data_list": [
+                "I don't want to aim for the G1 races right now.",
+                "I don't want to aim for the G1 races right now."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You… you don't? Then, um, that means…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You don't think I have the potential to become a G1 Umamusume?",
+            "choice_data_list": [
+                "That's not what I mean!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…!",
+            "choice_data_list": [
+                "You're still developing as a runner.",
+                "You're still developing as a runner."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her about the problems she currently exhibits while running and explain that we should gain more experience before shooting for G1 titles."
+        },
+        {
+            "name": "Monologue",
+            "text": "I won't rule out entering G1 races entirely, but setting them as our objective would overburden her with the pressure to win."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "…I see. Yes, you're right."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I understand!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The Tiara is the princess's crown, obtainable only from the grandest of stages—the G1 races."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And I always envisioned myself competing fiercely in the Tiara tour, awakening my potential on the field of battle just like Princess Fighter."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But at the end of the day, I am my own person!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I may look up to Princess Fighter, but my true goal is to become my own ideal princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So if you think it's for my benefit, Trainer, then I'll happily start with any objective, no matter how small.",
+            "choice_data_list": [
+                "Are you sure you don't mind?",
+                "Are you sure you don't mind?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes. So keep a good eye on me from the stands."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Today, I'm taking my first step on the road to becoming a princess.",
+            "choice_data_list": [
+                "And I won't miss a moment of it!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(I'm actually so relieved, Trainer.)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(You're different from anyone I met when I was a child. I can just sense that you have what it takes to become the Legendary Trainer.)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(You truly believe from the bottom of your heart that I can be my ideal princess!)"
+        }
+    ]
+}

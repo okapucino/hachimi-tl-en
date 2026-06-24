@@ -1,0 +1,233 @@
+{
+    "title": "トレンドを追って",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for the spending time with me today. I feel refreshed."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Unfortunately, I have something planned after this, so I must take my leave."
+        },
+        {
+            "name": "???",
+            "text": "Hey, heeey!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's five minutes and ten seconds before our designated meeting time. It's unlike you to be early, Jordan.",
+            "choice_data_list": [
+                "Oh, so you had plans with Jordan!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes. Well, we planned to meet, anyway. As for our plans, however…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have yet to hear exactly what it is we're doing today, Jordan."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For reals? Meh, we're just gonna wing it."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Wing it?!</i> But we planned this outing nearly one month ago!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "All right, okay. Don't have a cow! How about we go to karaoke for starters?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What a noncommittal suggestion… Listen, systematically mapping out plans is an important part of—"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Boo to plans! Going on vibes won't kill you for just one day! Besides, spur-of-the-moment karaoke is like, part of Japanese culture."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh? Is it?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, of course! Everyone knows that. Anyway, let's go."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, you should come with us too! The more the merrier!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whew, I really sang my heart out. 'Kay, Flash, you're up."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh…</i>",
+            "choice_data_list": [
+                "Flash?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh?",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Sorry. I was contemplating the Japanese custom of \"going to karaoke for starters\"…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Are you serious? Lol! It's not that big a deal, is it?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Before coming here as an exchange student, I thoroughly studied recent trends in Japanese culture… At least, I thought I had."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It appears Japan is progressing at a pace beyond my expectations."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "How will I be able to keep up with a Japan that keeps evolving at such a mind-boggling speed?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…D-dang. You're, like… really down about this. Uh… What to do?",
+            "choice_data_list": [
+                "You can start learning now.",
+                "You can start learning now."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Y-yeah! Everyone learns about trends through exposure!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In summary, experience is the best teacher, and constant interaction with the latest elements of Japanese culture is paramount…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In that case, I must sing the top-ranking J-pop song. What is this? \"Ramp\"… \"Ramp Up Love\"!",
+            "choice_data_list": [
+                "I'll be your backup singer!",
+                "It's okay to stick with songs you know."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash starts singing the trendy J-pop song, but…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"I'm lost in love! ♪\" Ack, my rhythm is lagging 0.5 seconds behind the melody once again…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "\"My heart is full of you! ♪\" C'mon, Flash. Live it up!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Y-yeah! \"Together, we rise! ♪\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So? Whaddya think of your first \"unplanned karaoke\"?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well… I think I better understand why it is part of Japanese culture now."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Getting on more casual terms with music makes it easier to understand the culture it hails from.",
+            "choice_data_list": [
+                "You're a fast learner.",
+                "You're a fast learner."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Phew! I totally made that up on the spot, so I was, like, on edge the whole time."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You… did what?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Gah! That's not what I meant! Karaoke is all about the vibes, y'know?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's a part of the culture… Or maybe… it's, like, <i>my</i> culture…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan gets a thorough scolding from Eishin Flash after that."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "True that! Singing something you know and love is loads better than forcing yourself to sing something random!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Would a German children's song be acceptable, then? I am only really familiar with nursery rhymes, to be frank.",
+            "choice_data_list": [
+                "I'm not sure the machine has any…"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "German nursery rhymes are often sung in Japan, so I would assume so."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The frog-based \"Kaeru no Uta\" is the most famous example."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wait, that song's originally German? Like, no cap? Even I know that one."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ooh, why don't we sing as a duet in German and Japanese?",
+            "choice_data_list": [
+                "I'd like to hear that."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You would? In that case, let's do it."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So? Whaddya think of your first \"unplanned karaoke\"?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well, it made me realize that I must constantly try to stay abreast of new trends."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And if I had to summarize it in one word…",
+            "choice_data_list": [
+                "Yeah?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It would be \"fun.\""
+        }
+    ]
+}

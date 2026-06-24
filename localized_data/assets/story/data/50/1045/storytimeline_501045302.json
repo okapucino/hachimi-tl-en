@@ -1,0 +1,400 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Super Creek and I are returning from a shopping trip."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Wow, we must have lost track of time buying all these things. It's so late!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "…What's that?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck at our New Year's raffle! This year's grand-prize is a coupon for a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You two over there! Care to try your luck?",
+            "choice_data_list": [
+                "Looks like fun.",
+                "Looks like fun."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "We've already got a raffle ticket, so why don't we give it a shot?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "All right! Give it all you've got! ♪",
+            "choice_data_list": [
+                "Huh? Me?",
+                "Huh? Me?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's fun just just to watch, so go for it! Woo, woo! You can do it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Super Creek's passionate support, I give the raffle drum a turn."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my! Goodness gracious! The grand-prize?! That's incredible!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "This must be your reward for always being such a good trainer! ♪",
+            "choice_data_list": [
+                "It was your raffle ticket, so this belongs to you.",
+                "It was your raffle ticket, so this belongs to you."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "No, it's yours because you're the one who drew it."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Take a relaxing dip in the hot springs and wash all of your exhaustion away! ♪",
+            "choice_data_list": [
+                "But I want you to rest too, Creek.",
+                "But I want you to rest too, Creek."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "…You're always so kind."
+        },
+        {
+            "name": "Super Creek",
+            "text": "How about we go together then?",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Of course. The trip would be more fun that way! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But now's probably not the best time…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And it's a particularly important period for you, so…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I know! Why don't we go after we've fulfilled our Twinkle Series wish?",
+            "choice_data_list": [
+                "I like the sound of that. A trip to celebrate a job well done.",
+                "I like the sound of that. A trip to celebrate a job well done."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I'm looking forward to it. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I make a promise with Super Creek and hold on to the coupon for the hot spring trip."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness! ♪ Congratulations!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It says, \"The top-quality meat and carrots make for a mouthwatering melding of flavors.\"",
+            "choice_data_list": [
+                "That sounds really tasty.",
+                "That sounds really tasty."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! Oh, Trainer. Your face says you could eat the whole thing right now! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm sure the hamburger steak would be happy to see it bring you so much joy.",
+            "choice_data_list": [
+                "Huh? Aren't you going to eat it?",
+                "Huh? Aren't you going to eat it?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "You're the one who won first-prize, so it's yours!",
+            "choice_data_list": [
+                "Then let's share it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to Super Creek that I only won because she gave me the raffle ticket."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Really? Then I'll happily join you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now that we've got a kitchen to use, it's time to start cooking! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'll even whip up your favorite salad and soup to go with it.",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's settled! Let's enjoy it together. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Super Creek and I enjoy the ultimate tasting experience."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Gosh, look at how many carrots you got!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm so happy for you! ♪",
+            "choice_data_list": [
+                "Aren't these yours?",
+                "Aren't these yours?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "No, you won them, so they're yours!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, I only won the prize because she gave me the raffle ticket.",
+            "choice_data_list": [
+                "The raffle ticket was yours to begin with, so you should take them!",
+                "The raffle ticket was yours to begin with, so you should take them!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm, I suppose I shouldn't refuse if you really insist… Thank you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I've made up my mind, Trainer! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm going to use these carrots to cook for you every day!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'll make dishes that both carrot lovers and haters alike will enjoy. ♪",
+            "choice_data_list": [
+                "Every day?!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, don't worry! I've got plenty of recipes up my sleeve.",
+            "choice_data_list": [
+                "…But I'd like you to eat the carrots too.",
+                "…But I'd like you to eat the carrots too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that there are too many carrots for me to finish and that they wouldn't taste as good if I ate them alone anyway."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness, I can't believe I didn't realize that! Then I'll join you for each meal."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I'm looking forward to it, beginning tomorrow! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I reluctantly agree, and we head home."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aww, what an adorable carrot! It's got a nice sheen and looks really juicy! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at the prize as Super Creek gushes and notice that it does indeed seem like quality produce."
+        },
+        {
+            "name": "Monologue",
+            "text": "The label says, \"Organic carrot grown in northern soil.\"",
+            "choice_data_list": [
+                "Here, this prize is yours, Creek."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "What? Really?",
+            "choice_data_list": [
+                "Of course. You're the one who gave me the raffle ticket.",
+                "Of course. You're the one who gave me the raffle ticket."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Then I'll gladly accept it. Thank you! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I know! Since this is such a nice carrot, let's try planting it in the vegetable patch! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "We can share them with everyone at the academy if we harvest a ton of them!",
+            "choice_data_list": [
+                "Great idea!",
+                "Great idea!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, let's get planting tomorrow. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We plant the carrot, and sometime later, it sprouts. I gaze upon the new bud and feel a boost of energy!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear…",
+            "choice_data_list": [
+                "Sorry I couldn't deliver."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Not at all! As long as you enjoyed yourself, I'm happy! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her kindness makes me feel even more crushed."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to give her something, so I go to the exchange counter to claim the tissues, and hand them over to her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "For me? Really?",
+            "choice_data_list": [
+                "Of course. You're the one who gave me the raffle ticket.",
+                "Of course. You're the one who gave me the raffle ticket."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Then I'll gladly accept…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Um, Trainer? Don't let it get to you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Seeing your sad face makes me sad too!",
+            "choice_data_list": [
+                "Okay…",
+                "Okay…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek and I bond over our shared sorrow for a while."
+        }
+    ]
+}

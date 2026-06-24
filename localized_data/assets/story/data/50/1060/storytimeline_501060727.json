@@ -1,0 +1,38 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Holy moly! You won so many!",
+            "choice_data_list": [
+                "And they're all yours.",
+                "And they're all yours."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mine? No, no, you won them.",
+            "choice_data_list": [
+                "I won them for you.",
+                "I won them for you."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait, are you serious?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But you… This is embarrassing. People are watching!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Still… Thank you, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

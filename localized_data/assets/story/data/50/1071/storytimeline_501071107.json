@@ -1,0 +1,314 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "To create a turning point in history. That's the goal Mejiro Ardan and I have set for senior year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tallying up everything I have to do as her trainer to make that happen is no simple feat."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a mountain of work to do today alone. And while I don't want to get stranded up that mountain, I can't afford to idle about at its base either."
+        },
+        {
+            "name": "Monologue",
+            "text": "…Mejiro Ardan is working extremely hard, making the most of every single second as she strives to reach our lofty goal."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I have to match that level of commitment!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fully motivated, I take a seat at my desk!",
+            "choice_data_list": [
+                "Let's do this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hours fly by in a moment…"
+        },
+        {
+            "name": "Monologue",
+            "text": "And I come to a realization just as the sun is starting to set.",
+            "choice_data_list": [
+                "(Man, I'm sleepy!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps it's the fatigue from the past few days catching up with me, but I can barely keep my eyes open!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately… I don't have time… to rest…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Are you feeling all right? You seem to have nodded off in your chair…",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I glance out the window to find it's completely dark outside!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You've been hard at work all this time, yes? You have my appreciation.",
+            "choice_data_list": [
+                "I was asleep when you found me, though…",
+                "I was asleep when you found me, though…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. And what a precious sight it was to see."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Perhaps you'd consider turning in for today?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "While you have displayed an extraordinary degree of motivation recently, you also appear to be overexerting yourself…",
+            "choice_data_list": [
+                "I'm fine."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Compared to the effort Mejiro Ardan is putting in right now, there's no way the work I'm doing can be considered overexertion. I try to explain that to her but…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "No, you're working far too hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression is gentle, but the blunt truth in her words hits me like a truck."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…In the time we've known one another, I've never before seen you so tired that you've fallen asleep at your desk."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And for your nodding off to be so instantaneous that you didn't even realize it was happening… I simply cannot overlook this."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, you said that you would step in and stop me if <i>I</i> went too far. Do you not see a problem with <i>yourself</i> being in this state?",
+            "choice_data_list": [
+                "Y-you're totally right."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And with that…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Happy Valentine's Day, Trainer.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Judging by that reaction, I think it's safe to assume you were so focused on work that you forgot what day it is today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "These are for all you do on my behalf… Thank you so very much."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I made them myself, so you might notice some imperfections here and there, but I hope you'll enjoy them while you rest today.",
+            "choice_data_list": [
+                "…! Thank you, Ardan!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan's handmade chocolates are so beautiful they'd look at home on a department store shelf."
+        },
+        {
+            "name": "Monologue",
+            "text": "I place one in my mouth. The gentle, snowy texture dances across my tongue as subtly sweet tones spread through my mouth."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…What do you think of the taste?",
+            "choice_data_list": [
+                "It's so delicious… I feel so much warmth…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Goodness! It's truly an honor to hear that from you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A cup of tea might go nicely with those. I'll just prepare you some. Please enjoy the chocolates while I get it ready."
+        },
+        {
+            "name": "Monologue",
+            "text": "Bathed in the light of Mejiro Ardan's kindness, I swear on my heart that I'm going to stop pushing myself so hard—for her sake and mine…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trai… …ake… …ease."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Are you awake now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The ceiling of my office and Mejiro Ardan peering at me—these are the first things my bleary eyes register."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You were sleeping face-down on your desk. Presumptuous as it may have been, I moved you into this position so you wouldn't wake up with muscle cramps."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's when I come to the realization that my head is resting on Mejiro Ardan's lap.",
+            "choice_data_list": [
+                "S-sorry!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Springing straight up like that is dangerous. Besides, you still appear quite exhausted, so I think you'd better rest a little more.",
+            "choice_data_list": [
+                "But I still have work to do…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You've been hard at work all this time, yes? You have my appreciation."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Perhaps you'd consider turning in for today? You've clearly been overexerting yourself.",
+            "choice_data_list": [
+                "I'm fine."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Compared to the effort Mejiro Ardan is putting in right now, there's no way the work I'm doing can be considered overexertion. I try to explain that to her but—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "No, you're working far too hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression is gentle, but the blunt truth in her words hits me like a truck."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…In the time we've known one another, I've never before seen you so tired that you've fallen asleep at your desk."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And for your nodding off to be so instantaneous that you didn't even realize it was happening… I simply cannot overlook this."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, you said that you would step in and stop me if <i>I</i> went too far. Do you not see a problem with <i>yourself</i> being in this state?",
+            "choice_data_list": [
+                "Y-you're totally right."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And with that…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Happy Valentine's Day, Trainer.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Judging by that reaction, I think it's safe to assume you were so focused on work that you forgot what day it is today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "These are for all you do on my behalf… Thank you so very much."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I made them myself, so you might notice some imperfections here and there, but I hope you'll enjoy them while you rest today.",
+            "choice_data_list": [
+                "…! Thank you, Ardan!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan's handmade chocolates are so beautiful they'd look at home on a department store shelf."
+        },
+        {
+            "name": "Monologue",
+            "text": "I place one in my mouth. The gentle, snowy texture dances across my tongue as subtly sweet tones spread through my mouth."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…What do you think of the taste?",
+            "choice_data_list": [
+                "It's so delicious… I feel so much warmth…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Goodness! It's truly an honor to hear that from you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I imagine your exhaustion is enhancing the sugary taste."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As you've hardly had any time to unwind lately, perhaps you might like to relax a little more while you enjoy those chocolates."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "There's plenty of space on my lap… should you need somewhere to rest.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! I'll allow you to infer whether that was a serious offer or not, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Mejiro Ardan's proposal takes me by surprise, it's one that clearly conveys her kindness…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I swear on my heart that I'm going to stop pushing myself so hard—for her sake and mine…"
+        }
+    ]
+}

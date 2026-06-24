@@ -1,0 +1,244 @@
+{
+    "title": "ペア割常習犯",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One weekend, Gold Ship shows up out of nowhere and drags me to the movie theater."
+        },
+        {
+            "name": "Monologue",
+            "text": "We happen to run into Mejiro McQueen while we're there."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hiii-de-ho! To which movie shall we go? I'll give you 10,800 seconds to decide, so think fast!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I should hope deciding won't take us three hours… And would you please keep your voice down?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Excuse me, Trainer, but might you purchase some popcorn? The largest size they have, if you please."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That ought to keep Gold Ship preoccupied until the film is over.",
+            "choice_data_list": [
+                "You've done this before, huh?",
+                "You've done this before, huh?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You know it! We watch movies together all the time. Mac loves me so much, she just can't stay away! ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>I</i> can't stay away? You're the one who keeps sneaking up on me unannounced!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, just last time you appeared out of nowhere in the empty seat beside me! I nearly shrieked!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, McQueen, you can't do that! Every movie lover has to follow the golden rule:"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "No noise until the credits roll!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Argh, you are impossible!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Anyways, we'd better pick a flick!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We've got the heartwarming sports movie, <i>Shape Up, Ebisu High</i>! Or the pulse-pounding action romp, <i>JAM: The Last Cartridge</i>! What'll it be?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "An athlete's coming-of-age story or an adrenaline-laced thrill ride? H-how can we ever decide?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wanna see both, do you? But you can't have your cake and eat it too! Well, not unless you've mastered the shadow clone jutsu, like me."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Okay, your call, Trainer. What'll it be?",
+            "choice_data_list": [
+                "<i>Shape Up, Ebisu High</i>.",
+                "<i>JAM: The Last Cartridge</i>."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us have a blast watching <i>Shape Up, Ebisu High</i>."
+        },
+        {
+            "name": "Monologue",
+            "text": "The story of a ragtag sumo club's climb from the bottom of the barrel to the top of the league gets us all inspired."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, that was marvelous!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Especially when the main character beat that instructor… He started out a lazy glutton, but he grew so much… <i>Sniff…</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oho? Are those tears I spy, McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O-of course not! I'm not crying!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm a proud Umamusume of the Mejiro family! I would never be so improper as t—"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bah! Mejiro schmejiro. If you wanna let it out, let it out!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You felt it too, right? Didn't it pluck at your heartstrings every time the hero got back up?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Those moments that bring a tear to the eye… That's what it's all about! A life without that would be a snoozefest!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…You're right."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I admit it! That movie touched me to the core! I… I was deeply moved! <i>…Sniffle.</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's perfect! Very nice! Now, look right into the camera!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "How dare you! Turn that off right this instant!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bwahahaha! Gotta run! ☆"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What nerve!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I swear, I don't know why I put up with her…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us have a blast watching <i>JAM: The Last Cartridge.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The nonstop thrills have our palms sweating, and the over-the-top action keeps us on the edge of our seats from start to finish."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Pant… Gasp!</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I… can't… take it!",
+            "choice_data_list": [
+                "You okay, Golshi?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Erm… Gold Ship? Pardon me, but you seem to be breathing rather heavily."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That leap from the forty-eighth story! That midair throwing knife kick! That sick skateboard grind down the roller coaster!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "GAAAH! I'm so fired up! Action movies rock!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Shhh! Please! Keep your voice down!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "LET'S GOOOOO!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "G-Gold Ship?! Hey! Come back here!",
+            "choice_data_list": [
+                "Uh-oh!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no telling what an adrenaline-fueled Gold Ship might do! Mejiro McQueen and I race after her."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship! Oh, where in the world has she run off to?"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Eeek! Thief! That man stole my purse! Somebody stop him!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?! A thief?!"
+        },
+        {
+            "name": "Thief",
+            "text": "<i>Huff, huff…</i> Hey, you! Outta my way!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Never fear! Action hero Golshi is here, fresh off a training course that spanned twenty star systems!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "YOU SHALL NOT PASS! HI-YAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wha-Pow!</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can't believe it… You knocked him flat on his back. There really is no stopping you sometimes…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Phew! Now that blew the cobwebs away! Action movies are awesome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship grins from ear to ear as the onlookers applaud her skills."
+        }
+    ]
+}

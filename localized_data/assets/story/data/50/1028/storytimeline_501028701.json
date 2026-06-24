@@ -1,0 +1,34 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Creak!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Gooooood morning, Trainer!",
+            "choice_data_list": [
+                "Someone's full of energy today!",
+                "Someone's full of energy today!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I sure am! Yesterday, I invited everyone in the dorm to a party full of food and fun!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We all ate a whooole lot of yummy food and had a <i>great</i> time! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And now I feel super buono and energetic! I'm going to nail training today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sure sounds like Hishi Akebono had a blast during her time off!"
+        }
+    ]
+}

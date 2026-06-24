@@ -1,0 +1,89 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser gets injured during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Sorry for worrying you. It doesn't seem like that big a deal, though."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's head back to the track.",
+            "choice_data_list": [
+                "You're really planning to run again already?",
+                "You're really planning to run again already?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's fine! I mean, sure, my nose might bleed, I could break into a fever, or even hives… But I just know I've got more energy than anyone!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Plus, I can't just sit around resting while everyone else is out there working!",
+            "choice_data_list": [
+                "Right now, what you need to do is rest.",
+                "All right, so long as we keep it reasonable."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sigh…</i> I had a feeling you'd say that…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But it's times like these that I have to work hard, or I'll just stay ordinary forever…",
+            "choice_data_list": [
+                "If you're not healthy, you can't be a star, let alone ordinary."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ngh… You're not wrong…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right, I'll get plenty of rest today so that my injury heals faster."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser sounds slightly disappointed, but she returns to her dorm."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay! I'll be nice and careful while I run!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oooof! Yowwwch!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ugh… The injury from earlier is hurting again… I guess I got a little ahead of myself…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm really sorry, Trainer, but I guess I'm going to have to pack it up for the day…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser sounds regretful, but returns to her dorm."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew… I think I can do this as long as I don't go all out!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right, let's go! I'll keep things reasonable, just like you said! Mun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser stays mindful of her injury and trains comfortably within her limits."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Back in Shape!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho and I are doing some typical training, when…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Phew! Let's take a little break! I want some ice cream!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho seems strangely lethargic. I wonder if she's been snacking too much.",
+            "choice_data_list": [
+                "If you eat sugar every break, you're going to gain weight.",
+                "If you eat sugar every break, you're going to gain weight."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uh… <i>What</i> did you just say?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm not gonna gain weight, you dummy! I'm a witch! You're so dumb! Not to mention rude!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just to make sure, we go to the infirmary for a weigh-in.",
+            "choice_data_list": [
+                "How did it go?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "N-nothing's changed at all! I haven't gained an ounce! I'm in perfect shape today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe it was just my imagination. I go to give her some vanilla ice cream, but…"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "G-get that away from me! I mean, uh, I feel like chocolate mint today! I won't eat any other flavor!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Let's just get back to training!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho seems strangely motivated when we get back to training."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! Check it out, Familiar! Right on the dot!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I've always had complete control of my weight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At any rate, I'm relieved to hear that she's back at peak racing weight."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "夏合宿（3年目）スタート！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "This is the start of Seiun Sky's second summer camp."
+        },
+        {
+            "text": "Having arrived early to help out the academy staff, I head over to meet her at the bus stop."
+        },
+        {
+            "name": "King Halo",
+            "text": "For goodness' sake, Sky! Wake up this instant!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "King… Just carry me to the campsite, pleeease."
+        },
+        {
+            "name": "King Halo",
+            "text": "Absolutely not! Now stand up straight!",
+            "choice_data_list": [
+                "Thanks for bringing her here."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, it's nothing. More importantly, is she all right?"
+        },
+        {
+            "name": "King Halo",
+            "text": "She was like this all the way here. There isn't a speck of motivation to be found in her."
+        },
+        {
+            "text": "It's true that Sky can be sluggish, but working hard while pretending she has no drive is her whole deal.",
+            "choice_data_list": [
+                "When it comes to training, she tries very hard."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Well, I'm pleased to hear that, but—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Kiiing, gimme a piggyback riiiiide."
+        },
+        {
+            "name": "King Halo",
+            "text": "I told you, no!"
+        },
+        {
+            "text": "With a vague sense of unease, summer camp begins…"
+        }
+    ]
+}

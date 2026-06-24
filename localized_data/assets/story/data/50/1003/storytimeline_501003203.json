@@ -1,0 +1,40 @@
+{
+    "title": "日本ダービーにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's the day of the second Classic race—the Derby!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew… Something about the Derby feels way different from other races."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I can't tell if the air feels super thin and tense or super heavy and foreboding…",
+            "choice_data_list": [
+                "Just try to relax."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "O-oh, c'mon! It's not like I'm nervous or anything! Well, maybe just a little!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I did tons of partner running to prepare and everything. There's no way I'm gonna lose!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If I wanna surpass Prez, I can't let my momentum die here!",
+            "choice_data_list": [
+                "Show them how hard you've trained!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, for sure! I can already taste my victory!"
+        }
+    ]
+}

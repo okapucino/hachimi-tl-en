@@ -1,0 +1,42 @@
+{
+    "title": "夏合宿（2年目）終了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Is summer camp over already? We've gotta say goodbye to this home away from home?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniff…</i> Waaaahaaah!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'll miss you, summer caaaamp! <i>Sob…</i> Are you sure we can't stay one more day?",
+            "choice_data_list": [
+                "The Kikuka Sho is waiting!",
+                "The Kikuka Sho is waiting!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh! Yeah, you're right!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin and Hayahide will be there too! I gotta make it the best race <i>ever!</i>",
+            "color_text_info_list": [
+                "Taishin",
+                "Hayahide"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Woohoo! It's full speed back to home!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Winning Ticket's event-filled summer camp comes to an end."
+        }
+    ]
+}

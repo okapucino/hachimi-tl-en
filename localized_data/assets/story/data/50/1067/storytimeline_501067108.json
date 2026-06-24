@@ -1,0 +1,345 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the day of the Spring Fan Fest, an event where students interact with crowds of their fans all throughout campus."
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond is actively engaging with a group of female fans huddled around her."
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "I really love the way you run, Diamond!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "The way you sprint, with your gaze set dead ahead, is just so elegant and cool!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, thank you for saying that! And thank you for all of your support!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "You're so welcome! I wanted to see you in person, so I went to watch a race for the first time with my friend here!"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "I fell in love with you after seeing you run at the Kikuka Sho! You were so cute during the winning concert!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You attended a race in person for the first time just to see me? Thank you so much!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "I'm sorry for being so forward, but it's… so emotional getting to talk to you face-to-face!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe! I'm overjoyed that you came to speak to me too. ♪"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "By the way, which events will you be participating in today?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll be in the No-Holds-Barred Matching Game! It's like a regular matching game except we'll be using giant cards on the track. ♪"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "What makes it \"no-holds-barred\"?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's called that because we'll be collecting the cards while racing around. The order of play isn't determined, so the winner is whoever is fastest."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Also, players can use challenge cards to face off against each other for a chance at stealing their opponent's cards. ♪"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "S-sounds intense…"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "I'm sure you'll win, though! We'll be rooting for you!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehehe! I'll have to go all out since you'll be cheering me on! ♪"
+        },
+        {
+            "name": "Dia Fans",
+            "text": "S-so cuuute!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer! Don't you know it's rude to spy on people like that?",
+            "choice_data_list": [
+                "I didn't want to ruin the mood."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that she looked so happy talking with her fans that I didn't want to interrupt their chat."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I didn't mean to get so carried away… Oh, how embarrassing…"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "May I have your attention, please? Will the contestants of the No-Holds-Barred Matching Game please make their way to the waiting area?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, that's me. I'd better get going!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Welcome to the game of memory, wits, and stamina—the No-Holds-Barred Matching Game! Our six contestants are now making their entrance!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Intuition, gut feeling, and passion! The winner will be me, El!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Freshwater crabs, hairy crabs, snow crabs! Time to get this crab party started!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh… Looks like we got an interesting lineup."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Oh, come on… I didn't sign up for a kids' pageant."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…That's right. We're supposed to match cards with the same patterns…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uh… Who are you talking to, Cafe?"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Our contestants have reached their respective starting positions! Now, let the No-Holds-Barred Matching Game… BEGIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>BANG!</i>"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "For this game, our contestants have to race around the track while flipping over cards. Picking identical cards will net the players points!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nooooo! It's differeeent!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Since all the contestants are turning over cards simultaneously, this game demands greater concentration than the regular version!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! I got a match! ♪"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Satono Diamond is racking up points slowly but surely!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "What's this?! Manhattan Cafe is swiftly matching up cards one after another, putting her in the lead!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The matching card is… over there on the right? Got it… Thank you…"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "She hasn't made a mismatch even once! Could talking to yourself about the cards before flipping them be the key to avoiding mistakes?!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "We have five minutes left on the clock! Oh? Nakayama Festa is making a move! Is she going to use the card she picked up earlier?!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Sorry, sweetheart. Time to use the ace up my sleeve."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Gasp!</i> A challenge card!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "What's this?! Nakayama Festa has played a challenge card against Satono Diamond!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "A challenge card allows players to decide how many points they want to wager in a challenge, and the winner gets all those points!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Wait! I'm playing my challenge card too!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "And here comes Sirius Symboli with another challenge card! It's become a three-way battle!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So, how many points shall we wager?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "How about 500 points? That would allow me to catch up with Cafe."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Heh, what a levelheaded response. It would've been way more fun if you'd gotten caught up in the moment and gone all in!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Let's get this started, then. Come on!"
+        },
+        {
+            "name": "The Three",
+            "text": "Rock, paper, scissors, shoot!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! I won!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Heh, you didn't even flinch. All right, then. Go ahead and take my points!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Satono Diamond now has a thousand points! That puts her even with Manhattan Cafe! But wait, what's this?!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I win."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nooooo! So much for my plan to yoink all the points from the top contender!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "The battle between Manhattan Cafe and Gold Ship ends in a win for Manhattan Cafe! Gold Ship has lost all of her hard-earned points!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Time's up! And the winner of the No-Holds-Barred Matching Game is… Manhattan Cafe!"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "Awww! You were so close, Diamond!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "I really enjoyed seeing all your different expressions during the game, though!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, I'm glad you had fun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The opportunity to interact with her fans up close made the Fan Fest a great event for Satono Diamond!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I wager all my points!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Haha! Going all in, huh? Now we're talking! I call!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "No complaints from me either! Let's do this!"
+        },
+        {
+            "name": "The Three",
+            "text": "Rock, paper, scissors, shoot!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! I won!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I can't believe you beat me at a mind game… You sure are somethin'."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Go ahead and take the points."
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Satono Diamond successfully acquires both Nakayama Festa's and Sirius Symboli's points, knocking Manhattan Cafe off the top spot!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Mwahaha! I've been waiting for this moment! The master fisher STRIKES! I challenge YOU, Satono!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All right, chum! Get ready to dance!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Rock, paper, scissors, shoot!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehehe! Looks like it's my win! ♪"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Incredible! Satono Diamond saw right through Gold Ship's strategy! The conniving Gold Ship suffers a crushing blow!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Time's up! The winner of the No-Holds-Barred Matching Game is… Satono Diamond!"
+        },
+        {
+            "name": "Dia Fan B",
+            "text": "Congratulations, Diamond!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "I had no idea you had such a daring side to you!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. ♪ Everyone was watching, so I had to do my very best!"
+        },
+        {
+            "name": "Dia Fan A",
+            "text": "Y-you're just too <i>cool!</i> Consider me a forever fan!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you! I really appreciate it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The opportunity to interact with her fans up close made the Fan Fest a great event for Satono Diamond!"
+        }
+    ]
+}

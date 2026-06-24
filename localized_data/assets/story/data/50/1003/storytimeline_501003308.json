@@ -1,0 +1,71 @@
+{
+    "title": "日本ダービーの後に・下は見ない！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Trainer! How was that?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Did you see me cross the finish line?! Were you amazed?!",
+            "choice_data_list": [
+                "You were incredible!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe! That's what I like to hear!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But I really wanted to do the Double Crown peace sign in the winner's circle…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio's disappointment at not being able to make it to Symboli Rudolf's level shows through."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Ugh, I need to pull myself together!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sure, I feel super angry I can't become a Triple Crown champion…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But staying down in the dumps isn't gonna help me beat Prez! I have to keep walking forward to reach her!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I gotta move right on and focus on the next race! It's the last of the Classics…",
+            "choice_data_list": [
+                "The Kikuka Sho! You better give it your all!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah! I'll get straight back to training tomorrow!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ngh?! Ow, ow, ow…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, hehe… Seems like I'm a bit tired. My foot's cramping.",
+            "choice_data_list": [
+                "You need to rest first."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Yeah, guess you're right."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our push for the last Crown race, the Kikuka Sho, starts now!"
+        }
+    ]
+}

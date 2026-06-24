@@ -1,0 +1,357 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I join Fine Motion on a trip to \"observe\" the shopping district."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, everyone sounds so lively! Do you think there's a festival?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! A raffle!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And anyone can participate! Can I try, Trainer?!",
+            "choice_data_list": [
+                "Sure. Take this."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pass Fine Motion the raffle ticket we received when we bought some croquettes a short time ago."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thanks! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Excuse me, sir. May I participate in your raffle?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ah… Of course! P-please go right ahead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion gives the raffle machine's lever a vigorous spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "A hot spring vacation?! I'm so happy! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Japanese hot springs are great, right?!",
+            "choice_data_list": [
+                "Do you like hot springs?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes! Sometimes I go to public baths with my friends!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We have bathtubs in the castle, of course, but I didn't know the <i>true</i> value of a relaxing soak until I came to Japan."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The best part is definitely the chance to speak with many people from the dorms or around town."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I have no doubt that going to this hot spring will be a splendid experience. When should we—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…I think it's actually best if I give this to you.",
+            "choice_data_list": [
+                "Why's that?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This coupon is only valid for a limited time, right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I may not be able to go. I'd rather you use it than let it go to waste.",
+            "choice_data_list": [
+                "…I see."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Good. Now, make sure you enjoy it. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, hm. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion seems to have fully given up on the idea of going on a hot spring vacation. However…",
+            "choice_data_list": [
+                "Let's play the raffle again sometime."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm?",
+            "choice_data_list": [
+                "Next time, I'll win the grand prize and give it to you.",
+                "Next time, I'll win the grand prize and give it to you."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Okay, thank you."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If that day comes, I'll make sure you take me with you."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no guarantee either of us can keep this promise. However, I believe the day will surely come."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm sure it must be delicious if they deemed it worthy of the \"deluxe\" label."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's hurry and eat it, Trainer! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Mmm! Delicious!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This hamburger steak is so scrumptious!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's incredibly juicy even though we only barely reheated it! I'm sure it must have been made using a legendary culinary technique."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer, could you summon the chef that made this hamburger steak?",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I have so many things I'd like to discuss with them. My own chef could learn a lot, as well, so if it's no trouble, I'd like to have a conference call."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, yes, let's set up a place to dine together. Captain?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Things are escalating rather quickly, but Fine Motion appears quite pleased."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Amazing! There must be a whole field's worth of carrots in here!",
+            "choice_data_list": [
+                "I don't think we could finish them all in one go.",
+                "I don't think we could finish them all in one go."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm, you're right… but we need to be sure to eat them while they're still at their tastiest."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh! Why don't we hold a potluck with everyone?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later…"
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "Fine! The carrot cake's ready!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you! …Mmm, it smells great! ♪"
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "My carrot salad is done too. Cooking really is just so fun!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I know, right? ♪ I tried out something new as well!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I call it… carrot ramen! It's piping hot, straight out of the kitchen. ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wonderous! What a shiny carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Um, I'm really sorry… I can only give you one."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh? Why are you apologizing? The quality is what's most important."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This carrot was grown with the utmost care—it's like a single precious jewel. Isn't that right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I accept it graciously. ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "She's so dignified!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, would this count as a cheeky snack?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Here, you can have half, Trainer. ♪ Hehe, let's see who can finish faster!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Sigh…</i> Bad luck!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "However, this was still a new experience for me! ♪ I'll use each one gladly."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're up next, Trainer.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Then everyone in my security team… Oh, should I invite my friends too?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Since we're here, I really want to see someone win!",
+            "choice_data_list": [
+                "Let's just call it here!",
+                "Let's just call it here!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, really? Oh well…"
+        }
+    ]
+}

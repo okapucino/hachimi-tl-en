@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking down the hallway, I spot Kawakami Princess overcome with grief."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ughh! My princess face! How?! This shouldn't be possible!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Listen to this, Trainer! Yesterday, I wanted to do some skin care, so I tried using a cucumber mask…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And a mud mask, and a tea mask, and a honey mask all at once! But my skin! It's gone all rough!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Shouldn't <i>all</i> aspects of a princess be strong and noble? How could my face fall into such a disgraceful state?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It turns out that Kawakami Princess is feeling down because of her skin problems."
+        }
+    ]
+}

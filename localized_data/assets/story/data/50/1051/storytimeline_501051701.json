@@ -1,0 +1,25 @@
+{
+    "title": "Well-Rested!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Hm, hm. ♪",
+            "choice_data_list": [
+                "What's got you in such a good mood?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The flowers I've been growing bloomed recently. They're really pretty."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. ♪ I'll show them to you sometime!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something nice happened on Nishino Flower's day off, and she's feeling great as a result!"
+        }
+    ]
+}

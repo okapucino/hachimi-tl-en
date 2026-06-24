@@ -1,0 +1,65 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket hasn't shown up for training."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's strange, because she always fully applies herself to practice. Wondering if something happened, I hurry out to look for her."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yaaay, I did it! I <i>finally</i> got it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Ticket coming out of a sports supply store near the station."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hehe, the clerk was so kind. ♪ We ended up having a whole conversation!",
+            "choice_data_list": [
+                "You seem to be in a good mood!",
+                "You seem to be in a good mood!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, Trainer! Well, yeah! I'm feeling great!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You'll never guess why! You know my favorite cycling gear brand, Two-Five Double?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Well, I managed to get my hands on one of their mega-premium items! ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I've never been able to get one before, but my cycling buddy told me about this sale!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "When I saw it in real life, it looked even better than I expected! Two-Five Double gear really is the greatest!",
+            "choice_data_list": [
+                "So… what about training?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? Training?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Gaaah! I totally forgot about it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I warn Winning Ticket to pay more attention next time."
+        }
+    ]
+}

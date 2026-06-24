@@ -1,0 +1,38 @@
+{
+    "title": "Slacking Off",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just when I think Matikanetannhauser isn't going to show up to training…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm so sorry I'm late!",
+            "choice_data_list": [
+                "Did something happen?",
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Well, on the way here, I ran smack bang into a wall and ended up getting a bloody nose…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "To make matters worse, it got all over my tracksuit, so I figured I should wash it straight away… but then I realized I was all out of laundry detergent."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Then,</i> while I was looking for detergent, I ended up walking into the door…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Every time something happened, I just wanted to yell, \"Really?! Now?!\" Anyway, I'm really sorry…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser seems remorseful about being late so I let her off with a gentle warning to be careful in the future."
+        }
+    ]
+}

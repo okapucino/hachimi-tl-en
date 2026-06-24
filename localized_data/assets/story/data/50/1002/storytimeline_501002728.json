@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "You did it!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you, Trainer."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm sure this will put a smile on Spe's face.",
+            "choice_data_list": [
+                "Happy to help.",
+                "Happy to help."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, I can't wait to show her."
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

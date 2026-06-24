@@ -1,0 +1,391 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out shopping with Sakura Chiyono O…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oho? What's happening over there?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, they're holding a raffle."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wait a sec! Trainer, didn't we get a raffle ticket earlier when we bought that cleat polish?",
+            "choice_data_list": [
+                "Do you want to give the raffle a try?",
+                "Do you want to give the raffle a try?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I do, but it'll be so disappointing if I get my hopes up and then don't win anything…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So I'm thinking… how about we do it together?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If we make it a joint effort, I feel like it'll be easier to accept the results even if they're bad, you know? Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "I accept Sakura Chiyono O's offer, and we turn the lever together."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?! Wh-what?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Omigosh, Trainer! We did it! We got th-th-the—",
+            "choice_data_list": [
+                "We got the grand prize!",
+                "We got the grand prize!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-yeah! The grand prize! We got the grand prize!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The grand prize, the grand prize!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O suddenly grabs my hands and starts jumping up and down in sheer excitement.",
+            "choice_data_list": [
+                "Congrats, Chiyono O!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Congrats to you too! Hehe! I can barely believe it! We got the best prize of them all!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hahaha! You two are just like a cute pair of siblings! I assume you'll be going on the trip together, then?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hahaha! You two are just like a cute pair of sisters! I assume you'll be going on the trip together, then?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? Wait, what?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "This ticket isn't for just one person? I can go too?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Of course! The shopping district isn't so stingy as to only offer a hot spring vacation coupon for <i>one!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow! That's so generous!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-in that case! Trainer, is it okay if I go with you too?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I thought the coupon was just for one person, so I was going to let you have it, but I'd love to go together if that's all right…",
+            "choice_data_list": [
+                "Sure! But are you sure you want to go with <i>me?</i>",
+                "Sure! But are you sure you want to go with <i>me?</i>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Absolutely! In fact, there's no one else I'd rather go with!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "When do you think we should go? We're still so busy right now, so…",
+            "choice_data_list": [
+                "Guess we'll have to wait until everything's settled down."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sounds good! Hehe. Once we pick a date to go, I'll make a full schedule for our trip!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I haven't been to a hot spring since I went with my family as a kid! I hope they have karaoke machines there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I recognize the inn on the coupon. Apparently, many Umamusume like to go there to refresh themselves in their rejuvenating hot spring."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once everything's calmed down, it'll make a nice, relaxing reward for all of Sakura Chiyono O's hard work."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whoa, it looks delicious! Thank you so much!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha! No need for thanks. Your luck got you that prize, not me."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I can tell you're a hard worker from a glance, and you know what they say—good things come to those who wait!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?! Ehehe…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Is that so? Th-thank you…",
+            "choice_data_list": [
+                "He's right. You're a very diligent worker."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Not you too, Trainer! Don't go flattering me out of nowhere!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I know I work hard, but I'm nothing special…",
+            "choice_data_list": [
+                "You don't think so? I think you are."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eep! Cut that out already…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "U-urgh…",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're special too, just so you know!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I bet that's why we got the first prize together! It wasn't just my luck. It was <i>our</i> luck!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The combined luck of a special person like you and a kinda-special someone like me is what won us the prize!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So, um! Yeah. Thanks for contributing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O presses her hands to her bright-red face and flees from the scene."
+        },
+        {
+            "name": "Monologue",
+            "text": "As an apology for embarrassing her, I let her have the raffle prize all to herself."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whoa! I can't even see the bottom of the box, it's so packed with carrots!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "We could eat nothing but carrots for two whole days with this!",
+            "choice_data_list": [
+                "<i>Just</i> two days?!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yep! Hehe. You can leave the cooking to me. I'm a master at making the carrot chanko hot pot my mom taught me!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll make sure you're fed noon, evening, and night for a whole day! You won't have to lift a finger.",
+            "choice_data_list": [
+                "Wait, separate meals for evening and night?!",
+                "Wait, separate meals for evening and night?!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh… Oops, you're right. I'd just get in your way if I stopped by so many times."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And it'd be rude of me to barge in on you in your room late at night…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay, change of plans! I have an idea!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, later that evening…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Traaainer! Would you mind opening the door?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Phew! Here's your delivery of my special chanko!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Your evening and night portions are both in there, so go ahead and dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She places the biggest pot I've ever seen in my life on my desk. A peek inside reveals a steaming hot pot brimming with carrots cut into beautiful little roses…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, I recognize this variety of carrot! Everyone was losing their minds over it a while ago. It's a Sweety-Sweet Carrot, right?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You've got quite an eye, miss!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe, yeah! They had an entire special about it on TV yesterday! Apparently, these carrots taste like pure sugar on your tongue!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… Hmm… Sweety-Sweet… I can't wait to taste it…",
+            "choice_data_list": [
+                "You can have it, Chiyono O."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Can I?! Really?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I mean… Urgh… Sorry for getting all worked up. Is there a hole anywhere I can crawl into?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O's cheeks redden by the second. Despite her reward consisting of only one carrot, she still graciously accepts it."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Aw, man. That was a total bust… I'm sorry, Trainer.",
+            "choice_data_list": [
+                "It's not your fault."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But still…",
+            "choice_data_list": [
+                "Since it was a joint effort, we can accept any result, right?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "…!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe… Oh, right. I did say that. I guess that means we can split the disappointment between us too."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sharing the burden of disappointment, Sakura Chiyono O and I quietly return to campus."
+        }
+    ]
+}

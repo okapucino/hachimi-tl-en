@@ -1,0 +1,66 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After training…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hm? Is that…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Huff, huff…</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…All right, just about the same as before. My lap times are becoming more consistent."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Looks like my theory was correct… Okay, one more lap!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Hey, I changed my mind. Let's do some extra training."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Give me something that'll exhaust me to my bones. Otherwise…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "The fire in my chest just won't go out!",
+            "choice_data_list": [
+                "Let's burn it out!",
+                "We can put it out tomorrow."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Heh, that's what I'm saying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I continue to add on extra training until Narita Brian is satisfied."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No. It has to be now, or there's no point."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her it's more efficient to train after a rest than to train while her body is already tired."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Efficient? You sound like my sister."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch, fine. But that means I want something extra challenging tomorrow."
+        }
+    ]
+}

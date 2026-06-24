@@ -1,0 +1,57 @@
+{
+    "title": "Extra Training",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just as Ines Fujin and I complete the day's training regimen…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "We did great out there! Feels like our training session went by in a flash."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh yeah, I've got a delivery job lined up after this. I think I might use it to get some solo training in.",
+            "choice_data_list": [
+                "Solo training?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah! I usually use my bike when I'm making deliveries, but this time I'll use my legs!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Being able to sweat it out on my shift makes delivering the perfect job for training!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin might be raring to go, but she could very well overexert herself if she delivers everything on foot…",
+            "choice_data_list": [
+                "Do your best!",
+                "You'll strain yourself, so ride your bike instead."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks! Okay, off I go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin makes her deliveries with all the vigor she can muster, building up her strength in the process."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Well, I guess if I end up exhausting myself, I won't be in any state to do my regular training…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Got it! If that's what you think's best, I'll go on my bike!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Earnestly heeding my request, Ines Fujin takes care not to overwork herself."
+        }
+    ]
+}

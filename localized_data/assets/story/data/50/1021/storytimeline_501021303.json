@@ -1,0 +1,186 @@
+{
+    "title": "デビュー戦の後に・意外な弱点",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross crosses the finish line of her debut without issue. After the race, however…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Urgh… The heck? My legs're shakin'…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, junior-level races shouldn't take this much outta me… Why do I feel so… woozy?",
+            "choice_data_list": [
+                "Tamamo Cross!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask her to rest a little before we reflect on today's events and formulate plans for the future."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I-it's not that big of a deal. Just a li'l tired, that's all.",
+            "choice_data_list": [
+                "Are you sure it wasn't because you didn't eat enough?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, I guess that <i>could</i> be the case…",
+            "choice_data_list": [
+                "Why would you starve yourself before a big race?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well… I didn't think this was worth bringin' up, but…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I don't have that much of an appetite. Been that way since I was a kid…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, squirts! You two're still starvin', right? Here, have my share."
+        },
+        {
+            "name": "Tamamo Cross's Little Brother",
+            "text": "Really? Are you sure?"
+        },
+        {
+            "name": "Tamamo Cross's Little Sister",
+            "text": "But… aren't you hungry too?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nah, I'm stuffed. The next door neighbor got me some beef udon earlier."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So eat up, will ya? If ya don't, ya won't grow up big 'n strong."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…I always made sure the li'l squirts ate first, so my stomach ended up shrinkin'."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Guess I just got used to it. Now I even feel like I focus better on a light stomach."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I'm not sure it's somethin' I can change overnight. Trust me, too much food spells trouble for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "…From the sounds of it, she's probably tried to increase her food intake in the past to no avail."
+        },
+        {
+            "name": "Monologue",
+            "text": "But if we don't work on these ingrained eating habits, there's no way we'll be able to build her up to be more athletic."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Don't worry 'bout it. I might not be a foodie, but my guts are straight outta Naniwa!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And the next place I wanna take these guts is a G1! How 'bout we try the Hopeful Stakes or somethin'? I gotta hurry up 'n show the folks back home how far I've come!",
+            "choice_data_list": [
+                "That's a fine aspiration, but I'm not sure we should make it our goal…"
+            ],
+            "color_text_info_list": [
+                "G1",
+                "Hopeful Stakes"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why da heck not?! I know I can pull it off! Geez, talk about a party pooper!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Trainer, now's the time to make a push. Don't overthink it. Just go with the flow!",
+            "choice_data_list": [
+                "Why don't we plan for the future and prioritize building up your body?",
+                "Why don't we plan for the future and prioritize building up your body?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I don't wanna do all that slow 'n steady crap! I'm good to go!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It doesn't matter how bulky the other runners are, I'll send 'em flyin' 'n make my family proud! I'm not the same racer I was before my debut!",
+            "choice_data_list": [
+                "In that case, how about we try a little test tomorrow?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A test, huh? Count me in!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Buonooooo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Aarrrgh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Boing!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross makes her grand sumo wrestling debut, but it's not long before she's knocked out of the ring by the towering yokozuna, Hishi Akebono.",
+            "color_text_info_list": [
+                "Hishi Akebono"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's all it took to send me flying?!",
+            "choice_data_list": [
+                "Now do you see why building muscle is important?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Tch, so the big leagues are full of jumbo runners like her? If that's the case, hoo boy…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right. I get it. We can stick to the low-level races for now while I bulk up. But how long's that gonna take?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's a good question. Even if we start bulking up right away, we won't see results overnight. We'll need to set a tentative end date…",
+            "choice_data_list": [
+                "We'll stick with this until next spring. That'll bring us right up to the Classic Triple Crown."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's ages away! C'mon, let's just go straight to the G1!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Buoooono! ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Fiiine! Next spring it is. That gives me till then to chow down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide to build up our racing experience slowly but surely between now and next spring."
+        }
+    ]
+}

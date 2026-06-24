@@ -1,0 +1,45 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Super Creek receives a letter from a young fan."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It says, \"When I grow up, I want to be an Umamusume just like you.\""
+        },
+        {
+            "name": "Super Creek",
+            "text": "You can see so many eraser smudges on the paper."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I bet she poured her heart and soul into writing this for me."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, how adorable. I wonder what I should write back in my thank you letter.",
+            "choice_data_list": [
+                "Maybe something like, \"Let's run together one day\"?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, what a lovely dream she has."
+        },
+        {
+            "name": "Super Creek",
+            "text": "There isn't much I can give to this child right now…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But I need to train my heart out so that we do end up running together one day! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "That day, Super Creek takes on her training session with a smile on her face and a spring in her step."
+        }
+    ]
+}

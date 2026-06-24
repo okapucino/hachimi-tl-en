@@ -1,0 +1,310 @@
+{
+    "title": "ふたりの進む、その先\"へ\"",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and I happen to overhear a conversation as we arrive at the training course."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey! Did you hear what Tama did?!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "You mean when she came from the back and whizzed past fifteen people all at once? Yeah, I heard!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Isn't that awesome? Especially when you consider how tiny she is!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Right? I used to think she was just cute, but she's actually pretty cool!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I feel like she looked more serious than usual though. It kinda freaked me out…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm going for a run."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap starts to run, despite barely having done her warm-ups. It seems like her head is somewhere else though, seeing as she dashes off in the wrong direction.",
+            "choice_data_list": [
+                "Oguri?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I call out to her, but she doesn't come back. Panicked, I set off in pursuit."
+        },
+        {
+            "name": "Monologue",
+            "text": "Flustered, I search all over for her. I eventually track her down, but it appears someone else has beaten me to it."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I see… So that's why things have soured between you and Tamtam."
+        },
+        {
+            "name": "Inari One",
+            "text": "You had me worried, just standin' there in front of that tree stump like that…"
+        },
+        {
+            "name": "Inari One",
+            "text": "You are <i>such</i> a dummy!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urgh… I just don't know what to do."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like she's asking Inari One and Super Creek for some advice, so I decide to stand back and watch from afar."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You and Tamtam are really good friends. I understand why you're confused."
+        },
+        {
+            "name": "Inari One",
+            "text": "But you guys can't carry on like this! If she's truly your friend, ya need to spill your guts and talk things through!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "S-spill my guts?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Just to be clear, that's just an expression! What I really mean is ya have to be open and honest about how you feel!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…I know that. I'm just not confident I'd be able to get my point across properly."
+        },
+        {
+            "name": "Super Creek",
+            "text": "And that's okay. You don't need to say anything special."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You just need to be upfront about how it made you feel being called her rival."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Be honest with Tamtam about your true feelings."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My true feelings? I think I remember Tama telling me something like that before."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…All right! I'm gonna go speak with her!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You've got this! She's by the river!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good luck, Oguri! ♪ I want you to be able to bring your A game the next time I run against you!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You got it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Oguri! The river's the other way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm going to have to chase after her again!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, time for some joggin'!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wait, Tama!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O-Oguri?! And…",
+            "choice_data_list": [
+                "<i>Wheeze… wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Geez, Your trainer's huffin' and puffin' like a hound dog."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since Oguri Cap has no sense of direction whatsoever, I ended up having to guide her the whole way here. Thankfully, though, we were able to track Tamamo Cross down."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Listen, Tama. I'm… I'm…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm glad you're my friend!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm glad that you were the first person who came and spoke to me in the beginning. And I'm <i>really</i> glad that we get to share a room!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And… I'm glad you called me your rival!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's just… I couldn't wrap my head around how I could be friends with someone <i>and</i> compete against them at the same time. And because of that, I hurt you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I'm okay now. I think I've figured it out. You're my friend, Tama."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>And</i> you're my rival!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Up till now, I never could've even imagined having someone as special as you in my life…"
+        },
+        {
+            "name": "Passerby A",
+            "text": "What's that commotion over there? Is someone… declaring their love?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "No way! In a place like this? Talk about brave!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, Oguri! I got ya. Chill out for a sec, will ya?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No, no more waiting! I want to tell you exactly how I feel!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Oh, it <i>is</i> a confession! First time I've seen one with my own eyes!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama! The truth is, I…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "WAIT! Seriously! Put a sock in it for a sec! Zip it!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…I get how ya feel. I mean, ya haven't really left me with much choice!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Really?! Does that mean you're not mad at me anymore?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Naw, I'm still mad. You still gotta prove to me that ya mean what you're sayin'!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya know why I stayed here instead of aimin' for the Dream Trophy and rakin' in the big bucks?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's 'cause I don't wanna move up until I prove to everyone that I'm the strongest in our generation!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I asked ya this before, didn't I? How are <i>you</i> gonna show everyone how great you are?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The heck? Cat got your tongue? Bein' a Goody Two-shoes isn't gonna get ya the credit that ya deserve!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…I'm gonna work my way up by winning. There's no other way to do it."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's right. There's only one thing I want from ya—a race!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The only way I'll know whether you're serious or not is when we go head-to-head."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Now, listen up. I'm runnin' in the Tenno Sho in both spring <i>and</i> autumn!",
+            "color_text_info_list": [
+                "Tenno Sho"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The Tenno Sho?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Held every spring and autumn, the Tenno Sho is a legendary race with a long history and is one of the most important G1 races out there."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's up to you to decide what ya wanna do. Talk it over with yer trainer.",
+            "choice_data_list": [
+                "<i>Wheeze… wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Still pantin', huh?! How long were ya runnin' for? Poor thing."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway, ya get my drift. I'll be waitin' for ya!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The Tenno Sho, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a quiet fire burning in Oguri Cap's eyes as she watches Tamamo Cross walk away."
+        }
+    ]
+}

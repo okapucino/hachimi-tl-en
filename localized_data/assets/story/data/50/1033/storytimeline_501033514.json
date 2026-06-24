@@ -1,0 +1,206 @@
+{
+    "title": "静かに通じて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I see Admire Vega and Silence Suzuka running together."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant… Pant…</i>",
+            "choice_data_list": [
+                "It's unusual to see you training with somebody.",
+                "It's unusual to see you training with somebody."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What do you mean?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Oh."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Actually, I'm not training with her…",
+            "choice_data_list": [
+                "Oh, you're not?",
+                "Oh, you're not?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Our schedules just happened to overlap."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Come to think of it, our training times often overlap, don't they?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah, I guess."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "We usually end at the same time as well."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "After which we naturally split our tasks and tidy up together…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The places where we train solo outside the academy are also the same."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, and we both usually increase our pace in sessions leading up to a race."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them seem to have a similar mindset when it comes to training…",
+            "choice_data_list": [
+                "Why don't you try training together?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes, well… I wouldn't mind that. But how about you, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If it helps us get faster, let's do it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Okay… so how should we go about it? Should we just run like usual?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "For starters, what <i>is</i> your usual anyway?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh right… Sorry. Um… What should I say?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the two begin their training. However…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(I should adjust my pace since we're running together.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Weird… this doesn't really feel motivating.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears they're having trouble synchronizing.",
+            "choice_data_list": [
+                "Let's call it a day."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Yeah."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All right."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day, I see Admire Vega and Silence Suzuka running together down the track again."
+        },
+        {
+            "name": "Monologue",
+            "text": "They both look remarkable, maintaining their distance, position, and speed while not interfering with each other."
+        },
+        {
+            "name": "Monologue",
+            "text": "They both continue forward, as if completely unaware of each other."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suppose that's what works better for them.",
+            "choice_data_list": [
+                "You two are incredible.",
+                "You two are incredible."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Really? I'm not so sure about that…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But… I do find it really easy to run with Ayabe."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Whatever the situation, I can just keep running in silence."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It feels… comfortable. Like, I can just be myself."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah. I get that too.",
+            "choice_data_list": [
+                "Maybe you two have been brought together by fate.",
+                "You two make great friends.",
+                "You two make great friends."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah. I get that too.",
+            "choice_data_list": [
+                "Maybe you two have been brought together by fate.",
+                "You two make great friends.",
+                "You two make great friends."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't be so dramatic."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Although, I'd be lying if I said I didn't feel anything.)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(I know I've felt something, even before now.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(But it's a bit late to mention it…)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hmm, we get along, but are we friends?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Stuff like that doesn't matter."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All that matters to me is being able to run comfortably."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah. Same here."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them may not be able to put a name to their relationship, but it's clear that they share a special bond."
+        }
+    ]
+}

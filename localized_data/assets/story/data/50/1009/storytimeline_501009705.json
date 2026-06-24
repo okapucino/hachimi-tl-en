@@ -1,0 +1,87 @@
+{
+    "title": "雨に降られて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet and I are heading back after a day out, when all of a sudden…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Rain?! You've got to be kidding me!",
+            "choice_data_list": [
+                "Run for it!",
+                "Run for it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We hurriedly duck under a nearby tree."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh, seriously?! I know it's been cloudy today, but the forecast said it was going to stay dry!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The academy is still a ways away… I wonder when this'll let up.",
+            "choice_data_list": [
+                "Should we try to sprint home?",
+                "Should we try to sprint home?",
+                "Let's just stay here until the rain stops."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Y-you're joking, right?! <i>I</i> might be fine, but you…",
+            "choice_data_list": [
+                "Last one there's a rotten egg!",
+                "Last one there's a rotten egg!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, for the love of… Don't come crying to me when you catch a cold!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You know, it's actually kind of magical, isn't it? Running together in the rain like this!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, this is really getting fun!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Look sharp back there! If you don't hurry up, I'll leave you behind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We run all the way back to the academy. Daiwa Scarlet seems pretty happy."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're right. I can't afford to catch a cold. I hope it lets up soon…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Still, it'd be boring to just wait here doing nothing."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I know! This is the perfect chance for you to tell me about yourself."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Luckily for you, I don't have anything else to do, so I might as well listen. Hehe, guess this rain was a blessing in disguise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Daiwa Scarlet all about myself while we shelter under the tree."
+        },
+        {
+            "name": "Monologue",
+            "text": "She listens with rapt attention until the rain subsides."
+        }
+    ]
+}

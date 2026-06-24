@@ -1,0 +1,50 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka hasn't come to today's training session. I decide to go search for her."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Groan…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The long and agitated groan I hear is coming from Silence Suzuka. I find her distressed, pacing around in counterclockwise circles."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Just <i>how</i> am I going to manage?",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Trainer."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I have an English test tomorrow. I've been warned about my poor grades recently…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "So, I was wondering if there was a way to study for the test while I run…",
+            "choice_data_list": [
+                "You know training's already started, right?",
+                "You know training's already started, right?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What? Really? Already?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks genuinely surprised. I tell her to prioritize her studies today."
+        }
+    ]
+}

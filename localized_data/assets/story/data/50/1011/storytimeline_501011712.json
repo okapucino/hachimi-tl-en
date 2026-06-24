@@ -1,0 +1,45 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time to train, but Grass Wonder is nowhere to be seen. I go looking for her."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah, Trainer. Have a look at this book."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's such a popular title, it rarely stays on the shelf at the library, but I finally managed to borrow a copy."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's a lovely piece of literature thoroughly explaining the roots of Japanese culture."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It even includes seasonal pictures of places which haven't lost their beauty even after a millennium. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Would you like to see them as well, Trainer? You're sure to find one to your liking.",
+            "choice_data_list": [
+                "What about training?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh! I-I'm so sorry. How could I be so careless?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It completely slipped my mind. I promise to be more attentive in the future."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems genuinely sorry, so I give her the day off."
+        }
+    ]
+}

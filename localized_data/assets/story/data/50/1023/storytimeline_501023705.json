@@ -1,0 +1,208 @@
+{
+    "title": "かくれんぼマイスター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "While on my way back home with Biwa Hayahide, we're stopped by someone calling out to us."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey! Hayahide!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Good timing! We were just looking for more players. Come play hide-and-seek with us!"
+        },
+        {
+            "name": "Children",
+            "text": "Yeah, yeah! Play with us!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I must decline. I didn't come here to play. We just happened to pass by on our way home."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Aw, come on! This is our last round, I promise!"
+        },
+        {
+            "name": "Children",
+            "text": "It'll be fun! Pleeease!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "The last kid who joined us hasn't had a chance to play at all yet. Just think of this as your good deed for the day!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's almost curfew… Oh, all right."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer, is it all right if we—",
+            "choice_data_list": [
+                "I'll be \"it.\"",
+                "I'll be \"it.\"",
+                "You're \"it\"!",
+                "You're \"it\"!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer, is it all right if we—",
+            "choice_data_list": [
+                "I'll be \"it.\"",
+                "I'll be \"it.\"",
+                "You're \"it\"!",
+                "You're \"it\"!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you, and sorry for dragging you into this."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "By the way, Teio, which child hasn't had a chance to play yet?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, that's—"
+        },
+        {
+            "name": "Girl A",
+            "text": "Me! I didn't play yet. Thank you for joining us!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, aren't you polite? Now then, I have a request for you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Would you like to hide with me? I have an idea I want to try."
+        },
+        {
+            "name": "Girl A",
+            "text": "An idea?"
+        },
+        {
+            "text": "And so, the game of hide-and-seek begins."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew… Hayahide and the other girl are the only ones left."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I can't believe they outlasted me."
+        },
+        {
+            "name": "Boy A",
+            "text": "I know, right? That girl usually stinks at hide-and-seek."
+        },
+        {
+            "name": "Girl B",
+            "text": "And she always asks to play with us when it's too late. We'll have to invite her right away for our games if she's actually <i>this</i> good!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm…"
+        },
+        {
+            "text": "Five minutes pass…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Found them!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Hehehe! You got us!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Heheh! We wouldn't have been able to stay hidden so long without you."
+        },
+        {
+            "name": "Girl A",
+            "text": "No! It's because of what you taught—oh! I gotta keep that a secret!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, you don't have to. It'll be more fun if you tell everyone so they can try it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Just be sure to join everyone before it gets dark, okay?"
+        },
+        {
+            "name": "Girl A",
+            "text": "Okay!"
+        },
+        {
+            "text": "Everyone goes home with big smiles on their faces."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm glad she grasped the trick so quickly."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now then, everyone!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Believe it or not, my sister and I were considered the best hide-and-seekers around back in the day."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And I'll be happy to show you why!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Haha! Let's do this! Let's hide, everyone!"
+        },
+        {
+            "text": "And so, the game of hide-and-seek begins."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "First place to check—under the slide!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Gah! You got me!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Next, the trees next to the bench!"
+        },
+        {
+            "name": "Girl B",
+            "text": "What? How'd you find me so quick?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And now to find Teio…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There you are, up in the tree behind my trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Aw, c'mon! There's no way you could've known I was here!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I merely factored in the size and number of kids and playground equipment to narrow down my choices. Well, did everybody have fun?"
+        },
+        {
+            "name": "Children",
+            "text": "Yeah!"
+        },
+        {
+            "text": "With a look of great satisfaction on her face, Biwa Hayahide heads back to the dorms with Tokai Teio."
+        }
+    ]
+}

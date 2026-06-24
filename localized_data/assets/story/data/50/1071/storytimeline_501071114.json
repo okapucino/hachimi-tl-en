@@ -1,0 +1,427 @@
+{
+    "title": "その陽光に翳すは",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days after Mejiro Ardan's debut race, I pay her a visit while she recuperates at her family's rest house."
+        },
+        {
+            "name": "Nanny",
+            "text": "Good morning, Trainer.",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "name": "Nanny",
+            "text": "I presume you're here to see Lady Ardan? Allow me to lead the way."
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow after Mejiro Ardan's nanny and, a short distance from the rest house, we reach a small woodland area where Mejiro Ardan is relaxing."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hello there, Trainer. How lovely that you've come to see me.",
+            "choice_data_list": [
+                "…How's your body feeling?",
+                "…How's your body feeling?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's absolutely fine. The chief physician said that I've regained my strength and am at least as healthy as I was before my debut.",
+            "choice_data_list": [
+                "That's a relief."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, would you care to take a nice, relaxing stroll with me?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I wish to speak with you in private."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan takes me to an elevated clearing on a small hill past the woods."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This moment, right now, is a critical juncture for you.",
+            "choice_data_list": [
+                "Do you mean—"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I can hazard a good guess at how your conversation with my physician went the other day."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The man is my family's most esteemed physician, and I've known him since I was little. As such, I trust him as much as I do Nanny."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And accordingly, anything he's said regarding my condition… is to be trusted."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That said…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Even if his concerns regarding my body are justified… and even if the path I tread is as treacherous as thin ice…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shan't ever give up.",
+            "choice_data_list": [
+                "Ardan…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But of course, this decision reflects only <i>my</i> wishes… and not yours, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I believe that by now, you must know all too well how unreliable and hazy an individual I can be. I even collapsed after my debut race."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, if you do choose to stay by my side…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You'll be managing a racer as fragile and delicate as a glass ornament."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Could you still adorn me on the track… knowing that you might end up breaking me?",
+            "choice_data_list": [
+                "I could."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…",
+            "choice_data_list": [
+                "But I will never break you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan looks at me like she's puzzling something over. I've already decided how I'm going to answer her question.",
+            "choice_data_list": [
+                "I'd like to show you something.",
+                "I'd like to show you something."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You've… something to show me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I take out my tablet and hand it to Mejiro Ardan."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Is this… a race agenda… and a training regimen? And not just one, but multiple variations?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Th-this can't be—",
+            "choice_data_list": [
+                "This is the extent of my resolve.",
+                "This is the extent of my resolve."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The tablet I showed Mejiro Ardan contains a slew of race agendas and training plans I've devised for her junior year and onwards.",
+            "color_text_info_list": [
+                "junior year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Those plans also incorporate every foreseeable scenario I could think of pertaining to Mejiro Ardan's health and well-being."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer… Does this mean… You understood what I was trying to say?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Of course I do. The way she's testing me with this talk of consequences… I know she's just pushing me away out of kindness."
+        },
+        {
+            "name": "Monologue",
+            "text": "The thing is, I don't want kindness. I want something else…",
+            "choice_data_list": [
+                "Ardan, I wish to remain as your trainer.",
+                "Ardan, I wish to remain as your trainer."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's because I want to remain as her trainer that I've thought about what I should do in that role, and what she might want from me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide that now's the time to put my answer into words. As Mejiro Ardan's trainer…",
+            "choice_data_list": [
+                "I won't let your light go out.",
+                "I won't let your light go out."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I'll make sure to protect her fragile body, so she'll be able to shine on in all her races, now and forever."
+        },
+        {
+            "name": "Monologue",
+            "text": "And to help her—this racer who lives in the moment, and only has eyes for the now…",
+            "choice_data_list": [
+                "I'll forge a path to your future.",
+                "I'll forge a path to your future."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It was after my debut race… The evening of the day I was transferred to the family rest house…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…That night, I had a dream."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In my dream, I heard the sound of glass cracking."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The sensation of everything spilling out from my fractured body was so cold, so vivid…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I couldn't put that dream behind me… And so today, I found myself questioning you, in a manner most uncouth."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I'm truly, terribly sorry for that.",
+            "choice_data_list": [
+                "If anything, I'm glad you <i>did</i> put those questions to me."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Oh?",
+            "choice_data_list": [
+                "Thanks to you, my resolve is stronger than ever.",
+                "Thanks to you, my resolve is stronger than ever."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "Please let me accompany you on your journey.",
+                "Please let me accompany you on your journey."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…How could I ever refuse?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I would love to have you beside me as we continue this journey…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, Mejiro Ardan and I go and speak with her physician."
+        },
+        {
+            "name": "Chief Physician",
+            "text": "I hereby acknowledge both of your intentions."
+        },
+        {
+            "name": "Chief Physician",
+            "text": "As Lady Ardan's chief physician, I hereby give her my formal permission to return to the academy.",
+            "choice_data_list": [
+                "Thank you very much!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you so much."
+        },
+        {
+            "name": "Chief Physician",
+            "text": "However, note that I may have to rescind this decision in the event that something were to happen to Lady Ardan again.",
+            "choice_data_list": [
+                "Duly noted."
+            ]
+        },
+        {
+            "name": "Chief Physician",
+            "text": "…This is little more than my personal opinion, but I fully support the decision you've both made."
+        },
+        {
+            "name": "Chief Physician",
+            "text": "Feel free to come to me with any concerns you might have. Now though, I shall be taking my leave."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer, it sounds like he believes in you as well.",
+            "choice_data_list": [
+                "I'll do everything I possibly can to meet his expectations.",
+                "I'll do everything I possibly can to meet his expectations."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. And so will I."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Mejiro Ardan's nanny drives the two of us from the rest house back to the academy."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for dropping us off, Nanny."
+        },
+        {
+            "name": "Nanny",
+            "text": "I've informed the master and mistress of today's developments."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh. I've just written Father and Mother a letter myself, to let them know."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shall message you once I've arrived at the dorm."
+        },
+        {
+            "name": "Nanny",
+            "text": "My lady. As you walk this path you've committed yourself to… please do take care of yourself."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shall. I'll not for a moment forget that I've chosen the steepest, most strenuous path of all."
+        },
+        {
+            "name": "Nanny",
+            "text": "I'll be thinking of you, always. Best of luck to you."
+        },
+        {
+            "name": "Nanny",
+            "text": "Trainer.",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Nanny",
+            "text": "…Please take good care of Lady Ardan.",
+            "choice_data_list": [
+                "You have my word."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan's nanny bows deeply upon hearing my response, then leaves without uttering another word."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for coming to see me today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now, concerning our plans moving forward…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I was wondering if perhaps I could trouble you to decide on each of the races I'll be running during my junior year.",
+            "choice_data_list": [
+                "Of course. Are you sure you don't mind me choosing all of them, though?",
+                "Of course. Are you sure you don't mind me choosing all of them, though?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Not at all. Because I've made a decision of my own today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I've decided to pursue the future that you have laid out for me.",
+            "choice_data_list": [
+                "Ardan…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As such, I ask for your guidance on what I ought to focus on <i>now,</i> Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing her say that, I feel as if Mejiro Ardan… might be placing a little more trust in me than she was before."
+        },
+        {
+            "name": "Monologue",
+            "text": "My determination to support her grows stronger yet—she's putting her life in my hands!",
+            "choice_data_list": [
+                "Let's work on improving, little by little."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "What Mejiro Ardan needs right now is both hands-on experience and the physical capacity to last an entire race."
+        },
+        {
+            "name": "Monologue",
+            "text": "During her junior year, I plan to have her continue training as she accumulates actual racing experience at a pace that suits her.",
+            "choice_data_list": [
+                "After that, we can aim for a grander stage for you to shine on."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Very well. In other words, it appears as though it's time for me to undergo quite some rigorous training."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…I shall be counting on you once again, Trainer, starting tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "With both of us fully prepared for what lies ahead, Mejiro Ardan and I welcome her junior year!"
+        }
+    ]
+}

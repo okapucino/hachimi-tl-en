@@ -1,0 +1,37 @@
+{
+    "title": "Race Fatigue",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Before beginning our training for the day, I explain today's regimen to Sweep Tosho."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…No. Whenever I run in the dirt, it gets in my shoes, so I'm not doing it."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't like ramp training either. It makes me tired."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho doesn't seem to be in the mood to cooperate. Maybe I can interest her with…",
+            "choice_data_list": [
+                "We can do some magic training during the breaks."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…No."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't feel like moving today! I'm just gonna sit here and watch TV! I'm not moving one inch from this spot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She won't even bite on something she's interested in. She may still be exhausted from racing, so I might need to rethink her schedule."
+        }
+    ]
+}

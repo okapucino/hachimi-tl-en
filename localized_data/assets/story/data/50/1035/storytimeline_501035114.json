@@ -1,0 +1,320 @@
+{
+    "title": "勝ちたくて、勝ちたいから！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the Satsuki Sho behind us, we have been devoting all our energies into training for the Japanese Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "For Winning Ticket, no race could be more important—it's the moment she's always dreamed of.",
+            "choice_data_list": [
+                "(I have to make sure she wins this one!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Though that thought stands firm in my mind…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…",
+            "choice_data_list": [
+                "Ticket?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WHOA!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, Trainer, it's just you…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sorry, sorry! I had a weird dream, so I was zoning out…",
+            "choice_data_list": [
+                "A weird dream?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, it's nothing! Just a dream!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay, time to get warmed up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since the Satsuki Sho, Winning Ticket has been behaving a little oddly.",
+            "choice_data_list": [
+                "I wonder if something happened…",
+                "I wonder if something happened…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Worried, I look over to her, only to see…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wh-whooaa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bam!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "During a simple jog, she stumbles over her own legs and falls."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, haha! Oopsie, that kinda shocked me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sorry. But don't worry, I didn't get hurt, so it's fine!",
+            "choice_data_list": [
+                "Should we leave training at that for today, just to be safe?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "N-no way!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I mean… you know? The Japanese Derby is so soon!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If I wanna give it my best shot, I have to practice a lot!",
+            "choice_data_list": [
+                "…Okay then."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hehe! Back to running!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can warn her not to overdo it, she's already gone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even as the days go on, Ticket seems strangely restless during our training sessions…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Huff, huff, huff!</i> Phew…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So? My time! What's my time? How did I do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And my watch shows… it's far slower than her best.",
+            "choice_data_list": [
+                "Well…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ugh… Not good! This won't do! It's not good enough!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! One more time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ticket clearly still wants to carry on, but it's already gotten quite late, so…",
+            "choice_data_list": [
+                "That's it for today!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm fine! I can still run!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That uncharacteristic stumble the other day… The overreactions to every little slip in her lap times… There's definitely something off with her lately."
+        },
+        {
+            "name": "Monologue",
+            "text": "Being a trainer is about more than just assisting your student with her training.",
+            "choice_data_list": [
+                "Why don't we have a chat?",
+                "Why don't we have a chat?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? A chat?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Urghhh… Do we really have the time for a leisurely stroll like this?",
+            "choice_data_list": [
+                "What's going on with you lately?",
+                "What's going on with you lately?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? With me?",
+            "choice_data_list": [
+                "You seem a little impatient."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…I-impatient?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "For real? Is that how I seem? But I… I…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So, um… listen. I've been having these dreams lately.",
+            "choice_data_list": [
+                "What kind of dreams?",
+                "What kind of dreams?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Just, you know…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Dreams of… losing the Derby."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's the same every time. Taishin and Hayahide dash ahead, and I'm left behind…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No matter how fast I run, I can't catch up, and I end up dead last."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Most horrible of all, my fans are so disappointed! They're all like, \"That was the worst Derby ever!\""
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Now I'm… I'm scared of running in the Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "And Taishin and Hayahide aren't afraid at all. It's just me who's being a dummy! But I'm really scared."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I shouldn't… I shouldn't be this afraid! It's not like I had any chance of winning in the first place!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What should I doooo? Waaaagh!",
+            "choice_data_list": [
+                "(So that's why…)",
+                "(So that's why…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She panicked and fell because she was scared. It was fear that made her want to shorten her time by any means."
+        },
+        {
+            "name": "Monologue",
+            "text": "But a racer who's okay with losing has no reason to be afraid to race."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she's scared, that just proves how much she cares about winning. In short…",
+            "choice_data_list": [
+                "You want to win this more than anyone else.",
+                "You want to win this more than anyone else."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Hold onto that feeling. It's going to be your strength when you race.",
+                "Hold onto that feeling. It's going to be your strength when you race."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When things are really rough, the drive to win can become a powerful motivator."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why…",
+            "choice_data_list": [
+                "The fear that you feel isn't weakness."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's not?",
+            "choice_data_list": [
+                "It's your secret weapon!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After some quiet contemplation…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket jumps up."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I get it! You're right! It's my secret weapon!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "This is amazing! I feel super refreshed all of a sudden! I could go run a bunch of laps right now!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I feel like I can actually win! This feeling—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No, that's not right. It's not just a feeling. I'm <i>going</i> to win. I'm gonna win the Derby—I know it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket takes a deep breath."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I will win… the DEEERRBYYYYY!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yelling at the moon, Ticket looks like her bright, shining self again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her face is glowing with fighting spirit from deep within, and it's a dazzling sight to see. She's as stunning as the stars in the night sky."
+        }
+    ]
+}

@@ -1,32 +1,34 @@
 {
-    "no_wrap": true,
+    "title": "夏合宿（3年目）スタート！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiin!",
+            "text": "Bakushin, BAKUSHIIIN!",
             "choice_data_list": [
-                "Have you gotten dressed?",
-                "Have you gotten dressed?"
+                "You're already done getting changed?",
+                "You're already done getting changed?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I did, indeed! \nAfter all, I'm in high spirits!"
+            "text": "Yes! I'm all pumped up!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There are still 2400 meters worth of race \nleft, and I'm determined to Bakushin \nright through summer!"
+            "text": "There's still the 2,400-meter race left. But I'm ready to Bakushin right through the summer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll show everyone how hard working I am \nduring races and summer training camps, \nand I'll be a role model for them from \nhead to toe!"
+            "text": "I'm gonna do my best on the track and at the summer camp. I'll be a perfect role model from start to finish!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's goooo!"
+            "text": "Woo!"
         },
         {
-            "text": "And so began the summer training \ncamp to improve our skills!"
+            "name": "Monologue",
+            "text": "With that, the summer camp where the Umamusume train to improve their skills begins!"
         }
     ]
 }

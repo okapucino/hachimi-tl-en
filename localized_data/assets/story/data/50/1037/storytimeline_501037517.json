@@ -1,0 +1,42 @@
+{
+    "title": "黒い宝石を求めて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I happen across Eishin Flash, but she looks upset for some reason.",
+            "choice_data_list": [
+                "Hey, what's wrong?",
+                "Hey, what's wrong?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, it's nothing important."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I was looking for a particular ingredient so I could make a dish I often ate back home, but…",
+            "choice_data_list": [
+                "Did they not have it in stock?",
+                "Did they not have it in stock?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, they did. Except…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Caviar is very expensive in Japan… It is far beyond what I could afford on my budget."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's not wrong about the price, and I unfortunately can't offer to buy it for her. Eishin Flash trudges away desolately."
+        }
+    ]
+}

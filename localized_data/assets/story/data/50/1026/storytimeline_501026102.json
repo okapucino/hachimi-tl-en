@@ -1,0 +1,242 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "It's New Year's Day and we're heading to a shrine for our first visit of the year."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master, I have sighted Teio and McQueen.",
+            "color_text_info_list": [
+                "Teio",
+                "McQueen"
+            ]
+        },
+        {
+            "text": "I look toward the display TV in the electronics store that Mihono Bourbon is pointing at."
+        },
+        {
+            "name": "Teio and McQueen",
+            "text": "Happy New Year!"
+        },
+        {
+            "text": "Tokai Teio and Mejiro McQueen are appearing on a program called <i>New Year's Umamusume Special.</i>"
+        },
+        {
+            "text": "It looks like a talk show where they discuss this year's races and the runners who are expected to make headlines."
+        },
+        {
+            "name": "Interviewer A",
+            "text": "So, both Mihono Bourbon and Rice Shower are about to enter their senior year.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Interviewer A",
+            "text": "They've become quite the hot topic within the racing community. Do you think we should keep an eye on those two?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, good question. Personally, I've had my eye on Bourbon since she ran in the Satsuki Sho.",
+            "color_text_info_list": [
+                "Bourbon"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And everyone's been comparing her to me."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I think it's worth showing up to watch one of her races."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, my. In that case, I'll likely be competing against both of them in the upcoming spring Tenno Sho."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Really? Think you can take the heat?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Whatever is that supposed to mean?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I am well aware of the rumors surrounding Bourbon and Rice, as well as their true abilities.",
+            "color_text_info_list": [
+                "Rice"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But it doesn't stop me from running in my usual way."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "True, true. Well, I suppose I'll root for ya!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You should take this more seriously, Teio! You're talking like it's a game!"
+        },
+        {
+            "text": "Their banter livens up the studio as the special continues."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…"
+        },
+        {
+            "text": "I'm curious about what will happen next, but we need to hurry before it gets dark out.",
+            "choice_data_list": [
+                "Shall we get moving?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative, Master."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Bow twice, clap twice, bow once… Shrine worship executed without error."
+        },
+        {
+            "text": "Mihono Bourbon performs her prayer with ample vigor, leaving me curious as to what she wished for.",
+            "choice_data_list": [
+                "What did you wish for?",
+                "What did you wish for?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "To win in my senior year."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Since I'm entering my senior year, I determined this to be a suitable wish for my shrine visit."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, a causal relationship between prayer and victory has not been scientifically proven…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Regardless, Mejiro McQueen and Tokai Teio are both overwhelmingly talented."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is essential that I continue my training in order to compete on the same level as them."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I understand that today is a day off, but I am eager to train.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "text": "This sudden rise in determination was probably sparked by that TV special we saw earlier.",
+            "choice_data_list": [
+                "Let's use today to rest up.",
+                "Let's boost our luck with a fortune slip!",
+                "Let's try learning a new running technique."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rest up? But…",
+            "choice_data_list": [
+                "Resting is a big part of training too.",
+                "Resting is a big part of training too."
+            ]
+        },
+        {
+            "text": "I tell her to rest today so that she's prepared for some harsh training tomorrow."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. I will recuperate today."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Before I begin… how do you suggest I go about recuperating?",
+            "choice_data_list": [
+                "Want to go for a walk?"
+            ]
+        },
+        {
+            "text": "And off we go."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master, look at how high that kite is soaring."
+        },
+        {
+            "text": "We're able to spend a relaxing New Year's Day together."
+        },
+        {
+            "text": "With tough opponents waiting for us in the near future, I want to work even harder than ever together to make sure we have a shot at beating them!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Boost our luck with a fortune slip? Order acknowledged."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, I do not understand how a piece of paper can increase my luck."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "And what exactly is \"fortune\" to begin with?"
+        },
+        {
+            "text": "Despite her being lost in a maze of questions, I manage to persuade Mihono Bourbon to draw a fortune slip."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It says \"great fortune.\"",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Th-thank you?"
+        },
+        {
+            "text": "At the very least, we're able to spend a peaceful New Year's Day together."
+        },
+        {
+            "text": "With tough opponents waiting for us in the near future, I want to work even harder than ever together to make sure we have a shot at beating them!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Learn a new running technique? Order acknowledged."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I shall devise, memorize, and execute a new running technique that will be invaluable for my senior year."
+        },
+        {
+            "text": "After she's done, we hurry back to the academy."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant…</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The cause is unknown, but the atmosphere today is more \"pleasant\" than usual."
+        },
+        {
+            "text": "Bourbon continues striving to perfect her new technique until she is completely satisfied."
+        },
+        {
+            "text": "With tough opponents waiting for us in the near future, I want to work even harder than ever together to make sure we have a shot at beating them!"
+        }
+    ]
+}

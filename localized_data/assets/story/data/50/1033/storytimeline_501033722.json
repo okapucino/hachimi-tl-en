@@ -1,0 +1,48 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After I've finished suggesting a training schedule to Admire Vega…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm fine. Just taking in the fresh air…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ugh!",
+            "choice_data_list": [
+                "Do you have a headache?",
+                "Do you have a headache?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's nothing to worry about. I've taken some medicine, so it'll go away soon enough."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Agh!",
+            "choice_data_list": [
+                "Don't push yourself if it hurts."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're right… Apologies for not telling you sooner."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Admire Vega is struggling with a migraine…"
+        }
+    ]
+}

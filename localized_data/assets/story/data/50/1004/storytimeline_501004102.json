@@ -1,0 +1,270 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go with Maruzensky to welcome the new year at a shrine."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I was thinking of taking a drive on New Year's Day since the roads are usually clear…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But it just doesn't feel like New Year's until you go visit a shrine!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's the perfect place to make a resolution for the year and pray for my goal to be achieved!",
+            "choice_data_list": [
+                "What's your goal this year?",
+                "What's your goal this year?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, my goal is to participate in lots of fun races!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's why I have to be more active than ever and become someone that others can look up to!",
+            "choice_data_list": [
+                "I'll help you every step of the way!",
+                "I'll help you every step of the way!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know you will, Trainer! I'm counting on you."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know you will, Trainer! I'm counting on you."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, what exactly should we be focusing on in order to achieve this goal?",
+            "choice_data_list": [
+                "We should work on fundamentals, like physical conditioning.",
+                "We should set a well-balanced training regimen.",
+                "We should focus on making your best skills even better."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "\"The best ability is availability,\" they say. Honing your skills means nothing if you're not healthy enough to be on the track."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay! I'll try to take care of myself better than ever before!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "With that settled, let's finish up here, shall we?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I see! So you're saying a balanced workout is key to taking it up a notch!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right, I'm on the job! I'll keep this in mind while training."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, now that that's decided, let's finish up here!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "If we're talking about my best skills, I'd say my driving is second to none!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Psych!</i> You were talking about my <i>running</i> skills, right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay! I'll try to keep that in mind while I'm training."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right then, let's finish up here, shall we?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Whew… Now that we've visited a shrine, it's finally time to start the new year."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, it's Maruzensky!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Happy New Year! I hope you have a happy and healthy year!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah, Happy New Year!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Happy New Year right back at you! ☆ Are you all going to the shrine too?"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's right! I know it's like this every year, but there are so many folks here I feel I'll get lost!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Your dislike of crowds explains why you're always so quick to break away from the pack in races! Hehe!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer, did you know? These two are the bomb!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer, did you know? These two are the bomb!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ever since their debut, they've been making names for themselves. People are calling them members of the \"Ultimate Generation\"!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe… You're making me blush."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "As your senior, it makes me so happy to see you cuties doing so well! ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We've grown so much thanks to the friendly competition we have between us."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We recognize each other's drive, and that pushes us to keep trying to surpass one another."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! Even if we lose, it just makes us want to win more the next time, right?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And it wasn't only my classmates who lifted me up."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "This year, I'm trying to surpass the person I've watched and admired since before my debut…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Is that… by any chance…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, Maruzensky. Would you be willing to run a race with me?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow! I can't believe I'm already reaping the benefits of visiting the shrine so soon!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Whaaat?!</i> G-Grass, are you sure about this?!",
+            "color_text_info_list": [
+                "G-Grass"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm pretty sure I'm not good enough to face off against Maruzen yet…",
+            "color_text_info_list": [
+                "Maruzen"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, you won't know for sure until you try, right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Also, like Grass said, it's great to have someone to compete against."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Having someone to compare yourself to, someone to encourage and be encouraged by… I believe that's what keeps us running."
+        },
+        {
+            "name": "Special Week",
+            "text": "To encourage each other…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It would be such a waste to avoid challenging each other!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Grass, let's use this race to raise one another up—to the highest of heights!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's! The Yasuda Kinen is in June—I'll challenge you there.",
+            "color_text_info_list": [
+                "Yasuda Kinen"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm looking forward to it!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Goodness… Grass is amazing…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heheh! ♪ This year looks like it's going to be a blast!",
+            "choice_data_list": [
+                "You sure look happy.",
+                "You sure look happy."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "How could I not be! Running with the newer students is going to be so much fun!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, by the way, have you decided what race we're going to shoot for next?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm going to run with Grass in June, but that doesn't mean I won't be racing until then, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She wants to have all the fun she can this year, so it's only natural that we challenge some of the toughest races out there…",
+            "choice_data_list": [
+                "Let's shoot for the Osaka Hai!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oooh! The biggest event of the spring!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right, I'm gonna kick it into full gear beneath the blooming cherry trees!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With our next race set, a new year with Maruzensky begins."
+        }
+    ]
+}

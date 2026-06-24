@@ -1,0 +1,301 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the 25th of December. We're at a pause in Gold City's racing schedule, so I'm taking the time to think about next year when…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt… Bzzzzt…</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, Trainer? Do you have a minute?"
+        },
+        {
+            "name": "Gold City",
+            "text": "So listen, I need you to come meet me at this location right away. Don't bring anything. Bye."
+        },
+        {
+            "name": "Gold City",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You do know what day it is today, right? Then there's your answer."
+        },
+        {
+            "name": "Gold City",
+            "text": "Anyway, I've got a present for you, so…"
+        },
+        {
+            "name": "Gold City",
+            "text": "I want you to get changed downstairs."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes me downstairs to a fitting room holding tons of clothes. And before I know what's happening…"
+        },
+        {
+            "name": "Stylist",
+            "text": "City! I dressed your trainer just as requested!",
+            "choice_data_list": [
+                "C-City?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Ohh! That looks really good! I knew I was right to ask you for help."
+        },
+        {
+            "name": "Makeup Artist",
+            "text": "No compliments on my makeup? I'd say I enhanced your trainer's charm precisely how you asked."
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, it's perfect. Thank you."
+        },
+        {
+            "name": "Makeup Artist",
+            "text": "Oh, it's no problem at all! I'm just thrilled to be spending the holiday with you! ♪"
+        },
+        {
+            "name": "Photographer",
+            "text": "Are you ready? Let's start the shoot."
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay! Everyone, thank you for taking a little time out of your busy schedules to help me here! I really appreciate it.",
+            "choice_data_list": [
+                "A photo shoot?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yup, it's my present to you—a professional photo shoot.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Everyone here is a top-tier artist. Even professional models rarely get to work with this kind of talent."
+        },
+        {
+            "name": "Gold City",
+            "text": "They're going to make you look amazing.",
+            "choice_data_list": [
+                "I can't do this!",
+                "I can't do this!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "No wimping out. All right, let's get started."
+        },
+        {
+            "name": "Photographer",
+            "text": "Okay, Trainer, right this way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I find myself somehow roped into a photo shoot of my very own."
+        },
+        {
+            "name": "Photographer",
+            "text": "Trainer, your expression is looking a bit stiff. Is the light too harsh? Do you want it a bit dimmer?",
+            "choice_data_list": [
+                "N-no…"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…You're mega-nervous. Where's your usual unbridled enthusiasm?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hmm… Sorry, can we have a moment?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Listen, Trainer. I'm right here.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Just keep your eyes on me, and you won't be bothered by the surroundings."
+        },
+        {
+            "name": "Gold City",
+            "text": "What's there that could captivate you more than me?",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "That's right—just focus on me. The professionals will take care of the rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City smiles at me reassuringly. As I gaze at her, I stop worrying about the voices around me and the blinding lights, until…"
+        },
+        {
+            "name": "Photographer",
+            "text": "Good work, Trainer! Take a quick break while we review the photos."
+        },
+        {
+            "name": "Monologue",
+            "text": "The photo shoot ends before I know it! Seeing myself in the monitor, I appear like an entirely different person.",
+            "choice_data_list": [
+                "This is… me?",
+                "This is… me?"
+            ]
+        },
+        {
+            "name": "Photographer",
+            "text": "Haha, of course it is! You're looking really good too."
+        },
+        {
+            "name": "Photographer",
+            "text": "I think you look your best when you're totally focused on something. City must have realized that too."
+        },
+        {
+            "name": "Gold City",
+            "text": "Good job, Trainer. I think you got some good shots in there.",
+            "choice_data_list": [
+                "I barely remember anything that happened after the first half…"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Hahaha. I guess that means I did my job properly too.",
+            "choice_data_list": [
+                "Why did you do all this, though?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I tried to think of the best gift I could possibly offer you."
+        },
+        {
+            "name": "Gold City",
+            "text": "And this was what I came up with—to show you a whole new side of yourself."
+        },
+        {
+            "name": "Gold City",
+            "text": "You taught me something similar before, you know."
+        },
+        {
+            "name": "Gold City",
+            "text": "When you're photographed by a professional, you can discover what's appealing about yourself—things you never knew. Isn't that exciting?"
+        },
+        {
+            "name": "Gold City",
+            "text": "So I asked some of my colleagues to get together. Was it, uh… too much, you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I was indeed very confused at first, but… I do feel like I understand a part of myself I didn't know before this shoot.",
+            "choice_data_list": [
+                "Thank you for the best present ever."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Mhm. I'm glad you enjoyed it."
+        },
+        {
+            "name": "Gold City",
+            "text": "Anyway, don't you have anything for me?",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "If I gave you the best present ever, then you have to give me something better, right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "What should I ask for? Maybe a luxury bag? I've been wanting to check out the latest pieces.",
+            "choice_data_list": [
+                "D-don't go too crazy."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Pfft, I'm just kidding."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hahaha… Like, how are you not used to this by now? Oh, I can't!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so the holiday night ticks away to the tune of City's merry laughter."
+        },
+        {
+            "name": "Photographer",
+            "text": "Oh, there you are! Listen, we were thinking of taking some shots of you two together."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Me and Trainer?",
+            "choice_data_list": [
+                "With City?!"
+            ]
+        },
+        {
+            "name": "Photographer",
+            "text": "Yes! Everyone's so fired up to get both of you dressed up for some shots with each other."
+        },
+        {
+            "name": "Photographer",
+            "text": "I think it could make for some great photos, too. You don't mind, right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, if everyone says so, I guess we can give it a try.",
+            "choice_data_list": [
+                "But… really? Me and City?!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh, you're all nervous again. Remember what I said—you'll be fine if you just look at me."
+        },
+        {
+            "name": "Gold City",
+            "text": "You've got the support of a top model!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Flash! Flash! Flash!</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "Now, put your hand here. That's good. Stay still…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's one nervous moment after another, but we make it through the shoot. And as Gold City looks through the photos of us together, I can see a smile on her face."
+        }
+    ]
+}

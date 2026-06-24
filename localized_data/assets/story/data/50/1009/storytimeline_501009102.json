@@ -1,0 +1,162 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>BONG! BONG! BONG!</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Phew. That should do it."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the first day of the new year, Daiwa Scarlet asks me to join her on a shrine visit."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The start of the year is a good time to set out our goals."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Of course, my goal hasn't changed. I <i>will</i> become the number one Umamusume.",
+            "choice_data_list": [
+                "Number one, huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The number one that she's striving for…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I want to be number one."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "When people think of the best Umamusume, I want them to picture me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's going to take more than sheer racing skill. She'll need to garner fame as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "So we'll need to go where the strongest Umamusume compete…",
+            "choice_data_list": [
+                "Let's take on the Arima Kinen.",
+                "Let's take on the Arima Kinen."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "E-excuse me?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You can't even take part unless the fans nominate you! I can't just—",
+            "choice_data_list": [
+                "You're going to be their number one, aren't you?",
+                "You're going to be their number one, aren't you?"
+            ],
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ngh…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right, fine. But we'll have our work cut out for us. I'll need to enter races that can qualify me for the Arima Kinen."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's how we'll prove I deserve the nomination. First, we'll go for races that suit my running style, then for races with lots of competition!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, no time to dilly-dally! Let's get back to school, pronto!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Say, where do you think we should start?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You've got something in mind, right? This was your idea, after all.",
+            "choice_data_list": [
+                "Let's start with nutrition!",
+                "Let's work on your fundamentals!",
+                "Let's refine your technique!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You have <i>got</i> to be joking!",
+            "choice_data_list": [
+                "You can't train on an empty stomach."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "We don't have time to—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl…</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…",
+            "choice_data_list": [
+                "Let's eat before we head back."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Hmph!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Fine, we'll take a <i>quick</i> break, but then it's straight back to it! Got that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I grab a bite to eat with Daiwa Scarlet at one of the food stalls and we head back to the Academy."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Going back to basics on the first day of the year, huh…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Maybe a fresh start is exactly what we need."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right, then there's no time to waste! How about I start with a sprint down the stairs?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet is excited to start on her new goal. Here begins our training for the new year."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's a good point. A one-size-fits-all strategy won't get us very far."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I suppose even a broken clock is right twice a day.",
+            "choice_data_list": [
+                "Really piling on the praise today, huh?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. And here I was about to say you seem reliable for once."
+        }
+    ]
+}

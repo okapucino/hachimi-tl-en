@@ -1,0 +1,61 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Fuji Kiseki and I are in the middle of tidying up after training when we hear a voice calling from the track."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, Fuji! You done trainin' for today? How 'bout comin' back for seconds and trainin' with me a bit?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Thanks, but I think I'll pass. Resting is an important part of conditioning too."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, aren't you confident? Don't cry to me when we take first in the next inter-dorm scrimmage!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh? You think you can beat Ritto Dorm? How very interesting."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Think? I know it! And we'll use today to get a headstart on kickin' your butt!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…Would it be all right if I trained a little longer, Trainer?",
+            "choice_data_list": [
+                "Go for it!",
+                "No, you need to rest!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "In that case, there's no need for me to hold back!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Come, Hishiama! Let's do this!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe… I swear, she gets more heated than even me sometimes!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…Yes, you're right. It really is best that I rest."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What, you're just gonna leave me hangin'?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Resting your body is how you ensure it works at its very best, and I'll need that to beat you at the scrimmage!"
+        }
+    ]
+}

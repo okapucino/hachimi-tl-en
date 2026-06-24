@@ -1,0 +1,42 @@
+{
+    "title": "恐怖！ 地獄の1丁目",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm taking a stroll in the park on my day off, when…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Yawn…</i> Hm? That squawking…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Argh?! Y-you have to be kidding me… Am I in the first circle of hell?!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, my salvation! I beg you, Trainer, rescue me from the misery of these dark depths before I succumb to misfortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I was feeling groggy and dozed off on the bench… I only just woke up! That's when…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I heard a crow caw four times above my head! That's definitely a sign things will take a turn for the worse!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "My mom always used to warn me to come back home before the crow's first caw! It means danger is just around the corner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After an untimely encounter with an omen of misfortune, Matikanefukukitaru seems to be completely drained of energy…"
+        }
+    ]
+}

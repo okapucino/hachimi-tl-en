@@ -1,0 +1,58 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Silence Suzuka…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! Are those…",
+            "choice_data_list": [
+                "Something caught your eye?",
+                "Something caught your eye?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Those plushies… Spe was talking about them the other day."
+        },
+        {
+            "name": "Monologue",
+            "text": "She points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "She said they've been really popular recently. Some of her friends have them too."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I bet she'd like one…",
+            "choice_data_list": [
+                "I could try to get one if you'd like.",
+                "I could try to get one if you'd like."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You don't have to! I was just thinking out loud…",
+            "choice_data_list": [
+                "Don't worry. I've got this.",
+                "Don't worry. I've got this."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well, if you insist…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Good luck."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't afford to fail!"
+        }
+    ]
+}

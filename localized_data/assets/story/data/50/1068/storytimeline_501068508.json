@@ -1,0 +1,34 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Laaa!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That's weird! I've been working on using my diaphragm, but my voice isn't coming out right…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Darn it. I won't be able to cheer anyone up with such a weak voice!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well… It doesn't seem like my singing voice is improving very much. I can't seem to put any oomph into it."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Argh, I can't lose spirit this easily! I'm going to try singing from my diaphragm again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be suffering from fatigue. We may need to rethink her race schedule."
+        }
+    ]
+}

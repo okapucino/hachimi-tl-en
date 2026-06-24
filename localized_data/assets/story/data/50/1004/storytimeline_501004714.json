@@ -1,0 +1,128 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Maruzensky gets injured during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ooh, ow ow ow… I guess even <i>I</i> can have off days…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I've got to get back on the track soon. I have to show everyone that nothing can keep me down!",
+            "choice_data_list": [
+                "Let's take it slow and heal up.",
+                "Desperate times call for desperate measures!",
+                "Desperate times call for desperate measures!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I've got to get back on the track soon. I have to show everyone that nothing can keep me down!",
+            "choice_data_list": [
+                "Let's take it slow and heal up.",
+                "Desperate times call for desperate measures!",
+                "Desperate times call for desperate measures!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Are you sure? I think I'll be peachy keen after just a little bit of rest…",
+            "choice_data_list": [
+                "But we definitely don't want to make the injury worse.",
+                "But we definitely don't want to make the injury worse."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Okay, fine. But if I'm going to take the time to heal, I ought to do it right."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So let's go to the convenience store and buy some panna cotta to cheer me up! ♪",
+            "choice_data_list": [
+                "I don't remember seeing that at the convenience store…",
+                "I don't remember seeing that at the convenience store…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Seriously?! They only sell panna cotta at the supermarket?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "To make Maruzensky happy, I head to the supermarket and buy her the panna cotta she loves so much."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I have to get hyped up! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I have to stay positive if I want to heal quickly! My favorite jam should perk me right up. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, wait… Where's my phone?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "How lame! Maybe I left it in my room?",
+            "choice_data_list": [
+                "I'll play a song for you on my phone.",
+                "I'll play a song for you on my phone."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Really? Thanks, Trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Really? Thanks, Trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, give me a song full of young, vibrant energy! Crank it <i>loud!</i> ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she requests, I play a song that's popular among the youth these days…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh? <i>This</i> is what's popular now?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I-I had no idea…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shocked at being so late with the times, Maruzensky's recovery is slowed."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, hey! Doo wop wop! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow! What a great song. It makes me want to start dancing! ♪",
+            "choice_data_list": [
+                "Don't get too excited.",
+                "Don't get too excited."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I understand, rubber band!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps the moderate exercise is helping, as Maruzensky's injury seems to be healing quicker than expected."
+        }
+    ]
+}

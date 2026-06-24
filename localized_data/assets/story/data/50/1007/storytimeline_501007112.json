@@ -1,0 +1,239 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With a number of wins under Gold Ship's belt, we have some time to bask in the victorious afterglow. However, the lull doesn't last long."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "DANG IT!",
+            "choice_data_list": [
+                "What's wrong?!",
+                "What's wrong?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I can't master this technique… I've been trying so hard, but I just can't nail the shadow clone jutsu!",
+            "choice_data_list": [
+                "Shadow clones? Where did I hear that before?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Oh right, she did say something about shadow clones when she won the ticket for a hot spring vacation in that raffle."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It was supposed to be epic! The plan was to have twice the fun with my shadow clone, but alas!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I just can't do it! And the ticket expires real soon!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "There's no time to waste! I'm going on vacation, and you're coming with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I'm off on an extremely spur-of-the-moment hot spring vacation with Gold Ship."
+        },
+        {
+            "name": "Monologue",
+            "text": "Things are going pretty well on the train ride to the inn. At least, until I turn to my side."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's when I discover the seat where Gold Ship <i>should</i> be sitting is empty.",
+            "choice_data_list": [
+                "(Where'd she go?!)",
+                "(Where'd she go?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't answer any of my messages, so I get off the train at the next stop and call her. Thankfully, she picks up."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "\"Hey, Trainer. It's about time you called.\""
+        },
+        {
+            "name": "Gold Ship",
+            "text": "\"Walk 500 paces south from the station, then go 700 paces east. I'll see you there. Later.\"",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The line goes dead. I try calling her back again and again, but it won't go through…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The instant I reach the spot she indicated, my phone suddenly rings out of nowhere."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "\"Sup. Now go 700 paces north and 1,200 paces west. See you there. Later.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "She hangs up on me again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once more, I follow her directions right to…",
+            "choice_data_list": [
+                "(The inn?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You've done well to make it this far, traveler. Your journey must have been difficult.",
+            "choice_data_list": [
+                "Gold Ship?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Many monsters roam these parts. The peril is grave, so please rest here for the night.",
+            "choice_data_list": [
+                "…What?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Get inside. Quick, before you become a monster's dinner."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no idea what's going on, but since I can't simply leave Gold Ship to her own devices, I step inside the inn."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You must be famished from your long journey. Fear not—a meal has already been prepared."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her fantasy innkeeper act doesn't drop even after we're inside. I get the feeling she won't stop even if I don't play along, so I humor her."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Here we have vegetable tempura, vegetable miso soup, and steamed vegetables. Everything was harvested in the nearby mountains."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Next, we have vegetable sashimi, flame-roasted vegetables, soy sauce simmered vegetables, and, for the adventurous, live vegetables straight from the earth.",
+            "choice_data_list": [
+                "(It's nothing but vegetables!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Feel free to take a dip in the hot spring when you're done."
+        },
+        {
+            "name": "Monologue",
+            "text": "After eating my veggie-packed dinner, I make my way to the hot spring."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sit down in the massive bath. But then, out of nowhere…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kraaaw!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A cry like no animal I've ever heard echoes through the night!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My pulse hasn't even had the time to settle down when I'm hit with another shock."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>THUD!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The air trembles with the violent noise! Terrified, I jump out of the bath as quickly as I can."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That was a close call."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But fear not. The kraw bird has gone yonder.",
+            "choice_data_list": [
+                "(That was a bird?!)",
+                "(That was a bird?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You'll be safe inside the inn. Please, relax to your heart's content."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I shall also retire for the night. Have a good rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm back in my room now, but I've still got no idea what's going on."
+        },
+        {
+            "name": "Monologue",
+            "text": "The confounding situation has thoroughly exhausted me, and I drift to sleep."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Gold Ship and I have formed an irreplaceable bond during this time together… Maybe. Who knows?"
+        },
+        {
+            "name": "Monologue",
+            "text": "When I wake up, the first thing I see is Gold Ship."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Trainer! Let's kick things off with some super stretches!",
+            "choice_data_list": [
+                "We're back at the academy?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What're you talking about?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We never left in the first place, so how can we be \"back\"? Quit messing around."
+        },
+        {
+            "name": "Monologue",
+            "text": "What's going on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Was all of that just a dream?"
+        },
+        {
+            "name": "Monologue",
+            "text": "However, when I check my inbox a few days later…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's an email from an unknown sender that reads, \"Thank you for visiting our inn.\""
+        }
+    ]
+}

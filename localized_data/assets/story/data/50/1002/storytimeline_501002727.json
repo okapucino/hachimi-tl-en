@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "Wow! How did you get so many?",
+            "choice_data_list": [
+                "It was nothing!",
+                "It was nothing!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Spe's going to be so surprised. Thank you so much, Trainer."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Since you won so many, why not keep one for yourself?",
+            "choice_data_list": [
+                "Good idea! Go ahead and choose one for yourself, too.",
+                "Good idea! Go ahead and choose one for yourself, too."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Thank you. Now we both have really cute plushies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

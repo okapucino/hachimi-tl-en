@@ -1,0 +1,38 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "<i>Huff… Puff…</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Tch. Pathetic. That was such a sluggish run…",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'm fine! You just worry about your own job!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Damn, I'm so weak! Weak! I shouldn't be worn out already."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Run harder… harder. I've got to run harder!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to get results due to fatigue, Narita Brian has become more impatient and irritated than usual… This isn't good."
+        },
+        {
+            "name": "Monologue",
+            "text": "We shouldn't push it any harder. I should probably rethink her race schedule…"
+        }
+    ]
+}

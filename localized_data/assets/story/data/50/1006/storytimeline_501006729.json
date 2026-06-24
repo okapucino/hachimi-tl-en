@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Ahhh… It's harder than it looks, isn't it?",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't worry. I'm sure I wouldn't have done any better."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I could tell by the look on your face that you were trying your best."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's more than enough for me—plushie or no plushie."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

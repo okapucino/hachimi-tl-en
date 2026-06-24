@@ -1,0 +1,223 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's Valentine's Day, and the academy is buzzing with excitement. I'm hunkered down in my office with work, when…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Phew, talk about busy. Welp… at least I can finally sit down."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss. Mind if I eat here on the tatami mat? Everywhere else just leaves me antsy.",
+            "choice_data_list": [
+                "Sure, but is something wrong?",
+                "Sure, but is something wrong?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss. Mind if I eat here on the tatami mat? Everywhere else just leaves me antsy.",
+            "choice_data_list": [
+                "Sure, but is something wrong?",
+                "Sure, but is something wrong?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, ya know. Today's Valentine's Day. I'm gettin' more chocolate than I can deal with."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One turns her attention to the pile of bags she brought, each stuffed to the brim with chocolates!",
+            "choice_data_list": [
+                "That <i>is</i> a lot!",
+                "That <i>is</i> a lot!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm grateful, don't get me wrong. But it baffles me why they all came to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can imagine why. She's amicable, reliable, and she exudes natural charm. It makes sense why many flock to her."
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah, whatevz! Savorin' the gifts you're given is more my style, which means not a single piece goes uneaten!",
+            "choice_data_list": [
+                "I'll go make some tea."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, good thinkin'! Hot tea to wash down somethin' sweet! Thanks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Inari One begins to eat her Valentine's Day chocolates."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hmmm, I think this is from one of my partner runnin' buddies. It's wrapped up all nice and cute, eh?"
+        },
+        {
+            "name": "Inari One",
+            "text": "And this is… Wait, it's from the student whose shelf I fixed! Smells good, but I can't pinpoint the flavor. Somethin' citrusy, that's for sure."
+        },
+        {
+            "name": "Monologue",
+            "text": "Carefully taking out each gift, Inari One recalls the person who gave it to her before enjoying the chocolate.",
+            "choice_data_list": [
+                "(She's so considerate…)",
+                "(She's so considerate…)"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Phew, I stuffed myself silly! Each one was super delicious! I definitely gotta do somethin' to repay everyone!",
+            "choice_data_list": [
+                "I can't believe you remember all those details."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Why wouldn't I? These folks all went outta their way to give me these, right?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Now that I've eaten them all… that leaves one more thing to do.",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Here ya go, Boss. Somethin' from me.",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Here ya go, Boss. Somethin' from me.",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One hands me a wrapped present. I peel off the paper to find a box of traditional Japanese sweets!"
+        },
+        {
+            "name": "Inari One",
+            "text": "A little gift to repay ya. Sorry that it's not chocolates, but these are my favorite traditional treats."
+        },
+        {
+            "name": "Inari One",
+            "text": "Truth is, I haven't had enough Western stuff to know what's good or not, so I went with the safer option."
+        },
+        {
+            "name": "Inari One",
+            "text": "If ya don't wanna eat 'em, that's fine with me…",
+            "choice_data_list": [
+                "They look great!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't turn these down for not being chocolates, not after seeing Inari One show so much care. After all…",
+            "choice_data_list": [
+                "Savoring the gifts you're given is more my style, you know?",
+                "Savoring the gifts you're given is more my style, you know?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe. Can't argue with that!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for everythin', Boss. …Really."
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for everythin', Boss. …Really."
+        },
+        {
+            "name": "Monologue",
+            "text": "Indulging in Inari One's favorite traditional sweets, I feel warm and fuzzy inside."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One hands me a wrapped present. I peel off the paper to find a box of little chocolate foxes!"
+        },
+        {
+            "name": "Inari One",
+            "text": "A treat for everythin' you've done for me… and also 'cause it's Valentine's Day.",
+            "choice_data_list": [
+                "Thank you! These are so cute.",
+                "Thank you! These are so cute."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Well… ya know… I kinda… made 'em myself, actually.",
+            "choice_data_list": [
+                "<i>You</i> made these?!",
+                "<i>You</i> made these?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah. Well, I did get a lotta help from Creek!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Can't vouch for the taste, though. Don't force yourself if it's bad, okay?",
+            "choice_data_list": [
+                "I'll eat it all!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Not that they'd taste bad, but I can't turn these down, not after seeing Inari One show so much care. After all…",
+            "choice_data_list": [
+                "Savoring the gifts you're given is more my style, you know?",
+                "Savoring the gifts you're given is more my style, you know?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to eat these to show my appreciation toward Inari One, just as she did with her gifts."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe. Can't argue with that!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for everythin', Boss. …Really."
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for everythin', Boss. …Really."
+        },
+        {
+            "name": "Monologue",
+            "text": "Relishing the chocolates' mild sweetness, I can almost taste Inari One's gratitude. My heart melts at the thought."
+        }
+    ]
+}

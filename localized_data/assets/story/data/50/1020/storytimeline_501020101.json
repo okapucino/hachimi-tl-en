@@ -1,0 +1,240 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "I'm supposed to meet Seiun Sky today to celebrate the new year, but…",
+            "choice_data_list": [
+                "(Yep, she's not coming!)"
+            ]
+        },
+        {
+            "text": "I'm used to her flakiness by now, so I decide to start looking for her. As I'm about to leave…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Pardon me!"
+        },
+        {
+            "text": "Nishino Flower makes a courteous entrance. If memory serves, she talks with Sky often.",
+            "choice_data_list": [
+                "Are you okay? Why are you by yourself?",
+                "Are you okay? Why are you by yourself?"
+            ],
+            "color_text_info_list": [
+                "Nishino Flower"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "By myself?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah! <i>Seriously,</i> Sky?!",
+            "color_text_info_list": [
+                "Sky"
+            ]
+        },
+        {
+            "text": "Nishino Flower goes into the hallway, then drags a familiar face back inside."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Sup."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "We have to do a proper greeting, Sky! Ready, set…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Happy New Year—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! S-Sky!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Haha, sorry, sorry."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're just so cute with all that pep. ☆",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hrngh… Please don't tease me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Let's try again, okay? Ready, set!"
+        },
+        {
+            "name": "Flower and Sei",
+            "text": "Happy New Year! Happy New Yeeear."
+        },
+        {
+            "text": "When I speak with Nishino Flower later, I find out that she saw Seiun Sky napping in the courtyard, inferred what was going on, then brought her over."
+        },
+        {
+            "text": "Unsurprisingly, it turns out Sky was planning to ditch. As I wonder what the heck I should do with her…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um! Sky's not a bad person!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "F-Flower?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "She's just a little lazy, that's all. I don't think she was planning to skip today."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I promise I'll help out, so please continue to take good care of her.",
+            "choice_data_list": [
+                "I-I will!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll see you later, Sky. Good luck today."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All right, all right. Thanks."
+        },
+        {
+            "text": "Nishino Flower gives a quick, courteous bow, then leaves. She reminds me to \"keep Sky out of trouble.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Why don't you just come out with it? I can see on your face you've got something to say.",
+            "choice_data_list": [
+                "I was thinking about how kind Nishino Flower is…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait a second! Now you look like you're plotting something!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This isn't gonna happen every time, you know? I just came along with her today because she was so insistent."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So don't even think about using Flower or anything. And don't read too much into this! Just don't!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Anyway, let's go! We've got a meeting to do, right?",
+            "choice_data_list": [
+                "Yep! Training!",
+                "How about a cup of tea for our meeting?",
+                "Tell me more about Nishino Flower."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huuuuh?! But it's New Year's Day!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's tyranny, I say! I'm not gonna lift a finger on New Year's!",
+            "choice_data_list": [
+                "You don't have a say in this!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait… Don't tell me you're actually peeved that I wasn't gonna show up.",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're clearly upset!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Actually, you're pretty scary when you're mad, just like Grass…"
+        },
+        {
+            "text": "And so, our new year is off to a running start as training with Seiun Sky kicks off."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's a great idea! I'll make the tea.",
+            "choice_data_list": [
+                "You will?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Why are you all shocked? Even I can brew tea."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…To escape awkward situations."
+        },
+        {
+            "text": "Maybe it's because she was trying to skip today, or because of how Nishino Flower exposed her…"
+        },
+        {
+            "text": "But for whatever reason, Seiun Sky brews our tea for once.",
+            "choice_data_list": [
+                "…That's bitter!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No way! I'd never mess up the tea that bad—blegh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Like what?",
+            "choice_data_list": [
+                "How did you two meet?",
+                "How did you two meet?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just on campus—wait a second. Why do you wanna know this?!",
+            "choice_data_list": [
+                "I want to know why you're being so well-behaved."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey! I'm always well-behaved!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, this conversation's over! Finito! It's closing time! Adios!",
+            "choice_data_list": [
+                "There she goes, running away."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm not running, I'm <i>walking</i> away."
+        },
+        {
+            "text": "And so, a brief game of tag takes place inside my office."
+        }
+    ]
+}

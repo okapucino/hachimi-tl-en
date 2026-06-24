@@ -1,0 +1,299 @@
+{
+    "title": "アタシの1番",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The first G1 race of the Tiara tour is over.",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a once-in-a-lifetime experience, and Daiwa Scarlet is probably the most exhausted she's ever been."
+        },
+        {
+            "name": "Monologue",
+            "text": "That being the case, I decide to give her the day off. Or… that was the plan, anyway."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Check it out! Scarlet and Vodka are going at it again!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Wow! Vodka, you can do it! Scarlet, give it your all!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "You have <i>got</i> to be kidding me!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Pant, pant…</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hehe, I won! That makes eight out of thirteen!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All righty. Time to head back. No point in wearin' myself out here."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hey! Come back here! You can't just leave while you're ahead!",
+            "choice_data_list": [
+                "You need to rest too.",
+                "You need to rest too."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…Hmph! I'm not even that tired. Honestly, I'm fine!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I was just doing some solo training this morning when she asked me to run with her.",
+            "choice_data_list": [
+                "You've been training since morning?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, crud."
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk her back to her dorm to make sure she doesn't do any more training in secret."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh. You're acting like a real helicopter parent, you know?! I don't need to be babysat…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh? Is that…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're really planning on going for it?"
+        },
+        {
+            "name": "Vodka",
+            "text": "That's why I'm here."
+        },
+        {
+            "name": "Vodka",
+            "text": "Please… Give me some advice."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, well. I never thought I'd see Vodka bow like that to anyone, let alone to Brian."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She's getting advice from a veteran, huh. Hmm…",
+            "choice_data_list": [
+                "…Didn't I tell you to rest?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh… Fine! You've made your point!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I wonder if Air Groove is back yet…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet speeds off toward her dorm with suspicious enthusiasm."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, everyone's abuzz with shocking news about the Japanese Oaks, the second race of the Triple Tiara."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Vodka isn't entering the Japanese Oaks? She's running in the Derby instead?!",
+            "color_text_info_list": [
+                "Derby"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No <i>way!</i> She's dropping out of the Tiara tour? What happened to beating me?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I can't believe it. She's actually running from our contest."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All that talk about being cool, and she just ups and changes her tour, just like that! That's so far from cool…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Good grief… All that energy I built up… All for nothing…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "<i>Scarlet?!</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Where am I?",
+            "choice_data_list": [
+                "You're in the infirmary."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh… I guess I must have collapsed back there."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Precisely. You've been sneaking out of the dorm to train again, haven't you?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Air Groove?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You should thank your lucky stars that there were people around. Can you imagine if you had collapsed all by yourself?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah… You're right. I'm sorry."
+        },
+        {
+            "name": "Air Groove",
+            "text": "And as for you, Trainer… You must keep a cool head at all times. Panicking like you did back there won't help Scarlet any."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Her future in your hands—and you'd do best to remember that."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now, if you'll excuse me, I've taken the liberty of calling your roommate to collect you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "My roommate? You can't mean…"
+        },
+        {
+            "name": "Vodka",
+            "text": "What'd you go and faint for? You're not setting a very good standard, Miss Model Student."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! Quiet, you!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Besides, you're the one being lame!"
+        },
+        {
+            "name": "Vodka",
+            "text": "…What?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You gave up on the Tiara tour, right? You figured you couldn't get first place with me in the running."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "In fact, I'll just say it. You quit halfway through, like a coward!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Like hell I did!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm running the Derby to break through to a whole 'nother level of cool!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm no coward! You just don't have a clue!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Besides, that's pretty rich coming from you! Aren't you the one who keeps going on about being number one without even knowing what that means?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ex-<i>cuse</i> me?! What's that supposed to mean?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Exactly! You tell me! What does being number one even look like?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Is it just taking first place? Then you should just run in races you know you can win, right?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Don't make me laugh! That's not what being number one means at all!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Then what <i>does</i> it mean? Do you even know?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I… That's…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Vodka",
+            "text": "See. You don't even have an answer."
+        },
+        {
+            "name": "Vodka",
+            "text": "Your \"number one\" is meaningless… Just empty words."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…You're wrong."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're wrong! My dream is nothing like that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But in the end, Daiwa Scarlet can't find the words to refute Vodka."
+        },
+        {
+            "name": "Monologue",
+            "text": "Biting her lip, she ponders what it means to be \"number one.\""
+        }
+    ]
+}

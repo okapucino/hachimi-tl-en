@@ -1,0 +1,303 @@
+{
+    "title": "背中を見せてあげる",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the press conference for the upcoming Satsuki Sho."
+        },
+        {
+            "name": "Reporter A",
+            "text": "You were particularly impressive in the Asahi Hai F.S. How do you feel going into the Satsuki Sho?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, I think I'm going to have to run as hard as I can."
+        },
+        {
+            "name": "Reporter B",
+            "text": "In your last race, there were only five runners, correct?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, y-yes…"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Some people are saying it was your overwhelming ability that made your rivals avoid the race."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Leave it to the Hot Rod to win a race before it's even started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hahahaha!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew… That was exhausting for some reason."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I guess a press conference for a Classic would make anyone nervous. Hehe…",
+            "choice_data_list": [
+                "Are you feeling better now?",
+                "Are you feeling better now?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, it's all good in the neighborhood!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Now, I would say it's about time to get training, but…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's a bit late to start now, so why don't we take the rest of the day off and go for a drive instead?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Maruzensky and I suddenly end up going for a drive."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yahoooo! I love driving!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "The sound of the wind and this scenery speeding by… I could just keep driving forever!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Hey, Trainer, are you listening? You look like you're sleeping."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Hey, Trainer, are you listening? You look like you're sleeping."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Maybe a touch more speed will wake you up!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Whoops! I guess I got a little carried away. How far have we been driving?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's just so fun to burn rubber in Tata!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's easy to see how much Maruzensky enjoys driving her beloved car, but something feels off…",
+            "choice_data_list": [
+                "Is running not as fun as it used to be?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh… You really can read me like a book."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But, yeah… I've been having a little less of a good time with racing recently."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I had so much fun when I first debuted. Competing with everyone at full speed and all that…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "For the first time, I was so immersed in running that there were days I'd even forget to go for a drive!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But while I was enjoying myself, the others were running for completely different reasons…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You saw it too, right? How pained that poor girl looked when she said she wanted to avoid racing against me…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You saw it too, right? How pained that poor girl looked when she said she wanted to avoid racing against me…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "In the end, I'm left with almost no one to run with. Where's the fun to be had in that?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know I shouldn't say this right before the Classics…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But maybe it's better if I don't run…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not run? I'm sure she was feeling the same way in the previous race too."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it's also true that I became her trainer because of her fantastic running.",
+            "choice_data_list": [
+                "You've got it backwards.",
+                "You've got it backwards."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Backwards? Are you saying it's better if I <i>do</i> run?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But everyone's been avoiding races because of me…",
+            "choice_data_list": [
+                "Hey, what do you like about your car?",
+                "Hey, what do you like about your car?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh? You mean Tata?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I like her overwhelming speed and acceleration, and the way driving her makes me feel like I'm becoming one with the wind."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "She has thrills you can't experience in an ordinary car.",
+            "choice_data_list": [
+                "You run the same way.",
+                "You run the same way."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…I run like Tata?",
+            "choice_data_list": [
+                "There's something I want you to see. Let's go back to the academy!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh?! What is it?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, what is it you want to show me?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Hm? Oh, someone's still running at this hour."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Huff… huff… huff…</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That's a new record, Spe!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Really?! Woo-hoo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hopefully I can make my debut soon if I keep improving at this rate."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm going to become an Umamusume to rival Maruzensky!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Rival her? I want to <i>surpass</i> her!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Okay, would you time me next?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Sure! Let's see some hustle out there, Grass!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Those kids…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Some may be intimidated by Maruzensky, but them?",
+            "choice_data_list": [
+                "They're running to catch up with you.",
+                "They're running to catch up with you."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…Is that why they're up this late?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no doubt that Maruzensky has had a positive effect on the younger students.",
+            "choice_data_list": [
+                "Let's show <i>everyone</i> a run to chase after!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "…!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee, get everyone to run after me, huh… You really are something else, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee, get everyone to run after me, huh… You really are something else, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It still feels a little strange to see how much they look up to me."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But it is nice to know that everyone wants to catch up to me."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, I trust you, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, I trust you, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm going to show everyone such amazing racing that they'll have no choice but to come for me!",
+            "choice_data_list": [
+                "Let's go for it!",
+                "Let's go for it!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I'll go for it <i>full throttle!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Maruzensky's determination restored, she's ready to tackle the Satsuki Sho."
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "title": "Raffle Time!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's sunset and Manhattan Cafe and I are taking a stroll through town, making sure to avoid the evening sun, when…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Look… Ahead of us… there's a big crowd…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation for two"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Why don't you give it a go? Yes, <i>you,</i> the trainer in the back!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A raffle…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Whoa, I didn't see your buddy there! Y-you're more than welcome to join the fun too, little lady…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I glance at my right hand to see that I'm already holding a raffle ticket. I don't remember taking one, though…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um… Why don't we give it a try? This is probably some sort of sign…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Convinced, we grab the lever together. The raffle tumbler spins, whirring like the cogs of destiny!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "We won… the hot spring coupon!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The hot springs… First you trek to an inn deep in the mountains, where you take a long, warm soak in the spring waters… And then you…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Just go to bed?",
+            "choice_data_list": [
+                "Well, you could also have a nice chat or a good meal.",
+                "Well, you could also have a nice chat or a good meal."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That's… true. You could do those things as long as you had company.",
+            "choice_data_list": [
+                "You should go with your friend."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…With my friend?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But she wouldn't need a ticket. What are you…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I find myself the subject of a baffled look. I decide to go ahead and pass the ticket to her, when…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It vanishes right out of my hand! Where the heck did it go?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you… very much. It's kind of you to hold onto the ticket for me. Let's go when our schedule opens up."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Make sure you don't lose it in the meantime. Although, even if you do… I'm sure it'll find its way back into your pocket."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next moment, the vacation ticket is snug in my pocket. I'd better keep this lucky ticket safe and sound."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The deluxe carrot hamburger steak… This is a pretty good prize…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Look. The carrot's sticking out of the hamburger steak."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehe, it's rather cute. It's almost like…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A gravestone on a hilltop. A forgotten grave… that no one visits."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Let's imagine it as we eat. What type of person could it be, resting eternally below the ground?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her statements might be a little… detached from reality, but Manhattan Cafe looks happy. We enjoy the hamburger steak together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Carrots… And there are quite a lot of them. I'm happy to win all of these, but…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I don't think my stomach can handle this many. Could we save these carrots until tomorrow?",
+            "choice_data_list": [
+                "Why tomorrow?",
+                "Why tomorrow?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Well, sometimes when you wait a day, a few of them disappear, don't they? If some of them vanish, I think we could comfortably finish off whatever's left."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Did I say something strange?",
+            "choice_data_list": [
+                "No, not at all…",
+                "No, not at all…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We wait and eat the carrots the following day. I lack the courage to count them before we dig in."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A carrot… A single carrot."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But perhaps we should be grateful. This actually reminds me of a certain fable…",
+            "choice_data_list": [
+                "What kind of fable?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There once was a single carrot. Just the one. But the townspeople planted it in the ground, and hoped for the best. And then, miraculously…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Its roots stretched out and spread underneath the entire town. And before long, carrots were cropping up everywhere."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The townspeople were delighted. However, there were so many carrots that no matter how many they ate, they could never finish them…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Eventually, an orange forest consumed the town, and the carrots formed a spire that rose into the sky, and…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Well, about that carrot… should we plant it when we get back? Or should we just eat it?",
+            "choice_data_list": [
+                "Let's eat it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We split the carrot and wolf it down in a hurry. It isn't especially filling, but I feel an immense sense of relief."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A pack of tissues…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Shall we burn them?",
+            "choice_data_list": [
+                "Let's not."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Shall we bring them to life and make them move around?",
+            "choice_data_list": [
+                "I don't think that's necessary…",
+                "I don't think that's necessary…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Oh, okay. So they can just be tissues, then."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "To be used… and thrown away."
+        },
+        {
+            "name": "Monologue",
+            "text": "A vague shadow descends over Manhattan Cafe's face. Is she… disappointed?"
+        }
+    ]
+}

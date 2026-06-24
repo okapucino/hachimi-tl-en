@@ -1,0 +1,33 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Air Groove",
+            "text": "Phew…",
+            "choice_data_list": [
+                "Feeling tired?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "What do you take me for? That wasn't nearly enough to exhaust me."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Once we get back to the academy, we'll analyze this race. You go on ahead.",
+            "choice_data_list": [
+                "You're not coming with me?",
+                "You're not coming with me?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I… want to cool down a bit before heading back. I'll catch up to you, so no need to wait for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove claims she isn't tired, but her behavior says otherwise. It might be worth adjusting her schedule."
+        }
+    ]
+}

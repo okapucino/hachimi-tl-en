@@ -1,0 +1,54 @@
+{
+    "title": "京成杯にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "So who're you watching in today's race?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Do you even have to ask? Considering the current lineup, it's obviously Eishin Flash!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Yeah, true. She's the only logical choice, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Keisei Hai, and the amount of attention Eishin Flash is getting is rather high compared to the competition."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The audience seems to be favoring me not for my skill, but by default.",
+            "choice_data_list": [
+                "That doesn't change the fact that they expect great things from you.",
+                "That doesn't change the fact that they expect great things from you."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That is true, and for that, I want to meet their expectations."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In fact… I should naturally be able to do so just being myself."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This race is a no more than a checkpoint along my path. I cannot afford to stumble here.",
+            "choice_data_list": [
+                "Run like you normally do, and you'll be fine.",
+                "Run like you normally do, and you'll be fine."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Yes, that's right. I will do what must be done."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "After this will be the first Classic Triple Crown race—the Satsuki Sho."
+        }
+    ]
+}

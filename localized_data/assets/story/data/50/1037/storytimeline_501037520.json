@@ -1,0 +1,237 @@
+{
+    "title": "空飛ぶガイダンス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After training, I return to my office when…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oye! Get down from that tree! If somebody sees ya—"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "El, is that bird stalking you again?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! F-Flash?!",
+            "choice_data_list": [
+                "Wait… She's being stalked by a <i>bird?</i>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well, I've noticed that bird is often around El, and from what I've heard…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Haha! Wow, it's so weird, right? After all, why would a condor take a likin' to lil ol' <i>me?</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But people'll get scared if they see it hangin' around, so go on, you! Hurry back to the dor—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Uh, I mean… G-get back to the forest! I've tried to get it to go a million times, but…",
+            "choice_data_list": [
+                "But it won't listen to you, I presume?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I understand the situation now. I have an idea."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash approaches the tree where the bird is perched."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hear me, nameless bird. This is not your home."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is no hope of food, and those here will try to drive you away… You will find only hardship here."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We do not wish for you to suffer such a fate."
+        },
+        {
+            "name": "Monologue",
+            "text": "As if moved to the core by Eishin's words, the bird lets out a heart-wrenching cry."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I knew you would agree. Now, go… Fly to where you will be truly safe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Flap, flap, flap!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whaaa?! It's flown off to its nest! I'd yelled and yelled, but it wouldn't even budge for me!",
+            "choice_data_list": [
+                "That was a very convincing speech.",
+                "That was a very convincing speech."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. My parents taught me that all animals have a heart."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They said it is better to reason with them than to scold them. Besides…"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I had the feeling it would be easy to convey my thoughts to that bird, and that it would listen to what I said."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oooh! You sound like you know a lot about how to get your feelings across to others!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Flash, you gotta teach me your secrets! I never know when I'll run into Ma—er, my feathered admirer again, after all!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Sure. I wouldn't mind that, but I'm not sure I can explain how I do it.",
+            "choice_data_list": [
+                "Why not let her observe you for a day?",
+                "Why not give her some pointers?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. I shall add you to tomorrow's schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Good morning. Allow me to go over today's agenda with you."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We arrive at the track in five minutes and ten seconds. After twenty minutes and fifty seconds of warm-ups, there should be a headwind just as we start running laps."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thus, it will be possible to duplicate final straight conditions in which there will be no shelter from the wind."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You've not only planned everything down to the second but even thought about weather patterns?! Talk 'bout bein' precise!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That concludes our run. Let's relocate to the gymnasium in five minutes and perform pull-ups on the power rack for twenty-three minutes."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wh-whoa… How're you still so full of energy after all that sprintin'?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! Are ya really eatin' natto?! That's an exchange student's worst nightmare!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Lunch is fuel for the afternoon's activities. Consuming ample nutrition is a <i>must.</i> No exceptions."
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa continues watching Eishin Flash for the rest of the day."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Phew… And with the power rack finished… that concludes today's training."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I can't believe this is what a day in your life is like!",
+            "choice_data_list": [
+                "How was it?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Everything was so awesome! The way she schedules, her trainin' regimen, her nutrition management… It all leaves me speechless!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But I bet Mambo was real impressed by how stoic and perfect you are, which is why he listened to ya!",
+            "choice_data_list": [
+                "Who's Mambo?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Urk! Uh, um… Yeah, who <i>is</i> Mambo? Haha! What even is a \"mambo,\" am I right? Ahaha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems El Condor Pasa learned quite a few things today."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hm… I think I have one, then."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I believe that you need to convey your feelings with love."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "L-love?!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In order to have an earnest conversation with another, you must face the other party as an equal."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's necessary to value and respect your partner, and to talk <i>with</i> them rather than <i>at</i> them."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And when it comes to respecting and valuing your speaking partner, you must have—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Love!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Thinkin' 'bout it, all I ever did was tell him \"no\" and never tried to listen to what he had to say…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right, I'll give bein' more lovin' a try so I can keep Mambo happy an' healthy!",
+            "choice_data_list": [
+                "Who's Mambo?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Agh! Uhhh! Um, um!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Y'know, like m-mambo dancin'! I'm gonna try to reason with that condor with as much love an' passion as a mambo dance!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A wonderful mindset. I wish you the best of luck opening a line of communication with that bird."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems El Condor Pasa learned quite a few things today."
+        }
+    ]
+}

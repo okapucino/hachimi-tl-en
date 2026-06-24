@@ -1,0 +1,33 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Yawn…</i> Man, I'm beat. I can't stop yawning.",
+            "choice_data_list": [
+                "Did you not get enough sleep?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah. I was reading a cookbook last night, and sleepiness hit me like a truck."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I kept telling myself that fallin' asleep would mean I'd lost, so I fought against my drowsiness, tooth and nail!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Of course, I came out the winner! Held out until dawn—drowsiness got nothin' on me! Hahaha!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Yaaawn…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "In short, Hishi Amazon pulled an all-nighter."
+        }
+    ]
+}

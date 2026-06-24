@@ -1,32 +1,34 @@
 {
-    "no_wrap": true,
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Gooood… mor… ning……",
+            "text": "Goo… morn…ing… <i>Yawn</i>",
             "choice_data_list": [
-                "You look sleepy.",
-                "You look sleepy."
+                "Someone's sleepy.",
+                "Someone's sleepy."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed… I've been thinking until dawn for \nthe past few days…"
+            "text": "Yeah… These past few days, I've been up late thinking about something…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But because of that, I've come up with \nsomething…! \nProposed class goals for next month, 100 \nof them!"
+            "text": "But it's helped me come up with some ideas! A hundred proposals for next month's class goals!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now we just need to achieve one――"
+            "text": "Now I just need to consolidate them into one…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaaaa～～～～～wn… \nNn… I'll do…'mbest."
+            "text": "<i>Yawn…</i> I'll do my best…"
         },
         {
-            "text": "As class president, she cares about her \nclass so much that she doesn't seem to be \nsleeping very well…"
+            "name": "Monologue",
+            "text": "Her dutiful nature as class representative seems to be robbing her of her sleep."
         }
     ]
 }

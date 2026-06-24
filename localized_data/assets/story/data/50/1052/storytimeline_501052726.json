@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Haru Urara…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, Trainer! Look!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Look at all those plushies in the machine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow, they're all sooo cute! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, they look so soft and huggable! I just wanna <i>squeeeze</i> 'em all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara stares longingly at the plushies with sparkles in her eyes.",
+            "choice_data_list": [
+                "I'll win one for you!",
+                "I'll win one for you!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? You will?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Then I'll stand next to you and cheer you on! You can do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

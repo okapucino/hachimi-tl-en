@@ -1,43 +1,46 @@
 {
-    "no_wrap": true,
+    "title": "優等生修行、ですッ！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "On a day off――"
+            "name": "Monologue",
+            "text": "On a day off…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, let us go to the \"Zen Mediation \nExperience\"!!"
+            "text": "I'm all set! <i>Zazen</i> meditation workshop, here I come!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Unify one's mind and polish up on one's \nhonor roll student style… \nMy excellent idea! I must do my very best!"
+            "text": "Harmonizing my mind and polishing my presence as a model student… What an ingenious plan I've come up with! I have to do my best!"
         },
         {
             "name": "Monk",
-            "text": "Now, close your eyes and stay quiet. \nMake no sound, and concentrate…"
+            "text": "Okay, let your eyes slowly close. Concentrate and don't make a sound…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Roger, close my eyes!! \nAnd, stay quiet……quiet………!!"
+            "text": "Okay! Close my eyes! And be quiet… quiet…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Q, qui……e… t………"
+            "text": "Be… Q-U-I-E-T…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whew… phew… W, what a sense of fatigue. \nThis is what zen meditation, is all about…"
+            "text": "<i>Haaah, haaah…</i> I-I feel so tired. So <i>this</i> is zazen…"
         },
         {
-            "name": "Zen Meditation Participant",
-            "text": "Wow～! Thanks to zen meditation, I feel \nlighter in body and mind～!"
+            "name": "Zazen Trial Participants",
+            "text": "Ahhh! Zazen meditation is incredible! My mind and body feel so much lighter!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "W, what's this!? \nI'm not quite there yet… you say…!?"
+            "text": "H-how can that be? Does that mean… I… I didn't do it right?!"
         },
         {
-            "text": "Feeling her inexperience, Sakura Bakushin \nO became depressed…"
+            "name": "Monologue",
+            "text": "Her mood worsens as she's confronted with her own lack of experience."
         }
     ]
 }

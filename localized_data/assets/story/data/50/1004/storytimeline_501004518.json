@@ -1,0 +1,51 @@
+{
+    "title": "大・ピンチ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Trainer! Trainer! Oh, it's terrible, just awful!",
+            "choice_data_list": [
+                "What happened?!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer! Trainer! Oh, it's terrible! Just awful!",
+            "choice_data_list": [
+                "What happened?!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I was looking something up on my phone, and all of a sudden, this weird thing popped up!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Something about viruses and my personal information… What's going to happen to me?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at her phone, and it's merely a pop-up ad.",
+            "choice_data_list": [
+                "There's no problem. You can relax."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Really? You're sure?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Whew, thank goodness… That really threw me for a loop."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know I should learn how to use this thing properly, but it's just so hard to figure out. <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "All that worrying really seems to have worn Maruzensky out…"
+        }
+    ]
+}

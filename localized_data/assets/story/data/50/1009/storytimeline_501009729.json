@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Aw! And you were so close too!",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. What are you getting so worked up about?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "We had fun, and that's all that matters. Well, to me, anyways."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right, it's getting late. Let's head back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen said she was feeling unwell during training, so I've brought her to the infirmary."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It seems I was a little fatigued. I'm sorry to have worried you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But thanks to you, my mood has also rebounded. Now, shall we resume training?",
+            "choice_data_list": [
+                "Nuh-uh. No training until you've fully recovered.",
+                "Not a chance. I'll have to rethink your training regimen."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But thanks to you, my mood has also rebounded. Now, shall we resume training?",
+            "choice_data_list": [
+                "Nuh-uh. No training until you've fully recovered.",
+                "Not a chance. I'll have to rethink your training regimen."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You forbid it?! But I understand thoroughly how to cope with my weakened condition."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "With a little rest, I'll surely—",
+            "choice_data_list": [
+                "Nice try, but no!",
+                "Nice try, but no!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh… Well, you're being unusually strict today!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fine, then. Unfortunate as it may be, I'll do as you say and rest for the moment."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Stubborn ox…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to have Mejiro McQueen focus on resting for the remainder of the day."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What?! But you went through so much trouble to put it together!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can judge for myself whether I've reached my limits or not. This small setback is no proble—",
+            "choice_data_list": [
+                "By the time you collapse, it'll be too late."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ugh!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I've inconvenienced you with my poor self-management… I'm truly sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen's injury is taking a long time to heal. Maybe her mental state has had an impact on her recovery."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ngh… I understand."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This is all the result of my own inadequacies. This time, I will graciously accept my lot."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "However, I wish for my next training regimen to be stricter than this one!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I will get better as soon as possible, and next time, I will complete your tests without fail!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen gets better in no time, just as she declared she would. Starting the following day, she's in superb form."
+        }
+    ]
+}

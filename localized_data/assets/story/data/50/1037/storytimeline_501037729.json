@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "Hmm… What an unruly machine, indeed."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Please do not blame yourself for these results. I believe luck was simply not on your side this time.",
+            "choice_data_list": [
+                "Let me try one more time!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Don't do it. Giving in to the impulse to try \"one more time\" will lead you quickly toward the sunk cost fallacy and ruin our plans."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, I am grateful you are so motivated to win a plushie for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing…"
+        }
+    ]
+}

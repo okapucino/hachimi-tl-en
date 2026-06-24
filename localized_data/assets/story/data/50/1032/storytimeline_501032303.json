@@ -1,0 +1,72 @@
+{
+    "title": "デビュー戦の後に・思惑の外",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "That racer's name, I think it was Agnes Tachyon, right? She was amazing!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, she's already so talented, and she still has room for growth!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon's dazzling performance enraptures all those present at the race!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Phew! And that's how you do it!",
+            "choice_data_list": [
+                "Good job out there, Tachyon!",
+                "Great job out there, Tachyon!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why, if it isn't Trainer! As always, you have that pure and innocent look befitting of a model guinea pig!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Did you get the tea leaves I wanted?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh right, now isn't the time for this. I must speak to you about something else."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "With the debut race out of the way, instead of catching a breather, I must inform you of something important. You know what I'm getting at, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something important? And right after the debut race? If I might hazard a guess…",
+            "choice_data_list": [
+                "(Could it be about the next race?)"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My experimentation has reached a standstill, you see. I must return to the lab at once."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "With that said, I will take my leave."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that said, she does indeed, take her leave.",
+            "choice_data_list": [
+                "(…I should have known!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She promptly leaves without even a comment about the debut race or a remark about her future prospects."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, it remains true that she has garnered much attention as a noteworthy runner!"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "To celebrate New Year's, Fuji Kiseki and I go on our first shrine visit of the year together."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Have you decided what to pray for yet?",
+            "choice_data_list": [
+                "I'm praying you have a lot of success in your senior year, of course.",
+                "I'm praying you have a lot of success in your senior year, of course."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, what a coincidence! I'm going to pray for the same thing!"
+        },
+        {
+            "text": "We shuffle into line to wait for our turn at the shrine…"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Hey, isn't that Fuji Kiseki?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "O-oh, wow! H-hello! I always watch your races! I'm looking forward to watching this year too!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Thank you! I get the feeling I'll have great luck this year after receiving such sweet words of support."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'll do my very best, so I hope you'll continue cheering me on!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "I-I will!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Holy crap, that's Fuji Kiseki!"
+        },
+        {
+            "name": "Passerby C",
+            "text": "No way, are you for real?! Wh-what should we do? Should we go say hi?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "My, my, it's shaping up to be quite a day."
+        },
+        {
+            "text": "More and more people notice her, and Fuji Kiseki receives an endless stream of well wishes."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha. It feels strange to have so many people calling out to me on New Year's Day."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I suppose this is proof that I'm on everyone's radars now. Let's work hard this year too, Trainer.",
+            "choice_data_list": [
+                "Let's.",
+                "Let's."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now that we're done with our shrine visit, can I talk to you about our plans for today?",
+            "choice_data_list": [
+                "Sure, what's up?",
+                "Sure, what's up?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I know you've given me time off today since it's New Year's and all…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But, after receiving so much support from everyone, I really want to run!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What do you think? I'd like to train, but only if you're all right with it."
+        },
+        {
+            "text": "As much as I want to respect her desire to practice, I'd like her to rest too…",
+            "choice_data_list": [
+                "You should use today to rest up.",
+                "Let's sign you up for a New Year's marathon.",
+                "Let's do research on the races you plan to run!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, you're right. I guess I got a little carried away."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All right, then. My goal for today is to rest to my heart's content!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hey, since we're out already, why don't we see what kind of New Year's deals they have at the shopping district?"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Two red and white bean buns coming right up! Say, aren't you Fuji Kiseki?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, you know me?"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "Of course! Everyone does! You've been working so hard!"
+        },
+        {
+            "name": "Shopkeeper A",
+            "text": "I'm sure you'll do just fantastic this year too! Here, have an extra treat, on the house!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wow, thank you so much! I'll do my best!"
+        },
+        {
+            "text": "No matter where we go, it seems a lot of people have high hopes for Fuji Kiseki."
+        },
+        {
+            "text": "The challenges we'll be facing this year will be difficult, but thanks to everyone's support, she's fired up and ready for anything!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A New Year's marathon, huh? That's a great idea. It'll be like I'm training even though I'm still on break!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Speaking of, I recall my sweet ponies talking excitedly about a marathon in the shopping district."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Let's see if it's still possible to sign up!"
+        },
+        {
+            "text": "Thankfully, Fuji Kiseki is able to register for and run in the shopping district's marathon without a hitch."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Huff, huff!</i>"
+        },
+        {
+            "name": "Fuji Fan Club Member A",
+            "text": "Aaah! She's really here! She's actually running the marathon!"
+        },
+        {
+            "name": "Fuji Fan Club Member B",
+            "text": "You can do it, Fujiii!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe! Thanks for cheering me on, my ponies!"
+        },
+        {
+            "name": "Fuji Fan Club Members",
+            "text": "Fujiii! We love youuu!"
+        },
+        {
+            "text": "No matter where we go, it seems a lot of people have high hopes for Fuji Kiseki."
+        },
+        {
+            "text": "The challenges we'll be facing this year will be difficult, but thanks to everyone's support, she's fired up and ready for anything!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's a great idea!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The steep hill at the end of the final stretch will be killer. I'll have to be careful to reserve enough energy for it."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Let's see, these files are about last year's Takamatsunomiya Kinen…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ugh, my vision's blurry. I think I overdid it with my research…"
+        },
+        {
+            "text": "No matter where we go, it seems a lot of people have high hopes for Fuji Kiseki."
+        },
+        {
+            "text": "The challenges we'll be facing this year will be difficult, but thanks to everyone's support, she's fired up and ready for anything!"
+        }
+    ]
+}

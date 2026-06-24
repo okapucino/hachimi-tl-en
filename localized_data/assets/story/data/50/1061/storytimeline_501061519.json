@@ -1,0 +1,41 @@
+{
+    "title": "キングの心配事",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I catch a glimpse of King Halo shopping at the school store."
+        },
+        {
+            "name": "King Halo",
+            "text": "…Wait, why do I have a hole punch? I was looking for pudding…"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> I missed lunch too. What in the world am I doing?",
+            "choice_data_list": [
+                "Worried about something?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, it's you, Trainer. No, I'm not fretting over anything in particular."
+        },
+        {
+            "name": "King Halo",
+            "text": "I was just wondering how best to scold the younger students who caught colds and missed classes."
+        },
+        {
+            "name": "King Halo",
+            "text": "The notion of <i>my</i> juniors neglecting their physical well-being is simply inexcusable."
+        },
+        {
+            "name": "King Halo",
+            "text": "Because of them, even <i>I'm</i> feeling under the weather… Geez."
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo sighs, her expression downcast."
+        }
+    ]
+}

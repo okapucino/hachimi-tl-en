@@ -1,0 +1,226 @@
+{
+    "title": "門限破りは二流よ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "King Halo and I are on our way home after going out."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm? Wait a moment, Trainer.",
+            "choice_data_list": [
+                "Is everything all right?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "That poster over there is for a movie I've wanted to see for a while…"
+        },
+        {
+            "name": "King Halo",
+            "text": "I didn't even realize it was already showing. I'll have to go see it soon."
+        },
+        {
+            "name": "King Halo",
+            "text": "Wait a minute! It says today is the final day!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Of all the rotten luck! If I had known, I would've suggested going to see it today!",
+            "choice_data_list": [
+                "Do you want to go see it now?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Right now?! …Well, if we go right now, we can catch the final screening!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, but we can't! If we watch it now, we'll miss curfew!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm first-rate, after all! Breaking curfew is such second-rate behavior!"
+        },
+        {
+            "name": "King Halo",
+            "text": "But it would also be second-rate to let my last chance to watch the movie slip by…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ughhh! The truly first-rate choice must be…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, that was so fun! ♪ Watching it was the correct choice after all!",
+            "choice_data_list": [
+                "We aren't going to make curfew…",
+                "We aren't going to make curfew…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "What are you saying?! Are you giving up just like that?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I may have chosen to watch the movie, but that doesn't mean I chose not to obey curfew!"
+        },
+        {
+            "name": "King Halo",
+            "text": "The phrase \"give up\" isn't even in my vocabulary! I <i>will</i> abide by the curfew!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Come on, Trainer, now's your chance to shine! I give you permission to come up with a brilliant plan!",
+            "choice_data_list": [
+                "You want <i>me</i> to figure it out?!",
+                "You want <i>me</i> to figure it out?!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "As my trainer, you must be prepared to do whatever it takes! There's no time to waste—think!",
+            "choice_data_list": [
+                "Let's sneak into the dorm without being seen.",
+                "Let's find a valid reason for being late."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Sneak in? I wonder if that's possible…"
+        },
+        {
+            "name": "King Halo",
+            "text": "While you distract the dorm leader, I could tiptoe past…"
+        },
+        {
+            "name": "King Halo",
+            "text": "It's not a bad plan, but there's no room for error!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After making sure King Halo is well hidden in the bushes, I call out to the dorm leader."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, if it isn't King's trainer. What can I do for you?",
+            "choice_data_list": [
+                "Pretty nice weather we're having, huh?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The weather? Well, now that you mention it, the clear night sky is rather beautiful."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Snap!</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm? Did you hear something coming from the bushes just now?"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Meow… Meow!</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, it was merely a cute little kitten."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "…Hehe, you've certainly got your work cut out for you, Trainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "She's accompanied by a guardian, so I'll turn a blind eye this time. But could you be a bit more careful from now on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to her benevolent dorm leader, King Halo avoids becoming second-rate."
+        },
+        {
+            "name": "King Halo",
+            "text": "A valid reason? Like what?",
+            "choice_data_list": [
+                "That's what we're going to figure out right now."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hey! Don't tell me you don't have any ideas!"
+        },
+        {
+            "name": "King Halo",
+            "text": "The longer we think, the later I'll be! I'm heading to the academy!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh…</i> Even if I ran faster than a bullet train, I wouldn't make it on time."
+        },
+        {
+            "name": "King Halo",
+            "text": "What will the dorm leader have to say about a first-rate student like me breaking curfew…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What will I have to say about what, now?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Gyaaah! Fuji! What are you doing here?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Have you come to detain me for committing an act unbecoming of a first-rate student?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I merely came out to procure essential dorm supplies."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And, by some divine providence, I've stumbled upon the two of you! Would you be willing to help me with the shopping?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm going to have a lot to bring back, and I could certainly use a hand.",
+            "choice_data_list": [
+                "That sounds like a valid reason to me.",
+                "That sounds like a valid reason to me."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "A valid reason? For what?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh! Right! If the dorm leader asked me for help, it would be a perfectly justifiable reason for being late!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A reason for being late?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, no, it's nothing! Ohohoho!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Feel free to buy as much as you like! I'll happily help you carry it all!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's heartening to hear. Then I shall gratefully welcome your assistance."
+        },
+        {
+            "name": "Monologue",
+            "text": "In exchange for lugging around a large quantity of goods, King Halo avoids punishment for breaking curfew."
+        }
+    ]
+}

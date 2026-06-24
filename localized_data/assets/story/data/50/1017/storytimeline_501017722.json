@@ -1,0 +1,41 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I drop in on Symboli Rudolf to arrange our next training session, but she seems a little under the weather."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ngh…",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Just a headache, nothing more. All it needs is time."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "More to the point, there is a mountain of work to do before the end of the day."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have reference documents to compile for this week's budget meeting, requisition forms to approve, and more besides…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I would like to get it all out of the way as quickly as possible, but… Ngh."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If it weren't for this headache, I would be done by now. Nothing can ever be simple, it seems…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Symboli Rudolf's headache is causing her more trouble than she's willing to admit."
+        }
+    ]
+}

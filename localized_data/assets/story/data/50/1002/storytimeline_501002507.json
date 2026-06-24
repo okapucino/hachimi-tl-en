@@ -1,0 +1,50 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka has received a letter from a fan."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A letter? Oh, it's from a young Umamusume.",
+            "choice_data_list": [
+                "That's great!",
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes… It's thanks to my fans' support that I'm able to enter certain races."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Still, it does feel a little strange."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm often complimented on my racing…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But I don't understand how people can just watch on without feeling tempted to run themselves.",
+            "choice_data_list": [
+                "It's because watching you run is satisfying enough.",
+                "It's because watching you run is satisfying enough."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Interesting… So, that's how they feel."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Then… I suppose I'll have to make sure I keep running the way I do."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Silence Suzuka has come to better understand the feelings of her supporters."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ouch! Yeeowch! I'm under attack!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Is Taiki Shuttle hurt?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Somebody's gotten inside my head! Betcha this is the work of a ninja!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It feels all prickly—and sometimes it throbs like ya wouldn't believe! That ninja's throwin' daggers right on beat!",
+            "choice_data_list": [
+                "Do you mean you have a headache?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, it's nothin'! Pain, pain, go away! Don't come back another day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle is having a hard time dealing with her headache…"
+        }
+    ]
+}

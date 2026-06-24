@@ -1,0 +1,58 @@
+{
+    "title": "Extra Training",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser has just completed her full training regimen, when…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey, Trainer! I want to run for a bit longer today!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Fuku told me that my lucky item today is the moon!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I think I might get some kind of amazing power if I run at night! This is my big chance to go beyond my ordinary self!",
+            "choice_data_list": [
+                "Get out there and shoot for the moon!",
+                "Sorry, but you'll end up working yourself too hard."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay! Get ready to see my moonlight powerup!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Up, up, and away I go! Ei, ei, mun! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser happily continues running well into the night."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hrm… But if the power comes from moonlight…",
+            "choice_data_list": [
+                "Wouldn't just looking at the moon be enough?",
+                "Wouldn't just looking at the moon be enough?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, now that you mention it, she never said I had to run."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "In that case, I'll just gaze at the moon from my room tonight until I'm full of power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that decided, Matikanetannhauser returns to her dorm."
+        }
+    ]
+}

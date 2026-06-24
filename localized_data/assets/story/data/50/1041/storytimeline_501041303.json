@@ -1,118 +1,124 @@
 {
-    "no_wrap": true,
+    "title": "デビュー戦の後に・バクシンスタート！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmhm… \nHmmmhmhmhm…!"
+            "text": "Mmmm… Mmhm!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ack―!! \nI could see it!!",
+            "text": "Yes! I can see it!",
             "choice_data_list": [
-                "What?"
+                "See what?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm the one who's going to run down the \nBakushin Road with my overwhelming \nspeed!"
+            "text": "I can see myself running at a speed like never before, charging down the Bakushin Road!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come, now, Trainer, let's \nget this thing going!"
+            "text": "Trainer, let us Bakushin with gusto!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "First of all, which race shall we run for \nnext year's Satsuki Sho!"
+            "text": "First off, what races shall I compete in to ready myself for the Satsuki Sho?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Since I'm the one running it, it's got to be \na G1! \nAsahi Hai FS? Maybe the Hanshin JF!",
+            "text": "It's me running, so it has to be a G1! The Asahi Hai Futurity Stakes? Or perhaps the Hanshin Juvenile Fillies!",
             "choice_data_list": [
-                "(GI fixation!?)"
+                "(She's completely set on G1 races!)"
             ],
             "color_text_info_list": [
-                "Asahi Cup FS",
-                "Hanshin JF"
+                "Asahi Hai Futurity Stakes",
+                "Hanshin Juvenile Fillies"
             ]
         },
         {
-            "text": "It's impossible for her to run in a G1 \nrace if she hasn't proven herself yet. \nIf that's the case, what she should be \nrunning now is…",
+            "name": "Monologue",
+            "text": "She doesn't have enough experience to debut in a G1 race yet. For now, she's better off competing in something like…",
             "choice_data_list": [
                 "I have a suggestion."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's hear it!",
+            "text": "I'd like to hear it!",
             "choice_data_list": [
-                "Why don't you run the Keio \nCup Junior Stakes?"
+                "Would you like to try running in the Keio Hai Junior Stakes?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmhm…"
+            "text": "Hm…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wait, 1400 meters!?"
+            "text": "Wait, 1,400 meters?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Isn't that a little short to be aiming for the \nSatsuki Sho and other Classic races!?",
+            "text": "But I'd like to make the Satsuki Sho my first Classic race! Wouldn't that be way too short by comparison?!",
             "choice_data_list": [
-                "The Junior class races are \nall short distances.",
-                "The Junior class races are \nall short distances."
+                "Most of the junior-year races are short distance.",
+                "Most of the junior-year races are short distance."
             ]
         },
         {
-            "text": "To be honest, I think even 1400m is too \nlong for Sakura Bakushin O…"
+            "name": "Monologue",
+            "text": "Honestly, I feel like even 1,400 meters might be too long for Sakura Bakushin O…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmmm…! \nFor that matter――",
+            "text": "Guh! But, but—",
             "choice_data_list": [
-                "As class president, you have to show your good faith."
+                "As class representative, you must exercise humility."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm…!? \nFaith?"
+            "text": "Huh?! Humility?"
         },
         {
-            "text": "It's cool to jump into a G1 race out of \nnowhere, but some people may be so \nsurprised by Sakura Bakushin O's speed \nthat they'll collapse."
+            "name": "Monologue",
+            "text": "Jumping headfirst into G1 races might seem cool, but I'm worried some people might keel over in shock if they see her speed."
         },
         {
-            "text": "So, I explained to her that she would first \nshow her face in the Keio Haiyu Junior \nStakes and then gradually let her speed \nbe known…",
+            "name": "Monologue",
+            "text": "I try to convince her it would be best to first show up at the Keio Hai Junior Stakes and gradually let everyone get used to her speed…",
             "choice_data_list": [
-                "That's kindness, don't you think?",
-                "That's kindness, don't you think?"
+                "Don't you think that's the kinder thing to do?",
+                "Don't you think that's the kinder thing to do?"
             ],
             "color_text_info_list": [
-                "Keio Cup Junior S"
+                "Keio Hai Junior Stakes"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's…"
+            "text": "I think…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's absolutely true―!!"
+            "text": "You're right!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood. In my next target race, I'm \ngoing to bring my speed to the world!"
+            "text": "Understood. Then for the next race, the goal is to let the world at large witness my speed!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, let's get you used to hearing \npeople say \"too fast\"!"
+            "text": "In no time, the crowd will be used to chanting \"Whoa, so fast!\""
         },
         {
-            "text": "At any rate, this is how I decided our next \ntarget would be the Keio Haiyu Junior S."
+            "name": "Monologue",
+            "text": "One way or another, we decide our next race will be the Keio Hai Junior Stakes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "BakushinBakushiiiin!"
+            "text": "Bakushin, BAKUSHIIIN!"
         }
     ]
 }

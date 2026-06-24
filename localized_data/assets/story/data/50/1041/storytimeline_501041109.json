@@ -1,164 +1,173 @@
 {
-    "no_wrap": true,
+    "title": "クリスマス",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "The day before Christmas, after training \nwas over."
+            "name": "Monologue",
+            "text": "One winter evening, after training…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, what are your plans for tomorrow?",
+            "text": "Trainer, do you have anything planned for tomorrow?",
             "choice_data_list": [
-                "Nothing special, I guess."
+                "No, nothing in particular."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see! Then, I shall do you the honor of \ngoing out somewhere together with me!",
+            "text": "I see! Well then, I will hang out with you!",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, then, farewell―!",
+            "text": "And so, farewell!",
             "choice_data_list": [
-                "Where and when!?"
+                "When and where?!"
             ]
         },
         {
-            "text": "I then managed to get the details of the \nmeeting, and the next day…"
+            "name": "Monologue",
+            "text": "I ask for the details after that. Then comes the next day…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oya! \nYou're quite early, Trainer.",
+            "text": "Well, well! You're quite early, Trainer.",
             "choice_data_list": [
-                "I thought Bakushin O would get here with her usual \nspeed."
+                "I figured you would also come early."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That is true! \nI'm an honors student, after all!",
+            "text": "Well obviously! I am a model student after all!",
             "choice_data_list": [
-                "But, I thought you said an hour ago was early."
+                "Perhaps an hour before might be <i>too</i> early."
             ]
         },
         {
-            "text": "Our engagement is at eleven. \nAnd it's only 10:00 now."
+            "name": "Monologue",
+            "text": "We decided to meet at 11 a.m. It's 10 a.m. right now."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's good to be fast―rather, early! \nSo, with all haste, let's get to it!",
+            "text": "The early bird gets the worm! Let us depart at once!",
             "choice_data_list": [
                 "Where to?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, well, I can understand your \nexcitement, but please do settle down."
+            "text": "Now, now. I understand not being able to wait, but there's no need to rush."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Because I've learned how to spend \nChristmas in a proper and exemplary way!",
+            "text": "I have read up on the proper way to spend the holidays just for today!",
             "choice_data_list": [
-                "An exemplary Christmas?"
+                "The proper way?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Precisely! That's what the magazine my \nclassmate was reading said!"
+            "text": "That's right! That's what it said in the magazine my classmate was reading!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If it's said to be an exemplary way to spend \none's time, then there's no choice but to \nput it into practice!"
+            "text": "And if there's a proper way, then the only thing left to do is to test it for ourselves!"
         },
         {
-            "text": "There was a part of me that was a little \nconcerned when I heard it was from a \nmagazine her classmates were looking at, \nbut I decided to just go along with it without \nsaying anything."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "First things first, lunch! \nThe place should be around here…"
+            "name": "Monologue",
+            "text": "Although I have my concerns as to exactly what was in the magazine her classmate was reading, I decide to follow her without saying a word."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Holdupholdup, looks like it's right over \nthere! \nThat brick building is an Italian restaurant!"
+            "text": "First up is lunch! There's a shop around here I have my eye on…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It certainly has an Italian look to it! \nAnd with so few people around, it's like a \nnice little secret hideaway!",
+            "text": "Ooh, there it is! The brick oven Italian restaurant!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The place really has that Italian vibe! It's great that it's a hidden spot too, since there aren't many people around.",
             "choice_data_list": [
-                "Maybe it's because it's still early?"
+                "Maybe it's still too early for food?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It'll be just fine! \nIt's an early-speedy lunch!"
+            "text": "I'm sure it'll be fine! Let's have lunch at once!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's gooo―!"
+            "text": "Time to order!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Mmm～… ♪ \nThat was deeelicious!"
+            "text": "Mmm! ♪ That sure was tasty!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And the desserts were so sweet, it was \nalmost like a secret spell was cast on them!"
+            "text": "That dessert we got off the hidden menu was really sweet!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, sure enough, I suppose I just couldn't \nhide my class president aura, can I?"
+            "text": "Or maybe the fact I'm class representative was no secret to them, after all?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I had no idea that they would serve it in a \nheart-shaped bowl… I could feel the \nwaitress's unwavering trust in me!",
+            "text": "They served it on a heart-shaped plate… meaning, the server trusted me to handle it!",
             "choice_data_list": [
-                "(Is that so?)",
-                "(Is that so?)"
+                "(Really?)",
+                "(Really?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now then, onto the shopping! \nLet me see here, I think I recall the \nmagazine said that general store is the \nplace to go!"
+            "text": "Next up is shopping! Um, do you have any shops in mind?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmmm, there's nothing in particular that I \nwant right now. \nBut if it's the exemplary place to be, let's \ngive it a shot."
+            "text": "Neither of us are really looking for anything, huh? Let's just go to the places the magazine suggested."
         },
         {
-            "text": "After that, we window-shopped at a \ngeneral store that sold Christmas \nornaments, and then watched a lights \ndisplay…"
+            "name": "Monologue",
+            "text": "After that, we do some window shopping around a variety store that sells holiday ornaments. When we're done, we also check out the light display at night."
         },
         {
-            "text": "It turned into a full day out with Sakura \nBakushin O."
+            "name": "Monologue",
+            "text": "All in all, we spend the whole day together."
         },
         {
-            "text": "Then, after we'd finished dinner…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ahhh, now that was a very fun day! \nWasn't it amazingly exemplary?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If we finish the final item on our itinerary \nstrong, it'll be a perfect score! \nLet's see, I think the last one is……"
+            "name": "Monologue",
+            "text": "After having some dinner with her…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh, right! Let's hug it out under the starry \nnight sky!"
+            "text": "What a day! We had so much fun! Don't you think the itinerary for today was really up to snuff?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……Wait, hug!? \nEeehh, why?!"
+            "text": "And now for the perfect end to round off a perfect day! What did the magazine say to do again?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But it looked like it most certainly, definitely, \nundeniably did say that! Could I have \noverlooked something?!",
+            "text": "Oh yes! Let us embrace under the starry sky!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…Wait, embrace?! H-huh?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But that's what the magazine said! Am I missing something?!",
             "choice_data_list": [
-                "Wasn't today a plan for a date, though?"
+                "Are you sure the magazine wasn't talking about what to do on a date?"
             ]
         },
         {
-            "text": "When I look back the day, I feel like I \nwent on your typical, run-of-the-mill date \nplan, so to speak."
+            "name": "Monologue",
+            "text": "Thinking back on today, everything was pretty date-like today."
         },
         {
             "name": "Sakura Bakushin O",
@@ -166,153 +175,157 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, you're saying that my Trainer and I have \nbeen on a date this whole time?"
+            "text": "All this time, I've been on a date with you?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "<i>Chowaaaahh――!?</i>"
+            "text": "Whaaa?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aah! Date! \nNowaynowaynoway, <i>no way!</i>"
+            "text": "A date?! No way, no way, no waaay!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To think that the class president herself \nwould take part in impure relations!!"
+            "text": "To think, I, a class representative, would sully our camaraderie!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sakura Bakushin O, today's \ndisappointment!!",
+            "text": "I, Sakura Bakushin O, have ruined this day!",
             "choice_data_list": [
-                "(Today?)"
+                "(Ruined?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do I dooo!? \nI can't face my fellow classmates like this!"
+            "text": "Whatever shall I do? How can I show my face to my classmates again?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaahhh, am I going to be dragged into \nschool for punishment tomorrow!?"
+            "text": "What if I am sentenced tomorrow to be paraded about the academy grounds as a criminal?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As punishment for betraying everyone's \ntrust, will I forever be branded as a good- \nfor-nothing class president―!?"
+            "text": "What if I get deemed a bad class representative as punishment for betraying their trust?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, what do I dooo～!?",
+            "text": "What now, Trainer?!",
             "choice_data_list": [
-                "……Good job on your patrols!"
+                "…Good job on the patrol today!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!",
+            "text": "Huh?",
             "choice_data_list": [
-                "I didn't see any students getting carried away!"
+                "Looks like there weren't any students loitering about!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohhh～!"
+            "text": "Ohhh!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's right! \nNone whatsoever!",
+            "text": "Yes, yes, indeed!",
             "choice_data_list": [
-                "Right then, let's go home!",
-                "Right then, let's go home!"
+                "Then, let's head back!",
+                "Then, let's head back!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yessir!"
+            "text": "Okay!"
         },
         {
-            "text": "And so, that was how I spent a wholesome \nChristmas with Sakura Bakushin O."
+            "name": "Monologue",
+            "text": "And that's how I ended up spending the holidays with Sakura Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――Well, I suppose it's alright!",
+            "text": "Well, there shouldn't be a thing to worry about!",
             "choice_data_list": [
-                "Are you sure?",
-                "Are you sure?"
+                "Really?",
+                "Really?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Because if it's with your Trainer, it's not \nlike it's an impure relationship."
+            "text": "Since it's you and me, Trainer, I know there's nothing impure about us."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In fact, I'd say it's a very pure affair!"
+            "text": "In fact, I would call what we have the purest of camaraderies!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However, hugging is a no-go for the \nclass president, so I'll give you something \nspecial instead!",
+            "text": "However, as class representative, hugging is out of the question. But I have prepared a little something as replacement!",
             "choice_data_list": [
-                "Something special?"
+                "Replacement?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed! \nIt's a notebook!"
+            "text": "Here! It's a pocket book!"
         },
         {
-            "text": "Sakura Bakushin O gave me a personal \norganizer to help me keep track of my \nmanagement schedule."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I thought you might need it before \nthe new year! Since I'm the impossibly \nintelligent and thoughtful class president!"
+            "name": "Monologue",
+            "text": "Sakura Bakushin O's present is a planner that's perfect for scheduling."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I've even filled in the schedule for you! \nHere are my future race plans!"
-        },
-        {
-            "text": "I flipped through the pages and saw G1, G1, \nG1…… \nThere was a chock-full schedule of races."
+            "text": "I thought it'd be useful, since the new year's around the corner and all! See, I'm a pretty attentive class rep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "For now I'm thinking we'll enter every race, but I'll book an appointment to hash it out \nwith you, Trainer!"
+            "text": "Every race I plan to enter is already written down there for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I flick through the diary, I see \"G1, G1, G1\", over and over. It is crammed full of races."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Canceling appointments is a Miracle-no-go! \nLet's Bakushin together next year, too!",
+            "text": "I think that's every race I've got my eye on, but I've put your plans down as well!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And canceling anything that's written down is a super-duper no-go! Here's to another Bakushin year with you!",
             "choice_data_list": [
-                "Without a doubt. Thanks!"
+                "It would be my pleasure, thank you!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fufuu, you're very welcome!"
+            "text": "Hehe, you're welcome!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Aaaahhh―!? \nIt's already so late!?"
+            "text": "Huh?! It's this late already?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class presdient, I absolutely cannot \nbreak the curfew!"
+            "text": "As class representative, I must not break curfew!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's Bakushin, Trainer! \nI'll lead you along this time, just for you!",
+            "text": "Let us Bakushin, Trainer! This time, I'll pull you along as a treat!",
             "choice_data_list": [
-                "Huh!?"
+                "Huh?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, give me your hand!"
+            "text": "Here, grab my hand!"
         },
         {
-            "text": "…And thus, the noisy yet joyful \nChristmas night went on."
+            "name": "Monologue",
+            "text": "…And so, our fun but rowdy winter evening draws to a close."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's・Bakushiiiin!"
+            "text": "LET'S BAKUSHIIIN!"
         }
     ]
 }

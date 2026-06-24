@@ -1,0 +1,424 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Maruzensky and I go shopping together one day…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm… These green onions look wonderful."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Excuse me! Could I have some of these along with the cabbage?"
+        },
+        {
+            "name": "Vegetable Seller",
+            "text": "You certainly have a good eye for produce! Take a raffle ticket too, as a gift!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "A gift? You're giving them out to everyone, aren't you?"
+        },
+        {
+            "name": "Vegetable Seller",
+            "text": "Hahaha! You caught me!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sorry to keep you waiting, Trainer! ♪",
+            "choice_data_list": [
+                "Finished with your shopping?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sorry to keep you waiting, Trainer! ♪",
+            "choice_data_list": [
+                "Finished with your shopping?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yep, I'm all set!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But let's enjoy our day a bit longer! You see, that old lady told me something interesting…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ta-da! Shall we try it together?",
+            "choice_data_list": [
+                "Oh, I see! You want to play the raffle?",
+                "Oh, I see! You want to play the raffle?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's right! I got a ticket from the lady at the grocery store! We can't <i>not</i> use it, right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And if I win, I thought I could reward you for coming out with me today by giving you the prize!",
+            "choice_data_list": [
+                "Do you really think you'll win?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And if I win, I thought I could reward you for coming out with me today by giving you the prize!",
+            "choice_data_list": [
+                "Do you really think you'll win?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You dare doubt me? Haha! Well, I can't wait to see your reaction when I win the grand-prize! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Without further ado, allow me to show you the fabled Maruzen luck!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C'mon, grand-prize! Let's see that grand-prize!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky hums as she cranks the handle of the raffle spinner."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "What?! I can't believe it!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer, did you hear that?! I won the grand-prize!",
+            "choice_data_list": [
+                "That's amazing!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer, did you hear that?! I won the grand-prize!",
+            "choice_data_list": [
+                "That's amazing!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know, right?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, here you go! This bodacious prize is all yours, Trainer!",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, here you go! This bodacious prize is all yours, Trainer!",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel guilty receiving something like this just for going shopping with Maruzensky. And besides, she's the one who won it.",
+            "choice_data_list": [
+                "No, I can't accept this.",
+                "No, I can't accept this."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, come on. You don't have to be so serious all the time!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm… Okay! How about we make it a date instead, then?",
+            "choice_data_list": [
+                "…A date?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, just like today's shopping trip! You'll come with me on the hot spring trip!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, just like today's shopping trip! You'll come with me on the hot spring trip!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I'm mega busy this year…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So how about next spring? I'm sure we'll have some free time then.",
+            "choice_data_list": [
+                "Well, in that case…"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Done deal! I'll invite you when I get everything sorted out!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm going to make this trip a lot of fun, so be ready to have a blast!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how I end up promising to go on a hot spring trip with Maruzensky next year."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Booyah! As if there were any doubt! ♪",
+            "choice_data_list": [
+                "Way to go, Maruzensky!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ehehe!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh… Sorry, I got a bit carried away, didn't I?",
+            "choice_data_list": [
+                "You got the first place prize, so you should feel happy."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Just remember you said that when I go even <i>more</i> over the top! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Just remember you said that when I go even <i>more</i> over the top! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahem…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Why don't we eat this hamburger steak together for lunch?",
+            "choice_data_list": [
+                "Sounds great!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Why don't we eat this hamburger steak together for lunch?",
+            "choice_data_list": [
+                "Sounds great!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! I'm glad to see you can cut loose a little yourself! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! I'm glad to see you can cut loose a little yourself! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how Maruzensky and I end up sharing a deluxe carrot hamburger steak for our next lunch."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow! That sure is a lot!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But having this many carrots is kind of too much, even between the both of us… Carrots go bad fast, after all.",
+            "choice_data_list": [
+                "How about sharing them with everyone, then?",
+                "How about sharing them with everyone, then?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But having this many carrots is kind of too much, even between the both of us… Carrots go bad fast, after all.",
+            "choice_data_list": [
+                "How about sharing them with everyone, then?",
+                "How about sharing them with everyone, then?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ooh, nice idea, flour tortilla! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, who's hungry?! Come get some carrots!"
+        },
+        {
+            "name": "The Two",
+            "text": "<i>Yaaay!</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Teehee! Everyone's looking stoked after gobbling up those carrots!",
+            "choice_data_list": [
+                "Here, you have one too."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Why thank you! ♪ But don't forget yours, Trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Why thank you! ♪ But don't forget yours, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky and I each take a single carrot for ourselves."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're slightly salty and have a hardiness that soaks pleasantly into our tired bodies."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Aww, dang!",
+            "choice_data_list": [
+                "Well, at least you won <i>something,</i> right?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, I guess a little bit of good luck is better than none at all."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But a single carrot doesn't really make for a great present… Hmm…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, I know! I'll use this and the green onions I bought earlier to make a stir-fry!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's my mom's secret recipe, so it'll be the bomb! You're gonna love it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later on, we enjoy a delicious stir-fry made with the carrot that Maruzensky won in the raffle."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, that's a blank—tough luck! Here's this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Bogus!</i> I can't believe it!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ugh… Sorry, Trainer. My Maruzen luck let me down today…",
+            "choice_data_list": [
+                "It's okay. You win some, you lose some."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ugh… Sorry, Trainer. My Maruzen luck let me down today…",
+            "choice_data_list": [
+                "It's okay. You win some, you lose some."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Aww, I wanted to win you something nice… Mega lame…"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Maruzensky's shoulders drooping, we leave the shopping street."
+        }
+    ]
+}

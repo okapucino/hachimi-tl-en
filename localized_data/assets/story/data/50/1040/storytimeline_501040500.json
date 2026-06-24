@@ -1,0 +1,50 @@
+{
+    "title": "名指導",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold City",
+            "text": "Oh look, it's about time for me to go to training."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, did you see this, City? You're on the cover!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…Is that the racing magazine?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "\"Gold City, the runner captivating crowds as she bolts across the track, leaving a ray of gold in her wake.\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Everyone's talking about your heated race! They say you've gotten so much faster now!"
+        },
+        {
+            "name": "Gold City",
+            "text": "…!"
+        },
+        {
+            "name": "Gold City",
+            "text": "So yeah, that happened. Talk about a cringe headline, though."
+        },
+        {
+            "name": "Gold City",
+            "text": "…Thanks, Trainer. You made this happen."
+        },
+        {
+            "name": "Gold City",
+            "text": "They're looking at my running now. And if I can become even faster…",
+            "choice_data_list": [
+                "You'll be featured for an entire issue!",
+                "You'll be featured for an entire issue!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Heh, maybe… Now that you've said it, you've got to make it happen, yeah?"
+        }
+    ]
+}

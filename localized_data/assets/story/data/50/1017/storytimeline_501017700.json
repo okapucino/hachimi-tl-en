@@ -1,0 +1,40 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf looks unusually bleary-eyed today.",
+            "choice_data_list": [
+                "Up late last night?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "One might say that. I fear I got a little absorbed in my reading."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Punnery is a truly bottomless art. Did you know that overly elaborate rhymes can make a joke <i>less</i> amusing?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Brevity is the soul of wit, indeed. Timing is as crucial in comedy as it is in racing.",
+            "choice_data_list": [
+                "R-right…"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But no matter how I racked my brain, I couldn't think of a good punchline. Before I knew it, it was past midnight…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You could say it wasn't very much… pun."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf's grogginess seems to have had a serious effect on the quality of her jokes."
+        }
+    ]
+}

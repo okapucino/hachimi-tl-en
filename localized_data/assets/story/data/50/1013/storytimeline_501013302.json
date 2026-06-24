@@ -1,0 +1,337 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from an outing, Mejiro McQueen and I swing by the shopping district."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh? A large crowd has gathered over there."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A raffle… That seems enjoyable. Do you think there's a surefire way to win?",
+            "choice_data_list": [
+                "The only thing you can count on is your luck."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Only my luck?! Then there's no reason to hesitate."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Neither rank nor acquired skill are relevant if it's only a matter of luck."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In situations such as this, there can be no favoritism. Oh, what a thrill!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I shall get my raffle ticket as soon as possible. I can buy some ribbons or something."
+        },
+        {
+            "name": "Monologue",
+            "text": "…And so we receive one raffle ticket."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now, we only have one chance. Let's focus all our energy on this, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the two of us pray for good luck, we grasp the lever together and turn the raffle tumbler."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What? Is this really true?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "We did it, Trainer! We got the jackpot prize!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A travel voucher for two. I can imagine it now!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gazing at the autumn leaves, eating delicious food, enjoying a hot bath, and…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "W-w-wait a moment!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(I've just won a coupon for a hot springs trip! This is an event most unimaginable!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(I mustn't get ahead of myself; it's unbecoming. I know! I should entrust these to my trainer!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ahem! Now that I think about it, I'm not restricted in the way I choose to use these vouchers."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Here, Trainer. Use them however you like."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(This is the best option. I maintain proper courtesy, and Trainer will hopefully—)",
+            "choice_data_list": [
+                "No, you should have them. You get to choose."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?! Th-this puts me in an awkward position! Don't… Wait, whaaat?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(You dummy! Why are you trying to put it back on me?! Now it seems like I'm the only one desiring this trip.)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Since it's come to this…)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…I shall reserve them for later.",
+            "choice_data_list": [
+                "Reserve?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes. In the interest of fairness, I am entrusting them to you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I shall decide how to use them only after heavy deliberation. It's an immense privilege, after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's making a bigger deal of this than necessary. Still, I end up holding on to the coupon in her stead."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My, a carrot hamburger steak! It looks positively scrumptious."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "B-but…",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You should have it. If I ate it, I'd gain wei—I mean, I'd feel terribly guilty."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You want to eat it, don't you? There's no need to deny yourself the pleasure.",
+            "choice_data_list": [
+                "Uh, no, not really…"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Please, admit you want to eat it! If you don't, I'll end up taking it, you know?",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't \"go ahead\" me! Why you…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fine, then we will eat it together. If we each take half, it will be half the calories but all the deliciousness."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, it might be double the deliciousness. Or maybe… double the happiness?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "N-never mind me. I'm just a little worked up from winning something so nice."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, we amiably split the hamburger steak and eat it together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Second-prize… It's a so-so outcome, yet strangely, I feel a sense of accomplishment."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Who could have imagined that a single piece of paper could be exchanged for so much food? It's an achievement in its own way, don't you think?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That, I can accept. Now, let's go.",
+            "choice_data_list": [
+                "…Wait, what about the carrots?!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? Oh, that's right. I ought not to forget the actual prize."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Although, that's not why I wanted to play the raffle."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I simply wanted to have a chance to demonstrate my brilliance. That's all…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Accepting the prize would put me in an awkward position. Just look at how many there are."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, we decide to have the heap of carrots delivered to the Mejiro family estate. Days later, I receive a written invitation to a \"carrot banquet.\""
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Just one carrot… That's rather depressing."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So this is the limit of my potential… A single carrot…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "By the way, Trainer. Do you know what season follows winter?",
+            "choice_data_list": [
+                "Spring. But why do you ask?",
+                "Spring. But why do you ask?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, look at that, a boutique just a few shops down. If I buy some spring clothing there, I may happen to get another raffle ticket."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Then, I would have no choice but to play the raffle again… Please excuse me.",
+            "choice_data_list": [
+                "Wait a sec!",
+                "Wait a sec!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I prevent her from wasting any more of her money. She seems very frustrated by the raffle result."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tissues… Hehe… It's exactly what I wanted.",
+            "choice_data_list": [
+                "What for?",
+                "What for?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To wipe away my tears of regret. Ohhh, I thought I had waited until just the right time, too.",
+            "choice_data_list": [
+                "Here, use my handkerchief."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No thank you! I… I prefer a tissue!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen seems so disheartened that I question whether the small package has enough tissues for her."
+        }
+    ]
+}

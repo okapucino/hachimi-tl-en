@@ -1,0 +1,231 @@
+{
+    "title": "先取り大人のクリスマス！？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while working in my office during the holiday season…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, Trainer? You don't get presents from Santa anymore, right?",
+            "choice_data_list": [
+                "Well, I <i>am</i> a grown-up."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thought so. That's a shame, though. You'd be on the good list for sure."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But don't worry. I was thinking this year <i>I'll</i> be your Santa and get you a nice present!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So you just look forward to the big day."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the eve of the \"big day\" arrives. I follow Oguri Cap's instructions and make my way to the meeting place."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Happy holidays. Let's have a great day together.",
+            "choice_data_list": [
+                "Wait, is that your racewear?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. Mayano said that if I'm going out for the holidays, I should wear something extra special. And she told me all about what grown-ups do."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And how the most important present is the memories you make together."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So, today, just leave everything to me, because I want to give you the best present of all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Knowing that Mayano Top Gun had a hand in this is… concerning… but I know Oguri Cap's just excited for the holiday and presents, so I'm sure it'll be a fun day."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "We'll have all of whatever you recommend."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Oh, um… Okay… Coming right up…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Now we're set. So, what do you think, Trainer? Your heart must be pounding!",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mayano said I should try and get your heart pounding. So, this is the idea I came up with."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If you let the staff choose your order, there's no telling what they'll bring. Exciting, right?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hamburger steak, curry, omelet rice… Maybe even gratin or spaghetti… Who knows what's on the way? Ahh, but I can't wait to find out… <i>Drool…</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Take a look. It's the Winter Crab Fair. And every single one of them looks gorgeous and delicious.",
+            "choice_data_list": [
+                "You like crab?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Of course I like crab, but more importantly, Mayano said we should go window shopping and enjoy something seasonal."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "This time of year is crab season, right?",
+            "choice_data_list": [
+                "Can't argue with that. Some crab hot pot would really hit the spot right now."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mmm… That would be amazing right now. But we're supposed to be window shopping. Mayano didn't say anything in her advice about purchasing stuff."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep… Juust looking…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, I continue on Oguri's one-of-a-kind guided tour through a few more places. Before I know it, the sun has set."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, the illuminations are all lit up. Now it <i>really</i> feels festive!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right, shall we head over?",
+            "choice_data_list": [
+                "Head over where?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There's one last thing I want to show you. Come on."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, we're here!",
+            "choice_data_list": [
+                "What are we doing?",
+                "What are we doing?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "We're going to look at the stars together."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wow. Aren't they pretty? It's true the stars really do come out brighter in winter.",
+            "choice_data_list": [
+                "They sure do.",
+                "They sure do."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I learned in my hometown that you can see the stars best this time of year."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And… the ones you can see here kind of look the same as the ones back home. It makes me feel at ease…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So… um, how was it? Did you have fun today?",
+            "choice_data_list": [
+                "I had lots of fun."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's great! So I guess my light-bulb moment was correct.",
+            "choice_data_list": [
+                "Your light-bulb moment?",
+                "Your light-bulb moment?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're a grown-up, so you don't get presents from Santa, right?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was trying to figure out if there was anything I could do for you. And that's when Mayano told me that grown-ups have their own way of celebrating the holiday."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She said they spend the day with someone really close to them."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's when I had my light-bulb moment. I realized <i>we're</i> close, so maybe you'd want to spend the day with me!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So, I'm glad I got it right! I really hope today was a nice present for you…",
+            "choice_data_list": [
+                "Today was the best present I could ask for.",
+                "Are you sure, though? What if Santa mistakes you for a grown up?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…! Y-you mean… Even better than a present from Santa?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wow, I wasn't expecting my present to be… that good. It makes me feel… pretty honored."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay! In that case, I'll take over for Santa from now, and all your presents will come from me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So, you better get excited for it each and every December!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh… Since I celebrated like a grown-up this year… he might…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's not how it looks, Santa! Today was Trainer's present!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm… That should probably have it settled, but just in case, I'm going to write a letter and keep it next to my bed."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Oguri Cap drops by with a huge smile on her face and tells me she got exactly the present she asked for in her letter."
+        }
+    ]
+}

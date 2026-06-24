@@ -1,0 +1,46 @@
+{
+    "title": "ヘルプ！ テスト前パニック",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I meet Grass Wonder at her classroom to take her to training."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my… Thank you for coming all this way."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But may I ask to be excused from training for today?",
+            "choice_data_list": [
+                "Are you feeling under the weather?",
+                "Are you feeling under the weather?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, no. I'm perfectly healthy, it's just—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey! Hey, Grass! Can you help me figure out what this Classical Japanese poem means?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ah! No fair! I was gonna ask her an English question!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Just a moment. I'll be right there."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm sorry, Trainer. But you can see how I'm needed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder gives an apologetic bow before going back inside the classroom."
+        }
+    ]
+}

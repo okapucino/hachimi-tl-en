@@ -1,0 +1,26 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Smart Falcon",
+            "text": "Awww… You were so close…",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Don't worry, Trainer! I mean, you really tried your best!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I know! Let's sing an uplifting song before we head back! How does that sound?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "何段あるかな？？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "<i>Huff… huff…</i> It's still… only twelve steps.",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, hey, Trainer!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Well… I heard when it gets dark, these stairs gain another step…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It sounded just like magic, so I wanted to check it out. But I've been counting them for… an hour now… <i>Huff…</i>",
+            "choice_data_list": [
+                "An hour?!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah… No matter how many times I count… it's still the same number."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Okay… I'm gonna count them… one more time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This tenacity is usually to her benefit, but in this case, it seems to only lead to her downfall."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the first day back at school after the break, but Seiun Sky seems a little unsteady on her feet."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yaaawn…</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, hey there, Trainer. My battery's already outta juice.",
+            "choice_data_list": [
+                "Didn't get any sleep?",
+                "Didn't get any sleep?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, every time I went somewhere to rest, I found myself wanting to do stuff instead."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just yesterday I was reading a famous book on war strategies. It was pretty fascinating."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "There was actually this one part where…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Uhh… Hm, my noggin's just not working."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's even sleepier than usual today."
+        }
+    ]
+}

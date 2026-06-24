@@ -1,0 +1,250 @@
+{
+    "title": "釣果ゼロ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Something's been troubling Seiun Sky, so one day I decide to approach her about it.",
+            "choice_data_list": [
+                "Let's talk once we're done training."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sure."
+        },
+        {
+            "text": "After training…",
+            "choice_data_list": [
+                "Don't forget about our talk."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, yeah, I know. I'll be right back after I change."
+        },
+        {
+            "text": "I wait for a few minutes, but she doesn't show."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I see, so she's playin' hooky again. Sorry, but she hasn't come back to the dorm yet."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "The nerve of her to just break a promise like that! Should I grab her by the collar and scream some sense into her?!",
+            "choice_data_list": [
+                "Um, that shouldn't be necessary…"
+            ]
+        },
+        {
+            "text": "After I finally manage to calm down the overexcited Hishi Amazon…"
+        },
+        {
+            "name": "King Halo",
+            "text": "What do we have here? Sky's trainer?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm… I understand. I'll help you search for her.",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course. I have something I want to tell her myself actually."
+        },
+        {
+            "name": "King Halo",
+            "text": "Well, I say search, but I already have an idea of where she might be."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? You do?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Obviously. Shouldn't you too, Trainer?"
+        },
+        {
+            "text": "If she's not in her dorm, that means there's only one place she could be…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Tch. Not a single bite."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Sigh…</i> This is so boring.",
+            "choice_data_list": [
+                "Hey, Sky."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Trainer. Why's King with you?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I also have something to discuss with you."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll just come right out and say it. You've been acting strange recently. Just… weird!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You've always been irresponsible, but you've had a certain tenacious spirit hidden behind all those layers of laziness."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now though? You merely lie about like a deflated balloon!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha-ha, what a horrible thing to say."
+        },
+        {
+            "name": "King Halo",
+            "text": "This is what I mean! I hate it when you give me that stupid smile!"
+        },
+        {
+            "name": "King Halo",
+            "text": "We know something's bothering you! So tell us what's going on!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…Fine. I'll tell you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm sick of racing.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So my enthusiasm disappeared—kapoof. Is that a good enough explanation for you?"
+        },
+        {
+            "name": "King Halo",
+            "text": "After coming this far… you still won't quit it with your horrible jokes."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You think I would joke about this?"
+        },
+        {
+            "name": "King Halo",
+            "text": "It's a lie—you're not sick of racing. It's just that you're scared of losing, right?"
+        },
+        {
+            "name": "King Halo",
+            "text": "So you're carelessly running away from something you have to face!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…No, I'm not."
+        },
+        {
+            "name": "King Halo",
+            "text": "You are!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Right now you're… you're so far below first-rate! It's super lame!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Listen…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You can say whatever you want, but at the end of the day, this has nothing to do with you."
+        },
+        {
+            "name": "King Halo",
+            "text": "…But it does!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Because I… I… I got as far as I have from watching <i>you!</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What?"
+        },
+        {
+            "name": "King Halo",
+            "text": "We're our generation's big three. That's what everyone called us, and it made me proud every time I heard it."
+        },
+        {
+            "name": "King Halo",
+            "text": "But after the Kikuka Sho… I was no longer part of that group."
+        },
+        {
+            "name": "King Halo",
+            "text": "I was so ashamed… It was painful. I didn't know what to do."
+        },
+        {
+            "name": "King Halo",
+            "text": "And that's when you told me, \"at your final wrong turn, you'll have found the right path.\""
+        },
+        {
+            "name": "King Halo",
+            "text": "I never would have had that realization on my own."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's when I decided I would run down my own path—the path that makes me shine the brightest!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I found my path, and I'm finally ready to face you again, except…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now you're pulling this! Why are you stopping here?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Do you really not want to win anymore?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "King Halo",
+            "text": "I've had enough… I misjudged you!"
+        },
+        {
+            "name": "King Halo",
+            "text": "So just stay there, wasting your days away for the rest of your life! I don't care anymore!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "If she misjudged me, well… that's <i>her</i> problem.",
+            "choice_data_list": [
+                "Sky…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Leave me alone for a while… Please."
+        },
+        {
+            "text": "Her voice is so faint, it's like she's fading away. I can't bring myself to respond."
+        }
+    ]
+}

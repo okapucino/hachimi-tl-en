@@ -1,0 +1,77 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold City injured herself during training today. Once I finish tending to the wound…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Thanks, Trainer. Since it's nothing serious, let's go back to training. I don't want to waste any time."
+        },
+        {
+            "name": "Gold City",
+            "text": "I should still be able to run a few laps before my manager comes to pick me up, right?",
+            "choice_data_list": [
+                "I think we should call it a day.",
+                "Let's get back to work."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What? Why? This is nothing, plus you patched me up already.",
+            "choice_data_list": [
+                "If it gets worse, it'll affect your ability to race."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "That… might be true, but…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Look, we're already short on time! Fine—but we're <i>not</i> canceling our training tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to calm her down, and she agrees to take a rest at the infirmary until it's time for her modeling job."
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, good call. I'll have to concentrate better. Can't let myself get distracted by thoughts of work again…"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, so long as I'm not being careless, I'll be fine. A slight twist is nothing to worry abo—"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ow!"
+        },
+        {
+            "name": "Gold City",
+            "text": "No way… Another twist. When have I ever been this clumsy?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City seems to have aggravated her injury. I decide to have her take the rest of the day off."
+        },
+        {
+            "name": "Gold City",
+            "text": "I wonder what they're gonna ask me during the interview later… Agh, no, snap out of it!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Modeling, and running. If I want to do both, I need to keep them separate."
+        },
+        {
+            "name": "Gold City",
+            "text": "You did a good job patching me up, so I need to make use of the rest of our time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Committed to her training, Gold City successfully completes today's regimen as planned."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mayano Top Gun",
+            "text": "Aw, so close! You almost had it!",
+            "choice_data_list": [
+                "Sorry…",
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Naw, it's fine! Don't sweat it!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm super happy that you worked so hard for my sake!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So cheer up, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

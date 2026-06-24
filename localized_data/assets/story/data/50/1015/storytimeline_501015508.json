@@ -1,0 +1,32 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O seems tired, so I suggest we go for a walk. Soon enough, we're stopped by a few fans."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe! Thank you for your gracious support! I shall return all your favor with… an opera of gratitude!",
+            "choice_data_list": [
+                "Wait, right now?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Huff… Puff…</i> D-did you see their beaming faces? My brilliance has come through once again!",
+            "choice_data_list": [
+                "Isn't it exhausting to perform an opera each time you want to thank your fans?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Noblesse oblige. Even in the most inclement of weather, the sun must rise to bring light to the world."
+        },
+        {
+            "name": "Monologue",
+            "text": "On top of her races, her efforts to please her fans are taking a toll on her. Maybe I should adjust her racing schedule."
+        }
+    ]
+}

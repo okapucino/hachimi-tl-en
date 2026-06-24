@@ -1,188 +1,198 @@
 {
-    "no_wrap": true,
+    "title": "温泉旅行",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One day, after winning many races with \nSakura Bakushin O."
+            "name": "Monologue",
+            "text": "One day, after Sakura Bakushin O has a number of victories under her belt…"
         },
         {
-            "text": "When I was in the trainer's office, I found \nthe \"Hot Spring Trip Ticket\" that we won in \nthe lucky draw. \nSpeaking of which――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "When the world becomes so exemplary \nthat it is no longer in need of a class \npresident, let's go to a hot spring."
-        },
-        {
-            "text": "…I don't really understand the language \nshe was speaking, but since the expiration \ndate was near, for now I decided to go give \nit to Sakura Bakushin O."
-        },
-        {
-            "text": "However――"
+            "name": "Monologue",
+            "text": "I'm in my office sifting through some files when the hot spring coupon Sakura Bakushin O got from the raffle happen to slip out. That reminds me—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――I see… \nThe time has finally come upon us!!"
+            "text": "Should there come a time in society where class representatives are made obsolete by their exceedingly exemplary status, then I'll visit the hot springs."
+        },
+        {
+            "name": "Monologue",
+            "text": "…I couldn't make much sense of those words back then, but with the expiry date fast approaching, I decide to at least give them to Sakura Bakushin O."
+        },
+        {
+            "name": "Monologue",
+            "text": "That was my intention at least…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It sure feels like an exemplary world \nthese days! \nWhat can I say, all is quite peaceful～."
+            "text": "I see… So the time has finally come!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "For example, in class, from beginning to \nthe end, I find it going by in complete \nsilence!!",
+            "text": "It is true that as of late society has changed for the better! Well, things have quieted down at least."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To give you an example, I've noticed I spend all my lesson time sitting in complete silence!",
             "choice_data_list": [
-                "(Maybe it's because you're napping?)"
+                "(Weren't you just asleep for most of it?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, then! \nI'm going to Bakushin straight for the hot \nsprings straightaway!!"
+            "text": "In conclusion! Let us head to the hot spring with Bakushin haste!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ooooh～～～～! \nIsn't this just a splendid hot spring inn!!",
+            "text": "Whoa! This hot spring inn is simply magnificent!",
             "choice_data_list": [
-                "!?"
+                "…!"
             ]
         },
         {
-            "text": "With the very spirit of Bakushin, I found \nmyself standing in front of an inn with \nnothing but the clothes I was wearing…!"
+            "name": "Monologue",
+            "text": "Swept up by her Bakushin-like vigor, I find myself standing outside the inn with only the clothes I'm wearing."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is a traditional Ryokan! \nVery exemplary! It's got a bit of a class \npresident feel to it, don't you think?～"
+            "text": "This is what an inn should be, how exemplary! What a refined taste! It's fit for a class representative!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Alright then, Trainer, let's get into those hot \nsprings without any further delay!"
+            "text": "All right, Trainer, let's head inside right away!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Proper etiquette is to take a hot bath to \nwarm yourself up and clean yourself off \nbefore hopping in!"
+            "text": "First splash water over yourself to warm up. Once you're clean, then you can go in!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Diligently follow any and all rules! \nThat's the key to having fun!"
+            "text": "Make sure to follow the rules! That's the trick to enjoying your time here!"
         },
         {
-            "text": "In the hot springs…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――Hawaaa～～… \nThat was quite the nice hot spring～…"
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Somehow, I feel like I'm glowing! \nHow do I look, don't I look more polished \nthan before!?",
+            "text": "Phew… The water was wonderful!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I feel shiny from head to toe! Hey, don't you think I'm glowing after my dip?!",
             "choice_data_list": [
-                "Looks like it.",
-                "Looks like it."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Doesn't it―! Just as expected, the hot \nspring seems to have the effect of making \nyour skin glow."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If my skin is so sleek, surely I must be \nspeeding up!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I must test the validity of this…. \nHmmhm, hot springs, speaking of \nhot spring's speed――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Table tennis is the only way! \nTrainer, it's time for a match!!",
-            "choice_data_list": [
-                "But I just got out!?"
+                "I do.",
+                "I do."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's OK! \nYou can sweat it out as many times as you \nplease!"
+            "text": "I knew it! Looks like going to the hot springs really does have a super Bakushin effect on your skin."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Lets get lots of exercise and soak in plenty \nof that hot springs water!"
-        },
-        {
-            "text": "True to her word, she made great use of the \ninn's facilities, and I had a lot of fun with \nSakura Bakushin O. \nAnd after that――"
+            "text": "If I'm this smooth, surely it has an effect on my speed?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fuhhaah～～～……All the same, no matter how \ninvincible of a class president I am, \nI'm totally and completely tired out…"
+            "text": "This calls for an experiment! Hm… Where else can you find speed at the hot springs—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's been a long time since I've played this \nmuch to my heart's content after I decided \nto become class president…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Because when it comes to travel-related \nevents, that's exactly where the class \npresident comes in!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "On top of that, as everyday class president, \nI'm always on the lookout while doing my \nrounds…",
+            "text": "A game of table tennis! Trainer, I'm taking you on!",
             "choice_data_list": [
-                "(Is that so?)",
-                "(Is that so?)"
+                "But we just got out of the bath?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But today, I was able to properly stretch \nmy wings."
+            "text": "No problem! You don't have to worry about working up a sweat here!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nonetheless, it's kind of like a solar eclipse \nnow that the class president's help is no \nlonger desperately needed."
+            "text": "Let's get in a long workout and then take another good soak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I make the most of the inn's facilities with Sakura Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The time when the sun―or the class \npresident, in this metaphor―is hiding is \nvery short."
+            "text": "Phew… I may be a perfect class representative in every regard, but this certainly has worn me out."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Another class president will soon be \nneeded. \nFor that, we must remain exemplary!"
+            "text": "I don't think I've had this much fun since the time I first decided to become class representative…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll return from the hot spring, with sleek \nand gleamy skin, and show you all a new, \npowered-up version of the class president!",
+            "text": "When a trip has activities like this, who better for the job than a class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I put some extra oomph in my running today, even more than I do for my class representative duties…",
             "choice_data_list": [
-                "You can do it!"
+                "(Really?)",
+                "(Really?)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yessir!!"
+            "text": "It's nice to relax and let my hair down once in a while."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…But, um."
+            "text": "However, a world that has no use for class representatives is like a solar eclipse."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I also think that understanding the feelings \nof classmates who make a fuss is the only \nway to guide them in the proper direction…"
+            "text": "The time when the sun, or the class representative, is hidden is exceedingly short."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I think that perhaps, hanging out with \nTrainer more is exemplary behavior here."
+            "text": "Soon enough I will return to my post. I must remain exemplary at all times for that very purpose!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Y, you think so, too….right?",
+            "text": "I'll walk out of this hot spring glossy and smooth, and make my comeback as a new, powered-up class representative!",
             "choice_data_list": [
-                "Yeah, we've still got more games to play!",
-                "Yeah, we've still got more games to play!"
+                "You've got this!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――Roger that.♪"
+            "text": "Thanks!"
         },
         {
-            "text": "After that, I enjoyed a lot of time at the \ninn with a Sakura Bakushin O who was in \nquite the gleeful mood."
+            "name": "Sakura Bakushin O",
+            "text": "I'd like that to happen, but…"
         },
         {
-            "text": "It was a time when I felt an irreplaceable \nbond with Sakura Bakushin O…"
+            "name": "Sakura Bakushin O",
+            "text": "In order to guide my classmates down the right path, I must understand their feelings… Such as why they like to goof around so much…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's why the most exemplary course of action would be to hang out with you more!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "R-right?",
+            "choice_data_list": [
+                "Yes, let's have some more fun!",
+                "Yes, let's have some more fun!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I continue to enjoy my time at the inn together with a very rambunctious Sakura Bakushin O."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Sakura Bakushin O and I have formed an irreplaceable bond during this time together."
         }
     ]
 }

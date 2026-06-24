@@ -1,0 +1,182 @@
+{
+    "title": "ハイド・アンド・シーク！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking through the central plaza during lunch, I encounter a familiar figure…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer! You seen Flower 'round these parts?",
+            "choice_data_list": [
+                "Why do you ask?",
+                "Why do you ask?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm in a real tight spot! If I don't find her soon, then—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Beep, beep!</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, looks like it's my win. Time's up!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooo! Lost another one!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I looked high and low, but I couldn't track ya down…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You must be the hide-and-seek champ, Flower!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Th-that's quite the compliment, Taiki. It's nice of you to say, but I'm a little embarrassed…",
+            "choice_data_list": [
+                "Were you two playing hide-and-seek?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You bet we were! My little sisters couldn't get enough of it back home!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That was the deciding round. And I've got just the prize for ya, Flower—a big hug for all that good hidin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, c'mere so I can give ya a squeeze! You've been such a good girl!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "W-wait, Taiki! Um… Why don't we go for one more game since we're already here?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, there's an idea! Since my trainer's around, why don't all three of us play together?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You two go and hide! I'll definitely find y'all before time's up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle runs to a tree and starts counting."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'd better make sure she doesn't find me. Hehe… Truth is, I haven't lost a single round yet.",
+            "choice_data_list": [
+                "That's impressive.",
+                "That's impressive."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There aren't really any good places to hide, so I was sure she'd spot me. But as it stands, she hasn't found me once!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And when I was it, I found her in no time."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You know, I just might be really good at hide-and-seek."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. I was a little down in the dumps earlier, but I'm starting to feel better now!",
+            "choice_data_list": [
+                "What happened earlier?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "My race didn't go as well as I'd hoped… but then Taiki came to see me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "She said, \"It only takes a good belly laugh to send the blues packin'!\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Taiki compliments me every time I hide really well. When she does, my heart feels all warm and fuzzy…",
+            "choice_data_list": [
+                "I think I see."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, we should probably hurry and find our hiding places."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to hide over there. Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After she finishes counting, Taiki begins her search. And just one minute later…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh… I know you're here somewhere, Trainer—I can smell ya! Come out, come out, wherever ya are!",
+            "choice_data_list": [
+                "Make a run for it.",
+                "Stay put and wait it out!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aha! There ya are, Trainer! Don't think I'm gonna let ya hightail it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to make a getaway, but with Taiki Shuttle as my opponent, a successful escape is out of the question."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, I had no idea ya were so speedy, Trainer! Guess that means I don't need to go easy on ya. Gotcha!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So you're playin' the waiting game, are ya? I'm pretty good at that myself!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer, is that you I hear rustlin' leaves? I know you're there!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. You gotta wake up pretty early in the mornin' to escape a sharpshooter like me!",
+            "choice_data_list": [
+                "I can't believe you found me so easily."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're no youngster, so I thought I'd spare the theatrics I put on for my little sisters!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, now to find Flower!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, Flooower! Where are youuu? I'm gonna find ya even if it means I gotta run laps 'round the whole school!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle continues her search with a big smile on her face, all the while pretending not to notice Nishino Flower's half-hidden tail."
+        }
+    ]
+}

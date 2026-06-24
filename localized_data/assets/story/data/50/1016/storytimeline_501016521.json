@@ -1,0 +1,30 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "<i>Yawn…</i>",
+            "choice_data_list": [
+                "You look sleepy. You okay?",
+                "You look sleepy. You okay?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…I'm fine. I've just been working on cleat maintenance for the past few days."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Both of my cleats are badly worn down. I can't give my all in a race if I leave them in poor condition."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'd rather not sleep at all than be unable to scratch that itch."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's so obsessed with competing that she hasn't slept in days…"
+        }
+    ]
+}

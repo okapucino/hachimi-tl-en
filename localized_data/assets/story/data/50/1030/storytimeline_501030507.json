@@ -1,0 +1,94 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, a letter from a fan arrives for Rice Shower."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "A fan letter for me?",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression slips from one of happiness to one of slight unease.",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sometimes, I get this idea in my head…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What if cheering for me brings my fans misfortune?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I don't want to think so negatively, but…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What should I do?",
+            "choice_data_list": [
+                "Why don't you read the letter first?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What should I do?",
+            "choice_data_list": [
+                "Why don't you read the letter first?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Read it? O-okay."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "\"I get so much courage from seeing you racing with all your might.\""
+        },
+        {
+            "name": "Rice Shower",
+            "text": "\"And when I see you smile, I always feel warm inside.\""
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Racing with all my might… My smile…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…I see. I'm not doing anything special, but that still makes them happy."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Big Brother… I want to work even harder!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Big Sister… I want to work even harder!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to bring happiness to the people who support me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The clouds of doubt disappear from Rice Shower's eyes, replaced by a blazing light!"
+        }
+    ]
+}

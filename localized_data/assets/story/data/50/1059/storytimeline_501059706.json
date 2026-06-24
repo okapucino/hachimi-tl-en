@@ -1,0 +1,360 @@
+{
+    "title": "夕陽にときめいて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Romance Manga Protagonist",
+            "text": "(I need to go home, but I have to tell him how I feel before it's too late!)"
+        },
+        {
+            "name": "Romance Manga Protagonist",
+            "text": "(It's now or never if I want to be honest with my feelings!)"
+        },
+        {
+            "name": "Romance Manga Protagonist",
+            "text": "Hey, why don't we ride the Ferris wheel before we go? I'm sure the sunset will be beautiful…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm on the train home with Mejiro Dober when I hear her sigh."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh…</i> Amusement parks sure are nice…",
+            "choice_data_list": [
+                "What's this about amusement parks?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? N-nothing. The characters in this manga I'm reading went to one…",
+            "choice_data_list": [
+                "There's one nearby. Want to check it out?",
+                "There's one nearby. Want to check it out?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, nothing… Just me getting too invested in this manga I'm reading.",
+            "choice_data_list": [
+                "There's one nearby. Want to check it out?",
+                "There's one nearby. Want to check it out?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "R-really? Are you sure?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You're so well-prepared that it's scary!",
+            "choice_data_list": [
+                "I mean, it was close to the station, so why not?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, we're here… Are you sure this is okay with you?",
+            "choice_data_list": [
+                "I mean, it was close to the station, so why not?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why not? Sometimes I don't know why I put up with you…",
+            "choice_data_list": [
+                "My bad. I'll treat you to something to make up for it.",
+                "My bad. I'll treat you to something to make up for it."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, don't get me wrong, I'm glad we could come together, but it was just so random…",
+            "choice_data_list": [
+                "My bad. I'll treat you to something to make up for it.",
+                "My bad. I'll treat you to something to make up for it."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Hm? He's going to get me something by way of apology? Why does this feel so familiar?)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Hm? She's going to get me something by way of apology? Why does this feel so familiar?)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Were you looking at my screen earlier?",
+            "choice_data_list": [
+                "Um, no?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Never mind, then! Forget I said anything!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, okay, um… Good."
+        },
+        {
+            "name": "Monologue",
+            "text": "As an apology for dragging Mejiro Dober around with me, I buy her some juice."
+        },
+        {
+            "name": "Monologue",
+            "text": "As an apology for dragging Mejiro Dober around with me, I buy her some juice."
+        },
+        {
+            "name": "Girl A",
+            "text": "Waaaaah! My juuuuice!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh no… I think that girl dropped her drink.",
+            "choice_data_list": [
+                "Hey, are you okay?",
+                "Hey, are you okay?"
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sniffle…</i> I dropped my juice… I just bought it too… <i>Hic!</i>",
+            "choice_data_list": [
+                "I haven't had any of mine yet, so you can have it.",
+                "I haven't had any of mine yet, so you can have it."
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "Really?! Thanks!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Really?! Thanks!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(No way… This is exactly what happened in the manga! And after this they…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(No way… This is exactly what happened in the manga! And after this they…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…End up sh-sharing a drink!",
+            "choice_data_list": [
+                "Whoa, what's wrong?",
+                "Whoa, what's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Nothing! Nothing at all!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(What now? It's not like I have to follow the plot or anything…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(But I feel bad that Trainer doesn't have anything to drink… Maybe I can offer just one sip…)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(No way! I can't possibly do that. I already drank some of it…)",
+            "choice_data_list": [
+                "Aren't you going to drink that?",
+                "Aren't you going to drink that?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I am! I will!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, um… yes. Thank you, I will."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we go on numerous rides together, but Mejiro Dober is distracted and distant the entire time.",
+            "choice_data_list": [
+                "Sorry about today.",
+                "Sorry about today."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What are you apologizing for?",
+            "choice_data_list": [
+                "You didn't seem to enjoy yourself very much…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What are you apologizing for?",
+            "choice_data_list": [
+                "You didn't seem to enjoy yourself very much…"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, I was just… thinking about something…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, I was just… thinking about something…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Trainer has been nothing but kind to me all day, so why am I acting this way?)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(It's now or never if I want to be honest with my feelings!)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ahem… There's one last ride I want to go on, so come with me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, Trainer? I'd like to go on the Ferris wheel before we leave… Is that okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following Mejiro Dober's request, we get on the Ferris wheel, and when we reach the very top…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following Mejiro Dober's request, we get on the Ferris wheel, and when we reach the very top…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I, um, just wanted to say… thanks for today."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you for today. It <i>was</i> really random, but I had a lot of fun."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And just to be clear, I did enjoy myself."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And I think that's because you're here with me. I just wanted you to know that…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We should head home soon. I don't want to miss curfew.",
+            "choice_data_list": [
+                "Let's come again sometime.",
+                "Let's come again sometime.",
+                "Where do you want to go next time?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We should head home soon. I don't want to miss curfew.",
+            "choice_data_list": [
+                "Let's come again sometime.",
+                "Let's come again sometime.",
+                "Where do you want to go next time?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll think about it…",
+            "choice_data_list": [
+                "We could invite your friends too."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, but we should plan it next time.",
+            "choice_data_list": [
+                "We could invite your friends too."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That'd be nice… Oh, but that flyer says coming in pairs gets you a better deal…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That'd be nice… Oh, but that flyer says coming in pairs gets you a better deal…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing about this pair deal, I get curious about our own tickets, and sure enough…",
+            "choice_data_list": [
+                "W-we got a couple's discount?!",
+                "W-we got a couple's discount?!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! We got in with that deal?! You've got to be kidding me!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, so that's why the staff kept smiling at us…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "A-and we rode the <i>Ferris wheel</i> together too… Ahhh!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's face turns a brilliant red, but I'm sure it's only because of the sunset…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober's face turns a brilliant red, but I'm sure it's only because of the sunset…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "There's going to be a next time? That's… f-fine, but I don't know where I'd want to go…",
+            "choice_data_list": [
+                "We came here because of that manga, right?",
+                "We came here because of that manga, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I mean, yeah, I guess.",
+            "choice_data_list": [
+                "Where else do they go in it?",
+                "Where else do they go in it?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Where else? Well… they just happened to be on Earth during the latest chapter."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They're usually on volcanic planets or in asteroid debris. Sometimes they even go to other worlds."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Even on Earth, they're usually at places like the Mariana Trench or the Bermuda Triangle, so I don't think that'll be much help."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing that, I can't help but wonder just what kind of manga she's reading…"
+        }
+    ]
+}

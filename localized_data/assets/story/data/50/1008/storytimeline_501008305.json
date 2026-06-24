@@ -1,0 +1,240 @@
+{
+    "title": "チューリップ賞の後に・先制勝利！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Oh yeahhh! I beat her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka beat Daiwa Scarlet in their first G1 preliminary race."
+        },
+        {
+            "name": "Vodka",
+            "text": "Now I can feel good about jumpin' into the Classics. What'd ya think, Trainer?!",
+            "choice_data_list": [
+                "You ran great out there!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I know, right!"
+        },
+        {
+            "name": "Vodka",
+            "text": "But I did panic a bit. Scarlet got a lot stronger than I expected."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What's this? Did <i>Vodka</i> just praise somebody else? How unlike you."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, Scarlet. Looks like you've been puttin' in a lot of effort. But you've still got a ways to go."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! I'll let you be the flower, but just for today! After all, this is only a preliminary race!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The next race is the real one! I'll show you a real turnaround at the Oka Sho!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Go ahead and try. I'll beat you again, no problem!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka gives a cool laugh and struts off like a winner."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Um… Is Vodka running a little differently?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Her style is still a little rough around the edges, but it seems more intimidating now…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How has she been training?",
+            "choice_data_list": [
+                "I think it's the result of how many real races she's been running in.",
+                "I think it's the result of how many real races she's been running in."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Since the start of her career, Vodka has been going after G1 races without hesitation."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the results of her stretching her limits are starting to show in how she runs."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Real races, huh? I see…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "When she mentioned the G1 last year, I thought she was being stupid again, but I guess there was some method to her madness."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, only some!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…All right, then. I'll just have to see how far she's come. The next race is for real."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet's words aren't just a simple promise, but a full-blown declaration of war."
+        },
+        {
+            "name": "Vodka",
+            "text": "Heh. I guess she's not just a little Goody Two-shoes after all. This is gettin' interesting."
+        },
+        {
+            "name": "Vodka",
+            "text": "So, Trainer, about my next race… I'm doin' the Oka Sho, right?",
+            "choice_data_list": [
+                "It's not that simple.",
+                "It's not that simple."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh? Whaddya mean?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that the Triple Crown tour and Tiara tour cover different races."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Oka Sho starts the Tiara, so racers usually follow it up with the Japanese Oaks and the Shuka Sho.",
+            "color_text_info_list": [
+                "Japanese Oaks",
+                "Shuka Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Derby, on the other hand, is part of the Triple Crown. Vodka will have to give up on it if she chooses the Tiara.",
+            "color_text_info_list": [
+                "Japanese Derby"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "So if I run in the Oka Sho, I can't run in the Derby?!",
+            "choice_data_list": [
+                "It's not impossible, but it's not common.",
+                "It's not impossible, but it's not common."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Both the Triple Crown and the Tiara can only be attempted once. If Vodka switches around, she loses her shot at either title."
+        },
+        {
+            "name": "Vodka",
+            "text": "Then what am I supposed to do?"
+        },
+        {
+            "name": "Vodka",
+            "text": "If I wanna run with Scarlet in the Classics now that she's stronger, that means I have to give up on the Derby?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmm…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh, I've got it. How about this?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What if I run in all six races and win the Triple Crown <i>and</i> Tiara?!",
+            "choice_data_list": [
+                "…Not happening."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh, fine! Then what now?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a big decision. Do the Tiara tour and run against her rival or do the Classic Triple Crown and run in the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no correct choice, but Vodka and I need to make the decision together."
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer, I think I've got an idea. Wanna hear it?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I don't think I can give up either. Before, I would've given Scarlet up without a thought…"
+        },
+        {
+            "name": "Vodka",
+            "text": "But she's runnin' differently now. She's not just talk anymore. I feel real potential there."
+        },
+        {
+            "name": "Vodka",
+            "text": "This feelin' of wantin' to run in a real G1 race with her isn't gonna go away. So…"
+        },
+        {
+            "name": "Vodka",
+            "text": "How about going from the Oka Sho to the Japanese Derby? That's what I feel like I need to do.",
+            "choice_data_list": [
+                "And you're okay giving up on both the Triple Crown and Tiara?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I-I didn't say I wanna give up! But…"
+        },
+        {
+            "name": "Vodka",
+            "text": "This is the only way I can think of to go after everythin' I want!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's determination in her voice. It's still too early to make a decision at this stage, but…",
+            "choice_data_list": [
+                "Let's go to the Oka Sho next."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "You'll really let me?!",
+            "choice_data_list": [
+                "For now, but we'll have to see how things go."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "So we'll decide the next steps after the Oka Sho, huh?"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right. Let's do that. I know it's not something to be taken lightly."
+        },
+        {
+            "name": "Vodka",
+            "text": "Anyhow, I can't just quit while I'm ahead. First, I'm gonna face Scarlet in the Oka Sho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to wait on choosing the path forward for now. It all depends on the results of the Oka Sho, as well as her determination afterward."
+        }
+    ]
+}

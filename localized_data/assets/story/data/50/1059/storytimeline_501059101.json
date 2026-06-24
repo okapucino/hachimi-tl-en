@@ -1,0 +1,399 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "TV",
+            "text": "Up next, we have the latest news from the Twinkle Series!"
+        },
+        {
+            "name": "TV",
+            "text": "First up is Mejiro Dober, a promising rookie from the Mejiro family, who showed up strong in last year's Hanshin J.F.!"
+        },
+        {
+            "name": "TV",
+            "text": "Her fans have high expectations for her in the Tiara tour…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since the start of the year, Mejiro Dober has been drawing far more enthusiastic attention from the public than I had anticipated."
+        },
+        {
+            "name": "Monologue",
+            "text": "I worry whether this attention will be a good or bad thing, as I head to the academy to talk with her about the coming year."
+        },
+        {
+            "name": "Monologue",
+            "text": "At the training course, I see Mejiro Dober and Mejiro Bright warming up together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Trainer…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Happy New Year."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Happy New Year!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, Dober's trainer! Happy New Year!",
+            "choice_data_list": [
+                "Happy New Year to the both of you."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, Dober's trainer! Happy New Year!",
+            "choice_data_list": [
+                "Happy New Year to the both of you."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…Here's to another year together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thanks. I'm looking forward to working with you again this year."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let's all make this year a wonderful one!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let's all make this year a wonderful one!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh! Look, it's Mejiro Dober!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "And she's with Mejiro Bright! How lucky are we?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! What's going on?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know what's happening, a large group of reporters starts rushing toward us!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh goodness. Are you here for an interview? There sure are a lot of you!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Excuse me, Mejiro Dober! Could you tell us about your plans for your classic year?"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Since you ran in the Hanshin J.F., does that mean you'll be aiming for the Tiara tour? It's become a hot topic among your fans!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Is it true that you and Mejiro Bright are secretly training together for your classic year?!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Please give us all the details!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Uh…",
+            "choice_data_list": [
+                "I'll take all your questions for now."
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "We'd prefer to hear from Mejiro Dober herself!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Please, Miss Dober! Your fans would love to hear what you have to—",
+            "choice_data_list": [
+                "Please direct all inquiries through me!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Reporter B",
+            "text": "But the world is longing to hear from her directly!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh dear! My goodness, I seem to have forgotten something of mine."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Come with me, Dober! Keep me company while I go fetch it."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Huh?! Wait! Please come back!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm afraid I must take her with me. I'm so airheaded that I'll likely forget more of my things without Dober to accompany me!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Isn't that right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh… Uh, y-yeah."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh…</i> Thanks for that, Bright. And, uh… you too, Trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh…</i> Thanks for that, Bright. And thank you too, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Whatever do you mean? I only asked you to come with me to retrieve a forgotten item."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Whatever do you mean? I only asked you to come with me to retrieve a forgotten item."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…You don't have to play dumb. If you actually forgot something, how come you're empty-handed?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, actually, I seem to have forgotten what it was I had forgotten! ♪ What an airhead I am!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If you say so…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Still, why were there so many reporters around?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Nothing like that has ever happened before…",
+            "choice_data_list": [
+                "It's proof of how many eyes are on you.",
+                "It's proof of how many eyes are on you."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "…On me?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It's only natural after your performance in the Hanshin J.F."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "With how exceptionally well you've been doing, it'd be difficult <i>not</i> to attract attention."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't know about that, but… are things going to be like this forever?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, who can say?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But I'm sure your trainer will make it abundantly clear that unauthorized interviews are not welcome."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Isn't that right? ♪",
+            "choice_data_list": [
+                "Of course I will.",
+                "Of course I will."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "R-right…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober seems a bit discombobulated after all that. Maybe she could do with a good change of pace."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since it's New Year's, I suggest a holiday-appropriate activity.",
+            "choice_data_list": [
+                "Let's play karuta!",
+                "Let's have some mochi soup!",
+                "Let's do some New Year's calligraphy!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! Where'd that come from?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! What's gotten into you?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my! Karuta? That sounds lovely! The perfect New Year's activity!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my! Karuta? That sounds lovely! The perfect New Year's activity!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Not you too, Bright! We still have to train!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "How nostalgic! We used to play karuta all together as a family, and Dober would cry because she couldn't get any cards."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "H-hey! That was back when I was practically a baby!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Last year, I did way better than you!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe, did you? Last year was so long ago. I hardly remember how things went."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Grr… You're the one who brought up ancient history!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I suppose we'll just have to decide who's better with a rematch, then. Let's get started, Dober!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh, fine… I'll play if you want to that badly!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Okay, let's have your trainer read the poems for us."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I won't lose!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At the end of the day, Mejiro Dober ends up in a much better mood."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Talk about sudden…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ooh! Mochi soup! What a wonderful suggestion, and a timely one too! I was just starting to feel peckish."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Time to eat some stretchy, stretchy mochi! Hehe! What a happy thought."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I thought we were going to train, thou—"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "We should hurry and buy the ingredients. Let's see, for traditional mochi soup, we'll need…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "What kind of vegetables are in it again? Celery?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh! Stop it right there, Bright! I'll help make it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And you! Don't just stand there. This was your idea, so make yourself useful!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm not too confident in my cooking skills, though, so can you help us too, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I help the two of them make Mejiro-style mochi soup, and we all eat it together."
+        },
+        {
+            "name": "Monologue",
+            "text": "I help the two of them make Mejiro-style mochi soup, and we all eat it together."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not only does Mejiro Dober's mood improve, I also get to learn about Mejiro-style cooking, so it's a good start to the new year."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-New Year's calligraphy? What a random suggestion…"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-New Year's calligraphy? We weren't even talking about that, though…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, what a marvelous idea! I haven't done mine yet!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, what a marvelous idea! I haven't done mine yet!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why don't we take this opportunity to write our resolutions for the year, Dober?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm sure putting them on paper will motivate us even more in training."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I guess we can do that… It'll be embarrassing to write them together, though. My calligraphy's not so great…"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "What's important is the feeling behind your words, not the neatness. Just pour your heart into the brush strokes, and all will be fine!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let's get started right away! Your trainer should join us too. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us write our goals for the classic year and show them to each other!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober seems focused, and I sense ambition in the letters she pens: \"Triple Tiara.\""
+        }
+    ]
+}

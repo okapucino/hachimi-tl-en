@@ -1,0 +1,82 @@
+{
+    "title": "モデルのお仕事",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "There is no training today since Gold City has work. I decide to go relax at the park when…"
+        },
+        {
+            "name": "School Girl A",
+            "text": "Hey, isn't that Gold City?"
+        },
+        {
+            "name": "School Girl B",
+            "text": "No way, is that her?! Her face is so pretty! She's literally a divine creation. What does she even eat every day—mist?"
+        },
+        {
+            "text": "Gold City stands before the excited girls, surrounded by her staff for a photo shoot."
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "name": "School Girl B",
+            "text": "Ahh, she looked this way! She's so pretty!"
+        },
+        {
+            "name": "Photographer",
+            "text": "We've got quite the audience, City. Think you can keep going?"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's okay, I'm used to it. On the other hand…"
+        },
+        {
+            "name": "Gold City",
+            "text": "…"
+        },
+        {
+            "text": "Did Gold City just try to catch my eye? No… surely I'm imagining things.",
+            "choice_data_list": [
+                "Walk away like nothing happened.",
+                "Enthusiastically cheer her on."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I saw you, dummy."
+        },
+        {
+            "name": "Photographer",
+            "text": "What was that, City?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, nothing. I thought I saw someone I know over there, that's all. They just left though."
+        },
+        {
+            "name": "Gold City",
+            "text": "Next time, I'll make sure you stay and watch."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hold on. What is my trainer doing?",
+            "choice_data_list": [
+                "Go! City! Gooo!"
+            ]
+        },
+        {
+            "name": "Photographer",
+            "text": "Oh. It seems you have a very enthusiastic fan! Impressive commitment."
+        },
+        {
+            "name": "Gold City",
+            "text": "No, it's just some idiot."
+        },
+        {
+            "name": "Gold City",
+            "text": "Some goody-two-shoes who'd support anyone you put in front of them."
+        }
+    ]
+}

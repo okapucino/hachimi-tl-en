@@ -1,0 +1,42 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Phew! I sure sang my heart out! After putting my all into karaoke, I'm sure training is gonna to go great toda—"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? What's with the crowd?"
+        },
+        {
+            "name": "Lady A",
+            "text": "Well, if it isn't Kita! We're holding a local enka singing competition, so why don't you come by and listen to some songs?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "An enka competition?! Awesome! I'll be there!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wow… \"Tears Upon the Turf\" is such a fantastic song!",
+            "choice_data_list": [
+                "That title perfectly describes how I felt when you didn't arrive for practice.",
+                "That title perfectly describes how I felt when you didn't arrive for practice."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh, Trainer? What are you talking about practice fo—"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh my gosh! I can't believe it's already so late! I'm sorryyy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Kitasan Black genuinely didn't notice the time, so I give her a warning and tell her to be more careful in the future."
+        }
+    ]
+}

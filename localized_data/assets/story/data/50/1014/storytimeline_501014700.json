@@ -1,0 +1,37 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>Yaaawn…</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hm… I think maybe I focused a bit too much on the fighting…",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Well, I tried a trick my papa taught me to help me fall asleep…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "When I can't sleep, I imagine every wrestler challenging me one by one!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "He told me that imagination would eventually turn into a dream. But…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "This one wrestler jumped in unannounced… I almost had them, but… <i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like El Condor Pasa didn't get enough sleep."
+        }
+    ]
+}

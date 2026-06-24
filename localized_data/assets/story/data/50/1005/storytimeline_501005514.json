@@ -1,0 +1,338 @@
+{
+    "title": "my dear sister.",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm out one day to grab some magazines when I happen to see Fuji Kiseki and Zenno Rob Roy together.",
+            "choice_data_list": [
+                "Well, aren't you an unlikely pair.",
+                "Well, aren't you an unlikely pair."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. I'm Rob Roy's sister today.",
+            "choice_data_list": [
+                "I'm sorry, what?",
+                "I'm sorry, what?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, well… It all started when I first got here…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm still a ways off from the bookstore… Oh, I hope they'll still have signed copies of the book I want…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Urgh… Being in such a fancy place is just too much for me!"
+        },
+        {
+            "name": "Scammer A (Woman)",
+            "text": "Hey there, miss! Can I interest you in a jar of fortune?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Wha?! A-are you talking to me? Sorry, I… I have somewhere to be…"
+        },
+        {
+            "name": "Scammer A (Woman)",
+            "text": "Aw, don't be like that! ♪ Look, our store's right around the corner!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There you are, Rob Roy! Sorry I'm late."
+        },
+        {
+            "name": "Scammer A (Woman)",
+            "text": "Oh, so you were waiting for your sister! Why don't you both come check out our wares?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sorry, but we have to drop off something we found at the police station. Our mom works there, so she'll know what to do with it."
+        },
+        {
+            "name": "Scammer A (Woman)",
+            "text": "Your mom's a cop?! …Ahem. I mean, it's too bad you're busy, but oh well! ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-thanks for that… I didn't know how to get out of that situation alone…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's no problem! But what are you doing here, anyway? Is there a book you want that you can't get anywhere else?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That's exactly it! A store nearby is selling signed copies of my favorite mystery writer's newest book!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh. Well, would it be all right if I accompanied you?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There's a book I want to buy too. And besides, I'm too worried about letting my dear <i>little sister</i> go there by herself."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So, I'm going to be Rob Roy's personal bodyguard until we reach the bookstore.",
+            "choice_data_list": [
+                "In that case, I'll be <i>your</i> bodyguard!",
+                "In that case, I'll be <i>your</i> bodyguard!",
+                "You two really do look like sisters!",
+                "You two really do look like sisters!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So, I'm going to be Rob Roy's personal bodyguard until we reach the bookstore.",
+            "choice_data_list": [
+                "In that case, I'll be <i>your</i> bodyguard!",
+                "In that case, I'll be <i>your</i> bodyguard!",
+                "You two really do look like sisters!",
+                "You two really do look like sisters!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Can you really protect me?",
+            "choice_data_list": [
+                "I am older than you, you know!",
+                "I am older than you, you know!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Does that make you my overprotective older brother, then?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Does that make you my overprotective older sister, then?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "How fun! Looks like shopping is getting more and more exciting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thankfully, the bookstore does still have signed copies of the book Zenno Rob Roy wants.",
+            "choice_data_list": [
+                "Wait, where's Fuji?"
+            ]
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "Like I said, if you debut with our company, you're sure to become rich and famous! I guarantee it!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Thanks for your offer, but I have no intention of changing careers.",
+            "choice_data_list": [
+                "What do you want with my sister?"
+            ]
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "Oh my! Are you her brother? I was just offering your sibling a chance to make it big in the world of entertainment!"
+        },
+        {
+            "name": "Scammer A (Woman)",
+            "text": "Oh my! Are you her sister? I was just offering your sibling a chance to make it big in the world of entertainment!"
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "She said she'd rather continue racing than become an entertainer, but don't you think she'd be better off in show business?",
+            "choice_data_list": [
+                "No, actually, because I respect my sister's wishes."
+            ]
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "She said she'd rather continue racing than become an entertainer, but don't you think she'd be better off in show business?",
+            "choice_data_list": [
+                "No, actually, because I respect my sister's wishes."
+            ]
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "But come on! Just look at her! She's clearly better suited to a life filled with glitz and glam, not sweat and dirt!",
+            "choice_data_list": [
+                "Say what you want, but her dream is to race."
+            ]
+        },
+        {
+            "name": "Scammer B (Woman)",
+            "text": "Ugh… Fine. Don't say I didn't try to give you a chance."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Wow! I can't believe you were scouted like that, Fuji!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "\"Talent scouts\" like that are usually scammers. They're nothing to get starry-eyed over."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Also… Thanks for defending my dream. I'm glad I have an older brother who's so supportive of me.",
+            "choice_data_list": [
+                "You're very welcome!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Also… Thanks for defending my dream. I'm glad I have an older sister who's so supportive of me.",
+            "choice_data_list": [
+                "You're very welcome!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe. I'm so glad my older siblings are such wonderful people."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe. I'm so glad my older sisters are such wonderful people."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we dip into a cafe for a break, then head back home. It's fully dark by the time we reach the academy."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Thank you so much for everything today! I'll be sure to pay you back for your kindness!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'd better go too. It was fun having you as my older brother today.",
+            "choice_data_list": [
+                "I can be your older brother whenever you'd like.",
+                "I can be your older sister whenever you'd like."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'd better go too. It was fun having you as my older sister today.",
+            "choice_data_list": [
+                "I can be your older brother whenever you'd like.",
+                "I can be your older sister whenever you'd like."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, thanks. But I'll be <i>your</i> bodyguard next time."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Knowing you were there to protect me today made me happy, but I want to show off my cool side too."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And that goes double when I'm showing off to my older brother."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And that goes double when I'm showing off to my older sister."
+        },
+        {
+            "name": "Monologue",
+            "text": "She winks mischievously at me, and I laugh. Whatever she wishes for or dreams of, I'll be there to make sure they come true."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell them that their hair and eye color are so similar, I'm sure nobody would raise an eyebrow if they claimed to be sisters."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "But Fuji is so wonderful, and I'm nothing like her… I couldn't possibly claim to be her sister…"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Why not, though? I'd love to have a sister like you. Every day would be so fun!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "We could talk about plays together. After all, you always have the most interesting story analysis!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-thank you. I always have a great time when we talk too."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm honored to hear that. Now come on, little sister! Off to the bookstore we go! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I was headed for the bookstore myself, we all go together."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, I'm so glad I finally got a copy! Thank you, both of you!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "No problem. By the way, do you two happen to be free after this?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The theaters are showing a live broadcast of the play my mother's in, and I was wondering if you'd like to watch it together.",
+            "choice_data_list": [
+                "Sure! Sounds fun!",
+                "Sure! Sounds fun!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'd love to go as well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make our way to the movie theater and enjoy the play together."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki's mother is still as popular as ever. Her performance, as always, captures the hearts of everyone watching."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah… That was incredible. I wish I could rewatch the part where they made an oath together."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Me too! I was so moved by the scene where they hinted that the river wolf was the reincarnation of the protagonist's late mother!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wait, if the river wolf was the mother… Hm, that would entirely change the meaning of that fight scene…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki is bright and animated as she talks about the play. She seems so happy to have found a kindred spirit in Zenno Rob Roy."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "U-um, what's the matter? Is there something on my face?",
+            "choice_data_list": [
+                "No, sorry. I was just thinking about how well you two get along."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I feel the same. If you don't mind, Rob Roy, I'd love to watch another play with you sometime and discuss it after."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O-oh, if you don't think I'd be a bother, I'd be delighted to join you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They seemed like an odd pair at first, but after a day together, it's clear they're sisters in all but blood."
+        }
+    ]
+}

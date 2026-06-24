@@ -1,24 +1,26 @@
 {
-    "no_wrap": true,
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaaa! A good morning to you!"
+            "text": "I'm here! Good morning!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "How did you spend your day off!? \nI helped keep the peace downtown with \nMs. Biko!"
+            "text": "How did you spend your day off? I protected the peace in the town with Biko!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We picked up trash, patrolled…… \nAnd even did a hero show in the park!"
+            "text": "Collecting trash, patrolling the area… We even put on a superhero performance in the park!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do you think? As class president and \nhonor student, I've had quite the wonderful \nand fulfilling holiday!"
+            "text": "What do you think? A fantastically fulfilling day off for a class representative and model student, if I do say so myself!"
         },
         {
-            "text": "In her own way, Sakura Bakushin O seems \nto have……enjoyed her holiday!"
+            "name": "Monologue",
+            "text": "It seems Sakura Bakushin O was able to enjoy her day off in her own unique way."
         }
     ]
 }

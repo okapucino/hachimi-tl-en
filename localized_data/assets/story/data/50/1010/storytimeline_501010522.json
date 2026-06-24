@@ -1,0 +1,29 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle takes me to a mall to shop for skin care products on our day off…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Doesn't look like they have it here either. But nothin' else'll do…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Urgh… If I don't get my hands on some, my skin's gonna be as dry as the desert at high noon…",
+            "choice_data_list": [
+                "Where do they sell it?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, truth is I've never seen it in Japan before."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh…</i> Guess there's nothing to do but wait for my family to send me some."
+        }
+    ]
+}

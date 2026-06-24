@@ -1,0 +1,55 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's finally the day of Agnes Tachyon's debut race.",
+            "color_text_info_list": [
+                "debut race"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's unusually quiet today.",
+            "choice_data_list": [
+                "Are you nervous, perhaps?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nervous? Me? Not a chance!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I was lamenting over the fact that I ran out of black tea in the lab. How unbecoming of me to forget to restock, no?",
+            "choice_data_list": [
+                "(That's got nothing to do with today's race!)"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, I know. You can go out to purchase some for me while I race. Ceylon or Keemun is my preference.",
+            "choice_data_list": [
+                "There's no way I'm missing your race.",
+                "There's no way I'm missing your race."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh my, would you look at the time. It appears I must get going."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If you can't find either of the two I mentioned, Assam tea will also do. Would you be so kind as to deliver it to my lab?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon saunters out of the waiting room."
+        }
+    ]
+}

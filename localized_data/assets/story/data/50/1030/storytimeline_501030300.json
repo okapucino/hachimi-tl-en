@@ -1,0 +1,62 @@
+{
+    "title": "夏合宿（2年目）終了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At Rice Shower's request, we keep training up until the very last minute of summer camp."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff… puff…</i> S-sorry I'm late!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hurry up, Rice! The bus is waiting for you!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "R-right! I'm coming!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ehehe… Thank goodness I made it.",
+            "choice_data_list": [
+                "We're lucky that everyone waited for you.",
+                "We're lucky that everyone waited for you."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Right! I'll have to thank them…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Screeech…</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh? Did we stop?"
+        },
+        {
+            "name": "Bus Driver",
+            "text": "Sorry, everyone! It looks like the road ahead closed only a minute ago."
+        },
+        {
+            "name": "Bus Driver",
+            "text": "It may take us an additional two hours to return to campus."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I-I'm sorry! It's all my fault!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower is almost inconsolable for the rest of the trip. She even goes to apologize to everyone on the bus personally."
+        }
+    ]
+}

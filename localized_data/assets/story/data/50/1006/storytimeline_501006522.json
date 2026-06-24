@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap is staring into a snack packet with a torn look on her face."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk… Just one wouldn't hurt, right? But then again, I don't want any breakouts.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well, I told Creek about how my skin's been acting up, and she said I should cut down on all the greasy food."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But it's so hard to resist when the snacks are right there in front of me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Sigh…</i> No more carrot snacks for me. I guess I'll stick to spinach cookies instead…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not willing to risk a breakout, Oguri Cap seems somewhat disheartened now that she can't enjoy her favorite foods."
+        }
+    ]
+}

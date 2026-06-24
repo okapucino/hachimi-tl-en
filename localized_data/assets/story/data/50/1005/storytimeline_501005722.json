@@ -1,0 +1,58 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "One day, right when lunch is about to end, I run into Fuji Kiseki as she comes out of the infirmary."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, Trainer! What a coincidence.",
+            "choice_data_list": [
+                "What were you doing in the infirmary?",
+                "What were you doing in the infirmary?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, uh… nothing!",
+            "choice_data_list": [
+                "Is everything okay?!",
+                "Is everything okay?!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I-I'm fine! It's nothing serious!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Really, I'm okay!"
+        },
+        {
+            "text": "<i>Plop.</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah…"
+        },
+        {
+            "text": "A small blister pack of pills falls from Fuji Kiseki's pocket."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I have a little headache, so I just stopped by for some medicine. That's all!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Okay, I'll be going now. Byyyeee!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aaagh…"
+        },
+        {
+            "text": "Despite her best efforts to hide her symptoms, it seems Fuji Kiseki is suffering from quite the migraine…"
+        }
+    ]
+}

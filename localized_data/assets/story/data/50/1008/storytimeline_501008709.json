@@ -1,0 +1,70 @@
+{
+    "title": "レース入着",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Phew! I placed. I'm on the scoreboard, Trainer."
+        },
+        {
+            "name": "Vodka",
+            "text": "Not half bad, huh? Of course, if I really had my way…"
+        },
+        {
+            "name": "Vodka",
+            "text": "I would've been the coolest and taken first, no sweat.",
+            "choice_data_list": [
+                "You were still really cool!",
+                "You were still really cool!",
+                "Let's aim for first place next time."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "I would've been the coolest and taken first, no sweat.",
+            "choice_data_list": [
+                "You were still really cool!",
+                "You were still really cool!",
+                "Let's aim for first place next time."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Y-you think? Hmmm…"
+        },
+        {
+            "name": "Vodka",
+            "text": "Well…if you really mean it, I guess I can be a little more proud of myself.",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Haha, all right. I got it. Let's try this again…"
+        },
+        {
+            "name": "Vodka",
+            "text": "I did it, Trainer! And there's plenty more where that came from!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmph… You don't have to tell me that. That's the plan, obviously!"
+        },
+        {
+            "name": "Vodka",
+            "text": "This race told me exactly what I'm lackin'!",
+            "choice_data_list": [
+                "That sounds promising!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, I know, right?! You can just sit back and relax now!"
+        },
+        {
+            "name": "Vodka",
+            "text": "The next race is definitely mine! I'll show ya just how cool I can be!"
+        }
+    ]
+}

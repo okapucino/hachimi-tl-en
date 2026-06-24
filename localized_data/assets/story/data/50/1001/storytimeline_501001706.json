@@ -1,0 +1,46 @@
+{
+    "title": "研究熱心",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While we're on our way home from a day out, I tag along with Special Week as she stops by a place she wanted to check out."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! Here it is! I've been wanting to come by this rental shop."
+        },
+        {
+            "name": "Special Week",
+            "text": "I was thinking about studying some old race videos. I think they'd help me with my future races."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hmm, what should I rent today? The Tokyo Racecourse collection sounds good, but so does the Nakayama Racecourse collection…"
+        },
+        {
+            "name": "Special Week",
+            "text": "This is tough… Which one do you recommend, Trainer?",
+            "choice_data_list": [
+                "The Tokyo Racecourse collection.",
+                "The Nakayama Racecourse collection."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Got it! I'll rent it right now! Oh, and I'll grab Suzuka's special feature DVD too…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week seems to learn something from watching the Tokyo Racecourse collection DVD she rented."
+        },
+        {
+            "name": "Special Week",
+            "text": "Got it! I'll rent it right now! Oh, and I'll grab Suzuka's special feature DVD too…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week seems to learn something by watching the Nakayama Racecourse collection DVD."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Curren Chan…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wow, wow, wow! Look at all the plushies! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren Chan points toward a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "They really are cute.",
+                "They really are cute."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…Hey. Don't you think a super cute plushie is just perfect for a super cute girl?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "…Hey. Don't you think a super cute plushie is just perfect for a super cute girl?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "If I had some of those with me, I think I'd be waaay cuter!",
+            "choice_data_list": [
+                "Okay. Let's get some!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yay!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe. I can't wait to see how hard you'll work for me! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe. I can't wait to see how hard you'll work for me! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

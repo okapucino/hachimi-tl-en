@@ -1,0 +1,58 @@
+{
+    "title": "あなたと行きたい場所",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out together, Special Week and I return to the academy."
+        },
+        {
+            "name": "Special Week",
+            "text": "Thanks for today, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe, I'm getting used to hanging out with you like this."
+        },
+        {
+            "name": "Special Week",
+            "text": "But there are still so many things I want us to do together! Like…",
+            "choice_data_list": [
+                "Go to an amusement park?",
+                "Go hiking?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oooh, yeah! An amusement park!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thinking about how you'd react to being on a roller coaster or in a haunted house really makes me wanna go."
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm not so good with scary things, but there's something about the thrill of it all…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, but don't you dare sneak up on me in the haunted house!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oooh, hiking! That didn't even cross my mind!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That'd definitely help me train both my body and soul!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, I know! Let's pack some lunches so we can eat while admiring the mountain scenery!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Leave lunch to me! You might not know this, but I make these great little sausages that look like octopuses! Hehe!"
+        }
+    ]
+}

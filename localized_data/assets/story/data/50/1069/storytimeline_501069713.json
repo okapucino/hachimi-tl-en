@@ -1,0 +1,90 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O gets injured during training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sorry… This is all because I was so careless…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I took notes on how this injury occurred, and I'll make sure it doesn't happen again…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I wonder if they ever have students fill out questionnaires about how they were injured. I bet the results would make a good reference."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "All right, let's return to training.",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Are you sure you're okay?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm still in a little bit of pain, but it shouldn't affect my running."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Plus, I can't simply sit around while others are out there training!",
+            "choice_data_list": [
+                "I understand how you feel, but you should still rest.",
+                "Okay. Let's see what you can do."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "In other words, patience is a virtue…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Understood. I'll rest for today and make sure my injury heals."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I got myself into this mess, so please don't feel bad about this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O looks crestfallen as she returns to her dorm."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you, Trainer!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ow!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hngh… Now it hurts even more…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um… Maybe I should stop after all…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O looks full of regret as she returns to her dorm."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whew… I don't think I can exactly run, but I'll find some kind of training to do regardless!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Having a positive attitude is the fastest way to heal injuries! \"Running is the best medicine,\" as the saying goes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we continue training. Mindful of her injury, Sakura Chiyono O sticks to what she can do safely."
+        }
+    ]
+}

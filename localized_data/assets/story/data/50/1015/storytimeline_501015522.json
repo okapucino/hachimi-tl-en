@@ -1,0 +1,41 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm walking down the hallway with T.M. Opera O…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ohh, the humanity!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "This skin of mine, so fine and soft, would have me heralded as this generation's Cleopatra…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "But alas! Such a hideous deformation has appeared!",
+            "choice_data_list": [
+                "I don't see anything different…"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Your eyes fail you! Look here, at my index finger!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On closer inspection, I do see a sore-looking spot on the very tip of her finger, but it's barely noticeable."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Sigh…</i> Can you even comprehend it? No amount of grieving will resolve my woe."
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, a tiny rash proves a major problem to Opera O. She couldn't be more devastated."
+        }
+    ]
+}

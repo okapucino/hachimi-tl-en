@@ -1,0 +1,197 @@
+{
+    "title": "迷子を捜せ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Super Creek and Narita Taishin are going out to look for some everyday training shoes."
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek asks for my help choosing the right shoes, so I end up joining them."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So why are you tagging along again? I wanted to go on my own."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! Oh, don't be like that. It just so happened that I wanted to go shopping myself."
+        },
+        {
+            "name": "Super Creek",
+            "text": "We are roommates, after all. We might as well go together."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, then would you care to explain why your trainer's also here?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I figured we'd need a second opinion when choosing training shoes, and who's more reliable than Trainer? ♪",
+            "choice_data_list": [
+                "Leave it to me!",
+                "Leave it to me!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tch, whatever."
+        },
+        {
+            "name": "Monologue",
+            "text": "The mall is packed with people. We squeeze past the shoppers and notice a change in our numbers."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hm? Where's Taishin?",
+            "choice_data_list": [
+                "Did she get separated from us?",
+                "Did she get separated from us?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Gosh, what do we do?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Taishin… I should've held your hand."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm sure she's feeling sad and lonely. We need to find her right away.",
+            "choice_data_list": [
+                "Let's split up and look for her.",
+                "Let's request a lost-person announcement on the PA system."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay, I'll go that way. Let's meet back here later."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hang in there, Taishin! I'm coming!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek sprints off, weaving deftly through the crowds in search of Narita Taishin."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thirty minutes later…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Phew… I'm so glad I found you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I can't believe you seriously came looking for me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You could've just left me to wander around when we got separated. I'm not a kid."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Huff, huff…</i>",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, don't worry!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I guess I'm a little more out of breath than usual since I was frantically paying attention to my surroundings as I ran."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm okay now. Shall we resume together, Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Siiiigh…</i> Fine. I'll stay close, okay? Sheesh."
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek smiles with the resigned Narita Taishin following behind. She appears to have learned something from this experience."
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's a wonderful idea! We should go and request one right away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bing, bong, bing!</i> ♪"
+        },
+        {
+            "name": "PA Announcement",
+            "text": "Thank you again for shopping with us today. We'd like to ask for everyone's cooperation in finding a lost child."
+        },
+        {
+            "name": "PA Announcement",
+            "text": "Her name is Narita Taishin. She has short hair and was last seen wearing a Tracen Academy uniform."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now that we've gotten the announcement out, I'm sure that Taishin will—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What the hell was that for?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Taishin! Thank goodness we've found you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Thank goodness, my butt! What is all this?! Who are you calling a lost child?!",
+            "choice_data_list": [
+                "Well, I mean, you were—"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I wasn't <i>lost!</i> I was just <i>pretending</i> to get separated from you guys!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my! Really?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, well aren't you a little prankster today! But no more funny business, okay?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! I wasn't trying to be funny!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now, now, be good. Here, let me hold your hand so you don't get lost again."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you even listening to me?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Narita Taishin droops her shoulders in defeat and offers her hand."
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek smiles, appearing to have learned something from the experience."
+        }
+    ]
+}

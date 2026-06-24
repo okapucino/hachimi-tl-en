@@ -1,0 +1,30 @@
+{
+    "title": "パワーのみなもと",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the cafeteria for lunch, when…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nooooo! What have I dooone?!",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I forgot it! The source of all my power… my special Salsa de la Vida!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I can't work up my super spicy energy without it…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "There goes the whole afternoon… I'm not gonna be able to do anything."
+        }
+    ]
+}

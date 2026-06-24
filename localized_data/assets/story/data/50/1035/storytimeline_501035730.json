@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Uwaaah! I'm sooo happy!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "See how glad they are to be together? Thank you, Trainer!",
+            "choice_data_list": [
+                "Are you going to put them all in your room?",
+                "Are you going to put them all in your room?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Of course! They belong together, so I can't go and split them up!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Being together is always better than being alone!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Like how I always have lots more fun when I'm with you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

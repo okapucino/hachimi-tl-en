@@ -1,215 +1,222 @@
 {
-    "no_wrap": true,
+    "title": "新年の抱負",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san! \nA Happy New Year to you!"
+            "text": "Trainer! Happy New Year!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's keep dashing on down the \nBakushin Road this year, too!"
+            "text": "Let's charge headlong down the Bakushin Road this year as well!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Without any further ado, I've written \nmy New Year's resolutions!"
+            "text": "It's a bit soon, but I've already written my New Year's resolution!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I am an honors student after all, so I started \nwriting them just eight hours after the \ndate changed!",
+            "text": "Being the model student I am, I began writing it within eight hours of the date changing!",
             "choice_data_list": [
-                "So, you wrote them when you woke up.",
-                "So, you wrote them when you woke up."
+                "So, you wrote it after you woke up?",
+                "So, you wrote it after you woke up?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Precisely!"
+            "text": "Yes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san, you'll be so impressed with \nthe goal I wrote you'll want to frame it \nand hang it!"
+            "text": "It might make you so emotional, you'll want to frame and display it!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please gaze upon and be moved to tears by \nmy wonderful aspirations!"
+            "text": "Please, take a look! Feel free to shed some tears over my unwavering aspirations!"
         },
         {
-            "text": "(Stare…)"
+            "name": "Monologue",
+            "text": "<i>Rustle…</i>"
         },
         {
-            "text": "Somehow, I already knew what it was, \nbut when I opened the half-sheet of paper \nshe handed me, I saw…",
+            "name": "Monologue",
+            "text": "I sort of knew what to expect, but…",
             "choice_data_list": [
-                "\"The Classic is also a Baku-win!\"…"
+                "\"BAKUSHIN MY WAY THROUGH THE CLASSICS!\""
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Precisely!"
+            "text": "That's right!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Satsuki Sho, Japan Derby, Kikka Sho, \nand now plus the Arima Kinen!",
+            "text": "The Satsuki Sho, the Japanese Derby, the Kikuka Sho, the Tenno Sho, as well as the Arima Kinen!",
             "color_text_info_list": [
-                "Japan Derby",
-                "Kikka Sho"
+                "Japanese Derby",
+                "Kikuka Sho"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's win these races this year just as \nplanned, and paint the Classic in Bakushin \ncolors!"
+            "text": "This year I'll triumph in all these races. I'm gonna paint the Classics every shade of Bakushin!"
         },
         {
-            "text": "I'm kind of moved to tears, but \nin a different way……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "They say the beginning is the key to \neverything. So, I'll start training today \nright away!"
+            "name": "Monologue",
+            "text": "I might shed tears at this rate, but for a different reason."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come, now, please let me exercise my \nincredible talent!",
+            "text": "The beginning is said to be the most crucial time of the year! We'll start training at once!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay! Go on! Exercise that trainer authority and tell me the first thing on my schedule!",
             "choice_data_list": [
-                "Bakushin towards tomorrow!",
-                "Now is the time to conserve your energy to hatch and \nspread your wings, like a butterfly. \ntake a break.",
-                "Well, what do you want to do?"
+                "Let's Bakushin toward a brighter tomorrow!",
+                "I'd rather you rest up fully before emerging from your cocoon.",
+                "Why don't you tell me what you want to do instead?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushin towards tomorrow! \nIn other words, that means…!"
+            "text": "Bakushin toward a brighter tomorrow! Yeah! By which you mean to…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…What does that mean?",
+            "text": "…Actually, what <i>do</i> you mean by that?",
             "choice_data_list": [
-                "We'll seize tomorrow with speed.",
-                "We'll seize tomorrow with speed."
+                "Seize the day, or rather tomorrow, with your speed.",
+                "Seize the day, or rather tomorrow, with your speed."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh…! \nOh-ho……!"
+            "text": "Ooh! OOH!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see! Surely, with my speed, I can outrun \ntime itself!"
+            "text": "I see! Well certainly, it would be possible to transcend time with my speed!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, I'm going to go run the Classic… \nThat's it, isn't it!"
+            "text": "In other words, I should start running towards the Classics already? …I see!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood! I'm going to go and \nBakushin towards tomorrow!"
+            "text": "Understood! I'm going to Bakushin right at what tomorrow brings!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushin, Bakushiiiin!!"
+            "text": "Bakushin, BAKUSHIIIN!"
         },
         {
-            "text": "After that, I trained with Sakura Bakushin \nO to increase her speed in the new year."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wait to hatch…?"
+            "name": "Monologue",
+            "text": "Following our discussion, we begin Sakura Bakushin O's training to increase her speed on the first day of the new year."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha, could it be, Trainer-san…!?"
+            "text": "Emerge from my cocoon?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, I'm sorry!",
+            "text": "Ah… You couldn't mean to say you—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But… I'm sorry!",
             "choice_data_list": [
-                "For what!?"
+                "What?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I believe in you, Trainer-san. \nBut…"
+            "text": "I trust you, Trainer. But…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer-san is Trainer-san! \nI cannot see you as anything more than \nthat!"
+            "text": "You're my trainer after all! I'm sorry, I don't see you as anything more!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Even though I'm certain I'll turn into a very \nBakushin butterfly, I want to wait before I… \nhatch anyone's eggs!"
+            "text": "Even if I'm destined to become a Bakushin butterfly, you can't just expect to tame me once I've emerged!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Above all, impure relations are a no-go for \nthe class president!"
+            "text": "Above all, as class representative, I could never engage in such an impure relationship!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It seems we should keep our distance \nfrom each other for now."
+            "text": "It might be a good idea to put some distance between us for now."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's hard to shake off your feelings for \nmagnificent me. \nBut… I'll be waiting for you tomorrow, \nbelieve me!"
+            "text": "It is difficult to overcome feelings for someone as outstanding as me, I'm sure. But… I believe in you, so let's meet again tomorrow!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hah, it seems the class president still leads \nan impure existence."
+            "text": "Ah, as expected, the class representative must sometimes deliver bad news."
         },
         {
-            "text": "……… \n \nLet's rest."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What I… want to do."
+            "name": "Monologue",
+            "text": "…Let's get you some rest."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You know, I'm not impressed with your \ncarefree attitude of leaving everything up to me!"
+            "text": "You want me to tell you?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nevertheless, it's an excellent decision to \nask for my opinion as a superior class \npresident."
+            "text": "Just delegating all your decision making is not a very admirable choice!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, I shall tell you! What I want to do is—",
+            "text": "However, it was rather wise to seek the opinion of an outstanding class representative like me."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let me answer! What I want to do is…",
             "choice_data_list": [
-                "Other than \"get faster.\""
+                "Something other than \"speeding up.\""
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehhh!? Why such restrictions!?",
+            "text": "Huh?! Why the constraints?!",
             "choice_data_list": [
-                "Do something different every once in a while."
+                "Sometimes it's good to do something out of your comfort zone."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see, you want to see my balanced variety \nof ideas… So that's how it is."
+            "text": "I see! You want to see the wide variety of ideas I can come up with, right?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood! Allow me to answer one more \ntime."
+            "text": "Understood! Allow me to answer you once more."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What I want to do, besides get faster, is—"
+            "text": "What I want to do besides increasing my speed is…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "―nothing!"
+            "text": "NOTHING!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "On the contrary, what else does one need in \nlife but to speed up!?"
+            "text": "Let me turn this back on you! What else is there to life besides surpassing your own speed?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please tell me, O teacher!",
+            "text": "Come on, Teach! Tell me!",
             "choice_data_list": [
-                "Teacher?"
+                "Teach?"
             ]
         },
         {
-            "text": "… After that, Sakura Bakushin O and I \nexchanged various opinions about training. \nThis seems to have led to her growth."
+            "name": "Monologue",
+            "text": "…Afterwards, I exchange various thoughts about training with Sakura Bakushin O. It seems to contribute to her growth."
         }
     ]
 }

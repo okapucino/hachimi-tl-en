@@ -1,0 +1,385 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from training, we stop by the shopping district…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, a raffle… Huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That's weird, I'm sure I had a ticket in my pocket… Is it in my bag, then?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan starts fumbling around, checking her pockets."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah! It's in my phone case! I bought a new one for New Year's! I just slipped it between the case and my phone, and—whoa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thunk!</i>"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ahhh! My phooooone!",
+            "choice_data_list": [
+                "Did the screen break?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's a little cracked…",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh… Nooo…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "U-um… Do you wanna try the raffle?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "I'll do it for her!",
+                "I'll do it for her!"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right! Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I give the lever a powerful spin on Tosen Jordan's behalf!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Holy crap! That's amazing, Trainer! You got the grand prize!",
+            "choice_data_list": [
+                "Looks like it was worth getting the ticket out!",
+                "Looks like it was worth getting the ticket out!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You can say that again! Maybe we got lucky because my phone broke!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "My phone… broke…",
+            "choice_data_list": [
+                "For the grand prize! What a trade!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…Sure."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's a coupon for a hot spring getaway, right? Hehe, wonder who I should take…",
+            "choice_data_list": [
+                "You have plenty of friends to pick from.",
+                "You have plenty of friends to pick from."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Right?! How am I supposed to choose just one person? I want to go with everyone, but I'm broke!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Maybe I should just sell the tickets and take everyone to karaoke…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…",
+            "choice_data_list": [
+                "You okay?",
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah. I was just thinking about how you're the one who actually won."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…It looks like there's ages left before it expires, anyway. Guess I'll take my sweet time to think about who to bring.",
+            "choice_data_list": [
+                "Well, I hope you have a good time when you do!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're really dumb too. You should be making a case for yourself right now."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You could say it's only fair because you won it or whatever."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh my gosh, that looks delicious!",
+            "choice_data_list": [
+                "You like hamburger steaks?",
+                "You like hamburger steaks?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Like them? I <i>love</i> them!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Is that right? Glad to hear it! Here's your prize!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hehe. All right, a carrot hamburger steak.",
+            "choice_data_list": [
+                "Looks like your mood improved.",
+                "Looks like your mood improved."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I hate it when you give me that face… Like you're treating me like I'm a little kid. Ughhh…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She says that, but her tail is up and wagging quickly. It looks like she's delighted to have won first prize."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Whoa! Nicely done! Look, your trainer got the second prize!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Way to go, Trainer!",
+            "choice_data_list": [
+                "It's a whole cardboard box full of carrots!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously?! Awesome, we can eat ourselves sick!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Who should I call?! City, of course. And Palmer and Helios—all the regulars! Oh, I should hook Tickezo up too."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ohh, this is gonna be so much fun!",
+            "choice_data_list": [
+                "I'm glad you're feeling better now."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh…</i> That's just like you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Here, give me your hand."
+        },
+        {
+            "name": "Monologue",
+            "text": "She places a single carrot in my palm."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…That's your share. Don't waste it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she was nice enough to give me a carrot, I decide to cook it up and eat it within the day."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "A single carrot…",
+            "choice_data_list": [
+                "Not the best, but… it's something."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's whatever. If I had tried, I probably wouldn't have gotten anything, so…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hey! Don't forget your prize!",
+            "choice_data_list": [
+                "She seems really down…"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? What's in this bag? …Wait, carrot chips?",
+            "choice_data_list": [
+                "I made them with the carrot from earlier."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…You did?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Haha, oh my gosh, they're all totally different sizes. C'mon, at least make them match.",
+            "choice_data_list": [
+                "…I did my best.",
+                "…I did my best."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well, I'll take 'em."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…",
+            "choice_data_list": [
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Forget about it. I wonder if I can get my phone fixed."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I think there was some insurance or something…",
+            "choice_data_list": [
+                "I'll go with you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Thanks…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I leave the shopping district with a dispirited Tosen Jordan."
+        }
+    ]
+}

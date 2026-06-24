@@ -1,0 +1,207 @@
+{
+    "title": "アルダンの寄り道講座・初級編",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan and I are on our way back from an outing when she somewhat timidly proposes something."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Trainer. If you're in no particular hurry to get back, would you be interested in a small detour?",
+            "choice_data_list": [
+                "Sure. Where to?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That's for me to know and you to look forward to… Hehe! I may not look it, but I happen to be quite the detour connoisseur."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "After all, since arriving at the academy, I've grown quite fond of going out to explore after classes.",
+            "choice_data_list": [
+                "…I see."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… You'll enjoy where we're going, I assure you."
+        },
+        {
+            "name": "Monologue",
+            "text": "After quite a while, we end up at a famous aquarium. I've heard so much about this place but never found the time to come see it for myself."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Breathtaking, isn't it? Enormous tanks, an underwater tunnel, and a vibrant array of aquatic animals…",
+            "choice_data_list": [
+                "It's beautiful.",
+                "It's beautiful."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! …I must admit I only recently discovered this place. I stumbled across it on one of my detours."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I only stepped inside on a whim, but the experience was more magical than I could have imagined."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As they say, you simply won't know until you go. That's the true charm of the detour.",
+            "choice_data_list": [
+                "I-I see…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "There are still so many exhibits I wish to show you. Come along, I'll guide you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure she's ever been this insistent before. I find myself charmed by the ambiance as we go from tank to tank…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And then the next one's—oh?"
+        },
+        {
+            "name": "Small Boy",
+            "text": "Aww… They're not here…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A family of orcas is supposed to be housed here…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Granted, it is a massive tank, but there's no sign of them at all… Perhaps they're resting towards the back?"
+        },
+        {
+            "name": "Small Boy",
+            "text": "I guess I won't get to see any orcas today… Aw…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Watch this, Trainer.",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Phwwwht.",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Small Boy",
+            "text": "Was that an orca?! Where is it?!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehehe… Where indeed. ♪ Phwwwht! ♪"
+        },
+        {
+            "name": "Small Boy",
+            "text": "…Whoa?! That was <i>you?</i> Holy cow!",
+            "choice_data_list": [
+                "You're really good at that…",
+                "You're really good at that…"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… When I was a child, there was a television in the hospital and I happened to see a documentary on animal calls."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I thought that if I learned the noises, I'd one day be able to converse with animals myself. I spent quite a lot of time practicing in secret."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… Though, it is rather embarrassing to open up about this now."
+        },
+        {
+            "name": "Small Boy",
+            "text": "…Whoa?! Look! An orca!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Baby Orca",
+            "text": "Phwwht?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Is it responding to Mejiro Ardan's call? …While I ponder that question, the whole pod ends up looking this way in a confused manner."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My my, this is really something… What a surprise."
+        },
+        {
+            "name": "Small Boy",
+            "text": "Holy cow! You <i>can</i> talk to orcas! …Hey, teach me! Teach me!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, it would be my pleasure. Firstly, to hit the right pitch, you'll need to…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "What a wonderful surprise that was. I wonder what sort of message I was conveying to them through those calls."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "To think that a childhood dream of mine would come true today… Hehe.",
+            "choice_data_list": [
+                "You were adorable.",
+                "Detours are fun."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well, I do feel slightly embarrassed but… Hehe, thank you. ♪",
+            "choice_data_list": [
+                "Could you make that call again?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh? As in right here and now? Well, I'm not sure that—",
+            "choice_data_list": [
+                "Encore!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Hehe. Then I suppose I must."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Phwwwht! ♪"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, aren't they just? I knew you'd enjoy yourself.",
+            "choice_data_list": [
+                "You made it fun.",
+                "You made it fun."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm glad. What a marvelous feeling it is to be able to convey how special something is, and to share it with someone."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… I do hope that we can go on finding many more wonderful places together."
+        }
+    ]
+}

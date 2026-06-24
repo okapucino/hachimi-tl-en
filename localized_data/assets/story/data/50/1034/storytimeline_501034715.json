@@ -1,0 +1,119 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After completing a training session with Inari One…"
+        },
+        {
+            "name": "Inari One",
+            "text": "We done already? Ya sure you're not missin' something? I'm still burstin' with energy!"
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, Boss! Don't be stingy. Lemme run some more!",
+            "choice_data_list": [
+                "You're going to overwork yourself."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, Boss! Don't be stingy. Lemme run some more!",
+            "choice_data_list": [
+                "You're going to overwork yourself."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "What're you talkin' 'bout? Us Edo folk don't waste time savin' our leg strength for tomorrow!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Inari! Inari! Are you still running?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh! Hey there, Turbo. Wazzup?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I've still got energy to burn, so I wanna run some more!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "It feels amazing to run until you're exhausted! Just the other day, I ran so hard that I fell asleep as soon as I stopped!",
+            "choice_data_list": [
+                "Are you sure you didn't just pass out?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey! Fussin' over semantics is a bad look! Floor it till you run outta gas! Ya got some real Edo spirit, Turbo!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll join ya for a li'l run! I can't sit quietly lettin' you be the only stylin' racer here!",
+            "choice_data_list": [
+                "If you insist…",
+                "As your trainer, I can't let that slide either!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "All right! I knew you'd come 'round!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right, Turbo! Let's run, partner!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "You betcha! Let's run, <i>run,</i> RUN!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wait, Turbo! Don't just run off by yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One happily runs with Twin Turbo until the sun falls below the horizon."
+        },
+        {
+            "name": "Inari One",
+            "text": "…Ya know what? I respect that!"
+        },
+        {
+            "name": "Inari One",
+            "text": "…Ya know what? I respect that!"
+        },
+        {
+            "name": "Inari One",
+            "text": "The way ya stay true to yourself is really somethin' else! Ya must really believe in your ideas!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya got guts, so I'll let ya off the hook! Let's wrap up today's special trainin' session!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Huh, you're not gonna run more? Aw, I was looking forward to a real match! That sucks!"
+        },
+        {
+            "name": "Inari One",
+            "text": "How 'bout we swing by a sweets shop and have a dango eatin' contest instead? Nothin' beats sweet treats when you're feelin' tired!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "You're on! I accept your challenge!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, you're as adorable as ever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One speaks with a satisfied look on her face as she heads out with Twin Turbo."
+        }
+    ]
+}

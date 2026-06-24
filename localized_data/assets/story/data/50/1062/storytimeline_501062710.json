@@ -1,0 +1,42 @@
+{
+    "title": "Defeat",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ugh… I'm sorry, Trainer. I lost."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's frustrating to admit, but this is the best I can do right now…",
+            "choice_data_list": [
+                "I know this isn't your full potential.",
+                "Let's regroup and give it another shot!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh! What a nice way to put it!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You're right. I haven't hit my limit yet! I'm still the epitome of ordinary!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm jumping back into training starting today! My first goal is to become a slightly better kind of ordinary!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Roger roger!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right! I'm gonna get good enough to get first place by the next race!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's figure out what kind of training regimen we should do!"
+        }
+    ]
+}

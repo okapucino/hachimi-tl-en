@@ -1,0 +1,61 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Bwahaha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no mistaking Gold Ship's boisterous laugh, and I can't help but check on her."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Trainer! Look at the ground!",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a paper airplane at my feet, so I pick it up and unfold it."
+        },
+        {
+            "name": "Monologue",
+            "text": "A series of lines crisscross over the paper, and scrawled in the middle are the words \"Go, go, Golshi!\""
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's gotta be fan mail, right?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I can't believe it! I just folded it up along the lines, and this puppy took off like a jet!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hahaha! How awesome is that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Whoever sent the fan letter sure knows Gold Ship well. I guess they're not a fan for nothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The fan's thoughtfulness and love for Gold Ship renews my own motivation as a trainer."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Is that a twinkle I see in your eyes? You raring to go? Well, I'm right there with ya!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hang on, I'll fold us a paper airplane big enough to ride, and we can hop on and make straight for the clouds!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I think I'll pass."
+        }
+    ]
+}

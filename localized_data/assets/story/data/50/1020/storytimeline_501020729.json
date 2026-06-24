@@ -1,0 +1,25 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "What happened? Did you have trouble visualizing it?",
+            "choice_data_list": [
+                "That was dreadful…"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's all right. Don't look so down about it."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "We can come back and play again later. Then I'll have another excuse to skip practice, so it all works out for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

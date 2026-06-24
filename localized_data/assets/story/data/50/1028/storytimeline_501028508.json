@@ -1,0 +1,30 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Buono, buono… Buooonooooo!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, I'm still good to go. It's time to go buono and power on through!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, Trainer! Don't worry, it's nothing!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's train hard today, too! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Hishi Akebono says she's fine, it seems like she's putting up a tough front. I should probably revise her race schedule."
+        }
+    ]
+}

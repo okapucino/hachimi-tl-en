@@ -1,0 +1,247 @@
+{
+    "title": "誰がために君は走る",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm meeting with Seiun Sky today to prepare for tomorrow's scrimmage."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Once I round the corner, I'll act like I've lost my footing. Then at the end, I'll lose on purpose and make them underestimate me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep, the simulation went perfect. They're gonna fall right into my trap. ♪",
+            "choice_data_list": [
+                "So, you're preparing to win when it counts.",
+                "So, you're preparing to win when it counts."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You know it. …All right, now I that I've got my plan all worked out, it's time for some shut-eye."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "I'm coming in."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The senior trainer of our opponent in the scrimmage opens the door."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "I'm just dropping by to discuss tomorrow's race, but what was that I heard about \"shut-eye\"?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Shut-eye? That's ridiculous! Hahaha… You must have misheard."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Geez… That poor attitude of yours just goes to show how lousy a job your trainer's doing."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, hey now. My trainer never listens no matter how much I talk about skipping practice—",
+            "choice_data_list": [
+                "I apologize. I've been too lenient.",
+                "I apologize. I've been too lenient."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Get them to underestimate us—if that's her goal, then I'm on board… I look at her, hoping she gets the message."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Listen up, okay? You've clearly got no idea what it takes to be a trainer. And your racer's a running disaster."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "I hope you both take a good look at yourselves after the race tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the trainer leaves.",
+            "choice_data_list": [
+                "Think that helped your strategy?",
+                "Think that helped your strategy?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmmm… Yup."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Seiun Sky arrives at the track for the scrimmage…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sorry to keep ya!",
+            "choice_data_list": [
+                "Why'd you come in your signature racewear?!",
+                "Why'd you come in your signature racewear?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, I want to look like I'm taking this seriously. I have to go all in to make my strategy work!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Plus… this is how I get in the <i>zone.</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oop, gotta go."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Hey, you ready? It's race time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Both racers step into their gates… and they're off!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like she planned, Sky pretends she's losing her balance as she hits the turn."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now all she has to do is tear ahead in a straight line, then lose in the end so the other racer underestimates her. But suddenly…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…!",
+            "choice_data_list": [
+                "(Huh?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sky pulls ahead of the other racer and seizes a stunning victory!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Phew, I'm <i>beat.</i> That sure was a close one."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Things got real touch-and-go there. Gotta work on my cornering. I wasn't ready for <i>that</i> to mess me up again."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Well I'll say, we really got whooped there. Maybe you two aren't entirely hopeless."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "But don't go thinking things'll turn out this way when we race for real. Heh, we got some juicy tidbits outta this… Well, see ya."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh-heh-heh… Juicy tidbits, huh? Good for you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They really had me sweating today. But I got the win!",
+            "choice_data_list": [
+                "…Weren't you supposed to lose?",
+                "…Weren't you supposed to lose?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well… yeah."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Guess I couldn't help myself. Teehee! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky won't give me a serious answer. I can't help but wonder why she went against her own plan…",
+            "choice_data_list": [
+                "Thank you.",
+                "I've gotta work harder!",
+                "I've gotta work harder!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky won't give me a serious answer. I can't help but wonder why she went against her own plan…",
+            "choice_data_list": [
+                "Thank you.",
+                "I've gotta work harder!",
+                "I've gotta work harder!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? What in the world are you thanking me for?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "More importantly, don't you think I deserve a reward? I did win, after all."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "\"Nice job! Go take the rest of the day off!\" That'd be the nicest way to say it, I think! ♪",
+            "choice_data_list": [
+                "Could you ask for something besides a break?",
+                "Could you ask for something besides a break?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ugh, don't be selfish. I'm your adorable racer! You're supposed to take good care of me!",
+            "choice_data_list": [
+                "I guess you're right.",
+                "I guess you're right."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Actually, that was your cue to make a joke."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hold on a sec… What're you grinning for?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Trying to get a grip on Seiun Sky is like grasping at a cloud, but even so, I feel like I've come to understand her a little more."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Bwuh? Don't tell me that race got you all fired up?",
+            "choice_data_list": [
+                "I want to help you win even more now!",
+                "I want to help you win even more now!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Geeez. Come on, Trainer…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, I guess we can do something for the rest of the day or whatever."
+        },
+        {
+            "name": "Monologue",
+            "text": "I look to the sky and make my vow once more. I'll help Seiun Sky speed right through the Twinkle Series and lead her to victory!"
+        }
+    ]
+}

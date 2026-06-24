@@ -1,0 +1,141 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Admire Vega has been feeling under the weather recently, so I decide to take her to a shrine to try and lift her mood."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's quiet."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "She tilts her head toward the sky. It looks as though whatever tension she was feeling is beginning to ease up.",
+            "choice_data_list": [
+                "What are you looking at?",
+                "What are you looking at?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The stars. Even though they're not visible in the daytime, I know they're up there."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "<i>Huff! Puff! Huff!</i>"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Wheeew! Ah, Ayabe and her trainer! What a coincidence!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It is. Are you practicing running on the road?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yes! This is the point where the track turns back toward the academy!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "If you haven't visited the shrine yet, would you like to go in together? I usually offer a prayer before heading back!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'll pass. I just came here for a change of scenery."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I see. Well, I'm going to head to the shrine then!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'll pray that we'll both be in tip-top condition for our races!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What… do you mean by that?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "That's just the wish I want to come true! I don't want either of us to suddenly get into an accident or fall sick or anything!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Obviously, whether you run well or not is completely on you though!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Anyway, I'm off! See you!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Give me a break…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Trainer, can you come with me to the shrine?",
+            "choice_data_list": [
+                "Sure. But I thought you weren't up for it.",
+                "Sure. But I thought you weren't up for it."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well, I am now. Guess I got better."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Also… I have a favor to repay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her face glows cheerfully as she speaks. With that, we both go to pray at the shrine."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Is that so… Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We hear a rumbling sound in the distance.",
+            "choice_data_list": [
+                "Is that…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Plip… Plip, plop… FSSSHHH!</i>"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Gahh! Rain?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly the sky becomes dark and the street is awash with heavy rain. But before long, the clouds drift away, and the sky becomes sunny again."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "That was some downpour! I'm glad it was over quickly, but now we're drenched."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The sudden storm has put Admire Vega straight back into a bad mood again."
+        }
+    ]
+}

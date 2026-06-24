@@ -1,0 +1,300 @@
+{
+    "title": "黄昏ビタースイート",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nice Nature's mother is coming to visit in a few days, so I make a suggestion after one of our outings.",
+            "choice_data_list": [
+                "What do you think about entering the next scrimmage?",
+                "What do you think about entering the next scrimmage?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The next one? The one Mayano said she's running in?",
+            "choice_data_list": [
+                "That's right. It's the day your mom is coming.",
+                "That's right. It's the day your mom is coming."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she's coming all this way, we might as well show her a race. Besides, with Nature's current skills, she has what it takes to win."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> And you won't accept no as an answer, I take it?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I guess I have no choice. I'll join. I don't know if I can beat Mayano, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later. Right before the scrimmage…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Mom and Trainer are both here, waving at me from the audience… It's just like elementary school!)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…I can't mess this up."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hehe! ♪ I'm going to win today's race too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(I knew Mayano would rush out from the beginning. Just as expected, she's pace chasing.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we planned in the pre-race briefing, Nice Nature is staying on Mayano Top Gun.",
+            "choice_data_list": [
+                "But… it seems like she's going faster than usual…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "No way…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "<i>Pant… Pant…</i> All right, might as well get started. Time for takeoff!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(No way, she's accelerating now?! So she wasn't pace chasing, but front running?!)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Darn it, the strategy is all off! If I let her keep going… I'll lose!)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Darn it aaaaall!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature dashes out of the group to follow after Mayano Top Gun, but she loses her pace in the process and ends up in third place."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, Nice Nature's mother seems happy to see how far her daughter has come."
+        },
+        {
+            "name": "Monologue",
+            "text": "All the same…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been a while since the scrimmage ended, but Nature is nowhere to be seen.",
+            "choice_data_list": [
+                "Her mom's waiting for us in the cafe, though…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see her anywhere in the academy. Maybe she went outside? According to her mother, she would often go to the riverbank to sulk when she felt sad."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, Trainer… Have you been looking for me?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sorry for getting your hopes up for nothing! I'm just the same old me, always third place! Hahaha!",
+            "choice_data_list": [
+                "Yup, the same old Nature.",
+                "You don't have to force yourself to smile.",
+                "You don't have to force yourself to smile.",
+                "What's done is done! Let's do something to take our minds off things!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sorry for getting your hopes up for nothing! I'm just the same old me, always third place! Hahaha!",
+            "choice_data_list": [
+                "Yup, the same old Nature.",
+                "You don't have to force yourself to smile.",
+                "You don't have to force yourself to smile.",
+                "What's done is done! Let's do something to take our minds off things!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…!",
+            "choice_data_list": [
+                "You gave it your best, like you always do."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…So what?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You say I gave it my best, but my best is worthless if I still lose!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I really wanted to win this race… I <i>had</i> to win this race!",
+            "choice_data_list": [
+                "But your mother looked really happy."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that her mother felt her determination."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But… still… It's really frustrating."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh, I cried way too much. Someone my age should <i>not</i> be crying like this.",
+            "choice_data_list": [
+                "It's okay to let it out every once in a while."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trust me, it's all out! Come on, let's go back to my mom."
+        },
+        {
+            "name": "Monologue",
+            "text": "With Nice Nature having regained her composure, we go back to see her mother."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature acts embarrassed while they talk but wears a happy smile on her face the whole time."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm not forcing anyth—",
+            "choice_data_list": [
+                "Well, I know <i>I'm</i> frustrated. I really wanted you to win.",
+                "Well, I know <i>I'm</i> frustrated. I really wanted you to win."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I think I got cocky after going step for step with Mayano when we were partner running."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And when she praised my speed, I didn't take into account that she was also sizing me up…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh…</i> Mayano really is on another level. She's a smart one…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I bet she doesn't know what this feels like.",
+            "choice_data_list": [
+                "Nature…"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, don't get me wrong! I like Mayano, of course. It's me that I don't like."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm just narrow-minded, ignorant, and… plain.",
+            "choice_data_list": [
+                "I think you're great just the way you are.",
+                "I think you're great just the way you are."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I reassure her that I'm here to help her get past anything that's troubling her. We're a team, after all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And what if that doesn't work?",
+            "choice_data_list": [
+                "Then we can sulk here together."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Pfft. Hahaha! You're funny."
+        },
+        {
+            "name": "Monologue",
+            "text": "After taking a moment to compose herself, we head back to her waiting mother."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature acts embarrassed while they talk but wears a happy smile on her face the whole time."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, yeah? Like what?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I bring a befuddled Nice Nature to one of her favorite spots—the shopping district."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, now that you've brought me here, what are we doing exactly?",
+            "choice_data_list": [
+                "The only thing you should do when your spirits are down—get some food!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I go buy some taiyaki."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Taiyaki, huh?",
+            "choice_data_list": [
+                "Oh, do you not like them?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I do. I was just remembering how my mom always bought me one when I was feeling down."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez, both of you really know how to lay it on thick.",
+            "choice_data_list": [
+                "It just shows how worried we are about you."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Worried, huh? I guess I worried Mom again back there."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…Maybe I should get her some taiyaki too, as an apology gift."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head back to her mother with a bag of taiyaki in hand."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature acts embarrassed while they talk but wears a happy smile on her face the whole time."
+        }
+    ]
+}

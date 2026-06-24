@@ -1,44 +1,45 @@
 {
-    "no_wrap": true,
+    "title": "CBC賞にむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Haah… ha……"
+            "text": "<i>Huff… Huff…</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hoh… hoh…!"
+            "text": "<i>Hah… hah!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Gallop, gallop… \nOya, perfect!",
+            "text": "One two, one two… That's more like it!",
             "choice_data_list": [
-                "Are you restless?"
+                "Why don't you take a breather?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no! \nI'm completely prepared!"
+            "text": "No need! I have steeled myself for this!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, I'm still in the race!"
+            "text": "I'm still in the running!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm still in the middle of \nrunning towards the 3600m goal!!",
+            "text": "I'm at the midpoint of the 3,600-meter finish line!",
             "choice_data_list": [
-                "……You're right!",
-                "……You're right!"
+                "Th-that's right!",
+                "Th-that's right!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With the momentum from the Hakodate \nSprint Stakes, I'll go on to win the CBC Sho!"
+            "text": "I'll win the CBC Sho the same way I won the Hakodate Sprint Stakes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Gallop, gallop!"
+            "text": "One two, one two!"
         }
     ]
 }

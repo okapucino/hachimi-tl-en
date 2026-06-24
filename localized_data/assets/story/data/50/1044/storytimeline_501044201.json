@@ -1,0 +1,143 @@
+{
+    "title": "Before the Hanshin J.F.",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during the lead-up to the Hanshin J.F., my colleague approaches me while I'm eating lunch in the cafeteria."
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "I heard about your debut race.",
+            "choice_data_list": [
+                "What did you hear?"
+            ]
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "About you and that trainee of yours. Apparently, she threw a big fit and caused everyone a lot of hassle."
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "Get your act together. You're supposed to be guiding her!",
+            "choice_data_list": [
+                "I wonder…"
+            ]
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "But that isn't to say that children don't know the right path themselves."
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "They have their own compass, and it works even without any guidance from adults. They're not babies, after all."
+        },
+        {
+            "name": "Fellow Trainer",
+            "text": "…? Hello? Anyone home?",
+            "choice_data_list": [
+                "Sorry, I was just thinking about something."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Hanshin J.F. I go to the spot Sweep Tosho and I agreed to meet, where I find another Umamusume there with her."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sweep. Wait."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The other day, when you were half-asleep, I heard you saying you didn't want to race."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If the situation you're in is hindering your growth, you should consider stepping away from it."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Which is to say, if you want to take a break from racing, take a break. If you don't want to do interviews, decline. And if you need assistance, I'll help you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Or is your trainer the source of your anxiety? If you want to change to another trainer—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Shaddup!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I hate stuff like this the most! I hate, hate, <i>hate</i> it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha! Talk about getting rejected."
+        },
+        {
+            "name": "Monologue",
+            "text": "(That's Tokai Teio. She's a charismatic Umamusume who grabs people's hearts and never lets go. She even made a miraculous recovery after getting injured.)",
+            "color_text_info_list": [
+                "Tokai Teio"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "So you saw that?",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're too motherly, Air Groove. That's why Sweep pushes you away."
+        },
+        {
+            "name": "Air Groove",
+            "text": "\"Motherly\"?! I'm just—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If you're that worried, just go watch her race without saying anything. There's someone running who I've got my eyes on, so I'll be there too. ♪"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like our relationship is a cause of concern not just for other trainers, but for other Umamusume as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho is pouting. I still don't know how to cheer her up when her mood suddenly sours like this.",
+            "choice_data_list": [
+                "(But…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not her parent. We don't always need to be comforting each other. So in that case…",
+            "choice_data_list": [
+                "I know you can do it, Sweep.",
+                "I know you can do it, Sweep."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "I believe in you."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…!"
+        }
+    ]
+}

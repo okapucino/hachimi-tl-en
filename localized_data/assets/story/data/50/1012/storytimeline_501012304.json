@@ -1,0 +1,94 @@
+{
+    "title": "阪神JFの後に・注目のウマ娘",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Reporter A",
+            "text": "Wow, Hishi Amazon was truly something else. Her running today was quite excellent."
+        },
+        {
+            "name": "Reporter B",
+            "text": "She's suddenly given us something to look forward to come next year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon's jaw-dropping performance creates a stir among the spectators."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe, not too shabby, if I do say so myself.",
+            "choice_data_list": [
+                "Great job out there!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as I'm about to suggest she gets some hard-earned rest, a voice cuts into our conversation."
+        },
+        {
+            "name": "Miho Student A",
+            "text": "Hishiama! You were amaaazing!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey! What are you guys doin' all the way here?"
+        },
+        {
+            "name": "Miho Student B",
+            "text": "We overheard people talking about you in the stands! Everyone's saying you'll be the biggest racer next year!"
+        },
+        {
+            "name": "Miho Student B",
+            "text": "We got so excited, we just had to come tell you!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe… So they've all got eyes on me, huh?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Thanks for the heads up! Guess this means no slackin' for me!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right! It's back to the academy for some training!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm gonna head out now, Teach!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Miho Students",
+            "text": "Wait up, Hishiamaaa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon leaves the Hanshin Racecourse with her residents trailing after her. I couldn't get a word in to stop them."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once the new year comes, Hishi Amazon will finally enter her classic year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon, it'll be time for her to decide whether she wants to pursue the Triple Tiara tour or the Classic Triple Crown tour."
+        },
+        {
+            "name": "Monologue",
+            "text": "In my opinion, the Tiara tour is better suited for her, considering her aptitude for mile and medium-distance races. However…",
+            "choice_data_list": [
+                "(I wonder what she'll pick?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll ask her to start considering her options, but for now, I'll focus our training plans on the first Tiara race, the Oka Sho.",
+            "color_text_info_list": [
+                "Oka Sho"
+            ]
+        }
+    ]
+}

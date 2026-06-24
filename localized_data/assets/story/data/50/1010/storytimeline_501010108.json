@@ -1,0 +1,189 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A Fan Fest featuring a variety of events is held for the Umamusume's most ardent supporters."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle is all pumped up for the festivities, hoping to keep her fans entertained."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw! The energy here is really buzzing! Everybody looks like they're havin' a blast!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And my time to shine is comin' up soon! I'm gonna put big smiles on everybody's faces!",
+            "choice_data_list": [
+                "What event are you in?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh… I'll be runnin' in a pretty exciting race!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It's called the Carrot Crunch Dash. Ya gotta get to the finish line after eatin' all the carrots in your way!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I know how to run, and I sure know how to eat! I'm shootin' for victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The carrot dash eventually sets into motion…"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Everyone is off to a beautiful start! But who among them knows how best to maintain their speed <i>and</i> appetite?!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Taiki Shuttle has had great results on both turf and dirt. I'm looking forward to seeing how she does today.",
+            "choice_data_list": [
+                "She won't lose, no matter the race."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe, I'm starting to understand how she's made it this far."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "She has such a trusting trainer by her side."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's necessary for both trainer and Umamusume to be in sync. Without trust, I won't be able to make her dream a reality."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Our participants will arrive at their first carrot shortly! They must finish the whole thing before they can move on!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Each racer has launched into a clean, precise jump to snatch their carrot out of the air!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki latches onto the carrot hanging above her lane and starts eating it."
+        },
+        {
+            "name": "Monologue",
+            "text": "This should be child's play for her—she's an Umamusume who can speed down a track <i>and</i> through a meal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Or so I thought…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa! This carrot is so delicious!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "What a development! Everyone has slowed down considerably!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Don't tell me… Were those carrots brought in from Aichi?!",
+            "choice_data_list": [
+                "What does that mean?!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "They're carrots of fable, laden with sugar—supposedly sweeter than watermelons…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "They taste even sweeter the more you chew, until all you want to do is continue savoring their flavor."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "With something so exquisite on the track… we may no longer have a race on our hands!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not a hundred percent sure what's going on, but judging by Tazuna's reaction, finishing the carrots is likely no easy feat.",
+            "color_text_info_list": [
+                "Tazuna"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh… I lost. That carrot was just too darn tasty…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But hey, at least my fans seemed to get a kick outta the whole shebang!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It was probably just as fun as watchin' a ra—no! No, no, no! I gotta entertain 'em even more from here out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Fan Fest has given Taiki a burst of motivation."
+        },
+        {
+            "name": "Girl A",
+            "text": "You can do it, Taiki Shuttle!"
+        },
+        {
+            "name": "Boy B",
+            "text": "Go, Taiki! Keep running!",
+            "color_text_info_list": [
+                "Taiki"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa, what am I doing?! Have I just been standin' here eating this carrot?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't wanna be happy all on my own! I gotta make <i>everybody</i> happy!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Oh, what's this? Taiki Shuttle has taken the lead! She's running full steam ahead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm number one! Thanks for all the support, y'all!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Wow, that was amazing! You're so fast!"
+        },
+        {
+            "name": "Boy B",
+            "text": "Hey, Taiki! I'll cheer you on in your next race too!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay! I won't let y'all down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle has a crowd of fans around her."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's steadily sprinting her way into everyone's hearts."
+        }
+    ]
+}

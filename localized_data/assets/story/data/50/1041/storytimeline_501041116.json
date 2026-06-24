@@ -1,121 +1,124 @@
 {
-    "no_wrap": true,
+    "title": "バクシン的トレーニング……？",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One day, Sakura Bakushin O was training \nto further improve her speed in order to \nwin by a large margin over Nishino Flower…"
+            "name": "Monologue",
+            "text": "One day while training for speed, our hearts set on gaining a major win against Nishino Flower…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer! \nBench press has been completed!",
+            "text": "Trainer! I've finished my bench presses!",
             "choice_data_list": [
-                "Okay, 10-minute break!"
+                "Then let's break for ten!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There is no need for a break! \nI can still keep going!"
+            "text": "I don't need a break! I still have a lot in me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, please do send over your next muscle \ntraining…"
+            "text": "What exercise should I do next…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahh! That gaze!!"
+            "text": "Hm! I sense some eyes upon us!"
         },
         {
-            "name": "Both",
-            "text": "……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hyaaaah! I was quite startled!"
+            "name": "Two Umamusume",
+            "text": "…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's the matter, you two? \nYou're just staaaaring at me."
+            "text": "Hoo! You scared me there!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However, I can see why you'd be so \nenamored with my hard work!"
+            "text": "What's the matter you two? You're staring pretty hard at me."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha! \nSo, you're studying me as a rival!?"
+            "text": "Although I do understand not wanting to take your eyes off an exceptionally hard worker like myself!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Gah! Are you perhaps researching me as your rival?!"
         },
         {
             "name": "Rice Shower",
-            "text": "Well, I thought Ms. Bakushin O was working \nreally hard, so I…"
+            "text": "Um, I was just thinking that… you're really giving it your all, Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see! I knew you were here to compliment \nme. Thank you very much!"
+            "text": "I see! You have come to compliment me then, as I thought. Thank you very much!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But this kind of training is only natural if \nyou're trying to achieve speed."
+            "text": "If speed's what you have in mind, training like this is only natural."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "A high-impact workout that efficiently \ntrains muscle reflexes…"
+            "text": "Intensive training course spotted, effective for rapid muscle growth…"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I've concluded that you are making the \nshortest possible effort to becoming a \nshort-distance champion."
+            "text": "Conclusive evidence that hard work and training is the fastest possible route to becoming the Sprint Champion."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Short-distance champion!?"
+            "text": "The Sprint Champion?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, I didn't plan on――"
+            "text": "No, you've got the wron—"
         },
         {
             "name": "Rice Shower",
-            "text": "In short distance races, Ms. Bakushin O \ngets a lot of great results… \nIt's, truly amazing."
+            "text": "You've done so well in your sprints… It's truly amazing."
         },
         {
             "name": "Rice Shower",
-            "text": "Um, well, we're all rooting for you, so… \nKeep it up, okay!"
+            "text": "Um, Bourbon and I will be cheering you on, so… Do your best!"
         },
         {
-            "name": "Sakura Bakushin O",
+            "name": "Two Umamusume",
             "text": "…",
             "choice_data_list": [
-                "…Bakushin O"
+                "…Bakushin O."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I know why we're doing this!!"
+            "text": "Fear not! I completely understand what you're doing!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's all so that I can work on my speed and \nmake myself a winner on the Bakushin Road."
+            "text": "All of this is to push my speed to the limits and help me claim victory everywhere I go on my Bakushin Road."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Right??"
+            "text": "Right?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, of course I am! \nSo, affirmative, all is well."
+            "text": "Yes, that's right! So, yes, I'm okay…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm not suspicious at all, I'm not thinking \n\"Am I really being made into a sprinter!?\" \nor anything at all, so don't you worry!"
+            "text": "I'm not worried that you're making me into a sprinter or anything, so rest easy!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm not even thinking, \"I haven't run \nin the same race as Ms. Rice and her \nfriends in a while…\"!"
+            "text": "Nor am I thinking about how Rice hasn't been in any of my races lately!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come on, let's keep training! \nTo win every exemplary race there is!!"
+            "text": "Yup! Let's get back to training!"
         },
         {
-            "text": "…Right, it's all about winning. \nShe's not wrong. \n……That's the idea!!"
+            "name": "Monologue",
+            "text": "This is all so we can win, and that is the one thing we firmly agree on."
         }
     ]
 }

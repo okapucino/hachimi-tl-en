@@ -1,0 +1,36 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During training, I notice Air Groove stumbling for a moment.",
+            "choice_data_list": [
+                "Didn't sleep well last night?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You could say that—I went to bed later than I intended. The moon was so beautiful, I…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No, I needn't go into that. Forget I said anything.",
+            "choice_data_list": [
+                "Well, now I'm curious!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fine… I tried reading under the moonlight and… completely lost track of the time."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But this is a problem of my own doing! Now, let's get back to training!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We return to training, but Air Groove remains a little off form."
+        }
+    ]
+}

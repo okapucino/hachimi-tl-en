@@ -1,0 +1,235 @@
+{
+    "title": "大儀であります",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Lady",
+            "text": "Oho, do my eyes deceive me, or is that Lady Fine before me!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Oh! I believe the last time we saw each other was back in Ireland, was it not?",
+            "choice_data_list": [
+                "Who's your friend?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This gentleman is a diplomat representing Ireland. He was of no small assistance when I was arranging my study abroad."
+        },
+        {
+            "name": "Gentleman",
+            "text": "I do believe us meeting here again has happened for a reason. I'm actually holding a banquet at my estate. I would be most honored to have you attend."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you very much for extending an invitation."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "However, I am afraid the decision is not mine to make."
+        },
+        {
+            "name": "Gentleman",
+            "text": "Yes, I see. You are her trainer, correct? What say you?"
+        },
+        {
+            "name": "Gentleman",
+            "text": "It's a rather casual occasion. There's no dress code. You're both very welcome, assuming you've the time to spare."
+        },
+        {
+            "name": "Monologue",
+            "text": "…Honestly, I'm nervous. Considering how disastrous things have been so far today, I can't help feeling anxious that I might embarrass Fine Motion."
+        },
+        {
+            "name": "Monologue",
+            "text": "But then, I'm not just anybody—I'm her trainer. And as her trainer, my desire to support her is even more intense than that anxiety!",
+            "choice_data_list": [
+                "Let's attend the party, Fine!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, let's. Well then, perhaps you could lead the way?"
+        },
+        {
+            "name": "Lady",
+            "text": "Goodness, if it isn't Lady Fine! It has been some time since our last meeting, hasn't it? I see that you've grown into a wonderful young lady."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you. And if I may, you remain as ebullient as ever yourself.",
+            "choice_data_list": [
+                "(She's got dignity for days!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I knew she had it in her, but the sheer nobility she exudes when the occasion calls for it leaves me speechless. I can't help feeling painfully out of place in comparison."
+        },
+        {
+            "name": "Guest",
+            "text": "I hear that you're Lady Fine's trainer. Is that right?",
+            "choice_data_list": [
+                "Y-yes!"
+            ]
+        },
+        {
+            "name": "Guest",
+            "text": "I've been wanting very much to speak with you. I wonder, considering her results thus far, what manner of strategy the two of you intend to implement moving forward?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I won't blow it this time! It's time for me to step up as Fine Motion's trainer!",
+            "choice_data_list": [
+                "Well, actually…"
+            ]
+        },
+        {
+            "name": "Guest",
+            "text": "I see. I wasn't aware of such training methods! My niece is an Umamusume, you see. She just loves to run. Would you mind if I utilized some of those training techniques with her?",
+            "choice_data_list": [
+                "Please do."
+            ]
+        },
+        {
+            "name": "Guest",
+            "text": "This has been extraordinarily illuminating. I very much look forward to speaking with you again."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I somehow survive the conversation and slip away for a break with Fine Motion when an opportunity presents itself."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Quite an evening, wouldn't y—oh my. You seem way more stressed than I was expecting.",
+            "choice_data_list": [
+                "I wanted to support you properly this time…"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And you have! You've been just splendid, if you ask me. Actually, I've been subject to some praise myself."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Still… it's not our success at the party that I'm most happy about. ♪",
+            "choice_data_list": [
+                "What is it, then?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What's made me happiest is how hard you've been trying on my behalf."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You diligently gathered all those clues during the mystery game so I'd have a great time, and then you helped me solve the mystery as well…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And you took charge to make everything as fun as possible so I'd make plenty of lovely memories!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You were always there by my side, trying your very best. Given that you're such a hard worker, you might deny it, but…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You cannot deny this pounding in my chest."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's why I'm so proud… both of you as my trainer, and the fact that I get to work alongside such an amazing person!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Will you continue to travel down this path with me?",
+            "choice_data_list": [
+                "Of course!",
+                "Your wish is my command.",
+                "Y-yeah! And I'm gonna work extra hard!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. I thought you'd say that. And that's what makes you <i>you,</i> Trainer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Or something like that! ♪"
+        },
+        {
+            "name": "Guest",
+            "text": "Lady Fine, I wonder if I might trouble your trainer for some further conversation?",
+            "choice_data_list": [
+                "…Let's get back in there!",
+                "…Let's get back in there!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We head back to into the crowd side-by-side. I make the conscious decision that this is where I'm going to be from now on—walking directly by her side."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh! …Hehe. So that's how you're playing it, huh? Very well."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I hereby acknowledge your spirited intentions… I would very much like to extend my gratitude as well."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Even if I were to return to my home far, far away, the magnificent memories I have made here in Japan would remain in my heart. Your contribution to those memories has been indispensable."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I expect great things from you… my trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "She stands perfectly straight as she addresses me in her noble tone. I'd better do my very best to ensure all her days are bright."
+        },
+        {
+            "name": "Monologue",
+            "text": "With resolve in my heart, I bow respectfully to my trainee."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha! Talk about gung ho! Don't go overboa—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Although… I suppose pushing past our limits <i>will</i> force us into new experiences… Don't you agree?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "At least, it has so far!",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Heh-heh-heh. I wonder what sort of unreasonable requests I should make…",
+            "choice_data_list": [
+                "Ooh… Please go easy on me!",
+                "Ooh… Please go easy on me!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The words slip out and Fine Motion's smile grows wider. I see a kindness in her expression, though, and rest easy."
+        }
+    ]
+}

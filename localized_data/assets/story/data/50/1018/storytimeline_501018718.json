@@ -1,0 +1,29 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After her day off, Air Groove comes by my office.",
+            "choice_data_list": [
+                "How was your day off?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "What will that knowledge gain you?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "We have a mountain of other things to get to, and there's precious little time to waste."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…But if you must know, I had a very typical day off. There was nothing particularly special about it."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I took full advantage of it and am very satisfied. That's all. Happy?"
+        }
+    ]
+}

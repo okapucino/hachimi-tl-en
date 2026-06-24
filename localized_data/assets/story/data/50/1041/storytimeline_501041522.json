@@ -1,39 +1,42 @@
 {
-    "no_wrap": true,
+    "title": "お肌の調子が……",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One morning――"
+            "name": "Monologue",
+            "text": "One morning…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hold it right theeeere―! You're just barely \nin time for the start of school! \nBeing tardy is the predecessor to \ndelinquency! Do take care!"
+            "text": "Shake a leg! You're almost late for the start of class! Tardiness is the route to delinquency! Be careful!"
         },
         {
             "name": "Classmate",
-            "text": "Jeeez. You can't be in a huff like that every \nday, you know! \nLook, Prez, your skin is rough."
+            "text": "Come on! You're way too worked up all the time! That's why your skin is looking so rough!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!? Rough skin!?!? \nTh, that can't be…"
+            "text": "Wha?! My skin is… rough?! Th-that can't be…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Neglecting one's health is the predecessor \nto delinquency! \nAt this rate, am I going to become a \ndelinquent…!?"
+            "text": "An unhealthy lifestyle is the route to delinquency! Am I… going to become a delinquent?!"
         },
         {
             "name": "Classmate",
-            "text": "Seriously? Then, that makes me perfect, \ndon't you think! \nI always take great care of my skin♪"
+            "text": "Oh! Then that makes me a star student! I follow a proper skincare routine!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this!? So, that means that, \nthe delinquent… is……me!?"
+            "text": "No way?! So the bad student here… is me?!"
         },
         {
             "name": "Classmate",
-            "text": "Uuumm… I don't totally get what you're \nsaying, but I'm sure it's fine! Don't worry \nabout it!"
+            "text": "Erm, I dunno… But cheer up anyway! Don't fret it!"
         },
         {
-            "text": "Sakura Bakushin O went through a crisis \ndue to her rough skin…"
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is shocked to realize she has skin issues."
         }
     ]
 }

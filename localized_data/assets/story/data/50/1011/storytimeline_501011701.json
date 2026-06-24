@@ -1,0 +1,34 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "This morning, I awoke with the sunrise, so I decide to head to the academy early."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Good morning, Trainer. It really is a lovely day, don't you think? ♪",
+            "choice_data_list": [
+                "Morning! You seem to be in a good mood.",
+                "Morning! You seem to be in a good mood."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I had a wonderful koto lesson on my day off yesterday."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's such a rewarding feeling—producing beautiful tones with your own two hands."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Now I'm ready to hop right back on the path to the top at full strength. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Grass Wonder was able to rest well during her day off."
+        }
+    ]
+}

@@ -1,30 +1,33 @@
 {
-    "no_wrap": true,
+    "title": "ホープフルSにむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "The day of the Hopeful Stakes had arrived."
+            "name": "Monologue",
+            "text": "The day has finally arrived for the Hopeful Stakes."
         },
         {
             "name": "Gold Ship",
-            "text": "Today's Heartful Gretel was it? \nI heard it's the first ever underwater race."
+            "text": "What's today's race again? The Heartful Gretel? I heard it's the first race ever held underwater."
         },
         {
             "name": "Gold Ship",
-            "text": "Heheh. So at last then, it is time to show \nthe world my graceful butterfly!"
+            "text": "Hehe! Finally, the day I can show the world my stunning butterfly stroke has come!"
         },
         {
             "name": "Gold Ship",
-            "text": "Just you wait, Pacific Ocean…! \nI'm gonna cross the Japan Trench!"
+            "text": "Just you wait, Pacific Ocean! I'll see you as soon as I get past the Japan Trench!"
         },
         {
-            "text": "Her ideas sound questionable at best \nbut at least she looks in the mood…!",
+            "name": "Monologue",
+            "text": "She's definitely excited for the wrong thing, but at least she's excited to race in general!",
             "choice_data_list": [
-                "G-Go for it!"
+                "D-do your best!"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Leave it to me! \nI can cross a trench or two with ease!"
+            "text": "Will do! Nothing can stop me, much less a measly oceanic trench or two!"
         }
     ]
 }

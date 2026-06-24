@@ -1,0 +1,295 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Today's the Spring Fan Fest, an event in which Umamusume compete in various trials to entertain their fans.",
+            "choice_data_list": [
+                "(Yep, Sky's not here!)"
+            ]
+        },
+        {
+            "text": "That's nothing out of the ordinary, so I calmly leave to check out Seiun Sky's usual hangout spots, when…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn…</i>",
+            "choice_data_list": [
+                "(There she is! But who's that with her?)"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Look what we have here… Sky, this is unacceptable behavior."
+        },
+        {
+            "text": "King Halo is here as well. I can't help but find it strange that a well-behaved student like her would be on the roof."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Chill out, no one can see me. Besides, aren't you competing, King?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Isn't it way more unacceptable for a proper lady like you to be playing hooky?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I am not playing hooky! …I'm simply taking a break."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You <i>say</i> that, but you totally ran away, right? I don't blame ya. Getting swarmed by reporters asking, \"Why this insane decision?\" doesn't sound fun."
+        },
+        {
+            "name": "King Halo",
+            "text": "…!"
+        },
+        {
+            "text": "King Halo has been running in mile and sprint races lately, and I know the press is eager to find out what caused her sudden shift in course."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sooo, why the change of heart? How about an exclusive for the Sky Tribune?"
+        },
+        {
+            "name": "King Halo",
+            "text": "…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Uh… What's with the angry glaring?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Did you already tell me? Or did I say someth—"
+        },
+        {
+            "name": "King Halo",
+            "text": "No! It has nothing to do with you."
+        },
+        {
+            "name": "King Halo",
+            "text": "I simply reconsidered my path… the path <i>I</i> must follow."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm not fleeing the press. I feel neither regret nor any sense of inferiority concerning my decision."
+        },
+        {
+            "name": "King Halo",
+            "text": "It's only that… at the moment I'm a little…"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "A little?"
+        },
+        {
+            "name": "King Halo",
+            "text": "…It's nothing. I'm leaving."
+        },
+        {
+            "name": "King Halo",
+            "text": "Stay right where you are and watch as I handle the press in my first-rate manner!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sorry, sorry—I tease too much. You don't have to rush off."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Twenty minutes."
+        },
+        {
+            "name": "King Halo",
+            "text": "What?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I have to show up anyway, so I'll go be everybody's idol for about twenty minutes."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just keep your eyes on me. You're gonna be biting on your hankie when you see the way I work the crowd."
+        },
+        {
+            "name": "King Halo",
+            "text": "…!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, and when you've had enough, just tell 'em you've had enough."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's what I always do."
+        },
+        {
+            "name": "King Halo",
+            "text": "Wait a moment—"
+        },
+        {
+            "name": "King Halo",
+            "text": "…How absurd. I'm not going to handle things the way you do."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, hey, Trainer. Doing a little eavesdropping, I see. Tsk-tsk.",
+            "choice_data_list": [
+                "You two get along pretty well.",
+                "You two get along pretty well."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nah, it's not like that. There's not much other people can help you with."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "In the end, the only person you can rely on… is yourself."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Anyway! I gotta go work the crowd!",
+            "choice_data_list": [
+                "Work the crowd? You?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep. Speaking of, I've got a favor to ask."
+        },
+        {
+            "text": "Seiun Sky asks me to gather as many fans and reporters as I possibly can. And then…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Seiun Sky! Do you have a strategy prepared for the next spring Tenno Sho?!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Tell us your strategy as an exclusive! We'll trade you info on some hidden fishing spots for it!"
+        },
+        {
+            "name": "Fan A",
+            "text": "You're so cute, Sei! ♪ Take a picture with us girls!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Hey, I was here first! Sei, let me adopt you!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, this is chaos!",
+            "choice_data_list": [
+                "Did I bring too many people?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nope, this is <i>exactly</i> what I ordered. I just have to try and manage them all."
+        },
+        {
+            "name": "Fans",
+            "text": "Seiun Sky! You're adorable! Can I pat you on the head?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm not sure I'm cut out for this. Nya-ha-ha…"
+        },
+        {
+            "text": "Sky somehow manages to speak with every last fan and reporter… but ends up pretty exhausted."
+        },
+        {
+            "name": "Fans",
+            "text": "You're so cute, Sei! ♪ Take a picture with us girls!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe. Nice one, Trainer. ♪ I knew you'd do a great job rounding everyone up!",
+            "choice_data_list": [
+                "What are you planning?",
+                "What are you planning?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You'll just have to wait and see."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Uh, reporter in the back? You asked about my strategy for the spring Tenno Sho, right?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Yes! Are you seriously going to tell us?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm, well… I guess that depends on what I get in return."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Y-you want compensation?! But I don't have—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Listen up, fans! It's time to go take a nap in the courtyard!"
+        },
+        {
+            "name": "Fans",
+            "text": "Woooo! Can't wait to see your face when you sleep! ♪"
+        },
+        {
+            "name": "Reporter A",
+            "text": "O-okay! Okay! I can trade info with you!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "It's about this year's spring Tenno Sho… According to a certain source, Special Week is… <i>mumble, mumble.</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I see… That's some juicy info. ♪"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Now then, about your strategy…"
+        },
+        {
+            "name": "Fan B",
+            "text": "Sei, let's get going already! You can rest your head on my lap!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ah, sorry about this, but I gotta get going!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is the Fan Fest after all. That means my fans come first."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Huh?! But I gave you that info!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, I didn't promise anything. I said it'd <i>depend</i> on what I got, remember?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'll give you an exclusive interview after the race, so we'll make it even then. ☆"
+        },
+        {
+            "name": "Reporter A",
+            "text": "B-but that's… Well, the spring Tenno Sho is huge, so if you're offering an interview afterward… that could work."
+        },
+        {
+            "text": "After reaching this miraculous compromise, Seiun Sky manages to bag some nap time by dressing it up as a fan event."
+        }
+    ]
+}

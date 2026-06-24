@@ -1,0 +1,38 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Something about the way Rice Shower is moving while she trains seems off…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff, puff.</i>",
+            "choice_data_list": [
+                "Are you feeling all right?",
+                "Are you feeling all right?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sorry… I think I pushed myself too hard in the last race…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sorry… I think I pushed myself too hard in the last race…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, but… I'm fine! No need to worry about me!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, but… I'm fine! No need to worry about me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like she's still tired from her last race. I might be pushing her too hard, so I'd better keep an eye on her."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Claw Machine: Great Success!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wooow! You practically emptied out the machine!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Helios'd probably lose her mind if she was here! Like no cap, you should seriously go pro at this!",
+            "choice_data_list": [
+                "That's a bit much."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I guess it'd be a bit extra if I hung all of these on my bag, though."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It'd be a shame not to use them… Oh! Let's put them in your office! I bet that'll really liven up the place!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

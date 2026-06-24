@@ -1,0 +1,265 @@
+{
+    "title": "助け、助けられ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After spending a day out together, Tamamo Cross and I are headed back to the academy when…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hm? I'm gettin' a call… Sorry, could ya gimme a minute?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh, you're the manufacturer I ordered from! …Huh, whaddya mean, \"problem?!\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "There's a problem with da product? And there's no fixin' it?! Do ya at least have somethin' similar?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "This is a real important present for my li'l brother! Check it again for me, wouldja? Please!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Siiigh…</i>",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "…My li'l bro won a track-and-field contest, so I wanted to give him this okonomiyaki-shaped cushion he's been eyein' up."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But the guy just now said there's some kinda trouble with their production line, so they're not sellin' 'em anymore."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I already told the li'l squirt his cushion's on the way… I gotta do somethin'!"
+        },
+        {
+            "name": "Teacher",
+            "text": "Ah, there you are! Tamamo Cross! You forgot to turn in your assignment!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya kiddin' me?! This timin' couldn't be any worse… Grk—I'll be back later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross runs off with a crumpled expression on her face."
+        },
+        {
+            "name": "Monologue",
+            "text": "While I'm desperately racking my brain for a way to help her out, a phrase she recently used pops into my head."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "When ya don't got it, make it! That's my fam's golden rule!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's it! And I know just who to ask for help with sewing—Super Creek!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm, so you'd like to make a cushion shaped like okonomiyaki?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, I'd be delighted to lend a hand! ♪ I've been wanting to show Tamtam my appreciation for all her help at the farm."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Me too… I haven't sewn much before, but I'll help any way I can.",
+            "choice_data_list": [
+                "Thank you both!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the three of us set about making the okonomiyaki-shaped cushion together."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Is that…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Why yes, it's the okonomiyaki-shaped cushion that your little brother wanted!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Problem solved, right, Tama? I'm glad things worked out."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You guys went outta your way to make this… for us?",
+            "choice_data_list": [
+                "It might look slightly misshapen compared to the real thing."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Gah, what are ya talkin' 'bout?! It's perfect!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You guys made this thing with love! That makes it worth more than anythin' on the market!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. Isn't that nice, Trainer? ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Trainer! That compassion of yours has gone 'n got me right in the feels!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I've always been the big sibling who saves the day, but you're not bad yourself!",
+            "choice_data_list": [
+                "You've always been there for me, so I wanted to return the favor.",
+                "I hope the cushion looks extra delicious.",
+                "I wanted to help you as much as you've helped me, Tamamo!",
+                "I wanted to help you as much as you've helped me, Tamamo!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I've always been the big sibling who saves the day, but you're not bad yourself!",
+            "choice_data_list": [
+                "You've always been there for me, so I wanted to return the favor.",
+                "I hope the cushion looks extra delicious.",
+                "I wanted to help you as much as you've helped me, Tamamo!",
+                "I wanted to help you as much as you've helped me, Tamamo!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "And so did I! ♪ You're <i>always</i> helping me out, Tamtam."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right then, next time's my turn! And I always give back double when I'm repayin' a favor!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Really? Well, then I'll have to repay that favor, too."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa whoa whoa, hold on a sec! You don't have to do that—otherwise there'll be no end to this!",
+            "choice_data_list": [
+                "Why not just try to be there for each other?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Kind gestures bring about kind gestures… How absolutely wonderful. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'd love for us to have a connection like that, Tamtam."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That goes for me too. What do you think, Tama?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Guh! Don't give me the puppy dog eyes… How am I s'pposed to say no now?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, <i>okay!</i> You scratch my back 'n I'll scratch yours!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Geez, you guys are somethin' else!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, through this experience, Tamamo Cross comes to develop an even deeper connection with her friends."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yup, no matter how ya slice it, this is one tasty-lookin' okonomiyaki!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl…</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…I'm hungry."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Uh oh, a sweet little someone's got a rumbly tummy! ♪",
+            "choice_data_list": [
+                "Well, we were sewing non-stop for quite a while…"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Haha! If you're hungry, I gotcha covered!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "As thanks for the cushion, I'll cook up some <i>real</i> okonomiyaki for ya!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I've sharpened up my skills since last time, so you're in for one heck of a treat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross goes on to cook up plenty of okonomiyaki for us all to enjoy."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, ya don't need to get <i>that</i> attached!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "We really care about you, Tamtam! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You're a very good girl, but you do tend to try and manage everything all by yourself…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "So we'd like you to come to us for help from time to time. Okay?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Creek…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Besides, I just can't help wanting to spoil such a cute, hardworking girl like you! ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ugh… I appreciate it, but I'd rather ya didn't treat me like a kid, ya know?",
+            "choice_data_list": [
+                "She's not treating you like a kid. She's just showing you how much she cares."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh, sh-she is, huh… Well, I don't see myself gettin' used to Creek's pampering, but I guess it doesn't feel half bad."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross laughs bashfully, and the sight warms my heart."
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "title": "デビュー戦の後に・倒したいアイツ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Announcer",
+            "text": "Hishi Amazon has wowed us with an excellent debut!"
+        },
+        {
+            "name": "Announcer",
+            "text": "This new generation is shaping up impressively, with Narita Brian being a hot contender for the Classic Triple Crown.",
+            "color_text_info_list": [
+                "Classic",
+                "Narita Brian"
+            ]
+        },
+        {
+            "name": "Announcer",
+            "text": "What kind of races can we expect to see from them both? I can't wait!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nice! That's my big debut settled, Teach!",
+            "choice_data_list": [
+                "Great job out there!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Thanks! But the real battle starts now."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm gonna have to toughen up good if I want some proper fights in the future!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If there's one thing Hishi Amazon never lacks, it's motivation. Not wanting it to go to waste, I start to think about our next goal immediately."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she's looking to challenge the best of the best, we should probably aim for the biggest event possible.",
+            "choice_data_list": [
+                "How about running in the Hanshin Juvenile Fillies?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait, isn't that a junior G1 race?",
+            "color_text_info_list": [
+                "junior",
+                "G1"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So we're gonna gear up for next year's G1 races, huh? I like it! Bring on the Hanshin J.F.!",
+            "color_text_info_list": [
+                "Hanshin J.F."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I make to leave the Nakayama Racecourse behind us, but Hishi Amazon stops me and gives me a serious look.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I've debuted, and decided on the next race to prepare for."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But before we enter the thick of it, I've gotta tell you something."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "There's someone in particular I wanna challenge to a one-on-one in the Twinkle Series.",
+            "choice_data_list": [
+                "I feel like I know who…"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe… You know, huh?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's right—it's Narita Brian!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian is a runner so strong, she's become quite the topic, even among the trainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon has been watching her for quite some time."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "She's a real beast, Teach.",
+            "choice_data_list": [
+                "A… beast?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yup. I challenged her to a one-on-one right after I came to Tracen, and I didn't even come close to beating her."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I was so frustrated at my loss that I kept trying to catch up to her, determined to beat her, but during the process, I realized somethin'."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "The reason she runs isn't 'cause she wants glory or 'cause she wants to inspire others."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's 'cause she's got a beast inside of her. She runs because there's no way for her to stay put. That's why she's so strong!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Just the thought of facing off against her shakes me to my core! I just know a battle with her at a big race would be real awesome!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I wanna go head-to-head with her somewhere dazzling!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon's eyes shine brilliantly with determination."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I don't care what happens, but this battle's <i>gotta</i> take place no matter what—don't you forget that, Teach!",
+            "choice_data_list": [
+                "Understood!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Out of nowhere…"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Oh."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Brian!",
+            "color_text_info_list": [
+                "Brian"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What a coincidence, runnin' into you here today! I actually just had my debut race and—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "…"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait, did you come to see me race?!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch. I was just passing through."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That can't be true! You just came from the entrance!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehehe! I see what's going on here."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "This was no ordinary race, after all. Of course you'd get a little curious after hearin' that the one and only Hishi Amazon was debuting!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Still, I didn't think you'd drop by to see me! Thanks a lot, Brian!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Let's give it our all in the Twinkle Series!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Whatever."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aww, what're you gettin' all shy on me for? Hey, your tape's all crooked!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Bug off."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Got any dinner plans? If not, wanna eat together?",
+            "choice_data_list": [
+                "(They sure are friendly with each other.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite a few bumps along the way, Hishi Amazon's debut race goes well, and we've got the Hanshin J.F. on our radar next!"
+        }
+    ]
+}

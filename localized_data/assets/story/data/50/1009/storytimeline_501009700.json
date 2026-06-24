@@ -1,0 +1,33 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Yawn…</i> Mmm…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ack! Th-that wasn't a yawn! I was just, um… just doing some deep breathing exercises!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That reminds me, I'm pretty sure she mentioned a test of hers coming up.",
+            "choice_data_list": [
+                "Did you stay up all night studying?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Grr! How come you hit the nail on the head at the weirdest times?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, you won't catch me yawning a second time! Just watch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, she doesn't yawn again, although I can tell it takes a lot of effort."
+        }
+    ]
+}

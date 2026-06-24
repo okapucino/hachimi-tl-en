@@ -1,0 +1,34 @@
+{
+    "title": "Slacking Off",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin hasn't arrived for our training session. Just as I'm starting to think she might not show up at all…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Sorry… I'm super late today.",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well, my bike tire burst, and it took a while to get it fixed…"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The front one punctures so easily. Hmm. Maybe I put too much weight on it."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But forget all that—I'm really sorry about this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although her tardiness wasn't her fault, I warn Ines Fujin to be more careful."
+        }
+    ]
+}

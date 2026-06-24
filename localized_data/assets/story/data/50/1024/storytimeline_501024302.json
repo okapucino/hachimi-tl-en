@@ -1,0 +1,382 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we're walking through the shopping district…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Look over there, Trainer! I think something's going on!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Look at this lovely couple! Why don't you two test your love before heading home from your date?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Eee! ☆ Let's do it! ♪",
+            "choice_data_list": [
+                "You're quick to agree.",
+                "You're quick to agree."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "C'mon, it looks fun! Besides…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Our love is totally gonna snag us the grand-prize! Don't you think so? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see what love and luck have to do with each other, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun is overflowing with enthusiasm, so we finish our shopping and then try our hand at the raffle."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Trainer! We've only got one raffle ticket, so this is our only shot!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ooh… I really, really hope we can get the grand-prize!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Praying for good luck, we grasp the tumbler's handle together and turn…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "We did it! Mission complete!",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Uh-huh! Now then, let's take off… to the hot spring! ☆",
+            "choice_data_list": [
+                "But we're not packed!",
+                "But we're not packed!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So what? Who even cares?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If we were to leave right now, our luggage wouldn't be the only important thing we'd need to prepare."
+        },
+        {
+            "name": "Monologue",
+            "text": "We can't go without adjusting the race and training schedules beforehand.",
+            "choice_data_list": [
+                "It's for your sake that we can't go now."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "For my sake?",
+            "choice_data_list": [
+                "You want to achieve your goal, right?",
+                "You want to achieve your goal, right?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You see, I've already decided on my goal for this year. ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "This is the year I come out on top… I'll beat Brian even if she runs with all she's got!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…Thank you, Trainer."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "All righty then! We'll go once I've achieved my goal!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You <i>will</i> come with me, right?",
+            "choice_data_list": [
+                "Definitely!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe, yay! No backing out now!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "We'll do tooons of relaxing and have tooons of fun too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We excitedly think about the day we'll finally be able to use the hot spring coupon."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! We got first-prize! Yay!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Buuut it's not the hot spring coupon!",
+            "choice_data_list": [
+                "It's still first-prize though!",
+                "It's still first-prize though!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah, but… I wanted to go on a lovey-dovey trip with you…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Rrrgh… There's no way I can capture your heart with a hamburger steak.",
+            "choice_data_list": [
+                "You don't think so?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Are you saying I can?!",
+            "choice_data_list": [
+                "Well, I <i>am</i> feeling a bit peckish.",
+                "Well, I <i>am</i> feeling a bit peckish."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Really?! Then here, I'll give you the hamburger steak!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…Ehehe. Well? Do you like me more now?",
+            "choice_data_list": [
+                "I think so!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Woo-hoo!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Haha! You're both so precious! Here, I'll throw in another hamburger steak. You two have fun, now!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yaaay! Thank you, mister!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe, he said we're precious! That's like saying we're totally in love! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later at night, Mayano Top Gun and I enjoy our deluxe carrot hamburger steaks together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh?! A <i>bushel</i> of carrots?!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "That's right! You get to take home all the carrots in that basket over there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The raffle clerk points to a large basket stuffed full of carrots."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…I dunno if I can eat them all.",
+            "choice_data_list": [
+                "I'll help.",
+                "I'll help."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Really?! Then you and I…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh! I just got an idea!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Is it okay if we keep these carrots at your place?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Since I'm sharing a room with Teio, I don't think I have the space. Pleeease?!",
+            "choice_data_list": [
+                "Sure, but—"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yahoo!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Okay then, I'll come by tomorrow and make a ton of carrot dishes for you! ♪",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Haha! You'll totally fall in love with me once you try my home cooking! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Mayano Top Gun begins invading my place a lot more frequently…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh?! No way!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mister, are you sure we didn't get the grand-prize? Like, super sure?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm <i>positive</i> you got the third-prize."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Nooo! But my hot spring trip with Trainer…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And it's just one carrot…",
+            "choice_data_list": [
+                "Look, it's the same vibrant color as your hair.",
+                "Look, it's the same vibrant color as your hair."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahaha! You can't get me out of your mind, can you?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "To think you'd look at a carrot and immediately notice it's the same color as my hair!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…Ehehe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun bounces back with a smile."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I totally thought we'd win! C'mon!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "How can we lose when we love each other so much? It doesn't make sense, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we return to campus, I try to comfort Mayano Top Gun by explaining again that love and luck have nothing to do with each other."
+        }
+    ]
+}

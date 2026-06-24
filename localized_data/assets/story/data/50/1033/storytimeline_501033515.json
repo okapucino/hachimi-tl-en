@@ -1,0 +1,187 @@
+{
+    "title": "たった1つの使命",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, the academy is holding a meet-and-greet event for fans."
+        },
+        {
+            "name": "Woman A",
+            "text": "I just love the way you run, Ayabe! You look like a shooting star the way you break away from the pack."
+        },
+        {
+            "name": "Woman A",
+            "text": "Seeing you run fills me with courage! I've wanted to tell you that for the longest time!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thank you. I'll continue to do my best."
+        },
+        {
+            "name": "Woman A",
+            "text": "That goes for your trainer, too! It's fantastic how you coordinate together!"
+        },
+        {
+            "name": "Woman A",
+            "text": "I'm looking forward to seeing great things from you two!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the words of praise, Admire Vega seems to be stiffening up the longer we're here.",
+            "choice_data_list": [
+                "Are you feeling unwell?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm fine. The next person is coming."
+        },
+        {
+            "name": "Monologue",
+            "text": "She brushes me off and prepares for the coming visitors."
+        },
+        {
+            "name": "Man A",
+            "text": "I watched your mother race, too! I hope you live up to her legacy!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Thank you. I hope for your continued support."
+        },
+        {
+            "name": "Woman B",
+            "text": "Make sure you win your next race! I'm rooting for you!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "She responds the same as usual, but I can see she's gradually getting more stressed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that evening, Admire Vega has disappeared somewhere. Out of concern, I go search for her."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant… pant…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be at it training by herself again. I can't help but wonder why she's pushing so hard. Could it be…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What is it?",
+            "choice_data_list": [
+                "Do you struggle with events like today?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Not really…",
+            "choice_data_list": [
+                "If you're uncomfortable, we could always reduce the number of visitors—"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's not necessary."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Rather… I need to listen more to my fans."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Their support… it isn't really meant for me."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's her… who should be receiving the praise."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yet here I am… receiving what's hers."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's why… I have to meet their expectations."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's been my mission since I was born. It's the only thing I can do.",
+            "choice_data_list": [
+                "I'll do whatever I can to help.",
+                "I'll do whatever I can to help.",
+                "It's not the <i>only</i> thing you can do."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's been my mission since I was born. It's the only thing I can do.",
+            "choice_data_list": [
+                "I'll do whatever I can to help.",
+                "I'll do whatever I can to help.",
+                "It's not the <i>only</i> thing you can do."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's…"
+        },
+        {
+            "name": "Woman A",
+            "text": "I'm looking forward to seeing great things from you two!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Meeting their expectations…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well… I'll try not to overdo it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Like what?",
+            "choice_data_list": [
+                "Your running can inspire courage in others.",
+                "Your running can inspire courage in others."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Woman A",
+            "text": "Seeing you run fills me with courage! I've wanted to tell you that for the longest time!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…",
+            "choice_data_list": [
+                "Let's keep moving forward."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Yeah."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "…Oh my? I hear festival music off in the distance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having finished shopping, Mejiro Ardan and I are strolling around town when we hear music. We follow the sound to find…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, fancy seeing the two of you here! You droppin' by for the festival, too?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hello, Inari. Why yes… We were drawn here by the music, you see."
+        },
+        {
+            "name": "Inari One",
+            "text": "Then you go have yourselves a blast! Festivals don't happen every day, and the dancing's just getting started!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well, I'd very much like to… but I'm unfamiliar with the moves of this particular dance."
+        },
+        {
+            "name": "Inari One",
+            "text": "Say what now? Hey, don't go sweating the small stuff. With this kinda thing, if you're havin' fun, you've already won!",
+            "choice_data_list": [
+                "Let's just dance along in our own styles.",
+                "I guess… let's just copy what everyone else is doing!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I suppose… the rhythm isn't too far from a waltz. If I just adjust the steps to the tempo…"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa?! Well, I'll be! Looks like you've got the knack, Ardan!"
+        },
+        {
+            "name": "Girl",
+            "text": "Wooow! Your dancing's so pretty! I wanna dance like you!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I see. Well then, let's give it our best attempt."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Huff… Puff!</i> H-hup!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa?! Well, I'll be! Looks like you've got the knack, Ardan!"
+        },
+        {
+            "name": "Festival Veteran",
+            "text": "Oooh! Nice form there! But we've got some nifty moves ourselves, y'know!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Huff… Huff…</i>Hehe!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oho! I know that look! You went and had yourself a good old time, didn't ya?!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That I did… The hearts of strangers coming together through dance. I see now, Inari. In your eyes, festivals are—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "One and the same as winning concerts!",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I've always been curious as to why your winning concerts are so lively… and why my heart dances along as I watch them."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And I've come to believe it may be because we all share the inherent ability to communicate with others through dance.",
+            "choice_data_list": [
+                "Is that so…"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Gee, uh… Can't say I've ever put much thought into how it all fits together like that."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe. But I love me a festival, and knowing you enjoyed that one sure puts a smile on my face!"
+        },
+        {
+            "name": "Monologue",
+            "text": "During our time at the festival, we come to learn something about concerts!"
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "title": "『オペレーション：外出時トラブル』",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Bourbon! I'd like to know more about you!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I fail to understand your intentions. Why?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um… well, I just thought that even though we share a dorm room, there's so much I don't know about you. It just feels a little weird…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So… If possible, I want you to take me to one of your favorite places!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I see. Reasoning understood. Request approved."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, traveling to a place I like will be somewhat arduous. Is that acceptable?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-yes! I'll do my best to go anywhere you want!"
+        },
+        {
+            "text": "I tag along with the two of them as their chaperone until we reach the mountain that Mihono Bourbon suggested."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, I can hear so many birds chirping… This place is wonderful!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. Although it's rich in flora and fauna, it's incredibly well-maintained for hikers."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There is also a cafe at the summit that sells traditional desserts, which are well-suited for replenishing energy reserves after climbing."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, really? Wow, I can't wait!"
+        },
+        {
+            "text": "After several hours of climbing, we reach a sign stating that the summit is only a hundred meters ahead. However…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant, pant…</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…I detect labored breathing from you, Flower. Are you feeling unwell?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I-I'm f-fine! Sorry, ehehe…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eeep!"
+        },
+        {
+            "text": "Nishino Flower loses her balance and falls over!",
+            "choice_data_list": [
+                "Are you all right?!",
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Her anterior talofibular ligament seems to be twisted. Recovery will take several hours, during which she will be unable to continue climbing."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "W-well, I'll just wait here, then! Please, go on ahead to the summit, you two!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Request rejected on account of associated risk."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Master, there is a chairlift nearby that can take us down the mountain. We should head there."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But… we've come so far!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It would also be possible for me to carry you to the summit on my back."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Er, well, that's—",
+            "choice_data_list": [
+                "Let's find that chairlift!",
+                "Let's head to the summit!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. We will search for the chairlift. Let's go, Nishino Flower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm sorry… Not only did I ruin the climb, but now we're going to miss out on that dessert too…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Accessing data log."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There is a popular Japanese-style dessert shop that opened one month ago at the foot of this mountain."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Their most popular item is the exquisite shiratama cream zenzai—a sweet red-bean soup with mochi, cream, and fruit."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Shall we stop by, Master?",
+            "choice_data_list": [
+                "Sure!"
+            ]
+        },
+        {
+            "text": "We soon find the newly opened shop at the foot of the mountain, just like Mihono Bourbon said."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mmm, so gooood… So fluffy, so chewy!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Relaxing effects of high-quality sugar intake confirmed. A second visit will be taken into consideration."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "With you, of course, Nishino Flower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe… Yes, please!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. We will head to the summit. Get on my back, Nishino Flower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Th-thank you… but I don't want to be any more of a burden!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No. The primary factor that lead to this predicament was my failure to notice your fatigue despite my extensive climbing experience."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In addition, your weight is within my load-bearing capacity. You will not be a \"burden.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "B-but…"
+        },
+        {
+            "text": "With Bourbon's gentle reassurance, the ever-hesitant Nishino Flower falls silent for a moment before nodding."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant, pant.</i>"
+        },
+        {
+            "text": "We head for the summit and manage to arrive without any issues after thirty more minutes of hiking."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Amazing… What a beautiful blue sky!"
+        },
+        {
+            "text": "Nishino Flower is entranced by the stunning view from the summit."
+        },
+        {
+            "text": "Then, on the way home…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Even though I said I'd wait for you both, the truth is that I really wanted to go to the summit."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe. Thank you, Bourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No thanks are necessary. The view really was spectacular today."
+        }
+    ]
+}

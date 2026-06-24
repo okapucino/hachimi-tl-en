@@ -1,0 +1,287 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet and I drop by the shopping district on our way back from a day out."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What's with the crowd?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand-prize is a coupon for a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ahhh, so <i>today's</i> the raffle. I'd better put this to use!",
+            "choice_data_list": [
+                "This… what?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "This raffle ticket. A friend gave it to me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She said it was thanks for helping her with her homework. Hmph! Like I wouldn't have done it anyway."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But, well… seeing as I have the ticket, I might as well cash it in. Let's give it a spin."
+        },
+        {
+            "name": "Monologue",
+            "text": "We get in line, and I watch as Daiwa Scarlet spins the lever on the raffle machine."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Whoa! The grand-prize?! Did I really win?! I-I mean, yay!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! I knew I could do it. When it comes to luck, I'm always number one!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmm… When should we go? The expiration date is quite a while off."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I guess I should just keep it safe for now.",
+            "choice_data_list": [
+                "You're not going to use it right away?",
+                "You're not going to use it right away?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I don't think so. I mean, we're in the middle of a very important series. Neither of us have time to take a break just yet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I want to make the most of this chance to relax… and I want you to make the most of it too.",
+            "choice_data_list": [
+                "You should go have fun!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Are you being serious? …Dummy.",
+            "choice_data_list": [
+                "Come again?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, forget it! At any rate, now's not the time!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So, you keep it for now. I don't think I can trust myself with it."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But you'd better not use it on yourself! It's <i>my</i> prize, got that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At Daiwa Scarlet's insistence, I end up holding on to the coupon until the time comes to use it."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, not bad! I'll never turn down being first! ♪",
+            "choice_data_list": [
+                "Plus, it looks delicious."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh? Are you hungry or something?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Then, here. You can have it. I've got food at the dorm anyway.",
+            "choice_data_list": [
+                "No, I couldn't possibly…"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Would you get a clue already?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "This is where you're supposed to nod and say thank you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm not a bad cook, you know. I could whip something like this up for you anytime—if you wanted."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…So ask me. I don't mind doing something nice for you once in a while."
+        },
+        {
+            "name": "Monologue",
+            "text": "I appreciate the sentiment, but it's her prize, and it <i>does</i> look really good. I'd like her to try it too…",
+            "choice_data_list": [
+                "How about we eat it together?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. That's fine too, I guess."
+        },
+        {
+            "name": "Monologue",
+            "text": "Both Daiwa Scarlet and I feast on carrot hamburger steak that day."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I got… second place?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No way! I don't want second place, race or not! Just the thought of the number two makes me sick!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hey, Trainer! Are you sure you don't have a ticket?!",
+            "choice_data_list": [
+                "I'm sure…"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You don't sound sure. Turn out your pockets. I bet you've got one somewhere!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes a full body check for Daiwa Scarlet to release me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, it isn't the carrots' fault they were the second-prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll have to think of a way to incorporate them into Daiwa Scarlet's nutrition plan…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, so much for that. At least I won <i>something.</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But still, a single carrot, huh… I wonder what I should make with it…",
+            "choice_data_list": [
+                "You're going to cook with it?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah. I'd like to make something for the friend who gave me the ticket."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm a model student, after all. I have to repay her kindness."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmm, maybe a carrot cake? That sounds good. Everyone likes sweet things."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet and I pick up some groceries on the way back to the dorm."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Aww… I guess I should have expected that. That's normal, after all. But still…"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Just coming out and saying \"tough luck\" like that really ticks me off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wary of letting Daiwa Scarlet's anger explode in public, I decide to accompany her back to school."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "After the Tenno Sho (Autumn): Follow Your Heart",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin crosses the finish line in the autumn Tenno Sho alongside the dreams of many, with a smile of pure joy on her face."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her doubts are gone. She's going to keep enjoying running for herself. And I bet she'll turn all those cheers into her driving force."
+        },
+        {
+            "name": "Monologue",
+            "text": "For our next race, too, we should go with the one she'll enjoy most. We decide on…",
+            "choice_data_list": [
+                "The Japan Cup",
+                "The Arima Kinen"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to set the Japan Cup, a race in which runners from around the world compete, as our goal. It's time for Ines and I to get our prep work started.",
+            "color_text_info_list": [
+                "Japan Cup"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Goal Race is now the Arima Kinen.",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "text": "The Arima Kinen, a race that draws the attention of many racing fans, makes for a fitting goal. It's time for Ines and I to get our prep work started."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "新作ならずっ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, Trainer… I wanted to try making a new kind of chanko, so I came up with a new recipe and everything!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But…",
+            "choice_data_list": [
+                "But?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No matter where I looked, I couldn't find the <i>main</i> ingredient!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ugh, I'm so sad! I'll find it for sure next time!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Phew… All that running around has really tired me out. I think I'm going to take it easy for the rest of the day."
+        }
+    ]
+}

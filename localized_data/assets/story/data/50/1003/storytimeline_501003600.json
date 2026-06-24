@@ -1,0 +1,38 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha! The race is about to start!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, how should I win this time? I know! I'll dash forward during the last stretch and win with a massive lead!",
+            "choice_data_list": [
+                "You seem all fired up.",
+                "You seem all fired up."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, duh! I gotta show off how super cool I am!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I mean, the crowd is here to see <i>me,</i> aren't they?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I gotta give them what they want, or else they'll leave disappointed."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You better be watching too, Trainer! Watch and see how cool I am!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And everyone will be amazed by how I win!"
+        }
+    ]
+}

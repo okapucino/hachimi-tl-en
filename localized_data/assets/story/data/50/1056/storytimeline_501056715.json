@@ -1,0 +1,81 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now that training's over, it's time for that special reward… Pretty please!",
+            "choice_data_list": [
+                "What reward again?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I saw it in my morning fortune-telling session! \"A shuttle full of sparkles.\" That can only mean—"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey! You called?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Huh? Taiki Shuttle? Oh, no, no, no! I was—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait… Could this mean that Taiki is the shuttle that brings the sparkles?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oho! So you want somethin' sparkly, do ya? Then, I got just the thing!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "(Great! Taiki's from the US, so I bet it's a great big piggy bank full of silver dollars!)"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Come partner runnin' with me! Your skin'll shine real good with the sweat I'll have you workin' up! ♪"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You want us to go partner running? I guess that would be one way to create an abundance of sparkles…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, haha! I'd love to, but I need my trainer's permission first…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What should I do? Run with Taiki… or do you have a reward for me?",
+            "choice_data_list": [
+                "Go running!",
+                "I guess I can prepare something…"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Argh! I had an feeling you'd say that!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw! Let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru puts her all into her extra training."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yesss! I worked super hard today, after all! So, what kind of sparkly reward have you got for me? ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, wait just a gosh darn minute! Didn't you say you were going to \"fill Taiki Shuttle up with sparkles\"?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I meet both their expectations by giving them two sparkling… cans of juice."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "<i>Sigh…</i> I lost… How unfortunate…",
+            "choice_data_list": [
+                "I'm sorry… I couldn't guide you to victory."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No, don't apologize."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "For one thing, I don't believe for a second that we wasted our time by attempting this race… It is a shame, but there's nothing to be glum about."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There's always the next race, after all! Besides, I don't have time to be wallowing in regret.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sure, losing is frustrating, but still! Being able to run and compete against others is just so wonderful… It's so much fun!",
+            "choice_data_list": [
+                "I should've known you'd say something like that.",
+                "I should've known you'd say something like that."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe. You know me. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Besides, losing just means that I still have plenty of potential left to tap into! ♪",
+            "choice_data_list": [
+                "You know what? You're right!",
+                "We just have to put our nose to the grindstone!",
+                "We just have to put our nose to the grindstone!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Besides, losing just means that I still have plenty of potential left to tap into! ♪",
+            "choice_data_list": [
+                "You know what? You're right!",
+                "We just have to put our nose to the grindstone!",
+                "We just have to put our nose to the grindstone!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe! I can still get even stronger… Just wait and see."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's hit the track and get the next win! ♪ I want to give you some wonderful memories too, after all!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my, what a strict trainer you are! Still… I guess this means you've recovered your spirits.",
+            "choice_data_list": [
+                "Thanks to you."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, in that case, I'll just have to brace myself for this \"grindstone!\" ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's win the next one, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's smile may be gentle, but beneath it burns a fiery determination!"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Claw Machine!",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while on an outing with Mejiro Palmer…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh! That looks like fun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer points toward a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aren't they just the cutest ever?! Oh! Never seen that one before!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Helios and I actually play these claw machine games a lot. We even snagged a BIG prize a while ago."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Helios put it on her phone as a charm and then got all mad 'cause it wouldn't fit in her bag! It was hilarious!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "These plushies are a pretty good size, though. I bet they'd look great hanging from my bag.",
+            "choice_data_list": [
+                "I'll win you one so you can see how it looks!",
+                "I'll win you one so you can see how it looks!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh! You're just jumping at the chance to try, aren'tcha?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm counting on you, then! Here, I'll even cheer for you while you play!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

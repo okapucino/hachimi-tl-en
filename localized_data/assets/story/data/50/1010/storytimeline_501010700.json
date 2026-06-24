@@ -1,0 +1,37 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Yawn…</i> Mmm…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry, Trainer. I'm reeeal sleepy today.",
+            "choice_data_list": [
+                "What did you do on your day off yesterday?",
+                "What did you do on your day off yesterday?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We had a party over in the dorm! It was awful fun! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ol' Hishiama turned in early, so we kicked off our boots and threw a real hootenanny!",
+            "choice_data_list": [
+                "So basically… you had a good time?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! Hishiama really let us have it when she woke up though. Haha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Taiki Shuttle didn't get much sleep."
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "title": "Next-Level Go-Getter",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After finding out about the changes Nishino Flower is going through, I decide to reassess her running style in order to make a new training regimen. However…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm sorry… I just can't run right…",
+            "choice_data_list": [
+                "It's not a problem."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's clearly worried about how slow her times are compared to before. Still, her concern is understandable."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I don't know how to put it. I try to imagine how I want to move in my head…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But my legs step forward before I'm ready, and they won't move anything like I want them to…"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Does that make sense?",
+            "choice_data_list": [
+                "Yeah.",
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's experiencing some disconnect with her body. Fortunately, that's nothing to be upset over.",
+            "choice_data_list": [
+                "This growth spurt can only be a good thing."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Do you really think so?",
+            "choice_data_list": [
+                "Of course! Once you overcome this, you'll be stronger than ever!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah! You're right!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay. I'll do my best to master this new running style!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer's so kind. But I can't let them do all the work for me.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I'll improve… I'm sure of it. I've just got to do my best to get past this and—)"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Hmm… Of course, there will be difficulties she'll have to face too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Hm? That sounds like the school doctor and Trainer…)"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "It's true that the more an athlete grows, the more muscle they gain, which can lead to improvement. However…"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "An athlete's motor control is a delicate thing. Some fail to adapt to their body's changes and end up not being able to draw out their full potential.",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pitter-patter…</i>"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Hm? If I recall, running isn't allowed in the hallways, correct? I could be wrong, though—I'm still wrapping my head around all the academy rules. In any case, while I do have some concerns…"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "In general, this is a very good thing that's happening. Keep a close eye on Nishino Flower during training, and do your best together.",
+            "choice_data_list": [
+                "Understood!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's the only one who can figure out how to get a sense for her changing body, but I can still support her as she tries. Speaking of which…",
+            "choice_data_list": [
+                "Doctor, could I get your honest opinion on this training regimen?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(If I can't figure out how to adapt to my body, it won't just be about improving anymore. I might not even be able to continue as a racer…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wonder if I'll be able to do it… What do you think, little flowers?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I started cultivating this flower bed because I wanted to show it to Trainer. I've been secretly planting flowers in it for a while now, but…)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh? Did this cineraria get frostbitten?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Please don't wilt any more than this, okay? You'll make me even sadder…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt!</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, it's from Trainer… And they want me to meet them in their office?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Drip, drop…</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Was rain in the forecast today?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hope it's not too bad. I heard plants can get root rot from too much rain."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Every time I run in a race, I'll add more flowers. And once it's full of beautiful blossoms, it'll be time to show it off."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "She doesn't want any more flowers to wilt, hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fshhhhh!</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hello, Trainer. Um, you wanted to talk to me?",
+            "choice_data_list": [
+                "I've got a new training regimen for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pass Nishino Flower a regimen catered to her growth. But that's not all."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What are these \"A\" and \"B\" labels for?",
+            "choice_data_list": [
+                "They're different exercise patterns we can switch between at any time."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I created the regimen after interviewing athletes who also continued to grow after becoming race-ready. I got their trainers' opinions, too."
+        },
+        {
+            "name": "Monologue",
+            "text": "Right now, these exercises are only rough drafts to line up with her predicted growth, but I want to show her we can adapt quickly to anything that pops up."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You came up with all of this in such a short amount of time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "This kind of thing would have been difficult for me to do before I met Nishino Flower, but after coming so far alongside her…",
+            "choice_data_list": [
+                "You've helped me grow too.",
+                "You've helped me grow too."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I…",
+            "choice_data_list": [
+                "I said you'd be able to improve once you overcome this, but there's something I forgot to add."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't have the confidence to say it before, but now I'm confident in my ability to support and guide her through this.",
+            "choice_data_list": [
+                "As long as we're together, it'll all be okay!",
+                "As long as we're together, it'll all be okay!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "…Hehe. You really are such a wonderful trainer."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You've been working so hard for my sake, and here I am down in the dumps."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I think I turned into a bit of a scaredy-cat. But I'm fine now!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to work hard with you so I can beat my old self!",
+            "choice_data_list": [
+                "Here's to a new and improved Nishino Flower!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a while spent discussing our future plans with renewed resolve, Nishino Flower and I step out of my office."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Omigosh!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sky?! What happened to you?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, I was taking a nap, y'see. Took me a while to realize."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? What didn't you realize?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Gasp!</i> It's pouring outside!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh no! My flower bed!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Your flower bed's fine."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I just walked by. Some kind person's put a tarp over it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's such a relief!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wonder who it was. I hope I can thank them properly one day."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to run out just to make sure the flowers are okay!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I told her they were fine. Well, what matters is that she's feeling better.",
+            "choice_data_list": [
+                "(I see what's happening here…)"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Cat got your tongue?",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whatever could you mean?"
+        }
+    ]
+}

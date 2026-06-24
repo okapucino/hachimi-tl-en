@@ -1,0 +1,41 @@
+{
+    "title": "夏合宿（2年目）終了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As summer camp draws to a close, Smart Falcon and I discuss our progress."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I powered up! ☆ I've gotten super strong, don't you think?",
+            "choice_data_list": [
+                "You sure have!",
+                "You sure have!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna be super competitive at the G1 level now, don't you think?",
+            "choice_data_list": [
+                "You sure will be!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "All right! ☆ I'm feeling extra confident!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Just you wait, JBC Classic! I'll take you on right now!",
+            "choice_data_list": [
+                "There's still two more months, though!",
+                "There's still two more months, though!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "An exciting summer camp comes to an end!"
+        }
+    ]
+}

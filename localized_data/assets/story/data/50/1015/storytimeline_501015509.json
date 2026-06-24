@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O and I are in the middle of a training session, when…"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Huff… Puff…</i> Within the flow of an ever-changing universe… my radiance is immutable… even against the quagmire… of fatigue…",
+            "choice_data_list": [
+                "Let's take a break."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "No, Trainer… Divine forces have placed this trial before me. By the affliction of this suffering, I am tested."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now… run! I must run! The majesty of the Overlord must be known!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite so bold a resolve, her exhaustion is only increasing. I'll need to adjust her race schedule so she can get some rest."
+        }
+    ]
+}

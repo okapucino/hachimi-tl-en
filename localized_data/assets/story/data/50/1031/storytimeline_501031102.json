@@ -1,0 +1,242 @@
+{
+    "title": "New Year's Shrine Visit",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In what felt like the blink of an eye, the year comes to a close and January begins. Ines Fujin is now set to embark on her senior year.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Ramen Store Owner",
+            "text": "Oh, if it isn't Fu's trainer. Here for a meal while you work on New Year's again, huh?",
+            "choice_data_list": [
+                "Yes. This is her senior year, after all!"
+            ]
+        },
+        {
+            "name": "Ramen Store Owner",
+            "text": "Ahaha. Chatting like this really brings back memories. Lemme throw in a soft-boiled egg—it's on me!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Happy New Year, everyone!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The line on the left is currently empty, so please queue up there!",
+            "choice_data_list": [
+                "Managing queues again this year?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, a happy, happy new year to you, Trainer! It never hurts to have a little extra for those rainy days, you know!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My mom's going through a rough patch, so I want to keep sending money back home."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But I'm saving more than I did before. This is for my sisters' sake, too."
+        },
+        {
+            "name": "Monologue",
+            "text": "As usual, Ines Fujin's daily life revolves around juggling racing with working part-time jobs to earn money for her family."
+        },
+        {
+            "name": "Monologue",
+            "text": "But since the Arima Kinen, it's like a weight has been lifted from her shoulders. I've noticed her running has become more natural."
+        },
+        {
+            "name": "Monologue",
+            "text": "Similarly to how overworking the body can affect the mind, it appears that alleviating her mental burden has had a beneficial effect on her running.",
+            "choice_data_list": [
+                "It seems I don't need to worry!",
+                "It seems I don't need to worry!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Nope."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "By the way, you didn't ask the ramen store owner for any favors or anything, right?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "She suddenly offered to raise my hourly rate. Said something about wanting to repay me a little for all the good vibes I bring.",
+            "choice_data_list": [
+                "That's great!",
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "… Hmmm?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Speaking of which, I was told you went there last New Year's, too.",
+            "choice_data_list": [
+                "Erm, well, you know…"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Seriously?! Ramen on the first day of the new year?! That can't be good for you!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You know, I'd be in a real bind if you suddenly got sick due to poor lifestyle choices!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You need to be careful with your health. And make sure you take the medical checkup that the academy provides! I don't care how busy you are!",
+            "choice_data_list": [
+                "I will…"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, that's good, then."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Anyway… hop in line, Trainer! You're here to offer a New Year's prayer, right?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The third line from the left is moving quickly! Get going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ushered along by Ines Fujin, I join the line to offer a prayer. As I'm waiting, I decide what I want to wish for this year.",
+            "choice_data_list": [
+                "Health comes first!",
+                "A grand achievement!",
+                "Improved skills!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I put my hands together and pray for Ines Fujin's health."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwooosh…</i>",
+            "choice_data_list": [
+                "(Geez, it's freezing!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As the harsh winter cold bites my skin, I suddenly think of Ines Fujin, still hard at work organizing people into lines."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Is that for me?",
+            "choice_data_list": [
+                "I thought you might like some tea."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh! Thank you!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It's super warm!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin must have been feeling the cold, too. She clutches the bag with the bottle of green tea inside close to her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I put my hands together and pray that all her future races go well."
+        },
+        {
+            "name": "Shrine Visitor A",
+            "text": "Hey! We've finished praying, so let's go get fortune slips!"
+        },
+        {
+            "name": "Shrine Visitor B",
+            "text": "Before we get to that, I want to buy you a good luck charm. You've got entrance exams coming up, right?",
+            "choice_data_list": [
+                "(A lucky charm, huh?)"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…Hm, a charm? You got one for me, too?",
+            "choice_data_list": [
+                "Yep!",
+                "Yep!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "\"Wishes come true,\" huh… Did you buy the same one for yourself?",
+            "choice_data_list": [
+                "Yep! I want you to triumph in your races!",
+                "Yep! I want you to triumph in your races!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "…I see."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Haha, I guess we match! I'm gonna put mine on my bag!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin happily accepts the charm."
+        },
+        {
+            "name": "Monologue",
+            "text": "I pray that we'll both improve our skills over the coming year so that she can achieve victory in her future races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having spent the start of the new year devising new plans, I want to hurry and share the revamped schedule with Ines Fujin."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, Trainer! Are you done praying?",
+            "choice_data_list": [
+                "Yes!",
+                "Yes!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "For real? Want to head back together, then? I've just finished my shift.",
+            "choice_data_list": [
+                "Really?! I'd be glad to!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that I want to discuss this year's training schedule with her on our way back."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whoa, talk about serious! Kicking the year off a bit uptight, aren't we?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But I guess that's just the kind of trainer I need, huh? Hehe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I discuss the training schedule we'll be using for the new year with Ines Fujin."
+        }
+    ]
+}

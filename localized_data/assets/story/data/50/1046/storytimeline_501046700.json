@@ -1,0 +1,26 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Smart Falcon",
+            "text": "<i>…Groan.</i> Trainer, can we take a break?",
+            "choice_data_list": [
+                "Are you still tired from our last session?",
+                "Are you still tired from our last session?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, I maybe didn't get enough sleep. I was up late writing messages on all my flyers."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But aren't I just the cutest when I'm working so hard? <i>Yaaawn…</i> Anyway, good night…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I appreciate her passion, but it seems like Smart Falcon isn't resting properly."
+        }
+    ]
+}

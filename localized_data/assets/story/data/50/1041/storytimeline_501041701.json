@@ -1,28 +1,30 @@
 {
-    "no_wrap": true,
+    "title": "休息はバッチリ！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "<i>Goooood moooorniiiiiiing!!</i>"
+            "text": "Good mooorning!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "For the day off, I thank you sincerely! \nThanks to you, I got an excellent night's \nsleep!"
+            "text": "Thank you for letting me rest! Because of that, I was able to get a good night's sleep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's right! How about you, Traniner? \nIt's recommended to read a book before \nbed to have a peaceful slumber…"
+            "text": "Oh yeah! How about you? Did you get a good rest? If not, I've got a recommendation that'll help you doze off and grant you a pleasant sleep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A textbook!! I'll lend you my copy!"
+            "text": "My textbook! I'll lend it to you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Not only does it prep you for a review, \nbut it also puts you to sleep… \nAs expected of every honor roll student's \nbible!"
+            "text": "Life isn't just about preparing and reviewing for tests. Sleep is also important. Our textbook is so versatile! That's why it's the model student's sacred text!"
         },
         {
-            "text": "Looks like Sakura Bakushin O got a good \nnight's sleep on her day off!"
+            "name": "Monologue",
+            "text": "It looks like Sakura Bakushin O had a good rest on her day off."
         }
     ]
 }
