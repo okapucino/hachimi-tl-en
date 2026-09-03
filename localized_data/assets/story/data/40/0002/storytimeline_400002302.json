@@ -1,0 +1,103 @@
+{
+    "title": "チームでセイチーズ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during a break from team training…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Trainer! I've got a li'l request for ya."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I love, love, <i>love</i> the pants off of this team!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's why I was hopin' we could snap a picture of us all together and send it to my family!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm just sure they'll love seein' me an' my team together!",
+            "choice_data_list": [
+                "Would you like me to take a photo for you, then?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No, no! You need to be in it too!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We can use the timer on my phone camera! That way we can all be in it.",
+            "choice_data_list": [
+                "Are you sure you want me in the shot?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy-do, I am! It's not a team photo without you, Trainer!",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "So we set about getting ready for an impromptu photo shoot."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm, it's a little uneven here but…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Do your best, li'l smartphone! It's just ten seconds!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay, gather 'round, people! Big smiles! Here it goes!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Three, two…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clunk!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yikes! My phone's gone and done a dive!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ugh… It's probably just snapped a blurry picture of the sky…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…Oh? Ahaha!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Lookie here, Trainer! I got a great snap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Displayed on the screen is Taiki Shuttle dashing toward her phone with her hand outstretched and the team laughing behind her. It's a wonderful shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure we'll all look back fondly on this moment."
+        }
+    ]
+}

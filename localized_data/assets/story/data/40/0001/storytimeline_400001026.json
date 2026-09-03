@@ -1,0 +1,99 @@
+{
+    "title": "“記者”の使命",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm rifling through documents in my office…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Excuse me! I'm here to discuss our upcoming—"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh, I'm sorry. I see you're in the middle of something."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that I'm looking for Umamusume-related materials that might be helpful for <chrname>."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It appears you're having some difficulties finding what you need.",
+            "choice_data_list": [
+                "Yeah, I'm not having much luck…"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I see. Well, seeing as how we still have some time before our appointment, perhaps I could help?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Here we are. I hope this will be enough."
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me a large bundle of documents."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I picked out some old articles that I had lying around the office.",
+            "choice_data_list": [
+                "You had this much info just lying around?!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "The Umamusume in question were active quite a long time ago, but the material here should be helpful."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "And this one too. She mostly participated in local races, so you might not know her, but her articles should still prove useful.",
+            "choice_data_list": [
+                "You sure know a lot about Umamusume."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But of course! I have to keep tabs on all the Umamusume I can, past and present, domestic and overseas."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "As a reporter, my job is to help every Umamusume with potential get her moment to shine in the spotlight."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It's not enough to just chase after the popular racers.",
+            "choice_data_list": [
+                "Sounds like I could learn a lot from you.",
+                "Sounds like I could learn a lot from you."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "What? You, learn from me? My goodness… That attitude…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It's simply amazing!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Those who control the information control the race. Gathering intelligence is half the battle."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So you must be doing more than just looking through old materials! To think you'd be willing to travel the world and see all the Umamusume there are to see… Ah, such devotion!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't remember saying <i>that,</i> but the documents she gave me are very useful."
+        },
+        {
+            "name": "Monologue",
+            "text": "I plan out a training program for <chrname> based on their information, and she demonstrates impressive growth."
+        }
+    ]
+}

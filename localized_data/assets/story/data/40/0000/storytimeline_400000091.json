@@ -1,255 +1,270 @@
 {
-    "no_wrap": true,
+    "title": "『月刊トゥインクル増刊号』",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "(clank clank)"
+            "name": "Monologue",
+            "text": "<i>Knock, knock…</i>"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Excuse me. Is trainer <username> in?",
+            "name": "Reporter Otonashi",
+            "text": "Excuse me? Trainer <username>? Are you there?",
             "choice_data_list": [
-                "Yes!"
+                "I'm here!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Oh, thank God. I really wanted to\ngive this to you in person."
+            "name": "Reporter Otonashi",
+            "text": "Oh, good. I was hoping to give this to you in person."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "It was finally released today."
+            "name": "Reporter Otonashi",
+            "text": "It was just released today."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "— \"Monthly Twinkle Special Issue\".",
+            "name": "Reporter Otonashi",
+            "text": "The <i>Twinkle Monthly Special Issue.</i>",
             "color_text_info_list": [
-                "Monthly Twinkle Special Issue"
+                "Twinkle Monthly Special Issue"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "There were a lot of requests from readers\nlately. For a special edition regarding the\npast three years."
+            "name": "Reporter Otonashi",
+            "text": "Recently, many readers have been requesting a compilation of events in the racing world over the past three years."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "I'm sure readers agree that these\nyears have been a momentous period\nin the world of Uma Musume."
+            "name": "Reporter Otonashi",
+            "text": "So they surely also realize how impactful these past three years have been."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "… A whole lot happened after all.",
+            "name": "Reporter Otonashi",
+            "text": "So many things have happened.",
             "choice_data_list": [
-                "… I guess so, yeah"
+                "You're right about that."
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "As a reporter, I feel very fortunate to have\nbeen able to follow these three years."
+            "name": "Reporter Otonashi",
+            "text": "As a reporter, I feel very fortunate to have been able to cover these three years."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "And that I could meet you."
+            "name": "Reporter Otonashi",
+            "text": "And also that I was able to meet you."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "By the way—"
+            "name": "Reporter Otonashi",
+            "text": "Oh, and one other thing…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Did you get a good look at the cover?",
+            "name": "Reporter Otonashi",
+            "text": "Have you seen the cover?",
             "choice_data_list": [
                 "The cover?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Yeah."
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
         },
         {
-            "text": "At her urging, I looked at\nthe cover. There was—"
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I look at the cover and see…"
         },
         {
-            "text": "A large photo of <chrname>\nstaring back at me."
+            "name": "Monologue",
+            "text": "A large photo of <chrname> adorns the front page."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "When I was thinking about who should be the\ncover— the face of the magazine…"
+            "name": "Reporter Otonashi",
+            "text": "When I was trying to decide who should be the face of this special edition…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "There was only one candidate\nthat came to my mind."
+            "name": "Reporter Otonashi",
+            "text": "Only one possible candidate came to mind."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "And that was the opinion of the\neditorial team as well.",
+            "name": "Reporter Otonashi",
+            "text": "And that was the opinion of the editorial department as well.",
             "choice_data_list": [
-                "Ms. Otonashi…!"
+                "I don't know what to say."
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "We, at Twinkle Monthly, will continue to\nsupport you and your work."
+            "name": "Reporter Otonashi",
+            "text": "We at Twinkle Monthly will continue covering <chrname>'s exploits. And of course…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "We will follow you, trainer <username>."
+            "name": "Reporter Otonashi",
+            "text": "We'll be following you with great interest as well."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Through all my interviews I've become\nconvinced that you are the ray of sunshine\nilluminating the horse girl world.",
+            "name": "Reporter Otonashi",
+            "text": "After all the interviews I've done to date, I'm convinced you two are the light that will guide the racing world forward.",
             "choice_data_list": [
-                "Thanks! I'll make her shine too!",
-                "Thanks! I'll make her shine too! "
+                "Then I'll make sure she shines even brighter!",
+                "Then I'll make sure she shines even brighter!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Reporter Otonashi",
             "text": "…!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "… Su, su… susu, …sususuh!!!!",
+            "name": "Reporter Otonashi",
+            "text": "That… Th-that's s-s-s…",
             "choice_data_list": [
-                "… Ms. Otonashi?"
+                "Are… you okay?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Splendid!"
+            "name": "Reporter Otonashi",
+            "text": "Simply amazing!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Make your horse girl shine! In other words,\nbe prepared to become a shadow yourself!"
+            "name": "Reporter Otonashi",
+            "text": "You want to make your trainee shine even brighter! Even if it means you'll only be the shadow behind her!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "You will continue to devote your whole life\nto her, spend everything you have, take her\nto races and trips anywhere in the world!"
+            "name": "Reporter Otonashi",
+            "text": "Dedicating all your time to her, all your money even, and bringing her to races all around to pursue her dreams!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Ah…, you're the one I've been looking for…!"
+            "name": "Reporter Otonashi",
+            "text": "Aah… You're just as amazing as I imagined you to be!"
         },
         {
-            "text": "… Otonashi's usual outbursts have begun."
+            "name": "Monologue",
+            "text": "For whatever reason, Reporter Otonashi loses control of her excitement, like always."
         },
         {
-            "text": "I can feel her thoughts from the magazine.\nI'll show <chrname> later…!"
+            "name": "Monologue",
+            "text": "But this magazine conveys her true feelings. I'll be sure to show it to <chrname> later!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "This special issue includes\na little special feature.",
+            "name": "Reporter Otonashi",
+            "text": "For this special edition, we tried something a little different.",
             "choice_data_list": [
-                "What kind of feature?"
+                "And what's that?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Hehe, look further down the pages."
+            "name": "Reporter Otonashi",
+            "text": "Hehe, please flip towards the back."
         },
         {
-            "text": "At her prompt I opened the second\nhalf of the magazine."
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I flip to the back half of the magazine."
         },
         {
-            "text": "There's—"
+            "name": "Monologue",
+            "text": "And there I see…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "\"A word to <chrname> and\nher trainer <username>\""
+            "name": "Reporter Otonashi",
+            "text": "\"Dear <chrname> and Trainer <username>.\""
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "In fact, the editorial department\nhas received many fan letters\nfrom readers to you."
+            "name": "Reporter Otonashi",
+            "text": "You see, the editorial department has received no small number of fan letters from readers addressed to the two of you."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "The response was so great that\nwe compiled pages with support\nmessages to the two of you."
+            "name": "Reporter Otonashi",
+            "text": "Seeing that enthusiasm, we decided to create a special section displaying all those words of support."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "This is pretty much the first time we\nattempted such a reader-driven, multi-page\nfeature, you know?",
+            "name": "Reporter Otonashi",
+            "text": "This is pretty much the first time we've devoted multiple pages solely to letters from our readers.",
             "choice_data_list": [
-                "Thank you very much…!"
+                "Wow, thank you!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Hehe, please deliver that gratitude to your\nfans at races and live performances."
+            "name": "Reporter Otonashi",
+            "text": "Hehe! Please be sure to convey that gratitude to all the fans you see at races and concerts."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "We, the editors, are here to help you\nconnect with your fans."
+            "name": "Reporter Otonashi",
+            "text": "If I'm able to help connect you two with your fans, it means I'm doing my job as a reporter."
         },
         {
-            "text": "I can feel Otonashi's sentiments. I'll show\nthis article to <chrname> later…!"
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true feelings. I'll be sure to show it to <chrname> later!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Could you take a look at the pages\njust a little further ahead?",
+            "name": "Reporter Otonashi",
+            "text": "Could you please skip a few pages ahead?",
             "choice_data_list": [
-                "The pages ahead?"
+                "A few pages?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Yeah."
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
         },
         {
-            "text": "At Otonashi's urging, I turned\na few pages. There was—"
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I flip back a few pages and see…"
         },
         {
-            "text": "There was a special feature called\n\"In the footsteps of glory with\n<chrname> and trainer\"."
+            "name": "Monologue",
+            "text": "A special feature titled \"Pursuing Glory with <chrname> and Her Trainer.\""
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "You have been an integral part of the\nUmamusume world for the past three years."
+            "name": "Reporter Otonashi",
+            "text": "It's impossible to talk about the last three years of Umamusume racing without bringing up you two."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "I couldn't just fit it into a small article,\nso I talked it over with my editor."
+            "name": "Reporter Otonashi",
+            "text": "Your story deserved much more than a small article. So, I did a little negotiating with the editor-in-chief."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "— I told him everyone would look forward to\na feature with these people.",
+            "name": "Reporter Otonashi",
+            "text": "I knew all our readers would be excited to see a special feature on you two.",
             "choice_data_list": [
-                "Ms. Otonashi…!"
+                "I don't know what to say."
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Hehe, of course I am one of them.\nI'm looking forward to your future\nactivities, okay?"
+            "name": "Reporter Otonashi",
+            "text": "Hehe. Of course, I'm no exception. I’m more excited than anyone to see your future exploits."
         },
         {
-            "text": "I can feel Otonashi's excitement. I'll show\n<chrname> this article later…!"
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true feelings. I'll be sure to show it to <chrname> later!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Did you see the right side of that page?",
+            "name": "Reporter Otonashi",
+            "text": "Have you looked at the right side of that page yet?",
             "choice_data_list": [
                 "The right side?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Yeah."
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
         },
         {
-            "text": "There's a small feature there called\n\"Promising Trainers and Uma Musume\"."
+            "name": "Monologue",
+            "text": "There's a small special feature titled \"A Promising Trainer and Trainee.\""
         },
         {
-            "text": "It described a training session\nwith <chrname> and commented on\nthe high expectations."
+            "name": "Monologue",
+            "text": "It includes scenes of my training sessions with <chrname> along with Otonashi's enthusiastic comments."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "\"I can't wait to see what they do in the\nfuture.\" … There are no lies there.",
+            "name": "Reporter Otonashi",
+            "text": "\"I can't wait to see how far these two can go!\" …And I meant every word.",
             "choice_data_list": [
-                "Ms. Otonashi…!"
+                "I don't know what to say."
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Hehe, I'll be covering you two's trajectory."
+            "name": "Reporter Otonashi",
+            "text": "Hehe, I intend to continue covering the path you both take from here on."
         },
         {
-            "text": "Otonashi's feelings reached me. I'll show\nthis article to <chrname> later…!"
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true feelings. I'll be sure to show it to <chrname> later!"
         }
     ]
 }

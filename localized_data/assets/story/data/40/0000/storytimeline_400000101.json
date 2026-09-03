@@ -1,29 +1,30 @@
 {
-    "no_wrap": true,
+    "title": "URAファイナルズ予選にむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "URA Finals. The race in which each\nhorse girl is in peak condition,\ncompeting for the top."
+            "name": "Monologue",
+            "text": "The URA Finale is a stage upon which all Umamusume can shine."
         },
         {
-            "text": "Its qualifying round\nwas about to begin."
+            "text": "At long last, the day of the preliminaries has arrived."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Thank you, trainer, for\nseeing <chrname> here."
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, thank you for seeing <chrname> off."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "At last, you have come this far. As a fan of\nboth of you, I'm happy.",
+            "name": "Tazuna Hayakawa",
+            "text": "You've finally made it this far. As a fan, I'm elated.",
             "choice_data_list": [
-                "I'm going to make this the best race ever!"
+                "We'll make it one for the history books!"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Hehehe, yes. I'm looking forward to it!"
+            "text": "Heheheh, I've no doubt. I'm looking forward to the race!"
         },
         {
-            "text": "The gates of the URA Finals\nare finally open!"
+            "text": "The gates will fly open any minute now… URA Finale, here we come!"
         }
     ]
 }

@@ -1,80 +1,82 @@
 {
-    "no_wrap": true,
+    "title": "遭難！にゃんにゃんアイランド",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Chairwoman Akikawa",
-            "text": "I have a great idea!!! This year, let's rent \nout an island while the cherry blossoms are \nin full bloom, and make the most of it!"
+            "name": "Director Akikawa",
+            "text": "A magnificent plan! I've secured exclusive access to a cherry blossom island for our grand cherry blossom viewing party!"
         },
         {
             "name": "Nice Nature",
-            "text": "―― I was told to get on a boat, but it looks \nlike there's been a bit of an accident."
+            "text": "Little did we know the boat would sail us straight into disaster."
         },
         {
             "name": "Seiun Sky",
-            "text": "Sei-chan loves this～. It's an island full of \ncats instead of cherry blossoms."
+            "text": "Well, an island full of cats beats cherry blossoms anytime if you ask me."
         },
         {
             "name": "Seiun Sky",
-            "text": "Kitty cat, kitty cat, lets take a little nap \ntogether me～ow ♪"
+            "text": "Hey, kitty kitty. Meow about a siesta with me? ♪"
         },
         {
             "name": "White Cat",
-            "text": "Meooo～w!"
+            "text": "Meeeow!"
         },
         {
             "name": "Seiun Sky",
-            "text": "Well, what a warm welcome～. I might stay here \nfor a while meow～."
+            "text": "Is that a big ol' yes? I feel like I could stay here for a long, long meow."
         },
         {
             "name": "Narita Taishin",
-            "text": "Uhm… I'll be over there."
+            "text": "<i>Sigh…</i> You can catch me over there."
         },
         {
             "name": "Nice Nature",
-            "text": "Eh? Taishin-san…!?"
+            "text": "Huh? Taishin?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Hmmm… This picture turned out pretty nice, a \ncat on a deserted island."
+            "text": "Mhm. Cats and uninhabited islands… Makes for a nice picture."
         },
         {
             "name": "Black Cat",
-            "text": "Mrow, meoo～w ♪"
+            "text": "Mew, meooow! ♪"
         },
         {
             "name": "Narita Taishin",
-            "text": "Wah!? They keep getting too close, I can't \nget a good picture, so I'm going to go…"
+            "text": "Hey! I can't take your pic if you get too close!"
         },
         {
             "name": "Cats",
-            "text": "Meo～w ♪"
+            "text": "Meeeow! ♪"
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey… jeez…!"
+            "text": "Hey… Listen to me!"
         },
         {
             "name": "Nice Nature",
-            "text": "Well, I guess panicking wont get us anywhere. \nI think I'll take a little nap too."
+            "text": "Well, fretting won't resolve anything. I think I'll have a little nap myself."
         },
         {
             "name": "Nice Nature",
-            "text": "Luckily, I don't think Sky or Taishin-san are \naround either."
+            "text": "Lucky for me, Sky and Taishin aren't paying me much mind…"
         },
         {
-            "name": "Striped Cat",
-            "text": "Mmmeo～w ♪"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Haaaah…! I know this isn't the time or place \nfor this… but I feel like I'm being healed～."
+            "name": "Tabby Cat",
+            "text": "Meeeow! ♪"
         },
         {
             "name": "Nice Nature",
-            "text": "Fluffy… fluffy… This must be \nwhat heaven feels like…"
+            "text": "Hnngh! This isn't the time… but you're sooo cute!"
         },
         {
-            "text": "A few hours later, the three were found by a \nsearch and rescue team. They were all \nsleeping happily with the cats."
+            "name": "Nice Nature",
+            "text": "Oh, and you're so fluffy… There really is a heaven on earth."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours later, the rescue team arrives. The three Umamusume are found fast asleep, swaddled in a pile of cats."
         }
     ]
 }

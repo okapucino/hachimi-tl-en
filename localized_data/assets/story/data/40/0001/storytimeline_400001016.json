@@ -1,0 +1,247 @@
+{
+    "title": "イベントを開催せよ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm called to the director's office. I'm not told why, but only that my presence is necessary to \"help make the URA Finale a success.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "As I head inside…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah… Trainer <username>! Just as I thought!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Emergency… Both of you, I beg you, help me!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Huh? P-please calm down, Director! First of all, could you tell us what's going on?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Regret… Even after I made that grand announcement and asked the media to promote the URA Finale…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Unfortunately… The URA Finale is still not widely known among the general public!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Thusly! We must find some way to communicate its appeal and generate some excitement!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We must have a race packed with smiling fans! That is the stage on which all Umamusume should shine!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I understand how you feel, Director."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'd be delighted to help you find a solution… but what could we do?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Excellent question! That is why I have asked you two exceptional trainers here!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I wish for you to participate in an event aimed at promoting the URA Finale and the hardworking Umamusume hoping to take part in it…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "The URA Finale Commemorative Festival!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I-I see… So what will this festival consist of?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well, that's the thing… I was so preoccupied with setting it up that our event schedule at the moment is…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Nonexistent!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "What?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For starters, we put our heads together and discuss what type of event we want to hold."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Apologies! I'm causing you so much trouble…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ahaha… This was definitely a surprise, but I'm not about to give up on the event."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Meek has her heart set on becoming the first Finale Champion."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I can't let her efforts go to waste!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the trainer of another Umamusume who's working equally hard, I feel much the same.",
+            "choice_data_list": [
+                "I'll help too!",
+                "I'll help too!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Gratitude! Thank you, from the bottom of my heart! I knew you wouldn't let me down!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "To business! What do you think the event should entail?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hmm… If we're looking to attract attendees, panels done by the Umamusume and mini-concerts tend to be the usual go-to's…",
+            "choice_data_list": [
+                "But that's a lot to ask of them…",
+                "But that's a lot to ask of them…"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It is. Not to mention, this is when they need to be focusing on training.",
+            "choice_data_list": [
+                "Is there anything we can do with just the two of us?",
+                "Is there anything we can do with just the two of us?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Just us? Surely not…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Eureka! I have an idea!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We want to convey just how hard our Umamusume are working to qualify for the URA Finale, yes?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Then there's something that you two—indeed, <i>only</i> you two—can do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the day of the festival…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Why, Trainer <username> and Trainer Kiryuin! Good morning!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Rest assured, today's event is going to receive extensive coverage in Twinkle Monthly."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Although, if you don't mind me asking, where are your trainees? I was certain they would be here…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm afraid it's just us two today, but not to worry. You won't be disappointed!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Today, we want to tell you about the racers who are working hard to earn a spot in the URA Finale."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "As the trainers who watch them from the sidelines, we can share a side of the story that nobody—not even our trainees—can share.",
+            "choice_data_list": [
+                "We'll do our best on their behalf!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh? Why, that's…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "That's simply amazing!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "To put your hardworking trainees first, even at this event… Such devotion!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I see… Umamusume need rest too, so you're working hard in their place!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Not only are you giving us an enticing, never-before-seen glimpse at the sweat-stained efforts of their daily lives…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But it's clear that you'll do anything for your trainees! I can't wait to see the fan meetups, talk shows, and mini-concerts you'll be doing on their behalf!",
+            "choice_data_list": [
+                "Wait, what?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Say no more! I will make sure our readers fully understand how deep your dedication runs!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I know! Why don't I host? When it comes to warming up a crowd, I'm a professional!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Huh? What?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know it…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I hope you're watching, everyone! Next up is our two trainers' mini-concert! ♪"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Urgh… Umapyoi! Umapyoi!",
+            "choice_data_list": [
+                "U-umapyoi! Umapyoi!"
+            ]
+        },
+        {
+            "name": "Spectator A",
+            "text": "Ah ha ha! Good luck, trainers!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "They're really putting themselves in their Umamusumes' shoes… I like their spirit!"
+        },
+        {
+            "name": "Spectator C",
+            "text": "The URA Finale, huh? Maybe I'll check it out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The event goes a little off-script, but we succeed in spreading the word about the URA Finale."
+        }
+    ]
+}

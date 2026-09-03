@@ -1,0 +1,142 @@
+{
+    "title": "目が離せないお嬢様たち",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While eating in the cafeteria, I overhear Mejiro Bright and Fine Motion having a discussion."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "A message from a prince?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes. This morning I received an email from someone claiming to be the prince of a certain country."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Apparently, he has a surplus of wealth and is searching for someone who will use that money effectively."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmm, so he's a philanthropist? But I wonder if a member of royalty would send an email like that."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So, did you reply?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, I refused his offer. There's no way I can accept money from a complete stranger."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But then I received another message saying the prince was involved in an accident…"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My, what are the chances!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Apparently, he was seriously injured and is requesting assistance with his medical costs."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…Hold on. Wasn't this the same fellow who had so much money he wanted to give it away?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "He said all his money burned up in the accident."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmm, so all his funds were in cash? And this must have been a mighty fire to have destroyed all that capital. It's strange that I haven't seen any news about it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to remain silent any longer, I intrude upon their conversation.",
+            "choice_data_list": [
+                "It's all a bunch of lies."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "What? Is that right?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, I thought it all sounded a smidge too convenient! His claim of being a prince, then getting hurt in an accident—so it was all a big scam, then?",
+            "choice_data_list": [
+                "Exactly."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, it seems so obvious now! Well, that's an enormous relief."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It means there was no accident, and that no one was hurt."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite almost being deceived by this \"prince,\" Mejiro Bright still feels a great sense of relief.",
+            "choice_data_list": [
+                "You really are a kind person.",
+                "You need to learn a little more about how the world works."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The news about the accident felt so sudden that I was simply overcome with worry. I didn't think to question it."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's a fine shame there are people out there trying to take advantage of that sort of good will. Let's be sure to stay vigilant, Bright!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, absolutely! Thank you very much for your advice."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "How the world works… I see."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "At the very least, you should be able to tell whether an email is a scam or not.",
+            "choice_data_list": [
+                "It's best to ignore emails from people you don't know."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That makes sense! And it sounds much better than checking each and every message one by one."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I appreciate your advice. I'll definitely be more careful from now on!",
+            "choice_data_list": [
+                "You should also change your email address if possible."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Indeed! It'd be quite the bother if that false prince contacted you again."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You're absolutely right! …So how would one do that?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Uhh, I'm sorry, I don't know either! My security team handles that sort of thing for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up helping Mejiro Bright change her email address."
+        }
+    ]
+}

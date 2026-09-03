@@ -1,32 +1,33 @@
 {
-    "no_wrap": true,
+    "title": "急いで初勝利を！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Trainer, we're in trouble!\nTime is running out…!",
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Trainer! We're running out of time!",
             "choice_data_list": [
-                "What do you mean!?"
+                "What do you mean?!"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "You see, some consider it a problem\nthat your horse girl has not won\na single race so far…!",
+            "name": "Tazuna Hayakawa",
+            "text": "Well, the fact that the Umamusume you've taken under your wing hasn't won a single race is becoming an issue…",
             "color_text_info_list": [
-                "not won a single race so far"
+                "hasn't won a single race"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "If you can't provide her a first victory by\nSeptember, your contract may be terminated!",
+            "name": "Tazuna Hayakawa",
+            "text": "If she doesn't get her first win by September, her contract may be canceled!",
             "color_text_info_list": [
-                "September",
-                "first victory",
-                "contract\nmay be terminated"
+                "by September",
+                "first win",
+                "canceled"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "September is right around the corner!\nPlease, obtain that win!",
+            "name": "Tazuna Hayakawa",
+            "text": "And September isn't far away! Please, you must find some way to lead her to victory!",
             "color_text_info_list": [
                 "September"
             ]

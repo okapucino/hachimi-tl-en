@@ -1,0 +1,141 @@
+{
+    "title": "ハッピーな靴選び",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> and I are out shopping for shoes when we run into Trainer Kiryuin and Happy Meek."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, if it isn't Trainer <username>! Are you buying shoes as well?",
+            "choice_data_list": [
+                "You too?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Of course! After all, a first-rate Umamusume needs first-rate gear!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I start looking through the shelves alongside an excited Trainer Kiryuin."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Look, Meek! It's those new shoes from the magazine."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Their performance is backed up by sports science and endorsed by top-level Umamusume."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I see…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But from a comfort perspective, the shoes next to them are the way to go."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "This model has excellent cushioning and reduces strain on the legs."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Considering your running style, these may be the better choice."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Right…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Happy Meek nods. She opens her mouth as if to speak, but closes it again without saying anything."
+        },
+        {
+            "name": "Monologue",
+            "text": "I realize she's staring at something and follow her gaze to another pair of shoes. If my hunch is correct…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Right, I've made up my mind!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Could you wait here, Meek? I'm just going to go pay."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "All right…",
+            "choice_data_list": [
+                "Shouldn't you tell her you want those shoes?",
+                "Shouldn't you tell her you want those shoes?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "No… It's all right. I'm happy with the shoes my trainer picked out for me."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I know she's just thinking about what's best for me… She works really hard, you know."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "So it's fine… I just thought those shoes looked like baguettes, that's all.",
+            "choice_data_list": [
+                "She'll be happier if you're honest with her.",
+                "She'll be happier if you're honest with her."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "You… really think so?",
+            "choice_data_list": [
+                "I'm a trainer too. I know these things.",
+                "I'm a trainer too. I know these things."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Thank you… I'll go and tell her…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm sorry, Meek…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I got so caught up in doing what I thought was best, I didn't think to consider you."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "What's most important is that the shoes fit <i>your</i> desires. Asking you how you felt should have been the first thing I did."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Let's go back to the store and choose again, shall we? This time, <i>together.</i>"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you for looking out for Meek, Trainer <username>."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I also want to say… thank you."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "From now on… I'll tell my trainer what I want when we're choosing shoes."
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing off Trainer Kiryuin, <chrname> and I pick out a pair of shoes that fit her preferences."
+        }
+    ]
+}

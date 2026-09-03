@@ -1,0 +1,118 @@
+{
+    "title": "桐生院の休日",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One afternoon on my day off, I'm walking by an outdoor café when I happen upon a familiar face."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Huh? No way… Trainer <username>?!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Why, hello there. To think I'd bump into you here!",
+            "choice_data_list": [
+                "Are you going in?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I was going to… but the course I want is only available for two or more people."
+        },
+        {
+            "name": "Monologue",
+            "text": "She glances at a signboard that reads, \"All-you-can-eat sweets and pastries! Perfect for partners and pals!\"",
+            "choice_data_list": [
+                "Want to dine together?",
+                "Want to dine together?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Are you sure? I don't want to inconvenience you just for the sake of my work…",
+            "choice_data_list": [
+                "Your work involves coming to an all-you-can-eat buffet?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That's right! Meek told me this café has amazing food."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So I figured that if I could make some for her, I could increase her motivation even further!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a fellow trainer, I'm impressed by her dedication, so I decide to help her with her \"work.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hmm… The parfait cream seems to emphasize the richness of the milk over sweetness."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But combined with the berry sauce, the aftertaste is surprisingly light."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Now for this brûlée cake… Ngh! So rich… So sweet…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "With your help, I was able to try all the dishes I wanted!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you, Trainer <username>!",
+            "choice_data_list": [
+                "Will you be able to make them yourself now?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I think so! I'll give it a try as soon as I get home."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Listen! Meek beat her fastest time yesterday!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "She said it was because the desserts I made really motivated her. Hehe!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But I still have a long way to go! I need to keep researching until I can recreate the flavors of that café perfectly!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I never want to give Meek anything less than top-class support."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "To that end, I'll spare no effort!",
+            "choice_data_list": [
+                "Let me know if I can help you out again."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>… Yes, absolutely!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Trainer Kiryuin shares some of her homemade sweets with me as a thank-you for helping out."
+        },
+        {
+            "name": "Monologue",
+            "text": "I eat them together with <chrname>."
+        }
+    ]
+}

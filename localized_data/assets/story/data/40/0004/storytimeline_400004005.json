@@ -1,0 +1,115 @@
+{
+    "title": "驚愕ッ！理事長のサプライズ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Academy PA",
+            "text": "Trainer <username>, please come to the director's office immediately."
+        },
+        {
+            "name": "Monologue",
+            "text": "The announcement sounds serious, so I make my way to the director's office in something of a fluster.",
+            "choice_data_list": [
+                "It's <username>."
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Please enter."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Do take a seat."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "…",
+            "choice_data_list": [
+                "…U-um?"
+            ]
+        },
+        {
+            "name": "Tazuna & Director Akikawa",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The silence is downright unsettling! As the wordless minutes start to feel like hours…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I grow more and more uneasy. Has something terrible happened?",
+            "choice_data_list": [
+                "Um! Wh-what's going on?!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Gratitude!",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "We called you here today to express our gratitude to you, Trainer!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! Your trainee <chrname>…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well, she's put on a brilliant display throughout this vital third year in her Twinkle Series career!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We've no doubt that the track she blazed will serve as a shining beacon for not only her classmates, but the next generation as well!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "As such, we are… INCREDIBLY grateful! Splendid work, Trainer!",
+            "choice_data_list": [
+                "Th-thank you very much!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Right! Also… Expectations! I greatly look forward to the unprecedented glory you're sure to achieve in the future!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'd like to thank you for your continued efforts as well. Please don't hesitate to let me know if there's anything I can assist you with."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems all they had in store was a heap of praise! I'm very appreciative, of course, but something's still bugging me.",
+            "choice_data_list": [
+                "What was with that awkward silence?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "A surprise! Naturally!",
+            "choice_data_list": [
+                "…A surprise?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Yes! I figured building a little suspense would sweeten the payoff!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I-I'm sorry. I did try to stop her…"
+        },
+        {
+            "name": "Monologue",
+            "text": "…There's a thing or three I'd like to question, but I'm happy to know I'm appreciated."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, I tell <chrname> about what happened and we share in the joy!"
+        }
+    ]
+}

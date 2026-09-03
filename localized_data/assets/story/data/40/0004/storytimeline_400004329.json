@@ -1,0 +1,213 @@
+{
+    "title": "『退学』を賭けた勝負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nakayama Festa",
+            "text": "Hit me. One more card."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ha! You want to hit? You do know there's a fine line between courage and recklessness, right? You're going to bust for sure."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Gee, thanks for your concern. Now I know who to talk to next time I want a lesson in settling for small victories."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Fine by me. Actually, I was just thinking it's about time I taught you a harsh lesson in <i>reality.</i>"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hmph. I'm going to wipe that smug look right off your face."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "H-hey! This looks like it could be bad news! We need to go call a teacher or something!",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Visiting the cafeteria, I happen upon some commotion unfolding."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ah, Trainer! Can you come here for a sec? Some big trouble's brewing here!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "This is bad! The showdown between those two is getting way out of hand…"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "They're wagering their whole futures! The loser has to drop out of the academy!",
+            "choice_data_list": [
+                "Drop out?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This isn't a game anymore! I need to put a stop to this at once!",
+            "choice_data_list": [
+                "The two of you need to calm down! Stop this game!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Quit raining on our parade. I'm on fire here, so just butt out."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Yeah, keep out of it. Let's do this, Nakayama. Time to switch dealer."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I can't wait to see you screw up your hand and bust."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You're one punk of a kid, you know that? I'm going to put an end to this right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "Things are so heated that neither of them are paying me any attention!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't just stand by and do nothing. I have to stop them!",
+            "choice_data_list": [
+                "L-let me in on this!",
+                "L-let me in on this!"
+            ]
+        },
+        {
+            "name": "Nakayama & Sirius",
+            "text": "…What?",
+            "choice_data_list": [
+                "If I win, neither of you are dropping out!",
+                "If I win, neither of you are dropping out!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "However…"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ha ha ha! How low you've fallen! What happened to all that confidence you had a minute ago?!",
+            "choice_data_list": [
+                "Ngh… <i>Sniffle…</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm whooped over and over without ever coming close to winning. These two are just too good!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I think it's time you called it quits, Trainer. Unless you're enjoying this losing streak you're on."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't afford to back down."
+        },
+        {
+            "name": "Monologue",
+            "text": "The game is blackjack. The objective is to build a hand of cards with a total value as close to twenty-one as possible without going over."
+        },
+        {
+            "name": "Monologue",
+            "text": "Right now, I have sixteen. It seems a bit weak, but if I add another card I might go over."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to win this game! But should I hit or stand?",
+            "choice_data_list": [
+                "Hit! Give me another card!",
+                "Stand. I'll stick with my current hand."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm dealt a ten, meaning I've gone over twenty-one and busted…",
+            "choice_data_list": [
+                "Nooooo!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ah ha ha! That really blew up in your face! Sure was fun to watch, though!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Looks like it's our win.",
+            "choice_data_list": [
+                "How did this happen?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha! Hahaha! What a pitiful sight! Ahaha!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I've got twenty-one. That's a blackjack."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Same here.",
+            "choice_data_list": [
+                "Nooooo!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sixteen versus two hands of twenty-one. Well, there goes the victory I needed so desperately…"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha! Hahaha! What a pitiful sight! Ahaha!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ha ha ha ha!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "…"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "<i>Sigh…</i>"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Tch… Given the look on your face after that spectacular loss, I've decided to withdraw for today.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I'm saying that you killed the mood."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Besides, we already got our fill from watching you lose.",
+            "choice_data_list": [
+                "…I'd prefer you to keep these intense duels to the racetrack."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hmph."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'll think about it."
+        }
+    ]
+}

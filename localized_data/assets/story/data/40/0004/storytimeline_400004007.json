@@ -1,0 +1,214 @@
+{
+    "title": "『3年目』へ向かって",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the sporting goods store to do some shopping and spot two Tracen students browsing the shelves."
+        },
+        {
+            "name": "Monologue",
+            "text": "One of them is Little Cocon. Always cool with an air of cynicism about her, she has a bit of a sharp tongue.",
+            "color_text_info_list": [
+                "Little Cocon"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The other is Bitter Glasse, a highly competitive runner who boasts supernatural strength and delights in harsh training.",
+            "color_text_info_list": [
+                "Bitter Glasse"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Both are under the tutelage of my colleague Trainer Kashimoto. I never considered either of them to be the sociable type, though…",
+            "choice_data_list": [
+                "Hello."
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "…Ah."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Well, if it isn't Trainer <username>! What a coincidence!",
+            "choice_data_list": [
+                "It's rare to see you two together on your days off.",
+                "It's rare to see you two together on your days off."
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "…That's none of your business. And we're not playing buddy-buddy anyhow."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Take it easy, Little Cocon… We came here today to exchange info."
+        },
+        {
+            "name": "Monologue",
+            "text": "Little Cocon coldly turns away as Bitter Glasse explains the situation to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're sharing opinions on the equipment they've been using in order to suggest better options to Trainer Kashimoto."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "We do trust Trainer Kashimoto, of course. She would never pick out anything inadequate."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "But she's constantly looking at reviews of shoes, fitness wear, and stuff for our sakes."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "So we figured it'd be nice if we could make things a little easier for her. Our third year is getting closer, after all!",
+            "choice_data_list": [
+                "Your third year…"
+            ]
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Yep. Our third year in the Twinkle Series, though I'm sure you're well aware of that."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "The last of the three most important years in an Umamusume's career."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "We gotta get our heads in the game. Oh yeah, I'm getting fired up!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "What about you? Do you really have time to be idling around here?",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "<i>Sigh…</i> If you slack off too much, you're going to slip up. That goes for you and your partner."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "We'll be leaving now."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Haha, well, that's that! Say hi to <chrname> for us!",
+            "choice_data_list": [
+                "Third year, huh…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "While mulling over what they both said, I decide to head back to the academy."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "<i>Pant, pant, pant…</i>"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Phew…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's late, and the only student still training is Happy Meek, the trainee of my colleague Trainer Kiryuin."
+        },
+        {
+            "name": "Monologue",
+            "text": "Happy Meek never says much, and her blank expression makes it look like she's always zoning out, but her bond with Trainer Kiryuin runs deep.",
+            "choice_data_list": [
+                "Good evening."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Oh… Trainer <username>. Evening.",
+            "choice_data_list": [
+                "Trainer Kiryuin isn't here with you?",
+                "Trainer Kiryuin isn't here with you?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "She's… holed up? In her office. Very busy."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I'm on break in the meantime… But I couldn't just stand around doing nothing.",
+            "choice_data_list": [
+                "And that's why you're training this late?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Well… my trainer's \"holed up\" in her office…"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "She's working hard to refine my third-year training regimen…"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "So…",
+            "choice_data_list": [
+                "So?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I have to do my best, too… We're partners, after all…",
+            "choice_data_list": [
+                "I see."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Also… your partner was working hard too…",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "I'm off for another lap… Woo."
+        },
+        {
+            "name": "Monologue",
+            "text": "Something about what Happy Meek said weighs on my mind, so I head to my office.",
+            "choice_data_list": [
+                "The lights are on…"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Also… your partner was working hard too…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Could <chrname> also be trying to think up a plan for her third year?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In my office, I find…",
+            "choice_data_list": [
+                "<chrname>!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend some time together discussing a variety of topics."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tonight's events have helped me realize the strength of my bond with <chrname>!"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "ついに集まったチームメンバー！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've finally gathered enough members to form a team, and we can now enter the Unity Cup."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our training level will go up based on our team ranking in the Unity Cup, so I'm hoping to win as many races as possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "But first, I need to decide on a team name. I can choose between the names the others suggested and the one I came up with, Team Carrot."
+        },
+        {
+            "name": "Monologue",
+            "text": "Let's name our team…",
+            "choice_data_list": [
+                "Happy Hoppers, like Taiki suggested",
+                "Sunny Runners, like Fukukitaru suggested",
+                "Carrot Pudding, like Urara suggested",
+                "Blue Bloom, like Rice suggested",
+                "Team Carrot"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill in our name on the form as \"Happy Hoppers.\" That makes it official!",
+            "color_text_info_list": [
+                "Happy Hoppers"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill in our name on the form as \"Sunny Runners.\" That makes it official!",
+            "color_text_info_list": [
+                "Sunny Runners"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill in our name on the form as \"Carrot Pudding.\" That makes it official!",
+            "color_text_info_list": [
+                "Carrot Pudding"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill in our name on the form as \"Blue Bloom.\" That makes it official!",
+            "color_text_info_list": [
+                "Blue Bloom"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill in our name on the form as \"Team Carrot.\" That makes it official!",
+            "color_text_info_list": [
+                "Team Carrot"
+            ]
+        }
+    ]
+}

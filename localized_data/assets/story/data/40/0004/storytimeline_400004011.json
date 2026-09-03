@@ -1,0 +1,92 @@
+{
+    "title": "最優秀クラシックウマ娘選出！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Reporter Otonashi",
+            "text": "<username>! I have amazing news to share!",
+            "choice_data_list": [
+                "Let's hear it."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You see, I'm on the panel of selectors for the Best Umamusume Awards, and—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock</i>"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I just heard some great news from the URA. You might have received an email already, but I thought I'd tell you in person anyway.",
+            "color_text_info_list": [
+                "URA"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "…Oh, but I see you have a visitor. I apologize for barging in."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Not at all! I think we may be here about the same thing!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I see. In that case, take a look at this."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open up the letter she hands me."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Dear <chrname>, we are pleased to inform you that you have been selected as this year's Best Classic Year Umamusume.\"",
+            "choice_data_list": [
+                "Best Classic Year Umamusume?!"
+            ],
+            "color_text_info_list": [
+                "Best Classic Year Umamusume"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Yes. The award goes to the Umamusume deemed to have had the best overall performance throughout the year."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "This is not an award that just anyone can hope to win. In other words…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "You did superb. That about sums it up. As a fellow member of this academy, I am proud."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Congratulations, really."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I wish to congratulate you as well!",
+            "choice_data_list": [
+                "Th-thank you very much!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "That said, the Twinkle Series is far from over."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Stay focused, and keep up this momentum going into senior year.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, <chrname> and I vow to keep working hard next year, too."
+        }
+    ]
+}

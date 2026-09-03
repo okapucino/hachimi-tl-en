@@ -1,41 +1,46 @@
 {
-    "no_wrap": true,
+    "title": "URAファイナルズ参加権獲得！",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Newscaster",
-            "text": "Now, the curtain is finally lifting\non the URA Finals!"
+            "text": "Next, we've got a big announcement for the upcoming URA Finale!"
         },
         {
             "name": "Newscaster",
-            "text": "This is the dream stage where the\nstar horse girls of the Twinkle series\ncompete for the top spot!"
+            "text": "The Twinkle Series's brightest stars will vie for the ultimate crown on the track of their dreams!"
         },
         {
             "name": "Newscaster",
-            "text": "Today, I'm pleased to announce our\nillustrious runners! First up—"
+            "text": "And today, we'll be unveiling this year's magnificent lineup of racers! First up is…"
         },
         {
-            "name": "Horsegirl Fan A",
-            "text": "Hey hey hey, did you see what's trending!?\nIt's almost exclusively URA Finals runners!"
+            "name": "Umamusume Fan A",
+            "text": "Hey, have you seen what's trending?! It's pretty much all URA Finale runners!"
         },
         {
-            "name": "Horsegirl Fan B",
-            "text": "The hype's really building! Hey, hey, who\ndo you have your eye on?"
+            "name": "Umamusume Fan B",
+            "text": "Yeah, it's really getting me pumped for the big day! Who are you cheering for?"
         },
         {
-            "name": "Horsegirl Fan A",
-            "text": "Haha, let's say it together! One, Two—"
+            "name": "Umamusume Fan A",
+            "text": "Hehe, let's say it together! Three, two, one…"
         },
         {
-            "text": "<chrname>!!"
+            "name": "Umamusume Fans",
+            "text": "<chrname>!"
         },
         {
-            "text": "<chrname> has been recognized for her\nspectacular achievements thus far."
+            "name": "Monologue",
+            "text": "<chrname> has been recognized by the public for all of her efforts and achievements…"
         },
         {
-            "text": "And accepted to participate in the\ngrand tournament where star Uma Musume\ngather, the URA Finals!"
+            "name": "Monologue",
+            "text": "She's been invited to compete in the grand URA Finale with all of the other star runners!"
         },
         {
-            "text": "I'll get <chrname> through the qualifyiers\nand aim to win the whole thing!"
+            "name": "Monologue",
+            "text": "<chrname> and I are going to make our way through the preliminaries and shoot for the top!"
         }
     ]
 }

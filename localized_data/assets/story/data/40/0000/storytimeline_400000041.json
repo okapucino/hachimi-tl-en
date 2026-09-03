@@ -1,98 +1,102 @@
 {
-    "no_wrap": true,
+    "title": "夏合宿のお知らせ",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Good job, trainer! You are\nworking hard every day."
+            "name": "Tazuna Hayakawa",
+            "text": "Thank you for your hard work, Trainer! You're really giving it your all, aren't you!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "By the way… it's finally that\ntime of year again!"
+            "name": "Tazuna Hayakawa",
+            "text": "And you know, that time of year has finally come again!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "It's almost time for the annual\n\"Summer Camp\" at Tracen Academy!",
+            "name": "Tazuna Hayakawa",
+            "text": "Tracen Academy's annual summer camp will soon begin!",
             "choice_data_list": [
-                "Summer Camp…!"
+                "Summer camp!"
             ],
             "color_text_info_list": [
-                "Summer Camp"
+                "summer camp"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "This is a different kind of training, where\nyou stay overnight at the facility…",
+            "name": "Tazuna Hayakawa",
+            "text": "That's right! ♪ You'll be staying by the beach, and utilizing the venue for a change in training programs.",
             "color_text_info_list": [
-                "a different kind of training"
+                "training programs"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "I'm sure your horse girl will\ngrow even more than usual!",
+            "name": "Tazuna Hayakawa",
+            "text": "I'm sure the new environment will help your trainee improve in leaps and bounds!",
             "color_text_info_list": [
-                "grow even more"
+                "help your trainee improve in leaps and bounds"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "… So please make sure she's in good shape\nfor the summer camp in July.",
+            "name": "Tazuna Hayakawa",
+            "text": "Camp starts in July, so make sure she's in tip-top condition to dive in and make the most of it.",
             "color_text_info_list": [
                 "July",
-                "in good shape"
+                "make sure she's in tip-top condition"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Summer camp goes by so fast! There's\nno time to take a \"break\".",
+            "name": "Tazuna Hayakawa",
+            "text": "But it'll be over before you know it! You won't have much time to rest.",
             "choice_data_list": [
-                "Yes, ma'am!"
+                "Got it!"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Good reply! Hehe… I'm looking\nforward to it… Summer camp ♪"
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe, that's what I want to hear! Summer camp is going to be so much fun! ♪"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes, of course, practice comes first, but…"
+            "name": "Tazuna Hayakawa",
+            "text": "Of course, training should be our foremost concern, but…"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Sometimes it's nice to take a break\nand \"go out\" to the beach!"
+            "name": "Tazuna Hayakawa",
+            "text": "Once in a while, you should go to the beach for some recreation! It might be good for you! ♪"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "I'm sure it will refresh your horse\ngirl and relieve her fatigue!",
+            "name": "Tazuna Hayakawa",
+            "text": "I think your trainee will feel refreshed and invigorated!",
             "choice_data_list": [
-                "I see…"
+                "That makes sense."
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "It's only a short two months\nfrom July to August, but…",
+            "name": "Tazuna Hayakawa",
+            "text": "Although it's only a short period of two months from July through August…",
             "color_text_info_list": [
-                "from July to August"
+                "two months from July through August"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Please spend a fruitful \"summer\ncamp\" with your horse girl."
+            "name": "Tazuna Hayakawa",
+            "text": "I hope you'll spend a fruitful summer with your trainee! ♪"
         },
         {
-            "text": "Tazuna told me about the \"summer camp\"!"
+            "name": "Monologue",
+            "text": "Tazuna tells me all about summer camp!"
         },
         {
-            "text": "I should pay attention to <chrname>'s\ncondition and energy to prepare\nfor the camp…",
+            "name": "Monologue",
+            "text": "I need to pay attention to <chrname>'s condition and energy leading up to it.",
             "color_text_info_list": [
                 "condition",
                 "energy"
             ]
         },
         {
-            "text": "It starts in two turns, in the first half of\nJuly, so we'd better start preparing now.",
+            "name": "Monologue",
+            "text": "It starts two turns from now in early July, so I should probably start preparing now.",
             "color_text_info_list": [
-                "in two turns",
-                "preparing now"
+                "starts two turns from now in early July",
+                "start preparing now"
             ]
         }
     ]

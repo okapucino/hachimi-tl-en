@@ -1,11 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "想いの継承",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "In front of the three goddesses statue, where\ngenerations of Uma Musu entrust their wishes\nto the younger generations."
+            "name": "Monologue",
+            "text": "Countless Umamusume have come to the Three Goddesses statue to carry on the dreams of legends past, or to entrust their own to those yet to come."
         },
         {
-            "text": "Today, too, a new horse girl will start\nrunning to carry on their legacy!"
+            "name": "Monologue",
+            "text": "Today, those legacies spark inspiration in yet another new runner!"
         }
     ]
 }

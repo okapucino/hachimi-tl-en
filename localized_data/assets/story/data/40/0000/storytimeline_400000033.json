@@ -1,20 +1,22 @@
 {
-    "no_wrap": true,
+    "title": "記者の評価アップ",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Otonashi Etsuko",
-            "text": "Today's training… was great!"
+            "name": "Reporter Otonashi",
+            "text": "Today's training was fantastic!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Your work bringing out the individuality of\nthe Uma Musume is a marvel. To be shown a\ndifferent charm every time…"
+            "name": "Reporter Otonashi",
+            "text": "Such magnificent use of your trainee's innate talents… I'm impressed by something different every time I come for an interview."
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "That's my promising trainer! Ahh, I'm so\nblessed to be a reporter …"
+            "name": "Reporter Otonashi",
+            "text": "You're exactly the trainer I believed you to be! A reporter could ask for nothing more!"
         },
         {
-            "text": "… Got a good rating!"
+            "name": "Monologue",
+            "text": "I received a good review!"
         }
     ]
 }

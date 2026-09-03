@@ -1,0 +1,171 @@
+{
+    "title": "Every Bit of Effort Counts",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I drop by Nakayama Racecourse and spot a pair of familiar faces."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I see… So what would you say Nakayama Racecourse means to you?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Well, it's a place I always dreamed of, and one my grandmother held fondly in her memories."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Phew…",
+            "choice_data_list": [
+                "Getting interviewed?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Oh, Trainer! Didn't see you there."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Actually, I've received requests from quite a few outlets, not just <i>Twinkle Monthly.</i>"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I have an interview with <i>Turbo Turf WEB</i> in eight minutes, then <i>The Nakayama Sleuth</i> twenty-five minutes after that, and in fifty minutes, um…",
+            "choice_data_list": [
+                "Sounds like a bit much…"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Not at all! It's the least I can do."
+        },
+        {
+            "name": "Light Hello",
+            "text": "The students are working so hard. I have to do my part to make our next concert even bigger!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see the determination in her eyes.",
+            "choice_data_list": [
+                "I'll go get you something to drink.",
+                "I'll join in!",
+                "I'll join in!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see the determination in her eyes.",
+            "choice_data_list": [
+                "I'll go get you something to drink.",
+                "I'll join in!",
+                "I'll join in!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "O-oh, no, you really don't have to! I can get something myse—"
+        },
+        {
+            "name": "Light Hello",
+            "text": "<i>Cough, cough!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her voice sounds hoarse. It must be worn out after so many interviews.",
+            "choice_data_list": [
+                "I'll pick up some cough drops while I'm at it."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "…Thank you."
+        },
+        {
+            "name": "Light Hello",
+            "text": "<i>Sigh…</i> Sorry for the trouble.",
+            "choice_data_list": [
+                "Don't mention it."
+            ]
+        },
+        {
+            "name": "Reporter",
+            "text": "Excuse me? Hi, I'm with Turbo Turf WEB…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Oh, y-yes! I'm Light Hello! Pleased to meet you."
+        },
+        {
+            "name": "Light Hello",
+            "text": "And, um, Trainer? I really appreciate the help!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I'll return the favor someday! Okay, gotta run now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, an extravagant box of sweets is delivered to my office."
+        },
+        {
+            "name": "Monologue",
+            "text": "Written on the wrapping paper in neat letters are my and <chrname>'s names along with a big \"Thank you!\""
+        },
+        {
+            "name": "Light Hello",
+            "text": "Oh, um, are you sure? Aren't you off today?",
+            "choice_data_list": [
+                "I want to do my part to help them shine too.",
+                "I want to do my part to help them shine too."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "…Right, how could I forget? You know the girls far better than me!"
+        },
+        {
+            "name": "Reporter",
+            "text": "Excuse me? I'm with Turbo Turf… got here a little early."
+        },
+        {
+            "name": "Light Hello",
+            "text": "That's quite all right! We can get right to the interview!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "And Trainer, thank you for offering to help out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Light Hello and I sit for an interview with the reporter."
+        },
+        {
+            "name": "Light Hello",
+            "text": "…I had no idea it would take so long. Sorry to eat up so much of your time."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I was really impressed with how in-depth your answers were, though. I guess it only makes sense, given how much time you spend with the students."
+        },
+        {
+            "name": "Light Hello",
+            "text": "…I need to step up my game!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I'll learn from your answers and use them in my interviews tomorrow!",
+            "choice_data_list": [
+                "You have more tomorrow?!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Yes! I want to do everything I can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The passion and persistence Light Hello demonstrates in her work continues to amaze me…"
+        }
+    ]
+}

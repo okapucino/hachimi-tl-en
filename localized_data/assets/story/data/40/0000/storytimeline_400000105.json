@@ -1,28 +1,29 @@
 {
-    "no_wrap": true,
+    "title": "URAファイナルズ準決勝の後に",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "First place, congratulations!"
+            "name": "Tazuna Hayakawa",
+            "text": "Congratulations on getting first place!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "It was a splendid run. I felt so impassioned\njust cheering you on!"
+            "name": "Tazuna Hayakawa",
+            "text": "That was such an excellent race! Just <i>watching</i> had my adrenaline pumping!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "And next up is, finally—",
+            "name": "Tazuna Hayakawa",
+            "text": "And now, next up is none other than—",
             "choice_data_list": [
-                "The Finals"
+                "The finals."
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes! The fans' expectations are the power to\nrun…  on the big stage, to the top."
+            "name": "Tazuna Hayakawa",
+            "text": "That's right! That grandest of stages, where the hopes of the fans fuel everyone onward… to the very top."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "I'm sure you will find glory!"
+            "name": "Tazuna Hayakawa",
+            "text": "Please do your best to seize that glory!"
         }
     ]
 }

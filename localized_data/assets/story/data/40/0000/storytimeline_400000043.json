@@ -1,30 +1,38 @@
 {
-    "no_wrap": true,
+    "title": "お大事に！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> seems to have suffered\na minor injury…"
+            "name": "Monologue",
+            "text": "<chrname> seems to have sustained a slight injury…"
         },
         {
-            "text": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I do—",
+            "name": "Monologue",
+            "text": "But summer camp only comes around once a year, and time is ticking. What to do…",
             "choice_data_list": [
-                "Make sure she takes a break",
-                "Have her tough it out"
+                "Make her take a proper rest.",
+                "Encourage her to keep going."
             ]
         },
         {
-            "text": "I decided to make sure that she\nwould focus on her treatment."
+            "name": "Monologue",
+            "text": "I decide to concentrate fully on treatment and recovery."
         },
         {
-            "text": "<chrname> couldn't move her body\nand felt a little down…"
+            "name": "Monologue",
+            "text": "<chrname> seems to be feeling a little depressed because she can't get any exercise…"
         },
         {
-            "text": "I decided to give <chrname> some\nencouragement and tried to continue on—"
+            "name": "Monologue",
+            "text": "I decide to enthusiastically encourage <chrname> to keep going…"
         },
         {
-            "text": "But it failed! The injury seems\nto have gotten worse…"
+            "name": "Monologue",
+            "text": "But it all goes wrong! Now it seems like the injury has gotten even worse…"
         },
         {
-            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
+            "name": "Monologue",
+            "text": "And the injury is miraculously healed! Practice goes perfectly!"
         }
     ]
 }

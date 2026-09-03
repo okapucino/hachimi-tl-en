@@ -1,0 +1,283 @@
+{
+    "title": "“スターウマ娘”目指して！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some time has passed since the announcement of the URA Finale."
+        },
+        {
+            "name": "Vodka",
+            "text": "The Finale Champion, huh? Now you're talkin'!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I wonder which race I should go for… Medium-distance? Or maybe even the mile?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You'd better make it the mile… for your own good."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm going for the medium-distance race, and I'm always number one! ♪"
+        },
+        {
+            "name": "Vodka",
+            "text": "What?! Them's fightin' words!"
+        },
+        {
+            "name": "Vodka",
+            "text": "That settles it! I'm goin' for medium too! Let's settle this once and for all, Scarlet!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! Bring it on!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohohoho! The first champion of the URA Finale… Truly, a title worthy of a first-rate racer such as I, King Halo!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Come, Sky! I shall grant you the honor of racing with me! Join me for another round of partner running!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, yeah, I'm coming… Boy, you sure are good at bossing people around."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Although… I guess this is my chance to check a few things, so… whatever."
+        },
+        {
+            "name": "Monologue",
+            "text": "Excitement is spreading among the Umamusume as they prepare for the URA Finale.",
+            "choice_data_list": [
+                "(I have to try my best too!)",
+                "(I have to try my best too!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As I renew my resolve…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VRRROOOOM!</i>"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Kyaaaaah!",
+            "choice_data_list": [
+                "Was that Tazuna?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I dash off in the direction of the noise to see what's going on."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Who… Where… Why…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What is this huge machine?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I arrive at the dirt track to find Tazuna in a panic…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VRRROOOOM!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "…and what appears to be an enormous vehicle producing an explosive noise.",
+            "choice_data_list": [
+                "What the heck is going on?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Hahahaha! Crying out for joy, Tazuna? I completely understand!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Oho?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Serendipity! Why, if it isn't Trainer <username>!",
+            "choice_data_list": [
+                "Um… Hello."
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Fortuitous! You're just the person I wanted to talk to. With regards to—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Now wait just a moment, Director!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Before you go any further, please explain this enormous contraption!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Apologies! I've gotten ahead of myself."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Heh, heh, heh. Listen and be amazed!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Restoration! Dirt tracks just like new in an instant! Adjustments! Fine-tune the amount of sand needed to your exact specifications!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Behold! The pinnacle of racecourse maintenance technology… the Ready-Paver Mk. III!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The pinnacle of racecourse maintenance technology? Don't tell me you dipped into your pocket money again!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Naturally! When it comes to providing a safe training environment for our precious Umamusume, I will spare no expense!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Any price I pay towards such a goal is trivial! Trivial, I say!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's a wonderful sentiment, but can't you ever do things in moderation?!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh dear… Where are we even going to put something this enormous?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VRRROOOOM!</i>"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm sorry you had to see this, Trainer.",
+            "choice_data_list": [
+                "It's, uh… It's fine."
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Apologies! And may I say…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Greetings! It's been far too long, Trainer <username>! Why, I believe the last time we spoke was during your training days!",
+            "choice_data_list": [
+                "It's nice to see you again."
+            ],
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Oho? What's this? That gleam in your eyes… Now that's a look I can get behind!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Vindication! I knew you were someone to keep an eye on!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Vindication! I knew you were someone to keep an eye on!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe. Director Akikawa has had her eye on you for some time.",
+            "choice_data_list": [
+                "On me?",
+                "On me?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! Since the time my mother was director of the academy, I have seen many trainers come through these gates."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Thusly! By the way you carry yourself and how you interact with your trainee, I can tell…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Conviction! As a trainer, you will become a firm pillar to support your Umamusume's dreams!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I feel the same. Which is why we've wanted to speak with you for some time…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! We would love for you and your trainee to help us make the URA Finale a success!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Naturally, everything rests on the presence of those who bear the hopes and dreams of their fans on their shoulders…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "That is to say, if the race is to succeed, we must have star Umamusume take part.",
+            "choice_data_list": [
+                "\"Star Umamusume,\" huh…"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The best and only way to win fans is to participate in races.",
+            "color_text_info_list": [
+                "best and only way to win fans",
+                "participate in races"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But if you can amass a great number of victories and gather enough support…",
+            "color_text_info_list": [
+                "amass a great number of victories"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Success! The path to becoming a star Umamusume will open before you!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Encouragement! Keep pushing forward together with your trainee!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We're looking forward to seeing her sprint towards becoming the first Finale Champion!",
+            "choice_data_list": [
+                "We'll do our best!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Director Akikawa's passion renews my excitement for the URA Finale."
+        }
+    ]
+}

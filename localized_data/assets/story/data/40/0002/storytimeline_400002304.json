@@ -1,0 +1,112 @@
+{
+    "title": "チームでピンチ！？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I head to training, I spot Matikanefukukitaru standing very still, a horrified look on her face.",
+            "choice_data_list": [
+                "Hey, what's wrong?",
+                "Hey, what's wrong?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The whole area is awash in a carpet of yellow-green! Oh, what do I <i>do,</i> Trainer?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "There's no way I can run today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I calm her down so she can explain what she's so flustered about."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "My unlucky color today is yellow-green, you see…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Which means that all the turf around us is going to bring me bad luck!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'll end up cursing myself for life if I run on the track right now! Gah! I don't even wanna think about that! Running is just not an option today!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm sorry, but I'm taking the day off!",
+            "choice_data_list": [
+                "H-hang on now!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't want to invalidate her beliefs, but it seems excessive to let her skip a whole day of training."
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask her if there's anything we can do to let her train without worrying about her unlucky color."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hmm… Interesting question. Taking matters into our own hands is certainly a novel approach…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Still, it's not like we can dye the turf another color…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Unless…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've got it! Wait here, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a moment, she comes rushing back… with a pair of sunglasses."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I found a solution! If I put these on, the dreaded yellow-green hues around us will look like a harmless dull brown!",
+            "choice_data_list": [
+                "(Is it really that simple?)"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'll try it out right away!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ooh! My guess was right! Everything's brown now! Hooray!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "In fact, the training grounds feel even more mystical bathed in sepia tones! Oh, how wonderful!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I guess it's worth thinking outside the box sometimes!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now I won't have to worry about running into anything yellow-green! Ah, what a blessed day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to her sunglasses, Matikanefukukitaru is full of energy for the entire training session."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her bright enthusiasm puts the others in a good mood too, and they have a good time at training."
+        }
+    ]
+}

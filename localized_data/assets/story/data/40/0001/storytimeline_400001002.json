@@ -1,278 +1,292 @@
 {
-    "no_wrap": true,
+    "title": "『URAファイナルズ』開催！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One day, while relaxing in my room, I \nreceived an e-mail from Thoresen Academy.",
+            "name": "Monologue",
+            "text": "One day, while relaxing in my room, I receive an email from Tracen Academy.",
             "choice_data_list": [
-                "What is it ……?"
+                "What's this about?"
             ]
         },
         {
-            "text": "Attention all trainers at the Academy! There \nwill be a big announcement concerning your \nfuture in the near future."
+            "name": "Monologue",
+            "text": "\"Attention, all trainers! I will soon make an announcement with significant implications for your future.\""
         },
         {
-            "text": "Be sure to check it out! From Akikawa \n[Akikawa], Chairman of the Board of Trustees \nof Tressen Academy.\"",
+            "name": "Monologue",
+            "text": "\"Be sure not to miss it! From Tracen Academy Director Akikawa.\"",
             "color_text_info_list": [
-                "fall river"
+                "Akikawa"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Thank you! Media, thank you for coming! \nSilence! I would like to propose…"
+            "name": "Director Akikawa",
+            "text": "Greetings! Members of the press, thank you all for coming! Listen well! I have gathered you here today for an important announ—"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Um, Ms. President～……! \nIf you don't get on the platform to talk, \nthey won't see……!"
+            "name": "Tazuna Hayakawa",
+            "text": "Um, Director! You have to stand on the box, or they won't be able to see you!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Mwah. That's right! Lost, lost!"
+            "name": "Director Akikawa",
+            "text": "Hm, right you are! Apologies, apologies!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "―Okay, that's better. Well then, once again!"
+            "name": "Director Akikawa",
+            "text": "All right, this seems okay. Well, then, from the top!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Proposal! In the name of the chairman \nof the board of directors of Thoresen \nAcademy, I hereby―"
+            "name": "Director Akikawa",
+            "text": "Listen well! I, the director of Tracen Academy, hereby announce…"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "I declare a new race, \"URA Finals\" ！！！！"
+            "name": "Director Akikawa",
+            "text": "The establishment of a new race, the URA Finale!"
         },
         {
-            "text": "(Zawwah ……!!!)"
+            "name": "Monologue",
+            "text": "<i>Murmur, murmur, murmur…</i>"
         },
         {
             "name": "Reporters",
-            "text": "The \"URA Finals\" ……! You're \ncreating a new race!"
+            "text": "\"The URA Finale\"?! They're creating an entirely new race?!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Chairman Akikawa! My name is Fumi Otome of \n\"Monthly Twinkle\". May I ask you a question?",
+            "name": "Reporter Otonashi",
+            "text": "Director Akikawa! I'm Otonashi of Twinkle Monthly. May I ask you a question?",
             "color_text_info_list": [
-                "Monthly Twinkle",
-                "history of a second name"
+                "Twinkle Monthly",
+                "Otonashi"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Permission! What is it, Otomeishi!"
+            "name": "Director Akikawa",
+            "text": "Permissible! What is it, Miss Otonashi?"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Thank you very much. Now then―"
+            "name": "Reporter Otonashi",
+            "text": "Thank you. Now then…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "I understand that you are \nestablishing a new race."
+            "name": "Reporter Otonashi",
+            "text": "Can you give us some insight into the thought process behind this decision?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Fortuitous!! I'm glad you asked!!"
+            "name": "Director Akikawa",
+            "text": "Excellent question! I'm glad you asked!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "The \"URA Finals\" is a race that \"gives every \nUma Musume a chance."
+            "name": "Director Akikawa",
+            "text": "In short, the URA Finale is an event that allows every Umamusume to seek a chance at glory!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Every Uma Musume will give it their all to \nreach the top! The best! The top! It's a race \nwhere you can compete!"
+            "name": "Director Akikawa",
+            "text": "It will be an event where any and all Umamusume can compete! Respect! Honor! Recognition! It will all be theirs for the taking!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Give…… a chance to…… the top \nspot…… every Uma girl ……!"
+            "name": "Reporter Otonashi",
+            "text": "A chance at glory… for all Umamusume?!"
         },
         {
-            "text": "(mutter mutter mutter……!!)"
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter…</i>"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "……… Huh. Hmmm. Hmmmmmmmmm… ……!!!"
+            "name": "Reporter Otonashi",
+            "text": "Hehe, hehehe… Hehehehehe!"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "Huh! ……! This is getting interesting… ……!"
+            "name": "Reporter Otonashi",
+            "text": "Ahhh! Now <i>this</i> is getting interesting!"
         },
         {
-            "text": "The race, \"URA Finals,\" was \nsuddenly announced. ……"
+            "name": "Monologue",
+            "text": "The sudden announcement of the URA Finale rocks the racing world."
         },
         {
-            "text": "Immediately after the press conference that \nshocked the racing world, a briefing session \nwas held for the members of Tracen Academy."
+            "name": "Monologue",
+            "text": "Immediately afterward, an information session is held for everyone at Tracen Academy."
         },
         {
-            "text": "We headed to the gymnasium, where \nthe students and trainers had already \ngathered, and the room was \nfilled with a buzz. ……"
+            "name": "Monologue",
+            "text": "By the time I make it to the gymnasium, it's already buzzing with trainers and Umamusume."
         },
         {
             "name": "Veteran Trainer A",
-            "text": "URA Finals or …… I wonder if it's okay, doing \nsomething so big as establishing a new race."
+            "text": "\"The URA Finale,\" huh… Can they really just make up a whole new race like that?"
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Yeah, I know……… I mean, she's \nstill a kid, right?"
+            "text": "I wonder… I know the director's a big deal, but she's still a child at the end of the day."
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Her predecessor was really good, \nbut it doesn't necessarily \nmean that her daughter is too."
+            "text": "The old director ran the academy like clockwork, but that doesn't mean her daughter knows what she's—"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "……I'm sorry to interrupt."
+            "name": "Tazuna Hayakawa",
+            "text": "Excuse me for interrupting."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "We will have time for questions and answers \nafter the presentation. If you have any \nquestions, please ask then, okay?"
+            "name": "Tazuna Hayakawa",
+            "text": "There will be time for questions after the director's address. If you have any concerns, you may bring them up then."
         },
         {
             "name": "Trainers",
-            "text": "Tazuna, ……! I'm sorry, I'm sorry."
+            "text": "Ms. Tazuna! E-excuse us! We didn't mean to be rude!"
         },
         {
-            "text": "Looking at the surroundings, it seems that \npeople are still more upset and anxious."
+            "name": "Monologue",
+            "text": "Judging by the mood in the room, there's still a lot of confusion and uncertainty."
         },
         {
-            "text": "In the midst of all this…… finally \nbegan the \"URA Finals\" presentation \nby Chancellor Akikawa."
+            "name": "Monologue",
+            "text": "The atmosphere persists as Director Akikawa's URA Finale briefing session finally begins."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! Many of you may have been puzzled \nand anxious at the sudden announcement of ……"
+            "name": "Director Akikawa",
+            "text": "Welcome! I'm sure that many of you must have been taken aback by this sudden announcement."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "But! First of all, listen to me! The URA \nFinals, and what it means!"
+            "name": "Director Akikawa",
+            "text": "However! I ask that you hear me out as I explain the significance of the URA Finale!"
         },
         {
-            "name": "All",
-            "text": "Meaning of ……?"
+            "name": "Attendees",
+            "text": "Significance? What does she mean?"
         },
         {
-            "text": "The faces of the participants looked at each \nother in a stir. Then, at the perfect \nmoment, the conversation was interrupted. \nAkikawa, the chairman of the board of \ntrustees, raised her voice."
+            "name": "Monologue",
+            "text": "The crowd glances at one another, and a hum of whispers fills the hall. With perfect timing, Director Akikawa resumes her address."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen. ！！！！"
+            "name": "Director Akikawa",
+            "text": "My beloved students and trainers!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "―Have you ever had a frustrating experience?"
+            "name": "Director Akikawa",
+            "text": "Tell me, have you ever known regret?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "I want to win the Arimakinen! I want to win \nthe Derby! I want to be the best horse girl! \nEven if you think so…",
+            "name": "Director Akikawa",
+            "text": "\"I want to win the Arima Kinen!\" \"I want to conquer the Derby!\" \"I want to be the strongest Umamusume!\"",
             "color_text_info_list": [
-                "Arima Kinen (horse racing)",
-                "Japan Derby"
+                "Arima Kinen",
+                "the Derby"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Have you ever had a race where you just \ncouldn't match the distance or course, and \nyou couldn't even show your ability?"
+            "name": "Director Akikawa",
+            "text": "Have you ever had dreams that you couldn't realize because the distance or the track surface just wasn't right for you?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "'My true power, the power of the horsegirl in \ncharge, is not like this,' she bit her lip!"
+            "name": "Director Akikawa",
+            "text": "Have you ever ground your teeth in chagrin as you thought, \"I'm better than this!\"?! Trainers, have you not had similar regrets?!"
         },
         {
             "name": "Vodka",
-            "text": "……"
+            "text": "…"
         },
         {
             "name": "King Halo",
-            "text": "……"
+            "text": "…"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! I am aiming for a world where all \nUma Musume who aspire to race will shine!"
+            "name": "Director Akikawa",
+            "text": "Heed me! I aim to create a world where all Umamusume who aspire to race can shine!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "The brilliance of the running Uma Musume is a \nclash of wills! My ideal is for the \nhorsegirls to compete for the top spot \nwith all their might and radiate \ntheir brilliance to each other!"
+            "name": "Director Akikawa",
+            "text": "And Umamusume runners shine the brightest when their wills clash! As they battle it out for the top spot, the heat of battle shall forge and polish our racers until their brilliance is blinding! Blinding, I say!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "After all! I want to prepare a stage where \nall the horsegirls can show their best! I \nwant to prepare it!"
+            "name": "Director Akikawa",
+            "text": "In summary! I wish to prepare a race that will serve as a stage for all Umamusume to show their full potential!"
         },
         {
-            "name": "All",
-            "text": "Chairman of the Board ……"
+            "name": "Attendees",
+            "text": "Director…"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "In a regular GI, the distance and course are \nestablished by the race."
+            "name": "Director Akikawa",
+            "text": "Currently, each G1 race has a designated distance and track type, limiting the runners who can join that particular race."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "But―!"
+            "name": "Director Akikawa",
+            "text": "However!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Scrape your eyes! In the URA Finals, we will \nhave \"all distances\" and \"all courses\"!"
+            "name": "Director Akikawa",
+            "text": "Behold! The URA Finale will feature all distances and tracks!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "All distances: ……!"
+            "text": "All distances!"
         },
         {
             "name": "Smart Falcon",
-            "text": "All courses ……!"
+            "text": "All tracks?!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "As with the Arima Kinen and Takarazuka Kinen, \nonly the Uma Musume chosen by fan votes will \nbe eligible to participate!",
+            "name": "Director Akikawa",
+            "text": "Just like in the Arima Kinen and the Takarazuka Kinen, participating racers will be selected by fan vote!",
             "color_text_info_list": [
-                "Takarazuka Memorial Museum"
+                "Takarazuka Kinen"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "In other words, the representative Uma Musume \nwho have been active in the Twinkle Series \nand won many fans―the \"Star Uma Musume\"―are \nthe only ones who are eligible to run!",
+            "name": "Director Akikawa",
+            "text": "Ergo, only Umamusume who have won many fans through their performance in the Twinkle Series—the star Umamusume—may take part!",
             "color_text_info_list": [
-                "Star Uma Musume"
+                "star Umamusume"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Uma Musume, ladies and gentlemen! Run on the \nstage where you can give it your all, and be \nthe top of the URA Finals!"
+            "name": "Director Akikawa",
+            "text": "Racers! I ask of you! Will you take this chance to show your true strength?!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Why don't you try to win the \ntitle of \"Finals Champion\"?",
+            "name": "Director Akikawa",
+            "text": "Will you aim for the top and seize the title of Finale Champion?",
             "color_text_info_list": [
-                "Final's Champion"
+                "Finale Champion"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Trainers! I want you to develop the talents \nof the horsegirls in your charge to the best \nof your ability."
+            "name": "Director Akikawa",
+            "text": "Trainers! I ask of you! Will you take this chance to push your trainees to their limits?!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Wouldn't you like to see her crowned the \nfirst champion!"
+            "name": "Director Akikawa",
+            "text": "Will you see your trainee crowned the first-ever winner of the URA Finale?!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Come on! You will all gather fans and become \n\"Star Uma Musume\" for the first show of the \nNew Year in three years!",
+            "name": "Director Akikawa",
+            "text": "Three years from now, in the new year, you will have your chance! Come! Gather your fans and become superstars!",
             "color_text_info_list": [
-                "New Year in three years"
+                "Three years from now, in the new year"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Encouragement! Expectations! \nI'm waiting for your success!"
+            "name": "Director Akikawa",
+            "text": "Encouragement! Excitement! I look forward to your success!"
         },
         {
-            "name": "All",
-            "text": "…………"
+            "name": "Attendees",
+            "text": "…"
         },
         {
-            "name": "All",
-            "text": "(Waaaaahhhh ……!!!)"
+            "name": "Attendees",
+            "text": "Wooooo!"
         },
         {
-            "text": "The situation before the briefing \nchanged dramatically, and the room \nwas filled with applause and cheers \nthat did not cease for a while."
+            "name": "Monologue",
+            "text": "The atmosphere in the gymnasium shifts completely as the doubts previously held by the audience melt away and are replaced with raucous applause."
         },
         {
-            "text": "Thus, the new tournament to close out the \nyear, the \"URA Finals,\" was declared open!"
+            "name": "Monologue",
+            "text": "And with that, the birth of a new year-end race, the URA Finale, is announced!"
         }
     ]
 }

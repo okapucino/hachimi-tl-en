@@ -1,27 +1,29 @@
 {
-    "no_wrap": true,
+    "title": "URAファイナルズ決勝にむけて",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Haahahahaha! I've been waiting\nfor you, trainer <username>!"
+            "name": "Director Akikawa",
+            "text": "Hahaha! I've been waiting for you, Trainer <username>!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "The look on her face as she takes\non the final… Mmm! She's practically\nglowing with motivation."
+            "name": "Director Akikawa",
+            "text": "That face of yours tells me you are ready for a challenge… Good! That is exactly what I want to see."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Excellent! Then I have but one thing to say."
+            "name": "Director Akikawa",
+            "text": "Take heed! I have but one piece of advice for you."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Believe in the strength of your horse girl,\nand grasp victory together!",
+            "name": "Director Akikawa",
+            "text": "Believe in your trainee's strength and seize victory together!",
             "choice_data_list": [
-                "Yes…!"
+                "I will!"
             ]
         },
         {
-            "text": "The gate to the finals of the\nURA Finals is finally open!"
+            "name": "Monologue",
+            "text": "The URA Finale… At long last, the gates will open to the finals!"
         }
     ]
 }

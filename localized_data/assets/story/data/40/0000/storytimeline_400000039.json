@@ -1,11 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "不在の理由は……",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> didn't show up for training."
+            "name": "Monologue",
+            "text": "<chrname> doesn't show up for training."
         },
         {
-            "text": "I asked her about the situation and told her\nnot to let it happen again, and she\napologized to me."
+            "name": "Monologue",
+            "text": "When I ask her not to let it happen again, she apologizes profusely."
         }
     ]
 }

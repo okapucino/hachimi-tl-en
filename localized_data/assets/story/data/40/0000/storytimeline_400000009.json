@@ -1,16 +1,18 @@
 {
-    "no_wrap": true,
+    "title": "理事長の評価アップ",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Bravo! I'm impressed with your\nrelentless pursuit of speed!"
+            "name": "Director Akikawa",
+            "text": "Bravo! I have recognized your insatiable pursuit of ever greater speed!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Keep up the good work! —Now,\nif you'll excuse me!"
+            "name": "Director Akikawa",
+            "text": "See that you continue your endeavors in earnest! I now take my leave!"
         },
         {
-            "text": "She was pleased with the way we practiced …"
+            "name": "Monologue",
+            "text": "She's apparently pleased with the way we're conducting our practice sessions."
         }
     ]
 }

@@ -1,0 +1,304 @@
+{
+    "title": "チュートリアル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hello, I'm here to explain what training for the Twinkle Star Climax will look like."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Would you like an explanation?",
+            "choice_data_list": [
+                "Yes, please.",
+                "No, thank you."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What would you like me to explain?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd like to know more about…",
+            "choice_data_list": [
+                "Career goals",
+                "The TS Climax",
+                "The Pro Shop",
+                "The Best Umamusume Awards",
+                "That's all I need to know."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah yes, your career goals.",
+            "color_text_info_list": [
+                "career goals"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll be training with the ultimate goal of entering the TS Climax."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The first step is to enter races and earn Result Points based on your performance. ♪",
+            "color_text_info_list": [
+                "Result Points"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll need to earn a certain number of Result Points each year, though the amount may differ depending on the year.",
+            "color_text_info_list": [
+                "each year",
+                "though the amount may differ",
+                "depending on the year"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you don't acquire enough Result Points by the end of late December each year, your career will come to an end!",
+            "color_text_info_list": [
+                "by the end of late December each year",
+                "your career will come to an end"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Placing well in higher graded races will earn you a greater number of Result Points.",
+            "color_text_info_list": [
+                "higher graded races",
+                "greater number of Result Points"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Additionally, you'll sometimes face particularly strong opponents during races!",
+            "color_text_info_list": [
+                "particularly strong opponents"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "These runners will appear as \"rivals\" on the race entry screen.",
+            "color_text_info_list": [
+                "\"rivals\""
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You can even acquire skill hints by defeating a rival, so do your best to seize victory!",
+            "color_text_info_list": [
+                "by defeating a rival",
+                "You can even acquire skill hints"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Furthermore, unlike what you may be used to, this time there aren't any goals specific to each individual Umamusume.",
+            "color_text_info_list": [
+                "aren't any goals specific to each individual Umamusume"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This means you can take on a wider variety of races, including ones you couldn't enter before!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll have to use your discretion to choose the most suitable races for your trainee. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "During your career, you might catch new glimpses of daily life at the academy. I'm sure that'll be fun!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That concludes my rundown of career goals. Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So you want to know about the TS Climax?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you earn the required number of Result Points during each career interval, you'll be able to enter the TS Climax.",
+            "color_text_info_list": [
+                "Result Points"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Consisting of three successive races, the TS Climax is a very special event for runners!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Victory Points are awarded after each race based on placing, and the runner with the most points across all three races is crowned the winner. ♪",
+            "color_text_info_list": [
+                "Victory Points",
+                "most points across all three races",
+                "crowned the winner"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The lineup of runners entering each race will remain the same, but they'll grow tougher as you progress."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Train your runner for a chance to enter the TS Climax, then vie to become Twinkle Top Star!",
+            "color_text_info_list": [
+                "Twinkle Top Star"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That concludes my rundown of the TS Climax. Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So you want to know about the Pro Shop accessible during your career?",
+            "color_text_info_list": [
+                "Pro Shop"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "In addition to Result Points, races will reward you with shop coins!",
+            "color_text_info_list": [
+                "Result Points",
+                "shop coins"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The better you place, the more shop coins you'll earn. These coins can then be spent at the Pro Shop. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Pro Shop offers a variety of useful training items in exchange for coins!",
+            "color_text_info_list": [
+                "training items"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "These items can raise attributes, replenish Energy, boost training effectiveness, and more!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Be sure to make the most of the Pro Shop as you train your partner. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Please be aware that the Pro Shop is only available after your trainee completes her junior-year Make Debut race.",
+            "color_text_info_list": [
+                "after your trainee completes her junior-year Make Debut race"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Also, don't forget that the lineup of training items on sale will change after a certain amount of time.",
+            "color_text_info_list": [
+                "lineup of training items on sale",
+                "will change after a certain amount of time"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If there's an item you have your eye on, I recommend you gather enough shop coins to get it while you can."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Furthermore, sales are sometimes held at random when the lineup changes, during which you can obtain items at lower prices than usual!",
+            "color_text_info_list": [
+                "sales are sometimes held at random",
+                "lower prices than usual"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I also hear that extra training items are sometimes added to the shop after a race finishes.",
+            "color_text_info_list": [
+                "extra training items are sometimes added",
+                "after a race finishes"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So make sure you check out the Pro Shop whenever you get the chance. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That concludes my rundown of the Pro Shop. Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So you want to know about the Best Umamusume Awards?",
+            "color_text_info_list": [
+                "Best Umamusume Awards"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The URA presents these awards to the Umamusume judged to be the best in their respective years.",
+            "color_text_info_list": [
+                "URA"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "One outstanding runner each from junior, classic, and senior years is chosen for these highly prestigious honors.",
+            "color_text_info_list": [
+                "each from junior, classic, and senior years"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Selection occurs at the end of December each year, after the year's final races have concluded.",
+            "color_text_info_list": [
+                "end of December each year"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Recipients are chosen based on a variety of factors, including race results and number of fans for that year. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Make sure to train hard, make good use of training items from the shop, and take on as many races as you can!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That concludes my rundown of the Best Umamusume Awards. Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Are you sure?",
+            "choice_data_list": [
+                "Yes.",
+                "On second thought…"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Very well! ♪ Just in case, I've prepared a summary of everything you'll need to know."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you ever need a refresher, simply tap the \"i\" button in the top left of the screen.",
+            "color_text_info_list": [
+                "\"i\" button"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well, I wish you the best of luck. I'll be cheering you on!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Okay. Well, I wish you the best of luck. I'll be cheering you on!"
+        }
+    ]
+}

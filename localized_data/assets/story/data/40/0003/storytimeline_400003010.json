@@ -1,0 +1,325 @@
+{
+    "title": "一緒に作ろう",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few weeks have passed since our info session at the academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "The reboot project is chugging along."
+        },
+        {
+            "name": "Light Hello",
+            "text": "We're starting the day off with our petition again. Let's get some more signatures, everyone!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order received. I will make further progress on this mission."
+        },
+        {
+            "name": "Student A",
+            "text": "Um, e-excuse me?"
+        },
+        {
+            "name": "Student B",
+            "text": "Sorry to butt in, but could we help out too?!",
+            "choice_data_list": [
+                "Wait, you guys are…",
+                "Wait, you guys are…"
+            ]
+        },
+        {
+            "name": "Student A",
+            "text": "Hearing what Hello and Tachyon said the other day really got us thinking."
+        },
+        {
+            "name": "Student B",
+            "text": "I know you're probably like, so <i>now</i> you want to help? But, well…"
+        },
+        {
+            "name": "Student A",
+            "text": "We want to make the Grand Concert happen!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Excuse me! Mind if we pitch in too? If it's just getting signatures, we can do that."
+        },
+        {
+            "name": "Fan B",
+            "text": "And if you need more hands on deck, I can call in some friends! Please, let me do my part!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh my gosh, you guys!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Wow, I never expected we'd get this many signatures in just one hour!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, the extra sheets just got here. If anyone's free, I could use some help carrying them."
+        },
+        {
+            "name": "Student C",
+            "text": "…Maybe I could help with that?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "You're…"
+        },
+        {
+            "name": "Student C",
+            "text": "You say it's for the fans, but to me it just sounds like an excuse to escape from the reality that we can't win!"
+        },
+        {
+            "name": "Student C",
+            "text": "Truth be told, I'm still not fully on board with everything. But…"
+        },
+        {
+            "name": "Assembled Student C",
+            "text": "And I want to tell them that I'm not done yet! That no matter how many times I lose, I have a goal, and I won't give up on it no matter what!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The Grand Concert is not so noble. Rather, it is an arena where egos clash—yours and your fans'!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Use it not for your fans, but for yourself—for the sake of broadening your own potential!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I want to see all of you shining on stage at the Grand Concert as the stars of the show!"
+        },
+        {
+            "name": "Student C",
+            "text": "Maybe I'm just looking to run away… but if the Grand Concert really is a space where we can be selfish…"
+        },
+        {
+            "name": "Student C",
+            "text": "And I know this is really, <i>really,</i> self-centered, but there's something I want my fans to know."
+        },
+        {
+            "name": "Student C",
+            "text": "I want to tell them that even if I haven't been able to get a win, I haven't given up either, so please don't give up on me!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Your words will reach them! I know they will, so, um…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I want you to say everything you have to say, then look at all your fans' faces, and get excited to sing with a smile again!"
+        },
+        {
+            "name": "Student C",
+            "text": "…Yeah!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hello! Would you mind if, you know…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…Say no more. We'd greatly appreciate your help."
+        },
+        {
+            "name": "Light Hello",
+            "text": "We're all coming from different places, with different motives and different feelings to convey—it wouldn't be the Grand Concert otherwise."
+        },
+        {
+            "name": "Monologue",
+            "text": "All of a sudden, it feels like we're surrounded by students and fans wanting to help out."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, we spread the word about our project until the sun sets."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "…To think our supporters would reach six digits. Truly a massive figure."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Yes, and I'm so grateful for it! To all of you students, and to our fans too!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As a researcher, I have much to be grateful for as well—the data set will be more than sufficient."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But a reality check is in order. Now that we have all these supporters…"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We can't seriously expect they'll all be able to participate, can we?",
+            "choice_data_list": [
+                "That's true…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The more people we get, the harder it'll be to organize the actual event."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Is there even a venue with the necessary capacity?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "We'll make do. I promise I'll find a way!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "We've come this far. I refuse to believe we have to give up on our vision!"
+        },
+        {
+            "name": "Sound Staff",
+            "text": "No need to put it all on yourself. I'll ask around about a venue.",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "name": "Lighting Staff",
+            "text": "We've come this far together. Might as well see it through."
+        },
+        {
+            "name": "Technical Staff",
+            "text": "We're all tried and true fans of yours now!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "You guys…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, so I might've just had a genius idea! What if we… turned this into a whole festival?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A festival?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah! If we can't all fit into one venue, why not get more venues?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "We could have different stages, like A, B, and C, and then fans could go wherever their favs are performing!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And to top it all off, we could do a livestream of the whole event too. Each stage will be different, but…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Everyone will get to have fun! And the scale of it will get people hyped up!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I see… That does sound like a genius idea!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Right? I even have a location in mind already…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzt, bzzt!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…Whose phone is that?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Sorry, that's me. I'll call them back la—"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Trainer, could I ask you to take over for a minute?",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "I'll be right back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Light Hello runs off, leaving me in charge of molding Smart Falcon's ideas into a plan."
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend some time brainstorming with our trusty staff team, everyone chiming in to make the Grand Concert the best it can be."
+        },
+        {
+            "name": "Monologue",
+            "text": "That evening…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing the students back to the academy, I finally hear from Light Hello."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Trainer! Traineeer!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "<i>Sniffle…</i> So this afternoon… the URA board came to observe us, and…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "And… <i>sniffle…</i> and they said…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "They said they'd offer their support for the Grand Concert…",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Uwaaaah! We… we did it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tears fall freely from Light Hello's eyes. All the days of hard work we've had together run through my mind.",
+            "choice_data_list": [
+                "Well, sounds like we have work to do!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Yes! …Yes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We're just a few steps away from the Grand Concert."
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "title": "サプライズ大作戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Air Groove",
+            "text": "I understand. Thank you for bringing this issue to my attention. I'll reorder the supplies right away."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oh, there's one more thing. It concerns our budget…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, I just completed those documents this morning. I'll go and retrieve them from the student council office."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Phew… Onto the next task."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove is swamped with student council work, and this busy period is showing no signs of letting up."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm a little worried about her.",
+            "choice_data_list": [
+                "Fuji Kiseki?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I've tried telling her to get some rest on multiple occasions, but she insists that she's too busy.",
+            "choice_data_list": [
+                "If only there was some way to take her mind off things."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Like a change of pace? I can make that happen! I'll arrange a surprise that'll whisk her off into a realm of astonishment and excitement!",
+            "choice_data_list": [
+                "Ooh!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now, how should I go about this? I'd like to hear your input, if you've got the time.",
+            "choice_data_list": [
+                "Who's someone that she'll actually listen to?",
+                "She loves flowers, right? Can we use that?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Someone she'd listen to… Nice. I think I've just come up with a brilliant idea!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Phew… Okay, it's about time to head to the student council office."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock.</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? Who is it?"
+        },
+        {
+            "name": "???",
+            "text": "Yoo-hoo, Air Groove! Have you been well?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Huh? …What?! It can't be! That voice!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "M-Mother?! What are you doing here?"
+        },
+        {
+            "name": "???",
+            "text": "Oh, you know how it is."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm not sure I do! S-sorry, I just need a couple of minutes to clean up!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, not that the room is in any way dirty—I just want to tidy it up more! …This vase looks natural over here, right?!"
+        },
+        {
+            "name": "???",
+            "text": "Oh, don't you worry about any of that. Just listen—some of your friends told me that you've been running yourself ragged recently."
+        },
+        {
+            "name": "???",
+            "text": "That won't do at all. You've got to relax more! Go out and have fun with your friends. You need a change of pace."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All right, I will! And the room's ready now, so we can continue this conversation inside! Let me open the door—"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Surprise!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What?! Were you just imitating my mother's voice?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "How <i>dare</i> you? What could possibly have possessed you to do something so reprehensible?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Look, I'm sorry! I was just so worried about you! I had to do <i>something.</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Worried? About me?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Everything I said just now when I was pretending to be your mother—it's how I really feel."
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Ahh, I see. So that's what this is all about."
+        },
+        {
+            "name": "Air Groove",
+            "text": "While I disapprove of your methods… I must admit there is logic in your words."
+        },
+        {
+            "name": "???",
+            "text": "That's right, Air Groove! Taking breaks is absolutely crucial! How reassuring to know that you've such caring friends."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? …Not this again. And <i>who</i> is imitating my mother this time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kachak.</i>"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Yoo-hoo, Air Groove! Your mother has arrived."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wha—M-Mother?! Is it really you?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "SURPRISE!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Oh dear, this won't do. You mustn't exert yourself so much that your friends become concerned."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "I want you to come home this weekend and take it easy. Come on, off we go! You're long overdue for a bit of letting your hair down!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "W-wait! Mother?! Hold on a moment!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Aaaagh!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Flowers, huh? In that case… I might be able to use that gadget!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Phew… It's really getting late."
+        },
+        {
+            "name": "Air Groove",
+            "text": "(Hm? Are those flower seeds on my table? I don't recall having seeds like those…)"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop! Pop, pop, pop!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop, pop! Pop! Pop, pop, pop!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What is that noise?! Wh-what's going on?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh, what happened just now?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What's the matter, Groove?! You seem awfully flustered."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh, it's you, Fine… Hmm, how do I even explain this?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "There was a series of small explosions in our room suddenly, and flowers started blooming all over the place."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my! Hehehe, that sounds like quite the mire!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "This is no laughing matter… At any rate, be sure to stay alert—there could be other bizarre contraptions concealed around here."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What's that? Your room was filled with flowers?! How terrible!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…What are you smirking about, dorm leader? We have to get to the bottom of this quickly and issue a report to—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wait. You… Grrr, so <i>that's</i> what's going on!"
+        },
+        {
+            "name": "Fuji & Fine",
+            "text": "Surprise!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Sigh…</i> You had me completely fooled."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So how was the surprise? Did you enjoy it?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "…Enjoy it?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We gathered all the flowers you like, Groove!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You've been super busy lately, so we hoped some flowers would help alleviate your stress!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Alleviate my stress, you say?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "(Ahh, I see… It's true that I've been overworking myself a little.)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm going to put all the flowers in my room into vases… and you two are going to help. Then we can use them to decorate the whole dorm."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, so you're going to end up working anyway. ♪"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That Empress of ours never learns, does she?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, but you're mistaken. I don't consider this work."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Putting flowers on display is how I relax."
+        }
+    ]
+}

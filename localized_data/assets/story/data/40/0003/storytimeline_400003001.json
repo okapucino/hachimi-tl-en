@@ -1,0 +1,300 @@
+{
+    "title": "グランドライブ再建計画、始動！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At her insistence, I visit the office of the mysterious producer Light Hello."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So, umm… the \"Grand Concert,\" was it?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Yes, it was an annual concert where every Tracen student got the chance to be on stage.",
+            "color_text_info_list": [
+                "Tracen"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "One by one, they sang their feelings of gratitude out to their fans."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "A concert featuring <i>every</i> student?! That sounds like a dream come true!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I want in! We're doing it, right?!",
+            "choice_data_list": [
+                "Wait, so why'd it go away?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Well, probably because the Twinkle Series has grown a lot since then.",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "With so many more races and registered runners, there just wasn't enough room for everyone in the Grand Concert anymore."
+        },
+        {
+            "name": "Light Hello",
+            "text": "It started out as something the Umamusume put on themselves. But as the event grew bigger, preparing for it took more time than they had to spare."
+        },
+        {
+            "name": "Light Hello",
+            "text": "That's when the URA proposed the idea of winning concerts."
+        },
+        {
+            "name": "Light Hello",
+            "text": "The whole point of the Grand Concert was to express gratitude to fans, so holding a concert after every race would be more efficient."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Plus, tying the concerts to races meant that the URA could manage them, taking the burden off the runners themselves."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Winning concerts proved to be a hit, more than the Grand Concert ever was."
+        },
+        {
+            "name": "Light Hello",
+            "text": "The promise of center stage captivated runners, both winners and losers alike, and—most of all—their fans."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Everybody in racing was absolutely enthralled… so much so that they forgot all about the Grand Concert."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Winning concerts now provide a dream for all Umamusume to chase, and have elevated the Twinkle Series to greater prestige."
+        },
+        {
+            "name": "Light Hello",
+            "text": "And yet… I can't help but feel that it's led some runners to lose sight of the concerts' original purpose."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Winning concerts are seen as a stage for the victors first and foremost."
+        },
+        {
+            "name": "Light Hello",
+            "text": "But just because you don't win, just because you're not center stage, doesn't mean you can't convey gratitude to your fans."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I dunno about you, but I don't want to get too used to this dance. If I can get through it with a smile, it means I'll never reach center stage."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "That's why we need the Grand Concert now more than ever."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I want to give Umamusume a place where they can simply convey their gratitude to their fans, without worrying about anything else.",
+            "color_text_info_list": [
+                "★★★",
+                "convey their gratitude to their fans"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Please, this would mean so much!"
+        },
+        {
+            "name": "URA Director",
+            "text": "Hmm… Times have changed, you must understand. I fail to see the point in a reboot now that winning concerts have become the norm."
+        },
+        {
+            "name": "URA Director",
+            "text": "Not to mention, a new event on the calendar would only put more stress on the Umamusume."
+        },
+        {
+            "name": "URA Director",
+            "text": "Besides, we haven't received any requests to bring it back either…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "What if I gathered support from people who wanted to see it again?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "If voices hoping for a reboot fill the academy halls, will the board reconsider?"
+        },
+        {
+            "name": "URA Director",
+            "text": "…At the very least, we may give the idea another look."
+        },
+        {
+            "name": "Light Hello",
+            "text": "That's where things currently stand. And so I've called you here to ask for your help."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "…You have mine.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I want to make this happen! I just know everyone would <i>love</i> a chance to give back to their fans!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Trainer, please! We <i>need</i> this concert!",
+            "choice_data_list": [
+                "…All right."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Really? Thank you so much!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, if we need help from more people, how about we start a petition or do a concert to get the word out?",
+            "color_text_info_list": [
+                "a concert to get the word out"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Like a promotion concert, almost?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah! I mean, before this, I'd never even heard of the Grand Concert."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So I think we should start by letting people know what it is—a concert for us to give thanks to our fans!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Also, you know how when there's a singer you don't know at a concert, and you're not really invested at first, but then you find yourself listening along?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "If you ask me, that happens because there's power in songs."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So if we just sing our hearts out to them, I'm sure more people will join our cause!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Yes, I see…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I've gone ahead and booked a stage for our concert!",
+            "choice_data_list": [
+                "That was fast!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Unfortunately, I couldn't get the stage here, since it's not a school event, but…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I did manage to rent the stage closest to campus, where there should be plenty of foot traffic!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yay!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I've also contacted people who can take care of the sound and lights, so as soon as everything's set up, we'll be good to go!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh my gosh, this is so exciting! I need to start rehearsing!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, but first I need to figure out the other dancers' schedules, tell the dance instructor, and think of a setlist…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like it's starting to hit Smart Falcon just how much there is to do."
+        },
+        {
+            "name": "Monologue",
+            "text": "All that work would definitely be a bit overwhelming.",
+            "choice_data_list": [
+                "I'll take care of scheduling.",
+                "I'll take care of scheduling."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wait, really? Are you sure?",
+            "choice_data_list": [
+                "Of course!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thanks a bunch!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Well, if there's anything I can help with, just let me know! I'll do everything I can!",
+            "choice_data_list": [
+                "All right, let's go, team!"
+            ]
+        },
+        {
+            "name": "Both",
+            "text": "Woo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, I now have to think about getting <chrname> concert-ready in addition to her normal training."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though from what I hear, there is some overlap. Dance and vocal lessons, for example, often involve building a strong core."
+        },
+        {
+            "name": "Monologue",
+            "text": "Incorporating these lessons into our schedule will improve <chrname>'s abilities and set her up for success on stage!",
+            "color_text_info_list": [
+                "lessons"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Plus, concerts themselves may be good opportunities for <chrname> to grow."
+        },
+        {
+            "name": "Monologue",
+            "text": "After a brief chat, we decide to hold our first concert in late December.",
+            "color_text_info_list": [
+                "late December"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If we can make it a success, it'll be a big first step on our way to the Grand Concert!"
+        }
+    ]
+}

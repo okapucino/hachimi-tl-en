@@ -1,0 +1,227 @@
+{
+    "title": "ヴィクトリー倶楽部、参上！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Welcome, Trainer!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "This is the Victory Club!"
+        },
+        {
+            "name": "Umamusume Children",
+            "text": "Welcome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the sun shines high above on this tranquil day, I find myself surrounded by children.",
+            "choice_data_list": [
+                "Thank you very much for inviting me!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Now then, everyone! It's time to show this Tracen Academy trainer how hard you work!"
+        },
+        {
+            "name": "Umamusume Children",
+            "text": "Yeaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Victory Club is a famous group dedicated to training young Umamusume."
+        },
+        {
+            "name": "Monologue",
+            "text": "It comprises a highly talented team and boasts an impressive track record, having produced several famous racers."
+        },
+        {
+            "name": "Monologue",
+            "text": "To continue my development as a trainer, I've come here today to observe the Victory Club in action."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "We'll be training outside today, so be careful you don't hurt yourselves!"
+        },
+        {
+            "name": "Umamusume Children",
+            "text": "Okaaay!",
+            "choice_data_list": [
+                "You two are former members of this club, right?",
+                "You two are former members of this club, right?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! I'll be happy to answer any questions you have as class representative—wait a moment, I guess I'm a club alum today!",
+            "choice_data_list": [
+                "I hear there are a lot of Umamusume with the name \"Sakura\" here, is that true?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Many Umamusume who bear the Sakura name have joined this club—Sakura Bakushin O and Sakura Chiyono O among them."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, you see, Trainer…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Those with \"Sakura\" in their name are just naturally drawn to the Victory Club!",
+            "choice_data_list": [
+                "R-really?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's our destiny! All Sakuras are fated to join us!",
+            "choice_data_list": [
+                "That's so epic!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um, well… My mom was a member of this club, so that's how I got connected to it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I think one reason there are so many Sakuras here is that our members value those connections very much.",
+            "choice_data_list": [
+                "Ah, I see."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come to think of it, my mom's a Victory Club alum too! Ha-ha-ha-ha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Next, I observe the youngsters as they train. Their regimen is just as grounded in theory as I'd expect from such a famed club.",
+            "choice_data_list": [
+                "This really is some first-class training.",
+                "This really is some first-class training."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Right! And since the club members are all young children, we ensure that the training sessions don't become too much of a physical burden.",
+            "choice_data_list": [
+                "That makes sense."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "They incorporate games like dodgeball into training to break up the monotony. I imagine the children love the variety."
+        },
+        {
+            "name": "Umamusume Children",
+            "text": "Ouch! It hurts!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh no!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All of a sudden, one of the children is in pain after a big tumble!",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Stop, Trainer! Don't help her up!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The motto of the Victory Club is…"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "Don't lose spirit! Stay positive and keep going!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Exactly! Remember, you're a member of this club too! You're a strong kid who can get back up on your own!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Are you injured? Try moving your foot around. …Okay, it looks fine. Why don't you see if you can stand up?"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "R-right! I'll try!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay, get ready! All together now! VICTORY!"
+        },
+        {
+            "name": "Bakushin O & the Child",
+            "text": "VICTORY!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, the young girl puts all her strength into her legs, then proudly stands up before dashing off to rejoin the other children.",
+            "choice_data_list": [
+                "That was amazing."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, Trainer! What do you think of the Victory Club?",
+            "choice_data_list": [
+                "I think it's fantastic!",
+                "I think it's fantastic!",
+                "Now I know why you two are such great runners."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, Trainer! What do you think of the Victory Club?",
+            "choice_data_list": [
+                "I think it's fantastic!",
+                "I think it's fantastic!",
+                "Now I know why you two are such great runners."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone in this club believes in their fellow members. They work together to overcome any difficulty."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah! Now you get it! I'm so proud to have been a member of this club!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "We're like two carrots that grew in the same patch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Victory Club is a passionate organization whose members form strong bonds and support each other."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I learned another way to show someone kindness besides just lending them a helping hand."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe, children with the Sakura name are tough, aren't they?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You can expect great things from all the young members of the Victory Club!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With my enthusiasm for training rekindled, I feel like I can't afford to rest on my laurels!"
+        }
+    ]
+}

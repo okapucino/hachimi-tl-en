@@ -1,0 +1,230 @@
+{
+    "title": "チュートリアル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hello. I'm here to clarify any questions you might have about the Grand Concert and how to train for it."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So, do you have any questions for me?",
+            "choice_data_list": [
+                "Yes, I'd like to know more.",
+                "No, I think I'm okay."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What would you like to know about?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm still unclear about…",
+            "choice_data_list": [
+                "The Grand Concert",
+                "Performance Points",
+                "Lessons",
+                "That's all, thank you."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Right, the Grand Concert."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It was an event put together by the students themselves."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Unfortunately, it faded away once the URA normalized winning concerts, and now not many people know about it."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Which is why you'll need to get the word out by holding promo concerts. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll hold a total of four of these, and each concert's reception will be determined by how many new songs are performed.",
+            "color_text_info_list": [
+                "four",
+                "★★★",
+                "determined by how many new songs are performed."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "A successful concert will be a boon to the students' growth."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Make sure you learn as many new songs as possible to ensure eventual success at the Grand Concert."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And don't forget, your trainee will also be racing in the Twinkle Series while you're preparing for all those performances.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you're not careful in meeting your goals, her career may be over before you ever get to the Grand Concert!",
+            "color_text_info_list": [
+                "★★★",
+                "★★★",
+                "her career may be over before you ever get to the Grand Concert!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, performance points."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "After a successful training session, you'll gain one of five types of performance points.",
+            "color_text_info_list": [
+                "performance"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Different training types will give you different types of performance points each time, so be sure to check your options.",
+            "color_text_info_list": [
+                "give you different types of performance points each time",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The amount of points you earn also depends on the level of the training and the number of Umamusume you train with."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Friendship Training will even give you two types of performance points at once!",
+            "color_text_info_list": [
+                "give you two types of performance points at once",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Certain events will also give you performance points. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll need points to learn songs and concert techniques, so earn as many as possible!",
+            "color_text_info_list": [
+                "songs",
+                "concert techniques"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, lessons."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Lessons are where your trainee will learn new songs and concert techniques with the performance points you've earned.",
+            "color_text_info_list": [
+                "Lessons"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "After learning a new song or concert technique, you'll also acquire a Mastery Bonus. ♪",
+            "color_text_info_list": [
+                "Mastery Bonus"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "These bonuses can boost abilities, recover Energy, improve training effectiveness, and more!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "In short, lessons offer nothing but benefits for your trainee, so make good use of them. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Learning a new song will additionally grant you a Concert Bonus.",
+            "color_text_info_list": [
+                "Concert Bonus"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "These bonuses will provide beneficial effects <i>after</i> your next promo concert.",
+            "color_text_info_list": [
+                "provide beneficial effects <i>after</i>"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "They offer different benefits from Mastery Bonuses, so keep an eye out for both types. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But keep in mind that you can only learn so many songs in between concerts!",
+            "color_text_info_list": [
+                "in between concerts",
+                "only learn so many songs"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If a lesson catches your eye but you don't have enough performance points, you can schedule it.",
+            "color_text_info_list": [
+                "schedule"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Scheduling a lesson will let you see which performance points you need while training. Convenient, isn't it? ♪",
+            "color_text_info_list": [
+                "which performance points you need",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's all you need to know about lessons. Is there anything else you'd like to know?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Are you sure?",
+            "choice_data_list": [
+                "Yep!",
+                "On second thought…"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Okay. ♪ I've prepared a summary of everything you need to know, just in case."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you ever need a refresher, just tap the \"i\" button in the top left of the screen.",
+            "color_text_info_list": [
+                "\"i\" button"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well, that's all from me. Good luck—I'll be rooting for you!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Okay, well, good luck—I'll be rooting for you!"
+        }
+    ]
+}

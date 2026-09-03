@@ -1,11 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "ソウルの継承",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "One day, I met up with <chrname> and she\nlooked so different I barely recognized her!"
+            "name": "Monologue",
+            "text": "One day when I go to see <chrname>, her expression is so different that I almost don't recognize her!"
         },
         {
-            "text": "<chrname> has awakened…!"
+            "name": "Monologue",
+            "text": "<chrname> has awakened!"
         }
     ]
 }

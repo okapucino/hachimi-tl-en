@@ -1,0 +1,287 @@
+{
+    "title": "語り合いたい！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Zenno Rob Roy",
+            "text": "And my favorite scene in <i>this</i> volume is when the protagonist faces the enemy champion in a gallant duel. It's truly riveting!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I completely agree. Personally, I was very pleased with the way this volume incorporated aspects of real-world mythology."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's important to note that it delves into rather realistic concepts, despite being a work of fiction. The training methods are quite feasible."
+        },
+        {
+            "name": "Monologue",
+            "text": "I arrive at the library to find Zenno Rob Roy, Mejiro Ardan, and Biwa Hayahide having a discussion in hushed tones.",
+            "choice_data_list": [
+                "Hello."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, hello. I'm sorry—were we being too loud?",
+            "choice_data_list": [
+                "Not at all. What are you talking about?",
+                "Not at all. What are you talking about?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We're sharing our impressions of the latest volume in this novel series. It's a very intriguing book…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's simply <i>amazing!</i> I could talk about it forever!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There's a slight problem however. There aren't many others with whom we can discuss the latest volume."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That's… absolutely correct. We've found ourselves unable to fully express all the passion we feel towards this book."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's such a shame…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe the book's a hidden gem? In that case, I can see why they'd feel disheartened about not having enough people to discuss it with.",
+            "choice_data_list": [
+                "I think I'll try reading it too.",
+                "I think I'll try reading it too.",
+                "Can you tell me what makes it such a fantastic read?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe the book's a hidden gem? In that case, I can see why they'd feel disheartened about not having enough people to discuss it with.",
+            "choice_data_list": [
+                "I think I'll try reading it too.",
+                "I think I'll try reading it too.",
+                "Can you tell me what makes it such a fantastic read?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All of their eyes seem to light up at that instant."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Y-you really mean it?! I'm so happy to hear that!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Your thoughtfulness is much appreciated. Hehe, how wonderful."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I believe this library has every volume in the series. I'll fetch them right away."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, even Hayahide is enthused."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three Umamusume are delighted by my decision. They really are passionate about books."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having the opportunity to assist them fills my own heart with joy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though for some reason, I can't help but feel this joy might be short-lived…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…And that's volume thirty-four. This is the entire series of books, including the latest volume.",
+            "choice_data_list": [
+                "How can there be so many?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In front of Hayahide looms what can only be described as a mountain of books!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There's also a spin-off series that comprises twelve volumes. I'll go and retrieve those, too.",
+            "choice_data_list": [
+                "You mean there are more?!",
+                "You mean there are more?!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, wait, Hayahide. Could you bring along the series guide as well?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, absolutely."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Wow, volume six brings back so many memories! I loved the hero's training arc!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Perhaps I should read all the previous volumes again. I might discover new details or gain a different perspective on things."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've heard of this series, but I had no idea how insanely long it is.",
+            "choice_data_list": [
+                "Um, hang on a second…"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ahaha… I think you've caught on. There aren't many people to discuss the latest volume with because so few people have read all of the previous ones."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I wonder if this is too much to ask of you…",
+            "choice_data_list": [
+                "I-it's no sweat!",
+                "I-it's no sweat!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Really?! I'm so thrilled!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My pride as a trainer keeps me from backing down."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd walk through fire if it meant putting a smile on a student's face!",
+            "choice_data_list": [
+                "(Time to surmount the towering mountain before me!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I stay up late reading every night for a <i>very</i> lengthy period."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, not a problem! Are you interested in reading the series?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Phew. We need to dig deep and sell Trainer on the books' strong points."
+        },
+        {
+            "name": "Monologue",
+            "text": "The trio begin their pitch in a somewhat exuberant manner."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "This series follows a protagonist who has no special powers on their journey to becoming a hero!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The depth of the history and world-building in these novels is such that reading them is like poring over the annals of an entire world."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The protagonist is so quick-witted that you end up impressed with how realistic and logical the novels are, especially for a fantasy."
+        },
+        {
+            "name": "Monologue",
+            "text": "They continue discussing the novels with palpable glee."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing them so happy fills my own heart with joy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though for some reason, I can't help but feel this joy might be short-lived…"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "And what's more! The series has a wealth of foreshadowing! The story is so painstakingly crafted!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "There are events in volume thirty-two that were hinted at as far back as volume three! Nobody even realized it was foreshadowing at the time!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, but I can't go into any more detail lest I spoil something!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Many of the events borrow heavily from real-world mythology, so the ideas presented in the series are truly worthy of analysis."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The motifs and symbolism that appear in the tales of past events often play into future developments in the story, so it's also fascinating from a historical point of view."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah, but I can't go into any more detail without spoiling things.",
+            "choice_data_list": [
+                "(Such fiery passion! I think I might get singed!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "More than an hour has passed, but none of them are showing any signs of slowing down."
+        },
+        {
+            "name": "Monologue",
+            "text": "I gravely underestimated their fervor for these books!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "At the very least, please read up to volume eight. Its unique depiction of the laws of physics within a fantasy world is truly brilliant."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But I can't go into any more detail or I'll spoil it."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, come to think of it, the protagonist's perspective on the idea of being a hero in volume twelve is very compelling!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The way volume twenty-one examined the historical motifs it depicted was strikingly innovative.",
+            "choice_data_list": [
+                "…Okay! I'll read every single volume!",
+                "…Okay! I'll read every single volume!"
+            ]
+        },
+        {
+            "name": "Rob Roy & Ardan",
+            "text": "You will?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That was the only response I could possibly give…"
+        },
+        {
+            "name": "Monologue",
+            "text": "If it's to put a smile on a student's face, then no task is too demanding for any trainer worth their salt."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no choice but to dive right into the fiery embrace of their ardent passion."
+        }
+    ]
+}

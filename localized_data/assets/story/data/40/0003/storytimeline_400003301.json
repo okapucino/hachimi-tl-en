@@ -1,0 +1,86 @@
+{
+    "title": "歌は上手ですか？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm passing by the training course…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Echo forth, fanfare… ♪",
+            "choice_data_list": [
+                "\"Make Debut\"?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah! Trainer?!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Just, um… forget you saw anything, okay? I'm sure you don't want to remember that anyway.",
+            "choice_data_list": [
+                "You're a good singer."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ahaha, maybe I can sing in tune, but that's not the same thing as being a good singer."
+        },
+        {
+            "name": "Light Hello",
+            "text": "My grandmother would always say that a concert is an opportunity to give thanks."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Even if you sing well, it doesn't matter if your heart's not into it.",
+            "choice_data_list": [
+                "Sounds like she was a strict judge."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Heh, I think that's just how much she loved the Twinkle Series."
+        },
+        {
+            "name": "Light Hello",
+            "text": "She was actually one of the founding members who fought to get the Grand Concert off the ground. That's what I heard from my mother, anyway.",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Apparently. I never knew until I started researching the concert—you can imagine my surprise."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Heh, I wish I could introduce her to the person I told you about…"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah, sorry! Look at me rambling about myself."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I will say, though… From what I've heard so far, I really do think <chrname> is a good singer."
+        },
+        {
+            "name": "Light Hello",
+            "text": "So when it comes time for her to stand on stage, I hope you'll pay close attention."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Because I think her song will be filled with gratitude for the person who's always stood by her side."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I get the chance to observe <chrname> at one of her dance lessons."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her singing seems to ooze with emotion."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "title": "家族（？）でショッピング！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hurry, everyone, hurry! We gotta go to that super popular cafe and <i>lock on</i> to some of their coffee jellies for grown-ups!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "No, let's go to the toy store, the toy store! I know you're all going to love the stuff on sale there, like Carrot Ranger's awesome ride!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Geez, you two are such children. Don't you have even a sliver of interest in the dark arts like I do?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay, calm down everyone, calm down. Be patient and we'll go everywhere you'd like to go."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Remember, you mustn't run, okay? Umamusume can reach considerable speeds, even when we're just jogging.",
+            "choice_data_list": [
+                "Yeah, it's pretty crowded here."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "S-sorryyy…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Sooorry…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I'm so proud of you for reflecting on your actions. ♪ You're such good kids. ♪ There, there. ♪"
+        },
+        {
+            "name": "The Three \"Kids\"",
+            "text": "Ahhh… ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I'm out shopping in a group of five."
+        },
+        {
+            "name": "Monologue",
+            "text": "We all bumped into each other at the academy and, after learning we were headed to the same place, decided to spend the day together."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hey, Trainer! Let's go to the toy store first! You know how epic heroes are, right?!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "No, the cafe comes first! You understand its mature appeal, don't you?! Let's touch down at the cafe for some coffee jelly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biko and Mayano pull my arms in opposite directions, like spoiled children nagging their parent.",
+            "choice_data_list": [
+                "W-we can visit both places!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, you're awfully popular. So, where shall we go first?",
+            "choice_data_list": [
+                "Let's have some fun at the toy store!",
+                "Let's take it easy at the cafe."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Whoooa! Carrot Ranger's new weapon is already out?! I'm so glad we came here!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Wow, what a cute hand mirror! I had no idea they sold stuff like this!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! Such children! I can't believe you're making such a fuss over a bunch of toys!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her protests, Sweep Tosho's eyes are locked onto a certain display as she speaks."
+        },
+        {
+            "name": "Monologue",
+            "text": "Neatly arranged on the display is a selection of magical girl wands.",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hoping to distract Sweep Tosho, I glance at Super Creek, who gives a small nod in response."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Would you like one of those wands, Sweep?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What?! N-no! I don't need something like that! They're for children!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "They <i>are</i> very cute, but they're also quite cool, don't you think? I think I might like one myself, actually."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh?! Even you like them, Creek?!",
+            "choice_data_list": [
+                "Hey, you two, I just bought a couple of wands!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "…?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "W-well since you already bought them, I guess I'll take one off your hands. Not that I want one of these or anything…"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Heeey, that's no fair, Sweep! What about me? I want this beautiful, grown-up hand mirror!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I want something, too! Carrot Ranger's new weapon is the coolest, I can't stand it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I soon find myself noticeably poorer, but it feels quite nice somehow."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thank you ever so much for today, Trainer.",
+            "choice_data_list": [
+                "I had a lot of fun."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…Bleugh."
+        },
+        {
+            "name": "Monologue",
+            "text": "The mature coffee jelly that Mayano Top Gun had her heart set on tastes far more bitter than she expected."
+        },
+        {
+            "name": "Biko & Sweep",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After tasting the bitter coffee jelly, the three Umamusume feel suddenly deflated…"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, this coffee jelly is simply delicious. I almost want to eat all of yours, too! ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "…!",
+            "choice_data_list": [
+                "Oh, uh, same! I'd definitely like more!",
+                "Oh, uh, same! I'd definitely like more!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hm, but then the three of you would all miss out on having dessert."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, I guess I'll just have to buy new desserts for all of you. Which would you like?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's my thanks for all this tasty coffee jelly you've given me. ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Really?!",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Awesome!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I-I guess if you insist! Here, you can have my coffee jelly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we successfully protect their taste buds from a bitter reckoning."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thank you ever so much for today, Trainer.",
+            "choice_data_list": [
+                "I had a lot of fun."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, it really was an enjoyable day."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Everyone was so excited and talkative… It was almost like we were a real family.",
+            "choice_data_list": [
+                "Family, huh…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If those three little rascals are the unruly children… then that would make me and Super Creek their—"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Creek! Trainer! What are you two doing? You're gonna get left behind!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, we should hurry. Let's not keep our <i>children</i> waiting. Hehe. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Come along, <i>Daddy.</i> ♪",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Come along, <i>Mommy.</i> ♪",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I'm just kidding. ♪"
+        }
+    ]
+}

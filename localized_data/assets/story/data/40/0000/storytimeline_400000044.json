@@ -1,30 +1,38 @@
 {
-    "no_wrap": true,
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> has been seriously injured…!"
+            "name": "Monologue",
+            "text": "<chrname> has sustained a serious injury!"
         },
         {
-            "text": "I don't know whether I should tend\nto her or push her through it…",
+            "name": "Monologue",
+            "text": "Should I have her focus on getting better or push through the pain…",
             "choice_data_list": [
-                "Let me tend to her",
-                "I have to be harh!"
+                "Treatment should come first.",
+                "Pain is weakness leaving the body!"
             ]
         },
         {
-            "text": "I decided to focus  on healing her injury."
+            "name": "Monologue",
+            "text": "I decide to focus on getting her injuries treated."
         },
         {
-            "text": "But <chrname> couldn't move her body, and\nshe felt a little down…"
+            "name": "Monologue",
+            "text": "<chrname> seems to be feeling a little depressed because she can't get any exercise…"
         },
         {
-            "text": "There's no time to stand still! I've decided\nto be tough on <chrname>."
+            "name": "Monologue",
+            "text": "There's no time to waste! I harden my heart and decide to have <chrname> push through the pain."
         },
         {
-            "text": "But as a result, she pushed herself too\nhard, and her injury worsened…"
+            "name": "Monologue",
+            "text": "But she forces herself too hard and her injury worsens…"
         },
         {
-            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
+            "name": "Monologue",
+            "text": "And the injury is miraculously healed! Practice goes perfectly!"
         }
     ]
 }

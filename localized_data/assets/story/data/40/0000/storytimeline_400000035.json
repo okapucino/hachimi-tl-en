@@ -1,22 +1,23 @@
 {
-    "no_wrap": true,
+    "title": "乙名史記者の悦楽取材",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Otonashi Etsuko",
-            "text": "Congratulations! A splendid victory.\n… I'm very impressed.",
+            "name": "Reporter Otonashi",
+            "text": "Congratulations! What a spectacular victory.",
             "choice_data_list": [
-                "It's because of her hard work."
+                "It's all thanks to her hard work."
             ]
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "As I thought, you're the only ones who can\nmake this issue's big cover feature!"
+            "name": "Reporter Otonashi",
+            "text": "Now I'm certain. The next extra-large, full-color special feature <i>has</i> to be about you two!"
         },
         {
-            "text": "… A feature in Twinkle Monthly. We can\nexpect a big response!"
+            "text": "Sounds like we can expect a great response from the next <i>Twinkle Monthly!</i>"
         },
         {
-            "text": "She praised <chrname> for her victory."
+            "text": "I go to praise <chrname> for her victory."
         }
     ]
 }

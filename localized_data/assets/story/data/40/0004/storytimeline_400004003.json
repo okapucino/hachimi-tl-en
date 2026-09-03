@@ -1,0 +1,172 @@
+{
+    "title": "開店ッ！特別ショップ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Passing by the school store one day, I notice they've set up a special section I've not seen before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Cheerfully gazing up at the banner bearing the words \"Grand Opening!\" is…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Superb! Such splendid workmanship! I'm sure the trainers will be absolutely thrilled to see this!",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Oh, you're already here, Trainer <username>?! Perfect timing! Look closely!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We've set up a new space within the store specifically for trainers! And today is the <i>grand</i> opening!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Director Akikawa points with great intensity to a sign that says…",
+            "choice_data_list": [
+                "Pro Shop?"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Precisely! It offers a wide range of convenient, hand-picked, high-quality \"training items\"!",
+            "color_text_info_list": [
+                "training items"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Make good use of them to ensure your trainee's healthy development!",
+            "choice_data_list": [
+                "Oooh!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I listen in wonder as Director Akikawa joyfully explains the different products that are available."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "…And to top it all off, money is unnecessary!",
+            "choice_data_list": [
+                "Unnecessary?!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Precisely! At this shop, you procure goods by exchanging special coins!",
+            "choice_data_list": [
+                "Exchanging?!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "And what's more! These coins are awarded based on race performances!",
+            "choice_data_list": [
+                "Awarded?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This all sounds far too good to be true. I gather my resolve and ask point-blank.",
+            "choice_data_list": [
+                "Um, where did you get the funds for all these—"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "D-Director?!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well if it isn't Tazuna! I was just giving Trainer here a rundown of the Pro Shop.",
+            "color_text_info_list": [
+                "Pro Shop"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This shop is exactly what I'm here to discuss!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Director… You used your pocket money to go on a massive shopping spree again, didn't you?!",
+            "choice_data_list": [
+                "I had a feeling that's how you stocked so many items…"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Verily! I'm funding all of this out of my own pockets!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "And I've already established all my supply routes! Expeditious!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I appreciate the sentiment, but can't you ever do things in moderation?!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Wahahaha! No amount of money is too great when it's spent on helping my beloved students!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, wait! This discussion isn't over!",
+            "choice_data_list": [
+                "…And she's gone."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Simply amazing!",
+            "choice_data_list": [
+                "Whoa! How long have you been here?!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh, I'm here to do some fieldwork for another story. I thank the academy for its continued cooperation."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But I must say—this is amazing! Director Akikawa is willing to devote <i>all</i> of her personal funds to the students!",
+            "choice_data_list": [
+                "Actually, I doubt this is even close to all of it…"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I simply must write an article on her!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"Director Akikawa resolves to give all she has for the Twinkle Star Climax!\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"And Trainer <username> will sacrifice <i>everything</i> to help realize her hopes!\"",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "How did it get to the point where <i>I'm</i> giving up everything too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I gaze out the window as I listen to Reporter Otonashi chatter excitedly."
+        },
+        {
+            "name": "Monologue",
+            "text": "I really am grateful to have access to the Pro Shop, though. I need to take advantage of every option available to me!"
+        }
+    ]
+}

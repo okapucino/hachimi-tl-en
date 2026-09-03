@@ -1,0 +1,25 @@
+{
+    "title": "よくないウワサ？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> is performing well, and it's only a matter of time until she earns the right to enter the Twinkle Star Climax."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, the increased attention results in a bogus news article. It becomes a major incident, with reporters knocking at the gates of Tracen Academy!",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The director proposes temporarily restricting media access to the academy, but reconsiders after hearing Reporter Otonashi's passionate plea."
+        },
+        {
+            "name": "Monologue",
+            "text": "In an effort to quell the misconceptions surrounding me, Reporter Otonashi plans a new article titled <i>Up Close and Personal with Trainer <username>!</i>"
+        }
+    ]
+}

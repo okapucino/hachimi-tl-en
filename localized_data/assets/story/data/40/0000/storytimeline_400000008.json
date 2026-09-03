@@ -1,15 +1,18 @@
 {
-    "no_wrap": true,
+    "title": "コンティニュー",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "(Jiririri…)",
+            "name": "Monologue",
+            "text": "<i>Rrrrring!</i>",
             "choice_data_list": [
-                "Ha… so it was a dream.",
-                "Ha…, I see, it was a dream."
+                "Huh?! Oh, it was just a dream…",
+                "Huh?! Oh, it was just a dream…"
             ]
         },
         {
-            "text": "Today is the big race day. Let's forget the\ndreams and meet up with <chrname> quickly."
+            "name": "Monologue",
+            "text": "There's an important race today. I need to forget about that dream and go see <chrname> right away…"
         }
     ]
 }

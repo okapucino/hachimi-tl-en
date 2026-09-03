@@ -1,0 +1,242 @@
+{
+    "title": "ドキドキフルーツフェス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I visit the cafe one day to find Mejiro Ryan and Ines Fujin sneaking around in an unusual manner."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, geez… Is McQueen gonna be okay?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Come on, you can do it! Stay positive!",
+            "choice_data_list": [
+                "…What are you two doing?",
+                "…What are you two doing?"
+            ]
+        },
+        {
+            "name": "Ryan & Ines",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Shhh! Come over here, quickly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan pulls me into the shadows, where they're both hiding. After getting my bearings, I follow their gaze to see…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This fruit is remarkably juicy! I'm amazed!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes, the results are beyond what I'd imagined. I'm grateful to you for conducting the preliminary research, McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O-oh, it was nothing elaborate, really. Besides, I wanted to express my thanks to you for sharing your knowledge with me."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "McQueen invited Ikuno out today so she could thank her for all her help."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ikuno was super excited for them both to eat a bunch of delicious desserts at this seasonal fruit dessert festival."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But McQueen's crazy nervous! And I was so worried about her that I just couldn't stay put!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "We can't abandon her in her moment of need!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I happened to spot her while at my part-time job, and I thought maybe there's something I can do to help!",
+            "choice_data_list": [
+                "She seems to be having fun, though."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "No, look carefully! Her expression is slightly stiff. I bet she's thinking stuff like…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(I invited Ikuno to this dessert festival on a whim because I liked the sound of it, but is she actually enjoying herself?!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Perhaps we should have gone someplace else, like that cleat store she likes?!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(The whole point of this outing was to thank <i>her,</i> after all!)"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's definitely what she's thinking! There's no doubt in my mind!",
+            "choice_data_list": [
+                "The Mejiro bond is nothing to sniff at…"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I want to boost McQueen's confidence somehow! Isn't there anything we can do?!",
+            "choice_data_list": [
+                "Let's utilize your position at your part-time job!",
+                "Let's help by using the Mejiro bond."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It's my time to shine, huh? Gotcha! I'll talk to the boss and see if we can offer them some special service!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wait, Ines! Put on this disguise! There's sunglasses, a wig, and a mask… This way you can serve them in secret!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks! All right, here I go!"
+        },
+        {
+            "name": "Mysterious Server",
+            "text": "Thanks a whole bunch for waiting. Here's your jumbo parfait for two."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hm? I don't believe we ordered this."
+        },
+        {
+            "name": "Mysterious Server",
+            "text": "This is a special item we're offering as part of the fruit festival. It's on the house."
+        },
+        {
+            "name": "Mysterious Server",
+            "text": "It's fairly large, so if you hope to finish it all, you'll definitely need to spoon-feed it to each other!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Spoon-feed?!</i>"
+        },
+        {
+            "name": "Mysterious Server",
+            "text": "Yes, spoon-feed. Enjoy. ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sp-sp-spoon… Spoon-feed?! Like, while saying \"open wide\"? Is that what she meant?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "McQueen…"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Say \"ahh.\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Uh?! A-aaahh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chomp.</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Mmm… ♪"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "How does it taste?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Uh, hmm… The sweetness is filling my mouth… And I'm getting a warm feeling deep down in my chest!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Truly? I never realized you had such a fondness for desserts. I'm glad you like it."
+        },
+        {
+            "name": "Monologue",
+            "text": "There was probably nothing to worry about in the first place, but it's nice that Ikuno Dictus appears to be having a great time."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Understood! For McQueen, I'll work myself to the bone!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'll go borrow a uniform from my boss!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks! I've also got some sunglasses and a wig I can use to disguise myself. Let's do this!"
+        },
+        {
+            "name": "Incognito Employee",
+            "text": "Pardon me, valued customers, but today we're offering coupons to everyone attending the fruit festival."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hm?"
+        },
+        {
+            "name": "Incognito Employee",
+            "text": "Here's a discount for a sporting goods store. I hope the two of you will put it to good use."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Whatever are you doing, Ryan?"
+        },
+        {
+            "name": "Incognito Employee",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Incognito Employee",
+            "text": "I-I've been found out! But how?! I'm wearing a wig and everything!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's painfully obvious who you are!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I've just noticed that Ines and Trainer are observing us from over there.",
+            "choice_data_list": [
+                "Gah!"
+            ]
+        },
+        {
+            "name": "Ryan & Ines",
+            "text": "Tactical retreat!",
+            "choice_data_list": [
+                "W-wait for me!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My word! What gives them the right to follow me around?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hehe, it must be nice being part of such a lively family."
+        },
+        {
+            "name": "Monologue",
+            "text": "There was probably nothing to worry about in the first place, but it's nice to catch a quick glimpse of Ikuno Dictus enjoying herself."
+        }
+    ]
+}

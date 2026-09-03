@@ -1,0 +1,62 @@
+{
+    "title": "クライマックス3戦目にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Reporter Otonashi",
+            "text": "A pleasure to see you again! Etsuko Otonashi from <i>Twinkle Monthly</i> here. Would you happen to be free right now?",
+            "choice_data_list": [
+                "Why so formal all of a sudden?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe… I thought it would be appropriate, given this is the last race and all."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "…It's finally time. This race will decide the greatest.",
+            "choice_data_list": [
+                "Indeed."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I've waited so impatiently for this, but it also makes me a little sad… It's a strange feeling."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'm sorry! I didn't mean to put a damper on such a big moment! Right, I need to collect myself and conduct this interview!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "As the trainer of a leading contender for the title of <i>greatest</i> Umamusume, what's your outlook as we approach the final race?!",
+            "choice_data_list": [
+                "We're going to win!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The roar from the crowd is deafening. It's almost time for the fanfare to ring out."
+        },
+        {
+            "name": "Monologue",
+            "text": "The title of \"greatest\" will be decided right here!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "What's your outlook as we approach the final race?!",
+            "choice_data_list": [
+                "I have faith!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The roar from the crowd is deafening. It's almost time for the fanfare to ring out."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm going to watch over <chrname> right until the very end. In my mind at least, she's already the greatest!"
+        }
+    ]
+}

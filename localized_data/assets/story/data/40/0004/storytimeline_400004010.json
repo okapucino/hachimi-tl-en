@@ -1,0 +1,89 @@
+{
+    "title": "最優秀ジュニアウマ娘選出！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I receive a phone call from Reporter Otonashi."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"I'm sorry for the abrupt call, but there's something I need to tell you right away!\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"<chrname>'s efforts this year have been recognized…\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"And she's been selected as the Best Junior Year Umamusume!\"",
+            "choice_data_list": [
+                "…!"
+            ],
+            "color_text_info_list": [
+                "Best Junior Year Umamusume"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Otonashi continues, offering me warm words of praise."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hang up the phone and bask in feelings of joy, motivated to work even harder with my partner. Then, all of a sudden…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm visited by Trainer Kiryuin and her gentle partner, Happy Meek.",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Sorry to disturb you, Trainer <username>, but I just heard about your award!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Congratulations! Your accomplishments this year have been truly remarkable!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Congratulations.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I felt emotional finding out that a runner trained by my colleague earned the award!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I just had to come by and congratulate you!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Mm. Cheeers."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "And now, I'm motivated to make sure it's me who comes out on top next year!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Let's keep doing our best as fellow trainers and rivals!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, <chrname> and I vow to work hard and be the best next year, too."
+        }
+    ]
+}

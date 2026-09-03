@@ -1,11 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "夜ふかし気味で……",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "There is something wrong with <chrname>…"
+            "name": "Monologue",
+            "text": "Something's a little off with <chrname>…"
         },
         {
-            "text": "When I asked him about it, she seemed to be\na bit of a night owl lately."
+            "name": "Monologue",
+            "text": "When I ask her about it, I find out she hasn't been getting proper sleep recently."
         }
     ]
 }

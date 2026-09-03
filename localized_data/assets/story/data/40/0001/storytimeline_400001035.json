@@ -1,0 +1,33 @@
+{
+    "title": "URAファイナルズ決勝にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Here it is. The final race."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The stage where <chrname> can shine the brightest. Brighter than anyone else."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Of course, that goes for my trainee too."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "The grand finale… I'm gonna get the gold.",
+            "choice_data_list": [
+                "Let's both give it our all!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Of course! Your days with your trainee and my days with mine… Let's see which comes out on top!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At last, the final race of the URA Finale begins!"
+        }
+    ]
+}

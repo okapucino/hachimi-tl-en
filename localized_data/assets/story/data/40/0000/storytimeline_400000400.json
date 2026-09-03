@@ -1,20 +1,24 @@
 {
-    "no_wrap": true,
+    "title": "たづなさんの育成アドバイス",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "I got some advice from Hayakawa Tazuna\nwhen I started my days with my\nchosen horse girl.",
+            "name": "Monologue",
+            "text": "Before I begin working with my trainee, I receive some advice from Tazuna Hayakawa.",
             "color_text_info_list": [
-                "Hayakawa Tazuna"
+                "Tazuna Hayakawa"
             ]
         },
         {
-            "text": "The first 3 years after your \ndebut in the Twinkle Series are\na very important time.",
+            "name": "Monologue",
+            "text": "A runner's first three years after her Twinkle Series debut is a very important time.",
             "color_text_info_list": [
-                "3 years"
+                "first three years after her Twinkle Series debut"
             ]
         },
         {
-            "text": "Once again, I was fired up for\nthe upcoming \"Make Debut\".",
+            "name": "Monologue",
+            "text": "So we refocus and set our sights on the upcoming Make Debut.",
             "color_text_info_list": [
                 "Make Debut"
             ]

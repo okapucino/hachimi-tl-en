@@ -1,0 +1,77 @@
+{
+    "title": "歌う曲は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm ironing out some final concert details with Light Hello…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Trainer, Hello! The lyrics are done!",
+            "choice_data_list": [
+                "Yeah? Let's hear them!",
+                "Yeah? Let's hear them!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What? No, no, no! That'll be a surprise for the big day!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But spoiler warning—the song's going to be amazing! So start counting down to the day you get to hear it!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Hehe, that's too bad, Trainer. I guess I'll just check the lyrics myself then."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, you don't get to listen either!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I don't?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This song is our gift to everyone who supported us, and you don't get to open your presents early."
+        },
+        {
+            "name": "Light Hello",
+            "text": "But I can't put it on the program if I don't know what the song's called…"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, you and Trainer can think of that!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It'll be your present to us, after sticking with us all this time!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I can't wait to see what title you come up with!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "…And there she goes."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ahaha, well this is awkward. Not sure how we're supposed to name a song we don't know the lyrics to.",
+            "choice_data_list": [
+                "I'm sure we can come up with something together."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Hehe, I guess so. We do have plenty of time, fortunately."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Time to think about what words we want to offer them."
+        }
+    ]
+}

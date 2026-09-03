@@ -1,0 +1,287 @@
+{
+    "title": "『全力』＆『普通』ダイエット！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "…I've packed on some pounds."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since becoming a trainer, I've had more opportunities to eat out with the students. As a result, I've put on weight."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hellooo!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hello! …Huh?",
+            "choice_data_list": [
+                "Hello…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What's wrong, Trainer?! You seem kinda sad! Are you feeling sick?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That would be <i>way</i> too tragiiiic!",
+            "choice_data_list": [
+                "It's not that—I've just put on a few pounds."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oho, I see now. Well, you've been spending a lot of time with us Umamusume, and most of us have big appetites.",
+            "choice_data_list": [
+                "Maybe I should go on a diet."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ooh! How responsible!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As someone whose role it is to guide trainees, I want to set an example by keeping myself in good physical shape."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Your dedication is so TOUCHIIIING!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's amazing! You're incredible, Trainer! You have a will of STEEL!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay, I've made up my mind! I'm going to help you out, and I'm going at it full blast!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "FULL THROTTLE! I'll back you up to the max, Trainer! We can do it!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whoa! Ticket at full throttle?! This could be dangerous. You'd better watch out, Trainer!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "J-just help out at regular throttle, Ticket! Let's hold back a little and put in an ordinary amount of effort."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm, you think that's best? Maybe you're right…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What do you think, Trainer? Full throttle?! Or an ordinary amount of effort?",
+            "choice_data_list": [
+                "Let's go full throttle!",
+                "An ordinary amount, p-please…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm sooo <i>impressed!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Leave it to me! I'll throw together a plan that smashes all your expectations!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! First up, we're going to run until the sun sets!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "H-hold on, Ticket! It's only midday!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Great work, Trainer! …Hey, are you okay?",
+            "choice_data_list": [
+                "<i>Wheeze… Wheeze…</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This run marks the start of my full-throttle training. My body's so worn out that I can't manage another step. Totally drained, I only manage to flop onto my desk."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I'm still alive. I guess Winning Ticket must have dialed things back a little for my sake."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whooooa! Trainer, you were running like your life depended on it! Just picturing it brings tears to my eyeeees!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You really did great out there. Here, have some water.",
+            "choice_data_list": [
+                "Thanks…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What you eat after a workout is another super vital part of dieting!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "We're going full throttle when it comes to food, too, so I've handpicked a low-calorie menu for you!",
+            "choice_data_list": [
+                "Thanks for doing all this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "However, I get the sense that I'm being naive about how easy this all seems…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Here you go! Low-cal tofu, natto, grilled fish, chicken breast, miso soup packed with kelp, and a large serving of fish cakes!",
+            "choice_data_list": [
+                "This is <i>way</i> too much!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Really? But it's a pretty ordinary amount for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yeah, it probably is ordinary for an Umamusume!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I eat and eat, but don't even make a dent in the mass of food piled before me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I just went full-throttle to fetch you another serving, Trainer!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "We have to think about nutritional balance! I got you boiled spinach, brown rice, stir-fried mushrooms, root veggies, soy milk, yogurt, and a large salad!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Eat up and get bigger! At full throttle!",
+            "choice_data_list": [
+                "…Guh."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I eat so much that my body gives out, and I collapse on the floor."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "TRAAAINEEERRR!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm reminded today that an Umamusume at full throttle is an incredible thing to behold."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Great choice. It's best not to overdo it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm looking forward to helping you out!",
+            "choice_data_list": [
+                "Thanks, Tannhauser!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Now then… We'll start with a light thirty-kilometer run!",
+            "choice_data_list": [
+                "A <i>what?!</i>"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Is there a problem?",
+            "choice_data_list": [
+                "I thought this was going to be \"ordinary\"?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Of course! Thirty kilometers <i>is</i> ordinary. Very much so!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WHOOOAAA! I'm sooo impressed!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "For Machitan, even a thirty-kilometer run is ordinary!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay, let's just run like normal and shoot for thirty!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Keep it up! You've only run ten kilometers so far!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whooooa! Trainer, you're running like your life depends on it! Your commitment's giving me infinite motivatiooon!",
+            "choice_data_list": [
+                "<i>Huff, huff!</i> …I'm at my limit!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Come on, you can do it! You've got this!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmm, yeah, I don't think this is gonna cut it…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I wanna see more oomph in your running!",
+            "choice_data_list": [
+                "Huhhh?!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That's it! Let's bunny hop the last twenty kilometers!",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The brutal training causes my body to tap out, leaving me collapsed on the ground."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Waaaagh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm reminded today that what's ordinary for an Umamusume is anything but for me."
+        }
+    ]
+}

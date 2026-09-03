@@ -1,0 +1,34 @@
+{
+    "title": "達成ッ！素晴らしき大偉業！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> has earned <achievement_name>."
+        },
+        {
+            "name": "Monologue",
+            "text": "<achievement_info>"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, I'm summoned out of the blue to the director's office."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Bravo!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "<chrname>'s performance has been the definition of <i>exhilarating!</i> Positively tremendous! Groundbreaking!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well done! Your grand achievement will go down in the annals of Tracen Academy—nay, in <i>all</i> of Umamusume history!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Director Akikawa lavishes me with immense praise, face-to-face! It sounds like we've achieved the best possible result!"
+        }
+    ]
+}

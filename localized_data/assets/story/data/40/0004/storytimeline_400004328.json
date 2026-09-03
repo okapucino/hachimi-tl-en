@@ -1,0 +1,235 @@
+{
+    "title": "ベガとスピカ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After finishing work, I head up to the roof and run into Admire Vega and Silence Suzuka."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh… Um, good evening."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…Another one.",
+            "choice_data_list": [
+                "Good evening. Are you stargazing?",
+                "Good evening. Are you stargazing?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes. I come up here with Ayabe sometimes."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yep.",
+            "choice_data_list": [
+                "The stars really are beautiful, huh.",
+                "The stars really are beautiful, huh."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You can see them so clearly tonight."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Time passes as we gaze up in silence at the starry sky.",
+            "choice_data_list": [
+                "Which star's your favorite, Ayabe?",
+                "Which star's your favorite, Suzuka?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…I'm sure you can figure that out from my name."
+        },
+        {
+            "name": "Monologue",
+            "text": "Vega. It's a beautiful star that shines very brightly.",
+            "choice_data_list": [
+                "Remind me… What kind of star is Vega again?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's a first-magnitude star in the Lyra constellation."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It forms the Summer Triangle with the stars Altair and Deneb.",
+            "choice_data_list": [
+                "What an amazing star!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…I guess so."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Isn't it also a famous part of the Tanabata festival, where it's known as Orihime?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's right.",
+            "choice_data_list": [
+                "And it's a romantic star, at that."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And you can't talk about Orihime without mentioning Hikoboshi."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You never know, Ayabe, maybe someday you'll meet someone who can be the Hikoboshi to your Orihime."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Or maybe you've already met them…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't know anyone like that."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "And I'm happy staying alone… forever and ever."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I've been fine on my own so far. I don't need anybody else."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But… ever since I arrived at the academy, everyone's been pestering me."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My favorite star? …I guess I'd go with Spica."
+        },
+        {
+            "name": "Monologue",
+            "text": "Spica—a wondrous star that shines with a brilliant blue hue.",
+            "choice_data_list": [
+                "Remind me… What kind of star is Spica again?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Umm, I think it's…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's a first-magnitude star in the Virgo constellation."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It forms the Spring Triangle with the stars Denebola and Arcturus.",
+            "choice_data_list": [
+                "What an amazing star!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That's right. I've always thought the names Spica and Suzuka were kind of similar, so…",
+            "choice_data_list": [
+                "<i>That's</i> why you like it?!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I was… half joking. I just feel a sort of affinity toward it."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Although, it's less the stars themselves… and more like I love admiring the scenery alone."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My hometown gets a lot of snowfall—an overwhelming amount, actually—and all the scenery gets tinged in white."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The snow flattens all the sounds of the town, and the only thing you can hear is your own heartbeat."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's like I'm alone in a silent, pure white world. That's the landscape you'd see if you looked into my heart."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But I haven't had as many opportunities to be alone since coming here."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I know how you feel… Everyone here is incredibly noisy."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I've always preferred to be alone, but everybody's… There are just so many people around me all the time."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ever since I arrived at the academy, everyone's been pestering me."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Opera O, Doto, Urara… Even Top Road and Curren."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "All of them… They're so bothersome."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't even need to ask whether she truly means all that."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't even need to ask whether she truly means all that."
+        },
+        {
+            "name": "Monologue",
+            "text": "In contrast to the coldness of her words, I sense a warmth in her voice, like something trickling out from deep within her heart."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It seems neither of us can afford to stay as we are, can we, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There's really an awful lot of busybodies at this academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "The stars shine brightly in the clear sky."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as constellations tie the stars together, so too are people connected by the bonds they forge with one another."
+        }
+    ]
+}

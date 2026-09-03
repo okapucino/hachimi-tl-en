@@ -1,0 +1,44 @@
+{
+    "title": "説明≠命令",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I tell Mihono Bourbon about our plans regarding training and promo concerts leading up to the Grand Concert.",
+            "color_text_info_list": [
+                "Mihono Bourbon"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Orders received.",
+            "choice_data_list": [
+                "I'm asking what you think, not ordering you.",
+                "I'm asking what you think, not ordering you."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…What I think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Light Hello described the Grand Concert as a stage for runners to convey their gratitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why, if Bourbon's going to perform, I want her to do it because she <i>wants</i> to, not because I \"order\" her to.",
+            "choice_data_list": [
+                "If you want, you can observe first before deciding."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "If there ever comes a day when she wants to perform of her own volition, then we'll talk about getting her up on stage."
+        }
+    ]
+}

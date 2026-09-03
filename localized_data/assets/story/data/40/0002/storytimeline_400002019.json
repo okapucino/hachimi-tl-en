@@ -1,0 +1,258 @@
+{
+    "title": "次のステップへ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With the Unity Cup's third preseason match behind us, not only has our teamwork improved, but each individual member's skills have also grown significantly."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, there is one major problem—the team as a whole has begun to lose its confidence."
+        },
+        {
+            "name": "Monologue",
+            "text": "And I think I know the reason why…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Time for your running drills. Get into starting positions within 30 seconds."
+        },
+        {
+            "name": "Team Zenith",
+            "text": "Yes, ma'am!"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "<i>Huff… Pant…</i>"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "The fundamentals are important for a reason. I want you all to be conscious of what you're trying to improve and train with intention."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Yes, ma'am!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "<i>Huff, puff… Wheeze…</i>"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "1,000 meters left! Your pace is slowing! Raise the cadence of your steps!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Your form's becoming sloppy! Straighten up from your core and go faster! Come on!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Ngh… Y-yes, ma'am!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ms. Kashimoto's training is so intense that there's barely any time for her team to breathe, much less engage in idle chitchat."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even so, Team Zenith is completing all their exercises with fervor."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! They're really giving it their all!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It's almost scary seeing how serious they are… Can we really beat them?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Team Zenith's training is terrifying in more ways than one, and the mere sight of them practicing has sent more than a few Umamusume into despair."
+        },
+        {
+            "name": "Monologue",
+            "text": "We haven't been slacking off either, though. After all the work we've done, I'm pretty sure we could hold our own against them.",
+            "choice_data_list": [
+                "(I need to rebuild the team's confidence before the big race!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "You wish for our teams to have a practice match?",
+            "choice_data_list": [
+                "I think it would be good training!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "If I recall, we've competed against you once already, albeit in an unofficial capacity."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "But I think this would be a good opportunity to see how far both teams have come. Very well, I accept."
+        },
+        {
+            "name": "Monologue",
+            "text": "We discuss a few more details and wrap things up, but just as Ms. Kashimoto makes to leave…"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Sorry, I couldn't help but overhear! It's been a while—haven't seen you since our unofficial match!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "You want to race against us again? Wasn't the last time enough of a lesson?"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "You're the ones who prioritized fun and freedom over actual improvement. Say what you want, but I bet your team's still slow as molasses."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Sorry, please just ignore her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Little Cocon's words are beyond acrid, but I can't really fault her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how brutal their training is under Ms. Kashimoto, it's only natural for her to feel resentful toward teams with looser schedules. Still…",
+            "choice_data_list": [
+                "Are you really happy being micromanaged?",
+                "Are you really happy being micromanaged?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Almost all the students are against Ms. Kashimoto's restrictive methods, so it strikes me as odd how willingly Team Zenith accepts them."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "I don't really care. As long as I can get faster, it doesn't matter if what I'm subjected to is fun or not."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Trainer Kashimoto can be harsh, but she gets the job done. I trust her methods."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Yeah, I agree!",
+            "choice_data_list": [
+                "(Is that right?)",
+                "(Is that right?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd already suspected it from observing their training, but it seems the members of Team Zenith really do all look up to Ms. Kashimoto."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "A p-p-practice match against Team Zenith?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But they completely steamrolled us the last time we raced them!",
+            "choice_data_list": [
+                "We're not the same as we were then."
+            ]
+        },
+        {
+            "name": "Team Members",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell them to have more confidence in themselves and that we'll definitely be able to hold our ground against Team Zenith this time."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn tootin'! You said it! We're more close-knit an' a better team than ever now!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nnngh! Very well! I know I have all of you to lean on, so I'll do my best too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, our days of training for the practice match begin!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Rice, your pace's droppin'! Pick it back up!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "278, 279, 280! Just a little bit more, Rice!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Um… Uh-oh, what number were we on again?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Uh… I don't remember!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Siiigh…</i> I'm terrified just thinking about the prospect of losing!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um… I actually feel really nervous too…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oho! That makes us two peas in a pod, Rice! How nice it is that we're both feeling the same way!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I have an idea. Why don't we cast some confidence-inducing spells on ourselves?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff… huff…</i> Wow! I ran a new personal best!",
+            "choice_data_list": [
+                "Looking good!",
+                "Looking good!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And, um… I wanted to say that training has been really fun recently."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Seeing everyone doing their best makes me want to work harder too!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The team's strength grows steadily as they all work together, lend each other support, and engage in the occasional friendly competition."
+        }
+    ]
+}

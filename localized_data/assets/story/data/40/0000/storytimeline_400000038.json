@@ -1,11 +1,14 @@
 {
-    "no_wrap": true,
+    "title": "お肌の調子が……",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> is at the sink, looking troubled…"
+            "name": "Monologue",
+            "text": "<chrname> looks troubled as she stares into the mirror."
         },
         {
-            "text": "Apparently, her skin is not in good shape…"
+            "name": "Monologue",
+            "text": "Her skin apparently isn't in good condition."
         }
     ]
 }

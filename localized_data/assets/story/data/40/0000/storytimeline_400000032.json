@@ -1,16 +1,18 @@
 {
-    "no_wrap": true,
+    "title": "記者の評価アップ",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "name": "Otonashi Etsuko",
-            "text": "The practice was very basic, but\nyou two are starting to be on the\nsame wavelength! However …"
+            "name": "Reporter Otonashi",
+            "text": "I must say, your training routine is fairly basic, but you seem to be working well as a team! However…"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "I don't believe a trainer who puts their Uma\nfirst would stop here. I'll be sure to check\nout your next training …!"
+            "name": "Reporter Otonashi",
+            "text": "Knowing how you care about your trainee above all else, I can't imagine this is all you have in store for her. I'll check back on your next session!"
         },
         {
-            "text": "… Got a decent rating there!"
+            "name": "Monologue",
+            "text": "I received a decent review!"
         }
     ]
 }

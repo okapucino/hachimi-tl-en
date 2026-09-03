@@ -1,0 +1,135 @@
+{
+    "title": "トレーナー並の知識",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during training…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I've noticed that your recent training sessions have centered on improving your trainee's breathing mid-race."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You've also taken to slope training, which builds stamina and emphasizes endurance over speed…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Are you perhaps planning on running a long-distance race?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Ahaha… You got me there. Nothing's been announced publicly yet, so could you keep that off the record?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Of course. I'm here to ask about your trainee's progress, nothing more."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Ah, Trainer <username>. It's nice to see you again."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that Otonashi is here to conduct interviews for her magazine, but I'm noticing something…",
+            "choice_data_list": [
+                "You sure know a lot about Umamusume."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Well, I <i>am</i> a reporter. It's my job to have a certain amount of background knowledge."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "The more knowledgeable I am on the subject matter, the better the articles I can write."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Miss Otonashi takes the subject of Umamusume more seriously than I thought."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Ah! I do apologize. I've only been talking about myself."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Seeing as we've got the chance, would you mind if I asked you about your trainee?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "What would you say is your next hurdle? It doesn't have to be anything big."
+        },
+        {
+            "name": "Monologue",
+            "text": "For all that she insists she's just a reporter, her expertise might come in handy.",
+            "choice_data_list": [
+                "We're trying to work on strength.",
+                "We're trying to work on speed."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Strength, you say?! That's… simply amazing!",
+            "choice_data_list": [
+                "Pardon?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Slope and weight training are both effective ways of building strength."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But the most important thing by far is diet! Strong and supple muscles are made in the kitchen!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So you must be hunting for the very best ingredients! I'm talking long-lived Okinawan pork, clifftop swallow's nests, and deep-sea fish from the ocean floor… Ah, such devotion!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(I think she might have gotten the wrong idea there, but her comments about diet are very useful.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Deep-sea fish might be a little out of my budget, but I later catch a white fish that's good for building muscle and serve it to <chrname>."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Speed, you say?! That's…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Simply amazing!",
+            "choice_data_list": [
+                "Pardon?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "If you're looking for speed, it's important to manage your body fat percentage and reduce your weight without losing muscle…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "However, that can be really tough, and some Umamusume even get sick from the stress."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "That's why you have to make an effort to prevent your trainee from getting stressed out!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So you must be sparing no expense! I'm talking renting out amusement parks, luxury cruises, and cross-continental overseas road trips… Ah, such devotion!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(I think she might have gotten the wrong idea there, but her comments about reducing body fat percentage are very useful.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Cruises and overseas travel might be a little out of my budget, but I make sure to give <chrname> a chance to relax as a reward for getting through our grueling training."
+        }
+    ]
+}

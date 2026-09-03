@@ -1,0 +1,482 @@
+{
+    "title": "チュートリアル",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hello. I'm currently giving a rundown of the Unity Cup to those who want to learn about it.",
+            "color_text_info_list": [
+                "Unity Cup"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Do you want to hear an explanation too, <username>?",
+            "choice_data_list": [
+                "Yes, please.",
+                "No, thank you."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What would you like me to explain?"
+        },
+        {
+            "name": "Monologue",
+            "text": "What should I ask about?",
+            "choice_data_list": [
+                "The Unity Cup in general",
+                "The Unity Cup races",
+                "Team members and Unity Training",
+                "Team stats",
+                "That's all, thank you."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Unity Cup is a team-based competition held by Tracen Academy that runs concurrently with the Twinkle Series!",
+            "color_text_info_list": [
+                "team-based"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Whereas the Twinkle Series tests individual performance, the Unity Cup puts emphasis on teamwork."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Unity Cup consists of a series of preseason rounds followed by the finals.",
+            "color_text_info_list": [
+                "preseason",
+                "finals"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The four rounds of preseason races are held to decide your team's ranking.",
+            "color_text_info_list": [
+                "team's ranking"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you'd like to learn more about Team Ranking, please ask me about team stats! ♪",
+            "color_text_info_list": [
+                "Team Ranking",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "There will be plenty of downtime between preseason matches, so use it to train up your team members!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "By the way, I recommend raising your team's strength through Unity Training!",
+            "color_text_info_list": [
+                "Unity Training"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you'd like to learn more about Unity Training, please ask me about team members and Unity Training! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Once the preseason's over, the finals will begin! This final round of races determines the victors of the Unity Cup!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Even if you don't do as well as you wanted in the preseason, if you win the finals, then you win the whole tournament!",
+            "color_text_info_list": [
+                "if you win the finals",
+                "you win the whole tournament"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Make sure not to lose hope and keep aiming for victory right until the very end!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's everything about the Unity Cup. Is there anything else you'd like to know about?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Unity Cup is held after the late June and late December turns end.",
+            "color_text_info_list": [
+                "★★★",
+                "Unity Cup"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Teams will compete in five categories—sprint, mile, medium, long, and dirt.",
+            "color_text_info_list": [
+                "five categories",
+                "sprint, mile, medium, long, and dirt"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You must enter at least one runner in each race, and up to three can be assigned to each category."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "At the beginning of each Unity Cup match, a team will be formed automatically from the members you have recruited."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But don't worry, you can edit your team manually, too! Feel free to arrange your racers as best you see fit!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Once you've finalized your team, you can select an opponent to face."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you defeat the opposing team, it will help your trainee grow stronger…",
+            "color_text_info_list": [
+                "defeat the opposing team",
+                "grow stronger"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And the higher your opponent's Team Ranking, the more growth you can expect.",
+            "color_text_info_list": [
+                "Team Ranking"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Defeating high-ranking opponents will also grant a larger increase to your own Team Ranking!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "However, your ranking won't go up if you lose, so aim for victory!",
+            "color_text_info_list": [
+                "your ranking won't go up if you lose",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You can use the pre-race predictions to help you decide who to take on."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Once you've chosen an opponent, it's time for the races. Whichever team places first in the majority of the five races is deemed the victor!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's not all! If you clear the following three conditions during the preseason, you'll be able to challenge an elite team!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "First, raise your team ranking to a certain level. Second, raise your team power to a certain level."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Third, have team members who have triggered an Extreme Spirit Burst.",
+            "color_text_info_list": [
+                "Extreme Spirit Burst."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You'll get a great reward if you beat this elite team… and something special might happen in the finals!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Strive for victory and create the best team out there!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Once the preseason is over, the finals await you!",
+            "color_text_info_list": [
+                "★★★",
+                "★★★",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The team that wins the finals is crowned the champion of the Unity Cup."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's everything about the Unity Cup races. Is there anything else you'd like to know about?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Umamusume in your team are, naturally, your team members.",
+            "color_text_info_list": [
+                "team members"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "At the moment, your team members consist only of your Trainee Umamusume, <chrname>, and the Umamusume featured in your Support Cards."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But fret not."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm certain that if you do well during the preseason, more Umamusume will hear about your team and want to join you!",
+            "color_text_info_list": [
+                "do well during the preseason",
+                "join you"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Umamusume who join your team will be able to participate in the Unity Cup races as well as training.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "There's one thing you need to keep in mind about Umamusume in your team who are not featured in Support Cards, though.",
+            "color_text_info_list": [
+                "not featured in Support Cards",
+                "Umamusume"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "They cannot trigger Friendship Training and won't have hint events.",
+            "color_text_info_list": [
+                "cannot trigger Friendship Training",
+                "won't have hint events"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Next, let me explain Unity Training.",
+            "color_text_info_list": [
+                "Unity Training"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you train in the same location as your team members, you can activate Unity Training, a form of training where members mutually support each other.",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Whether or not a team member will trigger Unity Training is randomly decided each time they are assigned to a training type."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "A special icon will appear when Unity Training is available, so keep your eyes peeled."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "During Unity Training, the attributes of the participating team members will increase.",
+            "color_text_info_list": [
+                "attributes of the participating team members will increase",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What's more, if you perform Unity Training with two or more team members at once, the effects of that training on your trainee will increase as well.",
+            "color_text_info_list": [
+                "two or more team members at once",
+                "effects of that training on your trainee will increase",
+                "★★★",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The more members in a Unity Training session, the more effective the training, so have fun training with your team!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, there's one more thing I should tell you about the frequency of Unity Training getting triggered."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The chances of it getting activated can be boosted by Hint Frequency and the number of members training."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Keep this in mind as you train your team!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Also, you have a chance of earning skill hints after each Unity Training session!",
+            "color_text_info_list": [
+                "chance of earning skill hints",
+                "each Unity Training session"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And if you perform Unity Training enough times, something special might happen."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "As team members perform Unity Training, their dedication to the team will grow, which can lead to a phenomenon known as a Spirit Burst!",
+            "color_text_info_list": [
+                "Spirit Burst"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Spirit Bursts help power up your team members and may also grant your trainee skill hints.",
+            "color_text_info_list": [
+                "power up your team members",
+                "grant your trainee skill hints",
+                "★★★",
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Try to trigger Spirit Bursts for as many members as you can to help your whole team grow stronger!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's not all!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Team members who have triggered a Spirit Burst can also trigger an Extreme Spirit Burst during Unity Training!",
+            "color_text_info_list": [
+                "Extreme Spirit Burst"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Extreme Spirit Bursts are easier to trigger if the team member in question participates in Friendship Training."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Training is guaranteed to succeed if an Extreme Spirit Burst occurs. That's the power of a team for you!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Triggering Extreme Spirit Burst can earn you special skill hints, so don't let the chance slip you by! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's everything about team members and Unity Training. Is there anything else you'd like to know about?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Sure. I'd be happy to explain Team Ranking, Team Power, and Team Titles.",
+            "color_text_info_list": [
+                "Team Ranking",
+                "Team Power",
+                "Team Titles"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You can check your team's stats from the screen where you select which activity to perform each turn."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Your Team Ranking represents the position of your team during the preseason."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You can increase your ranking by winning races in the Unity Cup. ♪",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The higher your Team Ranking, the more motivated your team will be, and the better they'll perform in the Unity Cup.",
+            "color_text_info_list": [
+                "higher your Team Ranking",
+                "more motivated",
+                "the better they'll perform in the Unity Cup"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Do your best to get it as high as possible!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Team Power, as its name suggests, is your team's overall power."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This will go up as you train your team members through Unity Training."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "When your team's attributes reach certain thresholds, it will also cause your training levels to increase, so focus on making your team ever stronger!",
+            "color_text_info_list": [
+                "your team's attributes reach certain thresholds",
+                "training levels to increase"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "As you increase your Team Power by building your team members' attributes, you'll earn upgrades to your clubroom when it reaches certain levels."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Clubroom upgrades make it easier to recruit talented members after each Unity Cup match."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Finally, there's your Team Title. This is a measure of your overall performance during the preseason, and is based on both your Team Ranking and Team Power."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The better the Team Title you earn, the better rewards you'll receive at the very end of your playthrough.",
+            "color_text_info_list": [
+                "Team Title",
+                "better rewards"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I hope you give your all during the Unity Cup and train to get the best title you can. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's everything about team stats. Is there anything else you'd like to know about?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Are you sure?",
+            "choice_data_list": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Very well! ♪ Just in case, I've prepared a summary of everything you'll need to know."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Simply tap the \"i\" button in the top left of the screen if you ever need a refresher.",
+            "color_text_info_list": [
+                "\"i\" button"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I wish you the best of luck. I'll be cheering you on!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Okay. I wish you the best of luck. I'll be cheering you on!"
+        }
+    ]
+}

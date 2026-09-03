@@ -1,0 +1,34 @@
+{
+    "title": "達成ッ！無敵の大躍進！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> has earned <achievement_name>."
+        },
+        {
+            "name": "Monologue",
+            "text": "<achievement_info>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm in my office one day when Director Akikawa pays me a visit."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Impressive!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "<chrname>'s magnificent performance has been the definition of <i>fierce!</i> And valiant!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well done indeed! Your incredible efforts are the pride of Tracen Academy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I receive plenty of direct and heartfelt praise! It sounds like we've achieved a fantastic result!"
+        }
+    ]
+}

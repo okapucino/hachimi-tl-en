@@ -1,0 +1,221 @@
+{
+    "title": "タマモのゲームセンター奮闘記",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Dis is a real pickle… What am I s'pposed to do now?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day while stopping by the arcade, I come across Tamamo Cross with an apparent conundrum on her hands.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh?! Oh, sorry, but I'm in some trouble here! Couldja help me out for a sec?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clink, jingle, clatter!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Status—immense gains. There is no indication that the release of medals will cease. Number of acquired medals is increasing substantially."
+        },
+        {
+            "name": "Monologue",
+            "text": "A phenomenal number of medals is overflowing from the medal game in front of Mihono Bourbon. They've spilled out onto the floor and the outflow shows no signs of stopping."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Not good at all, Bourbon! The machine's gotta be broken!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hello, Tamamo. Please allow me to refute your conjecture. Similar incidents have occurred previously."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I can confirm two preexisting instances of such an event, and thus conclude that this machine is operating as normal."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clink, jingle, clatter!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Status—immense gains. Rise in heart rate identified. Detecting signs of elation."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Argh! We gotta stop dis! Imma go call da staff! Stay here 'n keep an eye on her, Trainer!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Agh?!",
+            "choice_data_list": [
+                "What is it, Tamamo?!",
+                "What is it, Tamamo?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ohohoho! Beating a racing game is a simple matter for one fit to be a princess!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "You're amazing, Kawakami!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll leave the competition in a cloud of dust! Out of the way! TUUURRRN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Snap!</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh? The steering wheel came off…"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Kawakami! Ya can't go handlin' the wheel with that much force!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Look! There's a big red X flashing on my screen! It's so pretty!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That means yer goin' the wrong way, Urara!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "D-dis is real bad! I can't deal with all these problems at once!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Is there something wrong, Tamtam?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Creek? Great timin'! Trainer! Us three gotta curb this situation!",
+            "choice_data_list": [
+                "Okay, I'll deal with Bourbon!",
+                "Okay, I'll deal with Bourbon!",
+                "Okay, I'll deal with Kawakami and Urara!",
+                "Okay, I'll deal with Kawakami and Urara!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Creek? Great timin'! Trainer! Us three gotta curb this situation!",
+            "choice_data_list": [
+                "Okay, I'll deal with Bourbon!",
+                "Okay, I'll deal with Bourbon!",
+                "Okay, I'll deal with Kawakami and Urara!",
+                "Okay, I'll deal with Kawakami and Urara!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Roger! I'll come with! Creek, take on Kawakami 'n Urara!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okie-dokie. Good luck, you two!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross and I go and find a staff member, who then fixes the malfunctioning medal game."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much. I apologize for causing you inconvenience."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ey, don't worry about it. I'm just glad the machine's workin' okay now."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You have my gratitude. Recommencing Operation: Medal Game."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What?! Hey, wait!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…We end up having to call the staff over again."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tamtam, Trainer, that was great!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Got it! I'll come with ya! Creek, you handle Bourbon!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okie-dokie. Good luck, you two!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Tamamo! Trainer! I really owe you guys! Thanks to you two, I made it over the finish line!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I beat the game too! After I loosened up and released that tension, my cornering became truly elegant!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dat's real nice to hear. Just seein' your smiles is all the reward I need."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "One more time, Urara! Let's aim for some real speed!"
+        },
+        {
+            "name": "Kawakami & Urara",
+            "text": "Burn rubber!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And now they're forgettin' to accelerate?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tamtam, Trainer, that was great!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya really saved my hide back there, Creek. And Trainer, I'm sure glad you dropped by when ya did. I owe ya both big time."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, don't mention it! I was just on my way home after checking out the baby goods section. ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Baby goods?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "My family's home is actually a day care center, so I really like browsing through the baby section. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "They even had some clothes that would suit <i>you,</i> Tamtam. ♪ Oh, I know! Let's go back and take a look together!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Somebody HELP MEEEE!"
+        }
+    ]
+}

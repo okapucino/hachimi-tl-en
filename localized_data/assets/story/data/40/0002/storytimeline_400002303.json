@@ -1,0 +1,110 @@
+{
+    "title": "チームのハッピーエンド",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a break from team training, I spot Rice Shower looking a little upset.",
+            "choice_data_list": [
+                "Something the matter?",
+                "Something the matter?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, Trainer…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Everyone was talking about sad things, and listening to them made me sad too… <i>Sniff…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, the team was chatting during their break and ended up airing grievances about things that happened to them recently."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like the others had a lot of fun sharing their stories, but hearing about their misfortunes has really gotten Rice Shower down."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "One of them accidentally stepped in a ditch while taking a walk…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Someone else had a dream where they were being chased by a monster…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And another person accidentally used sugar instead of salt when they were cooking!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The more I listened to their stories, the sadder I got!",
+            "choice_data_list": [
+                "(From little things like that?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, I can't blame her. We all experience emotions differently, and Rice Shower is just more sensitive to these kinds of things."
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks genuinely upset, so I want to help cheer her up.",
+            "choice_data_list": [
+                "Why don't we think of what happened next in each situation?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What do you mean?",
+            "choice_data_list": [
+                "For example, after the person walked into a ditch…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yes?",
+            "choice_data_list": [
+                "She was able to find a missing item she'd lost in there!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe, I see… So we continue the stories, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The one who was being chased by the monster ended up befriending it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And the Umamusume who put sugar in her cooking realized it was tastier that way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I throw more ideas at her, Rice Shower starts to cheer up."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank goodness… I'm glad they all had happy endings."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower's mood improves, and she returns to training with a big smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her so happy seems to cheer up <chrname> too, and she looks more relaxed as well."
+        }
+    ]
+}

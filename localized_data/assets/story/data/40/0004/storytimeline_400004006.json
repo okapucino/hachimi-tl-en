@@ -1,0 +1,312 @@
+{
+    "title": "よくないウワサ？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I finish escorting <chrname> back to the dorms after training when all of a sudden…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Murmur… Murmur…</i>",
+            "choice_data_list": [
+                "(…Commotion by the academy gate?)"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Just a smidgeon of info will do! Please allow us to corroborate this story!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I-I'm very sorry, but no! You're inconveniencing our students, so I'd appreciate it if you would leave the area!",
+            "choice_data_list": [
+                "What's going on, Tazuna?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "T-Trainer?! Oh no, you mustn't make an appearance!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Hey, isn't that the trainer in question?"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Excuse me! Would you happen to be Trainer <username>?",
+            "choice_data_list": [
+                "That's right…"
+            ]
+        },
+        {
+            "name": "Reporter B",
+            "text": "Are the rumors true?! Are you forcing your trainee to undergo brutal training?!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Reporter B",
+            "text": "They say you make her run late into the night every day, or make her sit atop a stone for three days straight, or make her do laps while handstand walking.",
+            "choice_data_list": [
+                "None of that is true!"
+            ]
+        },
+        {
+            "name": "Reporter B",
+            "text": "But there's already been a news story published about it!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This whole time, I've been trying to tell you all that that article is nothing but libel!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "So you claim that it's all untrue? This matter concerns the very reputation of Tracen Academy itself!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Restraint! I call for restraint!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "First, allow me to reject those claims! Categorically! <i>Nobody</i> at this academy would ever subject our beloved students to such suffering!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Furthermore! The academy will make an official declaration regarding this matter in due course!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "All members of the media, I beseech you! Please be patient for the time being!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "…Very well. But next time you must grant us an interview."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thankfully, Director Akikawa's words manage to convince the openly discontent reporters to leave."
+        },
+        {
+            "name": "Monologue",
+            "text": "We later hold a meeting in the director's office regarding the issue. According to Reporter Otonashi…"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "…Essentially, our focus on gaining the cooperation of as many media outlets as possible caused our quality control to lag behind."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "And now, owing to that fabricated article making the rounds, Trainer <username>'s reputation has been cast into doubt."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'm terribly sorry!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Forgiveness! It is not your responsibility alone, Miss Otonashi!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's right. The real culprit is the individual who wrote that strange article in the first place!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! It won't be easy to rein matters in again, given how far the situation has escalated."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Once a misunderstanding gets out there, there's almost no way to quash it for good…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed. But from the academy's perspective, it's imperative that we ensure the safety of our students!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "With that in mind, it may be best to temporarily suspend the media's access to the academy."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Huh?! Please wait a moment!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "There are no excuses for this incident. <i>I</i> allowed things to get out of hand!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But we simply can't make the Twinkle Star Climax happen without your cooperation!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "We don't intend to cut ties with the event completely, of course! But we must scale down news coverage until public sentiment settles down."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Until things settle down? You mean when the event's been completely forgotten by everyone?!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Ngh!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Naturally, the reporter and media outlet responsible for that libelous article will no longer have any involvement with the races!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'm aware that this is a selfish request! But would you please allow news coverage to continue as normal?",
+            "choice_data_list": [
+                "Why are you so adamant about this?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I don't want this incident to be a damper on the hype surrounding the Twinkle Star Climax."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "This race is for <i>all</i> Umamusume who possess the skills worthy of being dubbed the \"greatest.\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "A chance for all those talented runners who, by some cruel twist of fate, let that highest honor slip by to claim what is rightfully theirs!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Their moment of victory deserves to be <i>glorious!</i> I want the atmosphere to be positively intoxicating!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'll take responsibility for this situation and do everything in my power to get it under control. So please!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Misgivings! How exactly do you intend to resolve the situation, Miss Otonashi?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Your passion is evident. However! As director of this academy, I am not in a position to make concessions on the grounds of passion alone!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "…Please allow me to conduct a report."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "A report? Hmm, perplexing… We're planning to limit all news coverage, and you're asking to write a report?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It will be called \"Up Close and Personal with Trainer <username>\"!",
+            "choice_data_list": [
+                "Up Close and Personal?!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes! By following you every day, I'll be able to show the world your amazing training methods."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "My report will prove that any claims of you conducting reckless training sessions are completely unfounded!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "And it could double as a publicity piece! You've really thought this through… I am all for it!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I suppose if it's her conducting the report, then it shouldn't place too much of a burden on you.",
+            "choice_data_list": [
+                "That's true… She is very knowledgeable, after all."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But aren't you awfully busy preparing for the event, Reporter Otonashi?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What happens if you need to pull out before your report's finished, and someone else has to replace you?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Don't worry, I'll be handling this entire report myself, no matter what. Even if I break every bone in my body and have to crawl on my stomach!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "This will be my way of taking responsibility!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I do hope you'll go to the hospital if that comes to pass… What do you think, Director?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Hmm… Naturally, as head of Tracen Academy, I will bear responsibility for the outcome…"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Query! I'd like to hear your opinion, Trainer <username>."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I am of the firm belief that the final decision should rest with you, <chrname>'s partner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm suddenly at a loss for words. A stable training environment or public support—which would be best for <chrname>'s development?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that Reporter Otonashi's knowledge will be a powerful asset. But can I really trust her?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Please… Allow me to chase my dream for a little while longer!",
+            "choice_data_list": [
+                "I…",
+                "I…"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Good morning! Today marks the beginning of my coverage on you. I appreciate your cooperation!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "To be honest, I'm actually a little surprised that you gave the okay.",
+            "choice_data_list": [
+                "I don't want to stand in the way of anyone's dream."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hm? Dream, you say?",
+            "choice_data_list": [
+                "It's nothing. Let's get started!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "R-right! I'll do my best not to get in your way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm still not sure what Reporter Otonashi's dream is, but if I were to deny her the opportunity to pursue it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I'd also be turning my back on the dream that <chrname> and I vowed to realize."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins Reporter Otonashi's \"up close and personal\" coverage!"
+        }
+    ]
+}

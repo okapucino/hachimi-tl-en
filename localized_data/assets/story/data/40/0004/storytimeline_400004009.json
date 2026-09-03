@@ -1,0 +1,221 @@
+{
+    "title": "三者三様、それぞれの",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After completing our daily training, <chrname> and I part ways and head home."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's Aoi Kiryuin, a fellow trainer here at Tracen Academy and an earnest woman.",
+            "color_text_info_list": [
+                "Aoi Kiryuin"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Great work out there. We've just finished up too.",
+            "choice_data_list": [
+                "We?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Another Tracen Academy trainer, the strict but accomplished Riko Kashimoto, approaches us looking a little exhausted.",
+            "color_text_info_list": [
+                "Riko Kashimoto"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "…Good evening."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ahh, Trainer Kashimoto! You should still be resting!",
+            "color_text_info_list": [
+                "Kashimoto"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "There's no need for concern. I'm really… <i>sigh…</i> not that tired…",
+            "choice_data_list": [
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Well…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hello, Trainer Kashimoto! Have you finished your training for the day?"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Oh, hello. Yes, I just thought I'd check the track one last time before tomorrow."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I was just thinking of doing the same! Um, if it's all right with you…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "…Shall we do it together?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "A-as long as it's okay with you!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I don't mind. We'll be able to conduct a basic check more efficiently by working together."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you! Then let's get started right away!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hm, the turf is a little rough here…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I'm sure the academy staff will tend to it tomorrow morning, but we should be careful if we decide to do an early session."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Definitely! Um, next up is… Over there!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "…!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "The dirt here is… <i>huff…</i> fine. There shouldn't be any issues… Phew…"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Are you all right, Trainer Kashimoto? A-are we going too fast?!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm sorry! We should have been taking it slow…"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "No… I'm fine."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "If anything, we could stand to go a bit faster. Let's hurry, Trainer Kiryuin.",
+            "color_text_info_list": [
+                "Kiryuin"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Really? Are you sure about this?!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "<i>Huff… puff…</i> The… the turf over here is still adequate!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer Kashimoto! Please don't push yourself so hard!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…",
+            "choice_data_list": [
+                "So you were running flat out."
+            ]
+        },
+        {
+            "name": "Both",
+            "text": "…Yes."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "How pathetic… I've brought shame upon myself."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "D-don't be silly! But… Um, uh… Trainer <username>!",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Your training regimen today was spectacular! And I'm not just talking about your lap times."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You and your partner were in perfect sync. I could really tell how much you trust each other."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I have to agree on that point. You can't pull off that kind of training without having strong faith in one another.",
+            "choice_data_list": [
+                "I'm honored to receive such praise!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "That said, I don't believe you have us beat on that front. I, too, have traveled this long journey alongside my partners."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "If we entered the same race, I wholeheartedly believe they would emerge victorious."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Me too! I did lavish praise on you just now, but I refuse to believe that my Meek would lose!",
+            "color_text_info_list": [
+                "Meek"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Meek is the one out there running—she's the one giving it her all. Once those starting gates open, all I can do is watch!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That's why I have more faith in her than I do anyone else.",
+            "choice_data_list": [
+                "Trainer Kiryuin…"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "What about you, Trainer <username>? Do you believe in your partner?",
+            "choice_data_list": [
+                "I do. And I have no intention of losing."
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "…I guess that was a pointless question."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Trainer Kiryuin, Trainer <username>, I wish you both the best of luck.",
+            "choice_data_list": [
+                "Right! The same to you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Tonight, as we wish each other luck, I renew my faith in <chrname> and resolve to do my best!"
+        }
+    ]
+}

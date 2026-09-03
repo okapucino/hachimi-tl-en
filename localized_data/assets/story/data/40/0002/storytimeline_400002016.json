@@ -1,0 +1,26 @@
+{
+    "title": "アオハル杯3戦目にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the third round of the Unity Cup preseason! Haru Urara is brimming with confidence in the waiting room."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, I know we're gonna win today!",
+            "choice_data_list": [
+                "You sound so sure.",
+                "You sound so sure."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That's because I am! We worked really hard, and we've all grown really close to each other!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I dunno why, but that makes me feel like we can win this!"
+        }
+    ]
+}
