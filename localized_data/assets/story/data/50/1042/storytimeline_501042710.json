@@ -1,0 +1,42 @@
+{
+    "title": "レース敗北",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seeking the Pearl",
+            "text": "I… I've lost… This can't be!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "How amazing!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The possibilities this world holds are far more abundant than my own!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, things are really starting to get interesting now. I can't wait to come up with new ways to seize victory from here on out!",
+            "choice_data_list": [
+                "I'm glad you're not feeling down.",
+                "Let's go over your race right away, then."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Thank you for your concern, but there's no need to fret!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'll never lose hope, no matter what! And I'll never, ever give up!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "All right, let's get started!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I promise that in my next race, I'll become the brightest pearl of all!"
+        }
+    ]
+}

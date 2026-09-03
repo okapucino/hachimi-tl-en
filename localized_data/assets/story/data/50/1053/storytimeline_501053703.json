@@ -1,0 +1,216 @@
+{
+    "title": "バンブーのジレンマ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and I are at a big park a ways from the academy."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Whoa! What an amazing flower bed! The people taking care of it must really care about their work!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm already getting super excited! Let's go look around, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I walk around the park with a very spirited Bamboo Memory."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, this looks like the obstacle course! And the area in the back is just for Umamusume!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "They've got a course where you jump from rope to rope till you reach the top of a hill, and another where you stand on a log and try to roll it around a pond! Sounds like fun!",
+            "choice_data_list": [
+                "(More like impossible!)"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, this really brings back memories. My dad used to bring me to places like this back in the day!"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "Look, Dad! I can jump all the way to that rope over there!"
+        },
+        {
+            "name": "Bamboo's Father",
+            "text": "Nice going! You're the king of the jungle! Now wait up, I'm on my way!"
+        },
+        {
+            "name": "Both",
+            "text": "Uaaaaah-uah-uaaahhh! ♪"
+        },
+        {
+            "name": "Bamboo's Father",
+            "text": "Hahaha! That was amazing, Bamboo! I'm so proud of you!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(…Dad said I was amazing!)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Um… hey, Trainer! I'm going to clear the whole obstacle course! Check me out!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeeeaaah! How do like me now?!",
+            "choice_data_list": [
+                "You're so athletic!",
+                "You're so athletic!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, really?! Now, watch me clear the next one in no time flat too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory clears one challenge after another like she was born to swing!"
+        },
+        {
+            "name": "Spectating Girl",
+            "text": "Wow! Awesome! Look over there! She's amazing!"
+        },
+        {
+            "name": "Spectating Boy",
+            "text": "Holy cow! How does she move like that?! It's like she grew up swinging through the trees!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…! Hehehe!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "They haven't seen anything yet! Wait till you see me swing to the finish with just one hand!"
+        },
+        {
+            "name": "Spectating Girl",
+            "text": "Hey! What are you gonna do next?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Good question! Next… I think I'll try getting that log around the pond!",
+            "choice_data_list": [
+                "H-hold on a second!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh! What's up, Trainer? You think I should try something more difficult?",
+            "choice_data_list": [
+                "If those kids try to imitate you, it could be dangerous!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Huh?!"
+        },
+        {
+            "name": "???",
+            "text": "Hey! That's not safe!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Um, excuse me, everyone! I'm sorry, but that's all for today!"
+        },
+        {
+            "name": "Spectating Girl",
+            "text": "Aw, really? …Well, thank you! It was really fun watching you!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Sigh…</i> I'm sorry. I got carried away again, huh?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "When you stopped me, it reminded me of something. My dad always gave me so much praise whenever I got excited, so I would always get so carried away, until…"
+        },
+        {
+            "name": "Bamboo's Mother",
+            "text": "Hey! What are you two doing?! That's dangerous!"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "Agh! Mom?!"
+        },
+        {
+            "name": "Bamboo's Father",
+            "text": "S-sorry about that…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Then, we would always talk about what happened later as a family."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "When I think about it now, I really haven't changed at all… Ugh, I'm so immature!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I really need to take this more seriously and get myself under control!",
+            "choice_data_list": [
+                "You should put that enthusiasm to good use.",
+                "You should put that enthusiasm to good use.",
+                "You just need to figure out the right moment to let loose."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I really need to take this more seriously and get myself under control!",
+            "choice_data_list": [
+                "You should put that enthusiasm to good use.",
+                "You should put that enthusiasm to good use.",
+                "You just need to figure out the right moment to let loose."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It goes without saying that it's not good to be reckless, but passion is the energy that fuels Bamboo Memory. There's no reason to let it go to waste."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…! You're right! Being passionate is who I am!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm gonna keep on burning brightly without sweating the details!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Okay, let's head back so I can finish off the rest of the obstacle c—",
+            "choice_data_list": [
+                "Didn't we just agree that's too dangerous?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory is having a hard time finding the right balance between passion and recklessness… It seems she still has some growing to do."
+        },
+        {
+            "name": "Monologue",
+            "text": "Whether it's in racing, training, or working as part of the disciplinary committee, her passion will produce incredible results when the time is right."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ohhh! That makes it sound like I have to master my power!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It's just like the training arc in a manga! I'm getting kinda fired up now!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer—no, Master! I'm going to work hard on mental discipline too, and I'll need your help!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory is bursting with enthusiasm. It looks like I'll need to keep an eye on her to make sure things don't get out of hand."
+        }
+    ]
+}

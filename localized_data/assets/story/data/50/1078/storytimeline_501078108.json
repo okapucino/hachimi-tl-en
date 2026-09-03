@@ -1,0 +1,181 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Fan Fest is bustling with visitors. While wandering around campus, casually checking out the different booths…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Yamanin Zephyr in a somewhat empty area with a troubled expression on her face."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Another whirlwind… This time, it's coming from over there…",
+            "choice_data_list": [
+                "What are you doing over here?",
+                "What are you doing over here?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh, Trainer. I was so distracted by the spring gales that I didn't see you there."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The air is filled with many winds today—the valley breeze, the westerly wind of early spring, a cherry-blossom-scented breeze…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So many whispers fill the air, I don't know which to lend my ears to…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There really are a lot of sounds around. Knowing how sensitive Yamanin Zephyr is, I'm not surprised she finds this bewildering.",
+            "choice_data_list": [
+                "(It's a real shame she can't enjoy herself…)"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That's quite a serious expression. Do you sense a Foehn wind blowing down from somewhere?",
+            "choice_data_list": [
+                "Have any of the attractions here caught your eye?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh… You're concerned about <i>me?</i> You really are a considerate breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But no, I'm not especially at ease strolling through sandstorms."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I've been sheltering here from the frosty gales for some time… The circling Cooey-Coos are watching over me too.",
+            "choice_data_list": [
+                "Cooey-Coos?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I look up to see several pigeons. Unlike everyone down here on the ground, they're free to fly around. As I watch them circling, a thought occurs to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "You should be able to free yourself from the noise if you get some distance from it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh? It's almost as if a radiant breeze is blowing off of you.",
+            "choice_data_list": [
+                "Could you join me for a moment?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I don't see why not…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The voices, the singing, the air currents overhead… They're overlapping, resonating like a symphony orchestra."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The Chubby Cheeks and Cooey-Coos are frolicking so happily…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Laa, faa-la la, la la. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr's little song carries on the breeze, echoing gently with a playful tone."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Phew. I've had such a relaxing time I can barely remember all that earthen rumbling from before."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It looks like the Chubby Cheeks were enjoying the melody too… Oh?"
+        },
+        {
+            "name": "Sparrow",
+            "text": "<i>Tweet, tweet… Tweet…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… It sounds like they're ready for their afternoon meal.",
+            "choice_data_list": [
+                "We should probably get something to eat, too.",
+                "We should probably get something to eat, too."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Right. We should be able to find somewhere to enjoy a peaceful meal around here."
+        },
+        {
+            "name": "Monologue",
+            "text": "We have a relaxing time at the Fan Fest while listening to a melody of all manner of sounds."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Phew. I've had such a relaxing time I can barely remember all that earthen rumbling from before."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Patter, patter, patter…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh? This sound… Could a refreshing breeze be on its way?"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Ah, I thought it was you, Zephyr."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Hello to you, too, Trainer.",
+            "choice_data_list": [
+                "Hi."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, Miracle. Were you guided here by the birds chirping as well?"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Yeah… That, and I heard some beautiful singing."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "It feels good to stand under this sky—so good I almost want to start singing myself."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… You're as refreshing as the rustling breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Would you care to join us? Let the wind be your guide, and listen to your heart."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "…Yeah. I think if I were singing with you, I'd really enjoy it."
+        },
+        {
+            "name": "Miracle & Zephyr",
+            "text": "Laa, laaa! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their melodic voices float on the breeze amid the buzz of the festival. I take a moment to enjoy the soft sound of their harmony."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "五目の輝きをつかめ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We have a little bit of time before training starts, so Seeking the Pearl and I watch a TV special on train station bento boxes together in the meantime."
+        },
+        {
+            "name": "TV Reporter",
+            "text": "Well, we certainly feasted our eyes upon a number of delicious-looking bentos today! Until next week!",
+            "choice_data_list": [
+                "All right, guess it's about time we get started on training.",
+                "All right, guess it's about time we get started on training."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…Wait, Trainer! Before that, I want to ask you about making some changes to my routine!",
+            "choice_data_list": [
+                "Wh-what for?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "We need to put the spotlight on one thing and one thing only!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Think back on all of those bento boxes we just saw and how brightly they shone… They were all unified by one main dish!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Yes! Just like a charismatic person who excites the crowd and creates waves…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The possibilities are endless when you hone one thing to perfection!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Grilled malted pork, whole grilled seafood… Each bento had different local specialities that accented the meal."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "One day, those side dishes will evolve from mere accents to main attractions! And my body is no different—what an exciting thought!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If I understand her correctly, she must want to focus on one type of training until it's perfectly honed before moving on to the next.",
+            "choice_data_list": [
+                "I see… That might work…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. Let's get started, then! My possibilities may be infinite, but time certainly is not!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her bento box analogy is a bit hard to follow, but she has a point. I decide to take her motivation into account and make a new training routine for her."
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "title": "剣の道と脚の道",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and I head into town to watch a kendo tournament."
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory uses her kendo experience to provide passionate commentary, all the way up to the finals."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Man, that nukidou! Such a perfect body strike! The final match definitely lived up to the hype! Well then, wanna get go—"
+        },
+        {
+            "name": "???",
+            "text": "W-wait! You there!"
+        },
+        {
+            "name": "???",
+            "text": "<i>Pant, pant…</i> You're Bamboo, right?! Do you remember me?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh my gosh! Didn't you just win the tournament?! Do we know each other?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Ah! Don't tell me! Did we used to train at the same dojo?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Wow, what a surprise! I didn't expect to run into you here!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You moved away really suddenly, right? I was so shocked because you left without saying anything!"
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "Yeah, sorry about that. You had just started racing and you seemed so busy. But also… I couldn't bring myself to face you."
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "…Back then, I wasn't able to be the person that you wanted me to be."
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "…And then after that, my dad swore to meet him again in next year's finals!"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "Isn't that so cool?! I want a rival like that too!"
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "But you were so strong. You progressed so quickly that nobody else could compete! Including me."
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "I couldn't tell you back then, but I can now. Back when you started racing… I thought it was because all of us at the dojo were too weak for you."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "N-no way! That's not true!"
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "…I was so determined to get stronger! Strong enough to beat you! So… what do you say? Are you willing to spar with me?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course! I'd be happy to!"
+        },
+        {
+            "name": "Both",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They stop short of hitting each other because they aren't wearing any guards, but their match is so intense I hardly notice!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Pant, pant…</i> Holy cow! You've sure gotten strong!"
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "Thanks! Hehe. I guess we've both grown a lot since back then."
+        },
+        {
+            "name": "Bamboo's Childhood Friend",
+            "text": "I watch all your races, so I've seen you getting better as well. We might be on different paths now, but let's both keep pushing ourselves!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah! Two rivals, fiercely competing as we push forward on our separate paths!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and her childhood friend exchange a firm handshake before parting ways."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That was sooo intense! A reunion! A rematch! A rekindled friendship! And to top it off, a vow of rivalry! Talk about red-hot! I'M BURNING UP!",
+            "choice_data_list": [
+                "Are you all right?!",
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Raaaaah! I gotta pack all this passion into my legs and blast it all out in a run!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Huff! Huff!</i> Faster! Keep… moving… forward!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(I know this feeling—this irresistible feeling boiling up inside me… I've felt it before, a long time ago…)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(That's it. No matter how much I trained, I could never get rid of it… My heart burned so hot, I was running before I even realized it!)"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "…Ngh. Further! I gotta go further! Raaaaah!"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "<i>Huff, huff, huff!</i> Ahhh! This feels incredible!"
+        },
+        {
+            "name": "Young Bamboo",
+            "text": "(Running feels great… That's it… Racing! I bet that's where I can find a rival…)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(And I really did! I found the best rivals I could ask for! And above all…)",
+            "choice_data_list": [
+                "I finally found you…"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, Trainer! Listen to this! I remembered something amazing when I was running!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I left kendo for racing so I could find the best rivals ever! And now I feel like that dream is becoming reality!",
+            "choice_data_list": [
+                "Then I bet beating them would <i>really</i> make your dream come true!",
+                "Let's stay on track and keep pressing forward."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yes! Let's get my old friend—no! Let's get <i>everyone in the whole world</i> on board with my dream!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's make it happen together, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory speaks with red-hot passion… Yet again, my desire to support her on her racing journey has been renewed."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course! If I hadn't entered the world of racing, I wouldn't have met Oguri and all of my other rivals. Not only that…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I wouldn't have met you! You can look forward to a whole lot of red-hot running!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory speaks with red-hot passion… Yet again, my desire to support her on her racing journey has been renewed."
+        }
+    ]
+}

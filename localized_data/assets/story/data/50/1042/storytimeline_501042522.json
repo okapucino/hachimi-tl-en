@@ -1,0 +1,29 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seeking the Pearl",
+            "text": "Trainer, let's go strawberry picking!",
+            "choice_data_list": [
+                "Right now?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My skin's been feeling rough lately, and I think it must be because of all the tea I've been drinking. I've probably had too much caffeine!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But that's why I want to go strawberry picking! Let's go and replenish my vitamins!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "If my skin continues to get worse… Nooo, I don't want to think about it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl seems to be worried about the condition of her skin, so I get started on looking up some good places to go strawberry picking with her."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Mm… <i>Yaaawn…</i>",
+            "choice_data_list": [
+                "I'm guessing you didn't get enough sleep?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Unfortunately not… Since I was off, I set out to enjoy the wind to the fullest, only to be greeted by so still a day."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I waited and waited for the wind to blow, but before I knew it, night had fallen."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Yamanin Zephyr is sleep-deprived after struggling to make the most of her day off."
+        }
+    ]
+}

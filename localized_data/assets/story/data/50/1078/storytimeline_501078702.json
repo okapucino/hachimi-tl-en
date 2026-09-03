@@ -1,0 +1,217 @@
+{
+    "title": "やさしい俄風",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from an excursion together, Yamanin Zephyr asks if we can stop by an organic shop on the way home."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Zephyr! What a coincidence! Here to do some shopping?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. I need some new face wash."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wait a sec, Bree-Z, is <i>face wash</i> the secret to your baby-soft skin?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Bree-Z! Pretty plea-Z! Spill the tea on your skincare routine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, Mejiro Palmer and Daitaku Helios have been having skin trouble as a result of staying up late…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Your skin's <i>sooo</i> pretty, Zephyr! It's, like, unrealistically smooth and glowing! I've actually been wondering what products you use!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I always use this particular face wash. It's an organic product made by the company my mom works for."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Oooh! Organic! That's low-key so in right now! ☆"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm no weather vane as far as trends go, though… I was simply raised alongside nature."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "My body was very frail when I was little, so I spent my days outside in the fresh air, surrounded by lush greenery."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I've enjoyed the blessings of nature throughout much of my life—I've eaten foods nurtured by bountiful winds, and frolicked among plants and animals."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, I get it! So it's your lifelong organic diet that's made you so healthy!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Organic stuff sounds god-tier! I feel like I have no choice but to pay my respects! By giving my skin a total glow-up!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "You're interested in trying some organic foods? Well, in that case…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr leads us all to the academy garden."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The vegetables here are grown without any chemicals, and every last one has been nurtured by a pleasant breeze."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "No cap?! I can't believe the answer to our skin issues was right under our noses the whole time!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The vegetables in that pile are too damaged to go to the cafeteria, but the school is happy to give them away to anyone who wants them."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yay! I'd totally love some! ♪"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Okay, then… I'm going to go see how the dirt's doing for a little while."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Something tells me that's another beauty hack! Can we join you?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Don't leave me out! I wanna see how you interact with nature. ♪",
+            "choice_data_list": [
+                "I guess I'll come too!",
+                "I guess I'll come too!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well… this is quite the atypical current. But you're welcome to come along."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Get outta here, weeds! …But whoa! Hahaha! ☆ Check out all these worms!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, hello, little Wiggler. You've grown so big. That just goes to show how good this soil is."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wowww. For real?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. Try sticking your hand into the soil. It's soft and warm. Those are the signs of good soil."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Okay, lemme try… <i>Oooh!</i> It's nice and toasty in there! ♪"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Grow big and strong, everyone! I've got high hopes for you guys!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, your voice resonates like a comforting breeze… I see you already knew the trick to raising delicious vegetables, Palmer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hmm. Yeah, the words just kinda came to me. It's like I can tell how eager to grow these little veggies are."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Indeed. Go ahead and talk to them as much as you like. The more enveloping the radiant breeze, the more healthily they'll grow.",
+            "choice_data_list": [
+                "Gotcha… Grow biiig and strong, you guys! And reeeal delicious!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, the sun's gone down. It seems we all thoroughly enjoyed our time in the garden."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It looks as if the evening breeze will grow still soon. Let's start making our way back."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "No… I was just wondering whether you had an interest in gardening perhaps. What made you decide to come along today?",
+            "choice_data_list": [
+                "It sounded like fun!",
+                "I wanted to learn more about you.",
+                "I wanted to learn more about you."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "No… I was just wondering whether you had an interest in gardening perhaps. What made you decide to come along today?",
+            "choice_data_list": [
+                "It sounded like fun!",
+                "I wanted to learn more about you.",
+                "I wanted to learn more about you."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I see… So you found yourself becoming an affable flurry. Did you have fun?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wait a sec, I can't get this dirt outta my nails! It's like I got a mudicure! This is low-key hilarious. ☆"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Whoa! Another worm?! …Y'know, they're actually starting to look cute?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I see that everyone's feeling their own pleasant breeze. Hehe…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…So you wanted to find a new wind by interacting with nature.",
+            "choice_data_list": [
+                "Um, possibly?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ahaha! How do these two ever get their point across?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You got a tough journey ahead of you, Trainer, but I'm rooting for ya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure whether Yamanin Zephyr and I are on exactly the same page, but I really do want to learn more about her."
+        }
+    ]
+}

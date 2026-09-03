@@ -1,0 +1,356 @@
+{
+    "title": "目標達成の後に・儚くも強く輝く夢！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day near the end of Bamboo Memory's junior year…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Huff, huff, huff!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "How was that, Trainer? Was I awesome?",
+            "choice_data_list": [
+                "You timed your acceleration perfectly!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yesss! Thank you! I had a feeling I was getting better!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell how much Bamboo Memory has improved this past year, and I'm so glad to know she can feel that change too."
+        },
+        {
+            "name": "Monologue",
+            "text": "And as her skills have improved, we've gotten a better idea of what kind of races she's best suited for.",
+            "choice_data_list": [
+                "(Sprints and miles, huh?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking back at the data and her results up until now, I'm quite sure those are the races where Bamboo Memory can shine the brightest."
+        },
+        {
+            "name": "Monologue",
+            "text": "But as her trainer, I have to keep an open mind. I can't go closing any doors on her. I have to let her explore as many routes as possible.",
+            "choice_data_list": [
+                "Ready to discuss our plans for your classic year?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "For sure! Great timing too, since junior year's just about over.",
+            "choice_data_list": [
+                "We should keep up your training arc through spring of next year."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If we wait till just before the start of the classic G1s, that will give me as much time as possible to ascertain her skills!",
+            "color_text_info_list": [
+                "classic",
+                "G1"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Got it! It's just like a race—you've got to save up your energy until just the right moment, then… boom!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That way, when I come face-to-face with my fearsome rivals, I'll be ready for our passionate race of red-hot destiny!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yahoo! I'm so ready to go, I could burst! Let's pick up the tempo, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide to extend Bamboo Memory's training arc into next year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, while Bamboo Memory is practicing by herself…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Phew! That's the final set!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Hm?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(My nails feel kinda weird… I should take a look at them…)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Hm. They don't look broken, but they do look kind of… wonky.)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hmmm…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Looks like my nail care routine hasn't been cutting it with how much work Trainer has been heaping on…)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I should probably tell Trainer about this later. For now, I need to call it a day and take care of my nails."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Excuse me…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ardan? What are you doing here?",
+            "color_text_info_list": [
+                "Ardan"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Mejiro Ardan might have a weak constitution, but she doesn't let that stop her! She's a racer from the Mejiro family who works just as hard as anyone else!)",
+            "color_text_info_list": [
+                "Mejiro Ardan"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(She might have entered the academy before us, but she'll be running the same races as Yaeno, Chiyono O, and me!)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's nice to see you, Bamboo… Are you feeling unwell?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh no, I just came here to deal with my nails. They're kinda brittle, so I have to take care of them every once in a while."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I see. Taking good care of your body is very important. Your diligence in that regard is very admirable."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Aw, no! It's not that big a deal! My trainer's the one who told me I have to take care of them, so I can't take any credit!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Anyway, what about you? Are you okay?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "When I was training earlier, I began to feel somewhat ill. I'm just here to rest a while."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My heart rate and breathing have returned to normal, so I'll be heading out again soon."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Are you sure? I don't think you should push yourself if you're not feeling great."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. I appreciate your concern, but you don't have to worry."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I know my body better than anyone else. I certainly won't force myself past my limits. Besides…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I can't afford to squander even a single second."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My body is so frail, I never know when it might give up on me. And there is a limit to how much I can train."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That's why I must take full advantage of these precious times when I <i>can</i> train. It is only by seizing every moment that I can grant my heart's dearest wish."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Her every word feels so… heavy. Maybe I'm finally seeing just how determined she is.)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Not to be nosy, but can I ask what it is you're working so hard toward?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Of course."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My older sister, Mejiro Ramonu, is the crown jewel of the Mejiro family. She is also the first to ever hold the Triple Tiara."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Due to the sheer magnitude of her accolades, my identity has been characterized only by my relationship to her—casting my very name into the shadows."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But I wish to escape into the light."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Through my races, I will burn my name into the hearts of the people and leave behind undeniable proof that I, too, existed."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I want to leave my mark on the world as myself, Mejiro Ardan, and not merely as Mejiro Ramonu's little sister."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That is what I strive toward."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That is my dream."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I can feel it…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Your dream, your determination to make it come true… I can feel the inferno that is your passion!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Bamboo…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Your older sister is both the obstacle you want to overcome and also your rival, right?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…You're correct. One day, I will have to face her."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's incredible! I think that's a super admirable dream!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I wanna be just like you and give it my all to every second of every single day!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Thank you for telling me about your dream!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh no, it's nothing… I'm the one who should be thanking you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The way you apply yourself and work as hard as you can every single day… It gives me courage as well."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Really?! I-I had no idea I had that kind of impact on you! I'm always so focused on myself…"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe… That's what makes you, you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "…As we continue down our respective paths, let us take extra caution to never neglect our health."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sounds like a plan!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh man, the sun's starting to set."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But I've gotta keep at it!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Through my races, I will burn my name into the hearts of the people and leave behind undeniable proof that I, too, existed."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I want to leave my mark on the world as myself, Mejiro Ardan, and not merely as Mejiro Ramonu's little sister."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That is what I strive toward."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That is my dream."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I want to catch up to her one day… and race against her!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's my dream!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Only by honing both my mind and body through fighting such formidable foes will I be able to repay the kindness my grandparents showed me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That is what awaits me at the end of my battles. Or, to borrow your own words…"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That is my dream."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Everyone has such powerful dreams! And they're pouring their blood, sweat, and tears into fulfilling them!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I've gotta light my soul on fire until I blaze just as brightly as they do! Only then can I stand alongside as them as their rival!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "BURN BRIGHT, BAMBOO MEMORYYY!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No slacking off for me! I'm gonna keep this training arc going into my classic year and give it 110 percent!"
+        }
+    ]
+}

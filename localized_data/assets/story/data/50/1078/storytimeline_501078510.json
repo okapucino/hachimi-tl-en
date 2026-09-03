@@ -1,0 +1,175 @@
+{
+    "title": "純情清風注意報",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Umamusume A",
+            "text": "Eep! I give in! I'm way too ticklish for this!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Nnngh! Yeah, this is too much for me to handle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, after classes are finished, I see a group of students intertwining their tails."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It seems the breath of revelry has been blowing through the entire academy since this morning.",
+            "choice_data_list": [
+                "Let's ask someone what's going on."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature and Ikuno Dictus happen to walk by at that very moment, so we decide to ask them."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, last night was the final episode of <i>Friendly Love,</i> so people can't stop talking about it today.",
+            "choice_data_list": [
+                "Oh, that TV show?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Friendly Love</i> is a teen drama about Umamusume attending a fictional high school. I often hear students having excited discussions about it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah. I mean, I'm not even a superfan like everyone else is, but that finale had my heart skipping beats."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I never expected them to take their tails and—no, I can't even say it. My chest tightens at the mere memory of it…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Have the dark winds taken hold of you, Ikuno? I hope you feel better soon."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Oh… Don't worry. There's nothing wrong with me. It's just…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It was just kinda shocking is all! Buuut also kinda heartwarming too?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Like taking a deep breath in the woods, letting the verdant breeze fill your lungs?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um… Well, I guess you could describe it… something like that?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I must admit, I'm suddenly quite curious about this tail-related act. Will you teach me how to do it?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? Uhh… Ikuno! Why don't you explain it? I'm feeling way too bashful here!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "You want <i>me</i> to do it?! …Ahem. A-all right."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "The act involves touching your tails together and then wrapping them around each other twice… Th-that's it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Fascinating… So like this?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "W-wait a second, Zephyr! Are you attempting to try it with me?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Is there something wrong with that?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Th-there's nothing <i>wrong</i> with it, but… uhh, you can't just up and do it with someone! Not out of the blue!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "In the show, the characters only did tail hugs with a special someone. You know, like a… partner? A special partner!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A special partner…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh. Well, in that case…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Fwoosh! Fwoosh!</i>",
+            "choice_data_list": [
+                "…?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like something soft is caressing my back!"
+        },
+        {
+            "name": "Nature & Ikuno",
+            "text": "…!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hm… That felt something like… a mellow breeze… or still serenity, perhaps?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I suppose two tails are necessary to experience the verdant breeze at its most invigorating."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr seems to have misunderstood what hugging tails is actually about."
+        },
+        {
+            "name": "Monologue",
+            "text": "The faces of everyone watching turn bright red after witnessing her bold gesture."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Although… Hehe. By no means did that feel unpleasant. Would you mind trying it with me one more—",
+            "choice_data_list": [
+                "Sooo! Ready to start training?",
+                "(Patiently explain it to her.)"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, that's right! Yes, let's go."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "How tactful. It certainly helps to have an adult around!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After training vigorously, Yamanin Zephyr makes noticeable progress!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I carefully explain to Yamanin Zephyr what a tail hug really means."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I was sure that, um… Oh…"
+        }
+    ]
+}

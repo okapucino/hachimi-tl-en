@@ -1,0 +1,89 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr got injured while training, so I've escorted her to the infirmary."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm very sorry for the trouble. I was careless."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That said, this injury is akin to a minor stumble in the face of an adverse wind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, let's resume training immediately.",
+            "choice_data_list": [
+                "We'd better take it easy for the time being.",
+                "Okay, but don't overdo it."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But an injury of this nature is really nothing that warrants concern…",
+            "choice_data_list": [
+                "It's always better to be safe than sorry."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…A good point well made. It is true that bursters blow very abruptly."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Injuries are no less deserving of caution than the forces of nature. I'll take proper care of myself and recover."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr reluctantly agrees to rest and recuperate."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, of course."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's head back to the track. We can train at the level of a gentle breeze and—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Ouch…",
+            "choice_data_list": [
+                "I think even light training might be risky.",
+                "I think even light training might be risky."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…It does seem that way. If I push myself too hard here, I'll end up struggling to manage even a gentle breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Although I'd rather not, I'll spend the remainder of the day at rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr reluctantly decides not to train today."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Now then, let's get back to training."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "<i>Huff… Huff…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It may only be a gentle breeze, but the wind really is wonderful."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking care not to push herself too hard, Yamanin Zephyr continues her training session."
+        }
+    ]
+}

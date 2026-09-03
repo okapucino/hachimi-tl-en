@@ -1,0 +1,58 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out with Bamboo Memory…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh! Look, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory points toward a claw machine filled with Umamusume plushies called cuties."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Just looking at all of my rivals lined up like this is pretty exciting!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If I had some of these in my room, I could get fired up anytime! Let's give it a shot!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ugh, the arm won't drop where I'm aiming it… This is harder than I thought…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Aaagggh! Why did it fall?! I had it!"
+        },
+        {
+            "name": "Shop Assistant",
+            "text": "Excuse me! Please don't shake the claw machine!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Urk… I got a little too excited there. I shouldn't cause any more trouble…",
+            "choice_data_list": [
+                "Let me give it a try.",
+                "Let me give it a try."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sure thing! You got this, Trainer! I'm cheering for you!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Go, go, Trainer! Go, Trainer, go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

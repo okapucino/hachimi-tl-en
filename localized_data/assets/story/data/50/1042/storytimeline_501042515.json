@@ -1,0 +1,199 @@
+{
+    "title": "ファンタスティックなお茶会",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hi, Trainer! I received a lovely invitation to a special event today, and you're coming with me!",
+            "choice_data_list": [
+                "H-huh?! What's going on?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "No time for questions! Let's go!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Welcome, and thank you both for coming. It's a pleasure to have you here."
+        },
+        {
+            "name": "Monologue",
+            "text": "I find myself at one of the prestigious Mejiro family's tea parties. Being suddenly dragged into such an exquisite atmosphere is enough to make anyone nervous…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hi there, Dober! Thanks for inviting us today!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, not at all! Please enjoy yourselves!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hehe, I never would've thought you'd invite Pearl, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, she joined me for some partner running the other day, so this is my way of saying thanks."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I heard from Dober that you often hold tea parties like this, so I asked her if I could attend one!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ahaha, I see! Well, the tea that Dober brews tastes great, so you're in for a treat! Go ahead and enjoy a cup!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohhh, this is just heavenly! What a fantastic cup of tea! And such rich flavor… Is this Assam?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm glad it suits your palate. And you're correct. Today's blend is an Assam milk tea."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In truth, Dober selected all the tea blends and accompanying desserts for today's gathering."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Might I suggest you give the chocolate truffles a try? They're delightfully rich and milky."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohhh! They really are excellent! And this buttery financier goes so well with the rich Assam tea!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So what were you up to last weekend, Palmer?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, I hit up a driving range. I was hoping to increase my distance, but things didn't really pan out…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I bet you'd have better luck if you really put some oomph behind your swing and gave the ball a good whack!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wait, you know how to golf, Pearl?! I want to increase my driving distance, so do you think you could give me some pointers?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them step outside into the garden to practice golf swings. I'm a little puzzled, though, since I don't recall Seeking the Pearl ever mentioning being into golf…"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I've got my club face positioning down, but I just can't seem to increase the club head speed…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "If you want to increase the speed, you just need to swing with all your might!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Strike it boldly with explosive strength, and ka-ching! You've hit a home run!",
+            "choice_data_list": [
+                "(A home run in golf?!)"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I see. So the explosiveness of my downswing is the key, huh? And I'll need to build up my arm muscles to increase my swing strength!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "If you want to beef up and increase your explosive power, I recommend you do some antagonistic training!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Take your arms, for example. You need to strengthen both your biceps and their antagonistic pair, your triceps, to get the most from your training!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "In other words, it's more beneficial to train them as a set, like how ordering a combo meal is more cost effective than ordering a single burger! It just makes more sense!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yup! That's the most efficient way to train!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Training your antagonistic muscles will improve the overall stability and flexibility of your main working muscles, so your explosive power will skyrocket!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Extraordinary! The muscular system holds so many possibilities!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You could say that again! Wow, I never imagined you'd understand the appeal of muscles so well, Pearl!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I somehow doubt she's exactly on the same page as the others… but everyone seems to be enjoying the conversation just fine."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And what about you, Trainer?! What do you think about the latent potential within biceps?!",
+            "choice_data_list": [
+                "I-I guess it might be infinite?!",
+                "Train them enough, and you could even defeat a gorilla one day!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Of course! That's exactly right! There are infinite possibilities out there!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! All right, I'm going to push my biceps to their very limits!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "No, Ryan, there <i>are</i> no limits! Let's push ourselves forever into the great unknown!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right! Let's get right to it, then! We can start with dumbbells!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's just what I was thinking! Let's get big and buff!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I realize it, the tea party has turned into a bodybuilder's club. At least everyone seems to be having a great time."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm just about to brush it off as a joke, but I don't get the chance before Seeking the Pearl jumps in."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What an eccentric idea, Trainer! I expected no less from you!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm going train until I get strong enough to take down a gorilla! And once I do, I'm going to wrestle one for real!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, how's that for an interesting challenge? Let's head to the zoo and see if they'll agree to set up such a battle for us!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "W-wait a minute, Pearl! That's too reckless of a proposal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The challenge Seeking the Pearl suggests is far too dangerous, so Mejiro Dober and I both desperately try to reel in her ambitions."
+        }
+    ]
+}

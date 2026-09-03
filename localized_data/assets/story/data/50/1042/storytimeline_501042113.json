@@ -1,0 +1,366 @@
+{
+    "title": "シークレットな一家",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seeking the Pearl",
+            "text": "An Umamusume family…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Namely, a group that passes down assets and knowledge among their members, and whose sense of unity is much stronger than that of a human family."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Great cultural value is placed on them, especially in Europe… I see."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl eagerly reads through the book she had picked up."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I see… so the place I aim to compete in also places high emphasis on the idea of family. In that case…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "If I want to defeat European racers, then I need to get to know more families! I've no choice but to ask them for information directly!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Trainer, could you tell me about the most well-known families in the Umamusume world?"
+        },
+        {
+            "name": "Monologue",
+            "text": "At her request, I start to name a few…"
+        },
+        {
+            "name": "Monologue",
+            "text": "First up is the Mejiro family. They're one of the most prestigious families and are known for celebrating the individuality of their members."
+        },
+        {
+            "name": "Monologue",
+            "text": "Next is the Satono Group. They are a newly emerging family, and every Umamusume of the Satono name adheres to their philosophy."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The Mejiros and the Satonos… I know about both of them, of course. But…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'd like to know about a family that's more closed off. You know, like one that's more extreme and all about sticking to tradition."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I feel a family like that would make it easier to see their real essence. Are there any like that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "…There is, but I don't think it will be easy to communicate with the family I'm thinking of, so I hesitate to tell her."
+        },
+        {
+            "name": "Monologue",
+            "text": "But regardless of my reservations, it doesn't change the fact that there is, indeed, a family that matches what Seeking the Pearl is looking for.",
+            "choice_data_list": [
+                "I suppose there's the most prestigious of households…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The most prestigious of households?",
+            "choice_data_list": [
+                "Yeah. They're a very strict and traditional family.",
+                "Yeah. They're a very strict and traditional family."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "They're an old and noble family known not only in racing world, but also in the political and financial worlds as well. Their dignity is as lofty as their social standing."
+        },
+        {
+            "name": "Monologue",
+            "text": "As such, insider information about them is very difficult to come by. The only Umamusume from that family who's currently enrolled at Tracen Academy is…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Daiichi Ruby, huh? I see…",
+            "color_text_info_list": [
+                "Daiichi Ruby"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I've never really talked to her much, but…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'll use this opportunity to get her to spill her family's secrets to me! Wish me luck!",
+            "choice_data_list": [
+                "Huh? But I have a feeling she's gonna turn you down…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "There's nothing for you to worry about! I've got a secret plan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A noble family like that will surely turn her away at first glance. What kind of secret plan does Seeking the Pearl have that can get around that?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hey, Ruby! There's something I wanna talk to you about.",
+            "color_text_info_list": [
+                "Ruby"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl pays no heed to the forbidding aura that surrounds Daiichi Ruby and walks straight up to her."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Can you tell me everything about the most prestigious of households that you belong to?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It's just all so fascinating that I find myself incredibly interested in it! Haha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I see. Her \"secret plan\" was just to walk up to Daiichi Ruby and ask her for information without preamble. In response to that…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Very well."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "I shall tell you everything about our house.",
+            "choice_data_list": [
+                "Are you sure it's okay to share your family's secrets?",
+                "Are you sure it's okay to share your family's secrets?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Secrets?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "We don't have any secrets. It's simply that no Umamusume has ever approached me to ask about my family before."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the reason why so little is known about her family is because her noble aura scared off anyone who wanted to get near her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, Daiichi Ruby invites us to a private room, and I take a closer look at her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiichi Ruby is a refined Umamusume who belongs to the most prestigious of households."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her house's influence extends everywhere, and there's not a single person inside or outside of the Umamusume world who doesn't know of them."
+        },
+        {
+            "name": "Monologue",
+            "text": "Both her mother and grandmother were famous Umamusume who walked on the well-trodden path of the Triple Tiara tour."
+        },
+        {
+            "name": "Monologue",
+            "text": "And Ruby herself is the glorious successor to this renowned family. Her own aura is palpable in its own right."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So Ruby, what does your house mean to you?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And are you nothing more than a yes-Uma to your family?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What I want to ask is whether you're a puppet being controlled by your family, or if you're the puppeteer who's using them for your own gains."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "In other words, which of you is the master, and which is the servant?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Hmm, if that is your query, then…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "We are neither master nor servant. My house and I are as one."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What?!"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "\"Stand ever glorious, ever supreme—and always shine the brightest.\""
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "I have embraced this maxim of ours my entire life, and I work hard every day aspiring to meet it."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "My family's dreams, obligations, and privileges are one and the same with my own. There is no separation between us."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Every Umamusume born into the family strives for the top as an individual bearing our family legacy."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "That is what it means to be a part of our house."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Our superiority is absolute. There are no hierarchies, nor master and servant dynamics in our family."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Your superiority is absolute…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So that's what the epitome of a traditional Umamusume family is like…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She's unbelievably strong, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl's countenance is filled with deep anxiety on the way home after their talk."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She doesn't obey her family because she has to. She does so because she sees it as her destiny to have been born into that house…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And they work together seamlessly as one without distinction from one another… Well, I guess that family <i>is</i> pretty extreme, though."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And since they're backed up by all that accumulated wealth and knowledge, it's no wonder they're powerful."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "This is what an Umamusume family is, and what I'll one day have to face off against in Europe…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But first, my matchup against the Mejiros is right around the corner…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Given the huge challenge awaiting her in the upcoming Hanshin Juvenile Fillies, I'm not surprised that Seeking the Pearl is getting a little worried."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But still!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's no reason to give up, right, Trainer?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Giving in to a strong Umamusume family would be like…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Accepting a world where they win every race! And there's no way I can do that!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I stand for potential! I <i>must</i> show the world that everyone has the possibility to succeed, no matter what!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And in order to do that, I first have to confront the Mejiro family…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We arrive in front of the station entrance, the both of us still lost in thought. There, we see…"
+        },
+        {
+            "name": "Volunteer",
+            "text": "Please consider donating to underprivileged children!"
+        },
+        {
+            "name": "Volunteers",
+            "text": "Thank you very much!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ah, fundraising… Haha, how wonderful that they have the heart to reach out and aid people they don't even know…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "They're willing to invest so much time and energy into helping them, even though they're not family… That's true kindness."
+        },
+        {
+            "name": "Monologue",
+            "text": "She has a point… Umamusume families aren't the only people who share bonds with each other."
+        },
+        {
+            "name": "Monologue",
+            "text": "Bonds exist between all people, however tenuous they may be."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm glad we saw these volunteers. Let's head back to Tracen Academy."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I may not have family there, but that doesn't mean I don't share bonds with anyone."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Even though we don't share familial blood, there are still people who share the same dream as me.",
+            "choice_data_list": [
+                "Do you mean… me?",
+                "Do you mean… me?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Maybe I do! However small a grain of sand may be at the beginning…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It'll grow bigger and bigger as layers are added to it, until it finally becomes a brilliant pearl!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so our days of intensive training begin. We only have two weeks until the race, so we put all of our effort in to make the most of our time."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Believe in me, Trainer! And make me believe in you as well!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And then, let's show everyone just how much potential Umamusume who aren't part of a family can still have!"
+        }
+    ]
+}

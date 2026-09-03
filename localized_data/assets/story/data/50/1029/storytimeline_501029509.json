@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "What're w'doing f'train'n t'day? Th'usual's p'fectly fine f'me."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? What's w'th'face? D'I say some'n weird?",
+            "choice_data_list": [
+                "Your accent…"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?! Is't thicker'n norm'l?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "This can't b'happen'n! I'm s'posed t'be turn'n 'nto a city girl!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be feeling tired from all the consecutive races. I should probably rethink her schedule moving forward."
+        }
+    ]
+}

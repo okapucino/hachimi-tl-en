@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl's scheduled training session has started, but she's nowhere to be seen. I go searching for her…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Escargots à la Bourguignonne. Galette Bretonne.",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, good question!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Once I start winning races around the world, I'll have to give interviews in different countries, right?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So I'm studying different languages to prepare myself! I'm working on my French right now. After that, I'll study—",
+            "choice_data_list": [
+                "You'll need to train if you want to win."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Huh? Well, obviously! Training is the first step toward conquering the wor—"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh my gosh! Did I completely forget about today's training session?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm so sorry, Trainer! This is so embarrassing! I won't let this happen ever again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl appears genuinely remorseful, so I decide to overlook today's incident."
+        }
+    ]
+}

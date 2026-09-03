@@ -1,0 +1,116 @@
+{
+    "title": "ファンレター",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, a fan letter arrives for Seeking the Pearl."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, to think someone would take the time to write me a letter to express their feelings. I must wholly embrace their heartfelt passion!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Excellent! Apparently, I've inspired them to try opening their own cafe!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "\"Seeing you continuously taking on challenges made me want to try accomplishing something of my own, Pearl!\""
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "\"Things were pretty tough at first, but business has finally started to take off. It would mean the world to me if you dropped by for a meal sometime!\" Why… that sounds splendid!",
+            "choice_data_list": [
+                "Your hard work gave them the courage to challenge themselves."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, you're right. I'm so happy."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Well then, let's go and pay their cafe a visit!",
+            "choice_data_list": [
+                "Wait, right now?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I have arrived! Now where's that meal you mentioned?!"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Wh-what?! No way! P-Pearl… You actually came?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What do you recommend?"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "U-um, well, we grow all the fruits we use in our dishes, so I would suggest our super-fruity cake!"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "The toppings we use are freshly picked each morning from the garden out back!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Lovely! I'll have one of those, then!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoa… This is delicious! The fruits are all so juicy! This cake must be your best seller!"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Ah… Well, some people do get hooked after trying it once, but I wouldn't go so far as to say it's particularly popular among our guests."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh my… People are really missing out! You should try creating some buzz around it by devising a fun and flashy way to serve it!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "For example, you could let customers harvest their own fruits to decorate their cakes!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "You could call it the \"Pick-Your-Own-Fruit Cake\"!"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "Wow… That's a great idea! That would definitely get people talking about it! I'll try that out!"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "You're amazing, Pearl! You always have such unique ideas, and you're always taking on fascinating challenges! I look up to you even more now!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, glad I could be of help. You know, I should be the one thanking <i>you</i> for supporting me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several days later, Seeking the Pearl receives another fan letter from the same cafe owner…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh my, what fantastic news! It seems the Pick-Your-Own-Fruit Cake is a huge hit!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "\"I'm further exploring the potential of homegrown fruits by developing an original beauty lotion.\" Haha, sounds like a great challenge to embark on!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But I can't let myself be beat! I'll achieve even more fabulous results so I can help encourage everyone around the world!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From that day on, Seeking the Pearl becomes even more devoted to her training."
+        }
+    ]
+}

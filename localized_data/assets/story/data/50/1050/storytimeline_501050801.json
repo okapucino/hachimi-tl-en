@@ -1,0 +1,202 @@
+{
+    "title": "クエスト：演劇部のお手伝い！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Whoa! Is this a theater prop?! It's so detailed!"
+        },
+        {
+            "name": "Theater Club Student",
+            "text": "Ehehe. Thanks! I made it. If there's one thing I'm good at, it's detailed handiwork like this."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmm… Oh, there's a mini bed, too."
+        },
+        {
+            "name": "Theater Club Student",
+            "text": "They're all deeply sentimental pieces, but the clubroom will overflow if we keep everything. That's why I'm trying to decide what to throw out."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah, that sure is a lotta stuff. Oh, I know! How's about I give you a hand?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin, I'm gonna help her out, so you can go on ahead!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nah, I'll help, too."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? You will?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah. But I've got a favor to ask in return."
+        },
+        {
+            "name": "Theater Club Student",
+            "text": "And what's that?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aaaand done and dusted! Everything's tidied up!"
+        },
+        {
+            "name": "Theater Club Student",
+            "text": "Thanks so much, you two! I appreciate your help. And as promised, here's what you wanted, Taishin."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Thanks."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's the mini bed from before… Is that what you asked for in exchange for helping out?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well… yeah."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaat?! I mean, you're pretty small, but won't it be hard to sleep if you're all crammed into that thing?! Just the thought is painful!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm not gonna be the one sleeping in it, bonehead! …I'm out of here."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Nooo! Wait for me, Taishiiin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I pass by the academy gate in the evening, I notice Winning Ticket looking around the area restlessly.",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I could have sworn I spotted Taishin just now, but she disappeared. I wonder where she's run off to…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, there she is! Heeey!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I hope it's around right now…"
+        },
+        {
+            "name": "Black Kitten",
+            "text": "Mew…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ahh, there you are. Still feeling down? Silly fluff ball. Here, I got you a new bed."
+        },
+        {
+            "name": "Black Kitten",
+            "text": "<i>Sniff, sniff…</i> Mraow."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why're you rubbing all over me? Trying to butter me up? Anyway, this should be a good replacement for that cushion of yours."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin watches over the kitten with a gentle look in her eyes as it makes itself comfortable on the bed.",
+            "choice_data_list": [
+                "(We probably shouldn't interrupt them.)",
+                "Is that a present for the cat?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Right as I'm about to tell Winning Ticket we should head back to the academy…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaaah! That's so touchiiing!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?! What are you doing here?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin! I can't believe you helped out the theater club so you could get a present for that little kitten! You're such a kind soul!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sh-shut it! And quit being a gross stalker, seriously! Get lost!"
+        },
+        {
+            "name": "Black Kitten",
+            "text": "Hiss!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh no! Don't leave, kitty! C'mere! There's nothing to be afraid of!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It ran away because of you and your megaphone mouth! Quiet down! Or better yet—get out of here!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Nooo! I'm sorry, kitty! I'll be quiet, so please come back!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You're <i>still</i> yelling!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The kitten watches from a distance as the two flail around and argue. I see what I imagine is equal parts bewilderment and amusement in its expression."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?! How long have you guys been there?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniffle… Hic!</i> I-I'm sooo tooouuuched!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hey, keep it down! You'll scare the cat away. Geez!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "This shrine here runs a community cat program, and they've been taking care of this little one."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Its favorite cushion was all beat up, so it had nothing to sleep on. Looked pretty down about it too, so… yeah."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "W-waaaaah! I had no idea there was such a sad story behind all this!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I've gotta tell everyone about this touching tale! Hold on, I'm gonna go spread the word back at the academy!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?! Don't do that, Ticket! Hey! Come back here, dammit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin rushes after Winning Ticket in a huff while the kitten curls up into a satisfied little ball on its new bed."
+        }
+    ]
+}

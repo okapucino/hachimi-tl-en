@@ -1,0 +1,61 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin and I are preparing to head back after training, when…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice that she's looking toward the sunset."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I bet everyone's eat'n dinner right about now…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah! No! I've gotta stay focused on what I'm doing here!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Trainer! I need a favor from you! You've gotta let me train a li'l more!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna live up to the exp'ctations of all the people support'n me back home!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna be someone people talk about over dinner, and it brightens up their whole day!",
+            "choice_data_list": [
+                "All right, let's go a little longer!",
+                "Pushing yourself too hard now will leave you drained tomorrow."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thanks a bunch! Now watch this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if running off all her worries, Yukino Bijin continues training hard."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah, true. I guess this's what they mean when they say slow 'n' steady wins the race.",
+            "choice_data_list": [
+                "Get some good rest so we can work hard tomorrow."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You got it! I'll rest up so that the next time y'see me, I'll be bright-eyed and bushy-tailed!"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking around the central plaza when I notice Bamboo Memory holding her head."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ngh…",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ugh… Actually, I reread the school rules yesterday."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe. I don't mean to brag, but… I memorized all of them!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "As chair of the disciplinary committee, it's my duty to memorize them word-for-word! It's just…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I tried to memorize them again—just to be sure! So I read the rules over and over… and after a while, my head started feeling worse and worse…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But there's nothing to worry about. A little headache is nothing for the disciplinary committee ch—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yooowch! Ugh… Gotta… get it together…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory's headache persists for some time."
+        }
+    ]
+}

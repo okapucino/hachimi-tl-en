@@ -1,0 +1,38 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I notice Bamboo Memory standing totally still while I'm walking around the academy."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hyah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sorry about that! I was sleeping!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I figured I'd go to bed early since I had a break and all, but I ended up waking up earlier than I expected…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But I can't let a little sleepiness like this get the best of me… Must get energy… <i>Zzz…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Bamboo Memory didn't get enough rest."
+        }
+    ]
+}

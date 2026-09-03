@@ -1,0 +1,29 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Sigh…</i> Oh… Hey, Trainer…",
+            "choice_data_list": [
+                "You seem kind of tired."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh? N-no, not at all! I'm totally fine! In fact, I was just gonna practice with my—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Where's my practice sword?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ah… ahaha! That's right. I was letting it dry in my room. Let me just go get it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory must still be feeling tired from racing. It might be a good idea to reevaluate her race schedule."
+        }
+    ]
+}

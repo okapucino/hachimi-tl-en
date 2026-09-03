@@ -1,0 +1,223 @@
+{
+    "title": "めんこい人形",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I step into my office and notice something strange in the air."
+        },
+        {
+            "name": "Eerie Voice",
+            "text": "I'm so lonely… Don't… leave me…",
+            "choice_data_list": [
+                "Wh-who's there?",
+                "Wh-who's there?"
+            ]
+        },
+        {
+            "name": "Eerie Voice",
+            "text": "Are you… a friend?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In addition to the mysterious voice, I feel something cold and hard touch my neck. Gradually, it begins to press down harder, and…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…ner! Hey, Trainer! Can y'hear me?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You scared the daylights outta me fall'n to the floor like that! Are you feel'n sick?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wondering what just happened, I look around and notice a doll I've never seen before perched on my desk."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? Wait a sec, that's Cafe's doll! She was show'n it t'me when I was hang'n out in her and Tachyon's li'l room…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Although, I feel like it had shorter hair back then…",
+            "choice_data_list": [
+                "It's incredibly creepy."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Let's go tell Cafe you found it. She prob'ly dropped it somewhere near here, and someone decided t'put it on your desk."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you. It looks like she ran off all by herself again…",
+            "choice_data_list": [
+                "By herself?!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I knew she must've been yours! I'm glad we could reunite you two!",
+            "choice_data_list": [
+                "Wh-why are you acting like this is normal?!",
+                "Wh-why are you acting like this is normal?!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I guess I'm just used to it? Where I'm from, mishaps like this are happen'n all the time."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "B'sides, these little cuties aren't so diff'rent from me! We can both move 'round and grow our hair!"
+        },
+        {
+            "name": "Eerie Voice",
+            "text": "I'm so lonely… So alone…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowzers, she can talk too! But why's she feel'n lonely even after you two've been reunited?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She's been longing for someone since I met her. I'm sorry for the trouble she's caused you both… I'll take her home now…"
+        },
+        {
+            "name": "Monologue",
+            "text": "As soon as Manhattan Cafe says she'll take the doll away, my nerves start to relax."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wait a sec, Cafe!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Is there anyth'n we can do t'help?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It doesn't feel right t'part ways like this, with her look'n bluer than Lake Gosho 'n' all."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Are you sure you can carry this burden?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Sure as day follows night! Right, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not really on board with this at all, but they're looking at me so expectantly…",
+            "choice_data_list": [
+                "I think it's better to help her move on.",
+                "Y-yeah! I'm sure we can all live in peace!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Y-y'mean to the a-afterlife?! It's not like we can force her! If we do that, we gotta make sure it's <i>her</i> choice t'move on."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hm… There are some who agree to move on once they have no more unfinished business…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "In that case, I've just gotta look after her till she doesn't feel lonely! I've got enough good vibes for the both of us!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There, there, sweetie. Ev'rything's gonna be just fine."
+        },
+        {
+            "name": "Eerie Voice",
+            "text": "So… warm…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Okay, you two. C'mere and give her a nice pat on the head.",
+            "choice_data_list": [
+                "Th-there, there…"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There's a good girl…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After spending a few hours comforting the doll, that strange voice eventually disappears."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeah! B'sides, we might get through t'her if we talk."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'll go first!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "What's the story, Dolly? What's got you so lonely?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I know it must be hard, but you'll only scare people away if y'start talk'n outta nowhere and mak'n things float in the air."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If you stay on your best behavior, I'm sure you'll be able t'make some friends."
+        },
+        {
+            "name": "Eerie Voice",
+            "text": "…Really?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha! I mean, gosh, I'd play with you oodles and oodles! You're such a sweetie-pie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin smiles gently at the doll, and as if the doll has accepted her words, the strange voice suddenly goes quiet."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There's something… different about you, Yukino."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Even in the face of inexplicable events or people others might dismiss as scary, you always remain so calm and kind…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You aren't even afraid to… share a room with me."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "What're you say'n?! I love being your roomie. I could live with you forever!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If you've got any more dolls or whatever giv'n you trouble, feel free to bring 'em by here an'time."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "B'sides, you're the kind one, Cafe. When I first got to Tracen, I was so scared and lonely… but then you made me a nice, hot cup of coffee. Help'n out's the least I can do!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thank you… I'll have to brew you another cup… when we get back."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thank you kindly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the strong bond between Yukino Bijin and Manhattan Cafe in action warms my heart as well."
+        }
+    ]
+}

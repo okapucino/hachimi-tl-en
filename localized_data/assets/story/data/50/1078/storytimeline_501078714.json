@@ -1,0 +1,101 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr injured herself during training, so I've hurried her to the infirmary."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I apologize. A whirling wind swept my legs out from under me."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "If I'd recoiled, however, the wind would have consumed me completely."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's return to training. The winds that blow back after the storm blow with even greater strength.",
+            "choice_data_list": [
+                "You can blow back once your injury's healed.",
+                "You can blow back once your injury's healed.",
+                "If you're sure, then let's go."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's return to training. The winds that blow back after the storm blow with even greater strength.",
+            "choice_data_list": [
+                "You can blow back once your injury's healed.",
+                "You can blow back once your injury's healed.",
+                "If you're sure, then let's go."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But this injury will take some time to heal…",
+            "choice_data_list": [
+                "And that means we'd better skip training today."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes… Yes, I wouldn't want to become any more of a burden, after all."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Okay. I'll focus on recovering from my injury for now."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And then… I'll blow back even stronger."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, a very disappointed Yamanin Zephyr decides to rest."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Thank you! I will whip up a wind of greater ferocity than before."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Yamanin Zephyr and I return to the track. However…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Ouch!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "U-urgh… But… I have to ride the wind…",
+            "choice_data_list": [
+                "I think we need to take the day off after all."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…I'm sorry. I misjudged my current condition."
+        },
+        {
+            "name": "Monologue",
+            "text": "Doing her best not to put any weight on her injury, Yamanin Zephyr falls into dejection."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I may not be running like a gale… but I feel good.",
+            "choice_data_list": [
+                "Don't push yourself any harder than this."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I know, I must be very careful. Please don't worry."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking care not to strain her injury, Yamanin Zephyr continues training."
+        }
+    ]
+}

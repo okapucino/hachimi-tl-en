@@ -1,0 +1,62 @@
+{
+    "title": "お大事に！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory suffers an injury, so I hurry her over to the infirmary in concern."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Don't look so worried! It's just a scratch!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, I know! If you're really worried, I can try running on dirt! Dirt tracks put a lot less strain on your body!",
+            "choice_data_list": [
+                "I'd prefer you rest, just to be safe…",
+                "…Sounds good!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah, but that's exa—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Fine, I understand. I'll be good and rest until my injury heals!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I know you've got my back, so I don't want to worry you."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Osu! I'm really good at pacing myself, so you can rest easy!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Wheeze, wheeze…</i> Gyah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ouch… S-sorry. Something feels off…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Uuugh… I did this back when I was having trouble with my nails, so I thought it'd be okay…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehehe! I knew I'd be fine!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No way an injury like this is gonna stop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Running on dirt ends up being an effective way for Bamboo to jump back into training!"
+        }
+    ]
+}

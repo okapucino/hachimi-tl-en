@@ -1,0 +1,34 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Goooood morning!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the early hour, I can hear Bamboo Memory enthusiastically greeting everyone at the academy gate.",
+            "choice_data_list": [
+                "Someone's up early.",
+                "Someone's up early."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yup! I'm super well-rested from my day off!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I even woke up before my alarm today! I started the day off with a win and I'm feeling great!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "From here on out, I'm giving 110 percent!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory seems to be well-rested."
+        }
+    ]
+}

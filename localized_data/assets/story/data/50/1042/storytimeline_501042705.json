@@ -1,0 +1,217 @@
+{
+    "title": "エキサイティング☆ロケット",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way back from an outing with Seeking the Pearl when she suddenly stops dead in her tracks."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Peeeew, BANG!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…! Was that a firework?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hey there! Did you just let off a firework?!"
+        },
+        {
+            "name": "???",
+            "text": "Hm? Yeah… I did. It's one of my own creations. I let it off as a test run."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Does that mean you're a fireworks maker?! That's amazing! Can you show us more of them?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The old man we bump into turns out to be a firework craftsman who owns a workspace nearby. Apparently, he often holds workshop where kids can try making their own fireworks."
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "I'll be holding a workshop again soon, so I'm trying out various prototypes to show to the kids."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A workshop… How exciting! Do you have more fireworks on you right now?"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Sure do. I got loads. Do you two want to try making something?"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "That's it. Make sure it's firmly attached to the bamboo stake since that's what determines the propulsive force of the rocket."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I see, so that's how you make sure it flies straight up… There! Time to try launching it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whiiiz, BANG!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh! It worked! I mean, did it?! Was that a successful shot?"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Very good! Considering it was your first attempt, you did really well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl looks like she's having a great time. It's rare to see her filled with such childlike delight, and I can't help but smile."
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "By the by, you wouldn't happen to have any good ideas for a new creation would ya?"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "I want to make more fireworks that kids'll enjoy, but honestly, I've hit a wall. I'd love to get some fresh ideas from a young'un like you."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Well, how about making a whistling rocket that sounds like it's playing dance music while it's flying into the air?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A firework that creates an image or a shape in the sky might be fun, too! Like if it makes a star when it explodes!"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Haha, those do sound interesting! But a firework that plays music would be tricky to construct. Perhaps with a little creativity, we could make something along those lines, though."
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "…All right, let's give it a shot. We can at least get it to produce a rhythmic beat, and getting it to make a simple star shape won't be hard either."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Seriously?! I wonder if I can really make a firework that explodes into a star in the sky… Are we going to use chemicals that burn in different colors to make this work?"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "You got it. You can make any color you like using this flame colorant. You can't make a star with just one firework, though. You'll have to make a ton of different types, including a mix of fountain fireworks."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Let's get cracking, then! Time to churn out a bunch of fireworks!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…All right! It's ready! Here's another fountain firework! That's the third one.",
+            "choice_data_list": [
+                "You're really making progress! What color is the one you just made?",
+                "You're really making progress! What color is the one you just made?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That one's yellow! I already did red and orange earlier, so what color should I make next?",
+            "choice_data_list": [
+                "How about a reddish-purple?",
+                "How about a reddish-purple?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "You've got really good taste! Let's fill the sky with a fiery star that sparkles with a warm-toned gradient!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Nghhh, it's so tough trying to make the fireworks explode at a steady rhythm…"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "You're on the right track, though! You just need to adjust the length of the fuse a little more, and…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I-I think I did it! I made a collection of fireworks that'll create a star in the sky and play a rhythm you can dance to when it explodes!"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Righty-o, let's hurry and try it out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whiiiiiz, BANG, BANG, BANG!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Wow! Both the beat and star pattern in the sky are so awe-inspiring!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Fantastic! What a huge success!"
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Hahaha! Well, this really is something! I've never seen anything like it!",
+            "choice_data_list": [
+                "Those are some brilliant fireworks!",
+                "Those are some brilliant fireworks!",
+                "You really love firework rockets, don't you?",
+                "You really love firework rockets, don't you?"
+            ]
+        },
+        {
+            "name": "Firework Craftsman",
+            "text": "Hahaha! Well, this really is something! I've never seen anything like it!",
+            "choice_data_list": [
+                "Those are some brilliant fireworks!",
+                "Those are some brilliant fireworks!",
+                "You really love firework rockets, don't you?",
+                "You really love firework rockets, don't you?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Yeah! I honestly never knew firework rockets were hiding this many possibilities!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I want to make even more of them! Would that be okay? Please say yes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl appears to be entirely hooked on making fireworks. It's not often she gets so eager about things.",
+            "choice_data_list": [
+                "Sure. You can come back for one of his workshops sometime."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha! You're coming too then, Trainer!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Making fireworks was obviously super exciting, but the real reason I was so focused and had so much fun was because you were with me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I do. Setting off rocket fireworks is such a lively and positive activity. Doesn't it just make your heart race?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Every burst feels as though it's cheering me on, boosting my determination to seek more possibilities."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's why I like them so much."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. I wish I could stay here and enjoy both this view and this rhythmic booming forever…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl's profile is limned by the fireworks' light and her own bright smile as she murmurs that. It warms my heart to know I was able to let her experience something so fun."
+        }
+    ]
+}

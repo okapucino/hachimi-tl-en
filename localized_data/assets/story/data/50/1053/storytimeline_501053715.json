@@ -1,0 +1,109 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and I take a walk along the river after we finish the day's training."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Pant… Pant…</i> I'm <i>literally</i> dying!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You want to take a break already, Jordan? C'mon, just a little more."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously?! We've been running for, like, a whole hour! Anyone's legs would hurt!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Well… you're not wrong. I'll go on ahead, okay?"
+        },
+        {
+            "name": "Gold City",
+            "text": "But y'know, nothing gets me going like running with my bestie."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…! Geez… How can you say stuff like that so casually?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Fiiiine, guess break time's over. Lead on and I'm with you all the way!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Look at that passion! Two rivals building each other up on the riverbank!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I want to run with them!",
+            "choice_data_list": [
+                "Have fun!",
+                "You've already had a long day, so let's hold off."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yesss! I'll be back!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, you two! Lemme in on the fun!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "So what's the plan? Run off into the sunset, collapse into a field and talk about what good friends we are?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?! Not at all! We're just running!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…I see. You're saying words aren't necessary when it comes to true friendship, huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh, no?! Are you messing with me or are we, like, not communicating <i>at all?!</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha, she's always like this in the evenings. …But hey, laying down after our run sounds pretty chill, doesn't it?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! Let's head for the sunset!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and her friends work up a sweat and run until the sun goes down."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What?! You're really saying no?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Come on, don't be mean! I've just gotta run!",
+            "choice_data_list": [
+                "You should save that energy for our next training session."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ngh! So I have no choice but to hold back for today?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Okay, I understand. But it's all coming out next time we train!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory looks on enviously as the other two run off."
+        }
+    ]
+}

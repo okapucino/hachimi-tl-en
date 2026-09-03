@@ -1,0 +1,235 @@
+{
+    "title": "桜花賞にむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The first race of the Triple Tiara, the Oka Sho, is today, and Yukino Bijin has been invited to an interview beforehand."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's quite common for popular Umamusume to give interviews, but…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "What did you have for dinner last night, Yukino?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Pork cutlet on rice, 'cause it's lucky!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "How nice! I know you're still young and very busy, but is there anyone out there you'd <i>especially</i> like to see you race?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can only choose one? Gee, I don't know if I can! Obviously, I want my mom t'watch, but I also want my dad, my little sister, and all my friends to—"
+        },
+        {
+            "name": "Reporter B",
+            "text": "That's very lovely, but… I'm wondering more if maybe you've got a special someone out there…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "A special someone? Like…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "OHHH! N-n-n-no, I don't!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The reporters only ask Yukino Bijin about her private life. This interview is a far cry from your average racing interview.",
+            "choice_data_list": [
+                "Does anyone have a question related to racing?"
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "How about a word for your fans watching at home? In that cute accent of yours, if you don't mind!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? Uhhh…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm gonna run my tail off t'get the win! So, I'll be count'n on your s'pport!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "H-how was that? Could you hear my accent?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Yep! I swear, you're the cutest little bumpkin ever!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All the reporters laugh."
+        },
+        {
+            "name": "Racing Newspaper Reporter A",
+            "text": "I don't know if I've ever seen reporters from those stations at one of these racing interviews…"
+        },
+        {
+            "name": "Racing Newspaper Reporter B",
+            "text": "They're here because of Yukino Bijin. Everyone's trying to write a piece on her recently. Heck, I'm only here because my boss demanded photos."
+        },
+        {
+            "name": "Racing Newspaper Reporter B",
+            "text": "I guess she's a proper celebrity if she's that in demand…",
+            "choice_data_list": [
+                "(In demand…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Plenty of Umamusume before Yukino Bijin have reached this same level of fame, but the reason she's so popular is a bit different."
+        },
+        {
+            "name": "Staff A",
+            "text": "All right, that's all the time Yukino Bijin has for today!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Sigh…</i> That was nerve-rack'n."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "How'd I do?",
+            "choice_data_list": [
+                "You did just great.",
+                "You did just great."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thank goodness. Now I can—"
+        },
+        {
+            "name": "Staff A",
+            "text": "Our next Umamusume is ready for your questions!"
+        },
+        {
+            "name": "Racing Newspaper Reporter C",
+            "text": "Finally! I've been waiting for this all day."
+        },
+        {
+            "name": "Racing Newspaper Reporter D",
+            "text": "I've got to get this article out ASAP!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The mood suddenly changes as the TV crews make way for the regular racing reporters.",
+            "choice_data_list": [
+                "(Next up must be…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shiiiing!</i>"
+        },
+        {
+            "name": "???",
+            "text": "…"
+        },
+        {
+            "name": "Racing Newspaper Reporter A",
+            "text": "Thank you for coming today, Harp Alpha.",
+            "color_text_info_list": [
+                "Harp Alpha"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Harp Alpha is a racer many are expecting great things from on the Triple Tiara tour."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's quite likely she'll be Yukino Bijin's biggest rival at the Oka Sho. We've been keeping our eyes on her, but…",
+            "choice_data_list": [
+                "(It looks like we're not the only ones.)"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Can we stay, Trainer?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm feeling kinda restless… I think it'd be a good idea for me t'listen in.",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Racing Newspaper Reporter B",
+            "text": "How are you feeling about the upcoming Oka Sho, Harp Alpha?"
+        },
+        {
+            "name": "Racing Newspaper Reporter C",
+            "text": "I heard you expressed concerns for your legs after your first race. How are you feeling now?"
+        },
+        {
+            "name": "Racing Newspaper Reporter D",
+            "text": "You ran quite aggressively at your last race. Are you sure you're ready to run again so soon?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The questions rain down one after the other. It's a complete one-eighty from Yukino Bijin's interview."
+        },
+        {
+            "name": "Harp Alpha",
+            "text": "I'll run the way I'm going to run. That's all I can say."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Holy smokes…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Talk about a cool cat…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's like she isn't phased at all. As cool and confident as a cucumber on a motorcycle."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…?",
+            "choice_data_list": [
+                "Yukino?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Eek! It's noth'n!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Makes sense, though, right? The Triple Tiara's gonna be full of great runners like her."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Which means I gotta give this race my all! Don't worry, I'm ready!"
+        }
+    ]
+}

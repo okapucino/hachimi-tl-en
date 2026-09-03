@@ -1,0 +1,432 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "Happy New Year, Trainer! Let's make this one a good one!",
+            "choice_data_list": [
+                "Happy New Year!",
+                "Happy New Year!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin starts off the new year by coming directly to my office and greeting me heartily. However, I can't help but wonder…",
+            "choice_data_list": [
+                "Why are you wearing your tracksuit?"
+            ],
+            "color_text_info_list": [
+                "Yukino Bijin"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna start train'n right away!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "After all, now that I'm in my classic year…",
+            "color_text_info_list": [
+                "classic year"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's fin'lly time for me t'take on the Triple Tiara!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I bet there'll be tons more dazzl'n racers there than at the Hanshin Juvenile Fillies."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If I wanna win, I'm gonna hafta work my socks off!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "So come on! Let's hurry and get train'n!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's great to see Yukino Bijin so fired up, but she's always pushing herself so hard. I'd rather she put her feet up and relax during New Year's.",
+            "choice_data_list": [
+                "You worked hard all last year, so there's no need to rush!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, you think? Well, in that case… should I take the day off?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm? What do folks usually get up to on days off, anyway?",
+            "choice_data_list": [
+                "You're joking, right?!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I was just dead set on train'n today, so I hadn't thought about it."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "We already cooked up some traditional New Year's food back at the dorm… What else is there t'do on New Year's?",
+            "choice_data_list": [
+                "Well, what did you used to do back home?",
+                "Well, what did you used to do back home?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'd hang out with Mifuyu, take care of my li'l sister, and… just laze around, I s'pose."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeah, I did a lotta lay'n 'round. It's just impossible t'escape a nice and toasty kotatsu!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But now that I'm in the big city, I can't just waste all m'time under a kotatsu!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm… There's gotta be someth'n I can do…",
+            "choice_data_list": [
+                "Just because we're relaxing doesn't mean we can't move our bodies!",
+                "How about we relax with a cup of coffee?",
+                "Why not spend a day the way a model would?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "By golly! You're right!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ever since I arrived at Tracen, other students've been tell'n me about all the activities 'round here, and I've been itch'n to try 'em all!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Did y'know there's an obstacle course nearby? Let's check't out!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "See? Doesn't this place look neat? Let's go and—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "YUUUKIIIII!",
+            "color_text_info_list": [
+                "YUUUKIIIII"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wow! What a crazy coincidence! Happy New Year!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Happy New Year!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Guess what, Trainer? Tickezo here's the one who told me 'bout this place!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's right! Hi, I'm Winning Ticket! I love running and my dream is to win the Derby! Nice to meet ya!",
+            "choice_data_list": [
+                "Y-yeah, you too!",
+                "Y-yeah, you too!"
+            ],
+            "color_text_info_list": [
+                "Winning Ticket",
+                "Derby"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Are you here t'get some exercise too?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yep! I was getting real restless from all the loafing around I was doing!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I mean, I'm gonna run in the Derby this year! How am I supposed to stay still, knowing that?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I was gonna start training today but my roommate told me to take it easy 'cause I was out training yesterday till curfew."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Zounds! That sounds just like what happened to me! I was plann'n on train'n today too."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wow, really? Oh, that's right! You're gonna try for the Triple Tiara this year, right?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Let's both realize our dreams this year! Yeaaah!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeaaah!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Anyway! Since we're here, wanna hang out together?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Does a bird have wings? I'd love to!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Nice! Let's go climb that mountain, then! C'mon!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ooh, that looks like a real gas! Trainer, you're com'n too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, I end up joining them for some recreational exercise. I'm definitely nowhere near as tough as they are, however…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Are you all right there, Trainer? You're look'n awful wobbly.",
+            "choice_data_list": [
+                "I… I think I need some help…"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Want me to carry you back? You look light enough!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can help too! Tag me in whenever, Tickezo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having two Umamusume take turns ferrying me back home is certainly a lively start to the new year."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm, I see…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's important t'stop and smell the roses sometimes, huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "My roomie Cafe told me about this spiffy cafe a while back! I bet we can have a real swell time there.",
+            "color_text_info_list": [
+                "Cafe"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well? What do y'think? Pretty snazzy atmosphere, huh?",
+            "choice_data_list": [
+                "It is! But, uh, why are you whispering?",
+                "It is! But, uh, why are you whispering?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, I figured you gotta act all grown-up in these kinda places."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…You needn't worry about that. This cafe has no such rules."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hello, Yukino."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh! Hey, roomie! Long time, no see. What's it been? Since this morn'n?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That's right. I'm glad to see you've taken a liking to this cafe."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I sure have! The parfait you recommended was so good, I just <i>had</i> t'have my trainer try it."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I see…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "They serve other delicious desserts as well."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowie, really?!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "For example, their pudding is made using carefully selected ingredients. They only sell a limited amount each day though."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "That said… business has been a bit slower than usual today, so there should still be some left."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oooh! I looove pudd'n!",
+            "choice_data_list": [
+                "Should we order it?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yes, please!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll be off, then."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? You're leav'n already?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I was just think'n it'd be awful nice if you stayed…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I didn't want to intrude on your day out with your trainer."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Nonsense! The more the merrier!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right, Trainer?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Well… If you insist."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Here, sit next to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the three of us usher in the new year leisurely."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowzers! That's a spiffy idea if I've ever heard one!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There was this article in a 'zine City gave me that talked about the best ways t'spend a day off, so I clipped it out for my scrapbook!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wait right here! I'll go get't!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Golly, things sure are diff'rent in the city. They've even got stores open on New Year's."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "City comes out here all the time t'buy makeup. I wanna try t'find something cute for myself too!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, hey. Wasn't expecting to run into you here, Yukino."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, look who's out and about. HNY, girlie!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "HN… Oh! Happy New Year t'you too!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Happy New Year. What brings you out here? Shopping?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Checking out the new beauty trends already? You're <i>fast,</i> girl. We're just here for some ramen. No better way to kill time than with food, amirite?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I thought I said I don't want ramen… Ugh, whatever."
+        },
+        {
+            "name": "Gold City",
+            "text": "That line of products over there is pretty good quality for the price, by the way. You should go take a look if you're interested."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh?"
+        },
+        {
+            "name": "Gold City",
+            "text": "You're here for makeup, right? I thought I'd give you some of my recommendations."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh! Thank you so much!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Awww. Well, aren't you sweet?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hang on, though. You never treat me like that! This is like top ten bestie betrayal territory!"
+        },
+        {
+            "name": "Gold City",
+            "text": "What do you mean? Didn't I give you a free sample?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That's not what I'm not talking about! I'm talking about your attitude! Show me some love!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, please."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Wow! Real city gals are so full of energy even on New Year's."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You learn something new ev'ry day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Yukino Bijin and I have a fun New Year's Day."
+        }
+    ]
+}

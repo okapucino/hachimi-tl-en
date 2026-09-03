@@ -1,0 +1,326 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As the year draws to a close, I receive an invitation from Seeking the Pearl to an end-of-year party, but when I reach the location of our supposed party…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "There you are, Trainer. Exactly on time!",
+            "choice_data_list": [
+                "Y-yeah, but, uh…",
+                "Y-yeah, but, uh…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I know what you're thinking. You must be wondering if this is really where we're having a party, am I right?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Ohohoho!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Come on! Let's light up the evening sky with our wings!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whirrr… Tak, tak, tak…</i>",
+            "choice_data_list": [
+                "I-is that a helicopter?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha… I got my dad to pull some strings and chartered it for us!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Now let's take to the skies and bask in some breathtaking night scenery!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, I'm strapped into a seat and soaring through an ocean of stars.",
+            "choice_data_list": [
+                "Whoa, this is amazing!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I really wanted to show you this view. All it takes is a little change of perspective to make your familiar surroundings look like brand-new, brilliant pearls."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The lights from the stores, houses, and offices, the tiny glimmers from so many people… All of them have the capability to become beautiful jewels.",
+            "choice_data_list": [
+                "They're full of possibility, aren't they?",
+                "They're full of possibility, aren't they?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ooh, you got it! That's exactly correct! Haha, you beat me to it!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "We'll be arriving soon at tonight's principal attraction!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, after a brief flight, we arrive at our destination…"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoooaaa! Pearl, you came by helicopter?!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, your trainer is joining us too? You know, seeing you two arrive together reminds me of the parties we used to have back home."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I know what you mean! My parents used to link arms like that when they went to house parties too!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It's a rather common sight in the West, isn't it? Hehehe. Pearl looks right at home doing that with her trainer."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Season's greetings, my lovely guests! Your shining pearl has descended from the sky!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Awesome! You don't even see people come down from the sky like that in hero shows! Pearl, you're so glamorous!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Huh? Why are you two in your uniforms? Don't tell me you came straight from training!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe, we sure did! ☆ We rushed over as soon as we finished since we would've been late otherwise."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Urgh… Sorry. We should've dressed up a little for this…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "No, no! It's no problem! In fact, it's perfectly fine! I figured this would happen, so…"
+        },
+        {
+            "name": "Biko and Akebono",
+            "text": "Ohhhhh! Wooooow!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Amazing! You prepared these for us? They're so cute! ♪"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oooh! Thank you! It suddenly feels more like a party now!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha! Things are really starting to liven up now! ♪",
+            "choice_data_list": [
+                "You sure came prepared!",
+                "You sure came prepared!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "This level of preparation and hospitality is only expected, given that I'm the host. This is all for the sake of a successful and lovely party."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I wanted to make the best possible memories with the friends I share a special destined bond with."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But that's not all! I wanted to create the ideal opportunity for everyone to get to know you better!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm just that proud of you, Trainer!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see. So that's why you brought us here. Does the secret to your strength lie in him?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see. So that's why you brought us here. Does the secret to your strength lie in her?"
+        },
+        {
+            "name": "Monologue",
+            "text": "This is Grass Wonder. She's an American-born Yamato Nadeshiko, possessing both talent and a strong spirit.",
+            "color_text_info_list": [
+                "Grass Wonder"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It wouldn't be an exaggeration to put it that way. Haha. Have I piqued your interest, perhaps?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You have. I'm always interested in learning about strong opponents. Both the paths they've walked and the futures they're aiming for fascinate me endlessly."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You never know, I might end up asking for your help someday in the future."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I like your fighting spirit! Okay! Let's talk the night away!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Well then, everyone! Let's get this party started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we enjoy the company and lively festivities late into the night."
+        },
+        {
+            "name": "Monologue",
+            "text": "We land on the rooftop of a luxurious hotel, and as we head down the floors, Seeking the Pearl turns to me."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "By the way, your present isn't just the nighttime view! I also had a special dinner prepared just for you!",
+            "choice_data_list": [
+                "I-I'm not sure it's appropriate to accept such an expensive gesture from a student…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Don't worry! My mom told me to treat you to a nice meal as thanks for always taking good care of me and made the reservation herself, so it's really a gift from her."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Don't worry! My mom told me to treat you to a nice meal as thanks for always taking good care of me and made the reservation herself, so it's really a gift from her."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Since my mom and dad often travel overseas for work, they seem to think really highly of you for always staying by my side. ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "You can't refuse a thank-you like this! You might think it's over the top, but this is just how much they want to show you their appreciation.",
+            "choice_data_list": [
+                "Well, if you put it that way, there's no way I can say no!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, I'm glad you understand. You're a wonderful person who deserves a gift at least this special."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "After all, I've only made it this far thanks to your constant support!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Now, come along. Let's enjoy a romantic evening!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "All right, Trainer—let's have a toast to the breathtaking scenery and a magical evening! Cheers!",
+            "choice_data_list": [
+                "Cheers!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Mmm, this year's sparkling carrot juice is really good! ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It has such a rich terroir and crisp sweetness. Could this be from Normandy?"
+        },
+        {
+            "name": "Sommelier",
+            "text": "You are absolutely correct, ma'am. As always, your refined palate is impeccably astute.",
+            "choice_data_list": [
+                "Amazing! You were able to tell where it was made just like that?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, well, I've been drinking sparkling carrot juice ever since I was a child, so it's not difficult for me to tell each bottle's origin."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What kind of flavors do you enjoy? Allow me to pick out our second bottle."
+        },
+        {
+            "name": "Monologue",
+            "text": "When the server brings us our after-meal coffee, I pull out the gift I'd prepared. I hand it over to Seeking the Pearl a little nervously."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh my! You brought a gift for me too?",
+            "choice_data_list": [
+                "It's not much, just a little something, really…"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hmm… Hmmm…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…",
+            "choice_data_list": [
+                "(Argh… I really should've gotten something more extravagant!)"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Thank you sooo much!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I can't believe you said this is \"just a little something.\" Any gift from you is a treasure in my eyes!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I may be a gorgeous Umamusume—as you can clearly see—but that doesn't mean that my gifts need to be lavish or anything."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What makes me happy are the thoughts you mulled over and the time you took while trying to decide what to get me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "All of that is what creates such stupendous experiences for the both of us!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha! Ahaha! Say, is it okay if I go ahead and open this?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoa! This is absolutely amazing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, our glamorous and romantic holiday evening draws to a close."
+        }
+    ]
+}

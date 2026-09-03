@@ -1,0 +1,201 @@
+{
+    "title": "山育ちはたくましい",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On a day off, I'm hiking in the mountains to clear my head when I hear a familiar voice from a nearby suspension bridge."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe, look, Tachyon! I can see some edible plants grow'n on that bank!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Really? Well done, Yukino! Let's go harvest them right away!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "W-wait a sec! Trainer? Who would've thought I'd find you hik'n on the same mountain!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crack, crack, crack! Craaash!</i>",
+            "choice_data_list": [
+                "The suspension bridge just fell!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh dear. There goes our way home.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, the two came here to do some foraging. Agnes Tachyon asked Yukino Bijin to help her collect ingredients containing some special components."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I don't have any signal. Of course, now that I know we won't be getting home any time soon, I'm starting to feel peckish. I don't suppose either of you have any snacks on you?",
+            "choice_data_list": [
+                "This can't be happening. What are we going to do?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Stay calm, both of you! Panic'n's just gonna waste energy!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Now, I don't have any snacks, but I can cook us up someth'n to eat. Just leave it t'me!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I caught a cherry trout! Golly, I'm glad we found a river all the way out here! Now I just gotta throw't in some bamboo and cook it up!",
+            "choice_data_list": [
+                "C-can I help with anything?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You sure can! How 'bout you gather some firewood?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Tachyon, would you mind wash'n the wild veggies we foraged? We'll cook 'em up with some mushrooms once I've dressed the fish."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm. You do realize mountain vegetables tend to be considerably bitter, right? I don't understand how you can be so excited…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Don't worry! The bitterness will all be cooked out. Now come on, start wash'n!",
+            "choice_data_list": [
+                "You're quite reliable.",
+                "You're quite reliable."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Heheh, I just grew up in the mount'ns. I'm used to this sorta thing!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "My grandpa and grandma use t'take me on walks and teach me all kinds of stuff…"
+        },
+        {
+            "name": "Yukino's Grandmother",
+            "text": "Look, Yukino. This's a silverberry. If y'ever get lost in the mountains, y'can eat these."
+        },
+        {
+            "name": "Yukino's Grandfather",
+            "text": "These here're boar tracks. If y'look close, y'can even tell which way it went."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Gee whiz! You two know everyth'n! ♪ What about this plant? Can I eat it?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's thanks to them that I know so much about the mountains! So just relax 'n' leave all this t'me!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm? Wh-what was that noise?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "A deer? A boar? Or… maybe a bear?",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh… Us Umamusume should be able to run away if it comes to it, but…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You two, get behind me. Don't make any sudden movements… Just start slowly back'n away…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If it comes down to it, I'll kick it in the nose. Then, Tachyon, I want you t'put Trainer on your back and run like the wind.",
+            "choice_data_list": [
+                "Yukino!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Gasp!</i> Here it comes!"
+        },
+        {
+            "name": "Hiker A",
+            "text": "Ooh! I knew I smelled something good! Hey, this is a pretty advanced trail, so that must mean you're all seasoned hikers!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Cheese and crackers, mister! I thought you were a bear!",
+            "choice_data_list": [
+                "Thank goodness!",
+                "Thank goodness!",
+                "Thanks for trying to protect us, Yukino."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Cheese and crackers, mister! I thought you were a bear!",
+            "choice_data_list": [
+                "Thank goodness!",
+                "Thank goodness!",
+                "Thanks for trying to protect us, Yukino."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Phew… Nnngh!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yukino?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That scared the heebie-jeebies outta meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She may have looked calm, but how could you <i>not</i> be afraid of a bear? It must've taken everything she had to hide her emotions."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All right, all right. Pull yourself together. It's difficult to tell whether you're actually strong or weak!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Haaaah! I was so scaaared! I'm just glad I get t'see 'nother day!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "C-c'mon now, there wasn't anyth'n to be scared of in the first place, r'member? Turns out we weren't stranded, and that \"bear\" was just a fellow hiker."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nonsense. It's an undeniable fact that your presence put us at ease and allowed us to act calmly.",
+            "choice_data_list": [
+                "Right. You're the reason we could stay calm."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "R-really? Well, I'm pleased as punch that I could help."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe! Well then, let's enjoy this soup and then head home! I'm so glad we're all okay!"
+        }
+    ]
+}

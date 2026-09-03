@@ -1,0 +1,243 @@
+{
+    "title": "突然の巨大トラップ！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Seeking the Pearl",
+            "text": "ENTRAPMENT?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl's scream of despair echoes through the room. It appears her strange-sounding laughter is caused by an illness endemic to Umamusume."
+        },
+        {
+            "name": "Doctor",
+            "text": "Epiglottic entrapment is one of the many illnesses that can affect an Umamusume's respiratory tract."
+        },
+        {
+            "name": "Doctor",
+            "text": "This one is caused by your aryepiglottic folds—that's the tissue right below your epiglottis—getting displaced when you breathe and blocking your throat."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "If they're blocking my throat, then it's no wonder I felt so terrible…"
+        },
+        {
+            "name": "Doctor",
+            "text": "Yes, exactly. It also causes your breathing to become more labored when you run."
+        },
+        {
+            "name": "Doctor",
+            "text": "Rest assured that it won't affect your everyday life. Your laugh should go back to normal soon too. However…",
+            "choice_data_list": [
+                "She won't be able to run long distances anymore, will she?"
+            ]
+        },
+        {
+            "name": "Doctor",
+            "text": "Unfortunately, no. She'll be limited in the distances she can compete in from here on out."
+        },
+        {
+            "name": "Doctor",
+            "text": "There is surgery, but if you go that route, you won't be able to race while you recover."
+        },
+        {
+            "name": "Doctor",
+            "text": "At the very least, you'll have to take a sabbatical of six months."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I see… So I either have to deal with a limit on the races I can run or take a hiatus for at least half a year…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Well… That's quite the bombshell to get hit with. All I can do is laugh."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I promised Dober that I'd run in the Shuka Sho with her."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She doesn't know anything yet. She still thinks she's racing against me…",
+            "choice_data_list": [
+                "I'm guessing you don't want to let her down?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Absolutely not. But…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "There's nothing for either of us to gain by running together with me in this sorry state…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So good luck, Dober. Let's meet again somewhere, sometime."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "We're not so weak that we can't run on our own, after all."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It's time to change directions, Trainer!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Let's take the Shuka Sho off my schedule. That path to the rest of the world is no longer viable to me anymore!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She makes her decision without hesitation. Now our choices are either to push ahead with distance constraints or to pursue surgery and recovery…",
+            "choice_data_list": [
+                "Are you considering the surgery?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I am. I can't <i>not</i> consider it. If I can make a complete recovery with surgery…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Then that's probably the best thing for my body. But if I choose what's best for me, I'll end up losing other things.",
+            "choice_data_list": [
+                "Like what?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Time, for example… Six months at least, and potentially even more than that. If I do take a hiatus…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It'll take a lot longer to deliver hope to the world. Countless people will give up on their dreams."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Even if I make a full recovery and become wildly successful after a few years…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It'll already be too late by then."
+        },
+        {
+            "name": "Monologue",
+            "text": "I see burning resolve in Seeking the Pearl's eyes—the resolve to accept this hardship."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So… I'm not going to get the surgery. My body isn't meant to be protected."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It's meant to achieve its goal! Let's find a way forward even with my distance constraints!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The decision is made. She will continue racing without taking a hiatus, which means…"
+        },
+        {
+            "name": "Monologue",
+            "text": "We'll have to rethink everything and figure out a way to bring Seeking the Pearl onto the world stage in her current state."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Huff… Puff… Huff…</i> It looks like a mile is as much as I can do.",
+            "choice_data_list": [
+                "Sure looks that way.",
+                "Sure looks that way."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After extensive testing, we pin down the distance Seeking the Pearl can currently run."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although we were previously training her for medium-distance races, the best she can do now are sprints, and she can just barely make a mile."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…Okay. Now that we know what I'm capable of, we'll be fine. What race should I do next, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "If we're going to run abroad, we have to do a G1. That means…",
+            "choice_data_list": [
+                "Our only option is the Mile Championship.",
+                "Our only option is the Mile Championship."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The Mile Championship… That's a 1,600-meter race that senior racers also run in…",
+            "color_text_info_list": [
+                "Mile Championship"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A logical choice, seeing as it's the only G1 sprint left this year."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Okay, I'll do it! I'm not afraid of anything—not even going against experienced veterans!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'll grab the gold there and pave the way for my brilliant future in racing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our new goal is the Mile Championship. However, it seems like veteran racers aren't the only ones who'll be standing in our way."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Trainer! Look at this!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It looks like an Umamusume even stronger than any senior-year racer is going to be running in the Mile Championship. Check out this text I got…",
+            "color_text_info_list": [
+                "senior-year"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Pearl! How's your throat doin'? I'm doin' fantastic, myself! ☆"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm plannin' on takin' home a bunch of titles in graded races this fall! ☆ Then I'm gonna take on the Mile Championship and make it mine too!",
+            "color_text_info_list": [
+                "graded races"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Taiki's been winning races nonstop, and now she's even won graded races. She's on an entirely different level."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She'll probably be going into the Mile Championship in top form and looking to win her first G1."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Honestly, that momentum of hers is terrifying. She's probably more of a threat than the senior-year Umamusume are."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle is certainly a formidable rival. But with the Mile Championship being the only G1 mile race left this year, she can't afford to skip it."
+        },
+        {
+            "name": "Monologue",
+            "text": "This will be the first showdown between this now-clouded pearl and the shuttle that's launching sky-high. The Mile Championship is shaping up to be a difficult race."
+        }
+    ]
+}

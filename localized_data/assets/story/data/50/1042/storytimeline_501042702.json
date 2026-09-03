@@ -1,0 +1,211 @@
+{
+    "title": "ポッシビリティの汁物",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Seeking the Pearl and I are walking through the shopping district on our way back from an outing when…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Sniff, sniff…</i> Hmm, what's that lovely aroma? It smells like mellow, well-aged miso."
+        },
+        {
+            "name": "Shopping District Man",
+            "text": "Hey there, miss! You've got a good nose on ya! I got some top-notch miso delivered just the other day. Wanna buy a package and try some?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Sure, I'll take one! With that rich, full-bodied aroma, it's clearly been aged to perfection. I bet you could make a fabulous bowl of miso soup with it!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Let's hurry and test out my intuition! I know a good place where we can do just that. Let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "To make the miso soup, we head to a nearby public barbecue area."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Eating miso soup out in the open air is bound to be a très bien experience!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wowee! Howdy, you two! What're the odds I'd find y'all here?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "You've come at the right time, Taiki. I'm just about to make some miso soup!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Pardon? But isn't this spot for barbecuin'? What're you doin', makin' miso soup out here?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. Didn't you know? Miso soup is a go-to dish when camping! And do you know why that is?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It's because miso paste is made of soybeans, which can help lower your cholesterol!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What's more, the enzymes in miso help with digestion!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa, it's like a miracle food! I had no idea!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It truly is a food with unlimited hidden possibilities. It's a wonder why it isn't eaten all over the world!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "So, how about it? Would you like a bowl?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That there sure is a temptin' offer, but seein' as I've done eaten 'bout two days worth of meat, I don't think I could even hold down a single sip."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's no reason to give up. Here, close your eyes for a moment… Start the music!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After closing my eyes and concentrating on the relaxing music, an image begins to pop into my mind!",
+            "choice_data_list": [
+                "Wh-what on earth?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, can ya see it too, Trainer? This is gettin' kinda exciting, isn't it!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Let's summon the souls of the ingredients with the music! First, let's begin with the tofu—the angel in the world of miso!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Slice it with a smile. ♪ Warm it up all the way through! You're going to be nice and velvety smooth!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Next is the wakame seaweed, which is brimming with calcium and magnesium! Let those nutrients seep right in the broth! ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Time to let the broth dance and mingle in the pot! ♪ Let the umami burst forth!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And now it's time for a mash-up between the broth and the miso! ♪ Hand in hand, they raise the game!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow, the miso smells excellent! My tummy may be full but my mouth's startin' to water…",
+            "choice_data_list": [
+                "Is it almost done? I can't wait to have some!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, your excitement seems to be matching the ingredients'."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "We're not quite there yet! Crank up that passion! The secret to really enjoying miso soup is to get pumped up!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yahoo! Miso soup is THE BEST!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Really <i>feel</i> your body's craving for the soup! C'mon, you too, Trainer!",
+            "choice_data_list": [
+                "Uh, um… Yaaay, miso soup!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's it! Ahh, it's starting to boil! Show that miso soup just how excited you are!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Here we gooo!"
+        },
+        {
+            "name": "Pearl and Taiki",
+            "text": "WOO-HOOOOO!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmmm… It's so weird. I thought I was full, but…"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "This soup is so good, I can't stop drinking it! It's comforting, and goes down so smoothly! ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That must mean you've synced up nicely with the miso soup. See, doesn't it taste amazing?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It's so delicious, I feel like I could have another million helpings! ♪ The flavor of miso soup sure is deep an' complex!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, I'm glad you understand the wonder of miso soup!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Miso soup—the superfood that deserves to be known across the world!",
+            "choice_data_list": [
+                "We need to spread the word!",
+                "We need to spread the word!",
+                "Where did you learn how to make such good miso soup?",
+                "Where did you learn how to make such good miso soup?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Miso soup—the superfood that deserves to be known across the world!",
+            "choice_data_list": [
+                "We need to spread the word!",
+                "We need to spread the word!",
+                "Where did you learn how to make such good miso soup?",
+                "Where did you learn how to make such good miso soup?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Exactly! Let's share the wonder of miso soup with everyone and make it a beloved food around the world!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Let's keep exploring new ways to make it, uncover more possibilities, and continue polishing our skill in the art of making miso soup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl starts making multiple batches of miso soup to explore as many possibilities as she can."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It wasn't something I learned. I just instinctively season the soup based on who I'm serving, so it never tastes the same twice."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "However, the flavor is all the more meaningful precisely because it's a once-in-a-lifetime experience. Come, let's savor this chance encounter to the fullest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl takes a sip of the miso soup and relishes it with a calm, almost saintly expression."
+        }
+    ]
+}

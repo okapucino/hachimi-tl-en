@@ -1,0 +1,212 @@
+{
+    "title": "チケゾー配達日記～蒸気編～",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket has invited me to play a VR game along with Biwa Hayahide and Narita Taishin."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?! You want us to deliver <i>more</i> coal?! This delivery mission should be over already!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "You're free to quit if you don't like it. \"A fool will work to no end, but the wise will prove themselves.\" Heh-heh, run along now."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "What an awesome saying, Mayor! Woohoo, I'm going to become the delivery master!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm… We're on our third additional request. Very strange indeed. This can only mean…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "We need to find a different way to progress. The mayor said that \"the wise will prove themselves\"…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Come on guys, let's get going! Those villagers are counting on that coal!",
+            "choice_data_list": [
+                "Wait, Ticket! Hold on just a—"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right! Time to lug this coal to its destination! You three can catch up later!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh…</i> It's useless. Talking her down when she gets like that is impossible."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, that's true. I'll go keep an eye on her. Maybe there will be some clues to find along the way."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Huff, huff…</i> I'm back, Mayor! I delivered the coal, just like you asked!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "How foolish… Then your next task will be to deliver one hundred parcels. Now listen again—\"A fool will work to no end, but the wise will prove—\""
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whooooa! That's a ton of parcels, but I've got you! I'll deliver them lickety-split!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "H-hey! Can't you let me finish?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Winning Ticket powers through the mayor's unreasonable demands, one after another…"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "Grrr! You mean you've delivered all those, too? N-next is… Oh, right! The flyers! I want you to—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah! I've actually distributed all the flyers already! I also helped organize stock at the market and tidied up the coal mine!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "You what?! Geez… I've never met someone this thickheaded…"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "…Didn't you find my requests odd? One task after another, all of them excessively tedious."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? What's so odd about that? This village seems like it's in a real bind."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There's so much work to do around here. It's all backed up!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "And that's why I'm doing all these errands! Being able to help you and the other villagers makes me so, so…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Incredibly HAPPY!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "…!"
+        },
+        {
+            "name": "Village Mayor",
+            "text": "Hm… You said your name was Tickezo, correct? Here, please accept this reward. Also… the entire village hopes that you'll visit again."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "According to the game data, it appears that Ticket has maxed out her affinity level with the mayor.",
+            "choice_data_list": [
+                "Which means?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…It's not the standard way to progress, but by boosting her affinity with the mayor, Ticket forced the mission to completion."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yaaay! I don't really get how, but we cleared the challenge!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Heh… This takes me back to our early days at Tracen."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Cheers to all of us getting accepted into Tracen! Let's take a photo to celebrate, come on!"
+        },
+        {
+            "name": "Fellow Student",
+            "text": "Huh? Um… you do realize we're going to be competing as rivals, right?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's true! We are rivals, but…"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I want us to embrace the joy of this moment! Then when it comes time to race, we can give it our all! Let's become rivals and friends!"
+        },
+        {
+            "name": "Fellow Student",
+            "text": "…Hehe, I like the way you think. Okay, let's all take a picture together—as friends."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, that time… Everyone just gathered together all of a sudden. I remember thinking Ticket was some goody-goody, nothing like me."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But an enrollment ceremony is a super special occasion! And it makes it all that much better when everyone's happy!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe… You've always been someone who thinks about others and acts for their benefit. That hasn't changed at all."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Yeah, I guess. You're always putting yourself in someone else's shoes."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, and you never fail to move people's hearts with your actions. That includes us.",
+            "choice_data_list": [
+                "She's always around to lend a helping hand.",
+                "She's always around to lend a helping hand.",
+                "Why don't we celebrate our successful mission with a group photo?",
+                "Why don't we celebrate our successful mission with a group photo?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, and you never fail to move people's hearts with your actions. That includes us.",
+            "choice_data_list": [
+                "She's always around to lend a helping hand.",
+                "She's always around to lend a helping hand.",
+                "Why don't we celebrate our successful mission with a group photo?",
+                "Why don't we celebrate our successful mission with a group photo?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "…I am?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, I bet the secret behind it all is her complete selflessness."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today has been a vivid reminder of the genuine affection that Winning Ticket has for others."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oooh! That's a great idea, Trainer!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh. Count me out. That's really not my vibe…"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, I personally think it's a great way to show our thanks to Ticket. Plus, talking her down when she gets like this is impossible, no?"
+        },
+        {
+            "name": "Monologue",
+            "text": "To celebrate clearing the mission, we all bunch up around Winning Ticket for a group photo!"
+        }
+    ]
+}

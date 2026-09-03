@@ -1,0 +1,385 @@
+{
+    "title": "なみだ、きらり",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day after the Shuka Sho, I take Yukino Bijin to visit her hometown of Morioka."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Is it really okay for me t'go back home in this state?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I feel like I'll start bawl'n my eyes out when I see everyone's faces.",
+            "choice_data_list": [
+                "It's perfectly all right if you do.",
+                "It's perfectly all right if you do."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But if I cry m'heart out and then feel all better after, I might not wanna go back to the academy…",
+            "choice_data_list": [
+                "If that happens, I know exactly how to convince you to come back."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh yeah?",
+            "choice_data_list": [
+                "I'll just tell you I love your running too much to see you quit.",
+                "I'll just tell you I love your running too much to see you quit."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thank you, really."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eventually, we arrive at the village where she was born and raised."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Mm…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah! There's noth'n better than the fresh air here!",
+            "choice_data_list": [
+                "All right, let's go pay Mifuyu a visit."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? Mifuyu?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wait, does that mean we're head'n to the skating rink?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Jinkies! It's been ages since I last got t'see Mifuyu skate!",
+            "choice_data_list": [
+                "I hear she's practicing her jumps today!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wow, really? She must be gett'n ready for her badge test…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If she doesn't pass her next one, she won't be able t'enter big competitions."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "The problem is she's always had trouble with her jumps.",
+            "choice_data_list": [
+                "That must be why she's working so hard.",
+                "That must be why she's working so hard."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You're right! But y'know, Mifuyu's real strength lies in her expressiveness."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That's why she'll be invincible if she can nail her jumps, but she's still the berries either way! Hehe, I can't wait t'see her! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin and I head to the skating rink to see Mifuyu. When we arrive…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowzers! It's like she's fly'n!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mifuyu glides effortlessly across the ice, dancing with a graceful weightlessness. The sharp edges of her skates throw a flurry of glittering crystals into the air."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Amaz'n… When'd she get so good? She's so… glam'rous."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Thanks for wait'n up! Welcome back, Yuki!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's great t'see you, Mifuyu! But enough of the pleasantries!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You were <i>incredible</i> out there! Your jumps were stunn'n!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Aw shucks! They weren't that good!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "But you know, I wanted to show off for you after I learned how t'jump properly. ♪ That's why I asked your trainer t'bring you here."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can't b'lieve you're the same Mifuyu I used t'go t'school with! The same one who used t'cry every time you messed up a jump!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You must've been work'n real hard ever since I left for Tokyo!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Hehe… Well, I kinda didn't have a choice."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "I guess it was right about when you ran in the Japanese Oaks that my coach told me t'give up on my dream."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Coach said I didn't have what it takes t'go to the world championship, but that I'm real expressive on the ice and should try doing shows instead."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "I already knew all that, though. People even younger than me were already pass'n all the tests and well on their way to the world championship."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "No way could I compete with them. I started think'n I might not become the person I wanna be—that I might not have what it takes t'reach my dream."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, Mifuyu…"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "But you know what happened? I saw you run! After that, I knew I couldn't give up on my dreams! No way, José!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? My runn'n… did that?"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Yup. I've always looked up t'you, Yuki."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Everyone's had high hopes for your future ever since we were kids. And look at you now, runn'n in all these big-name races!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "I could see how close you'd gotten to your dream, but you were still gritt'n your teeth and try'n as hard as you could to go even further."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "How could I give up, seeing you like that? I wanna be the kind of friend you can be proud of, even while you're shin'n like the sun!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Aw, c'mon. What're you gett'n all teary for?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I mean, it's just… I don't deserve all that praise…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "The truth is, I wanna run away—sometimes I just wanna give up, right here and now."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "But you'd never actually run away, right? Even when Coach was putt'n you through the wringer, you never gave up."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "We've known each other forever, so I know you can be a little timid sometimes."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "But you're also sweet, honest, and stronger than anyone I know! That's the Yuki I know—my super spiffy, extra special best friend!"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "So thank you, Yuki. It's because of you that I was able to stay strong."
+        },
+        {
+            "name": "Mifuyu",
+            "text": "You stopped me from los'n sight of the person I wanna become, and I can't thank you enough for that!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Sniff…</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Waaaaah! M-Mifuyuuu! <i>Sob…</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like that, the dam holding her emotions back suddenly bursts, and tears begin flooding down Yukino Bijin's cheeks."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Sniffle!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Sorry… I'm okay now. I know I can't give up."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I've gotta keep chas'n my dream, just like Mifuyu. I've gotta become a glam'rous city girl!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can't be think'n of quitt'n when my best friend is out there giv'n it her all."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I have t'become the best Umamusume I can be—a strong, stylish city girl who won't lose out t'anyone!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But that's not enough.",
+            "choice_data_list": [
+                "No?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It made me real happy hear'n how Mifuyu felt inspired after watch'n me run."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Maybe that's another thing I wanna do—be a shin'n inspiration for others."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "So it sounds like I got two goals now. First, I wanna run in a way that makes me love myself…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "And I wanna become a city girl that ev'ryone truly loves with all their hearts."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe. Putt'n it into words like that makes it sound like a pretty tall order, though!",
+            "choice_data_list": [
+                "No matter how tall, we'll make it happen!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "We still gotta decide our next race goal, right?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "In that case, there's someth'n I wanna do. I'm done lett'n others push their narratives on me. If all eyes are on me, I wanna be the one operat'n the spotlight.",
+            "choice_data_list": [
+                "Oh? What's your plan?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, I figure a lotta the support I've gotten up till now's been sheer luck."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I just <i>happened</i> t'show up at a time when everyone just <i>happened</i> t'be interested in racers from the countryside."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But so far, I haven't been able to turn the pass'n fancy into anyth'n more substantial."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But y'know what? Not even Oguri started out as a legend."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm sure she must've worked real hard in order t'go from being a mere nine days' wonder to a true mainstay."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Maybe I'm gett'n too big for my britches, but I wanna approach this next adventure like I'm start'n from scratch—go from zero to hero!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna buckle down and focus hard on my train'n so I can show everyone a new me come senior year!",
+            "choice_data_list": [
+                "Then, let's aim for the Osaka Hai."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Osaka Hai is a medium-distance G1 race held at the start of the year. It's usually full of tough opponents, and should be the ideal race for a fresh start."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Sounds good!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "D'you think I can do it?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "D'you think I can make as big a splash as Oguri?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Am I really capable of someth'n that grand?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin's accomplishments in the Triple Tiara tour weren't luck. She earned them with her own strength."
+        },
+        {
+            "name": "Monologue",
+            "text": "And at this point, I know her. She won't give up until she's made sure everyone's seen the real her.",
+            "choice_data_list": [
+                "Show 'em all you mean business!",
+                "Show 'em all you mean business!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right! I'll show ev'ryone just how determined this Morioka racer can be!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, we set the Osaka Hai as our first senior-year race goal.",
+            "color_text_info_list": [
+                "Osaka Hai"
+            ]
+        }
+    ]
+}

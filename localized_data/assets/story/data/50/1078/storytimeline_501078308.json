@@ -1,0 +1,49 @@
+{
+    "title": "安田記念の後に・強く鋭く",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Yamanin Zephyr takes the win! Yamanin Zephyr pushes past a lineup of formidable foes to conquer the Yasuda Kinen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Phew!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "(I did it… Wait, no.)"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This makes… one."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm back, Trainer.",
+            "choice_data_list": [
+                "Congratulations on the win, Zephyr!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Thank you. But I can't dance atop this auspicious updraft forever."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's begin preparations for the next stage—the race to decide the fastest gust of all.",
+            "choice_data_list": [
+                "Right. Next up: the Sprinters Stakes!",
+                "Right. Next up: the Sprinters Stakes!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. We shall blow as a razor-sharp flurry."
+        }
+    ]
+}

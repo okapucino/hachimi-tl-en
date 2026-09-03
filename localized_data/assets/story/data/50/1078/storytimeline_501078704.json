@@ -1,0 +1,240 @@
+{
+    "title": "その風は、木立を抜けて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After an outing, Yamanin Zephyr told me she wanted to walk some more, so we've made our way to the forest."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The sunlight is glistening through the swaying branches… Such an elegant air."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "What an awful blockage!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr's voice hardens. I look around to see plastic bags and empty cans strewn about under the trees."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This clog was not the wind's doing… Someone must have littered here.",
+            "choice_data_list": [
+                "Let's clean up!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, Trainer!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, let's do just that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We get some garbage bags and start cleaning up the forest. The trash seems to be concentrated in one area, so it shouldn't take long to tidy up."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Cans… Plastic packaging… The soil can't make use of any of this."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This will surely disrupt the whirling winds of the ecosystem…"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's an angry tone to Yamanin Zephyr's voice. Knowing how deeply she loves nature, I can imagine how she feels."
+        },
+        {
+            "name": "Monologue",
+            "text": "The least we can do is to clean up all that we—",
+            "choice_data_list": [
+                "Ow!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Trainer? Oh no… Your hand's bleeding. It looks like you cut it on one of the can lids."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Be still. I'll be right back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, she comes back right away, carrying some grass and leaves with her."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "These are medicinal herbs. When I was a child, I used these whenever I got hurt in the forest."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr rips up some of the herbs, then positions them so their oils drip onto my cut. She then places an oval-shaped leaf on top of it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There… That'll be good as a gust in no time.",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I was just thinking about all you've done for me, and wondering why you do it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The forest is a place of both blessings and perils. As we've seen today, injuries do happen."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And yet… you've come to the forest with me regardless, and even helped keep it clean and safe."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm doing these things because I want to know more about her, and because I want to cherish the natural world she loves so much. But before I can explain any of that…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But ultimately… your reasons are but petals in the breeze.",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Regardless of where your actions come from, they are appreciated. You love nature too, and that alone brings me comfort."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A roseate current and a radiant breeze are blowing my way."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, please… Don't let today's events besmirch your opinion of the forest…",
+            "choice_data_list": [
+                "I'll always love the forest!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… What a fresh breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind you bring is always so gentle. Hehe…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "While I would love to stand and be soothed by that comforting breeze indefinitely… the wind is beginning to turn scarlet, isn't it?",
+            "choice_data_list": [
+                "…Should we get back to picking up the trash?",
+                "Let's take a short break.",
+                "You should be careful too!",
+                "You should be careful too!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "While I would love to stand and be soothed by that comforting breeze indefinitely… the wind is beginning to turn scarlet, isn't it?",
+            "choice_data_list": [
+                "…Should we get back to picking up the trash?",
+                "Let's take a short break.",
+                "You should be careful too!",
+                "You should be careful too!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. There isn't much left to collect. Let's finish up and make room for an auspicious updraft to blow through."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh…",
+            "choice_data_list": [
+                "Whoa?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As a sudden burster blows by, everything turns inexplicably white! What's going on?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehehe. Trainer…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's a plastic bag on your face… This trash has made for quite the squall, hasn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing each other's faces, Yamanin Zephyr and I can't help but laugh."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes… Let's do that."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Fa-lalaaa. ♪ Lalaaa. ♪",
+            "choice_data_list": [
+                "You have a nice voice."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my. You're like a nightingale complimenting a robin."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… Aren't you, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr smiles at me. We hum together and enjoy a short break."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm used to this sort of thing, so I'll be okay. Oh, mind that slope ahead, Trainer.",
+            "choice_data_list": [
+                "Oop… I'd better watch my step."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "If you take small steps and drag your feet a little, you should be able to get down safely.",
+            "choice_data_list": [
+                "…Like this?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. That's very good."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, this feels like something of a role reversal. It's as if I'm the trainer today."
+        },
+        {
+            "name": "Monologue",
+            "text": "With Yamanin Zephyr apparently enjoying leading me along, we continue through the forest and ultimately make it back to the academy safe and sound."
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "初詣",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's Day, and I'm on my way to the shrine for my first visit of the year…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Happy New Year, Trainer."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Are you heading to the shrine this year, too?",
+            "choice_data_list": [
+                "Yep.",
+                "Yep."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I see. Actually, there's something I'm hoping to pray for myself, so I was just on my way there too."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Would you mind if I joined you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we end up making our way to the shrine together."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap! Clap!</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Okay. Thank you for waiting."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I hope my prayer travels safely and surely, on the year's first easterly wind.",
+            "choice_data_list": [
+                "What did you pray for?",
+                "What did you pray for?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. I prayed that your year would be as warm as the sunlit breeze, Trainer.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "You've always been right there beside me throughout my time in the Twinkle Series."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Sometimes you're a radiant breeze. At other times, a powerful gale. But you're always a tailwind to me."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That's why I wanted to offer up a prayer—for you.",
+            "choice_data_list": [
+                "Zephyr…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I hope you have a great year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Following our chat, Yamanin Zephyr suggests we take a stroll around the shrine."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It looks like there are a lot of stalls here. They're selling grilled carrots, takoyaki…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, and they're giving out red bean soup over there…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And look how many charms are on sale."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The shrine truly comes to life when the winds of the new year are dancing through it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well, where should we go first?",
+            "choice_data_list": [
+                "Let's head over to the stalls.",
+                "Let's get some red bean soup.",
+                "Let's check out the charms."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Great. There are a lot of stalls here, so let's make our way around like a leisurely breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Something smells nice. A mouth-watering aroma wafting over on the breeze…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. Sorry about that. It's got my stomach rumbling."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Mind if I buy a grilled carrot? They're sweet and <i>very</i> delicious."
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, our second New Year's together draws to a close. I can't wait to spend another thrilling year by Yamanin Zephyr's side."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, how lovely. The mellow breeze is carrying a sweet aroma."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Shall we go and get some?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "<i>Blow…</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Heh, it's still a bit too hot."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind's whooshing through the flowers. Let's let that breeze cool this soup a little longer."
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, our second New Year's together draws to a close. I can't wait to spend another thrilling year by Yamanin Zephyr's side."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. Actually, I was curious about those too."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Their colors are as vivid as the birds that chirp upon the mountainside."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh… That charm looks a little like a Daruma birdie, doesn't it?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And these white and gray ones look like little Salted Bean birds."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "They're adorable. And they ward off illness and injury, apparently."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Excuse me. I'd like two of this one, please.",
+            "choice_data_list": [
+                "Matching charms? Is one of them a gift?",
+                "Matching charms? Is one of them a gift?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes… For you. Heh."
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, our second New Year's together draws to a close. I can't wait to spend another thrilling year by Yamanin Zephyr's side."
+        }
+    ]
+}

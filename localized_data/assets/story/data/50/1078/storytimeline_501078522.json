@@ -1,0 +1,29 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh dear. Is this what they call… a \"breakout\"?",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I am… but it seems the new skincare product I purchased doesn't quite get along with my skin."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'll refrain from using it anymore, and wait for my skin to heal itself."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…While hoping that doesn't take too long."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr continues to worry about her skin for some time."
+        }
+    ]
+}

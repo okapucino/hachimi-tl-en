@@ -1,0 +1,195 @@
+{
+    "title": "クエスト：撤去作業のお手伝い！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I pass by the outdoor stage one day, I spot Narita Taishin."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I figured no one would be using the place at this time of day, but I guess I was wrong. What's with the mountain of boxes?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "They're filled with new yoga mats and stuff… Huh, good quality, too. Why are they all wrapped up, though? These prizes for something?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Oh, hey, Taishin! You here to help pack up, too?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? What are you talking about?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "We're cleaning up the stage after the event the other day. Y'know, like packing up the set and prizes."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez and the others needed some extra hands, so that's why we're here!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "We get to keep any leftover prizes once we're done! It's treasure huntin' time!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmm…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…Count me in. I'll help.",
+            "choice_data_list": [
+                "Let me help out too.",
+                "Let me help out too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I decide to pitch in, and everyone starts taking down the set. We seem to be making pretty good headway, but…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew. There's no end to this! How many more boxes do I have to lug around?! No one told me it'd be this much work!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I underestimated how long this would take… Why'd they even build such a massive set?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Whoooaaa! Comin' through! Outta the way!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?! Hey, look ou—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CRASHHH!</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh…</i> We're finally done.",
+            "choice_data_list": [
+                "Great work, everyone."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Sure, we kinda banged things up a bit, but we still got the job done!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You said it. Anyway, I'm gonna take this yoga mat and—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Actually… Sorry to burst your bubble, but we're not done yet. Ehehe…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…What?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sorry, but there's still more stuff backstage! I really wanted to help Prez out as much as possible, so I told her we'd take care of it all!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you for real? I'm already exhausted as is.",
+            "choice_data_list": [
+                "I'll help out until it's all done.",
+                "Let's find an efficient way to do this."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Siiigh…</i> Damn it. Let's just get this over with."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "<i>Wheeze… Pant…</i> Turbo… boo…oost…"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You look like you're gonna boost yourself flat on your face. No clue how to conserve your energy, huh? Go rest for a bit."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Urgh… O-okay. I'll just take a teeny break!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Teio, be more careful when dismantling the set. Unless you want it to fall apart and crush you. Your funeral."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe, you've got a point. Thanks, Taishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Phew… If this isn't the definition of hard labor, I dunno what is.",
+            "choice_data_list": [
+                "Yet you're still here helping out.",
+                "Yet you're still here helping out."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm not doing this out of the kindness of my heart. I'm only here for the reward."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Enough talk. Get to work."
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes a while, but Narita Taishin manages to finish tidying everything up and gets her well-earned reward."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You can only be so efficient. Do you realize how long it took just to get this spot done?",
+            "choice_data_list": [
+                "Just think of it as a video game quest."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I continue the game metaphor and tell her to decide where to position her party members."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh.</i> A quest, huh?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I guess you'd be an engineer, Teio, since you're dexterous. You handle the delicate work, like dismantling the set and storing any hardware."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "As for Turbo… You're agile, so kind of like a foot soldier, I guess. I want you to focus on carrying things.",
+            "choice_data_list": [
+                "What about me?",
+                "What about me?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…You're a villager.",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "And as a villager, you get the fun task of doing all of the menial odd jobs. Now get to work."
+        },
+        {
+            "name": "Monologue",
+            "text": "We manage to get the job done by following Narita Taishin's instructions, and she receives her well-earned yoga mat."
+        }
+    ]
+}

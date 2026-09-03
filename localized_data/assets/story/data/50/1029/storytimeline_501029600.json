@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "…What's going on here? It's not even cold out, but here I am shiver'n away…"
+        },
+        {
+            "name": "Monologue",
+            "text": "While Yukino Bijin does seem to be trembling a little, it doesn't look like nerves.",
+            "choice_data_list": [
+                "Looks like you're ready to rumble.",
+                "Looks like you're ready to rumble."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Rumble? …Hey, I think I figured it out. Is this what they call \"trembl'n with excitement\"?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's like y'said, Trainer. I wanna win so bad, I'm practic'lly shak'n!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Keep your peepers on me! By the time the race's over, your socks and shoes'll be blown clean off your tootsies!"
+        }
+    ]
+}

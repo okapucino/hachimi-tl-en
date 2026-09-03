@@ -1,0 +1,211 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One winter's eve, I hear the soft sound of wind blowing outside."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…That's the sound of the breeze that bristles the pine needles. Another sign that winter is upon us."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The frosty gales might feel nice on our skin. Shall we go outside and see?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although it looks a little cold out, I can't refuse an invitation from Yamanin Zephyr.",
+            "choice_data_list": [
+                "All right, let's go!",
+                "All right, let's go!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Outside, my breath is visible as white mist. I can't help feeling invigorated by the cold!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This boreal wind… Ngh. It truly feels like it's piercing my skin."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The bleakness of winter is spreading here, too… It feels like a blizzard could begin any moment."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh. Can you hear that, Trainer? It's the breath of revelry, echoing out of season."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Perhaps it's the sound of the Squiggly Horns carrying giving gusts."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "They must be pulling a certain someone's sleigh through the night sky, bringing joy to children everywhere."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm sure they can brave this cold… But let's hope they're blessed by the still of spring all the same.",
+            "choice_data_list": [
+                "Reindeer are used to cold weather. They'll be fine."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, you're right. They have thick fur coats and are very tough animals."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I imagine they could overcome even a piercingly sharp headwind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I could learn from their strength—rather than simply shrinking in the face of the piteraqs from on high, I should boldly brave the gale."
+        },
+        {
+            "name": "Monologue",
+            "text": "The strength to best the headwind… As her trainer, I intend to lend her my full support so she can acquire—",
+            "choice_data_list": [
+                "Ah-<i>choo!</i>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my! Did you catch a cold?",
+            "choice_data_list": [
+                "I'm just a little chilly. I'll be fine!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… Even a storm would be a tender breeze to you, wouldn't it?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well, you'd better stay warm and well. That way, you'll happen upon a breath of fresh air."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr takes out a scarf. Its bright and festive colors are vivid in the evening darkness."
+        },
+        {
+            "name": "Monologue",
+            "text": "She carefully wraps the scarf once, then twice around my neck. Even through the thick scarf, I can feel her compassion."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. It suits you like a snowstorm in winter."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Or perhaps it'd be more fitting to say… you look snug as a Squiggly Horn. Hehehe."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "See how the scarf is all fluffy and warm around your chest? Hehe, it looks good on you."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Consider it a giving gust, from me to you."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The icy wind is unforgiving, but it can also give way to a benison breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Please use that scarf when the winds ahead grow fierce. If you don't mind wearing it, that is…",
+            "choice_data_list": [
+                "I will. It's so warm, there's no way I'm taking it off."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It looks like a radiant breeze has touched you… I'm glad."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe, I expected the gales to be frosty, but thinking back, there was a still serenity outside."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, no… It's just… the early evening breeze is dying down."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Shall we still ourselves before we turn into a pair of icicles?",
+            "choice_data_list": [
+                "Let's embrace the winds together again someday."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Yes. Let's enjoy tomorrow's winds tomorrow."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well then, have a nice evening. Good night."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "<i>Sigh…</i> The early evening breeze is so comfort—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Achoo!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh… Excuse me. It seems the devil's breath is making mischief.",
+            "choice_data_list": [
+                "Let's get you a scarf too.",
+                "Let's get you a scarf too."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, are you sure? That's such an auspicious updraft…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…All right, I'll take you up on that offer."
+        },
+        {
+            "name": "Monologue",
+            "text": "The shops and city streets are bustling with people. Come to think of it, I'm pretty sure Yamanin Zephyr struggles with crowds.",
+            "choice_data_list": [
+                "I'll go pick one up for you."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "How like you—always a comforting breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "However… the winds that follow the still have already begun to brush my cheeks…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I have to overcome the cold currents. We both do, Trainer…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr walks so close that our shoulders almost touch. I match her pace so we don't get separated as we make our way to the store."
+        },
+        {
+            "name": "Monologue",
+            "text": "We push on through the crowds. After finally reaching our destination, we spend some time picking out a nice scarf together."
+        }
+    ]
+}

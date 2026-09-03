@@ -1,0 +1,101 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin says she's been feeling a bit off lately, so the two of us have come to a shrine."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Sorry 'bout this. No matter what I try, I can't seem t'shake m'self from this funk…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "When I thought about it, I realized I haven't been pray'n like I used to. Back home, I'd pray at the shrine in our home every single morning.",
+            "choice_data_list": [
+                "What did you pray for?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I prayed I'd stay healthy, or for nice weather, or for a good harvest. That kinda stuff."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I fell outta the habit, though, so I figured it'd be good t'get back into it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin throws a coin into the offering box, then clasps her hands together with a serious look on her face."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Phew! All done! Now, hopefully…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ring, ring, ring!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, that's my phone. Who could that be?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "R-really?! Y-yes! You can leave't in my room!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Holy smokes! It looks like my prayers've already paid off!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That was Hishiama call'n t'say my family's sent me a whooole bunch of rice and veggies."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "With that much grub, I might be able t'rustle up a feast for the whole dorm t'share!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "We've gotta hurry home and get prepp'n! Come on, Trainer, let's head back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having received a boost in motivation, Yukino Bijin seems to be back to her old self again."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, that's my phone. Who could that be?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hello? What?! Are you kidd'n me?! That's terr'ble…",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Apparently, some crows are mak'n a real mess of the academy garden!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "We hung up some CDs a while back, but these city crows're just too darn clever."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I gotta get back and think up a counterplan…"
+        },
+        {
+            "name": "Monologue",
+            "text": "After hearing the shocking news, Yukino Bijin hangs her head. It look like she'll be in a funk for a little while longer…"
+        }
+    ]
+}

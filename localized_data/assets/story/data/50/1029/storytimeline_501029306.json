@@ -1,0 +1,204 @@
+{
+    "title": "オークスの後に・天使？",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Pant… Pant!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Huff… Wheeze!</i> Ha… Haaah…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Huff…</i> I won!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ev'rybody! I won!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Bandwagon Fan A",
+            "text": "Th-that was scary!"
+        },
+        {
+            "name": "Bandwagon Fan A",
+            "text": "Did you see her eyes? She looked like some kinda maniac! What happened to our Snow Angel?!"
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "She's cute, so why isn't her running cute?! I did <i>not</i> sign up for this…"
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "I think I might be over racing…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huuuuh?! Wh-what's happen'n?!"
+        },
+        {
+            "name": "Racing Fan A",
+            "text": "Good job, Harp Alpha!"
+        },
+        {
+            "name": "Harp Alpha",
+            "text": "…"
+        },
+        {
+            "name": "Racing Fan B",
+            "text": "That was a great race! I know you've got more in ya. The fall races are gonna be a blast!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "(I thought beat'n her would change things. That's why I worked so hard…)"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Was I wrong?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "What makes me and her so diff'rent?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin has managed to defeat a tough opponent, but when she returns to the waiting room, there's nothing but confusion on her face.",
+            "choice_data_list": [
+                "Hey, Yukino."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "Let me start by saying congratulations!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thanks oodles!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You're right! I won, sure as eggs are eggs!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But it sure doesn't feel like it, the way ev'ryone outside's act'n."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Maybe I wasn't cool enough t'win over the crowd like I wanted."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, maybe it'll change when I win the Shuka Sho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Shuka Sho is the final race of the Triple Tiara. If Yukino Bijin is able to win it, all doubts about her skill will be washed away."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "If I nab a killer vict'ry there, maybe the people bummed out today'll start lik'n me again."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Don't y'think?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "How about a word for your fans watching at home? In that cute accent of yours, if you don't mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bridging the gap between what she wants and what the spectators want will be no simple task. But she's trying to remain optimistic.",
+            "choice_data_list": [
+                "That's right.",
+                "That's right."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Um! Can I ask a favor?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna do a race b'fore the Shuka Sho t'make sure I turn heads."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I think it'll help me hold on to this strong desire t'win…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Any idea which one I should do?",
+            "choice_data_list": [
+                "How about the Queen Stakes?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Senior-year runners can also enter the Queen Stakes, which makes it a good place to test her strength and solidify her confidence before the Shuka Sho.",
+            "choice_data_list": [
+                "It's right in the middle of summer camp, so we'll have to travel…"
+            ],
+            "color_text_info_list": [
+                "Senior-year"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That's perfectly peachy t'me! I'm used to long trips!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Okey dokey! I'm gonna kick that race right in the heinie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we decide on the Queen Stakes as our warm-up for the Shuka Sho.",
+            "color_text_info_list": [
+                "Queen Stakes"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "\"And the winner of this year's Japanese Oaks is Yukino Bijin! Regional sensation Yukino Bijin has run away with the win!\""
+        },
+        {
+            "name": "Mifuyu",
+            "text": "Wow. You're incredible, Yuki…"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "I've never seen you look so fierce b'fore… You're so cool I can barely stand it…"
+        },
+        {
+            "name": "Mifuyu",
+            "text": "I gotta keep work'n hard if I wanna make my dream come true too!"
+        }
+    ]
+}

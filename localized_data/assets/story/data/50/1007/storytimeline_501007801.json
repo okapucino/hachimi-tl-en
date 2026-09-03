@@ -1,0 +1,553 @@
+{
+    "title": "海の家（族）",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While out shopping during summer camp, I swing by the beach shack, when…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Welcome, welcome! How many dining today? One? Two? Three dozen?",
+            "choice_data_list": [
+                "…What are you doing?",
+                "…What are you doing?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What else? I'm running a business! How could I not when this beach house just fell into our laps!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're gonna make enough money to renovate this place into a beach <i>palace!</i> In 564 years, they'll be excavating the ruins of it from the seafloor! Right, Nakayama?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, I wouldn't be surprised, considering you're involved. Might as well completely rethink how the world does business too."
+        },
+        {
+            "name": "Monologue",
+            "text": "I peek inside the establishment but don't find any of the normal workers around. Did these two actually take it over?",
+            "choice_data_list": [
+                "(Is this really okay?!)",
+                "(Is this really okay?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Y'know what, you came at just the right time! With you here, this beach family will be unstoppable!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Not even the pressure of the deep sea could crush our bond! This family'll be the best there ever was!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nakayama's the boss! I'm the struggling student! That seagull's the heroine who protects us from the shadows, and you're our beloved paper cup!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Exactly, we gotta develop our menu first! Can't forget yakisoba noodles with 1,000 times the garam masala! Right, Boss?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then there's shaved permafrost and ultimate anchovy blast dumplings! Whoa, it's like there's a geyser of inspiration exploding inside me!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Sure, sounds good. Go crazy.",
+            "choice_data_list": [
+                "Seriously?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This makes me nervous in all kinds of ways… but it's lunchtime, and a horde of students is about to come rushing over for a meal!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "\"Cascading fireworks tofu\"? \"Ancient ocean trench soup\"? Whoa, what kind of food is this? Should we try it?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me. Your yakisoba was really good, Golshi… I want it again."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahh, you appear before me once more, Stomach Monster! This time I'll hit you with my Thousandfold Garam Masala Yakisoba!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm?! Wh-what is this?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…It's delicious!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Wow, it must be good if Oguri likes it! It's the real deal! Hey, I'll take an order too!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Many thanks! In appreciation for all the business, we're holding a special for the next 564 seconds! Free Himalayan-size upgrades for everyone!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Awesome! Let me get one too!",
+            "choice_data_list": [
+                "Business is taking off like a rocket!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I had a hunch it'd be way more interesting to let her go wild."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Just look at those people skills… I could never match that."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Boss! Paper Cup! Quit gawking around and give me a hand! We need the whole family on this one!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hehe… Coming right up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make it through the rush leaving nothing but satisfied customers! Guess it's time to start closing up shop…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "S-sorry! Um, I just want to say… thank you!",
+            "choice_data_list": [
+                "Oh, and you are?",
+                "Oh, and you are?"
+            ]
+        },
+        {
+            "name": "Young Girl",
+            "text": "This is my grandpa's store. But he got sick from the heat…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "He said since everyone from Tracen was excited to come, he'd hate to close the store. He was ready to push himself too hard to keep it open."
+        },
+        {
+            "name": "Young Girl",
+            "text": "But that's when you two said you'd help out.",
+            "choice_data_list": [
+                "So that's what happened.",
+                "So that's what happened."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, don't get the wrong idea. I didn't pitch in because I felt bad or anything."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "It's just, the idea of doing something with someone so unpredictable… sparked my curiosity."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'm not into following the rules or getting things perfect. That's not what makes my heart sing."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehe! I hope you're ready! Tomorrow we're hauling out a mikoshi shrine rigged with flashy lights to draw in more customers!"
+        },
+        {
+            "name": "Young Girl",
+            "text": "Wow! I wanna see that!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, you're as far from the rules as anyone can get."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…In that case, why don't we attach the shrine to a cart and take this shack on the road?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ohh, that's great! We can soup it up with those extra jet engines I've got!"
+        },
+        {
+            "name": "Young Girl",
+            "text": "R-really?! And what else will you do?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They're really pushing each other outside the box… Through their cooperation, the beach shack becomes a big hit during summer camp."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Welcome, welcome! How many dining today? One? Two? Three dozen?",
+            "choice_data_list": [
+                "…What are you doing?",
+                "…What are you doing?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What else? I'm running a business! How could I not when this beach house just fell into our laps!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're gonna make enough money to renovate this place into a beach <i>palace!</i> In 564 years, they'll be excavating the ruins of it from the seafloor! Right, Nakayama?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, I wouldn't be surprised, considering you're involved. Might as well completely rethink how the world does business too."
+        },
+        {
+            "name": "Monologue",
+            "text": "I peek inside the establishment but don't find any of the normal workers around. Did these two actually take it over?",
+            "choice_data_list": [
+                "(Is this really okay?!)",
+                "(Is this really okay?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Y'know what, you came at just the right time! With you here, this beach family will be unstoppable!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Not even the pressure of the deep sea could crush our bond! This family'll be the best there ever was!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nakayama's the boss! I'm the struggling student! That seagull's the heroine who protects us from the shadows, and you're our beloved paper cup!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Exactly, we gotta develop our menu first! Can't forget yakisoba noodles with 1,000 times the garam masala! Right, Boss?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then there's shaved permafrost and ultimate anchovy blast dumplings! Whoa, it's like there's a geyser of inspiration exploding inside me!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Sure, sounds good. Go crazy.",
+            "choice_data_list": [
+                "Seriously?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This makes me nervous in all kinds of ways… but it's lunchtime, and a horde of students is about to come rushing over for a meal!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "\"Cascading fireworks tofu\"? \"Ancient ocean trench soup\"? Whoa, what kind of food is this? Should we try it?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me. Your yakisoba was really good, Golshi… I want it again."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahh, you appear before me once more, Stomach Monster! This time I'll hit you with my Thousandfold Garam Masala Yakisoba!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm?! Wh-what is this?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…It's delicious!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Wow, it must be good if Oguri likes it! It's the real deal! Hey, I'll take an order too!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Many thanks! In appreciation for all the business, we're holding a special for the next 564 seconds! Free Himalayan-size upgrades for everyone!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Awesome! Let me get one too!",
+            "choice_data_list": [
+                "Business is taking off like a rocket!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I had a hunch it'd be way more interesting to let her go wild."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Just look at those people skills… I could never match that."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Boss! Paper Cup! Quit gawking around and give me a hand! We need the whole family on this one!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hehe… Coming right up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make it through the rush leaving nothing but satisfied customers! Guess it's time to start closing up shop…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "S-sorry! Um, I just want to say… thank you!",
+            "choice_data_list": [
+                "Oh, and you are?",
+                "Oh, and you are?"
+            ]
+        },
+        {
+            "name": "Young Girl",
+            "text": "This is my grandpa's store. But he got sick from the heat…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "He said since everyone from Tracen was excited to come, he'd hate to close the store. He was ready to push himself too hard to keep it open."
+        },
+        {
+            "name": "Young Girl",
+            "text": "But that's when you two said you'd help out.",
+            "choice_data_list": [
+                "So that's what happened.",
+                "So that's what happened."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, don't get the wrong idea. I didn't pitch in because I felt bad or anything."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "It's just, the idea of doing something with someone so unpredictable… sparked my curiosity."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'm not into following the rules or getting things perfect. That's not what makes my heart sing."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehe! I hope you're ready! Tomorrow we're hauling out a mikoshi shrine rigged with flashy lights to draw in more customers!"
+        },
+        {
+            "name": "Young Girl",
+            "text": "Wow! I wanna see that!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, you're as far from the rules as anyone can get."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "But hold up a sec. Since the ocean's right here, I'm thinking if we're gonna deck something out in lights, it should be a boat."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh? But we can't hook up bulldozer tracks to a boat! It wouldn't make sense!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh? Then how about we settle this with a contest? Let's see which reigns supreme—bulldozer tracks or boat propeller!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Through a little friendly clash between the two, the beach shack ends up drawing a big crowd each day after."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Welcome, welcome! How many dining today? One? Two? Three dozen?",
+            "choice_data_list": [
+                "…What are you doing?",
+                "…What are you doing?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What else? I'm running a business! How could I not when this beach house just fell into our laps!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're gonna make enough money to renovate this place into a beach <i>palace!</i> In 564 years, they'll be excavating the ruins of it from the seafloor! Right, Nakayama?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, I wouldn't be surprised, considering you're involved. Might as well completely rethink how the world does business too."
+        },
+        {
+            "name": "Monologue",
+            "text": "I peek inside the establishment but don't find any of the normal workers around. Did these two actually take it over?",
+            "choice_data_list": [
+                "(Is this really okay?!)",
+                "(Is this really okay?!)"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Y'know what, you came at just the right time! With you here, this beach family will be unstoppable!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Not even the pressure of the deep sea could crush our bond! This family'll be the best there ever was!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nakayama's the boss! I'm the struggling student! That seagull's the heroine who protects us from the shadows, and you're our beloved paper cup!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Exactly, we gotta develop our menu first! Can't forget yakisoba noodles with 1,000 times the garam masala! Right, Boss?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then there's shaved permafrost and ultimate anchovy blast dumplings! Whoa, it's like there's a geyser of inspiration exploding inside me!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Sure, sounds good. Go crazy.",
+            "choice_data_list": [
+                "Seriously?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This makes me nervous in all kinds of ways… but it's lunchtime, and a horde of students is about to come rushing over for a meal!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "\"Cascading fireworks tofu\"? \"Ancient ocean trench soup\"? Whoa, what kind of food is this? Should we try it?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me. Your yakisoba was really good, Golshi… I want it again."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahh, you appear before me once more, Stomach Monster! This time I'll hit you with my Thousandfold Garam Masala Yakisoba!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm?! Wh-what is this?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…It's delicious!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Wow, it must be good if Oguri likes it! It's the real deal! Hey, I'll take an order too!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Many thanks! In appreciation for all the business, we're holding a special for the next 564 seconds! Free Himalayan-size upgrades for everyone!"
+        },
+        {
+            "name": "Student Customers",
+            "text": "Awesome! Let me get one too!",
+            "choice_data_list": [
+                "Business is taking off like a rocket!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I had a hunch it'd be way more interesting to let her go wild."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Just look at those people skills… I could never match that."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, Boss! Paper Cup! Quit gawking around and give me a hand! We need the whole family on this one!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hehe… Coming right up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make it through the rush leaving nothing but satisfied customers! Guess it's time to start closing up shop…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "S-sorry! Um, I just want to say… thank you!",
+            "choice_data_list": [
+                "Oh, and you are?",
+                "Oh, and you are?"
+            ]
+        },
+        {
+            "name": "Young Girl",
+            "text": "This is my grandpa's store. But he got sick from the heat…"
+        },
+        {
+            "name": "Young Girl",
+            "text": "He said since everyone from Tracen was excited to come, he'd hate to close the store. He was ready to push himself too hard to keep it open."
+        },
+        {
+            "name": "Young Girl",
+            "text": "But that's when you two said you'd help out.",
+            "choice_data_list": [
+                "So that's what happened.",
+                "So that's what happened."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, don't get the wrong idea. I didn't pitch in because I felt bad or anything."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "It's just, the idea of doing something with someone so unpredictable… sparked my curiosity."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'm not into following the rules or getting things perfect. That's not what makes my heart sing."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehe! I hope you're ready! Tomorrow we're hauling out a mikoshi shrine rigged with flashy lights to draw in more customers!"
+        },
+        {
+            "name": "Young Girl",
+            "text": "Wow! I wanna see that!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, you're as far from the rules as anyone can get."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "But, hey, let's cool our jets. I really like your idea and all, but if we go too far, the beach house won't be a beach house anymore."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You just don't get it! The more it evolves, the more epic it'll be!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Yeah, but it's the old man's place, not ours. I'm the boss, right? So let me take the helm on this one."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nakayama Festa keeps Gold Ship from going too far, and through their cooperation, the beach shack turns out a big crowd each day after."
+        }
+    ]
+}

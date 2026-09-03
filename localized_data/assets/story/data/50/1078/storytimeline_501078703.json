@@ -1,0 +1,206 @@
+{
+    "title": "ひよりはどこへ行く",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way home from a day out together, Yamanin Zephyr and I run into a few friends."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hey, it's Zephyr! Were you out with your trainer?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. We were out to savor the tender and sunlit breeze on this lovely day."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "That sounds nice! We went out to try camping, but we came back 'cause we couldn't…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yep. The campsite was just way too crowded."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I assumed a reservation would be unnecessary since the location's restricted to daytime use, but the recent camping craze is not to be underestimated."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh no, what an ill turn of the currents… Quite a shame, given how agreeable the air was today.",
+            "choice_data_list": [
+                "Zephyr, you probably know a few secret camping spots, right?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, I do… They don't have the usual amenities, but if you don't mind that, I could take you to one?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yes, please! If it's somewhere with your seal of approval, it's bound to make for a real authentic camping experience!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We follow Yamanin Zephyr, and the secret spot she takes us to is… a hidden stream in the mountains!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "There's a river! And over there, there's a waterfall! This is amazing! It's like a picture-perfect campsite!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "This is one of my favorite places. It's a nice place to rest while enjoying the azure winds of the east."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Wait, we came empty-handed. I just remembered we were planning to rent equipment on-site… We should've at least brought a mat to sit on."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Don't worry, we'll be all right. The forest has everything we need."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr begins piling up some fallen branches that still have their leaves."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There, our own little nest to sit in. The elasticity of the branches and the softness of the leaves make it quite light and airy."
+        },
+        {
+            "name": "Monologue",
+            "text": "We set about making our camping \"nest\". It's a little tricky to arrange the branches, but we all manage."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aaand… done! Ooh, it looks pretty comfy!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "This has more cushioning than a real camping mat. How impressive!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hey! Look at all these berries I picked from the tree! Apparently, they're all safe to eat, too!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I went and got some spring water, so we can make tea. Let's all have a nice drink together."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Mmm… These berries are surprisingly palatable. They're tart but subtly sweet.",
+            "choice_data_list": [
+                "The tea's really refreshing too!"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hm? Zephyr? What are you—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hyah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After suddenly dashing off towards the river, Yamanin Zephyr walks straight into the water and plunges her hands beneath the surface!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hold on a sec! What's gotten into you?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's lunchtime, so I thought I'd catch some fish to eat."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You don't have to do that! Look at you! You're soaked!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, don't worry. A little splash like this is barely a wisp in the wind. I'm very used to fishing like this."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Getting swept up in a whirlwind alongside the fishies is one of the purest thrills camping can offer. The next fishie I see is mine… Hehe."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "That looks like fun! I wanna catch one too!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hehe. Yes, freshly caught, salt-grilled fish is exactly the kind of gourmet cuisine that's exclusive to camping excursions. Allow me to help!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez… \"Gourmet cuisine\"? All right, you got me. Wouldn't want to be the odd one out! Hyup!",
+            "choice_data_list": [
+                "Let's all catch some fish!"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hahaha! Wait for me!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Turbo! That's right… Swim this way… HAH!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Ooooh! Nice catch, Zephyr!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe, I did it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After enjoying a very Zephyr-esque camping experience, we head back to the academy and part ways in front of the dorm."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The still of evening came out of nowhere, didn't it? I suppose everyone's tuckered out after all our activities.",
+            "choice_data_list": [
+                "Yeah. It was a fun time.",
+                "Aren't you tired?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Fun…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm used to the wind of solitude when camping, but today's extended current… made for a refreshing guise.",
+            "choice_data_list": [
+                "Would you like to go camping with everyone again?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I would. It might be nice to share the bracing breeze with others from time to time."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm not. In fact, I still feel the harmonious breeze. I feel I could have stayed out longer.",
+            "choice_data_list": [
+                "We can pick up where we left off next time.",
+                "We can pick up where we left off next time."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Next time…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr quietly ponders the meaning of those words. I can't help feeling that, deep down inside her, a subtle change is taking place."
+        }
+    ]
+}

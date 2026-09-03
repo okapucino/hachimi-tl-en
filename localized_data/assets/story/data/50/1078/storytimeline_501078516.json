@@ -1,0 +1,82 @@
+{
+    "title": "朝風にいざなわれ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking around town on my day off, I happen to see Yamanin Zephyr leaving a restaurant."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, Trainer. What a coincidence.",
+            "choice_data_list": [
+                "Did you come out to eat?",
+                "Did you come out to eat?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I did. I had a delicious meal with a variety of side dishes, and now I'm perfectly full."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Next up, I'm going to a European salad bar.",
+            "choice_data_list": [
+                "You're going to eat more?!",
+                "You're going to eat more?!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The breeze blowing in through the window this morning was so inviting that I got up bright and early, and have been out and about since."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Then, the light noon breeze reminded me that I had yet to eat at all."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And at that moment, I realized I was starving. So, I have to make up for missing breakfast.",
+            "choice_data_list": [
+                "Just make sure you don't eat too much.",
+                "Just make sure you don't eat too much.",
+                "Good plan. You can't run on an empty stomach.",
+                "Good plan. You can't run on an empty stomach."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "And at that moment, I realized I was starving. So, I have to make up for missing breakfast.",
+            "choice_data_list": [
+                "Just make sure you don't eat too much.",
+                "Just make sure you don't eat too much.",
+                "Good plan. You can't run on an empty stomach.",
+                "Good plan. You can't run on an empty stomach."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Yes, you're right. Maybe my hunger was affecting my judgment."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "An overly strong wind will strew things all over the place. I should ensure that I don't end up a source of disorder myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr heads to the salad bar and eats a reasonable amount of food."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. They have all sorts of vegetables, so I'm in for quite the feast."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well, I'm off to fill my stomach right up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr heads off to the salad bar and savors every kind of vegetable on offer."
+        }
+    ]
+}

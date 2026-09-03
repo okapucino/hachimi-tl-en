@@ -1,0 +1,301 @@
+{
+    "title": "オークスにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the Japanese Oaks…"
+        },
+        {
+            "name": "Bandwagon Fan A",
+            "text": "It's starting! The morning special on Yukino Bijin is about to start!"
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "They pre-recorded a segment, right? Hopefully we'll get a behind-the-scenes look at our angel's daily life. ♪"
+        },
+        {
+            "name": "Newscaster",
+            "text": "We're here today at Tokyo Racecourse!"
+        },
+        {
+            "name": "Newscaster",
+            "text": "It feels like a festival out in the stands! And you'll see why in just a little bit, so don't turn that channel!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "H-hey there! I'm Yukino Bijin!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "T-this cam'ra's gonna be on me like white on rice today, so let's have a good time!"
+        },
+        {
+            "name": "Bandwagon Fans",
+            "text": "Oooh! She's so cute! She really is an angel!"
+        },
+        {
+            "name": "Newscaster",
+            "text": "This young Umamusume from Morioka, Yukino Bijin—but you might know her as the Snow Angel—is the talk of the town!"
+        },
+        {
+            "name": "Newscaster",
+            "text": "And it's not just for her pretty face. We've get a special video of her training, so let's take a first-hand look at her incredible grit!"
+        },
+        {
+            "name": "Bandwagon Fan A",
+            "text": "W-wait a sec! Did they just say \"grit\"?"
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "Is that supposed to describe Yukino? There's no way…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Now I'll show you my usual run!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "HHHRAAAUUGH!"
+        },
+        {
+            "name": "Bandwagon Fans",
+            "text": "…?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Pant… Pant…</i> And last but not least, I'm gonna lift 350 kilos!"
+        },
+        {
+            "name": "Bandwagon Fans",
+            "text": "350?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ngh… Gaaaaah!"
+        },
+        {
+            "name": "Bandwagon Fans",
+            "text": "…"
+        },
+        {
+            "name": "Bandwagon Fan A",
+            "text": "I… I had no idea Yukino was such a monster… She always comes across so ethereal."
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "Yeah. It's almost like… too much."
+        },
+        {
+            "name": "Bandwagon Fan B",
+            "text": "I guess she's not who we thought…"
+        },
+        {
+            "name": "Fans",
+            "text": "Yukinooo!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Y-yikes!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Um… Thanks for cheer'n for me, everyone!"
+        },
+        {
+            "name": "Fans",
+            "text": "SQUEEE! So cute! Good luck out there!"
+        },
+        {
+            "name": "Staff",
+            "text": "Please step back and make some space before someone gets hurt!"
+        },
+        {
+            "name": "Racing Fan A",
+            "text": "Whoa, this is wild. When did Yukino Bijin get so popular?"
+        },
+        {
+            "name": "Racing Fan A",
+            "text": "This Triple Tiara tour feels a bit different than usual."
+        },
+        {
+            "name": "Racing Fan B",
+            "text": "I just hope the craziness doesn't throw Harp Alpha off her game…",
+            "choice_data_list": [
+                "(Harp Alpha…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's another racer many are expecting to win the Tiara tour, and many diehard racing fans are big supporters."
+        },
+        {
+            "name": "Racing Fan B",
+            "text": "She might be on the quiet side, but you can feel her passion. I bet she even has what it takes to win the Arima Kinen!",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Racing Fan B",
+            "text": "Here's hoping she can keep shining, keep winning, and become a star!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah, not again…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Must be nice… I wish people'd talk about me that way…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice something off about Yukino Bijin before the race. At first, I think it's just nerves, but…",
+            "choice_data_list": [
+                "(Is she <i>shaking?</i>)"
+            ]
+        },
+        {
+            "name": "Trainer A",
+            "text": "Hold on a sec, Harp Alpha! Let me check your cleats one last time."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Harp Alpha",
+            "text": "You've already checked them like a million times today. They're fine."
+        },
+        {
+            "name": "Trainer A",
+            "text": "Sorry, but you know how weak your legs are. Your cleats have to be perfect if you're going to keep running for years to come."
+        },
+        {
+            "name": "Harp Alpha",
+            "text": "…Why do you believe in me so much?"
+        },
+        {
+            "name": "Trainer A",
+            "text": "Because I know what you're capable of. Your fans do too. Their support proves how spectacular you are."
+        },
+        {
+            "name": "Trainer A",
+            "text": "Now, get out there and win. Become a star we can all wish upon."
+        },
+        {
+            "name": "Harp Alpha",
+            "text": "…Of course. No one shines brighter than me, after all."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But if she's a star, what does that make me?",
+            "choice_data_list": [
+                "(Looks like Yukino has found herself a rival.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin's eyes follow Harp Alpha as she walks off. I can tell by her face that she's thinking she wants to surpass her.",
+            "choice_data_list": [
+                "You want to beat her, don't you?",
+                "You want to beat her, don't you?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "OHHH!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "That must be it! That's what this feel'n is…",
+            "choice_data_list": [
+                "You didn't realize it?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeah, I guess not… It's like… I've never felt like this b'fore."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "'Course I know that races are all about winn'n and los'n…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But now… Now it's like someth'n's boil'n up inside of me…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna hear people cheer'n me on like that—hear 'em tell'n me I got what it takes <i>to win.</i> Guess that means I wanna beat her, huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…I wanna win."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wanna beat her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin's eyes blaze like a roaring fire."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I feel like something'll change if I beat her."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I don't know what exactly… and at the end of the day, she might come out on top…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But still! Even if she does…",
+            "choice_data_list": [
+                "I know you have what it takes. Besides…",
+                "I know you have what it takes. Besides…"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yes?",
+            "choice_data_list": [
+                "I'm always cheering for you to win.",
+                "I'm always cheering for you to win."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!",
+            "choice_data_list": [
+                "So go out there and do it!",
+                "So go out there and do it!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Get ready for me t'bring back the gold!"
+        }
+    ]
+}

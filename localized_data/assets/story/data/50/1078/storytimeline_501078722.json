@@ -1,0 +1,37 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while talking to Yamanin Zephyr in my office…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh dear, oh dear…",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A storm-force wind rages inside my head…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "These winds wreak havoc as they rush across the fields, but they can be endured if you hide inside a thicket of trees…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I doubt there are any thickets in my head, though…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I do hope it calms down soon… Ow, ow, ow…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Yamanin Zephyr's headache is really bothering her."
+        }
+    ]
+}

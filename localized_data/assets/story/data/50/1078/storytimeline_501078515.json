@@ -1,0 +1,218 @@
+{
+    "title": "それが自然",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "Screechy! Where are you? <i>Screeeeechy!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "On my way home one night, I spot an unlikely group of three students."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I thought that comforting breeze felt familiar… Hello, Trainer.",
+            "choice_data_list": [
+                "Who's Screechy?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A Screecher.",
+            "choice_data_list": [
+                "…A Screecher?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Tannhauser's been seeing this one bulbul bird around the academy the past few days, but apparently it hasn't shown up at all today."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ngh… I was so sure today was the day we'd become friends, and I'd let her perch on my shoulder!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind that blows for Screechy is different from ours. It's delicate, and changes forever when it comes into contact with a different world."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "When a wind changes in nature, it won't easily change back.",
+            "choice_data_list": [
+                "You mean if we rescue the bird, it won't be able to go back into the wild?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That's right."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "O-oh… But how can we be sure she's safe? What if she's been hurt or she's in some kind of trouble?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Even if we can't be together, I still want to check if she's okay."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, of course. It shouldn't hurt to make sure she hasn't been swept up in a storm."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "A storm? Ah! Zephyr, wait!"
+        },
+        {
+            "name": "Peculiar Sounds",
+            "text": "Gyo, gyo, gyo, gyo! Gyoooooh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wah! What are these noises?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Is it a gh-ghost or something? I heard a strange sound coming from over there earlier…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hey, d-don't be ridiculous!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Even if it is a ghost, there's nothing to be afraid of."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A sunny spring breeze and a gloomy winter gale are both types of wind, both forms of life embraced by this Earth."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "To nature, they're equal, and so are we—we comprise but a fraction of the many things that coexist. We may have our differences, but they are trivial."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "If we accept things for what they are without averting our eyes, then the mellow breeze is sure to carry our fears away."
+        },
+        {
+            "name": "King Halo",
+            "text": "I see… Coming from a naturalist like you, that's a pretty convincing point."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mun, mun! Thanks to you, I'm barely afraid at all anymore!",
+            "choice_data_list": [
+                "You really saved the day, Zephyr."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I did? Well, if I managed to chase off everyone's fears, then that's a weight off my wings."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, Tannhauser. Take a look over there."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's Screechy! But wait…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Screechy's with a whole flock of birds."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Screechy… So you were missing all your friends…"
+        },
+        {
+            "name": "Screechy",
+            "text": "<i>Screech! Screech!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Screechy circles around us as if to say goodbye, then flies away towards the mountains with the flock of birds."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I think Screechy is back where she belongs now."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ngh… Screechy…",
+            "choice_data_list": [
+                "You'll see each other again someday.",
+                "It's best to just accept these things."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes… We're all connected, within the same wind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "If you take a stroll through nature, you'll surely meet again."
+        },
+        {
+            "name": "King Halo",
+            "text": "She's right. If you and Zephyr go hiking together, I'm sure Screechy will pop out to say hi sooner or later."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah, you're right… Thanks, everyone!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sob…</i> I guess I'll have to break the news to Coocoo and the others when I get back…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. They were in that tree together, after all."
+        },
+        {
+            "name": "King Halo",
+            "text": "I have a feeling this might happen again…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help feeling that King Halo's intuition is on the money."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. For Screechy, being together with her flock feels natural. That's why it makes her happy."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I get it now… I wouldn't wanna be separated from my friends either."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's send Screechy off with a smile!"
+        },
+        {
+            "name": "Mysterious Voice",
+            "text": "Cheer… up…"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Um… Was that you just now, Zephyr? Or was it you, King? Or Zephyr's trainer?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It wasn't me. By the way, do you remember what I said a little while ago?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "A-about accepting things for what they are without averting our gaze?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I don't know about the rest of you, but I'm out of here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking a confused Yamanin Zephyr by the hand, we all panic and flee the scene together."
+        }
+    ]
+}

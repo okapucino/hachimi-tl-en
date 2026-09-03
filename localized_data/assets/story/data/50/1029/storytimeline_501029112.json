@@ -1,0 +1,249 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Yukino Bijin has a number of victories under her belt…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hot diggity dog!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wow, this place looks like a castle! I can't believe this is the place we get t'stay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin has dug out the coupon she won and brought us on our long-awaited hot spring vacation."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I just love hot springs! Soak'n in the water feels so good, like your whole body's melt'n into a puddle…",
+            "choice_data_list": [
+                "Your body… melts?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yep! There's actually a trick to it…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You just let all your muscles go slack and let the water carry you. Then you'll start float'n, totally weightless."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Next thing y'know, you' ve become one with the water."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But you gotta be careful! If you zone out too much, your mind'll float right off along with your body!",
+            "choice_data_list": [
+                "Er… and has that happened to you before?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Yes."
+        },
+        {
+            "name": "Tourist A",
+            "text": "Hey… Isn't that Yukino Bijin over there?"
+        },
+        {
+            "name": "Tourist B",
+            "text": "Whoa, you're right! I can't believe it! Wanna go ask for a photo? We can post it on Umastagram after!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin's popularity hasn't shown signs of flagging after she put herself on everyone's radar again. At her request, I usually let her deal with fans herself now.",
+            "choice_data_list": [
+                "(Today's special, though…)"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, hold on, Trainer. I'll just—",
+            "choice_data_list": [
+                "It's okay. Leave this to me."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Excuse me."
+            ]
+        },
+        {
+            "name": "Tourist B",
+            "text": "Oh, uh… Yes?",
+            "choice_data_list": [
+                "I couldn't help but overhear… Sorry, but Yukino is on break today."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Interacting with her fans brings her a lot of joy. But just for today, I'd like her to forget her responsibilities and relax.",
+            "choice_data_list": [
+                "Would it possible for you to pretend you didn't see us here?"
+            ]
+        },
+        {
+            "name": "Tourist A",
+            "text": "Oh, sorry, we didn't realize… I guess we just got a little excited."
+        },
+        {
+            "name": "Tourist B",
+            "text": "Of course! We won't post about this anywhere! Sorry, Yukino!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thanks for look'n out for me, Trainer.",
+            "choice_data_list": [
+                "I did it for me, actually.",
+                "I did it for me, actually."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?!",
+            "choice_data_list": [
+                "I wanted to talk with you without anyone distracting us."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, gosh! Th-that's…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Um, uh… Shall we go, then?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ahhh! That water was to die for!",
+            "choice_data_list": [
+                "Did you manage to melt?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I sure did! My body's all loosey-goosey now!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It felt like a real luxury hav'n the whole bath t'myself! I treasured ev'ry second of it."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It'd sure be nice if I could bring my family, Mifuyu, and all the folks back in Morioka here one day!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm gonna need t'put in some real work if I wanna rent this whole place out, though!",
+            "choice_data_list": [
+                "Sounds like you've found a new dream.",
+                "Sounds like you've found a new dream."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe! Seems like I have!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…A dream, huh?",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Actually… I already found m'self another dream.",
+            "choice_data_list": [
+                "Can I ask what it is?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "N-never mind! Forget I said anyth'n!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…O-oh yeah! I almost forgot. Mifuyu asked me t'send her pictures of the inn!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Be back in a jiff!",
+            "choice_data_list": [
+                "…?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's getting a little late, and it could be dangerous for her to wander around on her own, so I decide to go after her."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I <i>tried</i> t'say it, but I just can't!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I mean, you shoulda heard Trainer just now…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can't follow someth'n like that with begg'n for us to keep work'n together!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Uuurgh, I know. I know, but…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Anyway, Trainer's wait'n for me, so… Good gracious! I am <i>not</i> runn'n away! Anyway, g'night, Mifuyu."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Sigh…</i> She's always teas'n me…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "T-T-Trainer!",
+            "choice_data_list": [
+                "Don't worry, we've still got plenty of races ahead of us."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "R-righty-roo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Yukino Bijin and I have formed an irreplaceable bond during this time together."
+        }
+    ]
+}

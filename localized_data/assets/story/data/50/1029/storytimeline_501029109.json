@@ -1,0 +1,381 @@
+{
+    "title": "クリスマス",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "Season's greet'ns, Trainer!",
+            "choice_data_list": [
+                "Season's greetings!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Today's a special day. Yukino Bijin and I are throwing a little holiday party together as a gesture of our appreciation for each other."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You really surprised me, Trainer! I didn't expect you t'deck out your office like this."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Did y'do all this by yourself? The tinsel and the tree too?",
+            "choice_data_list": [
+                "Yep. I thought you'd like it."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, shucks! You've gone above and beyond, then! I'm over the moon!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "All this reminds me of the shindigs I used t'have with my family."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "The moment I stepped in here, I could feel my heart fill'n right up with warm, festive feelings!",
+            "choice_data_list": [
+                "Mission accomplished, then!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "This isn't much by way of thanks, but…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I whipped up some food for us! They're all local dishes from Morioka, and I had my mom coach me through 'em over the phone!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm not too hot when it comes to cook'n, so I was just gonna pop out and pick up some simple side dishes…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But noth'n beats my mom's home cook'n, so I figured I'd give't a go!",
+            "choice_data_list": [
+                "Thank you! I can't wait to try it!",
+                "Thank you! I can't wait to try it!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe. Don't judge it too harshly, 'kay?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I left everyth'n in the hall, so just gimme a second and I'll go fetch't!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle, rattle…</i>"
+        },
+        {
+            "name": "???",
+            "text": "No, I can't… This isn't my food. Must… resist…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "JEEPERS CREEPERS!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm so sorry…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, no need t'apologize! You were just look'n at the food anyway."
+        },
+        {
+            "name": "Monologue",
+            "text": "Alarmed by Yukino Bijin's yelp, I rush out to the hallway to find her standing beside Oguri Cap.",
+            "choice_data_list": [
+                "(Oguri Cap, the Beast…)"
+            ],
+            "color_text_info_list": [
+                "Oguri Cap"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's also from the countryside, but now she's practically an idol in the racing world. It wouldn't be far-fetched to say her popularity has had an influence on Yukino Bijin's."
+        },
+        {
+            "name": "Monologue",
+            "text": "Simply put, she's the pioneer who first walked the path Yukino Bijin now takes. Yukino Bijin has even used Oguri Cap as inspiration during her rough patches."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I've never heard a yelp like that. I must've really scared you."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ah, that's just how we talk back home… And well, overreact'n's a nasty habit o' mine."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Still… I'm sorry for interrupting your party."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Don't you fret! It's all just stuff we're reheat'n anyway. In fact, why don't you join us?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No, I couldn't possibly. Didn't you make all this for your trainer?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm not so hungry that I'd get in the way of something so special."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Grrrowl…</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…Maybe I <i>am</i> that hungry. Could I have just a little bit?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for the food."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Holy smokes… You're like a black hole!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I hear that a lot, but I can't really tell myself…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've always been like this. Even back in Kasamatsu."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Kasamatsu… That's your hometown, right?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes. And you're from Morioka, yes?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? You know where I'm from?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Of course. I've been hearing about you a lot recently."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I hear you've been working hard."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Gadzooks!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Did I… Did I just get a compliment from <i>Oguri?!</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Or well, maybe I've been listening more 'cause of Tama. She's always yelling at me."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? Um…"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "…?",
+            "choice_data_list": [
+                "Why does she always yell at you?",
+                "Why does she always yell at you?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She says I always zone out and don't pay attention to what's happening around me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She says I need to look out for all the people following in my footsteps."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ohhh. That makes sense. There's lots of us, after all."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I don't really get the idea of following in someone's footsteps."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "People can only be themselves. That goes for me and everyone else."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Shouldn't everyone just follow their own path?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I trust Tama, so I've been watching everyone."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And that's how I heard about what you've done. You came here from far away and captured everyone's hearts."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Everyone really loves you."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yes. They really do!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Keep working hard for everyone who's cheering for you."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I will! Thanks!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Golly! Oguri sure is the cat's meow!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I can't believe she knows what I've been up to… I feel like I'm walk'n on air!",
+            "choice_data_list": [
+                "You look fired up!",
+                "You look fired up!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I am! I'm gonna get strong enough t'hold my own against Oguri!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Oh, whoops! The food!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm gonna run to the kitchen and heat everyth'n up!",
+            "choice_data_list": [
+                "I'll help!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Really? Thanks!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "This kinda reminds me of being back home."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "My dad'd get all proud of himself for heat'n up food and my mom would get angry with him.",
+            "choice_data_list": [
+                "Sorry…"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh no! I didn't mean it like that!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Please don't take it the wrong way! Reheat'n food is good enough for me!",
+            "choice_data_list": [
+                "…Pfft.",
+                "…Pfft."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh! You were just teas'n me?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We laugh and spend a fun and lively evening together."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, the food's nice and warm now, so let's tuck in!",
+            "choice_data_list": [
+                "You already heated it up? When?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I snuck out real quick while you were see'n Oguri off.",
+            "choice_data_list": [
+                "You're really on top of things!",
+                "You're really on top of things!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I haven't just been slack'n off these past three years, y'know."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I've grown a lot!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Well, I'd like to think so anyway. What d'you think?",
+            "choice_data_list": [
+                "You've grown a ton!",
+                "You've grown a ton!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ehehe."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There're still times I don't feel confident without you there t'give me a push, though…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Do y'think you can stick 'round for when I'm feel'n down in the dumps?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Thanks a bunch!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, let's get back to the party!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, the two of us have a wonderfully festive time."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "レース入着",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's go, Trainer! We gotta start training, pronto!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I was so close to first place! Which means I need to train even harder for the next race!",
+            "choice_data_list": [
+                "It's okay! You ran great!",
+                "Why don't we review today's race first?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You're right! I gave it my best shot and put up a good fight!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And now, I'd like to run off into the sunset!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Gaaahhh! That's it! I can't take it anymore! I'm gonna run to the river real quick!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sure! Except, I can't possibly sit still right now!",
+            "choice_data_list": [
+                "If we don't talk about it, you'll make the same mistakes again."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ugh… That <i>would</i> be a problem…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! Then let's do it while I lift some weights!"
+        }
+    ]
+}

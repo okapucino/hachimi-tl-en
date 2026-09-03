@@ -1,0 +1,226 @@
+{
+    "title": "風の遊戯",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way home from a day out together, Yamanin Zephyr tells me she wants to feel the wind, so we climb to the top of a hill."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Oh! It's Zephyr and her trainer! Heeey! Over here!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, what a pleasant breeze. Did you two come to feel the wind too?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Heya. Nahhh, we just wanted a change of pace."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Twin Turbo here got a pretty rough score on her quiz the other day, so."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Nature's helping me study! Right now we're just taking a break!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "What about you? Are you on a walk? Wanna hang out with us?!",
+            "choice_data_list": [
+                "It doesn't sound like now's the time for you to be hanging out…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. You're like a teacup typhoon, my energetic and spiky little friend."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "\"Spiky\"?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, break's over. Time to get back to studying, Spiky Turbo."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "\"Spiky Turbo\"?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Your makeup quiz is tomorrow, so we need to review everything again."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Consider us a passing wind with no intention of disrupting you. We'll be over—"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Aww! I'm done studying! I wanna play! C'mon, let's play with Zephyr and her trainer!",
+            "choice_data_list": [
+                "I mean… we wouldn't mind…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I could almost mistake you for Chubby Cheeks the way you hop and plead, Spiky-Spike."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Chubby Cheeks? That's your name for sparrows, right? <i>Sigh…</i> I guess there's no way she's gonna be able to concentrate now, anyhow."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. What would you like to play, Spiky-Spike? Tag? Shall we sing? Or do something else perhaps?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'm not Spiky-Spike! I'm Twin Turbo! And um… uh… I dunno what to choose!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well, take all the time you need to think about it. The wind is very calm at the moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr normally marches to the beat of her own drum, but she seems to be acting differently around Twin Turbo."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well this is sweet. She's treating Twin Turbo like a little forest critter…",
+            "choice_data_list": [
+                "I think you're on to something."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She speaks to Twin Turbo in the same tone of voice she uses for small animals, but Twin Turbo doesn't seem to mind—in fact, she seems to be enjoying it."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I dunno… You like the wind, right? How about we fly a kite? Ah, wait, we don't even have a kite!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, becoming the wind is quite possible, but becoming a kite is not. Do you have any ideas, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having Yamanin Zephyr turn the conversation to me feels like a rare and precious opportunity."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't let her down with my answer. If they don't have a kite, then…",
+            "choice_data_list": [
+                "I'll be your kite!",
+                "I'll be your kite!",
+                "Why not make paper airplanes?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't let her down with my answer. If they don't have a kite, then…",
+            "choice_data_list": [
+                "I'll be your kite!",
+                "I'll be your kite!",
+                "Why not make paper airplanes?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "You'll… be our kite?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Your trainer's awesome, Zephyr! I wanna be a kite too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa, whoa, whoa, you can't just <i>be</i> a kite! C'mon, let's think before we speak here."
+        },
+        {
+            "name": "Monologue",
+            "text": "I panicked and said something weird. I hope Yamanin Zephyr doesn't think I'm unreliable now."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. If I become a sunset storm, I just might be able to hoist you up into the sky."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, your idea wasn't bad at all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr chuckles to herself. Only someone striving to be the wind would say something like that. The thing is, though…",
+            "choice_data_list": [
+                "I don't think I want to fly."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if Yamanin Zephyr becomes the wind, I decide I'd rather keep my feet safe on the ground."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, that could work. But what if they fly off into town?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If we lost them, it'd be littering, and it could be dangerous if any end up on the road."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Amidst the evening breeze, white turns to orange… Spiky-Spike's paper airplane is flying beautifully."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What? You already threw one?! Where is it?!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Over there! It flew really fast 'cause I put a turbo jet on it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the paper airplane flies across the dusk sky, I notice it has lines of text across it.",
+            "choice_data_list": [
+                "…Is that your quiz paper?!"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Huh? Oh yeah! You're right!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You were supposed to correct your mistakes on that one and turn it back in!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. It goes right, then left, flying on and on. The wind simply cannot be captured. I wonder if the whispering wind is having some fun of its own."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "This isn't a game anymore! Go and get it!",
+            "choice_data_list": [
+                "W-wait!"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Ack! It's so high up! I can't reach it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature, Twin Turbo, and I chase after the airborne quiz paper in a panic."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr, meanwhile, calmly watches the paper plane as it rides the wind."
+        }
+    ]
+}

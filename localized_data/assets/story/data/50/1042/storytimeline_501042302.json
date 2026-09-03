@@ -1,0 +1,317 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way home after shopping, I turn around after hearing a voice that sounds like it's resonating through the sky."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "It's calling me… The hot spring is calling me! Welcoming me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "You can hear it too, can't you, Trainer?!",
+            "choice_data_list": [
+                "Huh, what?! U-uh, yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I reflexively answer her non-sequitur question, but I have no idea what she's talking about."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ah, I see. It seems she wants to take part in the raffle. Lucky for her, I just got a raffle ticket from my shopping, so…",
+            "choice_data_list": [
+                "I only have one ticket, but you can have it."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha! I knew I could count on you! You're the best! Okay, here I go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl faces the raffle machine with a serious expression, as if bracing herself for the biggest test of her own luck."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Our future full of big, passionate dreams hinges on this! Come on, hot spring vacation!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl gives the raffle machine a hearty spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! I, Seeking the Pearl, have revealed yet another glimpse into the grand possibilities lying in wait for me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Things are about to get busy! There's hot spring water quality to check and gorgeous dinner menus to look into, after all!",
+            "choice_data_list": [
+                "You even want to know about the food?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Of course! Knowing more about the ingredients will give the food an even deeper flavor, don't you think?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Now that we're on the same page, it's time to start our preparations!",
+            "choice_data_list": [
+                "Huh? Wait, what do you mean \"our\" preparations?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hm? What's the matter? You're going to the hot spring too, aren't you?",
+            "choice_data_list": [
+                "I am?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. Of course you are!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "When it comes time to show off more of my potential to the world again, I'll be sure to prepare for it by polishing myself in the hot spring!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And you'll need to do the same, since you'll be standing next to me through thick and thin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like that, I'm suddenly part of her hot spring trip. Or maybe including me was Seeking the Pearl's intention from the very beginning.",
+            "choice_data_list": [
+                "Okay. I'll make the necessary preparations."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Good! Prepare yourself so we can sparkle fabulously together!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Just you wait! Soon, I, Seeking the Pearl, will make the entire world shine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl holds up the hot spring ticket she received toward the sky proudly."
+        },
+        {
+            "name": "Monologue",
+            "text": "We'll have to continue to work hard to make her vacation dream come true!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hm. I see…",
+            "choice_data_list": [
+                "See what, exactly?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That they tricked us."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I have an excellent palate, and clearly, they wanted me to taste test this delicious hamburger steak."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What an incredibly roundabout way to make this happen, though… It's honestly quite adorable."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "The moment I declare this hamburger steak is scrumptious, it's bound to be become famous and sought after worldwide!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Very well! I'll give this a taste without any further ado!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Time to get cooking, Trainer! Both the meat and carrot boasts a quality that's perfectly befitting of me! You'd best not ruin this meal!",
+            "choice_data_list": [
+                "Wait, <i>I'm</i> the one who has to cook it?!",
+                "Wait, <i>I'm</i> the one who has to cook it?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Oh? Has my sudden dinner invitation bewildered you? Why, there's no need to be shy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We borrow the academy's kitchen, and Seeking the Pearl laughs raucously as we feast upon the deluxe carrot hamburger steak."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha! It's as if my future has been revealed!",
+            "choice_data_list": [
+                "What do you mean by that?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Look at this bushel of carrots… I can hear their cheers for me growing louder and louder!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "That's right! These carrots are none other than my adoring fans, staring at me with stars in their eyes!",
+            "choice_data_list": [
+                "I-I see it! I think?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Wow, this feels good! All right, Trainer! Let's invite all of my fans back to our humble abode!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! We're in for a treat tonight! I'll cook you all up into the finest dishes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So she wants to bring the carrots back to Tracen… and <i>cook</i> them, even though they're supposedly her fans?! The situation is too bizarre for me to even say anything about it."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "La, la, laaa! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, seeing Seeking the Pearl hum happily like this is more precious to me than any raffle prize could ever be."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My, what a bold little carrot. Did it want to be by my side that badly?",
+            "choice_data_list": [
+                "Maybe it did."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Then I'll make sure it doesn't regret choosing me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And what better to do that than with a glacé sauce? Time to make it the sweetest thing in the entire world!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'll split it with you, Trainer! Come along now! Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl takes off with the carrot in her hand, and I chase after her desperately."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A pack of tissues?",
+            "choice_data_list": [
+                "Uh…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I assume she's upset, so I think of something to say to console her, but…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What's this?! It's made in America! I get it now! These tissues were destined to make their way to me!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. I'll make sure these get home safe and sound with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl happily puts the tissues in her pocket."
+        },
+        {
+            "name": "Monologue",
+            "text": "Except… the tissues weren't made in America. The packaging just has popular American characters on them… But I decide not to tell her that."
+        }
+    ]
+}

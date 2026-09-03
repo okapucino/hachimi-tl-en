@@ -1,0 +1,34 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "You're tell'n me you don't have any pickled plums?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Mm… What t'do…",
+            "choice_data_list": [
+                "Is everything all right?",
+                "Is everything all right?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Not really… I've got a real mean headache, so I wanted t'buy some pickled plums…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Evidently, if you stick 'em to your head, your headache'll go away. It's an old folk remedy…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Owww… I've gotta find some fast…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Yukino Bijin's headache is stressing her out."
+        }
+    ]
+}

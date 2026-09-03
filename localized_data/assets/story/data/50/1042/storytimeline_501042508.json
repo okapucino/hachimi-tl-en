@@ -1,0 +1,37 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I stroll around the academy, I spot Seeking the Pearl completely absorbed in a dance."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Pant… pant…</i> Th-that's it! My heart… is rac—"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Huff… Wheeze…</i>",
+            "choice_data_list": [
+                "Are you okay? You shouldn't overwork yourself!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I know… I shouldn't. I'm still tired from my race, but…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm the precious pearl who reveals possibilities to the world! It's my duty to stir people's hearts through my dance!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I need to up the beat even more! Go away, fatigue and exhaustion! No one needs you here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl is as enthusiastic as ever, but she seems worn out from her races. I'll need to rethink her upcoming race schedule."
+        }
+    ]
+}

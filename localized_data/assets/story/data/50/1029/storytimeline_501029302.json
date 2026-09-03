@@ -1,0 +1,425 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while Yukino Bijin and I are on the way home after doing some shopping…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowie! Lookie here, Trainer!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't be shy now! The raffle is a whole lotta fun! Everyone's welcome to give it a try!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wow, they're giv'n away a hot spring vacation? That sounds great! I love hot springs!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I wish I could give the raffle a spin…"
+        },
+        {
+            "name": "Monologue",
+            "text": "That reminds me… I'm sure we got a raffle ticket earlier with our purchases.",
+            "choice_data_list": [
+                "Here, all yours.",
+                "Here, all yours."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Y'mean it?! In that case…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'll give't a go! Wish me luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin gives the raffle machine a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "H-holy smokes!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "T-Trainer! I-I did it! I won us a fancy-schmancy hot spring vacation!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Cheese and crackers, that sure was thrill'n! I've got goosebumps all over!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I've never won a grand prize b'fore!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I almost want you t'pinch me to make sure I'm not dream'n!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "W-wow… In all my years running this raffle, I've never seen anyone get so excited."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I mean, who <i>wouldn't</i> be jump'n for joy? It's the grand prize! It's the grandest of all grand prizes! A hot spring vacation!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Sigh…</i> I can hardly wait…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Right, I have t'put this somewhere safe!",
+            "choice_data_list": [
+                "You don't want to go right away?",
+                "You don't want to go right away?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "No way, José! Now's an incred'bly important time for me, so I gotta keep focused."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm gonna hold on to this and save it as a future treat. That way, I'll be able t'relax properly!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Plus, I'll be able t'work harder knowing it's wait'n for me!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Wow! What admirable self-restraint! That's a great goal too! I'll be cheerin' for ya!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "O-oh! Thank you!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm, hm, hmmm. ♪",
+            "choice_data_list": [
+                "Are you that happy about the hot spring?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, yes, there's that…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But I'm also super happy t'have someone cheer'n me on! No matter how many people tell me that, it's still music t'my ears!",
+            "choice_data_list": [
+                "Let's get more people cheering for you, then!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Good idea! That way when we fin'lly go on our hot spring vacay, I can really kick back and relax!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "We'll have t'make sure you get your fair share of rest and relaxation in too, Trainer!",
+            "choice_data_list": [
+                "…Hm? Me?",
+                "…Hm? Me?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Ah! I-I didn't mean t'assume you'd wanna…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Aaah! Oh my goodness gracious! I-I'm so embarrassed!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I'm so used to us being t'gether that I figured we'd go on vacation t'gether too!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, someone dig me a hole so I can throw m'self in!",
+            "choice_data_list": [
+                "…Let's plan on going together, then.",
+                "…Let's plan on going together, then."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Th-thank you for accept'n my roundabout invite…"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we agree to save the coupon as a reward for her hard work in the future."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowie! That looks absolutely scrumptious!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Back home, I only got t'eat hamburger steaks on special occasions!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There's a famous hamburger steak rest'rant I used t'go to lots with my family."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I always had fun there 'cause they had loads of diff'rent toppings you could choose from, like pineapple and stuff!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "The first time we took my li'l sister there when she got old enough t'go out t'eat, I picked out a bunch of toppings for her."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It made me feel all warm and fuzzy see'n her so happy eat'n the food I chose for her!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…",
+            "choice_data_list": [
+                "Sounds like we gotta buy pineapple."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, the two of us return to the academy and chat cheerfully over our customized hamburger steak."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wowzers! We got a whole crop!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Will you be able to carry them all?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You betcha! Just leave it t'me!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…Heave-ho!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin lifts up the stack of boxes and carries them off like it's nothing."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Whew! We made it!",
+            "choice_data_list": [
+                "Nice job! That was impressive."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Aw, shucks. This is noth'n compared to carry'n farming equipment."
+        },
+        {
+            "name": "Child A",
+            "text": "Wh-whoa!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm?"
+        },
+        {
+            "name": "Child A",
+            "text": "I watched you walk aaall the way here with those carrots! You're sooo strong!"
+        },
+        {
+            "name": "Child A",
+            "text": "Hey, how'dya get so strong anyway?! Please tell me!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hmm? Umm…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "By eat'n lots of carrots, I guess?"
+        },
+        {
+            "name": "Child A",
+            "text": "Ewww! Carrots are yucky! But… if eating them'll make me strong…"
+        },
+        {
+            "name": "Child A",
+            "text": "Hey, can I have one of yours? …I'll try and eat it!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Sure! Give it a go!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Just one, huh?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I know what t'do!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Um! Could I ask a favor, please?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hehe. I'm so glad the clerk agreed t'bake it for us!",
+            "choice_data_list": [
+                "Yeah! It must be nice and toasty!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's also super-duper yummy! Try some, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Nom.</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "How is it?",
+            "choice_data_list": [
+                "Sweet and delicious!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Isn't it just? Someone back home taught me how t'eat 'em like this!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "And now you know too! Everything's com'n up roses!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Just a pack of tissues, huh?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I'm sorry. You were so excited about winning the hot springs coupon too…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, no! There's no need t'apologize!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yukino, you blockhead! What're you doing mak'n other people feel bad for you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin seems more upset about making the raffle clerk feel bad than missing out on the hot spring vacation."
+        }
+    ]
+}

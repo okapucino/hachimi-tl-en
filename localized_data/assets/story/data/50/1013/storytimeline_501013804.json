@@ -1,0 +1,650 @@
+{
+    "title": "貴方は私の",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Mejiro Fan A",
+            "text": "McQueen! Please, give it your all for the fall season!"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Look! I made this golden banner to complement your shimmering splendor!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh my! Thank you very much. I will do my utmost every day to meet your expectations.",
+            "choice_data_list": [
+                "(Her fans really take things to the next level!)"
+            ]
+        },
+        {
+            "name": "Mejiro Fan C",
+            "text": "Wow, what graceful hand waving… McQueen's elegance knows no bounds."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine he's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine she's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan E",
+            "text": "Yes. I'm certain her trainer has exquisite manners! Someone personally selected by McQueen could never say anything uncouth!",
+            "choice_data_list": [
+                "(Uncouth?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A chill runs down my spine. I feel I could shatter their image of me at any given moment. Or worse…",
+            "choice_data_list": [
+                "(What if my actions impact McQueen's image?!)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer? Is something the matter?",
+            "choice_data_list": [
+                "Oh no, th–there is nothing whatsoever amiss, I assure you, Miss McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Trainer? Why are you speaking like that?",
+            "choice_data_list": [
+                "S-sorry! I sounded weird, didn't I?",
+                "S-sorry! I sounded weird, didn't I?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Absolutely inexcusable. I need to learn the basics of proper etiquette as soon as possible!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Goodness."
+        },
+        {
+            "name": "Mejiro Fans",
+            "text": "<i>Chatter, chatter…</i>",
+            "choice_data_list": [
+                "(Her fans are here yet again…)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Do you have a moment, Trainer? I have a suggestion for you today.",
+            "choice_data_list": [
+                "Wh-what is it?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why don't we go somewhere else to talk first? Here, there are far too many eyes on us."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…I believe we've covered enough distance to be safe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So, to get into the crux of things…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Sploosh!</i>",
+            "choice_data_list": [
+                "Ack, that's cold!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't you worry, I've prepared a water gun for you too! Now, go ahead and douse me as much as you see fit!",
+            "choice_data_list": [
+                "Huh, what do you mean?!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I mean what I said. Come on, your guard is completely lowered!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this, and this!",
+            "choice_data_list": [
+                "J-just wait a second!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There's no time to wait! Hehe… hurry up now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen doesn't appear willing to hear me out. So I follow her instructions…",
+            "choice_data_list": [
+                "All right, I won't <i>wait</i> for you, either!",
+                "All right, I won't <i>wait</i> for you, either!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fine by me. Come at me with your best!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm utterly soaked…",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe. There's no need to apologize."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In fact, it's precisely because you approach everything with such intensity that I'm able to be myself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer, you are and always have been a wonderful person. Forcing yourself to change is a wasted effort."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "After all, you are the trainer that I, Mejiro McQueen, have personally chosen.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Should I take a photo of your face right now to serve as a reminder?",
+            "choice_data_list": [
+                "…No, it's fine. I'll always remember today.",
+                "…No, it's fine. I'll always remember today."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe. That settles things, then."
+        },
+        {
+            "name": "Mejiro Fan A",
+            "text": "Oh my goodness, you're soaked from head to toe! What is the cause for this?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh! Well, you see…",
+            "choice_data_list": [
+                "This is part of our special training for the fall season."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Oh my, is that so?! I wouldn't expect anything less from you two! What tactful thinking!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe. Silly you, Trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Perhaps I should have taken a photo of your face after all."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…You look so much more dignified now."
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Look! I made this golden banner to complement your shimmering splendor!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh my! Thank you very much. I will do my utmost every day to meet your expectations.",
+            "choice_data_list": [
+                "(Her fans really take things to the next level!)"
+            ]
+        },
+        {
+            "name": "Mejiro Fan C",
+            "text": "Wow, what graceful hand waving… McQueen's elegance knows no bounds."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine he's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine she's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan E",
+            "text": "Yes. I'm certain her trainer has exquisite manners! Someone personally selected by McQueen could never say anything uncouth!",
+            "choice_data_list": [
+                "(Uncouth?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A chill runs down my spine. I could shatter their image of me at any given moment. Or worse…",
+            "choice_data_list": [
+                "(What if my actions impact McQueen's image?!)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer? Is something the matter?",
+            "choice_data_list": [
+                "Oh no, th–there is nothing whatsoever amiss, I assure you, Miss McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Trainer? Why are you speaking like that?",
+            "choice_data_list": [
+                "S-sorry! I sounded weird, didn't I?",
+                "S-sorry! I sounded weird, didn't I?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Absolutely inexcusable. I need to learn the basics of proper etiquette as soon as possible!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Goodness."
+        },
+        {
+            "name": "Mejiro Fans",
+            "text": "<i>Chatter, chatter…</i>",
+            "choice_data_list": [
+                "(Her fans are here yet again…)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Do you have a moment, Trainer? I have a suggestion for you today.",
+            "choice_data_list": [
+                "Wh-what is it?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why don't we go somewhere else to talk first? Here, there are far too many eyes on us."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…I believe we've covered enough distance to be safe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So, to get into the crux of things…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Sploosh!</i>",
+            "choice_data_list": [
+                "Ack, that's cold!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't you worry, I've prepared a water gun for you too! Now, go ahead and douse me as much as you see fit!",
+            "choice_data_list": [
+                "Huh, what do you mean?!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I mean what I said. Come on, your guard is completely lowered!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this, and this!",
+            "choice_data_list": [
+                "J-just wait a second!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There's no time to wait! Hehe… hurry up now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen doesn't appear willing to hear me out. So I follow her instructions…",
+            "choice_data_list": [
+                "All right, I won't <i>wait</i> for you, either!",
+                "All right, I won't <i>wait</i> for you, either!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fine by me. Come at me with your best!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm utterly soaked…",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe. There's no need to apologize."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In fact, it's precisely because you approach everything with such intensity that I'm able to be myself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer, you are and always have been a wonderful person. Forcing yourself to change is a wasted effort."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "After all, you are the trainer that I, Mejiro McQueen, have personally chosen.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe… but perhaps I got a little carried away there."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I wonder if I can put that down to your influence? …Just kidding."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day…",
+            "choice_data_list": [
+                "McQueen, that was a great time!"
+            ]
+        },
+        {
+            "name": "Mejiro Fan A",
+            "text": "Oh my! McQueen's trainer behaves just as elegantly as her!"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "It goes without saying how tight their bond is! Absolutely splendid!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hey, Trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "See how wonderful of a person you are when you act as your usual self and don't resort to pretenses?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So, please, do not force yourself any further.",
+            "choice_data_list": [
+                "Okay, I won't.",
+                "Okay, I won't."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, that is good to hear."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To tell the truth, seeing you act all formal…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Made me feel like I had lost something."
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Look! I made this golden banner to complement your shimmering splendor!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh my! Thank you very much. I will do my utmost every day to meet your expectations.",
+            "choice_data_list": [
+                "(Her fans really take things to the next level!)"
+            ]
+        },
+        {
+            "name": "Mejiro Fan C",
+            "text": "Wow, what graceful hand waving… McQueen's elegance knows no bounds."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine he's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan D",
+            "text": "I've never had the opportunity to speak with her trainer. But I imagine she's wonderful too."
+        },
+        {
+            "name": "Mejiro Fan E",
+            "text": "Yes. I'm certain her trainer has exquisite manners! Someone personally selected by McQueen could never say anything uncouth!",
+            "choice_data_list": [
+                "(Uncouth?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A chill runs down my spine. I could shatter their image of me at any given moment. Or worse…",
+            "choice_data_list": [
+                "(What if my actions impact McQueen's image?!)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer? Is something the matter?",
+            "choice_data_list": [
+                "Oh no, th–there is nothing whatsoever amiss, I assure you, Miss McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Trainer? Why are you speaking like that?",
+            "choice_data_list": [
+                "S-sorry! I sounded weird, didn't I?",
+                "S-sorry! I sounded weird, didn't I?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Absolutely inexcusable. I need to learn the basics of proper etiquette as soon as possible!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Goodness."
+        },
+        {
+            "name": "Mejiro Fans",
+            "text": "<i>Chatter, chatter…</i>",
+            "choice_data_list": [
+                "(Her fans are here yet again…)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Do you have a moment, Trainer? I have a suggestion for you today.",
+            "choice_data_list": [
+                "Wh-what is it?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why don't we go somewhere else to talk first? Here, there are far too many eyes on us."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…I believe we've covered enough distance to be safe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So, to get into the crux of things…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Sploosh!</i>",
+            "choice_data_list": [
+                "Ack, that's cold!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't you worry, I've prepared a water gun for you too! Now, go ahead and douse me as much as you see fit!",
+            "choice_data_list": [
+                "Huh, what do you mean?!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I mean what I said. Come on, your guard is completely lowered!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Take this, and this!",
+            "choice_data_list": [
+                "J-just wait a second!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There's no time to wait! Hehe… hurry up now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen doesn't appear willing to hear me out. So I follow her instructions…",
+            "choice_data_list": [
+                "All right, I won't <i>wait</i> for you, either!",
+                "All right, I won't <i>wait</i> for you, either!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fine by me. Come at me with your best!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm utterly soaked…",
+            "choice_data_list": [
+                "I'm sorry…"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe. There's no need to apologize."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In fact, it's precisely because you approach everything with such intensity that I'm able to be myself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer, you are and always have been a wonderful person. Forcing yourself to change is a wasted effort."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "After all, you are the trainer that I, Mejiro McQueen, have personally chosen.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe… but perhaps I got a little carried away there."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I wonder if I can put that down to your influence? …Just kidding."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day…",
+            "choice_data_list": [
+                "McQueen, that was a great time!"
+            ]
+        },
+        {
+            "name": "Mejiro Fan A",
+            "text": "Oh my! McQueen's trainer behaves just as elegantly as her!"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "It goes without saying how tight their bond is! Absolutely splendid!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hey, Trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "See how wonderful of a person you are when you act as your usual self and don't resort to pretenses?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Deary me. Ryan, why are you impeding our way forward?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Well, you see… McQueen's looking in top shape today, so I got curious!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm? She looks the same as always to me. Why, she's even together with her trainer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nah, I agree with Ryan, something feels different. Look at her eagerly awaiting her trainer's next instructions!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Settle down now, Palmer. Lean any further and you might grab their attention."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why are you all here?!"
+        },
+        {
+            "name": "The Mejiros",
+            "text": "Eeek! Aaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen, noticing the other Mejiros camping by the rocks, charges after them red-faced."
+        }
+    ]
+}

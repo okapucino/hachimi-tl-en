@@ -1,0 +1,325 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr and I are on our way back from an outing when we notice that a certain corner of the shopping district is particularly busy."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… It seems that area's blooming nicely. It's almost as if a gathering wind is blowing."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New Year's raffle! This year's grand prize is a hot spring vacation for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger steak! Second-prize winners get a bushel of carrots! And third-prize winners can take home a single carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a ticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, that inn…",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I've heard that it's surrounded by gorgeous mountains, and that a soothing breeze often blows through the area."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Supposedly, the place is brimming with little critters and birdies—all kinds of forest wildlife.",
+            "choice_data_list": [
+                "Want to try your luck?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. I do. Let's trust that this chance encounter is a roseate current."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head off to purchase some daily necessities and get our hands on a raffle ticket."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr gives the raffle machine a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's opening…"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize winner! Come and get the coupon for your hot spring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, well this is a surprise. To think I'd actually win…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It feels like a warm summer breeze blowing in winter… Hehe. Life's just full of surprises, isn't it?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, should we go when the balmy breeze blows? Or amidst the autumnal currents?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I do think it'd be best to go when we can relax at our leisure, like a tender breeze."
+        },
+        {
+            "name": "Monologue",
+            "text": "Things are hectic enough at the moment between races and training. A vacation might only exhaust us further.",
+            "choice_data_list": [
+                "How about we shelve the idea until things have calmed down?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hmm…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, good idea. Let's do that. We've happened upon an auspicious updraft, so we should wait for an opportune airstream."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe… It feels like those days we spend waiting for the winds of the new year to blow."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm very excited. How about you?",
+            "choice_data_list": [
+                "Am I coming with you?",
+                "Am I coming with you?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Of course you are. We were both there when the roseate current blew, after all."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…You don't want to come?",
+            "choice_data_list": [
+                "No, that's not it…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's go, then. A trip of lulling winds awaits."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how I came to promise Yamanin Zephyr that we would go on a trip to the hot springs together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner! Congratulations! You get one deluxe carrot hamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "First prize… So I was one step short of the grand prize."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "No, I shouldn't complain. The breeze was sufficiently pleasant."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's a day of natural spontaneity, and we were lucky enough to feel the touch of a divine rumble."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Now, following that stroke of good luck… I'd like to enjoy this in a place where a refreshing breeze blows."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "You're welcome to join me if you'd like."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head up a nearby hill, where a breathtaking view awaits at the top."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Okay, here you are. I got some tea for us too."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The clouds are a beautiful reddish color, aren't they? It'll be twilight soon, and a starlit breeze will be upon us."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gazing at the scenery, we split the hamburger steak between us."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day! You're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, it seems the roseate current has passed us by."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe, but we've won ourselves so many fine-looking carrots. What a rare blessing."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Like the auspicious updraft, their leaves are just lovely."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I can't eat all these by myself, though, and even if I share them with you, there are still too many…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe, I've just thought of a good idea."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Good morning."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's some homemade carrot cake over there. You're welcome to have some, Nature."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh, you made all that cake?! Whoa! Gimme some!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You know, Zephyr, your cooking always has such nice, mild flavor… The taste's real relaxing somehow."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, thank you… Your words come as a harmonious breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, the taste's relaxing… Perhaps I'll take some to Trainer later… Hehe."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my, third place… The grand prize blew far off at sea, I suppose."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It appears this raffle was something of a spiraling whirlwind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I knew this might happen, but… Hehe, well, I suppose it's no good getting your hopes up with these things."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That said, we're lucky to have been blessed with this one carrot."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I don't want it to go to waste… How about I whip something up?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Making use of the carrot, Yamanin Zephyr rustles up some dinner for us both."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's simmered carrot and wild greens with seasonal fish and white rice."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Please enjoy."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us savor a pleasant and subtly flavored meal."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank one! Take this pack of tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh my… I suppose it wasn't to be."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Actually, no—we don't have to turn this breeze into a full-blown haboob."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's no use wallowing in defeat."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'm sure a new wind will blow before long."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she tries to stay positive, Yamanin Zephyr seems ever so slightly disappointed."
+        }
+    ]
+}

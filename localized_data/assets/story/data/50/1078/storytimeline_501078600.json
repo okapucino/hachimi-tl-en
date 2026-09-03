@@ -1,0 +1,34 @@
+{
+    "title": "武者震い",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr paces around the waiting room as the clock ticks down to post time.",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, don't fret. I'm simply surrendering myself to the wind blowing forth from within."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's a severe cyclone dancing inside me. It wants to burst free and sweep up everything in its rapid winds!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I mustn't act rashly, but… I'm just so eager to play with the wind.",
+            "choice_data_list": [
+                "You sure seem ready to race!",
+                "You sure seem ready to race!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I am. Just watch—I'm going to whip up a derecho out there on the track!"
+        }
+    ]
+}

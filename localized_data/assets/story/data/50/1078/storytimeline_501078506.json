@@ -1,0 +1,118 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Passing by the dance studio, I happen to see Yamanin Zephyr inside by herself."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hah! Hup!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hm… It still doesn't feel right…",
+            "choice_data_list": [
+                "Your dancing didn't look bad to me."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, Trainer… And yet, the turbulent winds in my heart won't calm down."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "As one accustomed to melodies carried by the wind and the swaying of the trees, the music and dances of people feel… strange."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "No matter how the wind blows, the lyrics and choreography of this song remain unchanged."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Even if the melody creates discord with the winds of the moment, the performance must go on, against nature…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It's… difficult for me, if not quite as bad as a frosty gale in summer.",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Being the free spirit that she is, conforming to a set dance routine may feel uncomfortable. But there's no opting out of a class assignment…",
+            "choice_data_list": [
+                "Sometimes, you need to ride the headwind, too.",
+                "Why not summon a wind that suits the music?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…The headwind?",
+            "choice_data_list": [
+                "Not every wind will blow to your liking.",
+                "Not every wind will blow to your liking."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That is… very true."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Nature is unpredictable. Sometimes, just when you think a benison breeze is blowing your way, you're confronted with a storm."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, a headwind is simply another kind of wind—which means I must adapt and learn to ride it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Read the wind and adapt… Yes, that encapsulates what living amidst nature is about."
+        },
+        {
+            "name": "Monologue",
+            "text": "Convinced by her own reflections on the topic, Yamanin Zephyr resumes her practice with quiet determination."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "What do you mean by \"summon\"?",
+            "choice_data_list": [
+                "I mean you should practice with someone whose wind suits the song."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her talk about the winds just now may be referring to her own feelings or the mood of the place. If that's the case, getting someone else involved might help."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I see… Well, if I'm looking for someone to help with <i>this</i> song, then…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I'd like <i>you</i> to perform with me, Trainer."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "In the past, I've felt a fair wind blowing my way while in your company.",
+            "choice_data_list": [
+                "I can't take your test with you, though.",
+                "I can't take your test with you, though."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's no rule that says you can't. Join me, and let's summon the wind together.",
+            "choice_data_list": [
+                "Uhhh…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, Yamanin Zephyr and I sing and dance together as her teacher watches on with a forced smile."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Seeking the Pearl…"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "…Oh."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice her looking at a claw machine filled with Umamusume plushies."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "One of my classmates said it's really difficult to win the Cuties from the machines here."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, I love a good challenge, though. Let's give it a try!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Dang it! No good!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "They're not easy to grab… but perhaps that's what makes it exciting…",
+            "choice_data_list": [
+                "Let me show you some of <i>my</i> possibilities!",
+                "Let me show you some of <i>my</i> possibilities!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ooh… I like the way you're talking. Go ahead!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Tag in and swap places with me! Show me what you've got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

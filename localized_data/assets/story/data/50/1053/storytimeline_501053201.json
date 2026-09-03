@@ -1,0 +1,38 @@
+{
+    "title": "スワンSにむけて",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Swan Stakes, where we promised to put Bamboo Memory's skills to the test, is finally here! As for how Bamboo Memory is feeling…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Raaaaah! I'm ready to go, go, GO!",
+            "choice_data_list": [
+                "I can tell! You look really focused!",
+                "I can tell! You look really focused!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah! Honestly, I'm pretty surprised myself!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "My heart's burning up so hot, I feel like I might explode! And I can't stop shaking! But my mind's so clear!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But more than anything, I can't wait to get out there and RUN!",
+            "choice_data_list": [
+                "Show everyone what you're made of!",
+                "Show everyone what you're made of!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Got it! Here I go!"
+        }
+    ]
+}

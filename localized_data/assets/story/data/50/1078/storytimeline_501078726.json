@@ -1,0 +1,45 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Yamanin Zephyr…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, those poor things…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her gaze is fixed on a claw machine filled with Umamusume plushies.",
+            "choice_data_list": [
+                "Are you talking about those plushies?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. The glass is keeping them from feeling the wind…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "If only I could free them, and let them bathe in the breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I don't have much experience with claw machines, though, so I imagine any efforts I make will prove fruitless.",
+            "choice_data_list": [
+                "I'll get you one if you want.",
+                "I'll get you one if you want."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Are you sure? That would be wonderful."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

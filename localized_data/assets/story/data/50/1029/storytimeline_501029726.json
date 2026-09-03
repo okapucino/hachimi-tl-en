@@ -1,0 +1,53 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out with Yukino Bijin…"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hm? Oh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Yukino Bijin's line of sight to find a claw machine filled with a popular type of Umamusume plushies called Cuties."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's full of Cuties now! The prizes were completely diff'rent last time I was here.",
+            "choice_data_list": [
+                "They change out the prizes pretty often.",
+                "They change out the prizes pretty often."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Golly… The prizes in the claw machines back home've been the same my whole life."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I guess that mean if there's someth'n I want, I've gotta snatch it up straight away!",
+            "choice_data_list": [
+                "Do you want a Cutie?",
+                "Do you want a Cutie?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ehehe… Well, they're just so charm'n! Don't you think? I never really saw any back home.",
+            "choice_data_list": [
+                "I'll get you one if you want."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Y-you will?! Well, I think I'll have t'take you up on that offer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

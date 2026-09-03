@@ -1,0 +1,280 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I leave the academy on Valentine's Day to find Bamboo Memory waiting outside covered in mud."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Happy Valentine's Day, Trainer!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "These chocolates are to show you my appreciation for all your hard work every day!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Here you go!",
+            "choice_data_list": [
+                "Uh… thanks?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to focus on the chocolates, but Bamboo Memory seems to notice me stealing glances at her muddied clothes."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hm? Oh, this?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Well, actually, getting these to you was quite the ordeal!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours earlier…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Phew… I've finally made it. The Hidden Gem certainly lives up to its name!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But people say their chocolates are so delicious, they'll bring a tear to your eye—chocolates everyone should try at least once in their life!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If the rumors are true, then… hehe! I sure can't wait to see the look on Trainer's face!"
+        },
+        {
+            "name": "Boar",
+            "text": "<i>Snort, snort… Grumble!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "A boar?! Yikes! What's a boar doing h—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Wait! Are you trying to take my chocolates?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, don't pull on them! Give them back! Grrr!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Graaahhh! There's no WAY I'm letting you have these chocolates! Shoo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ack, now the packaging is all messed up! I'm gonna have to rewrap them…"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rustle, rustle!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…?!"
+        },
+        {
+            "name": "Monkey",
+            "text": "Ooh, ooh, ooh! Eeek!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Now there's a monkey?! These chocolates even entices animals… They really do live up to the hype!"
+        },
+        {
+            "name": "Boar",
+            "text": "<i>Snort!</i> Grrrrr!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You again?! Ugh! You don't give up, do you?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…I've chased around plenty of rule breakers before, but I'm not used to being on the other side of the chase."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Looks like I've gotta handle this head-on!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Wait for me, Trainerrrrrr!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm so glad I managed to get them here!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Um, would you mind trying them right away?! I've been looking forward to seeing your reaction more than anything!",
+            "choice_data_list": [
+                "With pleasure!",
+                "With pleasure!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears these are limited-edition chocolates from a shop called The Hidden Gem. I open the package to reveal what waits inside…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oooh! So these are Hidden Gem chocolates!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh… They look kind of… messy."
+        },
+        {
+            "name": "Monologue",
+            "text": "The chocolates inside the box look as though they've melted."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh nooo! I really did it this time!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I was holding them so tight, they must've melted from my body heat!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm so sorry! This is not at all how I envisioned this!",
+            "choice_data_list": [
+                "It's okay. They look delicious!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Really? But they're so… gloopy…"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't mind a little melted chocolate. Plus, she faced all kinds of danger to get these to me, so I'm definitely going to enjoy them!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You'll really eat them? Oh, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I pick out a piece of chocolate barely holding its shape and pop it in my mouth… which is soon enveloped in sweetness! The rich scent of cacao fills my nostrils!",
+            "choice_data_list": [
+                "Delicious!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But it's so messy… Ooh, you're too kind! Thank you!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But as you can see… my appreciation for you burns bright!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "In fact, it's so intense that it melts chocolate! Hehe! Careful you don't burn yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems I got more than just chocolate this Valentine's Day… I also got a taste of Bamboo Memory's appreciation!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm sorry! I'll fix them!",
+            "choice_data_list": [
+                "They're fine like this."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No way! They need to be proper chocolates if they're going to show my appreciation properly!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! I've got this! I just need to put the chocolate in a mold and let it harden!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "First, I have to melt it some more! Let's get this bowl in some hot water!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Gotta make some delicious chocolate! Let's gooooo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…Hm, not quite! I've gotta make them even more delicious! Have some of this! And this! Aaaand this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splat!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Agh! Now there's chocolate EVERYWHERE!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "There's only enough left for one piece! How could this have happened?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I can't express my gratitude with just this!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm so sorry! I just keep messing it up…",
+            "choice_data_list": [
+                "I appreciate the thought!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, Trainer!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But… no! I'm not giving up! Even if I can only make one small piece of chocolate…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm still going to do it right and fill it with all of my feelings!",
+            "choice_data_list": [
+                "I can't wait to try it!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Great! No matter how many tries it takes, I promise I'll finish it!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sorry for the wait! It really is just one piece. Sorry…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It may be just one piece, but it has a sense of warmth and weight to it, almost as if it's packed with warm feelings."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "H-hey, don't just stare at it like that! Hurry up and eat it!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, but first… Happy Valentine's Day! Again! …Hehe!"
+        }
+    ]
+}

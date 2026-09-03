@@ -1,0 +1,184 @@
+{
+    "title": "紅玉の風を追って",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while Yamanin Zephyr and I are walking along the riverbank, we come across a few familiar faces."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, is that who I think it is?"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Hmm… I don't think it's here. Want to try looking closer to the academy?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "You may return to the dormitory. I shall continue searching here myself."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "But… the handkerchief you lost was given to you by your grandmother, right? It must mean a lot to you, so I want to help you find it."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Greetings. Are the two of you looking for something?"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Oh, yeah… We're searching for Ruby's handkerchief. It's red with a rose embroidered on it in gold thread. You haven't seen it, have you?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Unfortunately, the wind hasn't blown it my way.",
+            "choice_data_list": [
+                "I haven't seen it either.",
+                "I haven't seen it either."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind <i>is</i> quite strong today, though, so perhaps a mischievous wind has flung it off somewhere."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Is that so? It appears that any hope of finding my handkerchief is quickly fading. Well, in that case—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But if the wind was the thief, then we can simply follow its trail to find what it took."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "What? Zephyr! Where are you going?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "The wind has led me to… Ah, hello there, White Waterinas. Have you seen a red handkerchief around?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Is she asking those swans? Ah, Zephyr! Please wait a moment!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A Caw-Caw. I see you rode this wind too."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "And now a crow…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I can feel the wind rising up to the sky, but there's no sign of the handkerchief. If I follow the faded breeze the Caw-Caw rode here on…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It leads to a hive of Buzzy-Wuzzies. Pardon my intrusion."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "\"Buzzy-Wuzzies\"? Those are <i>bees!</i> Quick, get away from the hive!"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "<i>Pant… Pant…</i> After all that walking, we've come full circle back to the academy… But where did Zephyr—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Ruby, is that your handkerchief caught on the tree over there?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Oh! It would appear so."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "But it's quite high up. At that height…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Z-Zephyr?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hup… Hup… The breeze that catches you as you climb really does feel wonderful."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Here you are, Ruby."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Thank you very much."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Pfft! Hahaha! You're amazing, Zephyr!"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Even when we were sure it was a lost cause, you pushed on without hesitation and swept our worries away as casually as the wind blows.",
+            "choice_data_list": [
+                "There's not much Zephyr can't do.",
+                "She's like that when she runs, too.",
+                "She's like that when she runs, too."
+            ]
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Even when we were sure it was a lost cause, you pushed on without hesitation and swept our worries away as casually as the wind blows.",
+            "choice_data_list": [
+                "There's not much Zephyr can't do.",
+                "She's like that when she runs, too.",
+                "She's like that when she runs, too."
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. Yes, I'm quite the capable wind."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "While I feel your methods are a little capricious, I greatly appreciate your help. Regarding a reward for your efforts—"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There's something blowing from the east… It's another offbeat breeze."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Oh…"
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "Hehe. Zephyr's free spirit is one of her charms."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given how whimsical Yamanin Zephyr can be, it gives me peace of mind to know her friends understand her."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I simply follow my wind. I go wherever it takes me, freely and swiftly."
+        },
+        {
+            "name": "K.S.Miracle",
+            "text": "That's a formidable current to be racing against. We'll have to make sure we don't get blown away."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh? …Is this a pair of whirling vortexes I'm sensing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the three of them acknowledging each other as rivals, I look forward to seeing how they'll motivate each other moving forward."
+        }
+    ]
+}

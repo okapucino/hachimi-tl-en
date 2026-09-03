@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Aw… You were so close.",
+            "choice_data_list": [
+                "I really dropped the ball…"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, what are you so down for?! This is a super exciting development!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "We're both tied, zero-zero! In other words, we're rivals with equal prowess!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Now it's a competition to see who can get one first! Good luck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing…"
+        }
+    ]
+}

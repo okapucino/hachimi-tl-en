@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Agh?!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I could have sworn I just felt a cursed wind blowing…",
+            "choice_data_list": [
+                "The windows are closed, though…"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Are they? …Perhaps I'm just imagining things, then."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Still, I don't like this. The wind should only blow when it ought to blow…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her hectic racing schedule seems to be exhausting her. I should probably adjust her schedule moving forward."
+        }
+    ]
+}

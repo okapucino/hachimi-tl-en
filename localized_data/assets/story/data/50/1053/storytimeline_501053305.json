@@ -1,0 +1,221 @@
+{
+    "title": "目標達成の後に・アタシの戦場！",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Spring is here once more. One day, just when I'm about to call an end to Bamboo Memory's training arc…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Thanks for another FIERY training session!",
+            "choice_data_list": [
+                "Good job today."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The time has finally come for us to decide the path Bamboo Memory will take.",
+            "choice_data_list": [
+                "Let's talk about your future races."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh! Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I've gleaned a lot from the training she's done up till now. After agonizing over the information, I'm left with only one conclusion.",
+            "choice_data_list": [
+                "I think you should do sprints and miles."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sprints and miles. As her trainer, I've determined that Bamboo Memory will be at her best running those two distances."
+        },
+        {
+            "name": "Monologue",
+            "text": "But in the end, that's just what I've decided. None of it means anything if my suggestion doesn't align with what Bamboo Memory wants."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she's determined to run in medium and long distances like her friends and take on the Classic Triple Crown tour, then—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Okay, let's do it!",
+            "choice_data_list": [
+                "I just th—huh?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I can't wait to see how well I'll do in sprints and miles!",
+            "choice_data_list": [
+                "Wait, you're really okay with this?",
+                "Wait, you're really okay with this?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course I'm okay with it!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I mean, you believe that's the best way for me to reach the top and make my dream come true, right?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And I trust you! If you say that's what I should run, then that's what I want to do!",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words and eyes both convey her trust in me, and the uncertainty I felt melts away. But a flicker of doubt remains… does she know what this means?",
+            "choice_data_list": [
+                "If you run sprints and miles, you can't race Yaeno and the others.",
+                "If you run sprints and miles, you can't race Yaeno and the others."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I know I could just keep this to myself, but I want Bamboo Memory to make an informed decision—this is <i>her</i> future, after all."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Well… that's what happens when your aptitudes differ. Of course I'd like to run with everyone, but…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I don't think now is the time for that.",
+            "choice_data_list": [
+                "No?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yaeno, Chiyono O, Ardan—everyone has a dream they're striving for!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And all those dreams are big, bright, and beautiful! It's AWESOME!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Seriously, when I think of them becoming my rivals alongside Oguri, I wanna scream with joy!",
+            "color_text_info_list": [
+                "Oguri"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Maybe that's why… I think the way I do."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I came here to meet life-changing rivals and take them on in red-hot, passionate races! If I want to make that a reality…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If I want to make <i>my</i> dream come true, I have to become a super awesome, ultra strong racer worthy of Yaeno and the others!",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I know your dream is to make me the strongest Umamusume, and I believe in your dream more than anyone else!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's why I'm <i>more</i> than ready to take the skills you see in me and blaze down the path you've chosen!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm gonna sprint all-out down that road because I know it'll lead me right to my dream!",
+            "choice_data_list": [
+                "…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Immediately, I want to live up to the trust she places in me. That desire sets my heart alight, banishing any remaining uncertainty."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to communicate that to her. As her trainer, it's my dream to lead her to her dream!",
+            "choice_data_list": [
+                "Let's run in the Swan Stakes."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Swan Stakes is a 1,400-meter G2 turf race held at Kyoto Racecourse at the end of October.",
+            "color_text_info_list": [
+                "Swan Stakes",
+                "G2"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This graded sprint is known as the battleground where racers gather to make a name for themselves in miles and sprints.",
+            "color_text_info_list": [
+                "graded"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the perfect race for Bamboo Memory to test her distance aptitude!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! Time to put everything I've learned to the test! Yaaaaah! I feel like I'm on fire!",
+            "choice_data_list": [
+                "Let's conquer both sprints and miles!",
+                "Let's conquer both sprints and miles!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah!",
+            "choice_data_list": [
+                "And let's make you the strongest in this generation!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "YEAH!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I gonna do it! I'm gonna be the best racer in sprints and miles! And after that…"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'll be able to stand alongside everyone in my generation! I'll be right there with my friends and their passionate dreams! That's how I'll reach my red-hot rivals!",
+            "choice_data_list": [
+                "Burn bright!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "BAMBOO MEMORYYY!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our next goal race is the Swan Stakes! The next phase of Bamboo Memory's racing career, her classic year, starts now!"
+        }
+    ]
+}

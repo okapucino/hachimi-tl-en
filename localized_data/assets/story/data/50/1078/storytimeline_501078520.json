@@ -1,0 +1,199 @@
+{
+    "title": "つむじ風の秘密",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Yamanin Zephyr",
+            "text": "It feels as if the plum-scented breeze is blowing through the air today. Lunch should be delicious."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "But where should I eat?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait a secooond!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Bakushin O?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Congratulations, Zephyr! You've earned yourself a \"Lunch with the Class Representative\" ticket!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A ticket… to lunch with you?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! As class rep, I'm always in very high demand at lunchtime!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But don't be shy! Because for today's lunch period, you have me ALL to yourself!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Whoa! This place feels so nice! It's perfect for our lunch together!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes, that'll be the sunlit breeze. Only… it feels a little weaker than usual today. That's a shame."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh heh heh. Worry not! I've come prepared! Knowing how much you enjoy the wind, I went and borrowed this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, go ahead and enjoy your meal while savoring the breeze!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fan fan fan fan!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh… Some leaves have fallen onto my food."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hwah?! How could this happen?! I'm so terribly sorry!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Don't worry. That's just how the wind blows. And it's a refreshing breeze… one that truly captures the season."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! So does that mean you're not mad?! How kindhearted you are!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hm? I was simply sharing a passing thought."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Nnngh! And you're modest to boot! As class rep, however, I cannot let things end like this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If there's anything I can do to assist you, please let me know! I will solve any problem you present to me!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "There is one thing… Would you mind telling me where the source of your whirling vortex is located?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Here! This is the \"whirling vortex\" you're talking about, yes? Go ahead, behold the swirl of my hair whorl!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Interesting… So even our comprehension of the concept differs."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "All right, then let me ask you one more thing. How do you maintain such vigorous circulation?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Simple! A healthy head of hair is maintained through daily washing! Don't forget to use your fingers to thoroughly massage your scalp!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "So, you drive away the dark winds with daily stimulation. Perhaps adopting the lulling winds of your perspective would help me generate my own vortex…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course it would! Just be sure to work the shampoo into suds! If you're worried about it getting in your eyes, wear a shampoo visor! Don't be embarrassed—I use one too!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That was… quite the sudden scud. I feel as if you've blown a veil from over my eyes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as lunch break is ending, I spot Yamanin Zephyr and Sakura Bakushin O having a lively conversation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Judging from their empty lunch boxes, it looks like they ate together.",
+            "choice_data_list": [
+                "You didn't eat alone today?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, hello. Yes, I was with Bakushin O. She taught me a great deal."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh heh heh. Ask me anything you want! As class rep, I'll answer your every question with panache!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "She's truly a vigorous gale of a person. She even told me the secret of her whirling vortex.",
+            "choice_data_list": [
+                "Let's ask for her secret to winning races too.",
+                "We'd better train you up so she doesn't blaze past you!",
+                "We'd better train you up so she doesn't blaze past you!"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "She's truly a vigorous gale of a person. She even told me the secret of her whirling vortex.",
+            "choice_data_list": [
+                "Let's ask for her secret to winning races too.",
+                "We'd better train you up so she doesn't blaze past you!",
+                "We'd better train you up so she doesn't blaze past you!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I can answer that! The secret to my strength is that I'm in Bakushin Mode 24/7!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "From the moment I wake up to the second my head hits the pillow, I'm in Bakushin Mode! Even during lunchtime, it's BAKUSHIN BAKUSHIN for me!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "A burster that blows on without end! So that's the secret to your strength…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr learns all about Sakura Bakushin O's Bakushin mindset!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes… That way, I can create a whirling vortex of my own!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Feel free to use mine as a reference!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later on, Yamanin Zephyr shows up to training wearing a different expression from usual."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Let's get started, Trainer."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch her, I sense in her an intense determination to win! She must be picturing her rival in her mind's eye…"
+        }
+    ]
+}

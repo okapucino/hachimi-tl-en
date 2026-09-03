@@ -1,0 +1,292 @@
+{
+    "title": "風はつぼみを揺らしたか",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Oh, hi there, Zephyr. How's things?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hello, Zephyr. Are you off to eat lunch?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hello there. Yes, I'd like to bask in this nice sunlit breeze."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I was thinking I'd eat as close to the sun as possible. I haven't yet decided where that will be, though…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "…?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "That sounds like a Brick-Wing's chirping… Hehe. Let's head over that way."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Well then, may the breath of revelry be with you both."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "…And there she goes. That one's as carefree as ever, huh."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Looks like she had a packed lunch again today. Guess it's just as well I didn't invite her to come join us at the cafeteria."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Well, it's not like she's particularly cold. I'm sure she would have considered your offer if you'd asked."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "She really is a free-roaming wind, though—unbound by anyone or anything."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeahhh, she really is… But still."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's why I felt like it'd be worth asking if she wanted to come hang with us from time to time, y'know?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm not sure what it is, but lately, I feel like her vibe's changed a teensy bit from how it was before."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hmm, maybe \"changed\" is the wrong word. It's more like she's chang<i>ing,</i> y'know?"
+        },
+        {
+            "name": "Monologue",
+            "text": "…I'm pretty sure it was shortly after I became Yamanin Zephyr's trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Following a sudden downpour, we cut training short and ended up watching TV in my office…"
+        },
+        {
+            "name": "TV",
+            "text": "…Next up, it's our \"Catch a Rising Star\" segment!"
+        },
+        {
+            "name": "TV",
+            "text": "We'll be taking a look at the most anticipated debuts coming up this year! Could the next turf hero be among them? Stay tuned!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh… Trainer, the sable squall outside has given way to some pale puffs.",
+            "choice_data_list": [
+                "So… you mean it looks like the rain's let up?",
+                "So… you mean it looks like the rain's let up?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Yes. I think I'll be able to run now. Let's get back to our training."
+        },
+        {
+            "name": "TV",
+            "text": "First up, we have a racer whose powerful stride is expected to make a real impact in the mile tour…",
+            "choice_data_list": [
+                "…Don't you want to watch the rest?",
+                "…Don't you want to watch the rest?"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Why… would I?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I suspect they might highlight some tough opponents worth keeping an eye on, but before I get the chance to mention that…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "When I race, I'm going to become the true wind."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "However fiercely the derecho attempts to shred its surroundings…"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I will become the strongest, and the fastest, and I will outrun all of the chaos."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…That is all."
+        },
+        {
+            "name": "Monologue",
+            "text": "I felt it during her debut race—no, even back when we very first met, but… Yamanin Zephyr's particular brand of nonchalance is a cut above the rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's unshaken, unbound, and impervious to influence… She's the embodiment of a free wind."
+        },
+        {
+            "name": "Monologue",
+            "text": "…Well, at least she <i>was.</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…",
+            "choice_data_list": [
+                "(Her eyes are glued to the TV…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I try calling out to her several times, but receive no response whatsoever."
+        },
+        {
+            "name": "Monologue",
+            "text": "She may be a formless wind, but the TV has grabbed hold of her and won't let go. Right there, on the screen, is her fated opponent."
+        },
+        {
+            "name": "Caster",
+            "text": "It's Tokai Teio! Tokai Teio takes the lead! She's <i>charging</i> up the final hill, the Satsuki Sho in her sights!",
+            "color_text_info_list": [
+                "Satsuki Sho"
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "Tokai Teio is leading the pack! There's that turn of foot we've heard so much about! …Aaand Tokai Teio finishes in first place!"
+        },
+        {
+            "name": "Caster",
+            "text": "Tokai Teio takes the win! It's Tokai Teio! The <i>incredible</i> and undefeated Monarch!",
+            "color_text_info_list": [
+                "undefeated Monarch"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "And there you have it! I hope you all enjoyed those stunning highlights from the recent races!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Tokai Teio, once again, let me congratulate you on your <i>fourth</i> consecutive win since your debut!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, thank you! ♪"
+        },
+        {
+            "name": "Reporter A",
+            "text": "True to your word, you've made it to the Satsuki Sho—the first race of the Classic Triple Crown—without having suffered a single defeat!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "We'd love to hear what we can expect from you next!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You can expect me to win! Four consecutive victories isn't enough for me—I'm just getting started!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna win the Satsuki Sho, the Japanese Derby, and the Kikuka Sho, and become an undefeated Triple Crown champion!",
+            "color_text_info_list": [
+                "Kikuka Sho"
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I knew it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamanin Zephyr murmurs quietly as she gazes at the confidently grinning Tokai Teio."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to have had something of a fixation on Tokai Teio—and her alone—for some time now, but…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since she told me they'd had a heart-to-heart, it's like the feelings she's harboring are growing more and more intense."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "(Undefeated Triple Crown champion… The title once earned by the Emperor.)",
+            "color_text_info_list": [
+                "Emperor"
+            ]
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "(So you're chasing the winds of inspiration yourself, Teio. I thought you might be…)"
+        },
+        {
+            "name": "Reporter A",
+            "text": "So, all that's left for you to do now is follow the path to becoming the Emperor of the new generation, is that right?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? Oh. Well…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mmm, not quite!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…Oh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've always looked up to Prez. That's why I want to become an undefeated Triple Crown champion, just like she did."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But that's not my goal! My dream's way further down the track."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna be a Monarch who surpasses even the Emperor!",
+            "color_text_info_list": [
+                "Monarch"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Someday, I'm gonna rise above the one who inspired me! I'll be the ultimate undefeated Monarch!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "…!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "(Rise above…)"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Rise above your inspiration…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A strong wind suddenly bursts in through the open window, carrying a single cherry blossom petal into the room."
+        },
+        {
+            "name": "Monologue",
+            "text": "With the New Zealand Trophy right around the corner, a wild spring is about to begin."
+        }
+    ]
+}
