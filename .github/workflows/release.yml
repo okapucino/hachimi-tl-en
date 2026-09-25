@@ -2,7 +2,7 @@ name: Generate index
 
 on:
   push:
-    branches: 'main'
+    branches: 'experimental'
     paths:
       - 'localized_data/**'
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin main
-          git merge -X theirs origin/main
+          git merge -X theirs origin/experimental
 
       - uses: actions/setup-python@v5
         with:
